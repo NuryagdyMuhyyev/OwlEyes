@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/02/2024 02:14:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/02/2024 03:15:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5627-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5627-1-firefox-esr-security-update.48772/)|Visit link for details.|Feb 21, 2024|
+ |[USN-6647-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6647-1-linux-kernel-vulnerabilities.48771/)|Visit link for details.|Feb 21, 2024|
+ |[USN-6584-2: Libspf2 vulnerabilities](https://www.linux.org/threads/usn-6584-2-libspf2-vulnerabilities.48770/)|Visit link for details.|Feb 21, 2024|
+ |[USN-6646-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6646-1-linux-kernel-vulnerabilities.48768/)|Visit link for details.|Feb 21, 2024|
+ |[USN-6645-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6645-1-linux-kernel-vulnerability.48767/)|Visit link for details.|Feb 21, 2024|
+ |[USN-6625-3: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6625-3-linux-kernel-raspberry-pi-vulnerabilities.48761/)|Visit link for details.|Feb 20, 2024|
+ |[USN-6644-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6644-1-libtiff-vulnerabilities.48757/)|Visit link for details.|Feb 20, 2024|
+ |[USN-6643-1: NPM IP vulnerability](https://www.linux.org/threads/usn-6643-1-npm-ip-vulnerability.48756/)|Visit link for details.|Feb 20, 2024|
+ |[USN-6642-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6642-1-bind-vulnerabilities.48755/)|Visit link for details.|Feb 20, 2024|
+ |[USN-6641-1: curl vulnerability](https://www.linux.org/threads/usn-6641-1-curl-vulnerability.48754/)|Visit link for details.|Feb 20, 2024|
+ |[DSA-5626-1 pdns-recursor - security update](https://www.linux.org/threads/dsa-5626-1-pdns-recursor-security-update.48743/)|Visit link for details.|Feb 19, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,65 +62,20 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/13/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 13, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6647-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6647-1-linux-kernel-vulnerabilities.48771/)|Visit link for details.|Feb 21, 2024|
- |[USN-6584-2: Libspf2 vulnerabilities](https://www.linux.org/threads/usn-6584-2-libspf2-vulnerabilities.48770/)|Visit link for details.|Feb 21, 2024|
- |[USN-6646-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6646-1-linux-kernel-vulnerabilities.48768/)|Visit link for details.|Feb 21, 2024|
- |[USN-6645-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6645-1-linux-kernel-vulnerability.48767/)|Visit link for details.|Feb 21, 2024|
- |[USN-6625-3: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6625-3-linux-kernel-raspberry-pi-vulnerabilities.48761/)|Visit link for details.|Feb 20, 2024|
- |[USN-6644-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6644-1-libtiff-vulnerabilities.48757/)|Visit link for details.|Feb 20, 2024|
- |[USN-6643-1: NPM IP vulnerability](https://www.linux.org/threads/usn-6643-1-npm-ip-vulnerability.48756/)|Visit link for details.|Feb 20, 2024|
- |[USN-6642-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6642-1-bind-vulnerabilities.48755/)|Visit link for details.|Feb 20, 2024|
- |[USN-6641-1: curl vulnerability](https://www.linux.org/threads/usn-6641-1-curl-vulnerability.48754/)|Visit link for details.|Feb 20, 2024|
- |[DSA-5626-1 pdns-recursor - security update](https://www.linux.org/threads/dsa-5626-1-pdns-recursor-security-update.48743/)|Visit link for details.|Feb 19, 2024|
- |[DSA-5625-1 engrampa - security update](https://www.linux.org/threads/dsa-5625-1-engrampa-security-update.48723/)|Visit link for details.|Feb 17, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0153/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 février 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0152/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 21 février 2024|
+ |[Multiples vulnérabilités dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0151/)|De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 21 février 2024|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0150/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 février 2024|
  |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0149/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 février 2024|
  |[Vulnérabilité dans Kaspersky Anti Targeted Attack](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0148/)|Une vulnérabilité a été découverte dans Kaspersky Anti Targeted Attack. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 février 2024|
  |[Vulnérabilité dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/)|Une vulnérabilité a été découverte dans |Publié le 19 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0146/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0145/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0144/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0143/)|De multiples vulnérabilités ont été découvertes dans Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 février 2024|
- |[Vulnérabilité dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0142/)|Une vulnérabilité a été découverte dans NetApp SnapCenter. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 février 2024|
- |[Vulnérabilité dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0141/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 16 février 2024|
- |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 février 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240221)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, remote code execution and denial of service condition on the targeted system.|Release Date: 21 Feb 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Feb 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and cross-site scripting on the targeted system. [Updated on 2024-02-19] For...| Release Date: 9 Feb 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 8 Feb 2024 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 19 Feb 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240216)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 16 Feb 2024 |
- |[ISC BIND Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/isc-bind-denial-of-service-vulnerabilities_20240216)|Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 16 Feb 2024 |
- |[Microsoft Monthly Security Update (February 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2024)|[Updated on 2024-02-16] Exploit in the wild has been detected for CVE-2024-21410, affecting Microsoft Exchange Server. The vulnerability could be exploited by sending a crafted request to steal user's NTLM hash. Proof of Concept exploit...| Release Date: 14 Feb 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[PostgreSQL JDBC Driver (PgJDBC) SQL injection (CVE-2024-1597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1258)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1259)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1260)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1262)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
- |[Juanpao JPShop file upload (CVE-2024-1263)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
  
 
 # CERT-SANTE
@@ -123,18 +95,19 @@
  |[SolarWinds - CVE-2023-40057](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40057-2024-02-19)|Visit link for details.|19/02/2024|
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-192/)|Visit link for details|2024-02-21|
- |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-191/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-190/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-189/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-188/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-187/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-186/)|Visit link for details|2024-02-21|
- |[Inductive Automation Ignition getJavaExecutable Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-185/)|Visit link for details|2024-02-21|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240221)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, remote code execution and denial of service condition on the targeted system.|Release Date: 21 Feb 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Feb 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and cross-site scripting on the targeted system. [Updated on 2024-02-19] For...| Release Date: 9 Feb 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 8 Feb 2024 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 19 Feb 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240216)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 16 Feb 2024 |
+ |[ISC BIND Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/isc-bind-denial-of-service-vulnerabilities_20240216)|Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 16 Feb 2024 |
+ |[Microsoft Monthly Security Update (February 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2024)|[Updated on 2024-02-16] Exploit in the wild has been detected for CVE-2024-21410, affecting Microsoft Exchange Server. The vulnerability could be exploited by sending a crafted request to steal user's NTLM hash. Proof of Concept exploit...| Release Date: 14 Feb 2024 |
  
 
 # OBS-Vigilance
@@ -151,6 +124,33 @@
  |[<a href="https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158" class="noirorange"><b>QEMU</b>: out-of-bounds memory reading via nvme_fdp_events()</a>](https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158)|An attacker, in a guest system, can force a read at an invalid memory address of QEMU, via nvme_fdp_events(), in order to trigger a denial of service, or to obtain sensitive information on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155" class="noirorange"><b>Drupal Data Visualisation Framework</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155)|An attacker can trigger a Cross Site Scripting of Drupal Data Visualisation Framework, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-43154" class="noirorange"><b>aiohttp</b>: header injection</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-43154)|An attacker can add new headers on aiohttp, in order to alter the service behavior...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PostgreSQL JDBC Driver (PgJDBC) SQL injection (CVE-2024-1597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1258)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1259)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1260)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1262)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ |[Juanpao JPShop file upload (CVE-2024-1263)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-192/)|Visit link for details|2024-02-21|
+ |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-191/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-190/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-189/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-188/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-187/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-186/)|Visit link for details|2024-02-21|
+ |[Inductive Automation Ignition getJavaExecutable Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-185/)|Visit link for details|2024-02-21|
  
 
 # EU-CERT
