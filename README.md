@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/02/2024 09:19:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/02/2024 10:16:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,39 @@
  |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 février 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155" class="noirorange"><b>Drupal Data Visualisation Framework</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155)|An attacker can trigger a Cross Site Scripting of Drupal Data Visualisation Framework, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-43154" class="noirorange"><b>aiohttp</b>: header injection</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-43154)|An attacker can add new headers on aiohttp, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152" class="noirorange"><b>libssh</b>: code execution via ProxyCommand/ProxyJump Hostname</a>](https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152)|An attacker can use a vulnerability of libssh, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via MyEID Driver Symmetric Key Encryption</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150)|An attacker can force a read at an invalid memory address of OpenSC, via MyEID Driver Symmetric Key Encryption, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148" class="noirorange"><b>IBM Informix JDBC Driver</b>: code execution via API JNDI Injection</a>](https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148)|An attacker can use a vulnerability of IBM Informix JDBC Driver, via API JNDI Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147" class="noirorange"><b>Linux kernel</b>: use after free via igmp_start_timer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147)|An attacker can force the reuse of a freed memory area of the Linux kernel, via igmp_start_timer(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145" class="noirorange"><b>Linux kernel</b>: buffer overflow via perf_event_validate_size()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kitty-code-execution-via-Application-x-sh-Mime-Type-41284" class="noirorange"><b>Kitty</b>: code execution via Application/x-sh Mime Type</a>](https://vigilance.fr/vulnerability/Kitty-code-execution-via-Application-x-sh-Mime-Type-41284)|An attacker can use a vulnerability of Kitty, via Application/x-sh Mime Type, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zyxel - CVE-2023-6764](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-6764-2024-02-20)|Visit link for details.|20/02/2024|
+ |[PostgreSQL- CVE-2024-1597](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-1597-2024-02-20)|Visit link for details.|20/02/2024|
+ |[NGINX - CVE-2024-24990](https://www.cyberveille-sante.gouv.fr/alertes/nginx-cve-2024-24990-2024-02-20)|Visit link for details.|20/02/2024|
+ |[Apache Camel - CVE-2024-23114](https://www.cyberveille-sante.gouv.fr/alertes/apache-camel-cve-2024-23114-2024-02-20)|Visit link for details.|20/02/2024|
+ |[Apache Camel - CVE-2024-22369](https://www.cyberveille-sante.gouv.fr/alertes/apache-camel-cve-2024-22369-2024-02-20)|Visit link for details.|20/02/2024|
+ |[SolarWinds - CVE-2023-40057](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40057-2024-02-19)|Visit link for details.|19/02/2024|
+ |[SAP - CVE-2024-22126](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-22126-2024-02-19)|Visit link for details.|19/02/2024|
+ |[Zoho ManageEngine - CVE-2024-21775](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-21775-2024-02-19)|Visit link for details.|19/02/2024|
+ |[GitHub - CVE-2024-1372](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-1372-2024-02-19)|Visit link for details.|19/02/2024|
+ |[cURL/IBM Db2 - CVE-2022-27782](https://www.cyberveille-sante.gouv.fr/alertes/curlibm-db2-cve-2022-27782-2024-02-19)|Visit link for details.|19/02/2024|
+ |[OpenSSL - CVE-2023-2650](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-2650-2023-06-12)|Visit link for details.|19/02/2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -106,70 +139,6 @@
  |[Restaurant POS System cross-site scripting (CVE-2024-1267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 20, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zyxel - CVE-2023-6764](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-6764-2024-02-20)|Visit link for details.|20/02/2024|
- |[PostgreSQL- CVE-2024-1597](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-1597-2024-02-20)|Visit link for details.|20/02/2024|
- |[NGINX - CVE-2024-24990](https://www.cyberveille-sante.gouv.fr/alertes/nginx-cve-2024-24990-2024-02-20)|Visit link for details.|20/02/2024|
- |[Apache Camel - CVE-2024-23114](https://www.cyberveille-sante.gouv.fr/alertes/apache-camel-cve-2024-23114-2024-02-20)|Visit link for details.|20/02/2024|
- |[Apache Camel - CVE-2024-22369](https://www.cyberveille-sante.gouv.fr/alertes/apache-camel-cve-2024-22369-2024-02-20)|Visit link for details.|20/02/2024|
- |[SolarWinds - CVE-2023-40057](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2023-40057-2024-02-19)|Visit link for details.|19/02/2024|
- |[SAP - CVE-2024-22126](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-22126-2024-02-19)|Visit link for details.|19/02/2024|
- |[Zoho ManageEngine - CVE-2024-21775](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-21775-2024-02-19)|Visit link for details.|19/02/2024|
- |[GitHub - CVE-2024-1372](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-1372-2024-02-19)|Visit link for details.|19/02/2024|
- |[cURL/IBM Db2 - CVE-2022-27782](https://www.cyberveille-sante.gouv.fr/alertes/curlibm-db2-cve-2022-27782-2024-02-19)|Visit link for details.|19/02/2024|
- |[OpenSSL - CVE-2023-2650](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-2650-2023-06-12)|Visit link for details.|19/02/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[ESET Smart Security Premium ekrn Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-182/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-181/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-180/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-179/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-178/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155" class="noirorange"><b>Drupal Data Visualisation Framework</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155)|An attacker can trigger a Cross Site Scripting of Drupal Data Visualisation Framework, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-43154" class="noirorange"><b>aiohttp</b>: header injection</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-43154)|An attacker can add new headers on aiohttp, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152" class="noirorange"><b>libssh</b>: code execution via ProxyCommand/ProxyJump Hostname</a>](https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152)|An attacker can use a vulnerability of libssh, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via MyEID Driver Symmetric Key Encryption</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150)|An attacker can force a read at an invalid memory address of OpenSC, via MyEID Driver Symmetric Key Encryption, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148" class="noirorange"><b>IBM Informix JDBC Driver</b>: code execution via API JNDI Injection</a>](https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148)|An attacker can use a vulnerability of IBM Informix JDBC Driver, via API JNDI Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147" class="noirorange"><b>Linux kernel</b>: use after free via igmp_start_timer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147)|An attacker can force the reuse of a freed memory area of the Linux kernel, via igmp_start_timer(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145" class="noirorange"><b>Linux kernel</b>: buffer overflow via perf_event_validate_size()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-perf-event-validate-size-43145)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kitty-code-execution-via-Application-x-sh-Mime-Type-41284" class="noirorange"><b>Kitty</b>: code execution via Application/x-sh Mime Type</a>](https://vigilance.fr/vulnerability/Kitty-code-execution-via-Application-x-sh-Mime-Type-41284)|An attacker can use a vulnerability of Kitty, via Application/x-sh Mime Type, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41283)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ssh-agent Destination Constraints Multiple Keys</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ssh-agent-Destination-Constraints-Multiple-Keys-43143)|An attacker can bypass filtering rules of OpenSSH, via Ssh-agent Destination Constraints Multiple Keys, in order to exfilter sensitive data...|Visit link for details|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
- |[ 46121602/24 - Vulnérabilités affectant le serveur web Nginx ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx)| Deux vulnérabilités ont été corrigées au niveau du serveur web Nginx. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service.| 16 février 2024|
- |[ 46111602/24 - Vulnérabilités dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de ces failles peut permettre à un attaquant de provoquer une injection de code…| 16 février 2024|
- |[ 46101602/24 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-eset-0)| Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges.| 16 février 2024|
- |[ 46091502/24 - Vulnérabilité critique affectant Roundcube Webmail activement exploitée ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-roundcube-webmail-activement-exploitee)| Une vulnérabilité critique affectant les versions susmentionnées de Round cube Webmail est       activement exploitée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  distant…| 15 février 2024|
- |[ 46081502/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-2)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 15 février 2024|
- |[ 46071502/24 - Vulnérabilité critique affectant des produits Zoom pour Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-des-produits-zoom-pour-windows)| Zoom annonce la correction d’une vulnérabilité critique affectant ses produits susmentionnés.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  non authentifié d’élever ses…| 15 février 2024|
- |[ 46061602/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 15 février 2024|
- |[ 45991402/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-10)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
- |[ 45981402/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 14 février 2024|
- |[ 45971402/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-10)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -187,6 +156,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESET Smart Security Premium ekrn Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-182/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-181/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-180/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-179/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-178/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-177/)|Visit link for details|2024-02-15|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-176/)|Visit link for details|2024-02-15|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -202,4 +185,21 @@
  |[SolarWinds security advisory (AV24-093)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-093)|Visit link for details|2024-02-16|
  |[ISC BIND security advisory (AV24-092)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-092)|Visit link for details|2024-02-16|
  |[F5 security advisory (AV24-091)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-091)|Visit link for details|2024-02-14|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
+ |[ 46121602/24 - Vulnérabilités affectant le serveur web Nginx ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx)| Deux vulnérabilités ont été corrigées au niveau du serveur web Nginx. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service.| 16 février 2024|
+ |[ 46111602/24 - Vulnérabilités dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de ces failles peut permettre à un attaquant de provoquer une injection de code…| 16 février 2024|
+ |[ 46101602/24 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-eset-0)| Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges.| 16 février 2024|
+ |[ 46091502/24 - Vulnérabilité critique affectant Roundcube Webmail activement exploitée ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-roundcube-webmail-activement-exploitee)| Une vulnérabilité critique affectant les versions susmentionnées de Round cube Webmail est       activement exploitée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  distant…| 15 février 2024|
+ |[ 46081502/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-2)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 15 février 2024|
+ |[ 46071502/24 - Vulnérabilité critique affectant des produits Zoom pour Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-des-produits-zoom-pour-windows)| Zoom annonce la correction d’une vulnérabilité critique affectant ses produits susmentionnés.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  non authentifié d’élever ses…| 15 février 2024|
+ |[ 46061602/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 15 février 2024|
+ |[ 45991402/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-10)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
+ |[ 45981402/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 14 février 2024|
+ |[ 45971402/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-10)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
  
