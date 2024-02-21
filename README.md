@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/02/2024 15:18:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/02/2024 16:14:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6646-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6646-1-linux-kernel-vulnerabilities.48768/)|Visit link for details.|Feb 21, 2024|
- |[USN-6645-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6645-1-linux-kernel-vulnerability.48767/)|Visit link for details.|Feb 21, 2024|
- |[USN-6625-3: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6625-3-linux-kernel-raspberry-pi-vulnerabilities.48761/)|Visit link for details.|Feb 20, 2024|
- |[USN-6644-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6644-1-libtiff-vulnerabilities.48757/)|Visit link for details.|Feb 20, 2024|
- |[USN-6643-1: NPM IP vulnerability](https://www.linux.org/threads/usn-6643-1-npm-ip-vulnerability.48756/)|Visit link for details.|Feb 20, 2024|
- |[USN-6642-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6642-1-bind-vulnerabilities.48755/)|Visit link for details.|Feb 20, 2024|
- |[USN-6641-1: curl vulnerability](https://www.linux.org/threads/usn-6641-1-curl-vulnerability.48754/)|Visit link for details.|Feb 20, 2024|
- |[DSA-5626-1 pdns-recursor - security update](https://www.linux.org/threads/dsa-5626-1-pdns-recursor-security-update.48743/)|Visit link for details.|Feb 19, 2024|
- |[DSA-5625-1 engrampa - security update](https://www.linux.org/threads/dsa-5625-1-engrampa-security-update.48723/)|Visit link for details.|Feb 17, 2024|
- |[USN-6626-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6626-3-linux-kernel-azure-vulnerabilities.48716/)|Visit link for details.|Feb 16, 2024|
- |[USN-6640-1: shadow vulnerability](https://www.linux.org/threads/usn-6640-1-shadow-vulnerability.48706/)|Visit link for details.|Feb 16, 2024|
- 
 
 # US-CERT
 
@@ -78,6 +61,23 @@
  |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 15 février 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6646-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6646-1-linux-kernel-vulnerabilities.48768/)|Visit link for details.|Feb 21, 2024|
+ |[USN-6645-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6645-1-linux-kernel-vulnerability.48767/)|Visit link for details.|Feb 21, 2024|
+ |[USN-6625-3: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6625-3-linux-kernel-raspberry-pi-vulnerabilities.48761/)|Visit link for details.|Feb 20, 2024|
+ |[USN-6644-1: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6644-1-libtiff-vulnerabilities.48757/)|Visit link for details.|Feb 20, 2024|
+ |[USN-6643-1: NPM IP vulnerability](https://www.linux.org/threads/usn-6643-1-npm-ip-vulnerability.48756/)|Visit link for details.|Feb 20, 2024|
+ |[USN-6642-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6642-1-bind-vulnerabilities.48755/)|Visit link for details.|Feb 20, 2024|
+ |[USN-6641-1: curl vulnerability](https://www.linux.org/threads/usn-6641-1-curl-vulnerability.48754/)|Visit link for details.|Feb 20, 2024|
+ |[DSA-5626-1 pdns-recursor - security update](https://www.linux.org/threads/dsa-5626-1-pdns-recursor-security-update.48743/)|Visit link for details.|Feb 19, 2024|
+ |[DSA-5625-1 engrampa - security update](https://www.linux.org/threads/dsa-5625-1-engrampa-security-update.48723/)|Visit link for details.|Feb 17, 2024|
+ |[USN-6626-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6626-3-linux-kernel-azure-vulnerabilities.48716/)|Visit link for details.|Feb 16, 2024|
+ |[USN-6640-1: shadow vulnerability](https://www.linux.org/threads/usn-6640-1-shadow-vulnerability.48706/)|Visit link for details.|Feb 16, 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,6 +93,22 @@
  |[GitHub - CVE-2024-1372](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-1372-2024-02-19)|Visit link for details.|19/02/2024|
  |[cURL/IBM Db2 - CVE-2022-27782](https://www.cyberveille-sante.gouv.fr/alertes/curlibm-db2-cve-2022-27782-2024-02-19)|Visit link for details.|19/02/2024|
  |[OpenSSL - CVE-2023-2650](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2023-2650-2023-06-12)|Visit link for details.|19/02/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Template File Import</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164)|An attacker can trigger a Cross Site Scripting of Cacti, via Template File Import, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163" class="noirorange"><b>Cacti</b>: code execution via link.php</a>](https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163)|An attacker can use a vulnerability of Cacti, via link.php, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162" class="noirorange"><b>Cacti</b>: SQL injection via Managing Poller Devices</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162)|An attacker can use a SQL injection of Cacti, via Managing Poller Devices, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Adding-New-Devices-43161" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Adding New Devices</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Adding-New-Devices-43161)|An attacker can trigger a Cross Site Scripting of Cacti, via Adding New Devices, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Data-Sources-Debug-Mode-43160" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Data Sources Debug Mode</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Data-Sources-Debug-Mode-43160)|An attacker can trigger a Cross Site Scripting of Cacti, via Data Sources Debug Mode, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-SNMP-Notification-Receivers-43159" class="noirorange"><b>Cacti</b>: SQL injection via SNMP Notification Receivers</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-SNMP-Notification-Receivers-43159)|An attacker can use a SQL injection of Cacti, via SNMP Notification Receivers, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158" class="noirorange"><b>QEMU</b>: out-of-bounds memory reading via nvme_fdp_events()</a>](https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158)|An attacker, in a guest system, can force a read at an invalid memory address of QEMU, via nvme_fdp_events(), in order to trigger a denial of service, or to obtain sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155" class="noirorange"><b>Drupal Data Visualisation Framework</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155)|An attacker can trigger a Cross Site Scripting of Drupal Data Visualisation Framework, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-43154" class="noirorange"><b>aiohttp</b>: header injection</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-43154)|An attacker can add new headers on aiohttp, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152" class="noirorange"><b>libssh</b>: code execution via ProxyCommand/ProxyJump Hostname</a>](https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152)|An attacker can use a vulnerability of libssh, via |Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -154,39 +170,6 @@
  |[Siemens Tecnomatix Plant Simulation WRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-175/)|Visit link for details|2024-02-15|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46152102/24 - Vulnérabilités critiques affectant VMware Enhanced Authentication Plug-in ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-enhanced-authentication-plug)| VMware annonce la correction  de deux vulnérabilités critiques affectant son produit VMware Enhanced Authentication Plug-in. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant…| 21 février 2024|
- |[ 46142102/2024 - Vulnérabilité affectant le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-cms-joomla-0)| Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité affectant les versions susmentionnées de son CMS. L’exploitation de cette vulnérabilité peut permettre à un    attaquant…| 21 février 2024|
- |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
- |[ 46121602/24 - Vulnérabilités affectant le serveur web Nginx ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx)| Deux vulnérabilités ont été corrigées au niveau du serveur web Nginx. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service.| 16 février 2024|
- |[ 46111602/24 - Vulnérabilités dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de ces failles peut permettre à un attaquant de provoquer une injection de code…| 16 février 2024|
- |[ 46101602/24 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-eset-0)| Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges.| 16 février 2024|
- |[ 46091502/24 - Vulnérabilité critique affectant Roundcube Webmail activement exploitée ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-roundcube-webmail-activement-exploitee)| Une vulnérabilité critique affectant les versions susmentionnées de Round cube Webmail est       activement exploitée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  distant…| 15 février 2024|
- |[ 46081502/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-2)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 15 février 2024|
- |[ 46071502/24 - Vulnérabilité critique affectant des produits Zoom pour Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-des-produits-zoom-pour-windows)| Zoom annonce la correction d’une vulnérabilité critique affectant ses produits susmentionnés.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  non authentifié d’élever ses…| 15 février 2024|
- |[ 46061602/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 15 février 2024|
- |[ 45991402/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-10)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 février 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Template File Import</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164)|An attacker can trigger a Cross Site Scripting of Cacti, via Template File Import, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163" class="noirorange"><b>Cacti</b>: code execution via link.php</a>](https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163)|An attacker can use a vulnerability of Cacti, via link.php, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162" class="noirorange"><b>Cacti</b>: SQL injection via Managing Poller Devices</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162)|An attacker can use a SQL injection of Cacti, via Managing Poller Devices, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Adding-New-Devices-43161" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Adding New Devices</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Adding-New-Devices-43161)|An attacker can trigger a Cross Site Scripting of Cacti, via Adding New Devices, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Data-Sources-Debug-Mode-43160" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Data Sources Debug Mode</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Data-Sources-Debug-Mode-43160)|An attacker can trigger a Cross Site Scripting of Cacti, via Data Sources Debug Mode, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-SNMP-Notification-Receivers-43159" class="noirorange"><b>Cacti</b>: SQL injection via SNMP Notification Receivers</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-SNMP-Notification-Receivers-43159)|An attacker can use a SQL injection of Cacti, via SNMP Notification Receivers, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158" class="noirorange"><b>QEMU</b>: out-of-bounds memory reading via nvme_fdp_events()</a>](https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158)|An attacker, in a guest system, can force a read at an invalid memory address of QEMU, via nvme_fdp_events(), in order to trigger a denial of service, or to obtain sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155" class="noirorange"><b>Drupal Data Visualisation Framework</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155)|An attacker can trigger a Cross Site Scripting of Drupal Data Visualisation Framework, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-43154" class="noirorange"><b>aiohttp</b>: header injection</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-43154)|An attacker can add new headers on aiohttp, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152" class="noirorange"><b>libssh</b>: code execution via ProxyCommand/ProxyJump Hostname</a>](https://vigilance.fr/vulnerability/libssh-code-execution-via-ProxyCommand-ProxyJump-Hostname-43152)|An attacker can use a vulnerability of libssh, via |Visit link for details|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -202,4 +185,21 @@
  |[SolarWinds security advisory (AV24-093)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-093)|Visit link for details|2024-02-16|
  |[ISC BIND security advisory (AV24-092)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-092)|Visit link for details|2024-02-16|
  |[F5 security advisory (AV24-091)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-091)|Visit link for details|2024-02-14|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46162102/24 - Vulnérabilités critiques affectant ConnectWise ScreenConnect ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-connectwise-screenconnect)| ConnectWise annonce la correction de deux vulnérabilités critiques affectant son produit ScreenConnet. Ces vulnérabilités sont activement exploitées et  peuvent  permettre à un attaquant distant de…| 21 février 2024|
+ |[ 46152102/24 - Vulnérabilités critiques affectant VMware Enhanced Authentication Plug-in ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-enhanced-authentication-plug)| VMware annonce la correction  de deux vulnérabilités critiques affectant son produit VMware Enhanced Authentication Plug-in. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant…| 21 février 2024|
+ |[ 46142102/2024 - Vulnérabilité affectant le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-cms-joomla-0)| Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité affectant les versions susmentionnées de son CMS. L’exploitation de cette vulnérabilité peut permettre à un    attaquant…| 21 février 2024|
+ |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
+ |[ 46121602/24 - Vulnérabilités affectant le serveur web Nginx ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx)| Deux vulnérabilités ont été corrigées au niveau du serveur web Nginx. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service.| 16 février 2024|
+ |[ 46111602/24 - Vulnérabilités dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de ces failles peut permettre à un attaquant de provoquer une injection de code…| 16 février 2024|
+ |[ 46101602/24 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-eset-0)| Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges.| 16 février 2024|
+ |[ 46091502/24 - Vulnérabilité critique affectant Roundcube Webmail activement exploitée ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-roundcube-webmail-activement-exploitee)| Une vulnérabilité critique affectant les versions susmentionnées de Round cube Webmail est       activement exploitée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  distant…| 15 février 2024|
+ |[ 46081502/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-2)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 15 février 2024|
+ |[ 46071502/24 - Vulnérabilité critique affectant des produits Zoom pour Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-des-produits-zoom-pour-windows)| Zoom annonce la correction d’une vulnérabilité critique affectant ses produits susmentionnés.  L'exploitation de cette vulnérabilité peut permettre à un attaquant  non authentifié d’élever ses…| 15 février 2024|
+ |[ 46061602/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 15 février 2024|
  
