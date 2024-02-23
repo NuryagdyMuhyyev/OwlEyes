@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/02/2024 15:18:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/02/2024 16:14:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Kaspersky Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/)|Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
- |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 février 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 février 2024|
- |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0155/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 22 février 2024|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0154/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0153/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 février 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0152/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 21 février 2024|
- |[Multiples vulnérabilités dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0151/)|De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 21 février 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0150/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 février 2024|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0149/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 février 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,19 +95,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163" class="noirorange"><b>Cacti</b>: code execution via link.php</a>](https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163)|An attacker can use a vulnerability of Cacti, via link.php, in order to run code...|Visit link for details|
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240223)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Feb 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 8 Feb 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240222)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 22 Feb 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240221)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, remote code execution and denial of service condition on the targeted system.|Release Date: 21 Feb 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Feb 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and cross-site scripting on the targeted system. [Updated on 2024-02-19] For...| Release Date: 9 Feb 2024 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 19 Feb 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240216)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 16 Feb 2024 |
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0153/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 février 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0152/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 21 février 2024|
+ |[Multiples vulnérabilités dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0151/)|De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 21 février 2024|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0150/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 février 2024|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0149/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 février 2024|
+ |[Vulnérabilité dans Kaspersky Anti Targeted Attack](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0148/)|Une vulnérabilité a été découverte dans Kaspersky Anti Targeted Attack. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 février 2024|
+ |[Vulnérabilité dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/)|Une vulnérabilité a été découverte dans |Publié le 19 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0146/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0145/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0144/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -139,18 +124,19 @@
  |[Apache Answer security bypass (CVE-2024-26578)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-192/)|Visit link for details|2024-02-21|
- |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-191/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-190/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-189/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-188/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-187/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-186/)|Visit link for details|2024-02-21|
- |[Inductive Automation Ignition getJavaExecutable Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-185/)|Visit link for details|2024-02-21|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240223)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Feb 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 8 Feb 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240222)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 22 Feb 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240221)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, remote code execution and denial of service condition on the targeted system.|Release Date: 21 Feb 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Feb 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and cross-site scripting on the targeted system. [Updated on 2024-02-19] For...| Release Date: 9 Feb 2024 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 19 Feb 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240216)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 16 Feb 2024 |
  
 
 # EU-CERT
@@ -170,6 +156,37 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46222202/24 - Vulnérabilités affectant Spring Framework et Spring Security ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-spring-framework-et-spring-security)| Spring annonce la correction de deux vulnérabilités affectant ses  produits Spring Framework et Spring Security.  L'exploitation de ces vulnérabilités peut permettre à un attaquant le contournement de…| 23 février 2024|
+ |[ 46212202/24 - Vulnérabilité affectant Cisco Unified Intelligence Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-cisco-unified-intelligence-center)| Cisco annonce la correction d’une vulnérabilité affectant son produit Cisco Unified Intelligence Center. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’accéder à des…| 22 février 2024|
+ |[ 46202202/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-6)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 22 février 2024|
+ |[ 46192202/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-16)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 février 2024|
+ |[ 46182202/24 - Vulnérabilité critique affectant le plugin «RSS Aggregator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-rss-aggregator-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «RSS Aggregator». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 22 février 2024|
+ |[ 46172102/24 - Vulnérabilité critique affectant le plugin «Bricks Builder» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-bricks-builder-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Bricks Builder». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 21 février 2024|
+ |[ 46162102/24 - Vulnérabilités critiques affectant ConnectWise ScreenConnect ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-connectwise-screenconnect)| ConnectWise annonce la correction de deux vulnérabilités critiques affectant son produit ScreenConnet. Ces vulnérabilités sont activement exploitées et  peuvent  permettre à un attaquant distant de…| 21 février 2024|
+ |[ 46152102/24 - Vulnérabilités critiques affectant VMware Enhanced Authentication Plug-in ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-enhanced-authentication-plug)| VMware annonce la correction  de deux vulnérabilités critiques affectant son produit VMware Enhanced Authentication Plug-in. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant…| 21 février 2024|
+ |[ 46142102/2024 - Vulnérabilité affectant le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-cms-joomla-0)| Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité affectant les versions susmentionnées de son CMS. L’exploitation de cette vulnérabilité peut permettre à un    attaquant…| 21 février 2024|
+ |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
+ |[ 46121602/24 - Vulnérabilités affectant le serveur web Nginx ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx)| Deux vulnérabilités ont été corrigées au niveau du serveur web Nginx. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service.| 16 février 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-192/)|Visit link for details|2024-02-21|
+ |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-191/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-190/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-189/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-188/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-187/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-186/)|Visit link for details|2024-02-21|
+ |[Inductive Automation Ignition getJavaExecutable Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-185/)|Visit link for details|2024-02-21|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -185,21 +202,4 @@
  |[Red Hat security advisory (AV24-098)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-098)|Visit link for details|2024-02-19|
  |[[Control systems] CISA ICS security advisories (AV24-097)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-097)|Visit link for details|2024-02-19|
  |[Ubuntu security advisory (AV24-096)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-096)|Visit link for details|2024-02-19|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46222202/24 - Vulnérabilités affectant Spring Framework et Spring Security ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-spring-framework-et-spring-security)| Spring annonce la correction de deux vulnérabilités  affectant ses produits affectant ses  produits Spring Framework et Spring Security.  L'exploitation de ces vulnérabilités peut permettre à un…| 23 février 2024|
- |[ 46212202/24 - Vulnérabilité affectant Cisco Unified Intelligence Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-cisco-unified-intelligence-center)| Cisco annonce la correction d’une vulnérabilité affectant son produit Cisco Unified Intelligence Center. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’accéder à des…| 22 février 2024|
- |[ 46202202/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-6)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 22 février 2024|
- |[ 46192202/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-16)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 février 2024|
- |[ 46182202/24 - Vulnérabilité critique affectant le plugin «RSS Aggregator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-rss-aggregator-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «RSS Aggregator». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 22 février 2024|
- |[ 46172102/24 - Vulnérabilité critique affectant le plugin «Bricks Builder» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-bricks-builder-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Bricks Builder». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 21 février 2024|
- |[ 46162102/24 - Vulnérabilités critiques affectant ConnectWise ScreenConnect ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-connectwise-screenconnect)| ConnectWise annonce la correction de deux vulnérabilités critiques affectant son produit ScreenConnet. Ces vulnérabilités sont activement exploitées et  peuvent  permettre à un attaquant distant de…| 21 février 2024|
- |[ 46152102/24 - Vulnérabilités critiques affectant VMware Enhanced Authentication Plug-in ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-enhanced-authentication-plug)| VMware annonce la correction  de deux vulnérabilités critiques affectant son produit VMware Enhanced Authentication Plug-in. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant…| 21 février 2024|
- |[ 46142102/2024 - Vulnérabilité affectant le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-cms-joomla-0)| Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité affectant les versions susmentionnées de son CMS. L’exploitation de cette vulnérabilité peut permettre à un    attaquant…| 21 février 2024|
- |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
- |[ 46121602/24 - Vulnérabilités affectant le serveur web Nginx ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx)| Deux vulnérabilités ont été corrigées au niveau du serveur web Nginx. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service.| 16 février 2024|
  
