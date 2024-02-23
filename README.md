@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/02/2024 09:18:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/02/2024 10:16:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 22, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 22, 2024|
+ |[CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 21, 2024|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2024/02/21/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Feb 21, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 20, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
+ |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,22 +62,6 @@
  |[USN-6643-1: NPM IP vulnerability](https://www.linux.org/threads/usn-6643-1-npm-ip-vulnerability.48756/)|Visit link for details.|Feb 20, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 22, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 22, 2024|
- |[CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 21, 2024|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2024/02/21/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Feb 21, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 20, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
- |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- |[Microsoft Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/02/13/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,6 +76,39 @@
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0146/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0145/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0144/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 février 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Biosig Project - CVE-2024-22097](https://www.cyberveille-sante.gouv.fr/alertes/biosig-project-cve-2024-22097-2024-02-22)|Visit link for details.|22/02/2024|
+ |[ConnectWise ScreenConnect - CVE-2024-1708](https://www.cyberveille-sante.gouv.fr/alertes/connectwise-screenconnect-cve-2024-1708-2024-02-22)|Visit link for details.|22/02/2024|
+ |[Pymatgen - CVE-2024-23346](https://www.cyberveille-sante.gouv.fr/alertes/pymatgen-cve-2024-23346-2024-02-22)|Visit link for details.|22/02/2024|
+ |[Node.js - CVE-2024-21896](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-21896-2024-02-22)|Visit link for details.|22/02/2024|
+ |[GitLab - CVE-2024-1451](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-1451-2024-02-22)|Visit link for details.|22/02/2024|
+ |[ConnectWise ScreenConnect – CVE-2024-1709](https://www.cyberveille-sante.gouv.fr/alertes/connectwise-screenconnect-cve-2024-1709-2024-02-21)|Visit link for details.|22/02/2024|
+ |[PostgreSQL- CVE-2024-1597](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-1597-2024-02-20)|Visit link for details.|22/02/2024|
+ |[Biosig Project - CVE-2024-21812](https://www.cyberveille-sante.gouv.fr/alertes/biosig-project-cve-2024-21812-2024-02-21)|Visit link for details.|21/02/2024|
+ |[VMware - CVE-2024-22245](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22245-2024-02-21)|Visit link for details.|21/02/2024|
+ |[Mozilla - CVE-2024-1553](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-1553-2024-02-21)|Visit link for details.|21/02/2024|
+ |[Imaging Data Commons libdicom - CVE-2024-24793](https://www.cyberveille-sante.gouv.fr/alertes/imaging-data-commons-libdicom-cve-2024-24793-2024-02-21)|Visit link for details.|21/02/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177" class="noirorange"><b>ESET NOD32 Antivirus</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177)|An attacker can act as a Man-in-the-Middle on ESET NOD32 Antivirus, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174" class="noirorange"><b>Linux kernel</b>: use after free via gsm_cleanup_mux()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via gsm_cleanup_mux(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172" class="noirorange"><b>TinyXML</b>: assertion error via TiXmlDeclaration::Parse()</a>](https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172)|An attacker can force an assertion error of TinyXML, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170" class="noirorange"><b>Apache SOAP</b>: external XML entity injection via RPCRouterServlet</a>](https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170)|An attacker can transmit malicious XML data to Apache SOAP, via RPCRouterServlet, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168" class="noirorange"><b>Debian cpio</b>: directory traversal via Backslash</a>](https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168)|An attacker can traverse directories of Debian cpio, via Backslash, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Crypto-denial-of-service-via-DER-Public-key-Data-43167" class="noirorange"><b>Crypto++</b>: denial of service via DER Public-key Data</a>](https://vigilance.fr/vulnerability/Crypto-denial-of-service-via-DER-Public-key-Data-43167)|An attacker can cause a fatal error of Crypto++, via DER Public-key Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SMTP-spoofing-via-SMTP-Smuggling-43166" class="noirorange"><b>SMTP</b>: spoofing via SMTP Smuggling</a>](https://vigilance.fr/vulnerability/SMTP-spoofing-via-SMTP-Smuggling-43166)|An attacker can create spoofed data on SMTP, via SMTP Smuggling, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Template File Import</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164)|An attacker can trigger a Cross Site Scripting of Cacti, via Template File Import, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163" class="noirorange"><b>Cacti</b>: code execution via link.php</a>](https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163)|An attacker can use a vulnerability of Cacti, via link.php, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162" class="noirorange"><b>Cacti</b>: SQL injection via Managing Poller Devices</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162)|An attacker can use a SQL injection of Cacti, via Managing Poller Devices, in order to read or alter data...|Visit link for details|
  
 
 # HK-CERT
@@ -98,43 +131,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[Delta Electronics CNCSoft-B DOPSoft code execution (CVE-2024-1595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 22, 2024|
+ |[GitLab Enterprise Edition information disclosure (CVE-2023-4895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
  |[Apache Answer security bypass (CVE-2024-26578)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
  |[Apache Answer cross-site scripting (CVE-2024-23349)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
  |[Apache Answer denial of service (CVE-2024-22393)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
  |[Silicon Labs PC Controller denial of service (CVE-2023-6640)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
  |[PostgreSQL JDBC Driver (PgJDBC) SQL injection (CVE-2024-1597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
- |[Trimble SketchUp code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 21, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Biosig Project - CVE-2024-22097](https://www.cyberveille-sante.gouv.fr/alertes/biosig-project-cve-2024-22097-2024-02-22)|Visit link for details.|22/02/2024|
- |[ConnectWise ScreenConnect - CVE-2024-1708](https://www.cyberveille-sante.gouv.fr/alertes/connectwise-screenconnect-cve-2024-1708-2024-02-22)|Visit link for details.|22/02/2024|
- |[Pymatgen - CVE-2024-23346](https://www.cyberveille-sante.gouv.fr/alertes/pymatgen-cve-2024-23346-2024-02-22)|Visit link for details.|22/02/2024|
- |[Node.js - CVE-2024-21896](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-21896-2024-02-22)|Visit link for details.|22/02/2024|
- |[GitLab - CVE-2024-1451](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-1451-2024-02-22)|Visit link for details.|22/02/2024|
- |[ConnectWise ScreenConnect – CVE-2024-1709](https://www.cyberveille-sante.gouv.fr/alertes/connectwise-screenconnect-cve-2024-1709-2024-02-21)|Visit link for details.|22/02/2024|
- |[PostgreSQL- CVE-2024-1597](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-1597-2024-02-20)|Visit link for details.|22/02/2024|
- |[Biosig Project - CVE-2024-21812](https://www.cyberveille-sante.gouv.fr/alertes/biosig-project-cve-2024-21812-2024-02-21)|Visit link for details.|21/02/2024|
- |[VMware - CVE-2024-22245](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22245-2024-02-21)|Visit link for details.|21/02/2024|
- |[Mozilla - CVE-2024-1553](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-1553-2024-02-21)|Visit link for details.|21/02/2024|
- |[Imaging Data Commons libdicom - CVE-2024-24793](https://www.cyberveille-sante.gouv.fr/alertes/imaging-data-commons-libdicom-cve-2024-24793-2024-02-21)|Visit link for details.|21/02/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-192/)|Visit link for details|2024-02-21|
- |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-191/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-190/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-189/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-188/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-187/)|Visit link for details|2024-02-21|
- |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-186/)|Visit link for details|2024-02-21|
- |[Inductive Automation Ignition getJavaExecutable Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-185/)|Visit link for details|2024-02-21|
  
 
 # EU-CERT
@@ -154,22 +156,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177" class="noirorange"><b>ESET NOD32 Antivirus</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177)|An attacker can act as a Man-in-the-Middle on ESET NOD32 Antivirus, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174" class="noirorange"><b>Linux kernel</b>: use after free via gsm_cleanup_mux()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via gsm_cleanup_mux(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172" class="noirorange"><b>TinyXML</b>: assertion error via TiXmlDeclaration::Parse()</a>](https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172)|An attacker can force an assertion error of TinyXML, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170" class="noirorange"><b>Apache SOAP</b>: external XML entity injection via RPCRouterServlet</a>](https://vigilance.fr/vulnerability/Apache-SOAP-external-XML-entity-injection-via-RPCRouterServlet-43170)|An attacker can transmit malicious XML data to Apache SOAP, via RPCRouterServlet, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168" class="noirorange"><b>Debian cpio</b>: directory traversal via Backslash</a>](https://vigilance.fr/vulnerability/Debian-cpio-directory-traversal-via-Backslash-43168)|An attacker can traverse directories of Debian cpio, via Backslash, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Crypto-denial-of-service-via-DER-Public-key-Data-43167" class="noirorange"><b>Crypto++</b>: denial of service via DER Public-key Data</a>](https://vigilance.fr/vulnerability/Crypto-denial-of-service-via-DER-Public-key-Data-43167)|An attacker can cause a fatal error of Crypto++, via DER Public-key Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SMTP-spoofing-via-SMTP-Smuggling-43166" class="noirorange"><b>SMTP</b>: spoofing via SMTP Smuggling</a>](https://vigilance.fr/vulnerability/SMTP-spoofing-via-SMTP-Smuggling-43166)|An attacker can create spoofed data on SMTP, via SMTP Smuggling, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Template File Import</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Template-File-Import-43164)|An attacker can trigger a Cross Site Scripting of Cacti, via Template File Import, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163" class="noirorange"><b>Cacti</b>: code execution via link.php</a>](https://vigilance.fr/vulnerability/Cacti-code-execution-via-link-php-43163)|An attacker can use a vulnerability of Cacti, via link.php, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162" class="noirorange"><b>Cacti</b>: SQL injection via Managing Poller Devices</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Managing-Poller-Devices-43162)|An attacker can use a SQL injection of Cacti, via Managing Poller Devices, in order to read or alter data...|Visit link for details|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -185,6 +171,20 @@
  |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
  |[ 46121602/24 - Vulnérabilités affectant le serveur web Nginx ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx)| Deux vulnérabilités ont été corrigées au niveau du serveur web Nginx. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service.| 16 février 2024|
  |[ 46111602/24 - Vulnérabilités dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de ces failles peut permettre à un attaquant de provoquer une injection de code…| 16 février 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-192/)|Visit link for details|2024-02-21|
+ |[Schneider Electric EcoStruxure IT Gateway Hard-Coded Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-191/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-190/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-189/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-188/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-187/)|Visit link for details|2024-02-21|
+ |[Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-186/)|Visit link for details|2024-02-21|
+ |[Inductive Automation Ignition getJavaExecutable Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-185/)|Visit link for details|2024-02-21|
  
 
 # CA-CCS
