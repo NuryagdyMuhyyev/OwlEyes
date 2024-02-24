@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/02/2024 01:15:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/02/2024 02:13:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0155/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 22 février 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Spring - CVE-2024-22243](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22243-2024-02-23)|Visit link for details.|23/02/2024|
- |[Progress LoadMaster - CVE-2024-1212](https://www.cyberveille-sante.gouv.fr/alertes/progress-loadmaster-cve-2024-1212-2024-02-23)|Visit link for details.|23/02/2024|
- |[Google Chrome - CVE-2024-1669](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1669-2024-02-23)|Visit link for details.|23/02/2024|
- |[D-Link - CVE-2023-24331](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24331-2024-02-23)|Visit link for details.|23/02/2024|
- |[Apple - CVE-2024-23204](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23204-2024-02-23)|Visit link for details.|23/02/2024|
- |[Microsoft - CVE-2024-21413](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21413-2024-02-14)|Visit link for details.|23/02/2024|
- |[Biosig Project - CVE-2024-22097](https://www.cyberveille-sante.gouv.fr/alertes/biosig-project-cve-2024-22097-2024-02-22)|Visit link for details.|22/02/2024|
- |[ConnectWise ScreenConnect - CVE-2024-1708](https://www.cyberveille-sante.gouv.fr/alertes/connectwise-screenconnect-cve-2024-1708-2024-02-22)|Visit link for details.|22/02/2024|
- |[Pymatgen - CVE-2024-23346](https://www.cyberveille-sante.gouv.fr/alertes/pymatgen-cve-2024-23346-2024-02-22)|Visit link for details.|22/02/2024|
- |[Node.js - CVE-2024-21896](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-21896-2024-02-22)|Visit link for details.|22/02/2024|
- |[GitLab - CVE-2024-1451](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-1451-2024-02-22)|Visit link for details.|22/02/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -135,6 +118,23 @@
  |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-200/)|Visit link for details|2024-02-23|
  |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-199/)|Visit link for details|2024-02-23|
  |[PDF-XChange Editor Updater Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-198/)|Visit link for details|2024-02-23|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Spring - CVE-2024-22243](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22243-2024-02-23)|Visit link for details.|23/02/2024|
+ |[Progress LoadMaster - CVE-2024-1212](https://www.cyberveille-sante.gouv.fr/alertes/progress-loadmaster-cve-2024-1212-2024-02-23)|Visit link for details.|23/02/2024|
+ |[Google Chrome - CVE-2024-1669](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1669-2024-02-23)|Visit link for details.|23/02/2024|
+ |[D-Link - CVE-2023-24331](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24331-2024-02-23)|Visit link for details.|23/02/2024|
+ |[Apple - CVE-2024-23204](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23204-2024-02-23)|Visit link for details.|23/02/2024|
+ |[Microsoft - CVE-2024-21413](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21413-2024-02-14)|Visit link for details.|23/02/2024|
+ |[Biosig Project - CVE-2024-22097](https://www.cyberveille-sante.gouv.fr/alertes/biosig-project-cve-2024-22097-2024-02-22)|Visit link for details.|22/02/2024|
+ |[ConnectWise ScreenConnect - CVE-2024-1708](https://www.cyberveille-sante.gouv.fr/alertes/connectwise-screenconnect-cve-2024-1708-2024-02-22)|Visit link for details.|22/02/2024|
+ |[Pymatgen - CVE-2024-23346](https://www.cyberveille-sante.gouv.fr/alertes/pymatgen-cve-2024-23346-2024-02-22)|Visit link for details.|22/02/2024|
+ |[Node.js - CVE-2024-21896](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-21896-2024-02-22)|Visit link for details.|22/02/2024|
+ |[GitLab - CVE-2024-1451](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-1451-2024-02-22)|Visit link for details.|22/02/2024|
  
 
 # OBS-Vigilance
