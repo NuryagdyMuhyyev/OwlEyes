@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/02/2024 16:13:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/02/2024 17:27:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 22, 2024|
+ |[CISA Adds One Known Exploited ConnectWise Vulnerability, CVE-2024-1709, to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-adds-one-known-exploited-connectwise-vulnerability-cve-2024-1709-catalog)|Visit link for details.|Feb 22, 2024|
+ |[CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 21, 2024|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2024/02/21/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Feb 21, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 20, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
+ |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6648-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6648-1-linux-kernel-vulnerabilities.48775/)|Visit link for details.|Feb 22, 2024|
  |[DSA-5627-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5627-1-firefox-esr-security-update.48772/)|Visit link for details.|Feb 21, 2024|
  |[USN-6647-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6647-1-linux-kernel-vulnerabilities.48771/)|Visit link for details.|Feb 21, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 22, 2024|
- |[CISA Adds One Known Exploited ConnectWise Vulnerability, CVE-2024-1709, to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-adds-one-known-exploited-connectwise-vulnerability-cve-2024-1709-catalog)|Visit link for details.|Feb 22, 2024|
- |[CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 21, 2024|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2024/02/21/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Feb 21, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 20, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
- |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
  
 
 # CERT-FR
@@ -117,10 +117,10 @@
  |[Apache Camel information disclosure (CVE-2024-22371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  |[Linux Kernel code execution (CVE-2024-26592)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  |[Linux Kernel information disclosure (CVE-2024-26594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[PDF-XChange Editor information disclosure (CVE-2024-27324)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[IBM Cognos Analytics cross-site scripting (CVE-2023-43051)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[IBM Cognos Analytics cross-site scripting (CVE-2023-38359)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[IBM Cognos Analytics cross-site request forgery (CVE-2023-32344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[C-ares denial of service (CVE-2024-25629)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[Sante PACS Server SQL injection (CVE-2024-1863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[PDF-XChange Editor code execution (CVE-2024-27327)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[PDF-XChange Editor information disclosure (CVE-2024-27326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  
 
 # OBS-Vigilance
@@ -170,23 +170,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnerabilities impacting ConnectWise ScreenConnect](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-connectwise-screenconnect)|Visit link for details|2024-02-22|
- |[[Control systems] B&R security advisory (AV24-105)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-105)|Visit link for details|2024-02-22|
- |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
- |[GitLab security advisory (AV24-103)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-103)|Visit link for details|2024-02-21|
- |[ConnectWise security advisory (AV24-100) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av24-100)|Visit link for details|2024-02-21|
- |[Google Chrome security advisory (AV24-102)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-102)|Visit link for details|2024-02-21|
- |[VMware security advisory (AV24-101)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-101)|Visit link for details|2024-02-20|
- |[Mozilla security advisory (AV24-099)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-099)|Visit link for details|2024-02-20|
- |[Red Hat security advisory (AV24-098)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-098)|Visit link for details|2024-02-19|
- |[[Control systems] CISA ICS security advisories (AV24-097)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-097)|Visit link for details|2024-02-19|
- |[Ubuntu security advisory (AV24-096)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-096)|Visit link for details|2024-02-19|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -202,4 +185,21 @@
  |[ 46142102/2024 - Vulnérabilité affectant le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-cms-joomla-0)| Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité affectant les versions susmentionnées de son CMS. L’exploitation de cette vulnérabilité peut permettre à un    attaquant…| 21 février 2024|
  |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
  |[ 46121602/24 - Vulnérabilités affectant le serveur web Nginx ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx)| Deux vulnérabilités ont été corrigées au niveau du serveur web Nginx. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service.| 16 février 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnerabilities impacting ConnectWise ScreenConnect](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-connectwise-screenconnect)|Visit link for details|2024-02-22|
+ |[[Control systems] B&R security advisory (AV24-105)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-105)|Visit link for details|2024-02-22|
+ |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
+ |[GitLab security advisory (AV24-103)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-103)|Visit link for details|2024-02-21|
+ |[ConnectWise security advisory (AV24-100) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av24-100)|Visit link for details|2024-02-21|
+ |[Google Chrome security advisory (AV24-102)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-102)|Visit link for details|2024-02-21|
+ |[VMware security advisory (AV24-101)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-101)|Visit link for details|2024-02-20|
+ |[Mozilla security advisory (AV24-099)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-099)|Visit link for details|2024-02-20|
+ |[Red Hat security advisory (AV24-098)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-098)|Visit link for details|2024-02-19|
+ |[[Control systems] CISA ICS security advisories (AV24-097)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-097)|Visit link for details|2024-02-19|
+ |[Ubuntu security advisory (AV24-096)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-096)|Visit link for details|2024-02-19|
  
