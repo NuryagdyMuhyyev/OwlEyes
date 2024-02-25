@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/02/2024 22:14:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/02/2024 23:19:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[DSA-5627-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5627-1-firefox-esr-security-update.48772/)|Visit link for details.|Feb 21, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0161/)|Une vulnérabilité a été découverte dans la gamme de produits SonicWall SMA100. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 février 2024|
- |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Vulnérabilité dans Kaspersky Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/)|Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
- |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 février 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 février 2024|
- |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0155/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 22 février 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,33 +79,20 @@
  |[GitLab - CVE-2024-1451](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-1451-2024-02-22)|Visit link for details.|22/02/2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322" class="noirorange"><b>MaraDNS</b>: integer overflow via decomp_get_rddata()</a>](https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322)|An attacker can trigger an integer overflow of MaraDNS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321" class="noirorange"><b>MaraDNS</b>: spoofing via Revoked Domain Name</a>](https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321)|An attacker can create spoofed data on MaraDNS, via Revoked Domain Name, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-information-disclosure-via-Adom-Error-Messages-43471" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: information disclosure via Adom Error Messages</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-information-disclosure-via-Adom-Error-Messages-43471)|An attacker can bypass access restrictions to data of FortiAnalyzer  FortiManager, via Adom Error Messages, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-information-disclosure-via-RSA-math-big-Library-43470" class="noirorange"><b>Go</b>: information disclosure via RSA math/big Library</a>](https://vigilance.fr/vulnerability/Go-information-disclosure-via-RSA-math-big-Library-43470)|An attacker can bypass access restrictions to data of Go, via RSA math/big Library, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313" class="noirorange"><b>GitLab</b>: directory traversal via Five Groups Attachment</a>](https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313)|An attacker can traverse directories of GitLab, via Five Groups Attachment, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309" class="noirorange"><b>Ignite Openfire</b>: privilege escalation via Admin Console</a>](https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309)|An attacker can bypass restrictions of Ignite Openfire, via Admin Console, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303" class="noirorange"><b>c-ares</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303)|An attacker can use several vulnerabilities of c-ares...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177" class="noirorange"><b>ESET NOD32 Antivirus</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177)|An attacker can act as a Man-in-the-Middle on ESET NOD32 Antivirus, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174" class="noirorange"><b>Linux kernel</b>: use after free via gsm_cleanup_mux()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via gsm_cleanup_mux(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172" class="noirorange"><b>TinyXML</b>: assertion error via TiXmlDeclaration::Parse()</a>](https://vigilance.fr/vulnerability/TinyXML-assertion-error-via-TiXmlDeclaration-Parse-43172)|An attacker can force an assertion error of TinyXML, via |Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Camel information disclosure (CVE-2024-22371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[Linux Kernel code execution (CVE-2024-26592)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[Linux Kernel information disclosure (CVE-2024-26594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[C-ares denial of service (CVE-2024-25629)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[Sante PACS Server SQL injection (CVE-2024-1863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[PDF-XChange Editor code execution (CVE-2024-27327)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[PDF-XChange Editor information disclosure (CVE-2024-27326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0161/)|Une vulnérabilité a été découverte dans la gamme de produits SonicWall SMA100. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Vulnérabilité dans Kaspersky Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/)|Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
+ |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 février 2024|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 février 2024|
+ |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0155/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 22 février 2024|
  
 
 # HK-CERT
@@ -137,6 +108,49 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and cross-site scripting on the targeted system. [Updated on 2024-02-19] For...| Release Date: 9 Feb 2024 |
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 19 Feb 2024 |
  |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240216)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 16 Feb 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Camel information disclosure (CVE-2024-22371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[Linux Kernel code execution (CVE-2024-26592)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[Linux Kernel information disclosure (CVE-2024-26594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[C-ares denial of service (CVE-2024-25629)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[Sante PACS Server SQL injection (CVE-2024-1863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[PDF-XChange Editor code execution (CVE-2024-27327)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[PDF-XChange Editor information disclosure (CVE-2024-27326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339" class="noirorange"><b>LibreOffice</b>: code execution via Floating Frames</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339)|An attacker can use a vulnerability of LibreOffice, via Floating Frames, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322" class="noirorange"><b>MaraDNS</b>: integer overflow via decomp_get_rddata()</a>](https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322)|An attacker can trigger an integer overflow of MaraDNS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321" class="noirorange"><b>MaraDNS</b>: spoofing via Revoked Domain Name</a>](https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321)|An attacker can create spoofed data on MaraDNS, via Revoked Domain Name, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-information-disclosure-via-Adom-Error-Messages-43471" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: information disclosure via Adom Error Messages</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-information-disclosure-via-Adom-Error-Messages-43471)|An attacker can bypass access restrictions to data of FortiAnalyzer  FortiManager, via Adom Error Messages, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-information-disclosure-via-RSA-math-big-Library-43470" class="noirorange"><b>Go</b>: information disclosure via RSA math/big Library</a>](https://vigilance.fr/vulnerability/Go-information-disclosure-via-RSA-math-big-Library-43470)|An attacker can bypass access restrictions to data of Go, via RSA math/big Library, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313" class="noirorange"><b>GitLab</b>: directory traversal via Five Groups Attachment</a>](https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313)|An attacker can traverse directories of GitLab, via Five Groups Attachment, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309" class="noirorange"><b>Ignite Openfire</b>: privilege escalation via Admin Console</a>](https://vigilance.fr/vulnerability/Ignite-Openfire-privilege-escalation-via-Admin-Console-41309)|An attacker can bypass restrictions of Ignite Openfire, via Admin Console, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303" class="noirorange"><b>c-ares</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303)|An attacker can use several vulnerabilities of c-ares...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177" class="noirorange"><b>ESET NOD32 Antivirus</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-Man-in-the-Middle-43177)|An attacker can act as a Man-in-the-Middle on ESET NOD32 Antivirus, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174" class="noirorange"><b>Linux kernel</b>: use after free via gsm_cleanup_mux()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via gsm_cleanup_mux(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-205/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-204/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-203/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-202/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-201/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-200/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-199/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor Updater Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-198/)|Visit link for details|2024-02-23|
  
 
 # EU-CERT
@@ -156,18 +170,21 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-205/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-204/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-203/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-202/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-201/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-200/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-199/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor Updater Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-198/)|Visit link for details|2024-02-23|
+ |[Vulnerabilities impacting ConnectWise ScreenConnect](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-connectwise-screenconnect)|Visit link for details|2024-02-22|
+ |[[Control systems] B&R security advisory (AV24-105)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-105)|Visit link for details|2024-02-22|
+ |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
+ |[GitLab security advisory (AV24-103)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-103)|Visit link for details|2024-02-21|
+ |[ConnectWise security advisory (AV24-100) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av24-100)|Visit link for details|2024-02-21|
+ |[Google Chrome security advisory (AV24-102)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-102)|Visit link for details|2024-02-21|
+ |[VMware security advisory (AV24-101)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-101)|Visit link for details|2024-02-20|
+ |[Mozilla security advisory (AV24-099)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-099)|Visit link for details|2024-02-20|
+ |[Red Hat security advisory (AV24-098)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-098)|Visit link for details|2024-02-19|
+ |[[Control systems] CISA ICS security advisories (AV24-097)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-097)|Visit link for details|2024-02-19|
+ |[Ubuntu security advisory (AV24-096)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-096)|Visit link for details|2024-02-19|
  
 
 # MA-CERT
@@ -185,21 +202,4 @@
  |[ 46142102/2024 - Vulnérabilité affectant le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-cms-joomla-0)| Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité affectant les versions susmentionnées de son CMS. L’exploitation de cette vulnérabilité peut permettre à un    attaquant…| 21 février 2024|
  |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
  |[ 46121602/24 - Vulnérabilités affectant le serveur web Nginx ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx)| Deux vulnérabilités ont été corrigées au niveau du serveur web Nginx. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant de causer un déni de service.| 16 février 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnerabilities impacting ConnectWise ScreenConnect](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-connectwise-screenconnect)|Visit link for details|2024-02-22|
- |[[Control systems] B&R security advisory (AV24-105)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-105)|Visit link for details|2024-02-22|
- |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
- |[GitLab security advisory (AV24-103)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-103)|Visit link for details|2024-02-21|
- |[ConnectWise security advisory (AV24-100) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av24-100)|Visit link for details|2024-02-21|
- |[Google Chrome security advisory (AV24-102)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-102)|Visit link for details|2024-02-21|
- |[VMware security advisory (AV24-101)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-101)|Visit link for details|2024-02-20|
- |[Mozilla security advisory (AV24-099)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-099)|Visit link for details|2024-02-20|
- |[Red Hat security advisory (AV24-098)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-098)|Visit link for details|2024-02-19|
- |[[Control systems] CISA ICS security advisories (AV24-097)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-097)|Visit link for details|2024-02-19|
- |[Ubuntu security advisory (AV24-096)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-096)|Visit link for details|2024-02-19|
  
