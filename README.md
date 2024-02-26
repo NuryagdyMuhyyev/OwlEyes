@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/02/2024 09:19:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/02/2024 10:16:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/02/13/adobe-releases-security-updates-multiple-products)|Visit link for details.|Feb 13, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5631-1 iwd - security update](https://www.linux.org/threads/dsa-5631-1-iwd-security-update.48808/)|Visit link for details.|Feb 25, 2024|
- |[USN-6650-1: Linux kernel (OEM) vulnerability](https://www.linux.org/threads/usn-6650-1-linux-kernel-oem-vulnerability.48795/)|Visit link for details.|Feb 24, 2024|
- |[USN-6653-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6653-1-linux-kernel-vulnerabilities.48793/)|Visit link for details.|Feb 23, 2024|
- |[USN-6652-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6652-1-linux-kernel-azure-vulnerabilities.48792/)|Visit link for details.|Feb 23, 2024|
- |[USN-6651-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6651-1-linux-kernel-vulnerabilities.48791/)|Visit link for details.|Feb 23, 2024|
- |[DSA-5630-1 thunderbird - security update](https://www.linux.org/threads/dsa-5630-1-thunderbird-security-update.48790/)|Visit link for details.|Feb 23, 2024|
- |[DSA-5629-1 chromium - security update](https://www.linux.org/threads/dsa-5629-1-chromium-security-update.48785/)|Visit link for details.|Feb 23, 2024|
- |[DSA-5628-1 imagemagick - security update](https://www.linux.org/threads/dsa-5628-1-imagemagick-security-update.48782/)|Visit link for details.|Feb 22, 2024|
- |[USN-6649-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6649-1-firefox-vulnerabilities.48777/)|Visit link for details.|Feb 22, 2024|
- |[USN-6648-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6648-1-linux-kernel-vulnerabilities.48775/)|Visit link for details.|Feb 22, 2024|
- |[DSA-5627-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5627-1-firefox-esr-security-update.48772/)|Visit link for details.|Feb 21, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -93,6 +76,23 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and cross-site scripting on the targeted system. [Updated on 2024-02-19] For...| Release Date: 9 Feb 2024 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5631-1 iwd - security update](https://www.linux.org/threads/dsa-5631-1-iwd-security-update.48808/)|Visit link for details.|Feb 25, 2024|
+ |[USN-6650-1: Linux kernel (OEM) vulnerability](https://www.linux.org/threads/usn-6650-1-linux-kernel-oem-vulnerability.48795/)|Visit link for details.|Feb 24, 2024|
+ |[USN-6653-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6653-1-linux-kernel-vulnerabilities.48793/)|Visit link for details.|Feb 23, 2024|
+ |[USN-6652-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6652-1-linux-kernel-azure-vulnerabilities.48792/)|Visit link for details.|Feb 23, 2024|
+ |[USN-6651-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6651-1-linux-kernel-vulnerabilities.48791/)|Visit link for details.|Feb 23, 2024|
+ |[DSA-5630-1 thunderbird - security update](https://www.linux.org/threads/dsa-5630-1-thunderbird-security-update.48790/)|Visit link for details.|Feb 23, 2024|
+ |[DSA-5629-1 chromium - security update](https://www.linux.org/threads/dsa-5629-1-chromium-security-update.48785/)|Visit link for details.|Feb 23, 2024|
+ |[DSA-5628-1 imagemagick - security update](https://www.linux.org/threads/dsa-5628-1-imagemagick-security-update.48782/)|Visit link for details.|Feb 22, 2024|
+ |[USN-6649-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6649-1-firefox-vulnerabilities.48777/)|Visit link for details.|Feb 22, 2024|
+ |[USN-6648-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6648-1-linux-kernel-vulnerabilities.48775/)|Visit link for details.|Feb 22, 2024|
+ |[DSA-5627-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5627-1-firefox-esr-security-update.48772/)|Visit link for details.|Feb 21, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -104,6 +104,20 @@
  |[Sante PACS Server SQL injection (CVE-2024-1863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  |[PDF-XChange Editor code execution (CVE-2024-27327)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  |[PDF-XChange Editor information disclosure (CVE-2024-27326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-205/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-204/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-203/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-202/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-201/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-200/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-199/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor Updater Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-198/)|Visit link for details|2024-02-23|
  
 
 # CERT-SANTE
@@ -121,20 +135,6 @@
  |[Pymatgen - CVE-2024-23346](https://www.cyberveille-sante.gouv.fr/alertes/pymatgen-cve-2024-23346-2024-02-22)|Visit link for details.|22/02/2024|
  |[Node.js - CVE-2024-21896](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-21896-2024-02-22)|Visit link for details.|22/02/2024|
  |[GitLab - CVE-2024-1451](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-1451-2024-02-22)|Visit link for details.|22/02/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-205/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-204/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-203/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-202/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-201/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-200/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-199/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor Updater Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-198/)|Visit link for details|2024-02-23|
  
 
 # OBS-Vigilance
