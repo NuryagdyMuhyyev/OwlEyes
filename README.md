@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/02/2024 04:17:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/02/2024 06:09:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,39 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6658-1: libxml2 vulnerability](https://www.linux.org/threads/usn-6658-1-libxml2-vulnerability.48835/)|Visit link for details.|Feb 26, 2024|
- |[USN-6657-1: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-1-dnsmasq-vulnerabilities.48834/)|Visit link for details.|Feb 26, 2024|
- |[USN-6656-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6656-1-postgresql-vulnerability.48833/)|Visit link for details.|Feb 26, 2024|
- |[USN-6655-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6655-1-gnu-binutils-vulnerabilities.48822/)|Visit link for details.|Feb 26, 2024|
- |[USN-6654-1: Roundcube Webmail vulnerability](https://www.linux.org/threads/usn-6654-1-roundcube-webmail-vulnerability.48819/)|Visit link for details.|Feb 26, 2024|
- |[DSA-5631-1 iwd - security update](https://www.linux.org/threads/dsa-5631-1-iwd-security-update.48808/)|Visit link for details.|Feb 25, 2024|
- |[USN-6650-1: Linux kernel (OEM) vulnerability](https://www.linux.org/threads/usn-6650-1-linux-kernel-oem-vulnerability.48795/)|Visit link for details.|Feb 24, 2024|
- |[USN-6653-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6653-1-linux-kernel-vulnerabilities.48793/)|Visit link for details.|Feb 23, 2024|
- |[USN-6652-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6652-1-linux-kernel-azure-vulnerabilities.48792/)|Visit link for details.|Feb 23, 2024|
- |[USN-6651-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6651-1-linux-kernel-vulnerabilities.48791/)|Visit link for details.|Feb 23, 2024|
- |[DSA-5630-1 thunderbird - security update](https://www.linux.org/threads/dsa-5630-1-thunderbird-security-update.48790/)|Visit link for details.|Feb 23, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0161/)|Une vulnérabilité a été découverte dans la gamme de produits SonicWall SMA100. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 février 2024|
- |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Vulnérabilité dans Kaspersky Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/)|Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
- |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 février 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 février 2024|
- |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0155/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 22 février 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -76,6 +43,23 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
  |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
  |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6659-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6659-1-libde265-vulnerabilities.48838/)|Visit link for details.|Feb 26, 2024|
+ |[USN-6658-1: libxml2 vulnerability](https://www.linux.org/threads/usn-6658-1-libxml2-vulnerability.48835/)|Visit link for details.|Feb 26, 2024|
+ |[USN-6657-1: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-1-dnsmasq-vulnerabilities.48834/)|Visit link for details.|Feb 26, 2024|
+ |[USN-6656-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6656-1-postgresql-vulnerability.48833/)|Visit link for details.|Feb 26, 2024|
+ |[USN-6655-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6655-1-gnu-binutils-vulnerabilities.48822/)|Visit link for details.|Feb 26, 2024|
+ |[USN-6654-1: Roundcube Webmail vulnerability](https://www.linux.org/threads/usn-6654-1-roundcube-webmail-vulnerability.48819/)|Visit link for details.|Feb 26, 2024|
+ |[DSA-5631-1 iwd - security update](https://www.linux.org/threads/dsa-5631-1-iwd-security-update.48808/)|Visit link for details.|Feb 25, 2024|
+ |[USN-6650-1: Linux kernel (OEM) vulnerability](https://www.linux.org/threads/usn-6650-1-linux-kernel-oem-vulnerability.48795/)|Visit link for details.|Feb 24, 2024|
+ |[USN-6653-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6653-1-linux-kernel-vulnerabilities.48793/)|Visit link for details.|Feb 23, 2024|
+ |[USN-6652-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6652-1-linux-kernel-azure-vulnerabilities.48792/)|Visit link for details.|Feb 23, 2024|
+ |[USN-6651-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6651-1-linux-kernel-vulnerabilities.48791/)|Visit link for details.|Feb 23, 2024|
  
 
 # CERT-SANTE
@@ -111,6 +95,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174" class="noirorange"><b>Linux kernel</b>: use after free via gsm_cleanup_mux()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-gsm-cleanup-mux-43174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via gsm_cleanup_mux(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0161/)|Une vulnérabilité a été découverte dans la gamme de produits SonicWall SMA100. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Vulnérabilité dans Kaspersky Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/)|Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
+ |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 février 2024|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 février 2024|
+ |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0155/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 22 février 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -130,30 +130,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SourceCodester Complete File Management System SQL injection (CVE-2024-1831)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  |[backstage directory traversal (CVE-2024-26150)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  |[Apache Camel information disclosure (CVE-2024-22371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  |[Microsoft Edge for Android spoofing (CVE-2024-26188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  |[Microsoft Edge (Chromium-based) information disclosure (CVE-2024-26192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  |[Linux Kernel code execution (CVE-2024-26592)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  |[Linux Kernel information disclosure (CVE-2024-26594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[C-ares denial of service (CVE-2024-25629)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46232602/24 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate       Member». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié…| 26 février 2024|
- |[ 46222202/24 - Vulnérabilités affectant Spring Framework et Spring Security ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-spring-framework-et-spring-security)| Spring annonce la correction de deux vulnérabilités affectant ses  produits Spring Framework et Spring Security.  L'exploitation de ces vulnérabilités peut permettre à un attaquant le contournement de…| 23 février 2024|
- |[ 46212202/24 - Vulnérabilité affectant Cisco Unified Intelligence Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-cisco-unified-intelligence-center)| Cisco annonce la correction d’une vulnérabilité affectant son produit Cisco Unified Intelligence Center. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’accéder à des…| 22 février 2024|
- |[ 46202202/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-6)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 22 février 2024|
- |[ 46192202/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-16)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 février 2024|
- |[ 46182202/24 - Vulnérabilité critique affectant le plugin «RSS Aggregator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-rss-aggregator-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «RSS Aggregator». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 22 février 2024|
- |[ 46172102/24 - Vulnérabilité critique affectant le plugin «Bricks Builder» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-bricks-builder-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Bricks Builder». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 21 février 2024|
- |[ 46162102/24 - Vulnérabilités critiques affectant ConnectWise ScreenConnect ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-connectwise-screenconnect)| ConnectWise annonce la correction de deux vulnérabilités critiques affectant son produit ScreenConnet. Ces vulnérabilités sont activement exploitées et  peuvent  permettre à un attaquant distant de…| 21 février 2024|
- |[ 46152102/24 - Vulnérabilités critiques affectant VMware Enhanced Authentication Plug-in ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-enhanced-authentication-plug)| VMware annonce la correction  de deux vulnérabilités critiques affectant son produit VMware Enhanced Authentication Plug-in. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant…| 21 février 2024|
- |[ 46142102/2024 - Vulnérabilité affectant le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-cms-joomla-0)| Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité affectant les versions susmentionnées de son CMS. L’exploitation de cette vulnérabilité peut permettre à un    attaquant…| 21 février 2024|
- |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
  
 
 # EU-CERT
@@ -185,6 +168,23 @@
  |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-203/)|Visit link for details|2024-02-23|
  |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-202/)|Visit link for details|2024-02-23|
  |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-201/)|Visit link for details|2024-02-23|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46232602/24 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate       Member». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié…| 26 février 2024|
+ |[ 46222202/24 - Vulnérabilités affectant Spring Framework et Spring Security ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-spring-framework-et-spring-security)| Spring annonce la correction de deux vulnérabilités affectant ses  produits Spring Framework et Spring Security.  L'exploitation de ces vulnérabilités peut permettre à un attaquant le contournement de…| 23 février 2024|
+ |[ 46212202/24 - Vulnérabilité affectant Cisco Unified Intelligence Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-cisco-unified-intelligence-center)| Cisco annonce la correction d’une vulnérabilité affectant son produit Cisco Unified Intelligence Center. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’accéder à des…| 22 février 2024|
+ |[ 46202202/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-6)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 22 février 2024|
+ |[ 46192202/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-16)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 février 2024|
+ |[ 46182202/24 - Vulnérabilité critique affectant le plugin «RSS Aggregator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-rss-aggregator-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «RSS Aggregator». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 22 février 2024|
+ |[ 46172102/24 - Vulnérabilité critique affectant le plugin «Bricks Builder» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-bricks-builder-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Bricks Builder». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 21 février 2024|
+ |[ 46162102/24 - Vulnérabilités critiques affectant ConnectWise ScreenConnect ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-connectwise-screenconnect)| ConnectWise annonce la correction de deux vulnérabilités critiques affectant son produit ScreenConnet. Ces vulnérabilités sont activement exploitées et  peuvent  permettre à un attaquant distant de…| 21 février 2024|
+ |[ 46152102/24 - Vulnérabilités critiques affectant VMware Enhanced Authentication Plug-in ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-enhanced-authentication-plug)| VMware annonce la correction  de deux vulnérabilités critiques affectant son produit VMware Enhanced Authentication Plug-in. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant…| 21 février 2024|
+ |[ 46142102/2024 - Vulnérabilité affectant le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-cms-joomla-0)| Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité affectant les versions susmentionnées de son CMS. L’exploitation de cette vulnérabilité peut permettre à un    attaquant…| 21 février 2024|
+ |[ 46131902/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 février 2024|
  
 
 # CA-CCS
