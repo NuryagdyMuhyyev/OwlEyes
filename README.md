@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/02/2024 20:17:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/02/2024 21:21:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6663-1: OpenSSL update](https://www.linux.org/threads/usn-6663-1-openssl-update.48852/)|Visit link for details.|Feb 27, 2024|
+ |[USN-6305-2: PHP vulnerabilities](https://www.linux.org/threads/usn-6305-2-php-vulnerabilities.48851/)|Visit link for details.|Feb 27, 2024|
  |[USN-6660-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6660-1-openjdk-11-vulnerabilities.48842/)|Visit link for details.|Feb 27, 2024|
  |[USN-6662-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6662-1-openjdk-21-vulnerabilities.48841/)|Visit link for details.|Feb 27, 2024|
  |[USN-6661-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6661-1-openjdk-17-vulnerabilities.48840/)|Visit link for details.|Feb 27, 2024|
@@ -42,30 +44,15 @@
  |[USN-6656-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6656-1-postgresql-vulnerability.48833/)|Visit link for details.|Feb 26, 2024|
  |[USN-6655-1: GNU binutils vulnerabilities](https://www.linux.org/threads/usn-6655-1-gnu-binutils-vulnerabilities.48822/)|Visit link for details.|Feb 26, 2024|
  |[USN-6654-1: Roundcube Webmail vulnerability](https://www.linux.org/threads/usn-6654-1-roundcube-webmail-vulnerability.48819/)|Visit link for details.|Feb 26, 2024|
- |[DSA-5631-1 iwd - security update](https://www.linux.org/threads/dsa-5631-1-iwd-security-update.48808/)|Visit link for details.|Feb 25, 2024|
- |[USN-6650-1: Linux kernel (OEM) vulnerability](https://www.linux.org/threads/usn-6650-1-linux-kernel-oem-vulnerability.48795/)|Visit link for details.|Feb 24, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA, NCSC-UK, and Partners Release Advisory on Russian SVR Actors Targeting Cloud Infrastructure](https://www.cisa.gov/news-events/alerts/2024/02/26/cisa-ncsc-uk-and-partners-release-advisory-russian-svr-actors-targeting-cloud-infrastructure)|Visit link for details.|Feb 26, 2024|
- |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 22, 2024|
- |[CISA Adds One Known Exploited ConnectWise Vulnerability, CVE-2024-1709, to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-adds-one-known-exploited-connectwise-vulnerability-cve-2024-1709-catalog)|Visit link for details.|Feb 22, 2024|
- |[CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 21, 2024|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2024/02/21/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Feb 21, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 20, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
- |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 février 2024|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
@@ -73,9 +60,6 @@
  |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  |[Vulnérabilité dans Kaspersky Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/)|Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
- |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 février 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 février 2024|
- |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0155/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 22 février 2024|
  
 
 # CERT-SANTE
@@ -95,19 +79,20 @@
  |[Biosig Project - CVE-2024-22097](https://www.cyberveille-sante.gouv.fr/alertes/biosig-project-cve-2024-22097-2024-02-22)|Visit link for details.|22/02/2024|
  
 
-# HK-CERT
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240227)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 27 Feb 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240226)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20240226)|Multiple vulnerabilities were identified in NetApp Product.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, data manipulation and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240223)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Feb 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 8 Feb 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240222)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 22 Feb 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240221)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, remote code execution and denial of service condition on the targeted system.|Release Date: 21 Feb 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Feb 2024 |
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 27, 2024|
+ |[CISA, NCSC-UK, and Partners Release Advisory on Russian SVR Actors Targeting Cloud Infrastructure](https://www.cisa.gov/news-events/alerts/2024/02/26/cisa-ncsc-uk-and-partners-release-advisory-russian-svr-actors-targeting-cloud-infrastructure)|Visit link for details.|Feb 26, 2024|
+ |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 22, 2024|
+ |[CISA Adds One Known Exploited ConnectWise Vulnerability, CVE-2024-1709, to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-adds-one-known-exploited-connectwise-vulnerability-cve-2024-1709-catalog)|Visit link for details.|Feb 22, 2024|
+ |[CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 21, 2024|
+ |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2024/02/21/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Feb 21, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 20, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|Feb 15, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -123,20 +108,19 @@
  |[Microsoft Azure MCR VSTS CLI code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 25, 2024|
  
 
-# OBS-Vigilance
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182" class="noirorange"><b>Cppcheck</b>: code execution via removeContradiction</a>](https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182)|An attacker can use a vulnerability of Cppcheck, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181" class="noirorange"><b>zlib-ng minizip-ng</b>: buffer overflow via mz_path_has_slash()</a>](https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181)|An attacker can trigger a buffer overflow of zlib-ng minizip-ng, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180" class="noirorange"><b>UnrealIRCd</b>: denial of service via Websocket Port Oversized Packet</a>](https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180)|An attacker can cause a fatal error of UnrealIRCd, via Websocket Port Oversized Packet, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179" class="noirorange"><b>Linux kernel</b>: use after free via nft_pipapo_walk()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_pipapo_walk(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178" class="noirorange"><b>Mtrojnar Osslsigncode</b>: code execution via EXE / SYS / DLL</a>](https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178)|An attacker can use a vulnerability of Mtrojnar Osslsigncode, via EXE / SYS / DLL, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-UBI-IOCATT-43488" class="noirorange"><b>Linux kernel</b>: memory leak via UBI_IOCATT</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-UBI-IOCATT-43488)|An attacker can create a memory leak of the Linux kernel, via UBI_IOCATT, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-create-empty-lvol-43487" class="noirorange"><b>Linux kernel</b>: denial of service via create_empty_lvol()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-create-empty-lvol-43487)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240227)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 27 Feb 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240226)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
+ |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20240226)|Multiple vulnerabilities were identified in NetApp Product.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, data manipulation and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240223)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Feb 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 8 Feb 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240222)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 22 Feb 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240221)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, remote code execution and denial of service condition on the targeted system.|Release Date: 21 Feb 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240219)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Feb 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -168,6 +152,22 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187" class="noirorange"><b>SQLite</b>: buffer overflow via sqlite3session.c</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187)|An attacker can trigger a buffer overflow of SQLite, via sqlite3session.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182" class="noirorange"><b>Cppcheck</b>: code execution via removeContradiction</a>](https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182)|An attacker can use a vulnerability of Cppcheck, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181" class="noirorange"><b>zlib-ng minizip-ng</b>: buffer overflow via mz_path_has_slash()</a>](https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181)|An attacker can trigger a buffer overflow of zlib-ng minizip-ng, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180" class="noirorange"><b>UnrealIRCd</b>: denial of service via Websocket Port Oversized Packet</a>](https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180)|An attacker can cause a fatal error of UnrealIRCd, via Websocket Port Oversized Packet, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179" class="noirorange"><b>Linux kernel</b>: use after free via nft_pipapo_walk()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_pipapo_walk(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178" class="noirorange"><b>Mtrojnar Osslsigncode</b>: code execution via EXE / SYS / DLL</a>](https://vigilance.fr/vulnerability/Mtrojnar-Osslsigncode-code-execution-via-EXE-SYS-DLL-43178)|An attacker can use a vulnerability of Mtrojnar Osslsigncode, via EXE / SYS / DLL, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-UBI-IOCATT-43488" class="noirorange"><b>Linux kernel</b>: memory leak via UBI_IOCATT</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-UBI-IOCATT-43488)|An attacker can create a memory leak of the Linux kernel, via UBI_IOCATT, in order to trigger a denial of service...|Visit link for details|
  
 
 # CA-CCS
