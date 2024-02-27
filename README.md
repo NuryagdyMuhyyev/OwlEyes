@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/02/2024 15:18:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/02/2024 16:13:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[CISA and MS-ISAC Release Advisory on Compromised Account Used to Access State Government Organization](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-and-ms-isac-release-advisory-compromised-account-used-access-state-government-organization)|Visit link for details.|Feb 15, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0161/)|Une vulnérabilité a été découverte dans la gamme de produits SonicWall SMA100. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 février 2024|
- |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Vulnérabilité dans Kaspersky Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/)|Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
- |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 février 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -76,23 +60,6 @@
  |[USN-6654-1: Roundcube Webmail vulnerability](https://www.linux.org/threads/usn-6654-1-roundcube-webmail-vulnerability.48819/)|Visit link for details.|Feb 26, 2024|
  |[DSA-5631-1 iwd - security update](https://www.linux.org/threads/dsa-5631-1-iwd-security-update.48808/)|Visit link for details.|Feb 25, 2024|
  |[USN-6650-1: Linux kernel (OEM) vulnerability](https://www.linux.org/threads/usn-6650-1-linux-kernel-oem-vulnerability.48795/)|Visit link for details.|Feb 24, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Santesoft PACS - CVE-2024-1863](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-pacs-cve-2024-1863-2024-02-26)|Visit link for details.|26/02/2024|
- |[Perl - CVE-2023-47100](https://www.cyberveille-sante.gouv.fr/alertes/perl-cve-2023-47100-2024-02-26)|Visit link for details.|26/02/2024|
- |[Google Chrome - CVE-2024-1670](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1670-2024-02-26)|Visit link for details.|26/02/2024|
- |[Imaging Data Commons libdicom - CVE-2024-24794](https://www.cyberveille-sante.gouv.fr/alertes/imaging-data-commons-libdicom-cve-2024-24794-2024-02-26)|Visit link for details.|26/02/2024|
- |[Spring - CVE-2024-22243](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22243-2024-02-23)|Visit link for details.|23/02/2024|
- |[Progress LoadMaster - CVE-2024-1212](https://www.cyberveille-sante.gouv.fr/alertes/progress-loadmaster-cve-2024-1212-2024-02-23)|Visit link for details.|23/02/2024|
- |[Google Chrome - CVE-2024-1669](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1669-2024-02-23)|Visit link for details.|23/02/2024|
- |[D-Link - CVE-2023-24331](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24331-2024-02-23)|Visit link for details.|23/02/2024|
- |[Apple - CVE-2024-23204](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23204-2024-02-23)|Visit link for details.|23/02/2024|
- |[Microsoft - CVE-2024-21413](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21413-2024-02-14)|Visit link for details.|23/02/2024|
- |[Biosig Project - CVE-2024-22097](https://www.cyberveille-sante.gouv.fr/alertes/biosig-project-cve-2024-22097-2024-02-22)|Visit link for details.|22/02/2024|
  
 
 # HK-CERT
@@ -114,29 +81,46 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Complaint Management System file upload (CVE-2024-1875)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 26, 2024|
  |[Microsoft Azure MCR VSTS CLI code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 25, 2024|
  |[Apache James privilege escalation (CVE-2023-51518)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 25, 2024|
  |[Linux Kernel weak security (CVE-2021-46905)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 25, 2024|
  |[Linux Kernel weak security (CVE-2021-46904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 25, 2024|
  |[Linux Kernel weak security (CVE-2022-48626)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 25, 2024|
- |[Code-projects Crime Reporting System SQL injection (CVE-2024-1820)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
- |[Code-projects Crime Reporting System SQL injection (CVE-2024-1821)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
+ |[SourceCodester Employee Management System cross-site scripting (CVE-2024-1871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 23, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-create-empty-lvol-43487" class="noirorange"><b>Linux kernel</b>: denial of service via create_empty_lvol()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-create-empty-lvol-43487)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dm-table-create-43486" class="noirorange"><b>Linux kernel</b>: denial of service via dm_table_create()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dm-table-create-43486)|An attacker can cause a fatal error of the Linux kernel, via dm_table_create(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Embedded-File-Tree-43481" class="noirorange"><b>Xpdf</b>: denial of service via Embedded File Tree</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Embedded-File-Tree-43481)|An attacker can cause a fatal error of Xpdf, via Embedded File Tree, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Object-Loop-43480" class="noirorange"><b>Xpdf</b>: denial of service via Object Loop</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Object-Loop-43480)|An attacker can cause a fatal error of Xpdf, via Object Loop, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Color-Space-Object-43475" class="noirorange"><b>Xpdf</b>: denial of service via Color Space Object</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Color-Space-Object-43475)|An attacker can cause a fatal error of Xpdf, via Color Space Object, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-XRef-fetch-43477" class="noirorange"><b>Xpdf</b>: denial of service via XRef::fetch()</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-XRef-fetch-43477)|An attacker can cause a fatal error of Xpdf, via XRef::fetch(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-AcroForm-scanField-43476" class="noirorange"><b>Xpdf</b>: denial of service via AcroForm::scanField()</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-AcroForm-scanField-43476)|An attacker can cause a fatal error of Xpdf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Included-Length-Field-43483" class="noirorange"><b>Xpdf</b>: denial of service via Included Length Field</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Included-Length-Field-43483)|An attacker can cause a fatal error of Xpdf, via Included Length Field, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Large-PDF-Page-Size-43482" class="noirorange"><b>Xpdf</b>: denial of service via Large PDF Page Size</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Large-PDF-Page-Size-43482)|An attacker can cause a fatal error of Xpdf, via Large PDF Page Size, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339" class="noirorange"><b>LibreOffice</b>: code execution via Floating Frames</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339)|An attacker can use a vulnerability of LibreOffice, via Floating Frames, in order to run code...|Visit link for details|
+ |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 février 2024|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0161/)|Une vulnérabilité a été découverte dans la gamme de produits SonicWall SMA100. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Vulnérabilité dans Kaspersky Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/)|Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Santesoft PACS - CVE-2024-1863](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-pacs-cve-2024-1863-2024-02-26)|Visit link for details.|26/02/2024|
+ |[Perl - CVE-2023-47100](https://www.cyberveille-sante.gouv.fr/alertes/perl-cve-2023-47100-2024-02-26)|Visit link for details.|26/02/2024|
+ |[Google Chrome - CVE-2024-1670](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1670-2024-02-26)|Visit link for details.|26/02/2024|
+ |[Imaging Data Commons libdicom - CVE-2024-24794](https://www.cyberveille-sante.gouv.fr/alertes/imaging-data-commons-libdicom-cve-2024-24794-2024-02-26)|Visit link for details.|26/02/2024|
+ |[Spring - CVE-2024-22243](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22243-2024-02-23)|Visit link for details.|23/02/2024|
+ |[Progress LoadMaster - CVE-2024-1212](https://www.cyberveille-sante.gouv.fr/alertes/progress-loadmaster-cve-2024-1212-2024-02-23)|Visit link for details.|23/02/2024|
+ |[Google Chrome - CVE-2024-1669](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1669-2024-02-23)|Visit link for details.|23/02/2024|
+ |[D-Link - CVE-2023-24331](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24331-2024-02-23)|Visit link for details.|23/02/2024|
+ |[Apple - CVE-2024-23204](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23204-2024-02-23)|Visit link for details.|23/02/2024|
+ |[Microsoft - CVE-2024-21413](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21413-2024-02-14)|Visit link for details.|23/02/2024|
+ |[Biosig Project - CVE-2024-22097](https://www.cyberveille-sante.gouv.fr/alertes/biosig-project-cve-2024-22097-2024-02-22)|Visit link for details.|22/02/2024|
  
 
 # ZERODAYINITIATIVE
@@ -151,6 +135,22 @@
  |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-203/)|Visit link for details|2024-02-23|
  |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-202/)|Visit link for details|2024-02-23|
  |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-201/)|Visit link for details|2024-02-23|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-UBI-IOCATT-43488" class="noirorange"><b>Linux kernel</b>: memory leak via UBI_IOCATT</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-UBI-IOCATT-43488)|An attacker can create a memory leak of the Linux kernel, via UBI_IOCATT, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-create-empty-lvol-43487" class="noirorange"><b>Linux kernel</b>: denial of service via create_empty_lvol()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-create-empty-lvol-43487)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dm-table-create-43486" class="noirorange"><b>Linux kernel</b>: denial of service via dm_table_create()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dm-table-create-43486)|An attacker can cause a fatal error of the Linux kernel, via dm_table_create(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Embedded-File-Tree-43481" class="noirorange"><b>Xpdf</b>: denial of service via Embedded File Tree</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Embedded-File-Tree-43481)|An attacker can cause a fatal error of Xpdf, via Embedded File Tree, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Object-Loop-43480" class="noirorange"><b>Xpdf</b>: denial of service via Object Loop</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Object-Loop-43480)|An attacker can cause a fatal error of Xpdf, via Object Loop, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Color-Space-Object-43475" class="noirorange"><b>Xpdf</b>: denial of service via Color Space Object</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Color-Space-Object-43475)|An attacker can cause a fatal error of Xpdf, via Color Space Object, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Included-Length-Field-43483" class="noirorange"><b>Xpdf</b>: denial of service via Included Length Field</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Included-Length-Field-43483)|An attacker can cause a fatal error of Xpdf, via Included Length Field, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-XRef-fetch-43477" class="noirorange"><b>Xpdf</b>: denial of service via XRef::fetch()</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-XRef-fetch-43477)|An attacker can cause a fatal error of Xpdf, via XRef::fetch(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-AcroForm-scanField-43476" class="noirorange"><b>Xpdf</b>: denial of service via AcroForm::scanField()</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-AcroForm-scanField-43476)|An attacker can cause a fatal error of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Large-PDF-Page-Size-43482" class="noirorange"><b>Xpdf</b>: denial of service via Large PDF Page Size</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Large-PDF-Page-Size-43482)|An attacker can cause a fatal error of Xpdf, via Large PDF Page Size, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
