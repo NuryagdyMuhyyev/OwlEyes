@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/02/2024 19:14:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/02/2024 20:16:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,39 @@
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|28/02/2024|
+ |[Zyxel - CVE-2023-6398](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-6398-2024-02-27)|Visit link for details.|27/02/2024|
+ |[Nagios - CVE-2024-24401](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2024-24401-2024-02-27)|Visit link for details.|27/02/2024|
+ |[Microsoft Edge - CVE-2024-26192](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-26192-2024-02-27)|Visit link for details.|27/02/2024|
+ |[Linux - CVE-2024-26594](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26594-2024-02-27)|Visit link for details.|27/02/2024|
+ |[D-Link - CVE-2023-24330](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24330-2024-02-27)|Visit link for details.|27/02/2024|
+ |[Ultimate Member WordPress Plugin - CVE-2024-1071](https://www.cyberveille-sante.gouv.fr/alertes/ultimate-member-wordpress-plugin-cve-2024-1071-2024-02-26)|Visit link for details.|26/02/2024|
+ |[Santesoft PACS - CVE-2024-1863](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-pacs-cve-2024-1863-2024-02-26)|Visit link for details.|26/02/2024|
+ |[Perl - CVE-2023-47100](https://www.cyberveille-sante.gouv.fr/alertes/perl-cve-2023-47100-2024-02-26)|Visit link for details.|26/02/2024|
+ |[Google Chrome - CVE-2024-1670](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1670-2024-02-26)|Visit link for details.|26/02/2024|
+ |[Imaging Data Commons libdicom - CVE-2024-24794](https://www.cyberveille-sante.gouv.fr/alertes/imaging-data-commons-libdicom-cve-2024-24794-2024-02-26)|Visit link for details.|26/02/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Install Tool Encryption Key</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501)|An attacker can bypass access restrictions to data of TYPO3 Core, via Install Tool Encryption Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188" class="noirorange"><b>ImageMagick</b>: memory corruption via SetPixelMetaChannels</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188)|An attacker can trigger a memory corruption of ImageMagick, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187" class="noirorange"><b>SQLite</b>: buffer overflow via sqlite3session.c</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187)|An attacker can trigger a buffer overflow of SQLite, via sqlite3session.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182" class="noirorange"><b>Cppcheck</b>: code execution via removeContradiction</a>](https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182)|An attacker can use a vulnerability of Cppcheck, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181" class="noirorange"><b>zlib-ng minizip-ng</b>: buffer overflow via mz_path_has_slash()</a>](https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181)|An attacker can trigger a buffer overflow of zlib-ng minizip-ng, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180" class="noirorange"><b>UnrealIRCd</b>: denial of service via Websocket Port Oversized Packet</a>](https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180)|An attacker can cause a fatal error of UnrealIRCd, via Websocket Port Oversized Packet, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179" class="noirorange"><b>Linux kernel</b>: use after free via nft_pipapo_walk()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_pipapo_walk(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -106,53 +139,6 @@
  |[Sante DICOM Viewer Pro code execution (CVE-2024-1453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 27, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zyxel - CVE-2023-6398](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2023-6398-2024-02-27)|Visit link for details.|27/02/2024|
- |[Nagios - CVE-2024-24401](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2024-24401-2024-02-27)|Visit link for details.|27/02/2024|
- |[Microsoft Edge - CVE-2024-26192](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-26192-2024-02-27)|Visit link for details.|27/02/2024|
- |[Linux - CVE-2024-26594](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26594-2024-02-27)|Visit link for details.|27/02/2024|
- |[D-Link - CVE-2023-24330](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24330-2024-02-27)|Visit link for details.|27/02/2024|
- |[Ultimate Member WordPress Plugin - CVE-2024-1071](https://www.cyberveille-sante.gouv.fr/alertes/ultimate-member-wordpress-plugin-cve-2024-1071-2024-02-26)|Visit link for details.|26/02/2024|
- |[Santesoft PACS - CVE-2024-1863](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-pacs-cve-2024-1863-2024-02-26)|Visit link for details.|26/02/2024|
- |[Perl - CVE-2023-47100](https://www.cyberveille-sante.gouv.fr/alertes/perl-cve-2023-47100-2024-02-26)|Visit link for details.|26/02/2024|
- |[Google Chrome - CVE-2024-1670](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1670-2024-02-26)|Visit link for details.|26/02/2024|
- |[Imaging Data Commons libdicom - CVE-2024-24794](https://www.cyberveille-sante.gouv.fr/alertes/imaging-data-commons-libdicom-cve-2024-24794-2024-02-26)|Visit link for details.|26/02/2024|
- |[Spring - CVE-2024-22243](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22243-2024-02-23)|Visit link for details.|23/02/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
- |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
- |[Apple macOS ImageIO MPO Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-206/)|Visit link for details|2024-02-26|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-205/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-204/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-203/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-202/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-201/)|Visit link for details|2024-02-23|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Install Tool Encryption Key</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501)|An attacker can bypass access restrictions to data of TYPO3 Core, via Install Tool Encryption Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188" class="noirorange"><b>ImageMagick</b>: memory corruption via SetPixelMetaChannels</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188)|An attacker can trigger a memory corruption of ImageMagick, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187" class="noirorange"><b>SQLite</b>: buffer overflow via sqlite3session.c</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187)|An attacker can trigger a buffer overflow of SQLite, via sqlite3session.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182" class="noirorange"><b>Cppcheck</b>: code execution via removeContradiction</a>](https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182)|An attacker can use a vulnerability of Cppcheck, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181" class="noirorange"><b>zlib-ng minizip-ng</b>: buffer overflow via mz_path_has_slash()</a>](https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181)|An attacker can trigger a buffer overflow of zlib-ng minizip-ng, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180" class="noirorange"><b>UnrealIRCd</b>: denial of service via Websocket Port Oversized Packet</a>](https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180)|An attacker can cause a fatal error of UnrealIRCd, via Websocket Port Oversized Packet, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179" class="noirorange"><b>Linux kernel</b>: use after free via nft_pipapo_walk()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_pipapo_walk(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -170,21 +156,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 46252802/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen-0)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 28 février 2024|
- |[ 46242702/24 - Vulnérabilités dans les produits ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zyxel)| Plusieurs vulnérabilités ont été corrigées dans certaines versions des pare-feu et des points d'accès (AP) du constructeur ZyXEL. L’exploitation de ces failles peut permettre à un attaquant d’injecter…| 27 février 2024|
- |[ 46232602/24 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate       Member». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié…| 26 février 2024|
- |[ 46222202/24 - Vulnérabilités affectant Spring Framework et Spring Security ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-spring-framework-et-spring-security)| Spring annonce la correction de deux vulnérabilités affectant ses  produits Spring Framework et Spring Security.  L'exploitation de ces vulnérabilités peut permettre à un attaquant le contournement de…| 23 février 2024|
- |[ 46212202/24 - Vulnérabilité affectant Cisco Unified Intelligence Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-cisco-unified-intelligence-center)| Cisco annonce la correction d’une vulnérabilité affectant son produit Cisco Unified Intelligence Center. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’accéder à des…| 22 février 2024|
- |[ 46202202/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-6)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 22 février 2024|
- |[ 46192202/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-16)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 février 2024|
- |[ 46182202/24 - Vulnérabilité critique affectant le plugin «RSS Aggregator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-rss-aggregator-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «RSS Aggregator». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 22 février 2024|
- |[ 46172102/24 - Vulnérabilité critique affectant le plugin «Bricks Builder» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-bricks-builder-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Bricks Builder». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 21 février 2024|
- |[ 46162102/24 - Vulnérabilités critiques affectant ConnectWise ScreenConnect ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-connectwise-screenconnect)| ConnectWise annonce la correction de deux vulnérabilités critiques affectant son produit ScreenConnet. Ces vulnérabilités sont activement exploitées et  peuvent  permettre à un attaquant distant de…| 21 février 2024|
- |[ 46152102/24 - Vulnérabilités critiques affectant VMware Enhanced Authentication Plug-in ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-enhanced-authentication-plug)| VMware annonce la correction  de deux vulnérabilités critiques affectant son produit VMware Enhanced Authentication Plug-in. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant…| 21 février 2024|
+ |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
+ |[Apple macOS ImageIO MPO Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-206/)|Visit link for details|2024-02-26|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-205/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-204/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-203/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-202/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-201/)|Visit link for details|2024-02-23|
  
 
 # CA-CCS
@@ -202,4 +185,21 @@
  |[ConnectWise security advisory (AV24-100) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av24-100)|Visit link for details|2024-02-21|
  |[Google Chrome security advisory (AV24-102)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-102)|Visit link for details|2024-02-21|
  |[VMware security advisory (AV24-101)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-101)|Visit link for details|2024-02-20|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46252802/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen-0)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 28 février 2024|
+ |[ 46242702/24 - Vulnérabilités dans les produits ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zyxel)| Plusieurs vulnérabilités ont été corrigées dans certaines versions des pare-feu et des points d'accès (AP) du constructeur ZyXEL. L’exploitation de ces failles peut permettre à un attaquant d’injecter…| 27 février 2024|
+ |[ 46232602/24 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate       Member». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié…| 26 février 2024|
+ |[ 46222202/24 - Vulnérabilités affectant Spring Framework et Spring Security ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-spring-framework-et-spring-security)| Spring annonce la correction de deux vulnérabilités affectant ses  produits Spring Framework et Spring Security.  L'exploitation de ces vulnérabilités peut permettre à un attaquant le contournement de…| 23 février 2024|
+ |[ 46212202/24 - Vulnérabilité affectant Cisco Unified Intelligence Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-cisco-unified-intelligence-center)| Cisco annonce la correction d’une vulnérabilité affectant son produit Cisco Unified Intelligence Center. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’accéder à des…| 22 février 2024|
+ |[ 46202202/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-6)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 22 février 2024|
+ |[ 46192202/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-16)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 février 2024|
+ |[ 46182202/24 - Vulnérabilité critique affectant le plugin «RSS Aggregator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-rss-aggregator-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «RSS Aggregator». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 22 février 2024|
+ |[ 46172102/24 - Vulnérabilité critique affectant le plugin «Bricks Builder» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-bricks-builder-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Bricks Builder». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 21 février 2024|
+ |[ 46162102/24 - Vulnérabilités critiques affectant ConnectWise ScreenConnect ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-connectwise-screenconnect)| ConnectWise annonce la correction de deux vulnérabilités critiques affectant son produit ScreenConnet. Ces vulnérabilités sont activement exploitées et  peuvent  permettre à un attaquant distant de…| 21 février 2024|
+ |[ 46152102/24 - Vulnérabilités critiques affectant VMware Enhanced Authentication Plug-in ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-enhanced-authentication-plug)| VMware annonce la correction  de deux vulnérabilités critiques affectant son produit VMware Enhanced Authentication Plug-in. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant…| 21 février 2024|
  
