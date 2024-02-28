@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/02/2024 13:20:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/02/2024 14:16:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[USN-6657-1: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-1-dnsmasq-vulnerabilities.48834/)|Visit link for details.|Feb 26, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/)|Une vulnérabilité a été découverte dans |Publié le 27 février 2024|
+ |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 février 2024|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0161/)|Une vulnérabilité a été découverte dans la gamme de produits SonicWall SMA100. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +93,6 @@
  |[Apple - CVE-2024-23204](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23204-2024-02-23)|Visit link for details.|23/02/2024|
  |[Microsoft - CVE-2024-21413](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21413-2024-02-14)|Visit link for details.|23/02/2024|
  |[Biosig Project - CVE-2024-22097](https://www.cyberveille-sante.gouv.fr/alertes/biosig-project-cve-2024-22097-2024-02-22)|Visit link for details.|22/02/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0161/)|Une vulnérabilité a été découverte dans la gamme de produits SonicWall SMA100. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 février 2024|
- |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Vulnérabilité dans Kaspersky Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/)|Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
- |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 février 2024|
  
 
 # OBS-Vigilance
@@ -139,20 +139,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240221)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, remote code execution and denial of service condition on the targeted system.|Release Date: 21 Feb 2024 |
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
- |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
- |[Apple macOS ImageIO MPO Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-206/)|Visit link for details|2024-02-26|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-205/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-204/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-203/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-202/)|Visit link for details|2024-02-23|
- |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-201/)|Visit link for details|2024-02-23|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -168,6 +154,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
+ |[Apple macOS ImageIO MPO Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-206/)|Visit link for details|2024-02-26|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-205/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor XPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-204/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-203/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-202/)|Visit link for details|2024-02-23|
+ |[PDF-XChange Editor EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-201/)|Visit link for details|2024-02-23|
  
 
 # CA-CCS
