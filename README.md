@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/02/2024 23:20:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/02/2024 00:14:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 20, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans ZimbraCollaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 28 février 2024|
+ |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0170/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 février 2024|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0169/)|Une vulnérabilité a été découverte dans |Publié le 28 février 2024|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/)|Une vulnérabilité a été découverte dans |Publié le 27 février 2024|
+ |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 février 2024|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -75,22 +91,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 8 Feb 2024 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240222)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 22 Feb 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240221)|Multiple vulnerabilities were identified in Google Chrome.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, remote code execution and denial of service condition on the targeted system.|Release Date: 21 Feb 2024 |
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans ZimbraCollaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 28 février 2024|
- |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0170/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 février 2024|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0169/)|Une vulnérabilité a été découverte dans |Publié le 28 février 2024|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/)|Une vulnérabilité a été découverte dans |Publié le 27 février 2024|
- |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 février 2024|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -191,6 +191,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco security advisory (AV24-111)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-111)|Visit link for details|2024-02-28|
  |[Google Chrome security advisory (AV24-110)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-110)|Visit link for details|2024-02-28|
  |[IBM security advisory (AV24-109)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-109)|Visit link for details|2024-02-26|
  |[Dell security advisory (AV24-108)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-108)|Visit link for details|2024-02-26|
@@ -201,5 +202,4 @@
  |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
  |[GitLab security advisory (AV24-103)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-103)|Visit link for details|2024-02-21|
  |[ConnectWise security advisory (AV24-100) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av24-100)|Visit link for details|2024-02-21|
- |[Google Chrome security advisory (AV24-102)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-102)|Visit link for details|2024-02-21|
  
