@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/02/2024 21:20:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/02/2024 22:15:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6668-1: python-openstackclient vulnerability](https://www.linux.org/threads/usn-6668-1-python-openstackclient-vulnerability.48866/)|Visit link for details.|Feb 28, 2024|
+ |[USN-6667-1: Cpanel-JSON-XS vulnerability](https://www.linux.org/threads/usn-6667-1-cpanel-json-xs-vulnerability.48865/)|Visit link for details.|Feb 28, 2024|
+ |[USN-6666-1: libuv vulnerability](https://www.linux.org/threads/usn-6666-1-libuv-vulnerability.48864/)|Visit link for details.|Feb 28, 2024|
+ |[USN-6665-1: Unbound vulnerabilities](https://www.linux.org/threads/usn-6665-1-unbound-vulnerabilities.48863/)|Visit link for details.|Feb 28, 2024|
+ |[DSA-5633-1 knot-resolver - security update](https://www.linux.org/threads/dsa-5633-1-knot-resolver-security-update.48859/)|Visit link for details.|Feb 28, 2024|
+ |[USN-6644-2: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6644-2-libtiff-vulnerabilities.48856/)|Visit link for details.|Feb 27, 2024|
+ |[USN-6664-1: less vulnerability](https://www.linux.org/threads/usn-6664-1-less-vulnerability.48855/)|Visit link for details.|Feb 27, 2024|
+ |[USN-6663-1: OpenSSL update](https://www.linux.org/threads/usn-6663-1-openssl-update.48852/)|Visit link for details.|Feb 27, 2024|
+ |[USN-6305-2: PHP vulnerabilities](https://www.linux.org/threads/usn-6305-2-php-vulnerabilities.48851/)|Visit link for details.|Feb 27, 2024|
+ |[USN-6660-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6660-1-openjdk-11-vulnerabilities.48842/)|Visit link for details.|Feb 27, 2024|
+ |[USN-6662-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6662-1-openjdk-21-vulnerabilities.48841/)|Visit link for details.|Feb 27, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,37 +62,20 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Feb 15, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5633-1 knot-resolver - security update](https://www.linux.org/threads/dsa-5633-1-knot-resolver-security-update.48859/)|Visit link for details.|Feb 28, 2024|
- |[USN-6644-2: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6644-2-libtiff-vulnerabilities.48856/)|Visit link for details.|Feb 27, 2024|
- |[USN-6664-1: less vulnerability](https://www.linux.org/threads/usn-6664-1-less-vulnerability.48855/)|Visit link for details.|Feb 27, 2024|
- |[USN-6663-1: OpenSSL update](https://www.linux.org/threads/usn-6663-1-openssl-update.48852/)|Visit link for details.|Feb 27, 2024|
- |[USN-6305-2: PHP vulnerabilities](https://www.linux.org/threads/usn-6305-2-php-vulnerabilities.48851/)|Visit link for details.|Feb 27, 2024|
- |[USN-6660-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6660-1-openjdk-11-vulnerabilities.48842/)|Visit link for details.|Feb 27, 2024|
- |[USN-6662-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6662-1-openjdk-21-vulnerabilities.48841/)|Visit link for details.|Feb 27, 2024|
- |[USN-6661-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6661-1-openjdk-17-vulnerabilities.48840/)|Visit link for details.|Feb 27, 2024|
- |[USN-6659-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6659-1-libde265-vulnerabilities.48838/)|Visit link for details.|Feb 26, 2024|
- |[USN-6658-1: libxml2 vulnerability](https://www.linux.org/threads/usn-6658-1-libxml2-vulnerability.48835/)|Visit link for details.|Feb 26, 2024|
- |[USN-6657-1: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-1-dnsmasq-vulnerabilities.48834/)|Visit link for details.|Feb 26, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/)|Une vulnérabilité a été découverte dans |Publié le 27 février 2024|
+ |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 février 2024|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0161/)|Une vulnérabilité a été découverte dans la gamme de produits SonicWall SMA100. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 février 2024|
  |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Vulnérabilité dans Kaspersky Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/)|Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2024|
- |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 février 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 février 2024|
- |[Multiples vulnérabilités dans Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0155/)|De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 22 février 2024|
  
 
 # CERT-SANTE
@@ -123,22 +123,6 @@
  |[Sante DICOM Viewer Pro code execution (CVE-2024-1453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 27, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Install Tool Encryption Key</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501)|An attacker can bypass access restrictions to data of TYPO3 Core, via Install Tool Encryption Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188" class="noirorange"><b>ImageMagick</b>: memory corruption via SetPixelMetaChannels</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188)|An attacker can trigger a memory corruption of ImageMagick, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187" class="noirorange"><b>SQLite</b>: buffer overflow via sqlite3session.c</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187)|An attacker can trigger a buffer overflow of SQLite, via sqlite3session.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182" class="noirorange"><b>Cppcheck</b>: code execution via removeContradiction</a>](https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182)|An attacker can use a vulnerability of Cppcheck, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181" class="noirorange"><b>zlib-ng minizip-ng</b>: buffer overflow via mz_path_has_slash()</a>](https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181)|An attacker can trigger a buffer overflow of zlib-ng minizip-ng, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180" class="noirorange"><b>UnrealIRCd</b>: denial of service via Websocket Port Oversized Packet</a>](https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180)|An attacker can cause a fatal error of UnrealIRCd, via Websocket Port Oversized Packet, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179" class="noirorange"><b>Linux kernel</b>: use after free via nft_pipapo_walk()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-pipapo-walk-43179)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_pipapo_walk(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -170,21 +154,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM security advisory (AV24-109)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-109)|Visit link for details|2024-02-26|
- |[Dell security advisory (AV24-108)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-108)|Visit link for details|2024-02-26|
- |[Ubuntu security advisory (AV24-107)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-107)|Visit link for details|2024-02-26|
- |[[Control systems] CISA ICS security advisories (AV24-106)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-106)|Visit link for details|2024-02-26|
- |[Vulnerabilities impacting ConnectWise ScreenConnect](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-connectwise-screenconnect)|Visit link for details|2024-02-22|
- |[[Control systems] B&R security advisory (AV24-105)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-105)|Visit link for details|2024-02-22|
- |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
- |[GitLab security advisory (AV24-103)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-103)|Visit link for details|2024-02-21|
- |[ConnectWise security advisory (AV24-100) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av24-100)|Visit link for details|2024-02-21|
- |[Google Chrome security advisory (AV24-102)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-102)|Visit link for details|2024-02-21|
- |[VMware security advisory (AV24-101)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-101)|Visit link for details|2024-02-20|
+ |[<a href="https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190" class="noirorange"><b>pip</b>: write access via Mercurial VCS URL Configuration Options</a>](https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190)|An attacker can bypass access restrictions of pip, via Mercurial VCS URL Configuration Options, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Install Tool Encryption Key</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501)|An attacker can bypass access restrictions to data of TYPO3 Core, via Install Tool Encryption Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188" class="noirorange"><b>ImageMagick</b>: memory corruption via SetPixelMetaChannels</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188)|An attacker can trigger a memory corruption of ImageMagick, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187" class="noirorange"><b>SQLite</b>: buffer overflow via sqlite3session.c</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187)|An attacker can trigger a buffer overflow of SQLite, via sqlite3session.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182" class="noirorange"><b>Cppcheck</b>: code execution via removeContradiction</a>](https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182)|An attacker can use a vulnerability of Cppcheck, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181" class="noirorange"><b>zlib-ng minizip-ng</b>: buffer overflow via mz_path_has_slash()</a>](https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181)|An attacker can trigger a buffer overflow of zlib-ng minizip-ng, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180" class="noirorange"><b>UnrealIRCd</b>: denial of service via Websocket Port Oversized Packet</a>](https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180)|An attacker can cause a fatal error of UnrealIRCd, via Websocket Port Oversized Packet, in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
@@ -202,4 +185,21 @@
  |[ 46172102/24 - Vulnérabilité critique affectant le plugin «Bricks Builder» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-bricks-builder-pour-wordpress)| WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Bricks Builder». Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant …| 21 février 2024|
  |[ 46162102/24 - Vulnérabilités critiques affectant ConnectWise ScreenConnect ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-connectwise-screenconnect)| ConnectWise annonce la correction de deux vulnérabilités critiques affectant son produit ScreenConnet. Ces vulnérabilités sont activement exploitées et  peuvent  permettre à un attaquant distant de…| 21 février 2024|
  |[ 46152102/24 - Vulnérabilités critiques affectant VMware Enhanced Authentication Plug-in ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-enhanced-authentication-plug)| VMware annonce la correction  de deux vulnérabilités critiques affectant son produit VMware Enhanced Authentication Plug-in. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant…| 21 février 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM security advisory (AV24-109)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-109)|Visit link for details|2024-02-26|
+ |[Dell security advisory (AV24-108)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-108)|Visit link for details|2024-02-26|
+ |[Ubuntu security advisory (AV24-107)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-107)|Visit link for details|2024-02-26|
+ |[[Control systems] CISA ICS security advisories (AV24-106)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-106)|Visit link for details|2024-02-26|
+ |[Vulnerabilities impacting ConnectWise ScreenConnect](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-connectwise-screenconnect)|Visit link for details|2024-02-22|
+ |[[Control systems] B&R security advisory (AV24-105)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-105)|Visit link for details|2024-02-22|
+ |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
+ |[GitLab security advisory (AV24-103)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-103)|Visit link for details|2024-02-21|
+ |[ConnectWise security advisory (AV24-100) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av24-100)|Visit link for details|2024-02-21|
+ |[Google Chrome security advisory (AV24-102)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-102)|Visit link for details|2024-02-21|
+ |[VMware security advisory (AV24-101)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-101)|Visit link for details|2024-02-20|
  
