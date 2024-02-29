@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/02/2024 12:17:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/02/2024 13:19:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,35 @@
  |[USN-6664-1: less vulnerability](https://www.linux.org/threads/usn-6664-1-less-vulnerability.48855/)|Visit link for details.|Feb 27, 2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Superset information disclosure (CVE-2024-27315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Cisco NX-OS Software denial of service (CVE-2024-20321)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Cisco NX-OS Software denial of service (CVE-2024-20267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Cisco UCS 6400 and 6500 Series Fabric Interconnects denial of service (CVE-2024-20344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Cisco Nexus 3000 and 9000 Series Switches security bypass (CVE-2024-20291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Cisco FXOS and NX-OS Software denial of service (CVE-2024-20294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Node Access Rebuild Progressive module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 27, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240229)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Feb 2024 |
+ |[Microsoft Monthly Security Update (February 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2024)|[Updated on 2024-02-16] Exploit in the wild has been detected for CVE-2024-21410, affecting Microsoft Exchange Server. The vulnerability could be exploited by sending a crafted request to steal user's NTLM hash. Proof of Concept exploit...| Release Date: 14 Feb 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated...| Release Date: 7 Feb 2024 |
+ |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240227)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 27 Feb 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240226)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
+ |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20240226)|Multiple vulnerabilities were identified in NetApp Product.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, data manipulation and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240223)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Feb 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 8 Feb 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240222)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 22 Feb 2024 |
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,19 +105,6 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Superset information disclosure (CVE-2024-27315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Cisco NX-OS Software denial of service (CVE-2024-20321)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Cisco NX-OS Software denial of service (CVE-2024-20267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Cisco UCS 6400 and 6500 Series Fabric Interconnects denial of service (CVE-2024-20344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Cisco Nexus 3000 and 9000 Series Switches security bypass (CVE-2024-20291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Cisco FXOS and NX-OS Software denial of service (CVE-2024-20294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Node Access Rebuild Progressive module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 27, 2024|
  
 
 # CERT-SANTE
@@ -108,38 +124,6 @@
  |[D-Link - CVE-2023-24330](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24330-2024-02-27)|Visit link for details.|27/02/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190" class="noirorange"><b>pip</b>: write access via Mercurial VCS URL Configuration Options</a>](https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190)|An attacker can bypass access restrictions of pip, via Mercurial VCS URL Configuration Options, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Install Tool Encryption Key</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501)|An attacker can bypass access restrictions to data of TYPO3 Core, via Install Tool Encryption Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188" class="noirorange"><b>ImageMagick</b>: memory corruption via SetPixelMetaChannels</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188)|An attacker can trigger a memory corruption of ImageMagick, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187" class="noirorange"><b>SQLite</b>: buffer overflow via sqlite3session.c</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187)|An attacker can trigger a buffer overflow of SQLite, via sqlite3session.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via ipa_hostname</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-ipa-hostname-43185)|An attacker can bypass filtering rules of Sudo, via ipa_hostname, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-43184)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183" class="noirorange"><b>Stormshield Network Security</b>: logged sensitive information via Equal / Space Character</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-logged-sensitive-information-via-Equal-Space-Character-43183)|An attacker can read logs of Stormshield Network Security, via Equal / Space Character, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182" class="noirorange"><b>Cppcheck</b>: code execution via removeContradiction</a>](https://vigilance.fr/vulnerability/Cppcheck-code-execution-via-removeContradiction-43182)|An attacker can use a vulnerability of Cppcheck, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181" class="noirorange"><b>zlib-ng minizip-ng</b>: buffer overflow via mz_path_has_slash()</a>](https://vigilance.fr/vulnerability/zlib-ng-minizip-ng-buffer-overflow-via-mz-path-has-slash-43181)|An attacker can trigger a buffer overflow of zlib-ng minizip-ng, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180" class="noirorange"><b>UnrealIRCd</b>: denial of service via Websocket Port Oversized Packet</a>](https://vigilance.fr/vulnerability/UnrealIRCd-denial-of-service-via-Websocket-Port-Oversized-Packet-43180)|An attacker can cause a fatal error of UnrealIRCd, via Websocket Port Oversized Packet, in order to trigger a denial of service...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240229)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Feb 2024 |
- |[Microsoft Monthly Security Update (February 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2024)|[Updated on 2024-02-16] Exploit in the wild has been detected for CVE-2024-21410, affecting Microsoft Exchange Server. The vulnerability could be exploited by sending a crafted request to steal user's NTLM hash. Proof of Concept exploit...| Release Date: 14 Feb 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated...| Release Date: 7 Feb 2024 |
- |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240227)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 27 Feb 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240226)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20240226)|Multiple vulnerabilities were identified in NetApp Product.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, data manipulation and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240223)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 23 Feb 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 8 Feb 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240222)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 22 Feb 2024 |
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -152,6 +136,22 @@
  |[NI FlexLogger ServiceRegistry Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-209/)|Visit link for details|2024-02-28|
  |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
  |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-jail-43526" class="noirorange"><b>FreeBSD</b>: information disclosure via jail()</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-jail-43526)|An attacker, in a guest system, can bypass access restrictions to data of FreeBSD, via jail(), in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-bhyveload-43525" class="noirorange"><b>FreeBSD</b>: information disclosure via bhyveload()</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-bhyveload-43525)|An attacker, in a guest system, can bypass access restrictions to data of FreeBSD, via bhyveload(), in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-kqueue-close-rfork-43524" class="noirorange"><b>FreeBSD</b>: denial of service via kqueue_close() rfork()</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-kqueue-close-rfork-43524)|An attacker can cause a fatal error of FreeBSD, via kqueue_close() rfork(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-overload-via-Libutil-Limits-CPU-Mask-Bypass-43523" class="noirorange"><b>FreeBSD</b>: overload via Libutil Limits / CPU Mask Bypass</a>](https://vigilance.fr/vulnerability/FreeBSD-overload-via-Libutil-Limits-CPU-Mask-Bypass-43523)|An attacker can trigger an overload of FreeBSD, via Libutil Limits / CPU Mask Bypass, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194" class="noirorange"><b>PJSIP</b>: use after free via Unsynchronized Higher Level Transport</a>](https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194)|An attacker can force the reuse of a freed memory area of PJSIP, via Unsynchronized Higher Level Transport, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193" class="noirorange"><b>Amazon.aws Ansible</b>: logged sensitive information via tower_callback</a>](https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193)|An attacker can read logs of Amazon.aws Ansible, via tower_callback, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190" class="noirorange"><b>pip</b>: write access via Mercurial VCS URL Configuration Options</a>](https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190)|An attacker can bypass access restrictions of pip, via Mercurial VCS URL Configuration Options, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Install Tool Encryption Key</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501)|An attacker can bypass access restrictions to data of TYPO3 Core, via Install Tool Encryption Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188" class="noirorange"><b>ImageMagick</b>: memory corruption via SetPixelMetaChannels</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetPixelMetaChannels-43188)|An attacker can trigger a memory corruption of ImageMagick, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187" class="noirorange"><b>SQLite</b>: buffer overflow via sqlite3session.c</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187)|An attacker can trigger a buffer overflow of SQLite, via sqlite3session.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
