@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/02/2024 21:19:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/02/2024 22:14:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,24 +33,26 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6671-1: php-nyholm-psr7 vulnerability](https://www.linux.org/threads/usn-6671-1-php-nyholm-psr7-vulnerability.48879/)|Visit link for details.|Feb 29, 2024|
+ |[USN-6670-1: php-guzzlehttp-psr7 vulnerabilities](https://www.linux.org/threads/usn-6670-1-php-guzzlehttp-psr7-vulnerabilities.48878/)|Visit link for details.|Feb 29, 2024|
+ |[USN-6653-3: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6653-3-linux-kernel-low-latency-vulnerabilities.48877/)|Visit link for details.|Feb 29, 2024|
+ |[USN-6651-3: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6651-3-linux-kernel-starfive-vulnerabilities.48876/)|Visit link for details.|Feb 29, 2024|
+ |[USN-6647-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6647-2-linux-kernel-azure-vulnerabilities.48875/)|Visit link for details.|Feb 29, 2024|
  |[DSA-5634-1 chromium - security update](https://www.linux.org/threads/dsa-5634-1-chromium-security-update.48872/)|Visit link for details.|Feb 29, 2024|
  |[USN-6648-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6648-2-linux-kernel-azure-vulnerabilities.48870/)|Visit link for details.|Feb 28, 2024|
  |[USN-6653-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6653-2-linux-kernel-aws-vulnerabilities.48869/)|Visit link for details.|Feb 28, 2024|
  |[USN-6651-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6651-2-linux-kernel-vulnerabilities.48868/)|Visit link for details.|Feb 28, 2024|
  |[USN-6668-1: python-openstackclient vulnerability](https://www.linux.org/threads/usn-6668-1-python-openstackclient-vulnerability.48866/)|Visit link for details.|Feb 28, 2024|
  |[USN-6667-1: Cpanel-JSON-XS vulnerability](https://www.linux.org/threads/usn-6667-1-cpanel-json-xs-vulnerability.48865/)|Visit link for details.|Feb 28, 2024|
- |[USN-6666-1: libuv vulnerability](https://www.linux.org/threads/usn-6666-1-libuv-vulnerability.48864/)|Visit link for details.|Feb 28, 2024|
- |[USN-6665-1: Unbound vulnerabilities](https://www.linux.org/threads/usn-6665-1-unbound-vulnerabilities.48863/)|Visit link for details.|Feb 28, 2024|
- |[DSA-5633-1 knot-resolver - security update](https://www.linux.org/threads/dsa-5633-1-knot-resolver-security-update.48859/)|Visit link for details.|Feb 28, 2024|
- |[USN-6644-2: LibTIFF vulnerabilities](https://www.linux.org/threads/usn-6644-2-libtiff-vulnerabilities.48856/)|Visit link for details.|Feb 27, 2024|
- |[USN-6664-1: less vulnerability](https://www.linux.org/threads/usn-6664-1-less-vulnerability.48855/)|Visit link for details.|Feb 27, 2024|
  
 
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 29, 2024|
  |[CISA, FBI, and MS-ISAC Release Advisory on Phobos Ransomware](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-fbi-and-ms-isac-release-advisory-phobos-ransomware)|Visit link for details.|Feb 29, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 29, 2024|
  |[CISA Releases Resource Guide for University Cybersecurity Clinics](https://www.cisa.gov/news-events/alerts/2024/02/28/cisa-releases-resource-guide-university-cybersecurity-clinics)|Visit link for details.|Feb 28, 2024|
  |[CISA, FBI, and HHS Release an Update to #StopRansomware Advisory on ALPHV Blackcat](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-fbi-and-hhs-release-update-stopransomware-advisory-alphv-blackcat)|Visit link for details.|Feb 27, 2024|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 27, 2024|
@@ -58,24 +60,22 @@
  |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Feb 22, 2024|
  |[CISA Adds One Known Exploited ConnectWise Vulnerability, CVE-2024-1709, to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/22/cisa-adds-one-known-exploited-connectwise-vulnerability-cve-2024-1709-catalog)|Visit link for details.|Feb 22, 2024|
- |[CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 21, 2024|
- |[Mozilla Releases Security Updates for Firefox and Thunderbird](https://www.cisa.gov/news-events/alerts/2024/02/21/mozilla-releases-security-updates-firefox-and-thunderbird)|Visit link for details.|Feb 21, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Cisco NX-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans Cisco NX-OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 février 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0173/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics . Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 février 2024|
+ |[Multiples vulnérabilités dans ZimbraCollaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 28 février 2024|
+ |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0170/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 février 2024|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0169/)|Une vulnérabilité a été découverte dans |Publié le 28 février 2024|
  |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/)|Une vulnérabilité a été découverte dans |Publié le 27 février 2024|
  |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 février 2024|
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
- |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0161/)|Une vulnérabilité a été découverte dans la gamme de produits SonicWall SMA100. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 février 2024|
- |[Multiples vulnérabilités dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0160/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 février 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  
 
 # CERT-SANTE
@@ -93,6 +93,22 @@
  |[Azure - CVE-2024-27099](https://www.cyberveille-sante.gouv.fr/alertes/azure-cve-2024-27099-2024-02-28)|Visit link for details.|28/02/2024|
  |[Aruba - CVE-2024-26294](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-26294-2024-02-28)|Visit link for details.|28/02/2024|
  |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|28/02/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-write-access-via-Email-Change-Verification-43532" class="noirorange"><b>Grafana</b>: write access via Email Change Verification</a>](https://vigilance.fr/vulnerability/Grafana-write-access-via-Email-Change-Verification-43532)|An attacker can bypass access restrictions of Grafana, via Email Change Verification, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-41373" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-41373)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-jail-43526" class="noirorange"><b>FreeBSD</b>: information disclosure via jail()</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-jail-43526)|An attacker, in a guest system, can bypass access restrictions to data of FreeBSD, via jail(), in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-bhyveload-43525" class="noirorange"><b>FreeBSD</b>: information disclosure via bhyveload()</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-bhyveload-43525)|An attacker, in a guest system, can bypass access restrictions to data of FreeBSD, via bhyveload(), in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-kqueue-close-rfork-43524" class="noirorange"><b>FreeBSD</b>: denial of service via kqueue_close() rfork()</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-kqueue-close-rfork-43524)|An attacker can cause a fatal error of FreeBSD, via kqueue_close() rfork(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-overload-via-Libutil-Limits-CPU-Mask-Bypass-43523" class="noirorange"><b>FreeBSD</b>: overload via Libutil Limits / CPU Mask Bypass</a>](https://vigilance.fr/vulnerability/FreeBSD-overload-via-Libutil-Limits-CPU-Mask-Bypass-43523)|An attacker can trigger an overload of FreeBSD, via Libutil Limits / CPU Mask Bypass, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194" class="noirorange"><b>PJSIP</b>: use after free via Unsynchronized Higher Level Transport</a>](https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194)|An attacker can force the reuse of a freed memory area of PJSIP, via Unsynchronized Higher Level Transport, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193" class="noirorange"><b>Amazon.aws Ansible</b>: logged sensitive information via tower_callback</a>](https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193)|An attacker can read logs of Amazon.aws Ansible, via tower_callback, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190" class="noirorange"><b>pip</b>: write access via Mercurial VCS URL Configuration Options</a>](https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190)|An attacker can bypass access restrictions of pip, via Mercurial VCS URL Configuration Options, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Install Tool Encryption Key</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501)|An attacker can bypass access restrictions to data of TYPO3 Core, via Install Tool Encryption Key, in order to read sensitive information...|Visit link for details|
  
 
 # HK-CERT
@@ -124,36 +140,6 @@
  |[Rails cross-site scripting (CVE-2024-26143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 27, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-write-access-via-Email-Change-Verification-43532" class="noirorange"><b>Grafana</b>: write access via Email Change Verification</a>](https://vigilance.fr/vulnerability/Grafana-write-access-via-Email-Change-Verification-43532)|An attacker can bypass access restrictions of Grafana, via Email Change Verification, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-41373" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-41373)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-jail-43526" class="noirorange"><b>FreeBSD</b>: information disclosure via jail()</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-jail-43526)|An attacker, in a guest system, can bypass access restrictions to data of FreeBSD, via jail(), in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-bhyveload-43525" class="noirorange"><b>FreeBSD</b>: information disclosure via bhyveload()</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-bhyveload-43525)|An attacker, in a guest system, can bypass access restrictions to data of FreeBSD, via bhyveload(), in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-kqueue-close-rfork-43524" class="noirorange"><b>FreeBSD</b>: denial of service via kqueue_close() rfork()</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-kqueue-close-rfork-43524)|An attacker can cause a fatal error of FreeBSD, via kqueue_close() rfork(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-overload-via-Libutil-Limits-CPU-Mask-Bypass-43523" class="noirorange"><b>FreeBSD</b>: overload via Libutil Limits / CPU Mask Bypass</a>](https://vigilance.fr/vulnerability/FreeBSD-overload-via-Libutil-Limits-CPU-Mask-Bypass-43523)|An attacker can trigger an overload of FreeBSD, via Libutil Limits / CPU Mask Bypass, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194" class="noirorange"><b>PJSIP</b>: use after free via Unsynchronized Higher Level Transport</a>](https://vigilance.fr/vulnerability/PJSIP-use-after-free-via-Unsynchronized-Higher-Level-Transport-43194)|An attacker can force the reuse of a freed memory area of PJSIP, via Unsynchronized Higher Level Transport, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193" class="noirorange"><b>Amazon.aws Ansible</b>: logged sensitive information via tower_callback</a>](https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193)|An attacker can read logs of Amazon.aws Ansible, via tower_callback, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190" class="noirorange"><b>pip</b>: write access via Mercurial VCS URL Configuration Options</a>](https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190)|An attacker can bypass access restrictions of pip, via Mercurial VCS URL Configuration Options, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Install Tool Encryption Key</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Install-Tool-Encryption-Key-43501)|An attacker can bypass access restrictions to data of TYPO3 Core, via Install Tool Encryption Key, in order to read sensitive information...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NI FlexLogger RabbitMQ Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-214/)|Visit link for details|2024-02-28|
- |[NI FlexLogger userservices Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-213/)|Visit link for details|2024-02-28|
- |[NI FlexLogger TagHistorian Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-212/)|Visit link for details|2024-02-28|
- |[NI FlexLogger DocumentManager Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-211/)|Visit link for details|2024-02-28|
- |[NI FlexLogger SkylineService Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-210/)|Visit link for details|2024-02-28|
- |[NI FlexLogger ServiceRegistry Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-209/)|Visit link for details|2024-02-28|
- |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
- |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -169,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NI FlexLogger RabbitMQ Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-214/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger userservices Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-213/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger TagHistorian Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-212/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger DocumentManager Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-211/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger SkylineService Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-210/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger ServiceRegistry Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-209/)|Visit link for details|2024-02-28|
+ |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
  
 
 # CA-CCS
