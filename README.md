@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/03/2024 23:22:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/03/2024 00:13:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases Security Advisories for Cisco NX-OS Software](https://www.cisa.gov/news-events/alerts/2024/03/01/cisco-releases-security-advisories-cisco-nx-os-software)|Visit link for details.|Mar 01, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 29, 2024|
+ |[CISA, FBI, and MS-ISAC Release Advisory on Phobos Ransomware](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-fbi-and-ms-isac-release-advisory-phobos-ransomware)|Visit link for details.|Feb 29, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 29, 2024|
+ |[CISA and Partners Release Advisory on Threat Actors Exploiting Ivanti Connect Secure and Policy Secure Gateways Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-and-partners-release-advisory-threat-actors-exploiting-ivanti-connect-secure-and-policy-secure)|Visit link for details.|Feb 29, 2024|
+ |[CISA Releases Resource Guide for University Cybersecurity Clinics](https://www.cisa.gov/news-events/alerts/2024/02/28/cisa-releases-resource-guide-university-cybersecurity-clinics)|Visit link for details.|Feb 28, 2024|
+ |[CISA, FBI, and HHS Release an Update to #StopRansomware Advisory on ALPHV Blackcat](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-fbi-and-hhs-release-update-stopransomware-advisory-alphv-blackcat)|Visit link for details.|Feb 27, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 27, 2024|
+ |[CISA, NCSC-UK, and Partners Release Advisory on Russian SVR Actors Targeting Cloud Infrastructure](https://www.cisa.gov/news-events/alerts/2024/02/26/cisa-ncsc-uk-and-partners-release-advisory-russian-svr-actors-targeting-cloud-infrastructure)|Visit link for details.|Feb 26, 2024|
+ |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,49 +66,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0179/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0176/)|De multiples vulnérabilités ont été découvertes dans Mitel MiContact Center Business . Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Cisco NX-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans Cisco NX-OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 février 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0173/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics . Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 février 2024|
  |[Multiples vulnérabilités dans ZimbraCollaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 28 février 2024|
  |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2023-29360](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29360-2024-03-01)|Visit link for details.|01/03/2024|
- |[Microsoft - CVE-2024-21338](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21338-2024-03-01)|Visit link for details.|01/03/2024|
- |[MicroDicom DICOM Viewer - CVE-2024-22100](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-dicom-viewer-cve-2024-22100-2024-03-01)|Visit link for details.|01/03/2024|
- |[D-Link - CVE-2024-27655](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-27655-2024-03-01)|Visit link for details.|01/03/2024|
- |[DICOM Connectivity Framework - CVE-2024-25386](https://www.cyberveille-sante.gouv.fr/alertes/dicom-connectivity-framework-cve-2024-25386-2024-03-01)|Visit link for details.|01/03/2024|
- |[Le plugin WordPress WPvivid - CVE-2024-1981](https://www.cyberveille-sante.gouv.fr/alertes/le-plugin-wordpress-wpvivid-cve-2024-1981-2024-02-29)|Visit link for details.|29/02/2024|
- |[nginx / Zimbra - CVE-2022-41741](https://www.cyberveille-sante.gouv.fr/alertes/nginx-zimbra-cve-2022-41741-2024-02-29)|Visit link for details.|29/02/2024|
- |[Google Chrome - CVE-2024-1938](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1938-2024-02-29)|Visit link for details.|29/02/2024|
- |[Cisco - CVE-2024-20321](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20321-2024-02-29)|Visit link for details.|29/02/2024|
- |[Apache ZooKeeper / Juniper - CVE-2023-44981](https://www.cyberveille-sante.gouv.fr/alertes/apache-zookeeper-juniper-cve-2023-44981-2024-02-29)|Visit link for details.|29/02/2024|
- |[TeamViewer - CVE-2024-0819](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-0819-2024-02-28)|Visit link for details.|28/02/2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Releases Security Advisories for Cisco NX-OS Software](https://www.cisa.gov/news-events/alerts/2024/03/01/cisco-releases-security-advisories-cisco-nx-os-software)|Visit link for details.|Mar 01, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 29, 2024|
- |[CISA, FBI, and MS-ISAC Release Advisory on Phobos Ransomware](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-fbi-and-ms-isac-release-advisory-phobos-ransomware)|Visit link for details.|Feb 29, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 29, 2024|
- |[CISA and Partners Release Advisory on Threat Actors Exploiting Ivanti Connect Secure and Policy Secure Gateways Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-and-partners-release-advisory-threat-actors-exploiting-ivanti-connect-secure-and-policy-secure)|Visit link for details.|Feb 29, 2024|
- |[CISA Releases Resource Guide for University Cybersecurity Clinics](https://www.cisa.gov/news-events/alerts/2024/02/28/cisa-releases-resource-guide-university-cybersecurity-clinics)|Visit link for details.|Feb 28, 2024|
- |[CISA, FBI, and HHS Release an Update to #StopRansomware Advisory on ALPHV Blackcat](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-fbi-and-hhs-release-update-stopransomware-advisory-alphv-blackcat)|Visit link for details.|Feb 27, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 27, 2024|
- |[CISA, NCSC-UK, and Partners Release Advisory on Russian SVR Actors Targeting Cloud Infrastructure](https://www.cisa.gov/news-events/alerts/2024/02/26/cisa-ncsc-uk-and-partners-release-advisory-russian-svr-actors-targeting-cloud-infrastructure)|Visit link for details.|Feb 26, 2024|
- |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0170/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 février 2024|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0169/)|Une vulnérabilité a été découverte dans |Publié le 28 février 2024|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/)|Une vulnérabilité a été découverte dans |Publié le 27 février 2024|
+ |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 février 2024|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 février 2024|
  
 
 # HK-CERT
@@ -116,28 +99,43 @@
  |Title|Description|Date|
  |---|---|---|
  |[RevoWorks SCVX and RevoWorks Browser weak security (CVE-2024-25091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
+ |[D-Link DIR-823G denial of service (CVE-2024-27658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
+ |[D-Link DIR-823G denial of service (CVE-2024-27659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
+ |[D-Link DIR-823G denial of service (CVE-2024-27660)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
+ |[D-Link DIR-823G denial of service (CVE-2024-27661)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
+ |[D-Link DIR-823G denial of service (CVE-2024-27662)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
  |[Atsumi Electric OET-213H-BTS1 security bypass (CVE-2024-25972)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
- |[Apache Airflow information disclosure (CVE-2024-27906)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Hitachi Vantara Pentaho Data Integration & Analytics information disclosure (CVE-2023-5617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Apache Superset information disclosure (CVE-2024-27315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Field Logic DataCube3 information disclosure (CVE-2024-25830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Field Logic DataCube3 cross-site scripting (CVE-2024-25831)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201" class="noirorange"><b>Linux kernel</b>: use after free via do_vcc_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201)|An attacker can force the reuse of a freed memory area of the Linux kernel, via do_vcc_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200" class="noirorange"><b>Linux kernel</b>: use after free via bt_sock_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bt_sock_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199" class="noirorange"><b>Linux kernel</b>: information disclosure via Io_uring Over Sockets</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199)|An attacker can bypass access restrictions to data of the Linux kernel, via Io_uring Over Sockets, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197" class="noirorange"><b>ALEOS</b>: denial of service via ACEManager</a>](https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197)|An attacker can cause a fatal error of ALEOS, via ACEManager, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196" class="noirorange"><b>cJSON</b>: memory corruption via cJSON_InsertItemInArray()</a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196)|An attacker can trigger a memory corruption of cJSON, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-min-key-size-set-43549" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via min_key_size_set()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-min-key-size-set-43549)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via min_key_size_set(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[Microsoft - CVE-2023-29360](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29360-2024-03-01)|Visit link for details.|01/03/2024|
+ |[Microsoft - CVE-2024-21338](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21338-2024-03-01)|Visit link for details.|01/03/2024|
+ |[MicroDicom DICOM Viewer - CVE-2024-22100](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-dicom-viewer-cve-2024-22100-2024-03-01)|Visit link for details.|01/03/2024|
+ |[D-Link - CVE-2024-27655](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-27655-2024-03-01)|Visit link for details.|01/03/2024|
+ |[DICOM Connectivity Framework - CVE-2024-25386](https://www.cyberveille-sante.gouv.fr/alertes/dicom-connectivity-framework-cve-2024-25386-2024-03-01)|Visit link for details.|01/03/2024|
+ |[Le plugin WordPress WPvivid - CVE-2024-1981](https://www.cyberveille-sante.gouv.fr/alertes/le-plugin-wordpress-wpvivid-cve-2024-1981-2024-02-29)|Visit link for details.|29/02/2024|
+ |[nginx / Zimbra - CVE-2022-41741](https://www.cyberveille-sante.gouv.fr/alertes/nginx-zimbra-cve-2022-41741-2024-02-29)|Visit link for details.|29/02/2024|
+ |[Google Chrome - CVE-2024-1938](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1938-2024-02-29)|Visit link for details.|29/02/2024|
+ |[Cisco - CVE-2024-20321](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20321-2024-02-29)|Visit link for details.|29/02/2024|
+ |[Apache ZooKeeper / Juniper - CVE-2023-44981](https://www.cyberveille-sante.gouv.fr/alertes/apache-zookeeper-juniper-cve-2023-44981-2024-02-29)|Visit link for details.|29/02/2024|
+ |[TeamViewer - CVE-2024-0819](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-0819-2024-02-28)|Visit link for details.|28/02/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NI FlexLogger RabbitMQ Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-214/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger userservices Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-213/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger TagHistorian Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-212/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger DocumentManager Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-211/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger SkylineService Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-210/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger ServiceRegistry Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-209/)|Visit link for details|2024-02-28|
+ |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
  
 
 # EU-CERT
@@ -157,18 +155,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[NI FlexLogger RabbitMQ Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-214/)|Visit link for details|2024-02-28|
- |[NI FlexLogger userservices Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-213/)|Visit link for details|2024-02-28|
- |[NI FlexLogger TagHistorian Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-212/)|Visit link for details|2024-02-28|
- |[NI FlexLogger DocumentManager Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-211/)|Visit link for details|2024-02-28|
- |[NI FlexLogger SkylineService Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-210/)|Visit link for details|2024-02-28|
- |[NI FlexLogger ServiceRegistry Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-209/)|Visit link for details|2024-02-28|
- |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
- |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201" class="noirorange"><b>Linux kernel</b>: use after free via do_vcc_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201)|An attacker can force the reuse of a freed memory area of the Linux kernel, via do_vcc_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200" class="noirorange"><b>Linux kernel</b>: use after free via bt_sock_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bt_sock_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199" class="noirorange"><b>Linux kernel</b>: information disclosure via Io_uring Over Sockets</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199)|An attacker can bypass access restrictions to data of the Linux kernel, via Io_uring Over Sockets, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197" class="noirorange"><b>ALEOS</b>: denial of service via ACEManager</a>](https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197)|An attacker can cause a fatal error of ALEOS, via ACEManager, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196" class="noirorange"><b>cJSON</b>: memory corruption via cJSON_InsertItemInArray()</a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196)|An attacker can trigger a memory corruption of cJSON, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-min-key-size-set-43549" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via min_key_size_set()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-min-key-size-set-43549)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via min_key_size_set(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  
 
 # CA-CCS
