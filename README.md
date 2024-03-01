@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/03/2024 12:15:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/03/2024 13:20:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Le plugin WordPress WPvivid - CVE-2024-1981](https://www.cyberveille-sante.gouv.fr/alertes/le-plugin-wordpress-wpvivid-cve-2024-1981-2024-02-29)|Visit link for details.|29/02/2024|
- |[nginx / Zimbra - CVE-2022-41741](https://www.cyberveille-sante.gouv.fr/alertes/nginx-zimbra-cve-2022-41741-2024-02-29)|Visit link for details.|29/02/2024|
- |[Google Chrome - CVE-2024-1938](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1938-2024-02-29)|Visit link for details.|29/02/2024|
- |[Cisco - CVE-2024-20321](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20321-2024-02-29)|Visit link for details.|29/02/2024|
- |[Apache ZooKeeper / Juniper - CVE-2023-44981](https://www.cyberveille-sante.gouv.fr/alertes/apache-zookeeper-juniper-cve-2023-44981-2024-02-29)|Visit link for details.|29/02/2024|
- |[TeamViewer - CVE-2024-0819](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-0819-2024-02-28)|Visit link for details.|28/02/2024|
- |[Santesoft DICOM Viewer - CVE-2024-1453](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-dicom-viewer-cve-2024-1453-2024-02-28)|Visit link for details.|28/02/2024|
- |[Progress OpenEdge - CVE-2024-1403](https://www.cyberveille-sante.gouv.fr/alertes/progress-openedge-cve-2024-1403-2024-02-28)|Visit link for details.|28/02/2024|
- |[Azure - CVE-2024-27099](https://www.cyberveille-sante.gouv.fr/alertes/azure-cve-2024-27099-2024-02-28)|Visit link for details.|28/02/2024|
- |[Aruba - CVE-2024-26294](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-26294-2024-02-28)|Visit link for details.|28/02/2024|
- |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|28/02/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -111,17 +94,21 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240226)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[RevoWorks SCVX and RevoWorks Browser weak security (CVE-2024-25091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
- |[Apache Airflow information disclosure (CVE-2024-27906)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Hitachi Vantara Pentaho Data Integration & Analytics information disclosure (CVE-2023-5617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Apache Superset information disclosure (CVE-2024-27315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Cisco NX-OS Software denial of service (CVE-2024-20321)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Cisco NX-OS Software denial of service (CVE-2024-20267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
- |[Cisco UCS 6400 and 6500 Series Fabric Interconnects denial of service (CVE-2024-20344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Le plugin WordPress WPvivid - CVE-2024-1981](https://www.cyberveille-sante.gouv.fr/alertes/le-plugin-wordpress-wpvivid-cve-2024-1981-2024-02-29)|Visit link for details.|29/02/2024|
+ |[nginx / Zimbra - CVE-2022-41741](https://www.cyberveille-sante.gouv.fr/alertes/nginx-zimbra-cve-2022-41741-2024-02-29)|Visit link for details.|29/02/2024|
+ |[Google Chrome - CVE-2024-1938](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-1938-2024-02-29)|Visit link for details.|29/02/2024|
+ |[Cisco - CVE-2024-20321](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20321-2024-02-29)|Visit link for details.|29/02/2024|
+ |[Apache ZooKeeper / Juniper - CVE-2023-44981](https://www.cyberveille-sante.gouv.fr/alertes/apache-zookeeper-juniper-cve-2023-44981-2024-02-29)|Visit link for details.|29/02/2024|
+ |[TeamViewer - CVE-2024-0819](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-0819-2024-02-28)|Visit link for details.|28/02/2024|
+ |[Santesoft DICOM Viewer - CVE-2024-1453](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-dicom-viewer-cve-2024-1453-2024-02-28)|Visit link for details.|28/02/2024|
+ |[Progress OpenEdge - CVE-2024-1403](https://www.cyberveille-sante.gouv.fr/alertes/progress-openedge-cve-2024-1403-2024-02-28)|Visit link for details.|28/02/2024|
+ |[Azure - CVE-2024-27099](https://www.cyberveille-sante.gouv.fr/alertes/azure-cve-2024-27099-2024-02-28)|Visit link for details.|28/02/2024|
+ |[Aruba - CVE-2024-26294](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-26294-2024-02-28)|Visit link for details.|28/02/2024|
+ |[Apache Struts - CVE-2023-50164](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2023-50164-2023-12-14)|Visit link for details.|28/02/2024|
  
 
 # OBS-Vigilance
@@ -140,18 +127,34 @@
  |[<a href="https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193" class="noirorange"><b>Amazon.aws Ansible</b>: logged sensitive information via tower_callback</a>](https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193)|An attacker can read logs of Amazon.aws Ansible, via tower_callback, in order to obtain sensitive information...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[NI FlexLogger RabbitMQ Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-214/)|Visit link for details|2024-02-28|
- |[NI FlexLogger userservices Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-213/)|Visit link for details|2024-02-28|
- |[NI FlexLogger TagHistorian Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-212/)|Visit link for details|2024-02-28|
- |[NI FlexLogger DocumentManager Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-211/)|Visit link for details|2024-02-28|
- |[NI FlexLogger SkylineService Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-210/)|Visit link for details|2024-02-28|
- |[NI FlexLogger ServiceRegistry Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-209/)|Visit link for details|2024-02-28|
- |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
- |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
+ |[RevoWorks SCVX and RevoWorks Browser weak security (CVE-2024-25091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
+ |[Apache Airflow information disclosure (CVE-2024-27906)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Hitachi Vantara Pentaho Data Integration & Analytics information disclosure (CVE-2023-5617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Apache Superset information disclosure (CVE-2024-27315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Cisco NX-OS Software denial of service (CVE-2024-20321)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Cisco NX-OS Software denial of service (CVE-2024-20267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ |[Cisco UCS 6400 and 6500 Series Fabric Interconnects denial of service (CVE-2024-20344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 28, 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper security advisory (AV24-113)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-113)|Visit link for details|2024-02-29|
+ |[HPE security advisory (AV24-112)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-112)|Visit link for details|2024-02-29|
+ |[Cisco security advisory (AV24-111)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-111)|Visit link for details|2024-02-28|
+ |[Google Chrome security advisory (AV24-110)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-110)|Visit link for details|2024-02-28|
+ |[IBM security advisory (AV24-109)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-109)|Visit link for details|2024-02-26|
+ |[Dell security advisory (AV24-108)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-108)|Visit link for details|2024-02-26|
+ |[Ubuntu security advisory (AV24-107)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-107)|Visit link for details|2024-02-26|
+ |[[Control systems] CISA ICS security advisories (AV24-106)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-106)|Visit link for details|2024-02-26|
+ |[Vulnerabilities impacting ConnectWise ScreenConnect](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-connectwise-screenconnect)|Visit link for details|2024-02-22|
+ |[[Control systems] B&R security advisory (AV24-105)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-105)|Visit link for details|2024-02-22|
+ |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
  
 
 # EU-CERT
@@ -171,21 +174,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Juniper security advisory (AV24-113)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-113)|Visit link for details|2024-02-29|
- |[HPE security advisory (AV24-112)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-112)|Visit link for details|2024-02-29|
- |[Cisco security advisory (AV24-111)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-111)|Visit link for details|2024-02-28|
- |[Google Chrome security advisory (AV24-110)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-110)|Visit link for details|2024-02-28|
- |[IBM security advisory (AV24-109)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-109)|Visit link for details|2024-02-26|
- |[Dell security advisory (AV24-108)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-108)|Visit link for details|2024-02-26|
- |[Ubuntu security advisory (AV24-107)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-107)|Visit link for details|2024-02-26|
- |[[Control systems] CISA ICS security advisories (AV24-106)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-106)|Visit link for details|2024-02-26|
- |[Vulnerabilities impacting ConnectWise ScreenConnect](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-connectwise-screenconnect)|Visit link for details|2024-02-22|
- |[[Control systems] B&R security advisory (AV24-105)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-105)|Visit link for details|2024-02-22|
- |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
+ |[NI FlexLogger RabbitMQ Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-214/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger userservices Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-213/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger TagHistorian Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-212/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger DocumentManager Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-211/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger SkylineService Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-210/)|Visit link for details|2024-02-28|
+ |[NI FlexLogger ServiceRegistry Missing Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-209/)|Visit link for details|2024-02-28|
+ |[Microsoft Azure MCR VSTS CLI vstscli Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-208/)|Visit link for details|2024-02-26|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-207/)|Visit link for details|2024-02-26|
  
 
 # MA-CERT
