@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/03/2024 11:21:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/03/2024 12:14:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Releases Security Advisories for Cisco NX-OS Software](https://www.cisa.gov/news-events/alerts/2024/03/01/cisco-releases-security-advisories-cisco-nx-os-software)|Visit link for details.|Mar 01, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 29, 2024|
- |[CISA, FBI, and MS-ISAC Release Advisory on Phobos Ransomware](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-fbi-and-ms-isac-release-advisory-phobos-ransomware)|Visit link for details.|Feb 29, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 29, 2024|
- |[CISA and Partners Release Advisory on Threat Actors Exploiting Ivanti Connect Secure and Policy Secure Gateways Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-and-partners-release-advisory-threat-actors-exploiting-ivanti-connect-secure-and-policy-secure)|Visit link for details.|Feb 29, 2024|
- |[CISA Releases Resource Guide for University Cybersecurity Clinics](https://www.cisa.gov/news-events/alerts/2024/02/28/cisa-releases-resource-guide-university-cybersecurity-clinics)|Visit link for details.|Feb 28, 2024|
- |[CISA, FBI, and HHS Release an Update to #StopRansomware Advisory on ALPHV Blackcat](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-fbi-and-hhs-release-update-stopransomware-advisory-alphv-blackcat)|Visit link for details.|Feb 27, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 27, 2024|
- |[CISA, NCSC-UK, and Partners Release Advisory on Russian SVR Actors Targeting Cloud Infrastructure](https://www.cisa.gov/news-events/alerts/2024/02/26/cisa-ncsc-uk-and-partners-release-advisory-russian-svr-actors-targeting-cloud-infrastructure)|Visit link for details.|Feb 26, 2024|
- |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,36 +46,20 @@
  |[USN-6667-1: Cpanel-JSON-XS vulnerability](https://www.linux.org/threads/usn-6667-1-cpanel-json-xs-vulnerability.48865/)|Visit link for details.|Feb 28, 2024|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Cisco NX-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans Cisco NX-OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 février 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0173/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics . Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 février 2024|
- |[Multiples vulnérabilités dans ZimbraCollaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 28 février 2024|
- |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0170/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 février 2024|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0169/)|Une vulnérabilité a été découverte dans |Publié le 28 février 2024|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/)|Une vulnérabilité a été découverte dans |Publié le 27 février 2024|
- |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 février 2024|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201" class="noirorange"><b>Linux kernel</b>: use after free via do_vcc_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201)|An attacker can force the reuse of a freed memory area of the Linux kernel, via do_vcc_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200" class="noirorange"><b>Linux kernel</b>: use after free via bt_sock_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bt_sock_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199" class="noirorange"><b>Linux kernel</b>: information disclosure via Io_uring Over Sockets</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199)|An attacker can bypass access restrictions to data of the Linux kernel, via Io_uring Over Sockets, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197" class="noirorange"><b>ALEOS</b>: denial of service via ACEManager</a>](https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197)|An attacker can cause a fatal error of ALEOS, via ACEManager, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196" class="noirorange"><b>cJSON</b>: memory corruption via cJSON_InsertItemInArray()</a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196)|An attacker can trigger a memory corruption of cJSON, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-min-key-size-set-43549" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via min_key_size_set()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-min-key-size-set-43549)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via min_key_size_set(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[Cisco Releases Security Advisories for Cisco NX-OS Software](https://www.cisa.gov/news-events/alerts/2024/03/01/cisco-releases-security-advisories-cisco-nx-os-software)|Visit link for details.|Mar 01, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 29, 2024|
+ |[CISA, FBI, and MS-ISAC Release Advisory on Phobos Ransomware](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-fbi-and-ms-isac-release-advisory-phobos-ransomware)|Visit link for details.|Feb 29, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 29, 2024|
+ |[CISA and Partners Release Advisory on Threat Actors Exploiting Ivanti Connect Secure and Policy Secure Gateways Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-and-partners-release-advisory-threat-actors-exploiting-ivanti-connect-secure-and-policy-secure)|Visit link for details.|Feb 29, 2024|
+ |[CISA Releases Resource Guide for University Cybersecurity Clinics](https://www.cisa.gov/news-events/alerts/2024/02/28/cisa-releases-resource-guide-university-cybersecurity-clinics)|Visit link for details.|Feb 28, 2024|
+ |[CISA, FBI, and HHS Release an Update to #StopRansomware Advisory on ALPHV Blackcat](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-fbi-and-hhs-release-update-stopransomware-advisory-alphv-blackcat)|Visit link for details.|Feb 27, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 27, 2024|
+ |[CISA, NCSC-UK, and Partners Release Advisory on Russian SVR Actors Targeting Cloud Infrastructure](https://www.cisa.gov/news-events/alerts/2024/02/26/cisa-ncsc-uk-and-partners-release-advisory-russian-svr-actors-targeting-cloud-infrastructure)|Visit link for details.|Feb 26, 2024|
+ |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
  
 
 # CERT-SANTE
@@ -109,6 +77,22 @@
  |[Cisco - CVE-2024-20321](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20321-2024-02-29)|Visit link for details.|29/02/2024|
  |[Apache ZooKeeper / Juniper - CVE-2023-44981](https://www.cyberveille-sante.gouv.fr/alertes/apache-zookeeper-juniper-cve-2023-44981-2024-02-29)|Visit link for details.|29/02/2024|
  |[TeamViewer - CVE-2024-0819](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-0819-2024-02-28)|Visit link for details.|28/02/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Cisco NX-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans Cisco NX-OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 février 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0173/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics . Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 février 2024|
+ |[Multiples vulnérabilités dans ZimbraCollaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 28 février 2024|
+ |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0170/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 février 2024|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0169/)|Une vulnérabilité a été découverte dans |Publié le 28 février 2024|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/)|Une vulnérabilité a été découverte dans |Publié le 27 février 2024|
+ |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 février 2024|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 février 2024|
  
 
 # HK-CERT
@@ -138,6 +122,22 @@
  |[D-Link DIR-823G denial of service (CVE-2024-27655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
  |[D-Link DIR-823G denial of service (CVE-2024-27656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
  |[D-Link DIR-823G denial of service (CVE-2024-27657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201" class="noirorange"><b>Linux kernel</b>: use after free via do_vcc_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201)|An attacker can force the reuse of a freed memory area of the Linux kernel, via do_vcc_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200" class="noirorange"><b>Linux kernel</b>: use after free via bt_sock_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bt_sock_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199" class="noirorange"><b>Linux kernel</b>: information disclosure via Io_uring Over Sockets</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199)|An attacker can bypass access restrictions to data of the Linux kernel, via Io_uring Over Sockets, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197" class="noirorange"><b>ALEOS</b>: denial of service via ACEManager</a>](https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197)|An attacker can cause a fatal error of ALEOS, via ACEManager, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196" class="noirorange"><b>cJSON</b>: memory corruption via cJSON_InsertItemInArray()</a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196)|An attacker can trigger a memory corruption of cJSON, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-min-key-size-set-43549" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via min_key_size_set()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-min-key-size-set-43549)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via min_key_size_set(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  
 
 # EU-CERT
