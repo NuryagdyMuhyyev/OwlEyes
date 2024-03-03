@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/03/2024 13:21:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/03/2024 14:15:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Releases Security Advisories for Cisco NX-OS Software](https://www.cisa.gov/news-events/alerts/2024/03/01/cisco-releases-security-advisories-cisco-nx-os-software)|Visit link for details.|Mar 01, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 29, 2024|
- |[CISA, FBI, and MS-ISAC Release Advisory on Phobos Ransomware](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-fbi-and-ms-isac-release-advisory-phobos-ransomware)|Visit link for details.|Feb 29, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 29, 2024|
- |[CISA and Partners Release Advisory on Threat Actors Exploiting Ivanti Connect Secure and Policy Secure Gateways Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-and-partners-release-advisory-threat-actors-exploiting-ivanti-connect-secure-and-policy-secure)|Visit link for details.|Feb 29, 2024|
- |[CISA Releases Resource Guide for University Cybersecurity Clinics](https://www.cisa.gov/news-events/alerts/2024/02/28/cisa-releases-resource-guide-university-cybersecurity-clinics)|Visit link for details.|Feb 28, 2024|
- |[CISA, FBI, and HHS Release an Update to #StopRansomware Advisory on ALPHV Blackcat](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-fbi-and-hhs-release-update-stopransomware-advisory-alphv-blackcat)|Visit link for details.|Feb 27, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 27, 2024|
- |[CISA, NCSC-UK, and Partners Release Advisory on Russian SVR Actors Targeting Cloud Infrastructure](https://www.cisa.gov/news-events/alerts/2024/02/26/cisa-ncsc-uk-and-partners-release-advisory-russian-svr-actors-targeting-cloud-infrastructure)|Visit link for details.|Feb 26, 2024|
- |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6651-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6651-2-linux-kernel-vulnerabilities.48868/)|Visit link for details.|Feb 28, 2024|
  |[USN-6668-1: python-openstackclient vulnerability](https://www.linux.org/threads/usn-6668-1-python-openstackclient-vulnerability.48866/)|Visit link for details.|Feb 28, 2024|
  |[USN-6667-1: Cpanel-JSON-XS vulnerability](https://www.linux.org/threads/usn-6667-1-cpanel-json-xs-vulnerability.48865/)|Visit link for details.|Feb 28, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases Security Advisories for Cisco NX-OS Software](https://www.cisa.gov/news-events/alerts/2024/03/01/cisco-releases-security-advisories-cisco-nx-os-software)|Visit link for details.|Mar 01, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 29, 2024|
+ |[CISA, FBI, and MS-ISAC Release Advisory on Phobos Ransomware](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-fbi-and-ms-isac-release-advisory-phobos-ransomware)|Visit link for details.|Feb 29, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 29, 2024|
+ |[CISA and Partners Release Advisory on Threat Actors Exploiting Ivanti Connect Secure and Policy Secure Gateways Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/02/29/cisa-and-partners-release-advisory-threat-actors-exploiting-ivanti-connect-secure-and-policy-secure)|Visit link for details.|Feb 29, 2024|
+ |[CISA Releases Resource Guide for University Cybersecurity Clinics](https://www.cisa.gov/news-events/alerts/2024/02/28/cisa-releases-resource-guide-university-cybersecurity-clinics)|Visit link for details.|Feb 28, 2024|
+ |[CISA, FBI, and HHS Release an Update to #StopRansomware Advisory on ALPHV Blackcat](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-fbi-and-hhs-release-update-stopransomware-advisory-alphv-blackcat)|Visit link for details.|Feb 27, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Feb 27, 2024|
+ |[CISA, NCSC-UK, and Partners Release Advisory on Russian SVR Actors Targeting Cloud Infrastructure](https://www.cisa.gov/news-events/alerts/2024/02/26/cisa-ncsc-uk-and-partners-release-advisory-russian-svr-actors-targeting-cloud-infrastructure)|Visit link for details.|Feb 26, 2024|
+ |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
  
 
 # CERT-FR
@@ -95,22 +95,6 @@
  |[TeamViewer - CVE-2024-0819](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-0819-2024-02-28)|Visit link for details.|28/02/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208" class="noirorange"><b>Linux kernel</b>: use after free via nft_set_commit_update()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404" class="noirorange"><b>Stormshield Network Security</b>: memory corruption via PPP / L2TP</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404)|An attacker can trigger a memory corruption of Stormshield Network Security, via PPP / L2TP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201" class="noirorange"><b>Linux kernel</b>: use after free via do_vcc_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201)|An attacker can force the reuse of a freed memory area of the Linux kernel, via do_vcc_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200" class="noirorange"><b>Linux kernel</b>: use after free via bt_sock_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bt_sock_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199" class="noirorange"><b>Linux kernel</b>: information disclosure via Io_uring Over Sockets</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199)|An attacker can bypass access restrictions to data of the Linux kernel, via Io_uring Over Sockets, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197" class="noirorange"><b>ALEOS</b>: denial of service via ACEManager</a>](https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197)|An attacker can cause a fatal error of ALEOS, via ACEManager, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196" class="noirorange"><b>cJSON</b>: memory corruption via cJSON_InsertItemInArray()</a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196)|An attacker can trigger a memory corruption of cJSON, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -127,6 +111,22 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240226)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210" class="noirorange"><b>F5 BIG-IP</b>: Man-in-the-Middle via TLS Triple Handshake</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210)|An attacker can act as a Man-in-the-Middle on F5 BIG-IP, via TLS Triple Handshake, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208" class="noirorange"><b>Linux kernel</b>: use after free via nft_set_commit_update()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404" class="noirorange"><b>Stormshield Network Security</b>: memory corruption via PPP / L2TP</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404)|An attacker can trigger a memory corruption of Stormshield Network Security, via PPP / L2TP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201" class="noirorange"><b>Linux kernel</b>: use after free via do_vcc_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201)|An attacker can force the reuse of a freed memory area of the Linux kernel, via do_vcc_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200" class="noirorange"><b>Linux kernel</b>: use after free via bt_sock_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bt_sock_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199" class="noirorange"><b>Linux kernel</b>: information disclosure via Io_uring Over Sockets</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199)|An attacker can bypass access restrictions to data of the Linux kernel, via Io_uring Over Sockets, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197" class="noirorange"><b>ALEOS</b>: denial of service via ACEManager</a>](https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197)|An attacker can cause a fatal error of ALEOS, via ACEManager, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196" class="noirorange"><b>cJSON</b>: memory corruption via cJSON_InsertItemInArray()</a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196)|An attacker can trigger a memory corruption of cJSON, via |Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -138,6 +138,20 @@
  |[RevoWorks SCVX and RevoWorks Browser weak security (CVE-2024-25091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
  |[D-Link DIR-823G denial of service (CVE-2024-27655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
  |[D-Link DIR-823G denial of service (CVE-2024-27656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel ksmbd Session Key Exchange Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-229/)|Visit link for details|2024-03-01|
+ |[Linux Kernel ksmbd Negotiate Request Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-228/)|Visit link for details|2024-03-01|
+ |[Linux Kernel ksmbd Chained Request Improper Input Validation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-227/)|Visit link for details|2024-03-01|
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-226/)|Visit link for details|2024-03-01|
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-225/)|Visit link for details|2024-03-01|
+ |[Kofax Power PDF PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-224/)|Visit link for details|2024-03-01|
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-223/)|Visit link for details|2024-03-01|
+ |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-222/)|Visit link for details|2024-03-01|
  
 
 # EU-CERT
@@ -155,20 +169,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel ksmbd Session Key Exchange Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-229/)|Visit link for details|2024-03-01|
- |[Linux Kernel ksmbd Negotiate Request Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-228/)|Visit link for details|2024-03-01|
- |[Linux Kernel ksmbd Chained Request Improper Input Validation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-227/)|Visit link for details|2024-03-01|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-226/)|Visit link for details|2024-03-01|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-225/)|Visit link for details|2024-03-01|
- |[Kofax Power PDF PDF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-224/)|Visit link for details|2024-03-01|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-223/)|Visit link for details|2024-03-01|
- |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-222/)|Visit link for details|2024-03-01|
  
 
 # CA-CCS
