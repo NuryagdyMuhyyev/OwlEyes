@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/03/2024 03:14:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/03/2024 04:15:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,22 @@
  |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210" class="noirorange"><b>F5 BIG-IP</b>: Man-in-the-Middle via TLS Triple Handshake</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210)|An attacker can act as a Man-in-the-Middle on F5 BIG-IP, via TLS Triple Handshake, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208" class="noirorange"><b>Linux kernel</b>: use after free via nft_set_commit_update()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404" class="noirorange"><b>Stormshield Network Security</b>: memory corruption via PPP / L2TP</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404)|An attacker can trigger a memory corruption of Stormshield Network Security, via PPP / L2TP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201" class="noirorange"><b>Linux kernel</b>: use after free via do_vcc_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201)|An attacker can force the reuse of a freed memory area of the Linux kernel, via do_vcc_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200" class="noirorange"><b>Linux kernel</b>: use after free via bt_sock_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bt_sock_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,20 +111,17 @@
  |[TeamViewer - CVE-2024-0819](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-0819-2024-02-28)|Visit link for details.|28/02/2024|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210" class="noirorange"><b>F5 BIG-IP</b>: Man-in-the-Middle via TLS Triple Handshake</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210)|An attacker can act as a Man-in-the-Middle on F5 BIG-IP, via TLS Triple Handshake, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208" class="noirorange"><b>Linux kernel</b>: use after free via nft_set_commit_update()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404" class="noirorange"><b>Stormshield Network Security</b>: memory corruption via PPP / L2TP</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404)|An attacker can trigger a memory corruption of Stormshield Network Security, via PPP / L2TP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201" class="noirorange"><b>Linux kernel</b>: use after free via do_vcc_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201)|An attacker can force the reuse of a freed memory area of the Linux kernel, via do_vcc_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200" class="noirorange"><b>Linux kernel</b>: use after free via bt_sock_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bt_sock_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[IBM MQ Container information disclosure (CVE-2024-27255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 1, 2024|
+ |[IBM MQ denial of service (CVE-2024-25016)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 1, 2024|
+ |[IBM QRadar Suite information disclosure (CVE-2024-22355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 1, 2024|
+ |[IBM QRadar Suite information dislosure (CVE-2023-47742)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 1, 2024|
+ |[Docassemble cross-site scripting (CVE-2024-27290)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
+ |[Docassemble open redirect (CVE-2024-27291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
+ |[Docassemble information disclosure (CVE-2024-27292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
  
 
 # HK-CERT
@@ -125,19 +138,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated...| Release Date: 7 Feb 2024 |
  |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240227)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 27 Feb 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240226)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 26 Feb 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM MQ Container information disclosure (CVE-2024-27255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 1, 2024|
- |[IBM MQ denial of service (CVE-2024-25016)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 1, 2024|
- |[IBM QRadar Suite information disclosure (CVE-2024-22355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 1, 2024|
- |[IBM QRadar Suite information dislosure (CVE-2023-47742)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 1, 2024|
- |[Docassemble cross-site scripting (CVE-2024-27290)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
- |[Docassemble open redirect (CVE-2024-27291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
- |[Docassemble information disclosure (CVE-2024-27292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 29, 2024|
  
 
 # EU-CERT
@@ -171,23 +171,6 @@
  |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-222/)|Visit link for details|2024-03-01|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper security advisory (AV24-113)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-113)|Visit link for details|2024-02-29|
- |[HPE security advisory (AV24-112)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-112)|Visit link for details|2024-02-29|
- |[Cisco security advisory (AV24-111)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-111)|Visit link for details|2024-02-28|
- |[Google Chrome security advisory (AV24-110)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-110)|Visit link for details|2024-02-28|
- |[IBM security advisory (AV24-109)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-109)|Visit link for details|2024-02-26|
- |[Dell security advisory (AV24-108)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-108)|Visit link for details|2024-02-26|
- |[Ubuntu security advisory (AV24-107)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-107)|Visit link for details|2024-02-26|
- |[[Control systems] CISA ICS security advisories (AV24-106)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-106)|Visit link for details|2024-02-26|
- |[Vulnerabilities impacting ConnectWise ScreenConnect](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-connectwise-screenconnect)|Visit link for details|2024-02-22|
- |[[Control systems] B&R security advisory (AV24-105)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-105)|Visit link for details|2024-02-22|
- |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -203,4 +186,21 @@
  |[ 46222202/24 - Vulnérabilités affectant Spring Framework et Spring Security ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-spring-framework-et-spring-security)| Spring annonce la correction de deux vulnérabilités affectant ses  produits Spring Framework et Spring Security.  L'exploitation de ces vulnérabilités peut permettre à un attaquant le contournement de…| 23 février 2024|
  |[ 46212202/24 - Vulnérabilité affectant Cisco Unified Intelligence Center ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-cisco-unified-intelligence-center)| Cisco annonce la correction d’une vulnérabilité affectant son produit Cisco Unified Intelligence Center. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’accéder à des…| 22 février 2024|
  |[ 46202202/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-6)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 22 février 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper security advisory (AV24-113)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-113)|Visit link for details|2024-02-29|
+ |[HPE security advisory (AV24-112)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-112)|Visit link for details|2024-02-29|
+ |[Cisco security advisory (AV24-111)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-111)|Visit link for details|2024-02-28|
+ |[Google Chrome security advisory (AV24-110)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-110)|Visit link for details|2024-02-28|
+ |[IBM security advisory (AV24-109)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-109)|Visit link for details|2024-02-26|
+ |[Dell security advisory (AV24-108)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-108)|Visit link for details|2024-02-26|
+ |[Ubuntu security advisory (AV24-107)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-107)|Visit link for details|2024-02-26|
+ |[[Control systems] CISA ICS security advisories (AV24-106)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-106)|Visit link for details|2024-02-26|
+ |[Vulnerabilities impacting ConnectWise ScreenConnect](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-connectwise-screenconnect)|Visit link for details|2024-02-22|
+ |[[Control systems] B&R security advisory (AV24-105)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-105)|Visit link for details|2024-02-22|
+ |[Atlassian security advisory (AV24-104)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-104)|Visit link for details|2024-02-21|
  
