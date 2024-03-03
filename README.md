@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/03/2024 01:16:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/03/2024 02:14:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[Updated: Top Cyber Actions for Securing Water Systems](https://www.cisa.gov/news-events/alerts/2024/02/23/updated-top-cyber-actions-securing-water-systems)|Visit link for details.|Feb 23, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0179/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0176/)|De multiples vulnérabilités ont été découvertes dans Mitel MiContact Center Business . Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans Cisco NX-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans Cisco NX-OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 février 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0173/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics . Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 février 2024|
+ |[Multiples vulnérabilités dans ZimbraCollaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 28 février 2024|
+ |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,22 +76,6 @@
  |[USN-6651-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6651-2-linux-kernel-vulnerabilities.48868/)|Visit link for details.|Feb 28, 2024|
  |[USN-6668-1: python-openstackclient vulnerability](https://www.linux.org/threads/usn-6668-1-python-openstackclient-vulnerability.48866/)|Visit link for details.|Feb 28, 2024|
  |[USN-6667-1: Cpanel-JSON-XS vulnerability](https://www.linux.org/threads/usn-6667-1-cpanel-json-xs-vulnerability.48865/)|Visit link for details.|Feb 28, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0179/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0176/)|De multiples vulnérabilités ont été découvertes dans Mitel MiContact Center Business . Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Cisco NX-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans Cisco NX-OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 février 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0173/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics . Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 février 2024|
- |[Multiples vulnérabilités dans ZimbraCollaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 28 février 2024|
- |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
