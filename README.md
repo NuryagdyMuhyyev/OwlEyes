@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/03/2024 17:30:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/03/2024 18:17:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[CISA, NCSC-UK, and Partners Release Advisory on Russian SVR Actors Targeting Cloud Infrastructure](https://www.cisa.gov/news-events/alerts/2024/02/26/cisa-ncsc-uk-and-partners-release-advisory-russian-svr-actors-targeting-cloud-infrastructure)|Visit link for details.|Feb 26, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0179/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0176/)|De multiples vulnérabilités ont été découvertes dans Mitel MiContact Center Business . Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Cisco NX-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans Cisco NX-OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 février 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0173/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics . Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 février 2024|
- |[Multiples vulnérabilités dans ZimbraCollaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 28 février 2024|
- |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[USN-6670-1: php-guzzlehttp-psr7 vulnerabilities](https://www.linux.org/threads/usn-6670-1-php-guzzlehttp-psr7-vulnerabilities.48878/)|Visit link for details.|Feb 29, 2024|
  |[USN-6653-3: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6653-3-linux-kernel-low-latency-vulnerabilities.48877/)|Visit link for details.|Feb 29, 2024|
  |[USN-6651-3: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6651-3-linux-kernel-starfive-vulnerabilities.48876/)|Visit link for details.|Feb 29, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans SolarWinds Security Event Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0184/)|Une vulnérabilité a été découverte dans|Publié le 5 mars 2024|
+ |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
+ |[Vulnérabilité dans les produits Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0182/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0181/)|De multiples vulnérabilités ont été découvertes dans Google|Publié le 5 mars 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0179/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0176/)|De multiples vulnérabilités ont été découvertes dans Mitel MiContact Center Business . Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
  
 
 # CERT-SANTE
@@ -124,6 +124,22 @@
  |[Qualcomm Snapdragon products denial of service (CVE-2023-33095)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224" class="noirorange"><b>aiohttp</b>: header injection via HTTP Version</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224)|An attacker can add new headers on aiohttp, via HTTP Version, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221" class="noirorange"><b>AIX</b>: denial of service via Kernel</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221)|An attacker can cause a fatal error of AIX, via Kernel, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219" class="noirorange"><b>Wireshark</b>: denial of service via DOCSIS</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219)|An attacker can cause a fatal error of Wireshark, via DOCSIS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218" class="noirorange"><b>Wireshark</b>: denial of service via Zigbee TLV</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218)|An attacker can cause a fatal error of Wireshark, via Zigbee TLV, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217" class="noirorange"><b>Wireshark</b>: denial of service via HTTP3</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217)|An attacker can cause a fatal error of Wireshark, via HTTP3, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215" class="noirorange"><b>Wireshark</b>: denial of service via GVCP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215)|An attacker can cause a fatal error of Wireshark, via GVCP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -136,22 +152,6 @@
  |[Linux Kernel ksmbd Negotiate Request Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-228/)|Visit link for details|2024-03-01|
  |[Linux Kernel ksmbd Chained Request Improper Input Validation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-227/)|Visit link for details|2024-03-01|
  |[Kofax Power PDF PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-226/)|Visit link for details|2024-03-01|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221" class="noirorange"><b>AIX</b>: denial of service via Kernel</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221)|An attacker can cause a fatal error of AIX, via Kernel, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219" class="noirorange"><b>Wireshark</b>: denial of service via DOCSIS</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219)|An attacker can cause a fatal error of Wireshark, via DOCSIS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218" class="noirorange"><b>Wireshark</b>: denial of service via Zigbee TLV</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218)|An attacker can cause a fatal error of Wireshark, via Zigbee TLV, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217" class="noirorange"><b>Wireshark</b>: denial of service via HTTP3</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217)|An attacker can cause a fatal error of Wireshark, via HTTP3, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215" class="noirorange"><b>Wireshark</b>: denial of service via GVCP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215)|An attacker can cause a fatal error of Wireshark, via GVCP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210" class="noirorange"><b>F5 BIG-IP</b>: Man-in-the-Middle via TLS Triple Handshake</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210)|An attacker can act as a Man-in-the-Middle on F5 BIG-IP, via TLS Triple Handshake, in order to read or write data in the session...|Visit link for details|
  
 
 # EU-CERT
@@ -171,23 +171,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46310503/24 - Vulnérabilités critiques dans JetBrains TeamCity ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jetbrains-teamcity)| Deux vulnérabilités critiques ont été corrigées dans JetBrains TeamCity. Ces vulnérabilités peuvent permettre à un attaquant non authentifié disposant d'un accès HTTP(S) à un serveur TeamCity de…| 05 mars 2024|
- |[ 46300503/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des   …| 05 mars 2024|
- |[ 46290103/24 - Vulnérabilités critiques dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité des données…| 01 mars 2024|
- |[ 46282902/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces vulnérabilités afin de causer un déni de service.| 29 février 2024|
- |[ 46292902/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-17)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 29 février 2024|
- |[ 46272902/24 - Vulnérabilité dans VMware Workstation et Fusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workstation-et-fusion)| Une vulnérabilité a été corrigée dans les versions susmentionnées de VMware Workstation Pro et Fusion. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité des…| 29 février 2024|
- |[ 46262902/24 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-3)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de causer un…| 29 février 2024|
- |[ 46252802/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen-0)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 28 février 2024|
- |[ 46242702/24 - Vulnérabilités dans les produits ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zyxel)| Plusieurs vulnérabilités ont été corrigées dans certaines versions des pare-feu et des points d'accès (AP) du constructeur ZyXEL. L’exploitation de ces failles peut permettre à un attaquant d’injecter…| 27 février 2024|
- |[ 46232602/24 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate       Member». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié…| 26 février 2024|
- |[ 46222202/24 - Vulnérabilités affectant Spring Framework et Spring Security ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-spring-framework-et-spring-security)| Spring annonce la correction de deux vulnérabilités affectant ses  produits Spring Framework et Spring Security.  L'exploitation de ces vulnérabilités peut permettre à un attaquant le contournement de…| 23 février 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -203,4 +186,21 @@
  |[Cisco security advisory (AV24-111)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-111)|Visit link for details|2024-02-28|
  |[Google Chrome security advisory (AV24-110)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-110)|Visit link for details|2024-02-28|
  |[IBM security advisory (AV24-109)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-109)|Visit link for details|2024-02-26|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46310503/24 - Vulnérabilités critiques dans JetBrains TeamCity ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jetbrains-teamcity)| Deux vulnérabilités critiques ont été corrigées dans JetBrains TeamCity. Ces vulnérabilités peuvent permettre à un attaquant non authentifié disposant d'un accès HTTP(S) à un serveur TeamCity de…| 05 mars 2024|
+ |[ 46300503/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des   …| 05 mars 2024|
+ |[ 46290103/24 - Vulnérabilités critiques dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité des données…| 01 mars 2024|
+ |[ 46282902/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces vulnérabilités afin de causer un déni de service.| 29 février 2024|
+ |[ 46292902/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-17)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 29 février 2024|
+ |[ 46272902/24 - Vulnérabilité dans VMware Workstation et Fusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workstation-et-fusion)| Une vulnérabilité a été corrigée dans les versions susmentionnées de VMware Workstation Pro et Fusion. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité des…| 29 février 2024|
+ |[ 46262902/24 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-3)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de causer un…| 29 février 2024|
+ |[ 46252802/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen-0)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 28 février 2024|
+ |[ 46242702/24 - Vulnérabilités dans les produits ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zyxel)| Plusieurs vulnérabilités ont été corrigées dans certaines versions des pare-feu et des points d'accès (AP) du constructeur ZyXEL. L’exploitation de ces failles peut permettre à un attaquant d’injecter…| 27 février 2024|
+ |[ 46232602/24 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate       Member». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié…| 26 février 2024|
+ |[ 46222202/24 - Vulnérabilités affectant Spring Framework et Spring Security ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-spring-framework-et-spring-security)| Spring annonce la correction de deux vulnérabilités affectant ses  produits Spring Framework et Spring Security.  L'exploitation de ces vulnérabilités peut permettre à un attaquant le contournement de…| 23 février 2024|
  
