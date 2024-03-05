@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/03/2024 13:20:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/03/2024 14:16:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,51 +78,6 @@
  |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20240304)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 4 Mar 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240304)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 4 Mar 2024 |
- |[Cisco NX-OS Denial of Service vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-nx-os-denial-of-service-vulnerability_20240301)|Multiple vulnerabilities were identified in Cisco NX-OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition.|Release Date: 1 Mar 2024 |
- |[Microsoft Edge Remote Code Execution vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20240301)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 1 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Mar 2024 |
- |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240229)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Feb 2024 |
- |[Microsoft Monthly Security Update (February 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2024)|[Updated on 2024-02-16] Exploit in the wild has been detected for CVE-2024-21410, affecting Microsoft Exchange Server. The vulnerability could be exploited by sending a crafted request to steal user's NTLM hash. Proof of Concept exploit...| Release Date: 14 Feb 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated...| Release Date: 7 Feb 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[He3 App for macOS code execution (CVE-2024-25249)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[SourceCodester Simple Student Attendance System cross-site scripting (CVE-2024-25551)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products code execution (CVE-2023-33066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33095)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221" class="noirorange"><b>AIX</b>: denial of service via Kernel</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221)|An attacker can cause a fatal error of AIX, via Kernel, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219" class="noirorange"><b>Wireshark</b>: denial of service via DOCSIS</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219)|An attacker can cause a fatal error of Wireshark, via DOCSIS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218" class="noirorange"><b>Wireshark</b>: denial of service via Zigbee TLV</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218)|An attacker can cause a fatal error of Wireshark, via Zigbee TLV, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217" class="noirorange"><b>Wireshark</b>: denial of service via HTTP3</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217)|An attacker can cause a fatal error of Wireshark, via HTTP3, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215" class="noirorange"><b>Wireshark</b>: denial of service via GVCP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215)|An attacker can cause a fatal error of Wireshark, via GVCP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210" class="noirorange"><b>F5 BIG-IP</b>: Man-in-the-Middle via TLS Triple Handshake</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210)|An attacker can act as a Man-in-the-Middle on F5 BIG-IP, via TLS Triple Handshake, in order to read or write data in the session...|Visit link for details|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -138,6 +93,35 @@
  |[MicroDicom DICOM Viewer - CVE-2024-22100](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-dicom-viewer-cve-2024-22100-2024-03-01)|Visit link for details.|01/03/2024|
  |[D-Link - CVE-2024-27655](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-27655-2024-03-01)|Visit link for details.|01/03/2024|
  |[DICOM Connectivity Framework - CVE-2024-25386](https://www.cyberveille-sante.gouv.fr/alertes/dicom-connectivity-framework-cve-2024-25386-2024-03-01)|Visit link for details.|01/03/2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[He3 App for macOS code execution (CVE-2024-25249)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[SourceCodester Simple Student Attendance System cross-site scripting (CVE-2024-25551)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products code execution (CVE-2023-33066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33095)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20240304)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 4 Mar 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240304)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 4 Mar 2024 |
+ |[Cisco NX-OS Denial of Service vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-nx-os-denial-of-service-vulnerability_20240301)|Multiple vulnerabilities were identified in Cisco NX-OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition.|Release Date: 1 Mar 2024 |
+ |[Microsoft Edge Remote Code Execution vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20240301)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 1 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Mar 2024 |
+ |[Microsoft Monthly Security Update (June 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2023)|Microsoft has released monthly security update for their products: [Updated on 2023-06-21]Installation of the June 2023 Windows update will not enable the resolution of the CVE-2023-32019 vulnerability. To enable the resolution, please refer to the following reference...| Release Date: 14 Jun 2023 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240229)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Feb 2024 |
+ |[Microsoft Monthly Security Update (February 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2024)|[Updated on 2024-02-16] Exploit in the wild has been detected for CVE-2024-21410, affecting Microsoft Exchange Server. The vulnerability could be exploited by sending a crafted request to steal user's NTLM hash. Proof of Concept exploit...| Release Date: 14 Feb 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated Solutions, Vulnerability Identifier and...| Release Date: 8 Feb 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-02-14] Updated...| Release Date: 7 Feb 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -186,6 +170,22 @@
  |[Cisco security advisory (AV24-111)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-111)|Visit link for details|2024-02-28|
  |[Google Chrome security advisory (AV24-110)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-110)|Visit link for details|2024-02-28|
  |[IBM security advisory (AV24-109)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-109)|Visit link for details|2024-02-26|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221" class="noirorange"><b>AIX</b>: denial of service via Kernel</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221)|An attacker can cause a fatal error of AIX, via Kernel, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219" class="noirorange"><b>Wireshark</b>: denial of service via DOCSIS</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219)|An attacker can cause a fatal error of Wireshark, via DOCSIS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218" class="noirorange"><b>Wireshark</b>: denial of service via Zigbee TLV</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218)|An attacker can cause a fatal error of Wireshark, via Zigbee TLV, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217" class="noirorange"><b>Wireshark</b>: denial of service via HTTP3</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217)|An attacker can cause a fatal error of Wireshark, via HTTP3, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215" class="noirorange"><b>Wireshark</b>: denial of service via GVCP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215)|An attacker can cause a fatal error of Wireshark, via GVCP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210" class="noirorange"><b>F5 BIG-IP</b>: Man-in-the-Middle via TLS Triple Handshake</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210)|An attacker can act as a Man-in-the-Middle on F5 BIG-IP, via TLS Triple Handshake, in order to read or write data in the session...|Visit link for details|
  
 
 # MA-CERT
