@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/03/2024 10:15:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/03/2024 11:20:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5635-1 yard - security update](https://www.linux.org/threads/dsa-5635-1-yard-security-update.48931/)|Visit link for details.|Mar 5, 2024|
- |[USN-6653-4: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6653-4-linux-kernel-gke-vulnerabilities.48929/)|Visit link for details.|Mar 4, 2024|
- |[USN-6674-2: Django vulnerability](https://www.linux.org/threads/usn-6674-2-django-vulnerability.48925/)|Visit link for details.|Mar 4, 2024|
- |[USN-6674-1: Django vulnerability](https://www.linux.org/threads/usn-6674-1-django-vulnerability.48924/)|Visit link for details.|Mar 4, 2024|
- |[USN-6673-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6673-1-python-cryptography-vulnerabilities.48921/)|Visit link for details.|Mar 4, 2024|
- |[USN-6672-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6672-1-node-js-vulnerabilities.48920/)|Visit link for details.|Mar 4, 2024|
- |[USN-6669-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6669-1-thunderbird-vulnerabilities.48918/)|Visit link for details.|Mar 4, 2024|
- |[USN-6671-1: php-nyholm-psr7 vulnerability](https://www.linux.org/threads/usn-6671-1-php-nyholm-psr7-vulnerability.48879/)|Visit link for details.|Feb 29, 2024|
- |[USN-6670-1: php-guzzlehttp-psr7 vulnerabilities](https://www.linux.org/threads/usn-6670-1-php-guzzlehttp-psr7-vulnerabilities.48878/)|Visit link for details.|Feb 29, 2024|
- |[USN-6653-3: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6653-3-linux-kernel-low-latency-vulnerabilities.48877/)|Visit link for details.|Feb 29, 2024|
- |[USN-6651-3: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6651-3-linux-kernel-starfive-vulnerabilities.48876/)|Visit link for details.|Feb 29, 2024|
- 
 
 # US-CERT
 
@@ -78,6 +61,23 @@
  |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 28 février 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5635-1 yard - security update](https://www.linux.org/threads/dsa-5635-1-yard-security-update.48931/)|Visit link for details.|Mar 5, 2024|
+ |[USN-6653-4: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6653-4-linux-kernel-gke-vulnerabilities.48929/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6674-2: Django vulnerability](https://www.linux.org/threads/usn-6674-2-django-vulnerability.48925/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6674-1: Django vulnerability](https://www.linux.org/threads/usn-6674-1-django-vulnerability.48924/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6673-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6673-1-python-cryptography-vulnerabilities.48921/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6672-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6672-1-node-js-vulnerabilities.48920/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6669-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6669-1-thunderbird-vulnerabilities.48918/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6671-1: php-nyholm-psr7 vulnerability](https://www.linux.org/threads/usn-6671-1-php-nyholm-psr7-vulnerability.48879/)|Visit link for details.|Feb 29, 2024|
+ |[USN-6670-1: php-guzzlehttp-psr7 vulnerabilities](https://www.linux.org/threads/usn-6670-1-php-guzzlehttp-psr7-vulnerabilities.48878/)|Visit link for details.|Feb 29, 2024|
+ |[USN-6653-3: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6653-3-linux-kernel-low-latency-vulnerabilities.48877/)|Visit link for details.|Feb 29, 2024|
+ |[USN-6651-3: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6651-3-linux-kernel-starfive-vulnerabilities.48876/)|Visit link for details.|Feb 29, 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,19 +95,6 @@
  |[DICOM Connectivity Framework - CVE-2024-25386](https://www.cyberveille-sante.gouv.fr/alertes/dicom-connectivity-framework-cve-2024-25386-2024-03-01)|Visit link for details.|01/03/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[SourceCodester Simple Student Attendance System cross-site scripting (CVE-2024-25551)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products code execution (CVE-2023-33066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33095)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- |[Qualcomm Snapdragon products denial of service (CVE-2023-33096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -122,6 +109,19 @@
  |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210" class="noirorange"><b>F5 BIG-IP</b>: Man-in-the-Middle via TLS Triple Handshake</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Man-in-the-Middle-via-TLS-Triple-Handshake-43210)|An attacker can act as a Man-in-the-Middle on F5 BIG-IP, via TLS Triple Handshake, in order to read or write data in the session...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SourceCodester Simple Student Attendance System cross-site scripting (CVE-2024-25551)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products code execution (CVE-2023-33066)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33095)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
+ |[Qualcomm Snapdragon products denial of service (CVE-2023-33096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2024|
  
 
 # HK-CERT
