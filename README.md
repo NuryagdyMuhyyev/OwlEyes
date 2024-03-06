@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/03/2024 09:19:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/03/2024 10:15:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6678-1: libgit2 vulnerabilities](https://www.linux.org/threads/usn-6678-1-libgit2-vulnerabilities.48940/)|Visit link for details.|Mar 5, 2024|
- |[USN-6677-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6677-1-libde265-vulnerabilities.48939/)|Visit link for details.|Mar 5, 2024|
- |[USN-6675-1: ImageProcessing vulnerability](https://www.linux.org/threads/usn-6675-1-imageprocessing-vulnerability.48936/)|Visit link for details.|Mar 5, 2024|
- |[DSA-5635-1 yard - security update](https://www.linux.org/threads/dsa-5635-1-yard-security-update.48931/)|Visit link for details.|Mar 5, 2024|
- |[USN-6653-4: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6653-4-linux-kernel-gke-vulnerabilities.48929/)|Visit link for details.|Mar 4, 2024|
- |[USN-6674-2: Django vulnerability](https://www.linux.org/threads/usn-6674-2-django-vulnerability.48925/)|Visit link for details.|Mar 4, 2024|
- |[USN-6674-1: Django vulnerability](https://www.linux.org/threads/usn-6674-1-django-vulnerability.48924/)|Visit link for details.|Mar 4, 2024|
- |[USN-6673-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6673-1-python-cryptography-vulnerabilities.48921/)|Visit link for details.|Mar 4, 2024|
- |[USN-6672-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6672-1-node-js-vulnerabilities.48920/)|Visit link for details.|Mar 4, 2024|
- |[USN-6669-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6669-1-thunderbird-vulnerabilities.48918/)|Visit link for details.|Mar 4, 2024|
- |[USN-6671-1: php-nyholm-psr7 vulnerability](https://www.linux.org/threads/usn-6671-1-php-nyholm-psr7-vulnerability.48879/)|Visit link for details.|Feb 29, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,20 +45,21 @@
  |[CISA, FBI, and HHS Release an Update to #StopRansomware Advisory on ALPHV Blackcat](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-fbi-and-hhs-release-update-stopransomware-advisory-alphv-blackcat)|Visit link for details.|Feb 27, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans SolarWinds Security Event Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0184/)|Une vulnérabilité a été découverte dans|Publié le 5 mars 2024|
- |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
- |[Vulnérabilité dans les produits Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0182/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0181/)|De multiples vulnérabilités ont été découvertes dans Google|Publié le 5 mars 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0179/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0176/)|De multiples vulnérabilités ont été découvertes dans Mitel MiContact Center Business . Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[USN-6678-1: libgit2 vulnerabilities](https://www.linux.org/threads/usn-6678-1-libgit2-vulnerabilities.48940/)|Visit link for details.|Mar 5, 2024|
+ |[USN-6677-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6677-1-libde265-vulnerabilities.48939/)|Visit link for details.|Mar 5, 2024|
+ |[USN-6675-1: ImageProcessing vulnerability](https://www.linux.org/threads/usn-6675-1-imageprocessing-vulnerability.48936/)|Visit link for details.|Mar 5, 2024|
+ |[DSA-5635-1 yard - security update](https://www.linux.org/threads/dsa-5635-1-yard-security-update.48931/)|Visit link for details.|Mar 5, 2024|
+ |[USN-6653-4: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6653-4-linux-kernel-gke-vulnerabilities.48929/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6674-2: Django vulnerability](https://www.linux.org/threads/usn-6674-2-django-vulnerability.48925/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6674-1: Django vulnerability](https://www.linux.org/threads/usn-6674-1-django-vulnerability.48924/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6673-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6673-1-python-cryptography-vulnerabilities.48921/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6672-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6672-1-node-js-vulnerabilities.48920/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6669-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6669-1-thunderbird-vulnerabilities.48918/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6671-1: php-nyholm-psr7 vulnerability](https://www.linux.org/threads/usn-6671-1-php-nyholm-psr7-vulnerability.48879/)|Visit link for details.|Feb 29, 2024|
  
 
 # CERT-SANTE
@@ -108,20 +92,20 @@
  |[Apple iOS and iPadOS security bypass (CVE-2024-23296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224" class="noirorange"><b>aiohttp</b>: header injection via HTTP Version</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224)|An attacker can add new headers on aiohttp, via HTTP Version, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221" class="noirorange"><b>AIX</b>: denial of service via Kernel</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221)|An attacker can cause a fatal error of AIX, via Kernel, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219" class="noirorange"><b>Wireshark</b>: denial of service via DOCSIS</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219)|An attacker can cause a fatal error of Wireshark, via DOCSIS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218" class="noirorange"><b>Wireshark</b>: denial of service via Zigbee TLV</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218)|An attacker can cause a fatal error of Wireshark, via Zigbee TLV, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217" class="noirorange"><b>Wireshark</b>: denial of service via HTTP3</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217)|An attacker can cause a fatal error of Wireshark, via HTTP3, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215" class="noirorange"><b>Wireshark</b>: denial of service via GVCP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215)|An attacker can cause a fatal error of Wireshark, via GVCP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
+ |[Vulnérabilité dans SolarWinds Security Event Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0184/)|Une vulnérabilité a été découverte dans|Publié le 5 mars 2024|
+ |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
+ |[Vulnérabilité dans les produits Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0182/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0181/)|De multiples vulnérabilités ont été découvertes dans Google|Publié le 5 mars 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0179/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0176/)|De multiples vulnérabilités ont été découvertes dans Mitel MiContact Center Business . Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 1 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
  
 
 # HK-CERT
@@ -186,6 +170,22 @@
  |[Mitel security advisory (AV24-114)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-114)|Visit link for details|2024-03-04|
  |[Juniper security advisory (AV24-113)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-113)|Visit link for details|2024-02-29|
  |[HPE security advisory (AV24-112)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-112)|Visit link for details|2024-02-29|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224" class="noirorange"><b>aiohttp</b>: header injection via HTTP Version</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224)|An attacker can add new headers on aiohttp, via HTTP Version, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221" class="noirorange"><b>AIX</b>: denial of service via Kernel</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221)|An attacker can cause a fatal error of AIX, via Kernel, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219" class="noirorange"><b>Wireshark</b>: denial of service via DOCSIS</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219)|An attacker can cause a fatal error of Wireshark, via DOCSIS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218" class="noirorange"><b>Wireshark</b>: denial of service via Zigbee TLV</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218)|An attacker can cause a fatal error of Wireshark, via Zigbee TLV, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217" class="noirorange"><b>Wireshark</b>: denial of service via HTTP3</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217)|An attacker can cause a fatal error of Wireshark, via HTTP3, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215" class="noirorange"><b>Wireshark</b>: denial of service via GVCP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215)|An attacker can cause a fatal error of Wireshark, via GVCP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212" class="noirorange"><b>W3M</b>: buffer overflow via Backspace Handling</a>](https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212)|An attacker can trigger a buffer overflow of W3M, via Backspace Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211" class="noirorange"><b>SUSE</b>: privilege escalation via Polkit Config Dir Permissions</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Polkit-Config-Dir-Permissions-43211)|An attacker can bypass restrictions of SUSE, via Polkit Config Dir Permissions, in order to escalate his privileges...|Visit link for details|
  
 
 # MA-CERT
