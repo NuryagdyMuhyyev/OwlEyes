@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/03/2024 14:16:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/03/2024 15:17:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,23 @@
  |[CISA, FBI, and HHS Release an Update to #StopRansomware Advisory on ALPHV Blackcat](https://www.cisa.gov/news-events/alerts/2024/02/27/cisa-fbi-and-hhs-release-update-stopransomware-advisory-alphv-blackcat)|Visit link for details.|Feb 27, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6649-2: Firefox regressions](https://www.linux.org/threads/usn-6649-2-firefox-regressions.48944/)|Visit link for details.|Mar 6, 2024|
+ |[USN-6678-1: libgit2 vulnerabilities](https://www.linux.org/threads/usn-6678-1-libgit2-vulnerabilities.48940/)|Visit link for details.|Mar 5, 2024|
+ |[USN-6677-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6677-1-libde265-vulnerabilities.48939/)|Visit link for details.|Mar 5, 2024|
+ |[USN-6675-1: ImageProcessing vulnerability](https://www.linux.org/threads/usn-6675-1-imageprocessing-vulnerability.48936/)|Visit link for details.|Mar 5, 2024|
+ |[DSA-5635-1 yard - security update](https://www.linux.org/threads/dsa-5635-1-yard-security-update.48931/)|Visit link for details.|Mar 5, 2024|
+ |[USN-6653-4: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6653-4-linux-kernel-gke-vulnerabilities.48929/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6674-2: Django vulnerability](https://www.linux.org/threads/usn-6674-2-django-vulnerability.48925/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6674-1: Django vulnerability](https://www.linux.org/threads/usn-6674-1-django-vulnerability.48924/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6673-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6673-1-python-cryptography-vulnerabilities.48921/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6672-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6672-1-node-js-vulnerabilities.48920/)|Visit link for details.|Mar 4, 2024|
+ |[USN-6669-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6669-1-thunderbird-vulnerabilities.48918/)|Visit link for details.|Mar 4, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -61,21 +78,17 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
  
 
-# LINUX-SEC
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6649-2: Firefox regressions](https://www.linux.org/threads/usn-6649-2-firefox-regressions.48944/)|Visit link for details.|Mar 6, 2024|
- |[USN-6678-1: libgit2 vulnerabilities](https://www.linux.org/threads/usn-6678-1-libgit2-vulnerabilities.48940/)|Visit link for details.|Mar 5, 2024|
- |[USN-6677-1: libde265 vulnerabilities](https://www.linux.org/threads/usn-6677-1-libde265-vulnerabilities.48939/)|Visit link for details.|Mar 5, 2024|
- |[USN-6675-1: ImageProcessing vulnerability](https://www.linux.org/threads/usn-6675-1-imageprocessing-vulnerability.48936/)|Visit link for details.|Mar 5, 2024|
- |[DSA-5635-1 yard - security update](https://www.linux.org/threads/dsa-5635-1-yard-security-update.48931/)|Visit link for details.|Mar 5, 2024|
- |[USN-6653-4: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6653-4-linux-kernel-gke-vulnerabilities.48929/)|Visit link for details.|Mar 4, 2024|
- |[USN-6674-2: Django vulnerability](https://www.linux.org/threads/usn-6674-2-django-vulnerability.48925/)|Visit link for details.|Mar 4, 2024|
- |[USN-6674-1: Django vulnerability](https://www.linux.org/threads/usn-6674-1-django-vulnerability.48924/)|Visit link for details.|Mar 4, 2024|
- |[USN-6673-1: python-cryptography vulnerabilities](https://www.linux.org/threads/usn-6673-1-python-cryptography-vulnerabilities.48921/)|Visit link for details.|Mar 4, 2024|
- |[USN-6672-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6672-1-node-js-vulnerabilities.48920/)|Visit link for details.|Mar 4, 2024|
- |[USN-6669-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6669-1-thunderbird-vulnerabilities.48918/)|Visit link for details.|Mar 4, 2024|
+ |[VMware ESXi, Workstation, and Fusion code execution (CVE-2024-22255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[VMware ESXi code execution (CVE-2024-22254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[VMware ESXi, Workstation, and Fusion code execution (CVE-2024-22253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[VMware ESXi, Workstation, and Fusion code execution (CVE-2024-22252)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[Apple iOS and iPadOS information disclosure (CVE-2024-23243)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[Apple iOS and iPadOS security bypass (CVE-2024-23256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[Apple iOS and iPadOS security bypass (CVE-2024-23296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
  
 
 # CERT-SANTE
@@ -111,17 +124,18 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Mar 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[VMware ESXi, Workstation, and Fusion code execution (CVE-2024-22255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[VMware ESXi code execution (CVE-2024-22254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[VMware ESXi, Workstation, and Fusion code execution (CVE-2024-22253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[VMware ESXi, Workstation, and Fusion code execution (CVE-2024-22252)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[Apple iOS and iPadOS information disclosure (CVE-2024-23243)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[Apple iOS and iPadOS security bypass (CVE-2024-23256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[Apple iOS and iPadOS security bypass (CVE-2024-23296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-248/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-247/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-246/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-245/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-244/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-243/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-242/)|Visit link for details|2024-03-05|
  
 
 # OBS-Vigilance
@@ -138,20 +152,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217" class="noirorange"><b>Wireshark</b>: denial of service via HTTP3</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217)|An attacker can cause a fatal error of Wireshark, via HTTP3, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215" class="noirorange"><b>Wireshark</b>: denial of service via GVCP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215)|An attacker can cause a fatal error of Wireshark, via GVCP, in order to trigger a denial of service...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-248/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-247/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-246/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-245/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-244/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-243/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-242/)|Visit link for details|2024-03-05|
  
 
 # EU-CERT
@@ -171,23 +171,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware security advisory (AV24-122)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-122)|Visit link for details|2024-03-05|
- |[JetBrains security advisory (AV24-121)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-121)|Visit link for details|2024-03-05|
- |[SolarWinds security advisory (AV24-120)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-120)|Visit link for details|2024-03-05|
- |[Android security advisory – March 2024 Monthly Rollup (AV24-119)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-march-2024-monthly-rollup-av24-119)|Visit link for details|2024-03-04|
- |[Red Hat security advisory (AV24-118)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-118)|Visit link for details|2024-03-04|
- |[Dell security advisory (AV24-117)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-117)|Visit link for details|2024-03-04|
- |[Ubuntu security advisory (AV24-116)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-116)|Visit link for details|2024-03-04|
- |[[Control systems] CISA ICS security advisories (AV24-115)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-115)|Visit link for details|2024-03-04|
- |[Mitel security advisory (AV24-114)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-114)|Visit link for details|2024-03-04|
- |[Juniper security advisory (AV24-113)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-113)|Visit link for details|2024-02-29|
- |[HPE security advisory (AV24-112)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-112)|Visit link for details|2024-02-29|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -203,4 +186,21 @@
  |[ 46262902/24 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-3)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de causer un…| 29 février 2024|
  |[ 46252802/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen-0)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service à distance.| 28 février 2024|
  |[ 46242702/24 - Vulnérabilités dans les produits ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zyxel)| Plusieurs vulnérabilités ont été corrigées dans certaines versions des pare-feu et des points d'accès (AP) du constructeur ZyXEL. L’exploitation de ces failles peut permettre à un attaquant d’injecter…| 27 février 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware security advisory (AV24-122)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-122)|Visit link for details|2024-03-05|
+ |[JetBrains security advisory (AV24-121)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-121)|Visit link for details|2024-03-05|
+ |[SolarWinds security advisory (AV24-120)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-120)|Visit link for details|2024-03-05|
+ |[Android security advisory – March 2024 Monthly Rollup (AV24-119)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-march-2024-monthly-rollup-av24-119)|Visit link for details|2024-03-04|
+ |[Red Hat security advisory (AV24-118)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-118)|Visit link for details|2024-03-04|
+ |[Dell security advisory (AV24-117)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-117)|Visit link for details|2024-03-04|
+ |[Ubuntu security advisory (AV24-116)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-116)|Visit link for details|2024-03-04|
+ |[[Control systems] CISA ICS security advisories (AV24-115)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-115)|Visit link for details|2024-03-04|
+ |[Mitel security advisory (AV24-114)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-114)|Visit link for details|2024-03-04|
+ |[Juniper security advisory (AV24-113)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-113)|Visit link for details|2024-02-29|
+ |[HPE security advisory (AV24-112)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-112)|Visit link for details|2024-02-29|
  
