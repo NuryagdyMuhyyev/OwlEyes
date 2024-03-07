@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/03/2024 00:12:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/03/2024 01:16:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[Cisco Releases Security Advisories for Cisco NX-OS Software](https://www.cisa.gov/news-events/alerts/2024/03/01/cisco-releases-security-advisories-cisco-nx-os-software)|Visit link for details.|Mar 01, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans VMware Cloud Director](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0192/)|Une vulnérabilité a été découverte dans VMware Cloud Director. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 mars 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
+ |[[SCADA] Vulnérabilité dans Moxa NPort W2150A/W2250A Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0189/)|Une vulnérabilité a été découverte dans Moxa |Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0188/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0187/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0186/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0185/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 mars 2024|
+ |[Vulnérabilité dans SolarWinds Security Event Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0184/)|Une vulnérabilité a été découverte dans|Publié le 5 mars 2024|
+ |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,20 +78,47 @@
  |[USN-6675-1: ImageProcessing vulnerability](https://www.linux.org/threads/usn-6675-1-imageprocessing-vulnerability.48936/)|Visit link for details.|Mar 5, 2024|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Vulnérabilité dans Moxa NPort W2150A/W2250A Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0189/)|Une vulnérabilité a été découverte dans Moxa |Publié le 6 mars 2024|
- |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0188/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 6 mars 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0187/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 mars 2024|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0186/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 mars 2024|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0185/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 mars 2024|
- |[Vulnérabilité dans SolarWinds Security Event Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0184/)|Une vulnérabilité a été découverte dans|Publié le 5 mars 2024|
- |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
- |[Vulnérabilité dans les produits Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0182/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0181/)|De multiples vulnérabilités ont été découvertes dans Google|Publié le 5 mars 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
+ |[Cisco Small Business 100, 300, and 500 Series Wireless Access Points buffer overflow (CVE-2024-20336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[Cisco Secure Client for Linux with ISE Posture Module privilege escalation (CVE-2024-20338)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[Cisco Small Business 100, 300, and 500 Series Wireless Access Points commmand execution (CVE-2024-20335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[Cisco Secure Client code execution (CVE-2024-20337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[Cisco Duo Authentication for Windows Logon and RDP security bypass (CVE-2024-20301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[Cisco Duo Authentication for Windows Logon and RDP information disclosure (CVE-2024-20292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20240307)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 7 Mar 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 7 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System / Technologies affected, ...| Release Date: 1 Mar 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:For CVE-2024-23225 and CVE-2024-23296, ...|Release Date: 6 Mar 2024 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
+ |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20240306)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
+ |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20240304)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 4 Mar 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240304)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 4 Mar 2024 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-248/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-247/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-246/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-245/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-244/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-243/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-242/)|Visit link for details|2024-03-05|
  
 
 # CERT-SANTE
@@ -95,35 +138,6 @@
  |[Wordpress - CVE-2023-6825](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-6825-2024-03-05)|Visit link for details.|05/03/2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20240307)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 7 Mar 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 7 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System / Technologies affected, ...| Release Date: 1 Mar 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:For CVE-2024-23225 and CVE-2024-23296, ...|Release Date: 6 Mar 2024 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
- |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20240306)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20240304)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 4 Mar 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240304)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 4 Mar 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Small Business 100, 300, and 500 Series Wireless Access Points buffer overflow (CVE-2024-20336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[Cisco Secure Client for Linux with ISE Posture Module privilege escalation (CVE-2024-20338)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[Cisco Small Business 100, 300, and 500 Series Wireless Access Points commmand execution (CVE-2024-20335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[Cisco Secure Client code execution (CVE-2024-20337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[Cisco Duo Authentication for Windows Logon and RDP security bypass (CVE-2024-20301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[Cisco Duo Authentication for Windows Logon and RDP information disclosure (CVE-2024-20292)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -138,20 +152,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-41417" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-41417)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-41414" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-41414)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-248/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-247/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-246/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-245/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-244/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-243/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-242/)|Visit link for details|2024-03-05|
  
 
 # EU-CERT
