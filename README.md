@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/03/2024 09:19:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/03/2024 10:17:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6680-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-2-linux-kernel-vulnerabilities.48968/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6686-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-1-linux-kernel-vulnerabilities.48967/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6685-1: mqtt-client vulnerability](https://www.linux.org/threads/usn-6685-1-mqtt-client-vulnerability.48966/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6684-1: ncurses vulnerability](https://www.linux.org/threads/usn-6684-1-ncurses-vulnerability.48965/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6683-1: HtmlCleaner vulnerability](https://www.linux.org/threads/usn-6683-1-htmlcleaner-vulnerability.48961/)|Visit link for details.|Mar 7, 2024|
+ |[USN-6682-1: Puma vulnerabilities](https://www.linux.org/threads/usn-6682-1-puma-vulnerabilities.48960/)|Visit link for details.|Mar 7, 2024|
+ |[USN-6681-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-1-linux-kernel-vulnerabilities.48958/)|Visit link for details.|Mar 7, 2024|
+ |[USN-6680-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-1-linux-kernel-vulnerabilities.48957/)|Visit link for details.|Mar 7, 2024|
+ |[DSA-5636-1 chromium - security update](https://www.linux.org/threads/dsa-5636-1-chromium-security-update.48956/)|Visit link for details.|Mar 6, 2024|
+ |[USN-6679-1: FRR vulnerability](https://www.linux.org/threads/usn-6679-1-frr-vulnerability.48950/)|Visit link for details.|Mar 6, 2024|
+ |[USN-6676-1: c-ares vulnerability](https://www.linux.org/threads/usn-6676-1-c-ares-vulnerability.48946/)|Visit link for details.|Mar 6, 2024|
+ 
 
 # US-CERT
 
@@ -61,6 +78,19 @@
  |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[nGrinder code execution (CVE-2024-28211)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[nGrinder code execution (CVE-2024-28212)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[nGrinder code execution (CVE-2024-28213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[nGrinder denial of service (CVE-2024-28214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[nGrinder information disclosure (CVE-2024-28215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[nGrinder information disclosure (CVE-2024-28216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[Apple Safari security bypass (CVE-2024-23284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -76,36 +106,6 @@
  |[Artica - CVE-2024-2056](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2024-2056-2024-03-06)|Visit link for details.|06/03/2024|
  |[Artica - CVE-2024-2055](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2024-2055-2024-03-06)|Visit link for details.|06/03/2024|
  |[Wordpress - CVE-2023-6825](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-6825-2024-03-05)|Visit link for details.|05/03/2024|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6680-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-2-linux-kernel-vulnerabilities.48968/)|Visit link for details.|Mar 8, 2024|
- |[USN-6686-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-1-linux-kernel-vulnerabilities.48967/)|Visit link for details.|Mar 8, 2024|
- |[USN-6685-1: mqtt-client vulnerability](https://www.linux.org/threads/usn-6685-1-mqtt-client-vulnerability.48966/)|Visit link for details.|Mar 8, 2024|
- |[USN-6684-1: ncurses vulnerability](https://www.linux.org/threads/usn-6684-1-ncurses-vulnerability.48965/)|Visit link for details.|Mar 8, 2024|
- |[USN-6683-1: HtmlCleaner vulnerability](https://www.linux.org/threads/usn-6683-1-htmlcleaner-vulnerability.48961/)|Visit link for details.|Mar 7, 2024|
- |[USN-6682-1: Puma vulnerabilities](https://www.linux.org/threads/usn-6682-1-puma-vulnerabilities.48960/)|Visit link for details.|Mar 7, 2024|
- |[USN-6681-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-1-linux-kernel-vulnerabilities.48958/)|Visit link for details.|Mar 7, 2024|
- |[USN-6680-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-1-linux-kernel-vulnerabilities.48957/)|Visit link for details.|Mar 7, 2024|
- |[DSA-5636-1 chromium - security update](https://www.linux.org/threads/dsa-5636-1-chromium-security-update.48956/)|Visit link for details.|Mar 6, 2024|
- |[USN-6679-1: FRR vulnerability](https://www.linux.org/threads/usn-6679-1-frr-vulnerability.48950/)|Visit link for details.|Mar 6, 2024|
- |[USN-6676-1: c-ares vulnerability](https://www.linux.org/threads/usn-6676-1-c-ares-vulnerability.48946/)|Visit link for details.|Mar 6, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[nGrinder code execution (CVE-2024-28211)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[nGrinder code execution (CVE-2024-28212)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[nGrinder code execution (CVE-2024-28213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[nGrinder denial of service (CVE-2024-28214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[nGrinder information disclosure (CVE-2024-28215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[nGrinder information disclosure (CVE-2024-28216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[Chirp Access information disclosure (CVE-2024-0285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  
 
 # HK-CERT
