@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/03/2024 12:19:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/03/2024 13:20:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[USN-6676-1: c-ares vulnerability](https://www.linux.org/threads/usn-6676-1-c-ares-vulnerability.48946/)|Visit link for details.|Mar 6, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
+ |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 07, 2024|
+ |[Cisco Releases Security Updates for Secure Client](https://www.cisa.gov/news-events/alerts/2024/03/07/cisco-releases-security-updates-secure-client)|Visit link for details.|Mar 07, 2024|
+ |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2024/03/07/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Mar 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/06/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 06, 2024|
+ |[VMware Releases Security Advisory for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/06/vmware-releases-security-advisory-multiple-products)|Visit link for details.|Mar 06, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Mar 05, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/04/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 04, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -79,22 +95,6 @@
  |[Wordpress - CVE-2023-6825](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-6825-2024-03-05)|Visit link for details.|05/03/2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
- |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 07, 2024|
- |[Cisco Releases Security Updates for Secure Client](https://www.cisa.gov/news-events/alerts/2024/03/07/cisco-releases-security-updates-secure-client)|Visit link for details.|Mar 07, 2024|
- |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2024/03/07/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Mar 07, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/06/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 06, 2024|
- |[VMware Releases Security Advisory for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/06/vmware-releases-security-advisory-multiple-products)|Visit link for details.|Mar 06, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Mar 05, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/04/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 04, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -114,6 +114,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-weak-encryption-via-RSA-Key-Exchanges-Wrong-Padding-43602" class="noirorange"><b>OpenSSL</b>: weak encryption via RSA Key Exchanges Wrong Padding</a>](https://vigilance.fr/vulnerability/OpenSSL-weak-encryption-via-RSA-Key-Exchanges-Wrong-Padding-43602)|An attacker can access data on OpenSSL, via RSA Key Exchanges Wrong Padding, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-Windows-MSI-Repair-43226" class="noirorange"><b>IBM Db2</b>: privilege escalation via Windows MSI Repair</a>](https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-Windows-MSI-Repair-43226)|An attacker can bypass restrictions of IBM Db2, via Windows MSI Repair, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Hardware-based SSL/TLS Cryptography</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Hardware-based SSL/TLS Cryptography, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tls-encrypt-done-43599" class="noirorange"><b>Linux kernel</b>: denial of service via tls_encrypt_done()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tls-encrypt-done-43599)|An attacker can cause a fatal error of the Linux kernel, via tls_encrypt_done(), in order to trigger a denial of service...|Visit link for details|
@@ -123,7 +124,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Insufficient-Session-Expiration-43572" class="noirorange"><b>Joomla Core</b>: user access via MFA Insufficient Session Expiration</a>](https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Insufficient-Session-Expiration-43572)|An attacker can bypass restrictions of Joomla Core, via MFA Insufficient Session Expiration, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41420" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41420)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-41417" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-41417)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -137,6 +137,20 @@
  |[nGrinder information disclosure (CVE-2024-28215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  |[nGrinder information disclosure (CVE-2024-28216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  |[Apple Safari security bypass (CVE-2024-23284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-248/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-247/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-246/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-245/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-244/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-243/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-242/)|Visit link for details|2024-03-05|
  
 
 # EU-CERT
@@ -154,20 +168,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-248/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-247/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-246/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-245/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-244/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-243/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-242/)|Visit link for details|2024-03-05|
  
 
 # CA-CCS
