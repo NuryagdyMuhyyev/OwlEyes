@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/03/2024 07:23:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/03/2024 08:16:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,37 +46,20 @@
  |[USN-6676-1: c-ares vulnerability](https://www.linux.org/threads/usn-6676-1-c-ares-vulnerability.48946/)|Visit link for details.|Mar 6, 2024|
  
 
-# CERT-SANTE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Veritas - CVE-2024-28222](https://www.cyberveille-sante.gouv.fr/alertes/veritas-cve-2024-28222-2024-03-07)|Visit link for details.|07/03/2024|
- |[GitLab - CVE-2024-0199](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-0199-2024-03-07)|Visit link for details.|07/03/2024|
- |[Cisco - CVE-2024-20338](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20338-2024-03-07)|Visit link for details.|07/03/2024|
- |[Squid - CVE-2024-25111](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-25111-2024-03-07)|Visit link for details.|07/03/2024|
- |[Cisco - CVE-2024-20337](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20337-2024-03-07)|Visit link for details.|07/03/2024|
- |[VMware - CVE-2024-22252](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22252-2024-03-06)|Visit link for details.|06/03/2024|
- |[Santesoft Sante - CVE-2024-1696](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-sante-cve-2024-1696-2024-03-06)|Visit link for details.|06/03/2024|
- |[Google Chrome - CVE-2024-2173](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2173-2024-03-06)|Visit link for details.|06/03/2024|
- |[Artica - CVE-2024-2056](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2024-2056-2024-03-06)|Visit link for details.|06/03/2024|
- |[Artica - CVE-2024-2055](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2024-2055-2024-03-06)|Visit link for details.|06/03/2024|
- |[Wordpress - CVE-2023-6825](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-6825-2024-03-05)|Visit link for details.|05/03/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Hardware-based SSL/TLS Cryptography</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Hardware-based SSL/TLS Cryptography, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tls-encrypt-done-43599" class="noirorange"><b>Linux kernel</b>: denial of service via tls_encrypt_done()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tls-encrypt-done-43599)|An attacker can cause a fatal error of the Linux kernel, via tls_encrypt_done(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Crypto-Requests-Backlogging-43597" class="noirorange"><b>Linux kernel</b>: denial of service via Crypto Requests Backlogging</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Crypto-Requests-Backlogging-43597)|An attacker can cause a fatal error of the Linux kernel, via Crypto Requests Backlogging, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Xattr-List-43580" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via Xattr List</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Xattr-List-43580)|An attacker can force a read at an invalid memory address of the Linux kernel, via Xattr List, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-open-redirect-via-Installation-Application-43573" class="noirorange"><b>Joomla Core</b>: open redirect via Installation Application</a>](https://vigilance.fr/vulnerability/Joomla-Core-open-redirect-via-Installation-Application-43573)|An attacker can deceive the user of Joomla Core, via Installation Application, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Insufficient-Session-Expiration-43572" class="noirorange"><b>Joomla Core</b>: user access via MFA Insufficient Session Expiration</a>](https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Insufficient-Session-Expiration-43572)|An attacker can bypass restrictions of Joomla Core, via MFA Insufficient Session Expiration, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41420" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41420)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-41417" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-41417)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-41414" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-41414)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
+ |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
+ |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 07, 2024|
+ |[Cisco Releases Security Updates for Secure Client](https://www.cisa.gov/news-events/alerts/2024/03/07/cisco-releases-security-updates-secure-client)|Visit link for details.|Mar 07, 2024|
+ |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2024/03/07/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Mar 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/06/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 06, 2024|
+ |[VMware Releases Security Advisory for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/06/vmware-releases-security-advisory-multiple-products)|Visit link for details.|Mar 06, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Mar 05, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/04/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 04, 2024|
  
 
 # CERT-FR
@@ -99,22 +82,32 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240308)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 8 Mar 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note...| Release Date: 6 Mar 2024 |
  |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20240307)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 7 Mar 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 7 Mar 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System / Technologies affected, ...| Release Date: 1 Mar 2024 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:For CVE-2024-23225 and CVE-2024-23296, ...|Release Date: 6 Mar 2024 |
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
  |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20240306)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
- |[ManageEngine Password Manager Pro Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/manageengine-password-manager-pro-multiple-vulnerabilities_20240304)|Multiple vulnerabilities were identified in ManageEngine Password Manager Pro. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, data manipulation, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 4 Mar 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240304)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 4 Mar 2024 |
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Veritas - CVE-2024-28222](https://www.cyberveille-sante.gouv.fr/alertes/veritas-cve-2024-28222-2024-03-07)|Visit link for details.|07/03/2024|
+ |[GitLab - CVE-2024-0199](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-0199-2024-03-07)|Visit link for details.|07/03/2024|
+ |[Cisco - CVE-2024-20338](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20338-2024-03-07)|Visit link for details.|07/03/2024|
+ |[Squid - CVE-2024-25111](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-25111-2024-03-07)|Visit link for details.|07/03/2024|
+ |[Cisco - CVE-2024-20337](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20337-2024-03-07)|Visit link for details.|07/03/2024|
+ |[VMware - CVE-2024-22252](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22252-2024-03-06)|Visit link for details.|06/03/2024|
+ |[Santesoft Sante - CVE-2024-1696](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-sante-cve-2024-1696-2024-03-06)|Visit link for details.|06/03/2024|
+ |[Google Chrome - CVE-2024-2173](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2173-2024-03-06)|Visit link for details.|06/03/2024|
+ |[Artica - CVE-2024-2056](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2024-2056-2024-03-06)|Visit link for details.|06/03/2024|
+ |[Artica - CVE-2024-2055](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2024-2055-2024-03-06)|Visit link for details.|06/03/2024|
+ |[Wordpress - CVE-2023-6825](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-6825-2024-03-05)|Visit link for details.|05/03/2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -128,6 +121,36 @@
  |[nGrinder information disclosure (CVE-2024-28215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  |[nGrinder information disclosure (CVE-2024-28216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  |[Chirp Access information disclosure (CVE-2024-0285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Hardware-based SSL/TLS Cryptography</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Hardware-based SSL/TLS Cryptography, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tls-encrypt-done-43599" class="noirorange"><b>Linux kernel</b>: denial of service via tls_encrypt_done()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tls-encrypt-done-43599)|An attacker can cause a fatal error of the Linux kernel, via tls_encrypt_done(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Crypto-Requests-Backlogging-43597" class="noirorange"><b>Linux kernel</b>: denial of service via Crypto Requests Backlogging</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Crypto-Requests-Backlogging-43597)|An attacker can cause a fatal error of the Linux kernel, via Crypto Requests Backlogging, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Xattr-List-43580" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via Xattr List</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Xattr-List-43580)|An attacker can force a read at an invalid memory address of the Linux kernel, via Xattr List, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-open-redirect-via-Installation-Application-43573" class="noirorange"><b>Joomla Core</b>: open redirect via Installation Application</a>](https://vigilance.fr/vulnerability/Joomla-Core-open-redirect-via-Installation-Application-43573)|An attacker can deceive the user of Joomla Core, via Installation Application, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Insufficient-Session-Expiration-43572" class="noirorange"><b>Joomla Core</b>: user access via MFA Insufficient Session Expiration</a>](https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Insufficient-Session-Expiration-43572)|An attacker can bypass restrictions of Joomla Core, via MFA Insufficient Session Expiration, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41420" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41420)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-41417" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-41417)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-41414" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-41414)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-248/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-247/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-246/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-245/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-244/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-243/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-242/)|Visit link for details|2024-03-05|
  
 
 # EU-CERT
@@ -145,20 +168,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-248/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-247/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-246/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-245/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-244/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-243/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-242/)|Visit link for details|2024-03-05|
  
 
 # CA-CCS
