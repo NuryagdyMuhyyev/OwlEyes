@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/03/2024 10:17:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/03/2024 11:20:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6680-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-2-linux-kernel-vulnerabilities.48968/)|Visit link for details.|Mar 8, 2024|
- |[USN-6686-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-1-linux-kernel-vulnerabilities.48967/)|Visit link for details.|Mar 8, 2024|
- |[USN-6685-1: mqtt-client vulnerability](https://www.linux.org/threads/usn-6685-1-mqtt-client-vulnerability.48966/)|Visit link for details.|Mar 8, 2024|
- |[USN-6684-1: ncurses vulnerability](https://www.linux.org/threads/usn-6684-1-ncurses-vulnerability.48965/)|Visit link for details.|Mar 8, 2024|
- |[USN-6683-1: HtmlCleaner vulnerability](https://www.linux.org/threads/usn-6683-1-htmlcleaner-vulnerability.48961/)|Visit link for details.|Mar 7, 2024|
- |[USN-6682-1: Puma vulnerabilities](https://www.linux.org/threads/usn-6682-1-puma-vulnerabilities.48960/)|Visit link for details.|Mar 7, 2024|
- |[USN-6681-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-1-linux-kernel-vulnerabilities.48958/)|Visit link for details.|Mar 7, 2024|
- |[USN-6680-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-1-linux-kernel-vulnerabilities.48957/)|Visit link for details.|Mar 7, 2024|
- |[DSA-5636-1 chromium - security update](https://www.linux.org/threads/dsa-5636-1-chromium-security-update.48956/)|Visit link for details.|Mar 6, 2024|
- |[USN-6679-1: FRR vulnerability](https://www.linux.org/threads/usn-6679-1-frr-vulnerability.48950/)|Visit link for details.|Mar 6, 2024|
- |[USN-6676-1: c-ares vulnerability](https://www.linux.org/threads/usn-6676-1-c-ares-vulnerability.48946/)|Visit link for details.|Mar 6, 2024|
- 
 
 # US-CERT
 
@@ -78,17 +61,36 @@
  |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[nGrinder code execution (CVE-2024-28211)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[nGrinder code execution (CVE-2024-28212)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[nGrinder code execution (CVE-2024-28213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[nGrinder denial of service (CVE-2024-28214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[nGrinder information disclosure (CVE-2024-28215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[nGrinder information disclosure (CVE-2024-28216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[Apple Safari security bypass (CVE-2024-23284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[USN-6680-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-2-linux-kernel-vulnerabilities.48968/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6686-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-1-linux-kernel-vulnerabilities.48967/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6685-1: mqtt-client vulnerability](https://www.linux.org/threads/usn-6685-1-mqtt-client-vulnerability.48966/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6684-1: ncurses vulnerability](https://www.linux.org/threads/usn-6684-1-ncurses-vulnerability.48965/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6683-1: HtmlCleaner vulnerability](https://www.linux.org/threads/usn-6683-1-htmlcleaner-vulnerability.48961/)|Visit link for details.|Mar 7, 2024|
+ |[USN-6682-1: Puma vulnerabilities](https://www.linux.org/threads/usn-6682-1-puma-vulnerabilities.48960/)|Visit link for details.|Mar 7, 2024|
+ |[USN-6681-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-1-linux-kernel-vulnerabilities.48958/)|Visit link for details.|Mar 7, 2024|
+ |[USN-6680-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-1-linux-kernel-vulnerabilities.48957/)|Visit link for details.|Mar 7, 2024|
+ |[DSA-5636-1 chromium - security update](https://www.linux.org/threads/dsa-5636-1-chromium-security-update.48956/)|Visit link for details.|Mar 6, 2024|
+ |[USN-6679-1: FRR vulnerability](https://www.linux.org/threads/usn-6679-1-frr-vulnerability.48950/)|Visit link for details.|Mar 6, 2024|
+ |[USN-6676-1: c-ares vulnerability](https://www.linux.org/threads/usn-6676-1-c-ares-vulnerability.48946/)|Visit link for details.|Mar 6, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240308)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 8 Mar 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note...| Release Date: 6 Mar 2024 |
+ |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20240307)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 7 Mar 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 7 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System / Technologies affected, ...| Release Date: 1 Mar 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
+ |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20240306)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
  
 
 # CERT-SANTE
@@ -108,35 +110,6 @@
  |[Wordpress - CVE-2023-6825](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-6825-2024-03-05)|Visit link for details.|05/03/2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240308)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 8 Mar 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note...| Release Date: 6 Mar 2024 |
- |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20240307)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 7 Mar 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 7 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System / Technologies affected, ...| Release Date: 1 Mar 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
- |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20240306)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-248/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-247/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-246/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-245/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-244/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-243/)|Visit link for details|2024-03-05|
- |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-242/)|Visit link for details|2024-03-05|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -151,6 +124,33 @@
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41420" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41420)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-41417" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-41417)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[nGrinder code execution (CVE-2024-28211)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[nGrinder code execution (CVE-2024-28212)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[nGrinder code execution (CVE-2024-28213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[nGrinder denial of service (CVE-2024-28214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[nGrinder information disclosure (CVE-2024-28215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[nGrinder information disclosure (CVE-2024-28216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[Apple Safari security bypass (CVE-2024-23284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-248/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-247/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-246/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-245/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-244/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-243/)|Visit link for details|2024-03-05|
+ |[(0Day) Ashlar-Vellum Cobalt STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-242/)|Visit link for details|2024-03-05|
  
 
 # EU-CERT
@@ -170,23 +170,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46360703/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-7)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-0039» et « CVE-2024-23717 » sont…| 07 mars 2024|
- |[ 46350703/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-12)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 07 mars 2024|
- |[ 46340603/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-0)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette…| 06 mars 2024|
- |[ 46330603/24 - Vulnérabilités critiques dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-vmware)| VMware annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 06 mars 2024|
- |[ 46320603/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger deux vulnérabilités de type "zero-day" affectant les iPhones et les iPads. Il est possible que ces failles aient déjà été…| 06 mars 2024|
- |[ 46310503/24 - Vulnérabilités critiques dans JetBrains TeamCity ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jetbrains-teamcity)| Deux vulnérabilités critiques ont été corrigées dans JetBrains TeamCity. Ces vulnérabilités peuvent permettre à un attaquant non authentifié disposant d'un accès HTTP(S) à un serveur TeamCity de…| 05 mars 2024|
- |[ 46300503/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des   …| 05 mars 2024|
- |[ 46290103/24 - Vulnérabilités critiques dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité des données…| 01 mars 2024|
- |[ 46282902/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces vulnérabilités afin de causer un déni de service.| 29 février 2024|
- |[ 46292902/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-17)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 29 février 2024|
- |[ 46272902/24 - Vulnérabilité dans VMware Workstation et Fusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workstation-et-fusion)| Une vulnérabilité a été corrigée dans les versions susmentionnées de VMware Workstation Pro et Fusion. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité des…| 29 février 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -202,4 +185,21 @@
  |[SolarWinds security advisory (AV24-120)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-120)|Visit link for details|2024-03-05|
  |[Android security advisory – March 2024 Monthly Rollup (AV24-119)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-march-2024-monthly-rollup-av24-119)|Visit link for details|2024-03-04|
  |[Red Hat security advisory (AV24-118)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-118)|Visit link for details|2024-03-04|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46360703/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-7)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-0039» et « CVE-2024-23717 » sont…| 07 mars 2024|
+ |[ 46350703/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-12)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 07 mars 2024|
+ |[ 46340603/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-0)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette…| 06 mars 2024|
+ |[ 46330603/24 - Vulnérabilités critiques dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-vmware)| VMware annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 06 mars 2024|
+ |[ 46320603/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger deux vulnérabilités de type "zero-day" affectant les iPhones et les iPads. Il est possible que ces failles aient déjà été…| 06 mars 2024|
+ |[ 46310503/24 - Vulnérabilités critiques dans JetBrains TeamCity ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jetbrains-teamcity)| Deux vulnérabilités critiques ont été corrigées dans JetBrains TeamCity. Ces vulnérabilités peuvent permettre à un attaquant non authentifié disposant d'un accès HTTP(S) à un serveur TeamCity de…| 05 mars 2024|
+ |[ 46300503/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des   …| 05 mars 2024|
+ |[ 46290103/24 - Vulnérabilités critiques dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité des données…| 01 mars 2024|
+ |[ 46282902/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces vulnérabilités afin de causer un déni de service.| 29 février 2024|
+ |[ 46292902/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-17)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 29 février 2024|
+ |[ 46272902/24 - Vulnérabilité dans VMware Workstation et Fusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-workstation-et-fusion)| Une vulnérabilité a été corrigée dans les versions susmentionnées de VMware Workstation Pro et Fusion. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité des…| 29 février 2024|
  
