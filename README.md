@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/03/2024 00:12:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/03/2024 01:15:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
+ |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
+ |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 07, 2024|
+ |[Cisco Releases Security Updates for Secure Client](https://www.cisa.gov/news-events/alerts/2024/03/07/cisco-releases-security-updates-secure-client)|Visit link for details.|Mar 07, 2024|
+ |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2024/03/07/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Mar 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/06/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 06, 2024|
+ |[VMware Releases Security Advisory for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/06/vmware-releases-security-advisory-multiple-products)|Visit link for details.|Mar 06, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Mar 05, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,37 @@
  |[USN-6679-1: FRR vulnerability](https://www.linux.org/threads/usn-6679-1-frr-vulnerability.48950/)|Visit link for details.|Mar 6, 2024|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
- |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
- |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 07, 2024|
- |[Cisco Releases Security Updates for Secure Client](https://www.cisa.gov/news-events/alerts/2024/03/07/cisco-releases-security-updates-secure-client)|Visit link for details.|Mar 07, 2024|
- |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2024/03/07/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Mar 07, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/06/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 06, 2024|
- |[VMware Releases Security Advisory for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/06/vmware-releases-security-advisory-multiple-products)|Visit link for details.|Mar 06, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Mar 05, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
+ |[VMware - CVE-2024-22253](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22253-2024-03-08)|Visit link for details.|08/03/2024|
+ |[MicroDICOM - CVE-2024-25578](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-25578-2024-03-08)|Visit link for details.|08/03/2024|
+ |[Google - CVE-2024-2176](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2176-2024-03-08)|Visit link for details.|08/03/2024|
+ |[Aruba Networks - CVE-2024-1356](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2024-1356-2024-03-08)|Visit link for details.|08/03/2024|
+ |[Apple - CVE-2023-23226](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-23226-2024-03-08)|Visit link for details.|08/03/2024|
+ |[Google Chrome - CVE-2024-2173](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2173-2024-03-06)|Visit link for details.|08/03/2024|
+ |[Veritas - CVE-2024-28222](https://www.cyberveille-sante.gouv.fr/alertes/veritas-cve-2024-28222-2024-03-07)|Visit link for details.|08/03/2024|
+ |[GitLab - CVE-2024-0199](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-0199-2024-03-07)|Visit link for details.|07/03/2024|
+ |[Cisco - CVE-2024-20338](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20338-2024-03-07)|Visit link for details.|07/03/2024|
+ |[Squid - CVE-2024-25111](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-25111-2024-03-07)|Visit link for details.|07/03/2024|
+ |[Cisco - CVE-2024-20337](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20337-2024-03-07)|Visit link for details.|07/03/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249" class="noirorange"><b>Trellix Anti-Malware Engine</b>: privilege escalation via Registry Symbolic Link</a>](https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249)|An attacker can bypass restrictions of Trellix Anti-Malware Engine, via Registry Symbolic Link, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248" class="noirorange"><b>Redis</b>: buffer overflow via Resizing</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248)|An attacker can trigger a buffer overflow of Redis, via Resizing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244" class="noirorange"><b>QEMU</b>: write access via ide_dma_cb()</a>](https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244)|An attacker, in a guest system, can bypass access restrictions of QEMU, via ide_dma_cb(), in order to alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243" class="noirorange"><b>Eclipse JGit</b>: file write via Symbolic Link</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243)|An attacker can bypass access restrictions of Eclipse JGit, via Symbolic Link, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240" class="noirorange"><b>IBM Db2</b>: denial of service via Columnar Table Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240)|An attacker can cause a fatal error of IBM Db2, via Columnar Table Statement, in order to trigger a denial of service...|Visit link for details|
  
 
 # CERT-FR
@@ -76,39 +109,6 @@
  |[Vulnérabilité dans VMware Cloud Director](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0192/)|Une vulnérabilité a été découverte dans VMware Cloud Director. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 mars 2024|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249" class="noirorange"><b>Trellix Anti-Malware Engine</b>: privilege escalation via Registry Symbolic Link</a>](https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249)|An attacker can bypass restrictions of Trellix Anti-Malware Engine, via Registry Symbolic Link, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248" class="noirorange"><b>Redis</b>: buffer overflow via Resizing</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248)|An attacker can trigger a buffer overflow of Redis, via Resizing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244" class="noirorange"><b>QEMU</b>: write access via ide_dma_cb()</a>](https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244)|An attacker, in a guest system, can bypass access restrictions of QEMU, via ide_dma_cb(), in order to alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243" class="noirorange"><b>Eclipse JGit</b>: file write via Symbolic Link</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243)|An attacker can bypass access restrictions of Eclipse JGit, via Symbolic Link, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240" class="noirorange"><b>IBM Db2</b>: denial of service via Columnar Table Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240)|An attacker can cause a fatal error of IBM Db2, via Columnar Table Statement, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Cursor-43239" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Cursor</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Cursor-43239)|An attacker can cause a fatal error of IBM Db2, via Crafted Cursor, in order to trigger a denial of service...|Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware - CVE-2024-22253](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22253-2024-03-08)|Visit link for details.|08/03/2024|
- |[MicroDICOM - CVE-2024-25578](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-25578-2024-03-08)|Visit link for details.|08/03/2024|
- |[Google - CVE-2024-2176](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2176-2024-03-08)|Visit link for details.|08/03/2024|
- |[Aruba Networks - CVE-2024-1356](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2024-1356-2024-03-08)|Visit link for details.|08/03/2024|
- |[Apple - CVE-2023-23226](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-23226-2024-03-08)|Visit link for details.|08/03/2024|
- |[Google Chrome - CVE-2024-2173](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2173-2024-03-06)|Visit link for details.|08/03/2024|
- |[Veritas - CVE-2024-28222](https://www.cyberveille-sante.gouv.fr/alertes/veritas-cve-2024-28222-2024-03-07)|Visit link for details.|08/03/2024|
- |[GitLab - CVE-2024-0199](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-0199-2024-03-07)|Visit link for details.|07/03/2024|
- |[Cisco - CVE-2024-20338](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20338-2024-03-07)|Visit link for details.|07/03/2024|
- |[Squid - CVE-2024-25111](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-25111-2024-03-07)|Visit link for details.|07/03/2024|
- |[Cisco - CVE-2024-20337](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20337-2024-03-07)|Visit link for details.|07/03/2024|
  
 
 # HK-CERT
