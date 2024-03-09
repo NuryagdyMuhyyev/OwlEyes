@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/03/2024 19:16:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/03/2024 20:15:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans VMware Cloud Director](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0192/)|Une vulnérabilité a été découverte dans VMware Cloud Director. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 mars 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
+ |[[SCADA] Vulnérabilité dans Moxa NPort W2150A/W2250A Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0189/)|Une vulnérabilité a été découverte dans Moxa |Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0188/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0187/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0186/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0185/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 mars 2024|
+ |[Vulnérabilité dans SolarWinds Security Event Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0184/)|Une vulnérabilité a été découverte dans|Publié le 5 mars 2024|
+ |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -76,22 +92,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-code-execution-via-Like-Named-Jar-Files-43238" class="noirorange"><b>IBM Db2</b>: code execution via Like Named Jar Files</a>](https://vigilance.fr/vulnerability/IBM-Db2-code-execution-via-Like-Named-Jar-Files-43238)|An attacker can use a vulnerability of IBM Db2, via Like Named Jar Files, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Presto-JDBC-Server-Side-Request-Forgery-via-nextUri-43237" class="noirorange"><b>Presto JDBC</b>: Server-Side Request Forgery via nextUri</a>](https://vigilance.fr/vulnerability/Presto-JDBC-Server-Side-Request-Forgery-via-nextUri-43237)|An attacker can trigger a Server-Side Request Forgery of Presto JDBC, via nextUri, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43236" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43236)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0199/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0198/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0197/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0196/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0195/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0194/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0193/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 8 mars 2024|
- |[Vulnérabilité dans VMware Cloud Director](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0192/)|Une vulnérabilité a été découverte dans VMware Cloud Director. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 mars 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
  
 
 # CERT-SANTE
@@ -111,19 +111,6 @@
  |[Cisco - CVE-2024-20337](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20337-2024-03-07)|Visit link for details.|07/03/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Numbas weak security (CVE-2024-27612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
- |[Numbas weak security (CVE-2024-27613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
- |[a-blog cms directory traversal (CVE-2024-27279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
- |[Archer Platform information disclosure (CVE-2024-26309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[Archer Platform cross-site scripting (CVE-2024-26313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[SKYSEA Client View code execution (CVE-2024-24964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[SKYSEA Client View code execution (CVE-2024-21805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -137,6 +124,19 @@
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
  |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20240306)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Numbas weak security (CVE-2024-27612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
+ |[Numbas weak security (CVE-2024-27613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
+ |[a-blog cms directory traversal (CVE-2024-27279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
+ |[Archer Platform information disclosure (CVE-2024-26309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[Archer Platform cross-site scripting (CVE-2024-26313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[SKYSEA Client View code execution (CVE-2024-24964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[SKYSEA Client View code execution (CVE-2024-21805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  
 
 # EU-CERT
