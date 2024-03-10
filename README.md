@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/03/2024 06:14:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/03/2024 07:25:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0199/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0198/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0197/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0196/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0195/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 8 mars 2024|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0194/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
+ |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0193/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 8 mars 2024|
+ |[Vulnérabilité dans VMware Cloud Director](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0192/)|Une vulnérabilité a été découverte dans VMware Cloud Director. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 mars 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -79,20 +95,20 @@
  |[Cisco - CVE-2024-20337](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20337-2024-03-07)|Visit link for details.|07/03/2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0199/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0198/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0197/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0196/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0195/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0194/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0193/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 8 mars 2024|
- |[Vulnérabilité dans VMware Cloud Director](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0192/)|Une vulnérabilité a été découverte dans VMware Cloud Director. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 mars 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249" class="noirorange"><b>Trellix Anti-Malware Engine</b>: privilege escalation via Registry Symbolic Link</a>](https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249)|An attacker can bypass restrictions of Trellix Anti-Malware Engine, via Registry Symbolic Link, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248" class="noirorange"><b>Redis</b>: buffer overflow via Resizing</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248)|An attacker can trigger a buffer overflow of Redis, via Resizing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244" class="noirorange"><b>QEMU</b>: write access via ide_dma_cb()</a>](https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244)|An attacker, in a guest system, can bypass access restrictions of QEMU, via ide_dma_cb(), in order to alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243" class="noirorange"><b>Eclipse JGit</b>: file write via Symbolic Link</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243)|An attacker can bypass access restrictions of Eclipse JGit, via Symbolic Link, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240" class="noirorange"><b>IBM Db2</b>: denial of service via Columnar Table Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240)|An attacker can cause a fatal error of IBM Db2, via Columnar Table Statement, in order to trigger a denial of service...|Visit link for details|
  
 
 # HK-CERT
@@ -121,22 +137,6 @@
  |[Archer Platform cross-site scripting (CVE-2024-26313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  |[SKYSEA Client View code execution (CVE-2024-24964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  |[SKYSEA Client View code execution (CVE-2024-21805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249" class="noirorange"><b>Trellix Anti-Malware Engine</b>: privilege escalation via Registry Symbolic Link</a>](https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249)|An attacker can bypass restrictions of Trellix Anti-Malware Engine, via Registry Symbolic Link, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248" class="noirorange"><b>Redis</b>: buffer overflow via Resizing</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248)|An attacker can trigger a buffer overflow of Redis, via Resizing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244" class="noirorange"><b>QEMU</b>: write access via ide_dma_cb()</a>](https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244)|An attacker, in a guest system, can bypass access restrictions of QEMU, via ide_dma_cb(), in order to alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243" class="noirorange"><b>Eclipse JGit</b>: file write via Symbolic Link</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243)|An attacker can bypass access restrictions of Eclipse JGit, via Symbolic Link, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240" class="noirorange"><b>IBM Db2</b>: denial of service via Columnar Table Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240)|An attacker can cause a fatal error of IBM Db2, via Columnar Table Statement, in order to trigger a denial of service...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
