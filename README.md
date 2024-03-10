@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/03/2024 21:19:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/03/2024 22:14:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5638-1 libuv1 - security update](https://www.linux.org/threads/dsa-5638-1-libuv1-security-update.49006/)|Visit link for details.|Mar 10, 2024|
  |[DSA-5637-1 squid - security update](https://www.linux.org/threads/dsa-5637-1-squid-security-update.48977/)|Visit link for details.|Mar 8, 2024|
  |[USN-6680-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-2-linux-kernel-vulnerabilities.48968/)|Visit link for details.|Mar 8, 2024|
  |[USN-6686-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-1-linux-kernel-vulnerabilities.48967/)|Visit link for details.|Mar 8, 2024|
@@ -59,7 +60,6 @@
  |[USN-6681-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-1-linux-kernel-vulnerabilities.48958/)|Visit link for details.|Mar 7, 2024|
  |[USN-6680-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-1-linux-kernel-vulnerabilities.48957/)|Visit link for details.|Mar 7, 2024|
  |[DSA-5636-1 chromium - security update](https://www.linux.org/threads/dsa-5636-1-chromium-security-update.48956/)|Visit link for details.|Mar 6, 2024|
- |[USN-6679-1: FRR vulnerability](https://www.linux.org/threads/usn-6679-1-frr-vulnerability.48950/)|Visit link for details.|Mar 6, 2024|
  
 
 # CERT-FR
@@ -76,6 +76,22 @@
  |[Vulnérabilité dans VMware Cloud Director](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0192/)|Une vulnérabilité a été découverte dans VMware Cloud Director. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 mars 2024|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264" class="noirorange"><b>hawk2</b>: eight vulnerabilities</a>](https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264)|An attacker can use several vulnerabilities of hawk2...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeIPA-Cross-Site-Request-Forgery-43263" class="noirorange"><b>FreeIPA</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/FreeIPA-Cross-Site-Request-Forgery-43263)|An attacker can trigger a Cross Site Request Forgery of FreeIPA, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262" class="noirorange"><b>TeamPass</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262)|An attacker can trigger a Cross Site Scripting of TeamPass, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249" class="noirorange"><b>Trellix Anti-Malware Engine</b>: privilege escalation via Registry Symbolic Link</a>](https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249)|An attacker can bypass restrictions of Trellix Anti-Malware Engine, via Registry Symbolic Link, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248" class="noirorange"><b>Redis</b>: buffer overflow via Resizing</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248)|An attacker can trigger a buffer overflow of Redis, via Resizing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244" class="noirorange"><b>QEMU</b>: write access via ide_dma_cb()</a>](https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244)|An attacker, in a guest system, can bypass access restrictions of QEMU, via ide_dma_cb(), in order to alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243" class="noirorange"><b>Eclipse JGit</b>: file write via Symbolic Link</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243)|An attacker can bypass access restrictions of Eclipse JGit, via Symbolic Link, in order to alter files...|Visit link for details|
  
 
 # CERT-SANTE
@@ -121,22 +137,6 @@
  |[RaspAP denial of service (CVE-2024-28754)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  |[RaspAP information disclosure (CVE-2024-28753)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  |[Wasmi weak security (CVE-2024-28123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264" class="noirorange"><b>hawk2</b>: eight vulnerabilities</a>](https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264)|An attacker can use several vulnerabilities of hawk2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeIPA-Cross-Site-Request-Forgery-43263" class="noirorange"><b>FreeIPA</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/FreeIPA-Cross-Site-Request-Forgery-43263)|An attacker can trigger a Cross Site Request Forgery of FreeIPA, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262" class="noirorange"><b>TeamPass</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262)|An attacker can trigger a Cross Site Scripting of TeamPass, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249" class="noirorange"><b>Trellix Anti-Malware Engine</b>: privilege escalation via Registry Symbolic Link</a>](https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249)|An attacker can bypass restrictions of Trellix Anti-Malware Engine, via Registry Symbolic Link, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248" class="noirorange"><b>Redis</b>: buffer overflow via Resizing</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Resizing-43248)|An attacker can trigger a buffer overflow of Redis, via Resizing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244" class="noirorange"><b>QEMU</b>: write access via ide_dma_cb()</a>](https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244)|An attacker, in a guest system, can bypass access restrictions of QEMU, via ide_dma_cb(), in order to alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243" class="noirorange"><b>Eclipse JGit</b>: file write via Symbolic Link</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243)|An attacker can bypass access restrictions of Eclipse JGit, via Symbolic Link, in order to alter files...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
