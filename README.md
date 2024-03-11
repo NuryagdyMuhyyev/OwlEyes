@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/03/2024 13:21:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/03/2024 14:18:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,37 +45,6 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mars 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
- |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
- |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 07, 2024|
- |[Cisco Releases Security Updates for Secure Client](https://www.cisa.gov/news-events/alerts/2024/03/07/cisco-releases-security-updates-secure-client)|Visit link for details.|Mar 07, 2024|
- |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2024/03/07/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Mar 07, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/06/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 06, 2024|
- |[VMware Releases Security Advisory for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/06/vmware-releases-security-advisory-multiple-products)|Visit link for details.|Mar 06, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Mar 05, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240311)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 11 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240308)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 8 Mar 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note...| Release Date: 6 Mar 2024 |
- |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20240307)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 7 Mar 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 7 Mar 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
- |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20240306)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -93,6 +62,64 @@
  |[DSA-5636-1 chromium - security update](https://www.linux.org/threads/dsa-5636-1-chromium-security-update.48956/)|Visit link for details.|Mar 6, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
+ |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
+ |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 07, 2024|
+ |[Cisco Releases Security Updates for Secure Client](https://www.cisa.gov/news-events/alerts/2024/03/07/cisco-releases-security-updates-secure-client)|Visit link for details.|Mar 07, 2024|
+ |[Apple Releases Security Updates for iOS and iPadOS](https://www.cisa.gov/news-events/alerts/2024/03/07/apple-releases-security-updates-ios-and-ipados)|Visit link for details.|Mar 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/06/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 06, 2024|
+ |[VMware Releases Security Advisory for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/06/vmware-releases-security-advisory-multiple-products)|Visit link for details.|Mar 06, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Mar 05, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell iDRAC8 command execution (CVE-2024-25951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
+ |[Numbas weak security (CVE-2024-27612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
+ |[Numbas weak security (CVE-2024-27613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
+ |[a-blog cms directory traversal (CVE-2024-27279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
+ |[RaspAP denial of service (CVE-2024-28754)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[RaspAP information disclosure (CVE-2024-28753)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ |[Wasmi weak security (CVE-2024-28123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240311)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 11 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240308)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 8 Mar 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note...| Release Date: 6 Mar 2024 |
+ |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20240307)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 7 Mar 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 7 Mar 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Mar 2024 |
+ |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20240306)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dassault Systèmes eDrawings CATPART File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-256/)|Visit link for details|2024-03-08|
+ |[Dassault Systèmes eDrawings X_T File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-255/)|Visit link for details|2024-03-08|
+ |[Dassault Systèmes eDrawings DWG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-254/)|Visit link for details|2024-03-08|
+ |[Dassault Systèmes eDrawings SLDDRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-253/)|Visit link for details|2024-03-08|
+ |[Dassault Systèmes eDrawings JT File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-252/)|Visit link for details|2024-03-08|
+ |[Dassault Systèmes eDrawings SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-251/)|Visit link for details|2024-03-08|
+ |[Dassault Systèmes eDrawings DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-250/)|Visit link for details|2024-03-08|
+ |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -107,19 +134,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249" class="noirorange"><b>Trellix Anti-Malware Engine</b>: privilege escalation via Registry Symbolic Link</a>](https://vigilance.fr/vulnerability/Trellix-Anti-Malware-Engine-privilege-escalation-via-Registry-Symbolic-Link-43249)|An attacker can bypass restrictions of Trellix Anti-Malware Engine, via Registry Symbolic Link, in order to escalate his privileges...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell iDRAC8 command execution (CVE-2024-25951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
- |[Numbas weak security (CVE-2024-27612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
- |[Numbas weak security (CVE-2024-27613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
- |[a-blog cms directory traversal (CVE-2024-27279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
- |[RaspAP denial of service (CVE-2024-28754)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[RaspAP information disclosure (CVE-2024-28753)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
- |[Wasmi weak security (CVE-2024-28123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2024|
  
 
 # CERT-SANTE
@@ -139,18 +153,21 @@
  |[Cisco - CVE-2024-20337](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20337-2024-03-07)|Visit link for details.|07/03/2024|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Dassault Systèmes eDrawings CATPART File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-256/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings X_T File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-255/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings DWG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-254/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings SLDDRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-253/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings JT File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-252/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-251/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-250/)|Visit link for details|2024-03-08|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
+ |[ 46380703/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-18)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 08 mars 2024|
+ |[ 46390803/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking)| HPE Aruba Networking a publié des correctifs pour ArubaOS qui corrigent de nombreuses failles de sécurité. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 08 mars 2024|
+ |[ 46370803/24 - Vulnérabilité critique dans VMware Cloud Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-vmware-cloud-director)| VMware annonce la correction d’une vulnérabilité critique affectant VMware Cloud Director. L’exploitation de cette faille peut  permettre  à un attaquant de porter atteinte aux informations…| 08 mars 2024|
+ |[ 46360703/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-7)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-0039» et « CVE-2024-23717 » sont…| 07 mars 2024|
+ |[ 46350703/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-12)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 07 mars 2024|
+ |[ 46340603/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-0)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette…| 06 mars 2024|
+ |[ 46330603/24 - Vulnérabilités critiques dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-vmware)| VMware annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 06 mars 2024|
+ |[ 46320603/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger deux vulnérabilités de type "zero-day" affectant les iPhones et les iPads. Il est possible que ces failles aient déjà été…| 06 mars 2024|
+ |[ 46310503/24 - Vulnérabilités critiques dans JetBrains TeamCity ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jetbrains-teamcity)| Deux vulnérabilités critiques ont été corrigées dans JetBrains TeamCity. Ces vulnérabilités peuvent permettre à un attaquant non authentifié disposant d'un accès HTTP(S) à un serveur TeamCity de…| 05 mars 2024|
+ |[ 46300503/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des   …| 05 mars 2024|
+ |[ 46290103/24 - Vulnérabilités critiques dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité des données…| 01 mars 2024|
  
 
 # EU-CERT
@@ -168,23 +185,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46380703/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-18)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 08 mars 2024|
- |[ 46390803/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking)| HPE Aruba Networking a publié des correctifs pour ArubaOS qui corrigent de nombreuses failles de sécurité. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 08 mars 2024|
- |[ 46370803/24 - Vulnérabilité critique dans VMware Cloud Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-vmware-cloud-director)| VMware annonce la correction d’une vulnérabilité critique affectant VMware Cloud Director. L’exploitation de cette faille peut  permettre  à un attaquant de porter atteinte aux informations…| 08 mars 2024|
- |[ 46360703/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-7)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-0039» et « CVE-2024-23717 » sont…| 07 mars 2024|
- |[ 46350703/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-12)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 07 mars 2024|
- |[ 46340603/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-0)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette…| 06 mars 2024|
- |[ 46330603/24 - Vulnérabilités critiques dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-vmware)| VMware annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 06 mars 2024|
- |[ 46320603/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger deux vulnérabilités de type "zero-day" affectant les iPhones et les iPads. Il est possible que ces failles aient déjà été…| 06 mars 2024|
- |[ 46310503/24 - Vulnérabilités critiques dans JetBrains TeamCity ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jetbrains-teamcity)| Deux vulnérabilités critiques ont été corrigées dans JetBrains TeamCity. Ces vulnérabilités peuvent permettre à un attaquant non authentifié disposant d'un accès HTTP(S) à un serveur TeamCity de…| 05 mars 2024|
- |[ 46300503/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des   …| 05 mars 2024|
- |[ 46290103/24 - Vulnérabilités critiques dans Aruba ClearPass Policy Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-aruba-clearpass-policy-manager)| Plusieurs vulnérabilités ont été corrigées dans Aruba ClearPass Policy Manager. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité des données…| 01 mars 2024|
  
 
 # CA-CCS
