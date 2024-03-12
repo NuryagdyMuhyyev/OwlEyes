@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/03/2024 15:16:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/03/2024 16:13:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -82,6 +82,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-information-disclosure-via-PKCS-1-Encryption-Padding-Removal-43637" class="noirorange"><b>OpenSC</b>: information disclosure via PKCS#1 Encryption Padding Removal</a>](https://vigilance.fr/vulnerability/OpenSC-information-disclosure-via-PKCS-1-Encryption-Padding-Removal-43637)|An attacker can bypass access restrictions to data of OpenSC, via PKCS#1 Encryption Padding Removal, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Bigup File</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276)|An attacker can trigger a Cross Site Scripting of SPIP, via Bigup File, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272" class="noirorange"><b>Drupal Typogrify</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272)|An attacker can trigger a Cross Site Scripting of Drupal Typogrify, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271" class="noirorange"><b>Drupal File Entity</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271)|An attacker can trigger a Cross Site Scripting of Drupal File Entity, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -91,7 +92,6 @@
  |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262" class="noirorange"><b>TeamPass</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262)|An attacker can trigger a Cross Site Scripting of TeamPass, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
  
 
 # CERT-SANTE
@@ -111,19 +111,6 @@
  |[Aruba Networks - CVE-2024-1356](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2024-1356-2024-03-08)|Visit link for details.|08/03/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[ManageEngine Desktop Central file upload (CVE-2024-2370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 11, 2024|
- |[Google Android privilege escalation (CVE-2024-25987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
- |[Google Android privilege escalation (CVE-2024-27209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
- |[Google Android privilege escalation (CVE-2024-27208)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
- |[Google Android privilege escalation (CVE-2024-27207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
- |[Google Android privilege escalation (CVE-2024-27205)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
- |[Google Android privilege escalation (CVE-2024-27204)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -139,18 +126,17 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Acrobat Reader DC PDF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-284/)|Visit link for details|2024-03-11|
- |[Apple macOS JP2 Image Parsing Uninitialized Pointer Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-283/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-282/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-281/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-280/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-279/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer JT File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-278/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-277/)|Visit link for details|2024-03-11|
+ |[ManageEngine Desktop Central file upload (CVE-2024-2370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 11, 2024|
+ |[Google Android code execution (CVE-2024-27227)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
+ |[Google Android privilege escalation (CVE-2024-25990)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
+ |[Google Android information disclosure (CVE-2024-25989)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
+ |[Google Android information disclosure (CVE-2024-25991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
+ |[Google Android privilege escalation (CVE-2024-25987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
+ |[Google Android privilege escalation (CVE-2024-27209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
  
 
 # EU-CERT
@@ -170,6 +156,37 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46421203/24 - Vulnérabilité affectant le plugin «Ultimate Member» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-ultimate-member-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « Ultimate       Member». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié d’injecter…| 12 mars 2024|
+ |[ 46411103/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-1)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 mars 2024|
+ |[ 46401103/24 - Vulnérabilités critiques affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-qnap-0)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités critiques affectant ses produits susmentionnés. L'exploitation  de ces vulnérabilités…| 11 mars 2024|
+ |[ 46380703/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-18)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 08 mars 2024|
+ |[ 46390803/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking)| HPE Aruba Networking a publié des correctifs pour ArubaOS qui corrigent de nombreuses failles de sécurité. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 08 mars 2024|
+ |[ 46370803/24 - Vulnérabilité critique dans VMware Cloud Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-vmware-cloud-director)| VMware annonce la correction d’une vulnérabilité critique affectant VMware Cloud Director. L’exploitation de cette faille peut  permettre  à un attaquant de porter atteinte aux informations…| 08 mars 2024|
+ |[ 46360703/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-7)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-0039» et « CVE-2024-23717 » sont…| 07 mars 2024|
+ |[ 46350703/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-12)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 07 mars 2024|
+ |[ 46340603/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-0)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette…| 06 mars 2024|
+ |[ 46330603/24 - Vulnérabilités critiques dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-vmware)| VMware annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 06 mars 2024|
+ |[ 46320603/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger deux vulnérabilités de type "zero-day" affectant les iPhones et les iPads. Il est possible que ces failles aient déjà été…| 06 mars 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader DC PDF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-284/)|Visit link for details|2024-03-11|
+ |[Apple macOS JP2 Image Parsing Uninitialized Pointer Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-283/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-282/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-281/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-280/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-279/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer JT File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-278/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-277/)|Visit link for details|2024-03-11|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -185,21 +202,4 @@
  |[Apple security advisory (AV24-126)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-126)|Visit link for details|2024-03-06|
  |[Drupal security advisory (AV24-125)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-125)|Visit link for details|2024-03-06|
  |[Cisco security advisory (AV24-124)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-124)|Visit link for details|2024-03-06|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46411103/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-1)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 mars 2024|
- |[ 46401103/24 - Vulnérabilités critiques affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-qnap-0)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités critiques affectant ses produits susmentionnés. L'exploitation  de ces vulnérabilités…| 11 mars 2024|
- |[ 46380703/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-18)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 08 mars 2024|
- |[ 46390803/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking)| HPE Aruba Networking a publié des correctifs pour ArubaOS qui corrigent de nombreuses failles de sécurité. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 08 mars 2024|
- |[ 46370803/24 - Vulnérabilité critique dans VMware Cloud Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-vmware-cloud-director)| VMware annonce la correction d’une vulnérabilité critique affectant VMware Cloud Director. L’exploitation de cette faille peut  permettre  à un attaquant de porter atteinte aux informations…| 08 mars 2024|
- |[ 46360703/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-7)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-0039» et « CVE-2024-23717 » sont…| 07 mars 2024|
- |[ 46350703/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-12)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 07 mars 2024|
- |[ 46340603/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-0)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette…| 06 mars 2024|
- |[ 46330603/24 - Vulnérabilités critiques dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-vmware)| VMware annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 06 mars 2024|
- |[ 46320603/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger deux vulnérabilités de type "zero-day" affectant les iPhones et les iPads. Il est possible que ces failles aient déjà été…| 06 mars 2024|
- |[ 46310503/24 - Vulnérabilités critiques dans JetBrains TeamCity ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jetbrains-teamcity)| Deux vulnérabilités critiques ont été corrigées dans JetBrains TeamCity. Ces vulnérabilités peuvent permettre à un attaquant non authentifié disposant d'un accès HTTP(S) à un serveur TeamCity de…| 05 mars 2024|
  
