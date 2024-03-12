@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/03/2024 08:20:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/03/2024 09:22:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6681-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-2-linux-kernel-vulnerabilities.49022/)|Visit link for details.|Mar 11, 2024|
+ |[USN-6688-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6688-1-linux-kernel-oem-vulnerabilities.49021/)|Visit link for details.|Mar 11, 2024|
+ |[USN-6658-2: libxml2 vulnerability](https://www.linux.org/threads/usn-6658-2-libxml2-vulnerability.49020/)|Visit link for details.|Mar 11, 2024|
+ |[USN-6687-1: AccountsService vulnerability](https://www.linux.org/threads/usn-6687-1-accountsservice-vulnerability.49014/)|Visit link for details.|Mar 11, 2024|
+ |[DSA-5638-1 libuv1 - security update](https://www.linux.org/threads/dsa-5638-1-libuv1-security-update.49006/)|Visit link for details.|Mar 10, 2024|
+ |[DSA-5637-1 squid - security update](https://www.linux.org/threads/dsa-5637-1-squid-security-update.48977/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6680-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-2-linux-kernel-vulnerabilities.48968/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6686-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-1-linux-kernel-vulnerabilities.48967/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6685-1: mqtt-client vulnerability](https://www.linux.org/threads/usn-6685-1-mqtt-client-vulnerability.48966/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6684-1: ncurses vulnerability](https://www.linux.org/threads/usn-6684-1-ncurses-vulnerability.48965/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6683-1: HtmlCleaner vulnerability](https://www.linux.org/threads/usn-6683-1-htmlcleaner-vulnerability.48961/)|Visit link for details.|Mar 7, 2024|
+ 
 
 # CERT-FR
 
@@ -61,51 +78,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240311)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 11 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240308)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 8 Mar 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note...| Release Date: 6 Mar 2024 |
- |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20240307)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 7 Mar 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 7 Mar 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6681-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-2-linux-kernel-vulnerabilities.49022/)|Visit link for details.|Mar 11, 2024|
- |[USN-6688-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6688-1-linux-kernel-oem-vulnerabilities.49021/)|Visit link for details.|Mar 11, 2024|
- |[USN-6658-2: libxml2 vulnerability](https://www.linux.org/threads/usn-6658-2-libxml2-vulnerability.49020/)|Visit link for details.|Mar 11, 2024|
- |[USN-6687-1: AccountsService vulnerability](https://www.linux.org/threads/usn-6687-1-accountsservice-vulnerability.49014/)|Visit link for details.|Mar 11, 2024|
- |[DSA-5638-1 libuv1 - security update](https://www.linux.org/threads/dsa-5638-1-libuv1-security-update.49006/)|Visit link for details.|Mar 10, 2024|
- |[DSA-5637-1 squid - security update](https://www.linux.org/threads/dsa-5637-1-squid-security-update.48977/)|Visit link for details.|Mar 8, 2024|
- |[USN-6680-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-2-linux-kernel-vulnerabilities.48968/)|Visit link for details.|Mar 8, 2024|
- |[USN-6686-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-1-linux-kernel-vulnerabilities.48967/)|Visit link for details.|Mar 8, 2024|
- |[USN-6685-1: mqtt-client vulnerability](https://www.linux.org/threads/usn-6685-1-mqtt-client-vulnerability.48966/)|Visit link for details.|Mar 8, 2024|
- |[USN-6684-1: ncurses vulnerability](https://www.linux.org/threads/usn-6684-1-ncurses-vulnerability.48965/)|Visit link for details.|Mar 8, 2024|
- |[USN-6683-1: HtmlCleaner vulnerability](https://www.linux.org/threads/usn-6683-1-htmlcleaner-vulnerability.48961/)|Visit link for details.|Mar 7, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[ManageEngine Desktop Central file upload (CVE-2024-2370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 11, 2024|
- |[Musicshelf information disclosure (CVE-2024-2364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
- |[Musicshelf weak security (CVE-2024-2365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
- |[QNAP QTS, QNAP QuTScloud, and QNAP QuTS hero security bypass (CVE-2024-21899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
- |[QNAP QTS, QNAP QuTScloud, and QNAP QuTS hero command execution (CVE-2024-21900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
- |[QNAP myQNAPcloud and QNAP QTS SQL injection (CVE-2024-21901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
- |[Hitron CODA-4582 cross-site scripting (CVE-2024-28089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -123,18 +95,19 @@
  |[Aruba Networks - CVE-2024-1356](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2024-1356-2024-03-08)|Visit link for details.|08/03/2024|
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Acrobat Reader DC PDF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-284/)|Visit link for details|2024-03-11|
- |[Apple macOS JP2 Image Parsing Uninitialized Pointer Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-283/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-282/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-281/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-280/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-279/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer JT File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-278/)|Visit link for details|2024-03-11|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-277/)|Visit link for details|2024-03-11|
+ |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240311)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 11 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240308)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 8 Mar 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note...| Release Date: 6 Mar 2024 |
+ |[Google Chrome Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerabilities_20240307)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 7 Mar 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 7 Mar 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240306)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
  
 
 # OBS-Vigilance
@@ -151,6 +124,33 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ManageEngine Desktop Central file upload (CVE-2024-2370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 11, 2024|
+ |[Musicshelf information disclosure (CVE-2024-2364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
+ |[Musicshelf weak security (CVE-2024-2365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
+ |[QNAP QTS, QNAP QuTScloud, and QNAP QuTS hero security bypass (CVE-2024-21899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
+ |[QNAP QTS, QNAP QuTScloud, and QNAP QuTS hero command execution (CVE-2024-21900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
+ |[QNAP myQNAPcloud and QNAP QTS SQL injection (CVE-2024-21901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
+ |[Hitron CODA-4582 cross-site scripting (CVE-2024-28089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader DC PDF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-284/)|Visit link for details|2024-03-11|
+ |[Apple macOS JP2 Image Parsing Uninitialized Pointer Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-283/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-282/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-281/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-280/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-279/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer JT File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-278/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-277/)|Visit link for details|2024-03-11|
  
 
 # EU-CERT
