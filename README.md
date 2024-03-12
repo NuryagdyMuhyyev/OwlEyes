@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/03/2024 04:17:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/03/2024 06:09:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,21 +45,21 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 05, 2024|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6681-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-2-linux-kernel-vulnerabilities.49022/)|Visit link for details.|Mar 11, 2024|
- |[USN-6688-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6688-1-linux-kernel-oem-vulnerabilities.49021/)|Visit link for details.|Mar 11, 2024|
- |[USN-6658-2: libxml2 vulnerability](https://www.linux.org/threads/usn-6658-2-libxml2-vulnerability.49020/)|Visit link for details.|Mar 11, 2024|
- |[USN-6687-1: AccountsService vulnerability](https://www.linux.org/threads/usn-6687-1-accountsservice-vulnerability.49014/)|Visit link for details.|Mar 11, 2024|
- |[DSA-5638-1 libuv1 - security update](https://www.linux.org/threads/dsa-5638-1-libuv1-security-update.49006/)|Visit link for details.|Mar 10, 2024|
- |[DSA-5637-1 squid - security update](https://www.linux.org/threads/dsa-5637-1-squid-security-update.48977/)|Visit link for details.|Mar 8, 2024|
- |[USN-6680-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-2-linux-kernel-vulnerabilities.48968/)|Visit link for details.|Mar 8, 2024|
- |[USN-6686-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-1-linux-kernel-vulnerabilities.48967/)|Visit link for details.|Mar 8, 2024|
- |[USN-6685-1: mqtt-client vulnerability](https://www.linux.org/threads/usn-6685-1-mqtt-client-vulnerability.48966/)|Visit link for details.|Mar 8, 2024|
- |[USN-6684-1: ncurses vulnerability](https://www.linux.org/threads/usn-6684-1-ncurses-vulnerability.48965/)|Visit link for details.|Mar 8, 2024|
- |[USN-6683-1: HtmlCleaner vulnerability](https://www.linux.org/threads/usn-6683-1-htmlcleaner-vulnerability.48961/)|Visit link for details.|Mar 7, 2024|
+ |[IBM Db2 - CVE-2023-47152](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-47152-2024-03-11)|Visit link for details.|11/03/2024|
+ |[QNAP - CVE-2024-21899](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-21899-2024-03-11)|Visit link for details.|11/03/2024|
+ |[PostgreSQL Anonymizer - CVE-2024-2339](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-anonymizer-cve-2024-2339-2024-03-11)|Visit link for details.|11/03/2024|
+ |[Microsoft - CVE-2023-36049](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36049-2024-03-11)|Visit link for details.|11/03/2024|
+ |[DELL - CVE-2024-25951](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25951-2024-03-11)|Visit link for details.|11/03/2024|
+ |[Apple - CVE-2024-23226](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23226-2024-03-08)|Visit link for details.|11/03/2024|
+ |[Progress OpenEdge - CVE-2024-1403](https://www.cyberveille-sante.gouv.fr/alertes/progress-openedge-cve-2024-1403-2024-02-28)|Visit link for details.|11/03/2024|
+ |[VMware - CVE-2024-22253](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22253-2024-03-08)|Visit link for details.|08/03/2024|
+ |[MicroDICOM - CVE-2024-25578](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-25578-2024-03-08)|Visit link for details.|08/03/2024|
+ |[Google - CVE-2024-2176](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2176-2024-03-08)|Visit link for details.|08/03/2024|
+ |[Aruba Networks - CVE-2024-1356](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2024-1356-2024-03-08)|Visit link for details.|08/03/2024|
  
 
 # CERT-FR
@@ -93,48 +93,21 @@
  |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20240306)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Musicshelf information disclosure (CVE-2024-2364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
- |[Musicshelf weak security (CVE-2024-2365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
- |[QNAP QTS, QNAP QuTScloud, and QNAP QuTS hero security bypass (CVE-2024-21899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
- |[QNAP QTS, QNAP QuTScloud, and QNAP QuTS hero command execution (CVE-2024-21900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
- |[QNAP myQNAPcloud and QNAP QTS SQL injection (CVE-2024-21901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
- |[Hitron CODA-4582 cross-site scripting (CVE-2024-28089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
- |[Dell iDRAC8 command execution (CVE-2024-25951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dassault Systèmes eDrawings CATPART File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-256/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings X_T File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-255/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings DWG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-254/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings SLDDRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-253/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings JT File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-252/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-251/)|Visit link for details|2024-03-08|
- |[Dassault Systèmes eDrawings DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-250/)|Visit link for details|2024-03-08|
- |[(0Day) Ashlar-Vellum Cobalt IGS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-249/)|Visit link for details|2024-03-05|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Db2 - CVE-2023-47152](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-47152-2024-03-11)|Visit link for details.|11/03/2024|
- |[QNAP - CVE-2024-21899](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-21899-2024-03-11)|Visit link for details.|11/03/2024|
- |[PostgreSQL Anonymizer - CVE-2024-2339](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-anonymizer-cve-2024-2339-2024-03-11)|Visit link for details.|11/03/2024|
- |[Microsoft - CVE-2023-36049](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36049-2024-03-11)|Visit link for details.|11/03/2024|
- |[DELL - CVE-2024-25951](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25951-2024-03-11)|Visit link for details.|11/03/2024|
- |[Apple - CVE-2024-23226](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23226-2024-03-08)|Visit link for details.|11/03/2024|
- |[Progress OpenEdge - CVE-2024-1403](https://www.cyberveille-sante.gouv.fr/alertes/progress-openedge-cve-2024-1403-2024-02-28)|Visit link for details.|11/03/2024|
- |[VMware - CVE-2024-22253](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22253-2024-03-08)|Visit link for details.|08/03/2024|
- |[MicroDICOM - CVE-2024-25578](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-25578-2024-03-08)|Visit link for details.|08/03/2024|
- |[Google - CVE-2024-2176](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2176-2024-03-08)|Visit link for details.|08/03/2024|
- |[Aruba Networks - CVE-2024-1356](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2024-1356-2024-03-08)|Visit link for details.|08/03/2024|
+ |[USN-6681-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-2-linux-kernel-vulnerabilities.49022/)|Visit link for details.|Mar 11, 2024|
+ |[USN-6688-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6688-1-linux-kernel-oem-vulnerabilities.49021/)|Visit link for details.|Mar 11, 2024|
+ |[USN-6658-2: libxml2 vulnerability](https://www.linux.org/threads/usn-6658-2-libxml2-vulnerability.49020/)|Visit link for details.|Mar 11, 2024|
+ |[USN-6687-1: AccountsService vulnerability](https://www.linux.org/threads/usn-6687-1-accountsservice-vulnerability.49014/)|Visit link for details.|Mar 11, 2024|
+ |[DSA-5638-1 libuv1 - security update](https://www.linux.org/threads/dsa-5638-1-libuv1-security-update.49006/)|Visit link for details.|Mar 10, 2024|
+ |[DSA-5637-1 squid - security update](https://www.linux.org/threads/dsa-5637-1-squid-security-update.48977/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6680-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6680-2-linux-kernel-vulnerabilities.48968/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6686-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-1-linux-kernel-vulnerabilities.48967/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6685-1: mqtt-client vulnerability](https://www.linux.org/threads/usn-6685-1-mqtt-client-vulnerability.48966/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6684-1: ncurses vulnerability](https://www.linux.org/threads/usn-6684-1-ncurses-vulnerability.48965/)|Visit link for details.|Mar 8, 2024|
+ |[USN-6683-1: HtmlCleaner vulnerability](https://www.linux.org/threads/usn-6683-1-htmlcleaner-vulnerability.48961/)|Visit link for details.|Mar 7, 2024|
  
 
 # OBS-Vigilance
@@ -153,21 +126,31 @@
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
  
 
-# EU-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-100: High Severity Vulnerability in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-100/)|On December 20, 2023, Google released an advisory regarding a new high severity vulnerability in its web browser. Google is aware that an exploit for this vulnerability exists in the wild.|Friday, December 22, 2023 11:35:10 AM CET|
- |[2023-099: Critical Vulnerabilities in Ivanti Avalanche](https://cert.europa.eu/publications/security-advisories/2023-099/)|On December 20, 2023, Ivanti has released security updates to fix 13 critical security vulnerabilities in the company's Avalanche enterprise mobile device management (MDM) solution. These vulnerabilities, if exploited, could lead to Remote Code Execution or Denial of Service. The updates also cover 8 medium- and high-severity bugs that attackers could exploit in denial of service, remote code execution, and server-side request forgery (SSRF) attacks.|Thursday, December 21, 2023 10:38:41 AM CET|
- |[2023-098: SMTP Smuggling Vulnerability in CISCO Secure Email Gateway](https://cert.europa.eu/publications/security-advisories/2023-098/)|On December 18, 2023, researchers from SEC Consult released an article about an SMTP Smuggling vulnerability affecting products from several vendors such as Microsoft, GMX or Cisco. While the vulnerability was fixed in GMX and Microsoft products, it is considered as a feature in Cisco Secure Email Gateway and Cisco Secure Email Cloud Gateway, and thus, it was not fixed.|Tuesday, December 19, 2023 03:35:45 PM CET|
- |[2023-097: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2023-097/)|On December 12, 2023, Microsoft released the December 2023 Patch Tuesday which includes security updates for a total of 35 flaws. Among the vulnerabilities, four were rated as critical.|Tuesday, December 19, 2023 02:50:21 PM CET|
- |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
- |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
- |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
- |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
- |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
- |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
- |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ |[ManageEngine Desktop Central file upload (CVE-2024-2370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 11, 2024|
+ |[Musicshelf information disclosure (CVE-2024-2364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
+ |[Musicshelf weak security (CVE-2024-2365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2024|
+ |[QNAP QTS, QNAP QuTScloud, and QNAP QuTS hero security bypass (CVE-2024-21899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
+ |[QNAP QTS, QNAP QuTScloud, and QNAP QuTS hero command execution (CVE-2024-21900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
+ |[QNAP myQNAPcloud and QNAP QTS SQL injection (CVE-2024-21901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2024|
+ |[Hitron CODA-4582 cross-site scripting (CVE-2024-28089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader DC PDF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-284/)|Visit link for details|2024-03-11|
+ |[Apple macOS JP2 Image Parsing Uninitialized Pointer Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-283/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-282/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-281/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-280/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-279/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer JT File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-278/)|Visit link for details|2024-03-11|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-277/)|Visit link for details|2024-03-11|
  
 
 # CA-CCS
@@ -185,6 +168,23 @@
  |[Apple security advisory (AV24-126)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-126)|Visit link for details|2024-03-06|
  |[Drupal security advisory (AV24-125)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-125)|Visit link for details|2024-03-06|
  |[Cisco security advisory (AV24-124)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-124)|Visit link for details|2024-03-06|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-100: High Severity Vulnerability in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-100/)|On December 20, 2023, Google released an advisory regarding a new high severity vulnerability in its web browser. Google is aware that an exploit for this vulnerability exists in the wild.|Friday, December 22, 2023 11:35:10 AM CET|
+ |[2023-099: Critical Vulnerabilities in Ivanti Avalanche](https://cert.europa.eu/publications/security-advisories/2023-099/)|On December 20, 2023, Ivanti has released security updates to fix 13 critical security vulnerabilities in the company's Avalanche enterprise mobile device management (MDM) solution. These vulnerabilities, if exploited, could lead to Remote Code Execution or Denial of Service. The updates also cover 8 medium- and high-severity bugs that attackers could exploit in denial of service, remote code execution, and server-side request forgery (SSRF) attacks.|Thursday, December 21, 2023 10:38:41 AM CET|
+ |[2023-098: SMTP Smuggling Vulnerability in CISCO Secure Email Gateway](https://cert.europa.eu/publications/security-advisories/2023-098/)|On December 18, 2023, researchers from SEC Consult released an article about an SMTP Smuggling vulnerability affecting products from several vendors such as Microsoft, GMX or Cisco. While the vulnerability was fixed in GMX and Microsoft products, it is considered as a feature in Cisco Secure Email Gateway and Cisco Secure Email Cloud Gateway, and thus, it was not fixed.|Tuesday, December 19, 2023 03:35:45 PM CET|
+ |[2023-097: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2023-097/)|On December 12, 2023, Microsoft released the December 2023 Patch Tuesday which includes security updates for a total of 35 flaws. Among the vulnerabilities, four were rated as critical.|Tuesday, December 19, 2023 02:50:21 PM CET|
+ |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
+ |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
+ |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
+ |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
+ |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
+ |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
+ |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
 # MA-CERT
