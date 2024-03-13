@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/03/2024 12:15:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/03/2024 13:20:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,39 +62,6 @@
  |[Cisco Releases Security Updates for Secure Client](https://www.cisa.gov/news-events/alerts/2024/03/07/cisco-releases-security-updates-secure-client)|Visit link for details.|Mar 07, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0203/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mars 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0202/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mars 2024|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0201/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 mars 2024|
- |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0200/)|Une vulnérabilité a été découverte dans |Publié le 11 mars 2024|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0199/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0198/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0197/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0196/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0195/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 8 mars 2024|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0194/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Db2 - CVE-2023-47152](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-47152-2024-03-11)|Visit link for details.|11/03/2024|
- |[QNAP - CVE-2024-21899](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-21899-2024-03-11)|Visit link for details.|11/03/2024|
- |[PostgreSQL Anonymizer - CVE-2024-2339](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-anonymizer-cve-2024-2339-2024-03-11)|Visit link for details.|11/03/2024|
- |[Microsoft - CVE-2023-36049](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36049-2024-03-11)|Visit link for details.|11/03/2024|
- |[DELL - CVE-2024-25951](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25951-2024-03-11)|Visit link for details.|11/03/2024|
- |[Apple - CVE-2024-23226](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23226-2024-03-08)|Visit link for details.|11/03/2024|
- |[Progress OpenEdge - CVE-2024-1403](https://www.cyberveille-sante.gouv.fr/alertes/progress-openedge-cve-2024-1403-2024-02-28)|Visit link for details.|11/03/2024|
- |[VMware - CVE-2024-22253](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22253-2024-03-08)|Visit link for details.|08/03/2024|
- |[MicroDICOM - CVE-2024-25578](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-25578-2024-03-08)|Visit link for details.|08/03/2024|
- |[Google - CVE-2024-2176](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2176-2024-03-08)|Visit link for details.|08/03/2024|
- |[Aruba Networks - CVE-2024-1356](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2024-1356-2024-03-08)|Visit link for details.|08/03/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -123,18 +90,20 @@
  |[Adobe Experience Manager cross-site scripting (CVE-2024-20768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 12, 2024|
  
 
-# ZERODAYINITIATIVE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-286/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-285/)|Visit link for details|2024-03-12|
- |[Adobe Acrobat Reader DC PDF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-284/)|Visit link for details|2024-03-11|
- |[Apple macOS JP2 Image Parsing Uninitialized Pointer Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-283/)|Visit link for details|2024-03-11|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0203/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mars 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0202/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mars 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0201/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 mars 2024|
+ |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0200/)|Une vulnérabilité a été découverte dans |Publié le 11 mars 2024|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0199/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0198/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0197/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0196/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0195/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 8 mars 2024|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0194/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2024|
  
 
 # OBS-Vigilance
@@ -153,21 +122,21 @@
  |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262" class="noirorange"><b>TeamPass</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262)|An attacker can trigger a Cross Site Scripting of TeamPass, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# EU-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-100: High Severity Vulnerability in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-100/)|On December 20, 2023, Google released an advisory regarding a new high severity vulnerability in its web browser. Google is aware that an exploit for this vulnerability exists in the wild.|Friday, December 22, 2023 11:35:10 AM CET|
- |[2023-099: Critical Vulnerabilities in Ivanti Avalanche](https://cert.europa.eu/publications/security-advisories/2023-099/)|On December 20, 2023, Ivanti has released security updates to fix 13 critical security vulnerabilities in the company's Avalanche enterprise mobile device management (MDM) solution. These vulnerabilities, if exploited, could lead to Remote Code Execution or Denial of Service. The updates also cover 8 medium- and high-severity bugs that attackers could exploit in denial of service, remote code execution, and server-side request forgery (SSRF) attacks.|Thursday, December 21, 2023 10:38:41 AM CET|
- |[2023-098: SMTP Smuggling Vulnerability in CISCO Secure Email Gateway](https://cert.europa.eu/publications/security-advisories/2023-098/)|On December 18, 2023, researchers from SEC Consult released an article about an SMTP Smuggling vulnerability affecting products from several vendors such as Microsoft, GMX or Cisco. While the vulnerability was fixed in GMX and Microsoft products, it is considered as a feature in Cisco Secure Email Gateway and Cisco Secure Email Cloud Gateway, and thus, it was not fixed.|Tuesday, December 19, 2023 03:35:45 PM CET|
- |[2023-097: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2023-097/)|On December 12, 2023, Microsoft released the December 2023 Patch Tuesday which includes security updates for a total of 35 flaws. Among the vulnerabilities, four were rated as critical.|Tuesday, December 19, 2023 02:50:21 PM CET|
- |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
- |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
- |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
- |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
- |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
- |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
- |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ |[IBM Db2 - CVE-2023-47152](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-47152-2024-03-11)|Visit link for details.|11/03/2024|
+ |[QNAP - CVE-2024-21899](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-21899-2024-03-11)|Visit link for details.|11/03/2024|
+ |[PostgreSQL Anonymizer - CVE-2024-2339](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-anonymizer-cve-2024-2339-2024-03-11)|Visit link for details.|11/03/2024|
+ |[Microsoft - CVE-2023-36049](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36049-2024-03-11)|Visit link for details.|11/03/2024|
+ |[DELL - CVE-2024-25951](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25951-2024-03-11)|Visit link for details.|11/03/2024|
+ |[Apple - CVE-2024-23226](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23226-2024-03-08)|Visit link for details.|11/03/2024|
+ |[Progress OpenEdge - CVE-2024-1403](https://www.cyberveille-sante.gouv.fr/alertes/progress-openedge-cve-2024-1403-2024-02-28)|Visit link for details.|11/03/2024|
+ |[VMware - CVE-2024-22253](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22253-2024-03-08)|Visit link for details.|08/03/2024|
+ |[MicroDICOM - CVE-2024-25578](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-25578-2024-03-08)|Visit link for details.|08/03/2024|
+ |[Google - CVE-2024-2176](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2176-2024-03-08)|Visit link for details.|08/03/2024|
+ |[Aruba Networks - CVE-2024-1356](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2024-1356-2024-03-08)|Visit link for details.|08/03/2024|
  
 
 # CA-CCS
@@ -202,4 +171,35 @@
  |[ 46360703/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-7)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-0039» et « CVE-2024-23717 » sont…| 07 mars 2024|
  |[ 46350703/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-12)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 07 mars 2024|
  |[ 46340603/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-0)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette…| 06 mars 2024|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-100: High Severity Vulnerability in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-100/)|On December 20, 2023, Google released an advisory regarding a new high severity vulnerability in its web browser. Google is aware that an exploit for this vulnerability exists in the wild.|Friday, December 22, 2023 11:35:10 AM CET|
+ |[2023-099: Critical Vulnerabilities in Ivanti Avalanche](https://cert.europa.eu/publications/security-advisories/2023-099/)|On December 20, 2023, Ivanti has released security updates to fix 13 critical security vulnerabilities in the company's Avalanche enterprise mobile device management (MDM) solution. These vulnerabilities, if exploited, could lead to Remote Code Execution or Denial of Service. The updates also cover 8 medium- and high-severity bugs that attackers could exploit in denial of service, remote code execution, and server-side request forgery (SSRF) attacks.|Thursday, December 21, 2023 10:38:41 AM CET|
+ |[2023-098: SMTP Smuggling Vulnerability in CISCO Secure Email Gateway](https://cert.europa.eu/publications/security-advisories/2023-098/)|On December 18, 2023, researchers from SEC Consult released an article about an SMTP Smuggling vulnerability affecting products from several vendors such as Microsoft, GMX or Cisco. While the vulnerability was fixed in GMX and Microsoft products, it is considered as a feature in Cisco Secure Email Gateway and Cisco Secure Email Cloud Gateway, and thus, it was not fixed.|Tuesday, December 19, 2023 03:35:45 PM CET|
+ |[2023-097: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2023-097/)|On December 12, 2023, Microsoft released the December 2023 Patch Tuesday which includes security updates for a total of 35 flaws. Among the vulnerabilities, four were rated as critical.|Tuesday, December 19, 2023 02:50:21 PM CET|
+ |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
+ |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
+ |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
+ |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
+ |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
+ |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
+ |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-286/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-285/)|Visit link for details|2024-03-12|
+ |[Adobe Acrobat Reader DC PDF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-284/)|Visit link for details|2024-03-11|
+ |[Apple macOS JP2 Image Parsing Uninitialized Pointer Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-283/)|Visit link for details|2024-03-11|
  
