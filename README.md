@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/03/2024 18:17:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/03/2024 19:15:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,23 +62,6 @@
  |[USN-6658-2: libxml2 vulnerability](https://www.linux.org/threads/usn-6658-2-libxml2-vulnerability.49020/)|Visit link for details.|Mar 11, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Db2 - CVE-2023-47152](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-47152-2024-03-11)|Visit link for details.|11/03/2024|
- |[QNAP - CVE-2024-21899](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-21899-2024-03-11)|Visit link for details.|11/03/2024|
- |[PostgreSQL Anonymizer - CVE-2024-2339](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-anonymizer-cve-2024-2339-2024-03-11)|Visit link for details.|11/03/2024|
- |[Microsoft - CVE-2023-36049](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36049-2024-03-11)|Visit link for details.|11/03/2024|
- |[DELL - CVE-2024-25951](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25951-2024-03-11)|Visit link for details.|11/03/2024|
- |[Apple - CVE-2024-23226](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23226-2024-03-08)|Visit link for details.|11/03/2024|
- |[Progress OpenEdge - CVE-2024-1403](https://www.cyberveille-sante.gouv.fr/alertes/progress-openedge-cve-2024-1403-2024-02-28)|Visit link for details.|11/03/2024|
- |[VMware - CVE-2024-22253](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22253-2024-03-08)|Visit link for details.|08/03/2024|
- |[MicroDICOM - CVE-2024-25578](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-25578-2024-03-08)|Visit link for details.|08/03/2024|
- |[Google - CVE-2024-2176](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2176-2024-03-08)|Visit link for details.|08/03/2024|
- |[Aruba Networks - CVE-2024-1356](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2024-1356-2024-03-08)|Visit link for details.|08/03/2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -99,6 +82,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472" class="noirorange"><b>SAP</b>: multiple vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458" class="noirorange"><b>Fortinet FortiOS</b>: NULL pointer dereference via SSL-VPN Daemon</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458)|An attacker can force a NULL pointer to be dereferenced on Fortinet FortiOS, via SSL-VPN Daemon, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444" class="noirorange"><b>HP LaserJet</b>: buffer overflow via Workpath</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444)|An attacker can trigger a buffer overflow of HP LaserJet, via Workpath, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
@@ -108,7 +92,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272" class="noirorange"><b>Drupal Typogrify</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272)|An attacker can trigger a Cross Site Scripting of Drupal Typogrify, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271" class="noirorange"><b>Drupal File Entity</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271)|An attacker can trigger a Cross Site Scripting of Drupal File Entity, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-43267" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-43267)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264" class="noirorange"><b>hawk2</b>: eight vulnerabilities</a>](https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264)|An attacker can use several vulnerabilities of hawk2...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM Db2 - CVE-2023-47152](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-47152-2024-03-11)|Visit link for details.|11/03/2024|
+ |[QNAP - CVE-2024-21899](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-21899-2024-03-11)|Visit link for details.|11/03/2024|
+ |[PostgreSQL Anonymizer - CVE-2024-2339](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-anonymizer-cve-2024-2339-2024-03-11)|Visit link for details.|11/03/2024|
+ |[Microsoft - CVE-2023-36049](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36049-2024-03-11)|Visit link for details.|11/03/2024|
+ |[DELL - CVE-2024-25951](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25951-2024-03-11)|Visit link for details.|11/03/2024|
+ |[Apple - CVE-2024-23226](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23226-2024-03-08)|Visit link for details.|11/03/2024|
+ |[Progress OpenEdge - CVE-2024-1403](https://www.cyberveille-sante.gouv.fr/alertes/progress-openedge-cve-2024-1403-2024-02-28)|Visit link for details.|11/03/2024|
+ |[VMware - CVE-2024-22253](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22253-2024-03-08)|Visit link for details.|08/03/2024|
+ |[MicroDICOM - CVE-2024-25578](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-25578-2024-03-08)|Visit link for details.|08/03/2024|
+ |[Google - CVE-2024-2176](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2176-2024-03-08)|Visit link for details.|08/03/2024|
+ |[Aruba Networks - CVE-2024-1356](https://www.cyberveille-sante.gouv.fr/alertes/aruba-networks-cve-2024-1356-2024-03-08)|Visit link for details.|08/03/2024|
  
 
 # HK-CERT
@@ -139,20 +139,6 @@
  |[Adobe Experience Manager cross-site scripting (CVE-2024-20768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 12, 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-286/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-285/)|Visit link for details|2024-03-12|
- |[Adobe Acrobat Reader DC PDF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-284/)|Visit link for details|2024-03-11|
- |[Apple macOS JP2 Image Parsing Uninitialized Pointer Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-283/)|Visit link for details|2024-03-11|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -168,6 +154,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
 # CA-CCS
@@ -191,6 +191,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 46521303/24 - Vulnérabilités critiques dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-siemens)| Plusieurs vulnérabilités critiques ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance,…| 13 mars 2024|
+ |[ 46511303/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-5)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 mars 2024|
  |[ 46501303/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-11)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 mars 2024|
  |[ 46491303/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 13 mars 2024|
  |[ 46481303/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 13 mars 2024|
@@ -200,6 +202,4 @@
  |[ 46451303/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Mars 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-mars-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant…| 13 mars 2024|
  |[ 46441203/24 - Vulnérabilité dans MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-0)| Une vulnérabilité a été corrigée dans MongoDB. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.| 12 mars 2024|
  |[ 46431203/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-11)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 mars 2024|
- |[ 46421203/24 - Vulnérabilité affectant le plugin «Ultimate Member» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-ultimate-member-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « Ultimate       Member». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié d’injecter…| 12 mars 2024|
- |[ 46411103/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-1)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 mars 2024|
  
