@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/03/2024 00:14:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/03/2024 01:15:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6686-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-2-linux-kernel-vulnerabilities.49057/)|Visit link for details.|Mar 13, 2024|
+ |[USN-6681-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-3-linux-kernel-vulnerabilities.49056/)|Visit link for details.|Mar 13, 2024|
  |[USN-6663-2: OpenSSL update](https://www.linux.org/threads/usn-6663-2-openssl-update.49052/)|Visit link for details.|Mar 13, 2024|
  |[USN-6693-1: .NET vulnerability](https://www.linux.org/threads/usn-6693-1-net-vulnerability.49047/)|Visit link for details.|Mar 12, 2024|
  |[USN-6692-1: Gson vulnerability](https://www.linux.org/threads/usn-6692-1-gson-vulnerability.49042/)|Visit link for details.|Mar 12, 2024|
@@ -58,24 +60,6 @@
  |[USN-6656-2: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6656-2-postgresql-vulnerability.49038/)|Visit link for details.|Mar 12, 2024|
  |[USN-6689-1: Rack vulnerabilities](https://www.linux.org/threads/usn-6689-1-rack-vulnerabilities.49037/)|Visit link for details.|Mar 12, 2024|
  |[USN-6681-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-2-linux-kernel-vulnerabilities.49022/)|Visit link for details.|Mar 11, 2024|
- |[USN-6688-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6688-1-linux-kernel-oem-vulnerabilities.49021/)|Visit link for details.|Mar 11, 2024|
- |[USN-6658-2: libxml2 vulnerability](https://www.linux.org/threads/usn-6658-2-libxml2-vulnerability.49020/)|Visit link for details.|Mar 11, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472" class="noirorange"><b>SAP</b>: multiple vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458" class="noirorange"><b>Fortinet FortiOS</b>: NULL pointer dereference via SSL-VPN Daemon</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458)|An attacker can force a NULL pointer to be dereferenced on Fortinet FortiOS, via SSL-VPN Daemon, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444" class="noirorange"><b>HP LaserJet</b>: buffer overflow via Workpath</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444)|An attacker can trigger a buffer overflow of HP LaserJet, via Workpath, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285" class="noirorange"><b>Linux kernel</b>: memory corruption via tls_sw_sendmsg_splice()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-information-disclosure-via-PKCS-1-Encryption-Padding-Removal-43637" class="noirorange"><b>OpenSC</b>: information disclosure via PKCS#1 Encryption Padding Removal</a>](https://vigilance.fr/vulnerability/OpenSC-information-disclosure-via-PKCS-1-Encryption-Padding-Removal-43637)|An attacker can bypass access restrictions to data of OpenSC, via PKCS#1 Encryption Padding Removal, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Bigup File</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276)|An attacker can trigger a Cross Site Scripting of SPIP, via Bigup File, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272" class="noirorange"><b>Drupal Typogrify</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272)|An attacker can trigger a Cross Site Scripting of Drupal Typogrify, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271" class="noirorange"><b>Drupal File Entity</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271)|An attacker can trigger a Cross Site Scripting of Drupal File Entity, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # CERT-FR
@@ -109,6 +93,22 @@
  |[Google Android - CVE-2024-27210](https://www.cyberveille-sante.gouv.fr/alertes/google-android-cve-2024-27210-2024-03-12)|Visit link for details.|12/03/2024|
  |[D-Link - CVE-2024-25331](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-25331-2024-03-12)|Visit link for details.|12/03/2024|
  |[IBM Db2 - CVE-2023-47152](https://www.cyberveille-sante.gouv.fr/alertes/ibm-db2-cve-2023-47152-2024-03-11)|Visit link for details.|11/03/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472" class="noirorange"><b>SAP</b>: multiple vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458" class="noirorange"><b>Fortinet FortiOS</b>: NULL pointer dereference via SSL-VPN Daemon</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458)|An attacker can force a NULL pointer to be dereferenced on Fortinet FortiOS, via SSL-VPN Daemon, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444" class="noirorange"><b>HP LaserJet</b>: buffer overflow via Workpath</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444)|An attacker can trigger a buffer overflow of HP LaserJet, via Workpath, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285" class="noirorange"><b>Linux kernel</b>: memory corruption via tls_sw_sendmsg_splice()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-information-disclosure-via-PKCS-1-Encryption-Padding-Removal-43637" class="noirorange"><b>OpenSC</b>: information disclosure via PKCS#1 Encryption Padding Removal</a>](https://vigilance.fr/vulnerability/OpenSC-information-disclosure-via-PKCS-1-Encryption-Padding-Removal-43637)|An attacker can bypass access restrictions to data of OpenSC, via PKCS#1 Encryption Padding Removal, in order to read sensitive information...|Visit link for details|
  
 
 # HK-CERT
@@ -156,6 +156,20 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -188,18 +202,4 @@
  |[[Control systems] Schneider Electric security advisory (AV24-135)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-135)|Visit link for details|2024-03-12|
  |[Red Hat security advisory (AV24-134)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-134)|Visit link for details|2024-03-11|
  |[IBM security advisory (AV24-133)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-133-0)|Visit link for details|2024-03-11|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
