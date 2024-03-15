@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/03/2024 12:16:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/03/2024 13:20:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,19 +111,6 @@
  |[Zoho ManageEngine - CVE-2024-2370](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-2370-2024-03-12)|Visit link for details.|12/03/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Softing edgeAggregator and Softing edgeConnector information disclosure (CVE-2024-0860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[Siemens Sinteso EN Cerberus PRO EN Fire Protection Systems denial of service (CVE-2024-22041)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- |[Siemens Sinteso EN Cerberus PRO EN Fire Protection Systems denial of service (CVE-2024-22040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- |[Siemens Sinteso EN Cerberus PRO EN Fire Protection Systems buffer overflow (CVE-2024-22039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- |[Siemens SENTRON denial of service (CVE-2024-22044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- |[Siemens SINEMA Remote Connect Client information disclosure (CVE-2024-22045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- |[Siemens SINEMA Remote Connect Server code execution (CVE-2022-32257)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -137,6 +124,19 @@
  |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240311)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 11 Mar 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Softing edgeAggregator and Softing edgeConnector information disclosure (CVE-2024-0860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[Siemens Sinteso EN Cerberus PRO EN Fire Protection Systems denial of service (CVE-2024-22041)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
+ |[Siemens Sinteso EN Cerberus PRO EN Fire Protection Systems denial of service (CVE-2024-22040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
+ |[Siemens Sinteso EN Cerberus PRO EN Fire Protection Systems buffer overflow (CVE-2024-22039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
+ |[Siemens SENTRON denial of service (CVE-2024-22044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
+ |[Siemens SINEMA Remote Connect Client information disclosure (CVE-2024-22045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
+ |[Siemens SINEMA Remote Connect Server code execution (CVE-2022-32257)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
  
 
 # ZERODAYINITIATIVE
