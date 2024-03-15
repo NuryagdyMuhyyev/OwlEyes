@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/03/2024 08:19:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/03/2024 09:19:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5640-1 openvswitch - security update](https://www.linux.org/threads/dsa-5640-1-openvswitch-security-update.49080/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6695-1: TeX Live vulnerabilities](https://www.linux.org/threads/usn-6695-1-tex-live-vulnerabilities.49077/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6694-1: Expat vulnerabilities](https://www.linux.org/threads/usn-6694-1-expat-vulnerabilities.49076/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6673-2: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-2-python-cryptography-vulnerability.49070/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6587-5: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-5-x-org-x-server-vulnerabilities.49059/)|Visit link for details.|Mar 13, 2024|
+ |[DSA-5639-1 chromium - security update](https://www.linux.org/threads/dsa-5639-1-chromium-security-update.49058/)|Visit link for details.|Mar 13, 2024|
+ |[USN-6686-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-2-linux-kernel-vulnerabilities.49057/)|Visit link for details.|Mar 13, 2024|
+ |[USN-6681-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-3-linux-kernel-vulnerabilities.49056/)|Visit link for details.|Mar 13, 2024|
+ |[USN-6663-2: OpenSSL update](https://www.linux.org/threads/usn-6663-2-openssl-update.49052/)|Visit link for details.|Mar 13, 2024|
+ |[USN-6693-1: .NET vulnerability](https://www.linux.org/threads/usn-6693-1-net-vulnerability.49047/)|Visit link for details.|Mar 12, 2024|
+ |[USN-6692-1: Gson vulnerability](https://www.linux.org/threads/usn-6692-1-gson-vulnerability.49042/)|Visit link for details.|Mar 12, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,20 @@
  |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5640-1 openvswitch - security update](https://www.linux.org/threads/dsa-5640-1-openvswitch-security-update.49080/)|Visit link for details.|Mar 14, 2024|
- |[USN-6695-1: TeX Live vulnerabilities](https://www.linux.org/threads/usn-6695-1-tex-live-vulnerabilities.49077/)|Visit link for details.|Mar 14, 2024|
- |[USN-6694-1: Expat vulnerabilities](https://www.linux.org/threads/usn-6694-1-expat-vulnerabilities.49076/)|Visit link for details.|Mar 14, 2024|
- |[USN-6673-2: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-2-python-cryptography-vulnerability.49070/)|Visit link for details.|Mar 14, 2024|
- |[USN-6587-5: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-5-x-org-x-server-vulnerabilities.49059/)|Visit link for details.|Mar 13, 2024|
- |[DSA-5639-1 chromium - security update](https://www.linux.org/threads/dsa-5639-1-chromium-security-update.49058/)|Visit link for details.|Mar 13, 2024|
- |[USN-6686-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-2-linux-kernel-vulnerabilities.49057/)|Visit link for details.|Mar 13, 2024|
- |[USN-6681-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-3-linux-kernel-vulnerabilities.49056/)|Visit link for details.|Mar 13, 2024|
- |[USN-6663-2: OpenSSL update](https://www.linux.org/threads/usn-6663-2-openssl-update.49052/)|Visit link for details.|Mar 13, 2024|
- |[USN-6693-1: .NET vulnerability](https://www.linux.org/threads/usn-6693-1-net-vulnerability.49047/)|Visit link for details.|Mar 12, 2024|
- |[USN-6692-1: Gson vulnerability](https://www.linux.org/threads/usn-6692-1-gson-vulnerability.49042/)|Visit link for details.|Mar 12, 2024|
+ |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0213/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0212/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0211/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix|Publié le 13 mars 2024|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0210/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0209/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0208/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0207/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0206/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
  
 
 # CERT-SANTE
@@ -79,20 +95,20 @@
  |[Zoho ManageEngine - CVE-2024-2370](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-2370-2024-03-12)|Visit link for details.|12/03/2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0218/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0217/)|De multiples vulnérabilités ont été découvertes dans SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0216/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 13 mars 2024|
- |[Multiples vulnérabilités dans les produits Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 mars 2024|
- |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0213/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Locked-Out-Users-43656" class="noirorange"><b>Keycloak</b>: denial of service via Locked Out Users</a>](https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Locked-Out-Users-43656)|An attacker can cause a fatal error of Keycloak, via Locked Out Users, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-btrfs-get-root-ref-43654" class="noirorange"><b>Linux kernel</b>: assertion error via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-btrfs-get-root-ref-43654)|An attacker can force an assertion error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472" class="noirorange"><b>SAP</b>: multiple vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458" class="noirorange"><b>Fortinet FortiOS</b>: NULL pointer dereference via SSL-VPN Daemon</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458)|An attacker can force a NULL pointer to be dereferenced on Fortinet FortiOS, via SSL-VPN Daemon, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444" class="noirorange"><b>HP LaserJet</b>: buffer overflow via Workpath</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444)|An attacker can trigger a buffer overflow of HP LaserJet, via Workpath, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
  
 
 # HK-CERT
@@ -124,36 +140,6 @@
  |[Vinchin Backup & Recovery command execution (CVE-2024-25228)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Locked-Out-Users-43656" class="noirorange"><b>Keycloak</b>: denial of service via Locked Out Users</a>](https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Locked-Out-Users-43656)|An attacker can cause a fatal error of Keycloak, via Locked Out Users, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-btrfs-get-root-ref-43654" class="noirorange"><b>Linux kernel</b>: assertion error via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-btrfs-get-root-ref-43654)|An attacker can force an assertion error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472" class="noirorange"><b>SAP</b>: multiple vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458" class="noirorange"><b>Fortinet FortiOS</b>: NULL pointer dereference via SSL-VPN Daemon</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458)|An attacker can force a NULL pointer to be dereferenced on Fortinet FortiOS, via SSL-VPN Daemon, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444" class="noirorange"><b>HP LaserJet</b>: buffer overflow via Workpath</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-Workpath-41444)|An attacker can trigger a buffer overflow of HP LaserJet, via Workpath, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -171,21 +157,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco security advisory (AV24-143)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-143)|Visit link for details|2024-03-13|
- |[Mitel security advisory (AV24-142)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-142)|Visit link for details|2024-03-13|
- |[Google Chrome security advisory (AV24-141)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-141)|Visit link for details|2024-03-13|
- |[Microsoft security advisory – March 2024 monthly rollup (AV24-140)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2024-monthly-rollup-av24-140)|Visit link for details|2024-03-12|
- |[Adobe security advisory (AV24-139)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-139)|Visit link for details|2024-03-12|
- |[Fortinet security advisory (AV24-138)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-138)|Visit link for details|2024-03-12|
- |[[Control systems] Siemens security advisory (AV24-137)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-137)|Visit link for details|2024-03-12|
- |[SAP security advisory – March 2024 monthly rollup (AV24-136)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-march-2024-monthly-rollup-av24-136)|Visit link for details|2024-03-12|
- |[[Control systems] Schneider Electric security advisory (AV24-135)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-135)|Visit link for details|2024-03-12|
- |[Red Hat security advisory (AV24-134)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-134)|Visit link for details|2024-03-11|
- |[IBM security advisory (AV24-133)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-133-0)|Visit link for details|2024-03-11|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
 # MA-CERT
@@ -203,4 +186,21 @@
  |[ 46481303/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 13 mars 2024|
  |[ 46491303/24 - Vulnérabilité dans Microsoft Exchange Server (Patch Tuesday Mars 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-exchange-server-patch-tuesday-mars-2024)| Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code…| 13 mars 2024|
  |[ 46471303/24 - Vulnérabilité dans les produits Microsoft SQL Server (Patch Tuesday Mars… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-sql-server-patch-tuesday-mars-2024)| Une vulnérabilité a été corrigée dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de cette faille permet à un attaquant d’exécuter du code arbitraire à distance. | 13 mars 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco security advisory (AV24-143)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-143)|Visit link for details|2024-03-13|
+ |[Mitel security advisory (AV24-142)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-142)|Visit link for details|2024-03-13|
+ |[Google Chrome security advisory (AV24-141)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-141)|Visit link for details|2024-03-13|
+ |[Microsoft security advisory – March 2024 monthly rollup (AV24-140)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2024-monthly-rollup-av24-140)|Visit link for details|2024-03-12|
+ |[Adobe security advisory (AV24-139)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-139)|Visit link for details|2024-03-12|
+ |[Fortinet security advisory (AV24-138)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-138)|Visit link for details|2024-03-12|
+ |[[Control systems] Siemens security advisory (AV24-137)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-137)|Visit link for details|2024-03-12|
+ |[SAP security advisory – March 2024 monthly rollup (AV24-136)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-march-2024-monthly-rollup-av24-136)|Visit link for details|2024-03-12|
+ |[[Control systems] Schneider Electric security advisory (AV24-135)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-135)|Visit link for details|2024-03-12|
+ |[Red Hat security advisory (AV24-134)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-134)|Visit link for details|2024-03-11|
+ |[IBM security advisory (AV24-133)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-133-0)|Visit link for details|2024-03-11|
  
