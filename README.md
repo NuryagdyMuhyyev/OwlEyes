@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/03/2024 11:21:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/03/2024 12:16:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
- |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 12, 2024|
- |[CISA Publishes SCuBA Hybrid Identity Solutions Guidance](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance)|Visit link for details.|Mar 12, 2024|
- |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
- |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
- |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,21 +46,20 @@
  |[USN-6692-1: Gson vulnerability](https://www.linux.org/threads/usn-6692-1-gson-vulnerability.49042/)|Visit link for details.|Mar 12, 2024|
  
 
-# CERT-SANTE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortra - CVE-2024-25153](https://www.cyberveille-sante.gouv.fr/alertes/fortra-cve-2024-25153-2024-03-14)|Visit link for details.|14/03/2024|
- |[PaperCut - CVE-2024-1222](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2024-1222-2024-03-14)|Visit link for details.|14/03/2024|
- |[Microsoft - CVE-2024-26198](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26198-2024-03-14)|Visit link for details.|14/03/2024|
- |[Cisco - CVE-2024-20320](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20320-2024-03-14)|Visit link for details.|14/03/2024|
- |[Arcserve - CVE-2024-0799](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0799-2024-03-14)|Visit link for details.|14/03/2024|
- |[Microsoft - CVE-2024-21334](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21334-2024-03-13)|Visit link for details.|13/03/2024|
- |[Fortinet - CVE-2023-47534](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-47534-2024-03-13)|Visit link for details.|13/03/2024|
- |[Fortinet - CVE-2023-48788](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48788-2024-03-13)|Visit link for details.|13/03/2024|
- |[Microsoft - CVE-2024-21407](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21407-2024-03-13)|Visit link for details.|13/03/2024|
- |[Fortinet - CVE-2023-42789](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-42789-2024-03-13)|Visit link for details.|13/03/2024|
- |[Zoho ManageEngine - CVE-2024-2370](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-2370-2024-03-12)|Visit link for details.|12/03/2024|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
+ |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 12, 2024|
+ |[CISA Publishes SCuBA Hybrid Identity Solutions Guidance](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance)|Visit link for details.|Mar 12, 2024|
+ |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
+ |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
+ |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
  
 
 # CERT-FR
@@ -111,17 +94,34 @@
  |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via qemu_clipboard_request()</a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortra - CVE-2024-25153](https://www.cyberveille-sante.gouv.fr/alertes/fortra-cve-2024-25153-2024-03-14)|Visit link for details.|14/03/2024|
+ |[PaperCut - CVE-2024-1222](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2024-1222-2024-03-14)|Visit link for details.|14/03/2024|
+ |[Microsoft - CVE-2024-26198](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26198-2024-03-14)|Visit link for details.|14/03/2024|
+ |[Cisco - CVE-2024-20320](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20320-2024-03-14)|Visit link for details.|14/03/2024|
+ |[Arcserve - CVE-2024-0799](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0799-2024-03-14)|Visit link for details.|14/03/2024|
+ |[Microsoft - CVE-2024-21334](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21334-2024-03-13)|Visit link for details.|13/03/2024|
+ |[Fortinet - CVE-2023-47534](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-47534-2024-03-13)|Visit link for details.|13/03/2024|
+ |[Fortinet - CVE-2023-48788](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48788-2024-03-13)|Visit link for details.|13/03/2024|
+ |[Microsoft - CVE-2024-21407](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21407-2024-03-13)|Visit link for details.|13/03/2024|
+ |[Fortinet - CVE-2023-42789](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-42789-2024-03-13)|Visit link for details.|13/03/2024|
+ |[Zoho ManageEngine - CVE-2024-2370](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-2370-2024-03-12)|Visit link for details.|12/03/2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[Softing edgeAggregator and Softing edgeConnector information disclosure (CVE-2024-0860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[Siemens Sinteso EN Cerberus PRO EN Fire Protection Systems denial of service (CVE-2024-22041)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
+ |[Siemens Sinteso EN Cerberus PRO EN Fire Protection Systems denial of service (CVE-2024-22040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
+ |[Siemens Sinteso EN Cerberus PRO EN Fire Protection Systems buffer overflow (CVE-2024-22039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
+ |[Siemens SENTRON denial of service (CVE-2024-22044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
+ |[Siemens SINEMA Remote Connect Client information disclosure (CVE-2024-22045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
  |[Siemens SINEMA Remote Connect Server code execution (CVE-2022-32257)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- |[Siemens SINEMA Remote Connect Server cross-site scripting (CVE-2020-23064)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- |[Siemens SENTRON 7KM PAC3x20 information disclosure (CVE-2024-21483)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- |[Delinea PAM Secret Server security bypass (CVE-2024-25653)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- |[Delinea PAM Secret Server security bypass (CVE-2024-25652)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
- |[Delinea PAM Secret Server information disclosure (CVE-2024-25651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
  
 
 # HK-CERT
@@ -137,7 +137,20 @@
  |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240311)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 11 Mar 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240308)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and spoofing on the targeted system.|Release Date: 8 Mar 2024 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
 # EU-CERT
@@ -155,20 +168,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
 # CA-CCS
