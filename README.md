@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/03/2024 04:16:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/03/2024 06:10:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,38 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
- |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 12, 2024|
- |[CISA Publishes SCuBA Hybrid Identity Solutions Guidance](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance)|Visit link for details.|Mar 12, 2024|
- |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
- |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
- |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0218/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0217/)|De multiples vulnérabilités ont été découvertes dans SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0216/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 13 mars 2024|
- |[Multiples vulnérabilités dans les produits Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 mars 2024|
- |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0213/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -76,6 +44,22 @@
  |[USN-6663-2: OpenSSL update](https://www.linux.org/threads/usn-6663-2-openssl-update.49052/)|Visit link for details.|Mar 13, 2024|
  |[USN-6693-1: .NET vulnerability](https://www.linux.org/threads/usn-6693-1-net-vulnerability.49047/)|Visit link for details.|Mar 12, 2024|
  |[USN-6692-1: Gson vulnerability](https://www.linux.org/threads/usn-6692-1-gson-vulnerability.49042/)|Visit link for details.|Mar 12, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0213/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0212/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0211/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix|Publié le 13 mars 2024|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0210/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0209/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0208/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0207/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0206/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -135,6 +119,22 @@
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
  |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
+ |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 12, 2024|
+ |[CISA Publishes SCuBA Hybrid Identity Solutions Guidance](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance)|Visit link for details.|Mar 12, 2024|
+ |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
+ |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
+ |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
  
 
 # OBS-Vigilance
