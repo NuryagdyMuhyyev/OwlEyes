@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/03/2024 13:20:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/03/2024 14:16:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -139,20 +139,6 @@
  |[Siemens SINEMA Remote Connect Server code execution (CVE-2022-32257)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -168,6 +154,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
 # CA-CCS
