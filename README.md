@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/03/2024 09:20:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/03/2024 10:17:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,55 +46,6 @@
  |[USN-6693-1: .NET vulnerability](https://www.linux.org/threads/usn-6693-1-net-vulnerability.49047/)|Visit link for details.|Mar 12, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0225/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 mars 2024|
- |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mitel - CVE-2024-28815](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-28815-2024-03-15)|Visit link for details.|15/03/2024|
- |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|15/03/2024|
- |[Apache Derby / Juniper - CVE-2022-46337](https://www.cyberveille-sante.gouv.fr/alertes/apache-derby-juniper-cve-2022-46337-2024-03-15)|Visit link for details.|15/03/2024|
- |[Google Chrome - CVE-2024-2400](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2400-2024-03-15)|Visit link for details.|15/03/2024|
- |[Arcserve - CVE-2024-0800](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0800-2024-03-15)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2023-34991](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34991-2023-11-16)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2023-48782](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48782-2023-12-15)|Visit link for details.|15/03/2024|
- |[Fortra - CVE-2024-25153](https://www.cyberveille-sante.gouv.fr/alertes/fortra-cve-2024-25153-2024-03-14)|Visit link for details.|14/03/2024|
- |[PaperCut - CVE-2024-1222](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2024-1222-2024-03-14)|Visit link for details.|14/03/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290" class="noirorange"><b>OpenSSL</b>: overload via Invalid RSA Public Keys</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290)|An attacker can trigger an overload of OpenSSL, via Invalid RSA Public Keys, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Private-Content-information-disclosure-43672" class="noirorange"><b>Drupal Private Content</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Private-Content-information-disclosure-43672)|An attacker can bypass access restrictions to data of Drupal Private Content, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Locked-Out-Users-43656" class="noirorange"><b>Keycloak</b>: denial of service via Locked Out Users</a>](https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Locked-Out-Users-43656)|An attacker can cause a fatal error of Keycloak, via Locked Out Users, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-btrfs-get-root-ref-43654" class="noirorange"><b>Linux kernel</b>: assertion error via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-btrfs-get-root-ref-43654)|An attacker can force an assertion error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472" class="noirorange"><b>SAP</b>: multiple vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458" class="noirorange"><b>Fortinet FortiOS</b>: NULL pointer dereference via SSL-VPN Daemon</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458)|An attacker can force a NULL pointer to be dereferenced on Fortinet FortiOS, via SSL-VPN Daemon, in order to trigger a denial of service...|Visit link for details|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -109,6 +60,22 @@
  |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
  |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
  |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0225/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 mars 2024|
+ |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
  
 
 # HK-CERT
@@ -139,6 +106,39 @@
  |[IBM Secure Proxy information disclosure (CVE-2023-46181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290" class="noirorange"><b>OpenSSL</b>: overload via Invalid RSA Public Keys</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290)|An attacker can trigger an overload of OpenSSL, via Invalid RSA Public Keys, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Private-Content-information-disclosure-43672" class="noirorange"><b>Drupal Private Content</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Private-Content-information-disclosure-43672)|An attacker can bypass access restrictions to data of Drupal Private Content, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Locked-Out-Users-43656" class="noirorange"><b>Keycloak</b>: denial of service via Locked Out Users</a>](https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Locked-Out-Users-43656)|An attacker can cause a fatal error of Keycloak, via Locked Out Users, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-btrfs-get-root-ref-43654" class="noirorange"><b>Linux kernel</b>: assertion error via btrfs_get_root_ref()</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-btrfs-get-root-ref-43654)|An attacker can force an assertion error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-June-2023-41485)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-June-2023-41484)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-June-2023-41483)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-41480)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472" class="noirorange"><b>SAP</b>: multiple vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-June-2023-41472)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458" class="noirorange"><b>Fortinet FortiOS</b>: NULL pointer dereference via SSL-VPN Daemon</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458)|An attacker can force a NULL pointer to be dereferenced on Fortinet FortiOS, via SSL-VPN Daemon, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitel - CVE-2024-28815](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-28815-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Apache Derby / Juniper - CVE-2022-46337](https://www.cyberveille-sante.gouv.fr/alertes/apache-derby-juniper-cve-2022-46337-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Google Chrome - CVE-2024-2400](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2400-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Arcserve - CVE-2024-0800](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0800-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|15/03/2024|
+ |[Fortinet - CVE-2023-34991](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34991-2023-11-16)|Visit link for details.|15/03/2024|
+ |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|15/03/2024|
+ |[Fortinet - CVE-2023-48782](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48782-2023-12-15)|Visit link for details.|15/03/2024|
+ |[Fortra - CVE-2024-25153](https://www.cyberveille-sante.gouv.fr/alertes/fortra-cve-2024-25153-2024-03-14)|Visit link for details.|14/03/2024|
+ |[PaperCut - CVE-2024-1222](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2024-1222-2024-03-14)|Visit link for details.|14/03/2024|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -151,23 +151,6 @@
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
  |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46581503/24 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter…| 15 mars 2024|
- |[ 46571503/24 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-1)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 15 mars 2024|
- |[ 465411403/24 - Vulnérabilité affectant Citrix SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-citrix-sd-wan)| Citrix annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données         …| 14 mars 2024|
- |[ 465311403/24 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-1)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 14 mars 2024|
- |[ 46561403/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-3)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 14 mars 2024|
- |[ 46551403/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-3)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 14 mars 2024|
- |[ 46521303/24 - Vulnérabilités critiques dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-siemens)| Plusieurs vulnérabilités critiques ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance,…| 13 mars 2024|
- |[ 46511303/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-5)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 mars 2024|
- |[ 46501303/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-11)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 mars 2024|
- |[ 46491303/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 13 mars 2024|
- |[ 46481303/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 13 mars 2024|
  
 
 # EU-CERT
@@ -185,6 +168,23 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46581503/24 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter…| 15 mars 2024|
+ |[ 46571503/24 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-1)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 15 mars 2024|
+ |[ 465411403/24 - Vulnérabilité affectant Citrix SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-citrix-sd-wan)| Citrix annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données         …| 14 mars 2024|
+ |[ 465311403/24 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-1)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 14 mars 2024|
+ |[ 46561403/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-3)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 14 mars 2024|
+ |[ 46551403/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-3)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 14 mars 2024|
+ |[ 46521303/24 - Vulnérabilités critiques dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-siemens)| Plusieurs vulnérabilités critiques ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance,…| 13 mars 2024|
+ |[ 46511303/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-5)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 mars 2024|
+ |[ 46501303/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-11)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 mars 2024|
+ |[ 46491303/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 13 mars 2024|
+ |[ 46481303/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 13 mars 2024|
  
 
 # CA-CCS
