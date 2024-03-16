@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/03/2024 01:16:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/03/2024 02:13:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,16 +66,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0225/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 mars 2024|
  |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
  |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
  |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0218/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0217/)|De multiples vulnérabilités ont été découvertes dans SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0216/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 13 mars 2024|
- |[Multiples vulnérabilités dans les produits Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 mars 2024|
- |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0213/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
  
 
 # CERT-SANTE
@@ -95,17 +95,19 @@
  |[PaperCut - CVE-2024-1222](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2024-1222-2024-03-14)|Visit link for details.|14/03/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[LinkedIn Greykite file upload (CVE-2024-28425)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[Softing edgeAggregator and Softing edgeConnector information disclosure (CVE-2024-0860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[IBM Secure Proxy cross-site scripting (CVE-2023-47699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[IBM Secure Proxy cross-site scripting (CVE-2023-47162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[IBM Secure Proxy file manipulation (CVE-2023-47147)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[IBM Secure Proxy cross-site scripting (CVE-2023-46182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[IBM Secure Proxy information disclosure (CVE-2023-46181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240314)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 14 Mar 2024 |
+ |[Adobe Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB24-05Adobe...|Release Date: 13 Mar 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 13 Mar 2024 |
+ |[Microsoft Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-march-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSystem Center Medium RiskSecurity Restriction BypassElevation of PrivilegeRemote Code Execution Developer Tools Medium RiskDenial of ServiceElevation of...|Release Date: 13 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240311)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 11 Mar 2024 |
  
 
 # OBS-Vigilance
@@ -124,19 +126,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291" class="noirorange"><b>Linux kernel</b>: use after free via wb_inode_writeback_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
 
-# HK-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240314)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 14 Mar 2024 |
- |[Adobe Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB24-05Adobe...|Release Date: 13 Mar 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 13 Mar 2024 |
- |[Microsoft Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-march-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSystem Center Medium RiskSecurity Restriction BypassElevation of PrivilegeRemote Code Execution Developer Tools Medium RiskDenial of ServiceElevation of...|Release Date: 13 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240311)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 11 Mar 2024 |
+ |[LinkedIn Greykite file upload (CVE-2024-28425)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[Softing edgeAggregator and Softing edgeConnector information disclosure (CVE-2024-0860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[IBM Secure Proxy cross-site scripting (CVE-2023-47699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[IBM Secure Proxy cross-site scripting (CVE-2023-47162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[IBM Secure Proxy file manipulation (CVE-2023-47147)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[IBM Secure Proxy cross-site scripting (CVE-2023-46182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[IBM Secure Proxy information disclosure (CVE-2023-46181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
  
 
 # ZERODAYINITIATIVE
@@ -170,23 +170,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46581503/24 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter…| 15 mars 2024|
- |[ 46571503/24 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-1)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 15 mars 2024|
- |[ 465411403/24 - Vulnérabilité affectant Citrix SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-citrix-sd-wan)| Citrix annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données         …| 14 mars 2024|
- |[ 465311403/24 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-1)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 14 mars 2024|
- |[ 46561403/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-3)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 14 mars 2024|
- |[ 46551403/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-3)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 14 mars 2024|
- |[ 46521303/24 - Vulnérabilités critiques dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-siemens)| Plusieurs vulnérabilités critiques ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance,…| 13 mars 2024|
- |[ 46511303/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-5)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 mars 2024|
- |[ 46501303/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-11)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 mars 2024|
- |[ 46491303/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 13 mars 2024|
- |[ 46481303/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 13 mars 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -202,4 +185,21 @@
  |[[Control systems] Siemens security advisory (AV24-137)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-137)|Visit link for details|2024-03-12|
  |[SAP security advisory – March 2024 monthly rollup (AV24-136)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-march-2024-monthly-rollup-av24-136)|Visit link for details|2024-03-12|
  |[[Control systems] Schneider Electric security advisory (AV24-135)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-135)|Visit link for details|2024-03-12|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46581503/24 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter…| 15 mars 2024|
+ |[ 46571503/24 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-1)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 15 mars 2024|
+ |[ 465411403/24 - Vulnérabilité affectant Citrix SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-citrix-sd-wan)| Citrix annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données         …| 14 mars 2024|
+ |[ 465311403/24 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-1)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 14 mars 2024|
+ |[ 46561403/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-3)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 14 mars 2024|
+ |[ 46551403/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-3)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 14 mars 2024|
+ |[ 46521303/24 - Vulnérabilités critiques dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-siemens)| Plusieurs vulnérabilités critiques ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance,…| 13 mars 2024|
+ |[ 46511303/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-5)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 mars 2024|
+ |[ 46501303/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-11)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 mars 2024|
+ |[ 46491303/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 13 mars 2024|
+ |[ 46481303/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité…| 13 mars 2024|
  
