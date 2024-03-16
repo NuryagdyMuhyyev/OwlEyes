@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/03/2024 20:14:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/03/2024 21:18:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[CISA and NSA Release Cybersecurity Information Sheets on Cloud Security Best Practices](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-and-nsa-release-cybersecurity-information-sheets-cloud-security-best-practices)|Visit link for details.|Mar 07, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0218/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0217/)|De multiples vulnérabilités ont été découvertes dans SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0216/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 mars 2024|
+ |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0213/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -79,22 +95,6 @@
  |[PaperCut - CVE-2024-1222](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2024-1222-2024-03-14)|Visit link for details.|14/03/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0225/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 mars 2024|
- |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -108,22 +108,6 @@
  |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240311)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 11 Mar 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299" class="noirorange"><b>Linux kernel</b>: use after free via IOU_PBUF_RING_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IOU_PBUF_RING_MMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298" class="noirorange"><b>xorg-server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298)|An attacker can use several vulnerabilities of xorg-server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: denial of service via Merged Cells</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297)|An attacker can cause a fatal error of Perl |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: code execution via Session Recording</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295)|An attacker can use a vulnerability of Citrix Virtual Apps and Desktops, via Session Recording, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via receive_encrypted_standard()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291" class="noirorange"><b>Linux kernel</b>: use after free via wb_inode_writeback_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gifsicle-overload-via-Gif-Realloc-43687" class="noirorange"><b>Gifsicle</b>: overload via Gif_Realloc()</a>](https://vigilance.fr/vulnerability/Gifsicle-overload-via-Gif-Realloc-43687)|An attacker can trigger an overload of Gifsicle, via Gif_Realloc(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gifsicle-denial-of-service-via-resize-stream-43686" class="noirorange"><b>Gifsicle</b>: denial of service via resize_stream()</a>](https://vigilance.fr/vulnerability/Gifsicle-denial-of-service-via-resize-stream-43686)|An attacker can cause a fatal error of Gifsicle, via resize_stream(), in order to trigger a denial of service...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -153,21 +137,20 @@
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
-# EU-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-100: High Severity Vulnerability in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-100/)|On December 20, 2023, Google released an advisory regarding a new high severity vulnerability in its web browser. Google is aware that an exploit for this vulnerability exists in the wild.|Friday, December 22, 2023 11:35:10 AM CET|
- |[2023-099: Critical Vulnerabilities in Ivanti Avalanche](https://cert.europa.eu/publications/security-advisories/2023-099/)|On December 20, 2023, Ivanti has released security updates to fix 13 critical security vulnerabilities in the company's Avalanche enterprise mobile device management (MDM) solution. These vulnerabilities, if exploited, could lead to Remote Code Execution or Denial of Service. The updates also cover 8 medium- and high-severity bugs that attackers could exploit in denial of service, remote code execution, and server-side request forgery (SSRF) attacks.|Thursday, December 21, 2023 10:38:41 AM CET|
- |[2023-098: SMTP Smuggling Vulnerability in CISCO Secure Email Gateway](https://cert.europa.eu/publications/security-advisories/2023-098/)|On December 18, 2023, researchers from SEC Consult released an article about an SMTP Smuggling vulnerability affecting products from several vendors such as Microsoft, GMX or Cisco. While the vulnerability was fixed in GMX and Microsoft products, it is considered as a feature in Cisco Secure Email Gateway and Cisco Secure Email Cloud Gateway, and thus, it was not fixed.|Tuesday, December 19, 2023 03:35:45 PM CET|
- |[2023-097: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2023-097/)|On December 12, 2023, Microsoft released the December 2023 Patch Tuesday which includes security updates for a total of 35 flaws. Among the vulnerabilities, four were rated as critical.|Tuesday, December 19, 2023 02:50:21 PM CET|
- |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
- |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
- |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
- |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
- |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
- |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
- |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299" class="noirorange"><b>Linux kernel</b>: use after free via IOU_PBUF_RING_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IOU_PBUF_RING_MMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298" class="noirorange"><b>xorg-server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298)|An attacker can use several vulnerabilities of xorg-server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: denial of service via Merged Cells</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297)|An attacker can cause a fatal error of Perl |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: code execution via Session Recording</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295)|An attacker can use a vulnerability of Citrix Virtual Apps and Desktops, via Session Recording, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via receive_encrypted_standard()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291" class="noirorange"><b>Linux kernel</b>: use after free via wb_inode_writeback_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gifsicle-overload-via-Gif-Realloc-43687" class="noirorange"><b>Gifsicle</b>: overload via Gif_Realloc()</a>](https://vigilance.fr/vulnerability/Gifsicle-overload-via-Gif-Realloc-43687)|An attacker can trigger an overload of Gifsicle, via Gif_Realloc(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gifsicle-denial-of-service-via-resize-stream-43686" class="noirorange"><b>Gifsicle</b>: denial of service via resize_stream()</a>](https://vigilance.fr/vulnerability/Gifsicle-denial-of-service-via-resize-stream-43686)|An attacker can cause a fatal error of Gifsicle, via resize_stream(), in order to trigger a denial of service...|Visit link for details|
  
 
 # CA-CCS
@@ -185,6 +168,23 @@
  |[[Control systems] Siemens security advisory (AV24-137)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-137)|Visit link for details|2024-03-12|
  |[SAP security advisory – March 2024 monthly rollup (AV24-136)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-march-2024-monthly-rollup-av24-136)|Visit link for details|2024-03-12|
  |[[Control systems] Schneider Electric security advisory (AV24-135)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-135)|Visit link for details|2024-03-12|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-100: High Severity Vulnerability in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-100/)|On December 20, 2023, Google released an advisory regarding a new high severity vulnerability in its web browser. Google is aware that an exploit for this vulnerability exists in the wild.|Friday, December 22, 2023 11:35:10 AM CET|
+ |[2023-099: Critical Vulnerabilities in Ivanti Avalanche](https://cert.europa.eu/publications/security-advisories/2023-099/)|On December 20, 2023, Ivanti has released security updates to fix 13 critical security vulnerabilities in the company's Avalanche enterprise mobile device management (MDM) solution. These vulnerabilities, if exploited, could lead to Remote Code Execution or Denial of Service. The updates also cover 8 medium- and high-severity bugs that attackers could exploit in denial of service, remote code execution, and server-side request forgery (SSRF) attacks.|Thursday, December 21, 2023 10:38:41 AM CET|
+ |[2023-098: SMTP Smuggling Vulnerability in CISCO Secure Email Gateway](https://cert.europa.eu/publications/security-advisories/2023-098/)|On December 18, 2023, researchers from SEC Consult released an article about an SMTP Smuggling vulnerability affecting products from several vendors such as Microsoft, GMX or Cisco. While the vulnerability was fixed in GMX and Microsoft products, it is considered as a feature in Cisco Secure Email Gateway and Cisco Secure Email Cloud Gateway, and thus, it was not fixed.|Tuesday, December 19, 2023 03:35:45 PM CET|
+ |[2023-097: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2023-097/)|On December 12, 2023, Microsoft released the December 2023 Patch Tuesday which includes security updates for a total of 35 flaws. Among the vulnerabilities, four were rated as critical.|Tuesday, December 19, 2023 02:50:21 PM CET|
+ |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
+ |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
+ |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
+ |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
+ |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
+ |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
+ |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
 # MA-CERT
