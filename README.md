@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/03/2024 22:14:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/03/2024 23:21:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,38 +62,6 @@
  |[USN-6693-1: .NET vulnerability](https://www.linux.org/threads/usn-6693-1-net-vulnerability.49047/)|Visit link for details.|Mar 12, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0225/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 mars 2024|
- |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
- |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301" class="noirorange"><b>SQLite</b>: use after free via jsonParseAddNodeArray()</a>](https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301)|An attacker can force the reuse of a freed memory area of SQLite, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299" class="noirorange"><b>Linux kernel</b>: use after free via IOU_PBUF_RING_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IOU_PBUF_RING_MMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298" class="noirorange"><b>xorg-server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298)|An attacker can use several vulnerabilities of xorg-server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: denial of service via Merged Cells</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297)|An attacker can cause a fatal error of Perl |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: code execution via Session Recording</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295)|An attacker can use a vulnerability of Citrix Virtual Apps and Desktops, via Session Recording, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via receive_encrypted_standard()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291" class="noirorange"><b>Linux kernel</b>: use after free via wb_inode_writeback_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gifsicle-overload-via-Gif-Realloc-43687" class="noirorange"><b>Gifsicle</b>: overload via Gif_Realloc()</a>](https://vigilance.fr/vulnerability/Gifsicle-overload-via-Gif-Realloc-43687)|An attacker can trigger an overload of Gifsicle, via Gif_Realloc(), in order to trigger a denial of service...|Visit link for details|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,17 +79,20 @@
  |[PaperCut - CVE-2024-1222](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2024-1222-2024-03-14)|Visit link for details.|14/03/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[LinkedIn Greykite file upload (CVE-2024-28425)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[Softing edgeAggregator and Softing edgeConnector information disclosure (CVE-2024-0860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[IBM Secure Proxy cross-site scripting (CVE-2023-47699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[IBM Secure Proxy cross-site scripting (CVE-2023-47162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[IBM Secure Proxy file manipulation (CVE-2023-47147)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[IBM Secure Proxy cross-site scripting (CVE-2023-46182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[IBM Secure Proxy information disclosure (CVE-2023-46181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0225/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 mars 2024|
+ |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
  
 
 # HK-CERT
@@ -137,6 +108,35 @@
  |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240311)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and cross-site scripting on the targeted system.|Release Date: 11 Mar 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[LinkedIn Greykite file upload (CVE-2024-28425)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[Softing edgeAggregator and Softing edgeConnector information disclosure (CVE-2024-0860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[IBM Secure Proxy cross-site scripting (CVE-2023-47699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[IBM Secure Proxy cross-site scripting (CVE-2023-47162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[IBM Secure Proxy file manipulation (CVE-2023-47147)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[IBM Secure Proxy cross-site scripting (CVE-2023-46182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[IBM Secure Proxy information disclosure (CVE-2023-46181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301" class="noirorange"><b>SQLite</b>: use after free via jsonParseAddNodeArray()</a>](https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301)|An attacker can force the reuse of a freed memory area of SQLite, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299" class="noirorange"><b>Linux kernel</b>: use after free via IOU_PBUF_RING_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IOU_PBUF_RING_MMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298" class="noirorange"><b>xorg-server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298)|An attacker can use several vulnerabilities of xorg-server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: denial of service via Merged Cells</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297)|An attacker can cause a fatal error of Perl |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: code execution via Session Recording</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295)|An attacker can use a vulnerability of Citrix Virtual Apps and Desktops, via Session Recording, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSL-VPN Service</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSL-VPN-Service-41521)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSL-VPN Service, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520" class="noirorange"><b>Stormshield Network Security</b>: ingress filtrering bypass via DHCP Any Filter Policy</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-ingress-filtrering-bypass-via-DHCP-Any-Filter-Policy-41520)|An attacker can bypass filtering rules of Stormshield Network Security, via DHCP Any Filter Policy, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via receive_encrypted_standard()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291" class="noirorange"><b>Linux kernel</b>: use after free via wb_inode_writeback_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
 
 # EU-CERT
