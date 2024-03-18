@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/03/2024 23:20:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/03/2024 00:13:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6697-1: Bash vulnerability](https://www.linux.org/threads/usn-6697-1-bash-vulnerability.49125/)|Visit link for details.|Mar 18, 2024|
- |[USN-6696-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6696-1-openjdk-8-vulnerabilities.49114/)|Visit link for details.|Mar 18, 2024|
- |[DSA-5632-1 composer - security update](https://www.linux.org/threads/dsa-5632-1-composer-security-update.49085/)|Visit link for details.|Mar 15, 2024|
- |[DSA-5640-1 openvswitch - security update](https://www.linux.org/threads/dsa-5640-1-openvswitch-security-update.49080/)|Visit link for details.|Mar 14, 2024|
- |[USN-6695-1: TeX Live vulnerabilities](https://www.linux.org/threads/usn-6695-1-tex-live-vulnerabilities.49077/)|Visit link for details.|Mar 14, 2024|
- |[USN-6694-1: Expat vulnerabilities](https://www.linux.org/threads/usn-6694-1-expat-vulnerabilities.49076/)|Visit link for details.|Mar 14, 2024|
- |[USN-6673-2: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-2-python-cryptography-vulnerability.49070/)|Visit link for details.|Mar 14, 2024|
- |[USN-6587-5: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-5-x-org-x-server-vulnerabilities.49059/)|Visit link for details.|Mar 13, 2024|
- |[DSA-5639-1 chromium - security update](https://www.linux.org/threads/dsa-5639-1-chromium-security-update.49058/)|Visit link for details.|Mar 13, 2024|
- |[USN-6686-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-2-linux-kernel-vulnerabilities.49057/)|Visit link for details.|Mar 13, 2024|
- |[USN-6681-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-3-linux-kernel-vulnerabilities.49056/)|Visit link for details.|Mar 13, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,28 +45,10 @@
  |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304" class="noirorange"><b>Oracle Database</b>: write access via Java VM</a>](https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304)|An attacker can bypass access restrictions of Oracle Database, via Java VM, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Kaspersky Password Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0230/)|Une vulnérabilité a été découverte dans Kaspersky Password Manager. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 mars 2024|
- |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0229/)|Une vulnérabilité a été découverte dans Tenable Nessus. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 18 mars 2024|
  |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
@@ -92,6 +57,25 @@
  |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 mars 2024|
  |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6697-1: Bash vulnerability](https://www.linux.org/threads/usn-6697-1-bash-vulnerability.49125/)|Visit link for details.|Mar 18, 2024|
+ |[USN-6696-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6696-1-openjdk-8-vulnerabilities.49114/)|Visit link for details.|Mar 18, 2024|
+ |[DSA-5632-1 composer - security update](https://www.linux.org/threads/dsa-5632-1-composer-security-update.49085/)|Visit link for details.|Mar 15, 2024|
+ |[DSA-5640-1 openvswitch - security update](https://www.linux.org/threads/dsa-5640-1-openvswitch-security-update.49080/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6695-1: TeX Live vulnerabilities](https://www.linux.org/threads/usn-6695-1-tex-live-vulnerabilities.49077/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6694-1: Expat vulnerabilities](https://www.linux.org/threads/usn-6694-1-expat-vulnerabilities.49076/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6673-2: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-2-python-cryptography-vulnerability.49070/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6587-5: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-5-x-org-x-server-vulnerabilities.49059/)|Visit link for details.|Mar 13, 2024|
+ |[DSA-5639-1 chromium - security update](https://www.linux.org/threads/dsa-5639-1-chromium-security-update.49058/)|Visit link for details.|Mar 13, 2024|
+ |[USN-6686-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-2-linux-kernel-vulnerabilities.49057/)|Visit link for details.|Mar 13, 2024|
+ |[USN-6681-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-3-linux-kernel-vulnerabilities.49056/)|Visit link for details.|Mar 13, 2024|
  
 
 # CERT-SANTE
@@ -139,6 +123,36 @@
  |[TRENDnet TEW-827DRU router command execution (CVE-2024-28353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304" class="noirorange"><b>Oracle Database</b>: write access via Java VM</a>](https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304)|An attacker can bypass access restrictions of Oracle Database, via Java VM, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -156,37 +170,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46601803/24 - Vulnérabilité critique affectant les plugins «Malware Scanner» et « Web… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-plugins-malware-scanner-et-web-application-firewall)| Une vulnérabilité critique a été découverte au niveau des plugins «Malware Scanner» et « Web Application Firewall » pour WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 18 mars 2024|
- |[ 46591803/24 - Vulnérabilités dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-secure-analytics)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Juniper Secure Analytics. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 18 mars 2024|
- |[ 46581503/24 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter…| 15 mars 2024|
- |[ 46571503/24 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-1)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 15 mars 2024|
- |[ 465411403/24 - Vulnérabilité affectant Citrix SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-citrix-sd-wan)| Citrix annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données         …| 14 mars 2024|
- |[ 465311403/24 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-1)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 14 mars 2024|
- |[ 46561403/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-3)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 14 mars 2024|
- |[ 46551403/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-3)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 14 mars 2024|
- |[ 46521303/24 - Vulnérabilités critiques dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-siemens)| Plusieurs vulnérabilités critiques ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance,…| 13 mars 2024|
- |[ 46511303/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-5)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 mars 2024|
- |[ 46501303/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-11)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 mars 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -202,4 +185,21 @@
  |[Mitel security advisory (AV24-142)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-142)|Visit link for details|2024-03-13|
  |[Google Chrome security advisory (AV24-141)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-141)|Visit link for details|2024-03-13|
  |[Microsoft security advisory – March 2024 monthly rollup (AV24-140)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2024-monthly-rollup-av24-140)|Visit link for details|2024-03-12|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46601803/24 - Vulnérabilité critique affectant les plugins «Malware Scanner» et « Web… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-plugins-malware-scanner-et-web-application-firewall)| Une vulnérabilité critique a été découverte au niveau des plugins «Malware Scanner» et « Web Application Firewall » pour WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 18 mars 2024|
+ |[ 46591803/24 - Vulnérabilités dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-secure-analytics)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Juniper Secure Analytics. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 18 mars 2024|
+ |[ 46581503/24 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter…| 15 mars 2024|
+ |[ 46571503/24 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-1)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 15 mars 2024|
+ |[ 465411403/24 - Vulnérabilité affectant Citrix SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-citrix-sd-wan)| Citrix annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données         …| 14 mars 2024|
+ |[ 465311403/24 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-1)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 14 mars 2024|
+ |[ 46561403/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-3)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 14 mars 2024|
+ |[ 46551403/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-3)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 14 mars 2024|
+ |[ 46521303/24 - Vulnérabilités critiques dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-siemens)| Plusieurs vulnérabilités critiques ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance,…| 13 mars 2024|
+ |[ 46511303/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-5)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 mars 2024|
+ |[ 46501303/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-11)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 mars 2024|
  
