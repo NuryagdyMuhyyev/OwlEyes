@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/03/2024 21:21:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/03/2024 22:16:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,22 +46,6 @@
  |[USN-6663-2: OpenSSL update](https://www.linux.org/threads/usn-6663-2-openssl-update.49052/)|Visit link for details.|Mar 13, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
- |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 12, 2024|
- |[CISA Publishes SCuBA Hybrid Identity Solutions Guidance](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance)|Visit link for details.|Mar 12, 2024|
- |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
- |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -82,17 +66,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Spring - CVE-2024-22259](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22259-2024-03-18)|Visit link for details.|18/03/2024|
+ |[Microsoft - CVE-2024-26165](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26165-2024-03-18)|Visit link for details.|18/03/2024|
+ |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|18/03/2024|
+ |[IBM - CVE-2024-22346](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-22346-2024-03-18)|Visit link for details.|18/03/2024|
  |[Adobe - CVE-2024-20765](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-20765-2024-03-18)|Visit link for details.|18/03/2024|
  |[Apache ZooKeeper / Juniper - CVE-2023-44981](https://www.cyberveille-sante.gouv.fr/alertes/apache-zookeeper-juniper-cve-2023-44981-2024-02-29)|Visit link for details.|18/03/2024|
  |[Spring - CVE-2023-34034](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2023-34034-2023-07-21)|Visit link for details.|18/03/2024|
+ |[Spring - CVE-2024-22243](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22243-2024-02-23)|Visit link for details.|18/03/2024|
  |[Mitel - CVE-2024-28815](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-28815-2024-03-15)|Visit link for details.|15/03/2024|
  |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|15/03/2024|
  |[Apache Derby / Juniper - CVE-2022-46337](https://www.cyberveille-sante.gouv.fr/alertes/apache-derby-juniper-cve-2022-46337-2024-03-15)|Visit link for details.|15/03/2024|
- |[Google Chrome - CVE-2024-2400](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2400-2024-03-15)|Visit link for details.|15/03/2024|
- |[Arcserve - CVE-2024-0800](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0800-2024-03-15)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2023-34991](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34991-2023-11-16)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|15/03/2024|
  
 
 # HK-CERT
@@ -110,17 +94,20 @@
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenMetadata code execution (CVE-2024-28848)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata code execution (CVE-2024-28847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata security bypass (CVE-2024-28255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata code execution (CVE-2024-28254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata code execution (CVE-2024-28253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[TRENDnet TEW-827DRU router command execution (CVE-2024-28354)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[TRENDnet TEW-827DRU router command execution (CVE-2024-28353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
+ |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 12, 2024|
+ |[CISA Publishes SCuBA Hybrid Identity Solutions Guidance](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance)|Visit link for details.|Mar 12, 2024|
+ |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
+ |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
  
 
 # OBS-Vigilance
@@ -137,6 +124,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304" class="noirorange"><b>Oracle Database</b>: write access via Java VM</a>](https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304)|An attacker can bypass access restrictions of Oracle Database, via Java VM, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302" class="noirorange"><b>Zabbix</b>: buffer overflow via DNS Responses RDLENGTH</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302)|An attacker can trigger a buffer overflow of Zabbix, via DNS Responses RDLENGTH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenMetadata code execution (CVE-2024-28848)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata code execution (CVE-2024-28847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata security bypass (CVE-2024-28255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata code execution (CVE-2024-28254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata code execution (CVE-2024-28253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[TRENDnet TEW-827DRU router command execution (CVE-2024-28354)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[TRENDnet TEW-827DRU router command execution (CVE-2024-28353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
  
 
 # ZERODAYINITIATIVE
