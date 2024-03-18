@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/03/2024 00:13:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/03/2024 01:18:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6697-1: Bash vulnerability](https://www.linux.org/threads/usn-6697-1-bash-vulnerability.49125/)|Visit link for details.|Mar 18, 2024|
+ |[USN-6696-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6696-1-openjdk-8-vulnerabilities.49114/)|Visit link for details.|Mar 18, 2024|
+ |[DSA-5632-1 composer - security update](https://www.linux.org/threads/dsa-5632-1-composer-security-update.49085/)|Visit link for details.|Mar 15, 2024|
+ |[DSA-5640-1 openvswitch - security update](https://www.linux.org/threads/dsa-5640-1-openvswitch-security-update.49080/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6695-1: TeX Live vulnerabilities](https://www.linux.org/threads/usn-6695-1-tex-live-vulnerabilities.49077/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6694-1: Expat vulnerabilities](https://www.linux.org/threads/usn-6694-1-expat-vulnerabilities.49076/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6673-2: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-2-python-cryptography-vulnerability.49070/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6587-5: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-5-x-org-x-server-vulnerabilities.49059/)|Visit link for details.|Mar 13, 2024|
+ |[DSA-5639-1 chromium - security update](https://www.linux.org/threads/dsa-5639-1-chromium-security-update.49058/)|Visit link for details.|Mar 13, 2024|
+ |[USN-6686-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-2-linux-kernel-vulnerabilities.49057/)|Visit link for details.|Mar 13, 2024|
+ |[USN-6681-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-3-linux-kernel-vulnerabilities.49056/)|Visit link for details.|Mar 13, 2024|
+ 
 
 # US-CERT
 
@@ -61,21 +78,48 @@
  |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
  
 
-# LINUX-SEC
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6697-1: Bash vulnerability](https://www.linux.org/threads/usn-6697-1-bash-vulnerability.49125/)|Visit link for details.|Mar 18, 2024|
- |[USN-6696-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6696-1-openjdk-8-vulnerabilities.49114/)|Visit link for details.|Mar 18, 2024|
- |[DSA-5632-1 composer - security update](https://www.linux.org/threads/dsa-5632-1-composer-security-update.49085/)|Visit link for details.|Mar 15, 2024|
- |[DSA-5640-1 openvswitch - security update](https://www.linux.org/threads/dsa-5640-1-openvswitch-security-update.49080/)|Visit link for details.|Mar 14, 2024|
- |[USN-6695-1: TeX Live vulnerabilities](https://www.linux.org/threads/usn-6695-1-tex-live-vulnerabilities.49077/)|Visit link for details.|Mar 14, 2024|
- |[USN-6694-1: Expat vulnerabilities](https://www.linux.org/threads/usn-6694-1-expat-vulnerabilities.49076/)|Visit link for details.|Mar 14, 2024|
- |[USN-6673-2: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-2-python-cryptography-vulnerability.49070/)|Visit link for details.|Mar 14, 2024|
- |[USN-6587-5: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-5-x-org-x-server-vulnerabilities.49059/)|Visit link for details.|Mar 13, 2024|
- |[DSA-5639-1 chromium - security update](https://www.linux.org/threads/dsa-5639-1-chromium-security-update.49058/)|Visit link for details.|Mar 13, 2024|
- |[USN-6686-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-2-linux-kernel-vulnerabilities.49057/)|Visit link for details.|Mar 13, 2024|
- |[USN-6681-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-3-linux-kernel-vulnerabilities.49056/)|Visit link for details.|Mar 13, 2024|
+ |[OpenMetadata code execution (CVE-2024-28848)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata code execution (CVE-2024-28847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata security bypass (CVE-2024-28255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata code execution (CVE-2024-28254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata code execution (CVE-2024-28253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[TRENDnet TEW-827DRU router command execution (CVE-2024-28354)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[TRENDnet TEW-827DRU router command execution (CVE-2024-28353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304" class="noirorange"><b>Oracle Database</b>: write access via Java VM</a>](https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304)|An attacker can bypass access restrictions of Oracle Database, via Java VM, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system|Release Date: 18 Mar 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240314)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 14 Mar 2024 |
+ |[Adobe Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB24-05Adobe...|Release Date: 13 Mar 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 13 Mar 2024 |
+ |[Microsoft Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-march-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSystem Center Medium RiskSecurity Restriction BypassElevation of PrivilegeRemote Code Execution Developer Tools Medium RiskDenial of ServiceElevation of...|Release Date: 13 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  
 
 # CERT-SANTE
@@ -95,34 +139,6 @@
  |[Apache Derby / Juniper - CVE-2022-46337](https://www.cyberveille-sante.gouv.fr/alertes/apache-derby-juniper-cve-2022-46337-2024-03-15)|Visit link for details.|15/03/2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system|Release Date: 18 Mar 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240314)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 14 Mar 2024 |
- |[Adobe Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB24-05Adobe...|Release Date: 13 Mar 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 13 Mar 2024 |
- |[Microsoft Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-march-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSystem Center Medium RiskSecurity Restriction BypassElevation of PrivilegeRemote Code Execution Developer Tools Medium RiskDenial of ServiceElevation of...|Release Date: 13 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[OpenMetadata code execution (CVE-2024-28848)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata code execution (CVE-2024-28847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata security bypass (CVE-2024-28255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata code execution (CVE-2024-28254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata code execution (CVE-2024-28253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[TRENDnet TEW-827DRU router command execution (CVE-2024-28354)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[TRENDnet TEW-827DRU router command execution (CVE-2024-28353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -135,22 +151,6 @@
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
  |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl Spreadsheet-ParseXLSX</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304" class="noirorange"><b>Oracle Database</b>: write access via Java VM</a>](https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304)|An attacker can bypass access restrictions of Oracle Database, via Java VM, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
  
 
 # EU-CERT
@@ -170,23 +170,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] CISA ICS security advisories (AV24-150)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-150)|Visit link for details|2024-03-18|
- |[Red Hat security advisory (AV24-149)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-149)|Visit link for details|2024-03-18|
- |[IBM security advisory (AV24-148)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-148)|Visit link for details|2024-03-18|
- |[Ubuntu security advisory (AV24-147)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-147)|Visit link for details|2024-03-18|
- |[Dell security advisory (AV24-146)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-146)|Visit link for details|2024-03-18|
- |[Microsoft Edge security advisory (AV24-145)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-145)|Visit link for details|2024-03-15|
- |[HPE security advisory (AV24-144)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-144)|Visit link for details|2024-03-15|
- |[Cisco security advisory (AV24-143)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-143)|Visit link for details|2024-03-13|
- |[Mitel security advisory (AV24-142)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-142)|Visit link for details|2024-03-13|
- |[Google Chrome security advisory (AV24-141)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-141)|Visit link for details|2024-03-13|
- |[Microsoft security advisory – March 2024 monthly rollup (AV24-140)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2024-monthly-rollup-av24-140)|Visit link for details|2024-03-12|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -202,4 +185,21 @@
  |[ 46521303/24 - Vulnérabilités critiques dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-siemens)| Plusieurs vulnérabilités critiques ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance,…| 13 mars 2024|
  |[ 46511303/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-5)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 mars 2024|
  |[ 46501303/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-11)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 13 mars 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] CISA ICS security advisories (AV24-150)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-150)|Visit link for details|2024-03-18|
+ |[Red Hat security advisory (AV24-149)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-149)|Visit link for details|2024-03-18|
+ |[IBM security advisory (AV24-148)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-148)|Visit link for details|2024-03-18|
+ |[Ubuntu security advisory (AV24-147)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-147)|Visit link for details|2024-03-18|
+ |[Dell security advisory (AV24-146)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-146)|Visit link for details|2024-03-18|
+ |[Microsoft Edge security advisory (AV24-145)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-145)|Visit link for details|2024-03-15|
+ |[HPE security advisory (AV24-144)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-144)|Visit link for details|2024-03-15|
+ |[Cisco security advisory (AV24-143)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-143)|Visit link for details|2024-03-13|
+ |[Mitel security advisory (AV24-142)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-142)|Visit link for details|2024-03-13|
+ |[Google Chrome security advisory (AV24-141)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-141)|Visit link for details|2024-03-13|
+ |[Microsoft security advisory – March 2024 monthly rollup (AV24-140)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2024-monthly-rollup-av24-140)|Visit link for details|2024-03-12|
  
