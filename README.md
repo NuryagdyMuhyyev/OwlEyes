@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/03/2024 10:17:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/03/2024 11:22:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6696-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6696-1-openjdk-8-vulnerabilities.49114/)|Visit link for details.|Mar 18, 2024|
  |[DSA-5632-1 composer - security update](https://www.linux.org/threads/dsa-5632-1-composer-security-update.49085/)|Visit link for details.|Mar 15, 2024|
  |[DSA-5640-1 openvswitch - security update](https://www.linux.org/threads/dsa-5640-1-openvswitch-security-update.49080/)|Visit link for details.|Mar 14, 2024|
  |[USN-6695-1: TeX Live vulnerabilities](https://www.linux.org/threads/usn-6695-1-tex-live-vulnerabilities.49077/)|Visit link for details.|Mar 14, 2024|
@@ -59,7 +60,6 @@
  |[USN-6686-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-2-linux-kernel-vulnerabilities.49057/)|Visit link for details.|Mar 13, 2024|
  |[USN-6681-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6681-3-linux-kernel-vulnerabilities.49056/)|Visit link for details.|Mar 13, 2024|
  |[USN-6663-2: OpenSSL update](https://www.linux.org/threads/usn-6663-2-openssl-update.49052/)|Visit link for details.|Mar 13, 2024|
- |[USN-6693-1: .NET vulnerability](https://www.linux.org/threads/usn-6693-1-net-vulnerability.49047/)|Visit link for details.|Mar 12, 2024|
  
 
 # CERT-FR
@@ -78,6 +78,36 @@
  |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenMetadata code execution (CVE-2024-28848)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata code execution (CVE-2024-28847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata security bypass (CVE-2024-28255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata code execution (CVE-2024-28254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[OpenMetadata code execution (CVE-2024-28253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[TRENDnet TEW-827DRU router command execution (CVE-2024-28354)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ |[TRENDnet TEW-827DRU router command execution (CVE-2024-28353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitel - CVE-2024-28815](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-28815-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Apache Derby / Juniper - CVE-2022-46337](https://www.cyberveille-sante.gouv.fr/alertes/apache-derby-juniper-cve-2022-46337-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Google Chrome - CVE-2024-2400](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2400-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Arcserve - CVE-2024-0800](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0800-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|15/03/2024|
+ |[Fortinet - CVE-2023-34991](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34991-2023-11-16)|Visit link for details.|15/03/2024|
+ |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|15/03/2024|
+ |[Fortinet - CVE-2023-48782](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48782-2023-12-15)|Visit link for details.|15/03/2024|
+ |[Fortra - CVE-2024-25153](https://www.cyberveille-sante.gouv.fr/alertes/fortra-cve-2024-25153-2024-03-14)|Visit link for details.|14/03/2024|
+ |[PaperCut - CVE-2024-1222](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2024-1222-2024-03-14)|Visit link for details.|14/03/2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -91,19 +121,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
  |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[OpenMetadata code execution (CVE-2024-28848)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata code execution (CVE-2024-28847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata security bypass (CVE-2024-28255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata code execution (CVE-2024-28254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[OpenMetadata code execution (CVE-2024-28253)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[TRENDnet TEW-827DRU router command execution (CVE-2024-28354)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
- |[TRENDnet TEW-827DRU router command execution (CVE-2024-28353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2024|
  
 
 # ZERODAYINITIATIVE
@@ -134,23 +151,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302" class="noirorange"><b>Zabbix</b>: buffer overflow via DNS Responses RDLENGTH</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302)|An attacker can trigger a buffer overflow of Zabbix, via DNS Responses RDLENGTH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41522)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301" class="noirorange"><b>SQLite</b>: use after free via jsonParseAddNodeArray()</a>](https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301)|An attacker can force the reuse of a freed memory area of SQLite, via |Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mitel - CVE-2024-28815](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-28815-2024-03-15)|Visit link for details.|15/03/2024|
- |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|15/03/2024|
- |[Apache Derby / Juniper - CVE-2022-46337](https://www.cyberveille-sante.gouv.fr/alertes/apache-derby-juniper-cve-2022-46337-2024-03-15)|Visit link for details.|15/03/2024|
- |[Google Chrome - CVE-2024-2400](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2400-2024-03-15)|Visit link for details.|15/03/2024|
- |[Arcserve - CVE-2024-0800](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0800-2024-03-15)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2024-21762](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-21762-2024-02-09)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2023-34991](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34991-2023-11-16)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2023-34993](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34993-2023-10-11)|Visit link for details.|15/03/2024|
- |[Fortinet - CVE-2023-48782](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48782-2023-12-15)|Visit link for details.|15/03/2024|
- |[Fortra - CVE-2024-25153](https://www.cyberveille-sante.gouv.fr/alertes/fortra-cve-2024-25153-2024-03-14)|Visit link for details.|14/03/2024|
- |[PaperCut - CVE-2024-1222](https://www.cyberveille-sante.gouv.fr/alertes/papercut-cve-2024-1222-2024-03-14)|Visit link for details.|14/03/2024|
  
 
 # EU-CERT
