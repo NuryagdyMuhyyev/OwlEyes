@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/03/2024 06:10:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/03/2024 07:21:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
- |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 12, 2024|
- |[CISA Publishes SCuBA Hybrid Identity Solutions Guidance](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance)|Visit link for details.|Mar 12, 2024|
- |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
- |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6587-5: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6587-5-x-org-x-server-vulnerabilities.49059/)|Visit link for details.|Mar 13, 2024|
  |[DSA-5639-1 chromium - security update](https://www.linux.org/threads/dsa-5639-1-chromium-security-update.49058/)|Visit link for details.|Mar 13, 2024|
  |[USN-6686-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6686-2-linux-kernel-vulnerabilities.49057/)|Visit link for details.|Mar 13, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
+ |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 12, 2024|
+ |[CISA Publishes SCuBA Hybrid Identity Solutions Guidance](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance)|Visit link for details.|Mar 12, 2024|
+ |[Apple Released Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/08/apple-released-security-updates-multiple-products)|Visit link for details.|Mar 08, 2024|
+ |[CISA Adds One Known Exploited JetBrains Vulnerability, CVE-2024-27198, to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/07/cisa-adds-one-known-exploited-jetbrains-vulnerability-cve-2024-27198-catalog)|Visit link for details.|Mar 07, 2024|
  
 
 # CERT-FR
@@ -82,15 +82,28 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and data manipulation on the targeted system|Release Date: 18 Mar 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240314)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 14 Mar 2024 |
  |[Adobe Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskCross-site ScriptingRemote Code ExecutionSecurity Restriction Bypass APSB24-05Adobe...|Release Date: 13 Mar 2024 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 13 Mar 2024 |
  |[Microsoft Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-march-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSystem Center Medium RiskSecurity Restriction BypassElevation of PrivilegeRemote Code Execution Developer Tools Medium RiskDenial of ServiceElevation of...|Release Date: 13 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[ChromeOS Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-security-restriction-bypass-vulnerabilities_20240312)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240312)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Mar 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[AMSS++ select_send_2.php Cross-Site Scripting (CVE-2024-2598)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ bookdetail_group.php Cross-Site Scripting (CVE-2024-2593)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ index.php Cross-Site Scripting (CVE-2024-2594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ bookdetail_khet_person.php Cross-Site Scripting (CVE-2024-2595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ select_send.php Cross-Site Scripting (CVE-2024-2596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ bookdetail_school_person.php Cross-Site Scripting (CVE-2024-2597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ index.php SQL injection (CVE-2024-2588)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
  
 
 # OBS-Vigilance
@@ -107,19 +120,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304" class="noirorange"><b>Oracle Database</b>: write access via Java VM</a>](https://vigilance.fr/vulnerability/Oracle-Database-write-access-via-Java-VM-43304)|An attacker can bypass access restrictions of Oracle Database, via Java VM, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[AMSS++ select_send_2.php Cross-Site Scripting (CVE-2024-2598)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ bookdetail_group.php Cross-Site Scripting (CVE-2024-2593)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ index.php Cross-Site Scripting (CVE-2024-2594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ bookdetail_khet_person.php Cross-Site Scripting (CVE-2024-2595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ select_send.php Cross-Site Scripting (CVE-2024-2596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ bookdetail_school_person.php Cross-Site Scripting (CVE-2024-2597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ index.php SQL injection (CVE-2024-2588)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
  
 
 # CERT-SANTE
@@ -153,23 +153,6 @@
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] CISA ICS security advisories (AV24-150)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-150)|Visit link for details|2024-03-18|
- |[Red Hat security advisory (AV24-149)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-149)|Visit link for details|2024-03-18|
- |[IBM security advisory (AV24-148)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-148)|Visit link for details|2024-03-18|
- |[Ubuntu security advisory (AV24-147)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-147)|Visit link for details|2024-03-18|
- |[Dell security advisory (AV24-146)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-146)|Visit link for details|2024-03-18|
- |[Microsoft Edge security advisory (AV24-145)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-145)|Visit link for details|2024-03-15|
- |[HPE security advisory (AV24-144)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-144)|Visit link for details|2024-03-15|
- |[Cisco security advisory (AV24-143)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-143)|Visit link for details|2024-03-13|
- |[Mitel security advisory (AV24-142)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-142)|Visit link for details|2024-03-13|
- |[Google Chrome security advisory (AV24-141)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-141)|Visit link for details|2024-03-13|
- |[Microsoft security advisory – March 2024 monthly rollup (AV24-140)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2024-monthly-rollup-av24-140)|Visit link for details|2024-03-12|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -185,6 +168,23 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] CISA ICS security advisories (AV24-150)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-150)|Visit link for details|2024-03-18|
+ |[Red Hat security advisory (AV24-149)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-149)|Visit link for details|2024-03-18|
+ |[IBM security advisory (AV24-148)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-148)|Visit link for details|2024-03-18|
+ |[Ubuntu security advisory (AV24-147)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-147)|Visit link for details|2024-03-18|
+ |[Dell security advisory (AV24-146)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-146)|Visit link for details|2024-03-18|
+ |[Microsoft Edge security advisory (AV24-145)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-145)|Visit link for details|2024-03-15|
+ |[HPE security advisory (AV24-144)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-144)|Visit link for details|2024-03-15|
+ |[Cisco security advisory (AV24-143)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-143)|Visit link for details|2024-03-13|
+ |[Mitel security advisory (AV24-142)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-142)|Visit link for details|2024-03-13|
+ |[Google Chrome security advisory (AV24-141)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-141)|Visit link for details|2024-03-13|
+ |[Microsoft security advisory – March 2024 monthly rollup (AV24-140)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2024-monthly-rollup-av24-140)|Visit link for details|2024-03-12|
  
 
 # MA-CERT
