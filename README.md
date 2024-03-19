@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/03/2024 14:16:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/03/2024 15:17:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6700-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6700-1-linux-kernel-vulnerabilities.49131/)|Visit link for details.|Mar 19, 2024|
+ |[USN-6701-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6701-1-linux-kernel-vulnerabilities.49130/)|Visit link for details.|Mar 19, 2024|
+ |[USN-6699-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6699-1-linux-kernel-vulnerabilities.49129/)|Visit link for details.|Mar 19, 2024|
+ |[USN-6698-1: Vim vulnerability](https://www.linux.org/threads/usn-6698-1-vim-vulnerability.49127/)|Visit link for details.|Mar 18, 2024|
+ |[USN-6697-1: Bash vulnerability](https://www.linux.org/threads/usn-6697-1-bash-vulnerability.49125/)|Visit link for details.|Mar 18, 2024|
+ |[USN-6696-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6696-1-openjdk-8-vulnerabilities.49114/)|Visit link for details.|Mar 18, 2024|
+ |[DSA-5632-1 composer - security update](https://www.linux.org/threads/dsa-5632-1-composer-security-update.49085/)|Visit link for details.|Mar 15, 2024|
+ |[DSA-5640-1 openvswitch - security update](https://www.linux.org/threads/dsa-5640-1-openvswitch-security-update.49080/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6695-1: TeX Live vulnerabilities](https://www.linux.org/threads/usn-6695-1-tex-live-vulnerabilities.49077/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6694-1: Expat vulnerabilities](https://www.linux.org/threads/usn-6694-1-expat-vulnerabilities.49076/)|Visit link for details.|Mar 14, 2024|
+ |[USN-6673-2: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-2-python-cryptography-vulnerability.49070/)|Visit link for details.|Mar 14, 2024|
+ 
 
 # US-CERT
 
@@ -61,23 +78,6 @@
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Spring - CVE-2024-22259](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22259-2024-03-18)|Visit link for details.|18/03/2024|
- |[Microsoft - CVE-2024-26165](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26165-2024-03-18)|Visit link for details.|18/03/2024|
- |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|18/03/2024|
- |[IBM - CVE-2024-22346](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-22346-2024-03-18)|Visit link for details.|18/03/2024|
- |[Adobe - CVE-2024-20765](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-20765-2024-03-18)|Visit link for details.|18/03/2024|
- |[Apache ZooKeeper / Juniper - CVE-2023-44981](https://www.cyberveille-sante.gouv.fr/alertes/apache-zookeeper-juniper-cve-2023-44981-2024-02-29)|Visit link for details.|18/03/2024|
- |[Spring - CVE-2023-34034](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2023-34034-2023-07-21)|Visit link for details.|18/03/2024|
- |[Spring - CVE-2024-22243](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22243-2024-02-23)|Visit link for details.|18/03/2024|
- |[Mitel - CVE-2024-28815](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-28815-2024-03-15)|Visit link for details.|15/03/2024|
- |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|15/03/2024|
- |[Apache Derby / Juniper - CVE-2022-46337](https://www.cyberveille-sante.gouv.fr/alertes/apache-derby-juniper-cve-2022-46337-2024-03-15)|Visit link for details.|15/03/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -92,21 +92,17 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 13 Mar 2024 |
  
 
-# LINUX-SEC
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6700-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6700-1-linux-kernel-vulnerabilities.49131/)|Visit link for details.|Mar 19, 2024|
- |[USN-6701-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6701-1-linux-kernel-vulnerabilities.49130/)|Visit link for details.|Mar 19, 2024|
- |[USN-6699-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6699-1-linux-kernel-vulnerabilities.49129/)|Visit link for details.|Mar 19, 2024|
- |[USN-6698-1: Vim vulnerability](https://www.linux.org/threads/usn-6698-1-vim-vulnerability.49127/)|Visit link for details.|Mar 18, 2024|
- |[USN-6697-1: Bash vulnerability](https://www.linux.org/threads/usn-6697-1-bash-vulnerability.49125/)|Visit link for details.|Mar 18, 2024|
- |[USN-6696-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6696-1-openjdk-8-vulnerabilities.49114/)|Visit link for details.|Mar 18, 2024|
- |[DSA-5632-1 composer - security update](https://www.linux.org/threads/dsa-5632-1-composer-security-update.49085/)|Visit link for details.|Mar 15, 2024|
- |[DSA-5640-1 openvswitch - security update](https://www.linux.org/threads/dsa-5640-1-openvswitch-security-update.49080/)|Visit link for details.|Mar 14, 2024|
- |[USN-6695-1: TeX Live vulnerabilities](https://www.linux.org/threads/usn-6695-1-tex-live-vulnerabilities.49077/)|Visit link for details.|Mar 14, 2024|
- |[USN-6694-1: Expat vulnerabilities](https://www.linux.org/threads/usn-6694-1-expat-vulnerabilities.49076/)|Visit link for details.|Mar 14, 2024|
- |[USN-6673-2: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-2-python-cryptography-vulnerability.49070/)|Visit link for details.|Mar 14, 2024|
+ |[AMSS++ select_send_2.php Cross-Site Scripting (CVE-2024-2598)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ bookdetail_group.php Cross-Site Scripting (CVE-2024-2593)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ index.php Cross-Site Scripting (CVE-2024-2594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ bookdetail_khet_person.php Cross-Site Scripting (CVE-2024-2595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ select_send.php Cross-Site Scripting (CVE-2024-2596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ bookdetail_school_person.php Cross-Site Scripting (CVE-2024-2597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[AMSS++ index.php SQL injection (CVE-2024-2588)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
  
 
 # OBS-Vigilance
@@ -125,17 +121,35 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[AMSS++ select_send_2.php Cross-Site Scripting (CVE-2024-2598)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ bookdetail_group.php Cross-Site Scripting (CVE-2024-2593)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ index.php Cross-Site Scripting (CVE-2024-2594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ bookdetail_khet_person.php Cross-Site Scripting (CVE-2024-2595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ select_send.php Cross-Site Scripting (CVE-2024-2596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ bookdetail_school_person.php Cross-Site Scripting (CVE-2024-2597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
- |[AMSS++ index.php SQL injection (CVE-2024-2588)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 18, 2024|
+ |[Spring - CVE-2024-22259](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22259-2024-03-18)|Visit link for details.|18/03/2024|
+ |[Microsoft - CVE-2024-26165](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26165-2024-03-18)|Visit link for details.|18/03/2024|
+ |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|18/03/2024|
+ |[IBM - CVE-2024-22346](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-22346-2024-03-18)|Visit link for details.|18/03/2024|
+ |[Adobe - CVE-2024-20765](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-20765-2024-03-18)|Visit link for details.|18/03/2024|
+ |[Apache ZooKeeper / Juniper - CVE-2023-44981](https://www.cyberveille-sante.gouv.fr/alertes/apache-zookeeper-juniper-cve-2023-44981-2024-02-29)|Visit link for details.|18/03/2024|
+ |[Spring - CVE-2023-34034](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2023-34034-2023-07-21)|Visit link for details.|18/03/2024|
+ |[Spring - CVE-2024-22243](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22243-2024-02-23)|Visit link for details.|18/03/2024|
+ |[Mitel - CVE-2024-28815](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-28815-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|15/03/2024|
+ |[Apache Derby / Juniper - CVE-2022-46337](https://www.cyberveille-sante.gouv.fr/alertes/apache-derby-juniper-cve-2022-46337-2024-03-15)|Visit link for details.|15/03/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
 # EU-CERT
@@ -187,18 +201,4 @@
  |[Mitel security advisory (AV24-142)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-142)|Visit link for details|2024-03-13|
  |[Google Chrome security advisory (AV24-141)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-141)|Visit link for details|2024-03-13|
  |[Microsoft security advisory – March 2024 monthly rollup (AV24-140)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2024-monthly-rollup-av24-140)|Visit link for details|2024-03-12|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
