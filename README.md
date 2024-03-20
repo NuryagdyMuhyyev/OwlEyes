@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/03/2024 22:14:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/03/2024 23:20:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Publishes SCuBA Hybrid Identity Solutions Guidance](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance)|Visit link for details.|Mar 12, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Kaspersky Password Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0230/)|Une vulnérabilité a été découverte dans Kaspersky Password Manager. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 mars 2024|
+ |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0229/)|Une vulnérabilité a été découverte dans Tenable Nessus. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 18 mars 2024|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0225/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 mars 2024|
+ |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,20 +78,37 @@
  |[USN-6701-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6701-1-linux-kernel-vulnerabilities.49130/)|Visit link for details.|Mar 19, 2024|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans AXIS OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0233/)|De multiples vulnérabilités ont été découvertes dans AXIS OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 19 mars 2024|
- |[Vulnérabilité dans les produits Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0232/)|Une vulnérabilité a été découverte dans |Publié le 19 mars 2024|
- |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0231/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mars 2024|
- |[Vulnérabilité dans Kaspersky Password Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0230/)|Une vulnérabilité a été découverte dans Kaspersky Password Manager. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 mars 2024|
- |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0229/)|Une vulnérabilité a été découverte dans Tenable Nessus. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 18 mars 2024|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0225/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Online Medicine Ordering System - CVE-2024-28303](https://www.cyberveille-sante.gouv.fr/alertes/online-medicine-ordering-system-cve-2024-28303-2024-03-20)|Visit link for details.|20/03/2024|
+ |[Mozilla - CVE-2024-2615](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-2615-2024-03-20)|Visit link for details.|20/03/2024|
+ |[Google - CVE-2024-2625](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2625-2024-03-20)|Visit link for details.|20/03/2024|
+ |[Cegid - CVE-2024-2636](https://www.cyberveille-sante.gouv.fr/alertes/cegid-cve-2024-2636-2024-03-20)|Visit link for details.|20/03/2024|
+ |[Arcserve - CVE-2024-0801](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0801-2024-03-20)|Visit link for details.|20/03/2024|
+ |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|20/03/2024|
+ |[Progress LoadMaster - CVE-2024-1212](https://www.cyberveille-sante.gouv.fr/alertes/progress-loadmaster-cve-2024-1212-2024-02-23)|Visit link for details.|20/03/2024|
+ |[Fortra GoAnywhere - CVE-2024-0204](https://www.cyberveille-sante.gouv.fr/alertes/fortra-goanywhere-cve-2024-0204-2024-01-23)|Visit link for details.|20/03/2024|
+ |[Vmware - CVE-2024-22257](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22257-2024-03-19)|Visit link for details.|19/03/2024|
+ |[OpenClinic GA - CVE-2023-40276](https://www.cyberveille-sante.gouv.fr/alertes/openclinic-ga-cve-2023-40276-2024-03-19)|Visit link for details.|19/03/2024|
+ |[Microsoft - CVE-2024-20696](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20696-2024-03-19)|Visit link for details.|19/03/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-buffer-overflow-via-log-entry-attr-43706" class="noirorange"><b>389 Directory Server</b>: buffer overflow via log_entry_attr()</a>](https://vigilance.fr/vulnerability/389-Directory-Server-buffer-overflow-via-log-entry-attr-43706)|An attacker can trigger a buffer overflow of 389 Directory Server, via log_entry_attr(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-information-disclosure-via-the-Subject-header-43705" class="noirorange"><b>Mozilla Thunderbird</b>: information disclosure via the Subject header</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-information-disclosure-via-the-Subject-header-43705)|An attacker can bypass access restrictions to data of Mozilla Thunderbird, via the Subject header, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332" class="noirorange"><b>Linux kernel</b>: integer overflow via Cred Refcount Overflow</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332)|An attacker can trigger an integer overflow of the Linux kernel, via Cred Refcount Overflow, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331" class="noirorange"><b>BlueZ</b>: buffer overflow via Phone Book Access Profile Version Counter</a>](https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331)|An attacker can trigger a buffer overflow of BlueZ, via Phone Book Access Profile Version Counter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-cryptography-denial-of-service-via-PKCS-12-43697" class="noirorange"><b>Python-cryptography</b>: denial of service via PKCS 12</a>](https://vigilance.fr/vulnerability/Python-cryptography-denial-of-service-via-PKCS-12-43697)|An attacker can cause a fatal error of Ubuntu |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-osTicky2-vulnerability-43696" class="noirorange"><b>Joomla osTicky2</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-osTicky2-vulnerability-43696)|A vulnerability of Joomla osTicky2 was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete POST Requests</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete POST Requests, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328" class="noirorange"><b>libuev</b>: buffer overflow via epoll_wait()</a>](https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328)|An attacker can trigger a buffer overflow of libuev, via epoll_wait(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327" class="noirorange"><b>Crypto++</b>: overload via ModularSquareRoot()</a>](https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327)|An attacker can trigger an overload of Crypto++, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
  
 
 # HK-CERT
@@ -105,53 +138,6 @@
  |[Mozilla Firefox clickjacking (CVE-2024-2609)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 19, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-buffer-overflow-via-log-entry-attr-43706" class="noirorange"><b>389 Directory Server</b>: buffer overflow via log_entry_attr()</a>](https://vigilance.fr/vulnerability/389-Directory-Server-buffer-overflow-via-log-entry-attr-43706)|An attacker can trigger a buffer overflow of 389 Directory Server, via log_entry_attr(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-information-disclosure-via-the-Subject-header-43705" class="noirorange"><b>Mozilla Thunderbird</b>: information disclosure via the Subject header</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-information-disclosure-via-the-Subject-header-43705)|An attacker can bypass access restrictions to data of Mozilla Thunderbird, via the Subject header, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332" class="noirorange"><b>Linux kernel</b>: integer overflow via Cred Refcount Overflow</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332)|An attacker can trigger an integer overflow of the Linux kernel, via Cred Refcount Overflow, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331" class="noirorange"><b>BlueZ</b>: buffer overflow via Phone Book Access Profile Version Counter</a>](https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331)|An attacker can trigger a buffer overflow of BlueZ, via Phone Book Access Profile Version Counter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-cryptography-denial-of-service-via-PKCS-12-43697" class="noirorange"><b>Python-cryptography</b>: denial of service via PKCS 12</a>](https://vigilance.fr/vulnerability/Python-cryptography-denial-of-service-via-PKCS-12-43697)|An attacker can cause a fatal error of Ubuntu |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-osTicky2-vulnerability-43696" class="noirorange"><b>Joomla osTicky2</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-osTicky2-vulnerability-43696)|A vulnerability of Joomla osTicky2 was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete POST Requests</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete POST Requests, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328" class="noirorange"><b>libuev</b>: buffer overflow via epoll_wait()</a>](https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328)|An attacker can trigger a buffer overflow of libuev, via epoll_wait(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327" class="noirorange"><b>Crypto++</b>: overload via ModularSquareRoot()</a>](https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327)|An attacker can trigger an overload of Crypto++, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via nft_byteorder_eval()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Online Medicine Ordering System - CVE-2024-28303](https://www.cyberveille-sante.gouv.fr/alertes/online-medicine-ordering-system-cve-2024-28303-2024-03-20)|Visit link for details.|20/03/2024|
- |[Mozilla - CVE-2024-2615](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-2615-2024-03-20)|Visit link for details.|20/03/2024|
- |[Google - CVE-2024-2625](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2625-2024-03-20)|Visit link for details.|20/03/2024|
- |[Cegid - CVE-2024-2636](https://www.cyberveille-sante.gouv.fr/alertes/cegid-cve-2024-2636-2024-03-20)|Visit link for details.|20/03/2024|
- |[Arcserve - CVE-2024-0801](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0801-2024-03-20)|Visit link for details.|20/03/2024|
- |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|20/03/2024|
- |[Progress LoadMaster - CVE-2024-1212](https://www.cyberveille-sante.gouv.fr/alertes/progress-loadmaster-cve-2024-1212-2024-02-23)|Visit link for details.|20/03/2024|
- |[Fortra GoAnywhere - CVE-2024-0204](https://www.cyberveille-sante.gouv.fr/alertes/fortra-goanywhere-cve-2024-0204-2024-01-23)|Visit link for details.|20/03/2024|
- |[Vmware - CVE-2024-22257](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22257-2024-03-19)|Visit link for details.|19/03/2024|
- |[OpenClinic GA - CVE-2023-40276](https://www.cyberveille-sante.gouv.fr/alertes/openclinic-ga-cve-2023-40276-2024-03-19)|Visit link for details.|19/03/2024|
- |[Microsoft - CVE-2024-20696](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20696-2024-03-19)|Visit link for details.|19/03/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -167,6 +153,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
 # MA-CERT
