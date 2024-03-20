@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/03/2024 16:14:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/03/2024 17:29:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6703-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6703-1-firefox-vulnerabilities.49157/)|Visit link for details.|Mar 20, 2024|
- |[DSA-5641-1 fontforge - security update](https://www.linux.org/threads/dsa-5641-1-fontforge-security-update.49153/)|Visit link for details.|Mar 20, 2024|
- |[USN-6702-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6702-1-linux-kernel-vulnerabilities.49149/)|Visit link for details.|Mar 19, 2024|
- |[USN-6681-4: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6681-4-linux-kernel-aws-vulnerabilities.49148/)|Visit link for details.|Mar 19, 2024|
- |[USN-6686-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6686-3-linux-kernel-oracle-vulnerabilities.49147/)|Visit link for details.|Mar 19, 2024|
- |[USN-6680-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6680-3-linux-kernel-aws-vulnerabilities.49146/)|Visit link for details.|Mar 19, 2024|
- |[USN-6700-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6700-1-linux-kernel-vulnerabilities.49131/)|Visit link for details.|Mar 19, 2024|
- |[USN-6701-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6701-1-linux-kernel-vulnerabilities.49130/)|Visit link for details.|Mar 19, 2024|
- |[USN-6699-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6699-1-linux-kernel-vulnerabilities.49129/)|Visit link for details.|Mar 19, 2024|
- |[USN-6698-1: Vim vulnerability](https://www.linux.org/threads/usn-6698-1-vim-vulnerability.49127/)|Visit link for details.|Mar 18, 2024|
- |[USN-6697-1: Bash vulnerability](https://www.linux.org/threads/usn-6697-1-bash-vulnerability.49125/)|Visit link for details.|Mar 18, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,23 +43,6 @@
  |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 12, 2024|
  |[CISA Publishes SCuBA Hybrid Identity Solutions Guidance](https://www.cisa.gov/news-events/alerts/2024/03/12/cisa-publishes-scuba-hybrid-identity-solutions-guidance)|Visit link for details.|Mar 12, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Vmware - CVE-2024-22257](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22257-2024-03-19)|Visit link for details.|19/03/2024|
- |[OpenClinic GA - CVE-2023-40276](https://www.cyberveille-sante.gouv.fr/alertes/openclinic-ga-cve-2023-40276-2024-03-19)|Visit link for details.|19/03/2024|
- |[Microsoft - CVE-2024-20696](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20696-2024-03-19)|Visit link for details.|19/03/2024|
- |[GLPI - CVE-2024-27096](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-27096-2024-03-19)|Visit link for details.|19/03/2024|
- |[Fortinet - CVE-2023-36554](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-36554-2024-03-19)|Visit link for details.|19/03/2024|
- |[Spring - CVE-2024-22259](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22259-2024-03-18)|Visit link for details.|18/03/2024|
- |[Microsoft - CVE-2024-26165](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26165-2024-03-18)|Visit link for details.|18/03/2024|
- |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|18/03/2024|
- |[IBM - CVE-2024-22346](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-22346-2024-03-18)|Visit link for details.|18/03/2024|
- |[Adobe - CVE-2024-20765](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-20765-2024-03-18)|Visit link for details.|18/03/2024|
- |[Apache ZooKeeper / Juniper - CVE-2023-44981](https://www.cyberveille-sante.gouv.fr/alertes/apache-zookeeper-juniper-cve-2023-44981-2024-02-29)|Visit link for details.|18/03/2024|
  
 
 # CERT-FR
@@ -109,6 +75,23 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240314)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 14 Mar 2024 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6703-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6703-1-firefox-vulnerabilities.49157/)|Visit link for details.|Mar 20, 2024|
+ |[DSA-5641-1 fontforge - security update](https://www.linux.org/threads/dsa-5641-1-fontforge-security-update.49153/)|Visit link for details.|Mar 20, 2024|
+ |[USN-6702-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6702-1-linux-kernel-vulnerabilities.49149/)|Visit link for details.|Mar 19, 2024|
+ |[USN-6681-4: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6681-4-linux-kernel-aws-vulnerabilities.49148/)|Visit link for details.|Mar 19, 2024|
+ |[USN-6686-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6686-3-linux-kernel-oracle-vulnerabilities.49147/)|Visit link for details.|Mar 19, 2024|
+ |[USN-6680-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6680-3-linux-kernel-aws-vulnerabilities.49146/)|Visit link for details.|Mar 19, 2024|
+ |[USN-6700-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6700-1-linux-kernel-vulnerabilities.49131/)|Visit link for details.|Mar 19, 2024|
+ |[USN-6701-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6701-1-linux-kernel-vulnerabilities.49130/)|Visit link for details.|Mar 19, 2024|
+ |[USN-6699-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6699-1-linux-kernel-vulnerabilities.49129/)|Visit link for details.|Mar 19, 2024|
+ |[USN-6698-1: Vim vulnerability](https://www.linux.org/threads/usn-6698-1-vim-vulnerability.49127/)|Visit link for details.|Mar 18, 2024|
+ |[USN-6697-1: Bash vulnerability](https://www.linux.org/threads/usn-6697-1-bash-vulnerability.49125/)|Visit link for details.|Mar 18, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,21 +105,35 @@
  |[Mozilla Firefox clickjacking (CVE-2024-2609)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 19, 2024|
  
 
-# MA-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 46622003/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et…| 20 mars 2024|
- |[ 46601903/24 - Vulnérabilité dans Kaspersky Password Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-kaspersky-password-manager)| Kaspersky a corrigé un problème de sécurité dans les versions susmentionnées de Kaspersky Password Manager. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte aux…| 19 mars 2024|
- |[ 46611803/24 - Vulnérabilité critique affectant l’outil de transfert FileCatalyst de… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-de-transfert-filecatalyst-de-fortra)| Fortra annonce la correction d’une vulnérabilité critique affectant son outil de transfert  FileCatalyst. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant le parcours non…| 19 mars 2024|
- |[ 46601803/24 - Vulnérabilité critique affectant les plugins «Malware Scanner» et « Web… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-plugins-malware-scanner-et-web-application-firewall)| Une vulnérabilité critique a été découverte au niveau des plugins «Malware Scanner» et « Web Application Firewall » pour WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 18 mars 2024|
- |[ 46591803/24 - Vulnérabilités dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-secure-analytics)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Juniper Secure Analytics. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 18 mars 2024|
- |[ 46581503/24 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter…| 15 mars 2024|
- |[ 46571503/24 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-1)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 15 mars 2024|
- |[ 465411403/24 - Vulnérabilité affectant Citrix SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-citrix-sd-wan)| Citrix annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données         …| 14 mars 2024|
- |[ 465311403/24 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-1)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 14 mars 2024|
- |[ 46561403/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-3)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 14 mars 2024|
- |[ 46551403/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-3)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 14 mars 2024|
+ |[Vmware - CVE-2024-22257](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22257-2024-03-19)|Visit link for details.|19/03/2024|
+ |[OpenClinic GA - CVE-2023-40276](https://www.cyberveille-sante.gouv.fr/alertes/openclinic-ga-cve-2023-40276-2024-03-19)|Visit link for details.|19/03/2024|
+ |[Microsoft - CVE-2024-20696](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20696-2024-03-19)|Visit link for details.|19/03/2024|
+ |[GLPI - CVE-2024-27096](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-27096-2024-03-19)|Visit link for details.|19/03/2024|
+ |[Fortinet - CVE-2023-36554](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-36554-2024-03-19)|Visit link for details.|19/03/2024|
+ |[Spring - CVE-2024-22259](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22259-2024-03-18)|Visit link for details.|18/03/2024|
+ |[Microsoft - CVE-2024-26165](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26165-2024-03-18)|Visit link for details.|18/03/2024|
+ |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|18/03/2024|
+ |[IBM - CVE-2024-22346](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-22346-2024-03-18)|Visit link for details.|18/03/2024|
+ |[Adobe - CVE-2024-20765](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-20765-2024-03-18)|Visit link for details.|18/03/2024|
+ |[Apache ZooKeeper / Juniper - CVE-2023-44981](https://www.cyberveille-sante.gouv.fr/alertes/apache-zookeeper-juniper-cve-2023-44981-2024-02-29)|Visit link for details.|18/03/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
 # OBS-Vigilance
@@ -172,6 +169,23 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46622003/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et…| 20 mars 2024|
+ |[ 46601903/24 - Vulnérabilité dans Kaspersky Password Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-kaspersky-password-manager)| Kaspersky a corrigé un problème de sécurité dans les versions susmentionnées de Kaspersky Password Manager. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte aux…| 19 mars 2024|
+ |[ 46611803/24 - Vulnérabilité critique affectant l’outil de transfert FileCatalyst de… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-de-transfert-filecatalyst-de-fortra)| Fortra annonce la correction d’une vulnérabilité critique affectant son outil de transfert  FileCatalyst. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant le parcours non…| 19 mars 2024|
+ |[ 46601803/24 - Vulnérabilité critique affectant les plugins «Malware Scanner» et « Web… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-plugins-malware-scanner-et-web-application-firewall)| Une vulnérabilité critique a été découverte au niveau des plugins «Malware Scanner» et « Web Application Firewall » pour WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 18 mars 2024|
+ |[ 46591803/24 - Vulnérabilités dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-secure-analytics)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Juniper Secure Analytics. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 18 mars 2024|
+ |[ 46581503/24 - Vulnérabilités dans Palo Alto PAN-OS et Networks GlobalProtect app ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-pan-os-et-networks-globalprotect-app-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS et Networks GlobalProtect app. L'exploitation de ces failles peut permettre à un attaquant de porter…| 15 mars 2024|
+ |[ 46571503/24 - Vulnérabilités dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apache-tomcat-1)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 15 mars 2024|
+ |[ 465411403/24 - Vulnérabilité affectant Citrix SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-citrix-sd-wan)| Citrix annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données         …| 14 mars 2024|
+ |[ 465311403/24 - Vulnérabilité affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-google-chrome-1)| Google vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité    affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre à  un…| 14 mars 2024|
+ |[ 46561403/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-3)| Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 14 mars 2024|
+ |[ 46551403/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-3)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 14 mars 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -187,18 +201,4 @@
  |[HPE security advisory (AV24-144)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-144)|Visit link for details|2024-03-15|
  |[Cisco security advisory (AV24-143)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-143)|Visit link for details|2024-03-13|
  |[Mitel security advisory (AV24-142)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-142)|Visit link for details|2024-03-13|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
