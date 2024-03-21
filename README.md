@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/03/2024 14:16:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/03/2024 15:16:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,20 +62,6 @@
  |[DSA-5641-1 fontforge - security update](https://www.linux.org/threads/dsa-5641-1-fontforge-security-update.49153/)|Visit link for details.|Mar 20, 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240314)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 14 Mar 2024 |
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -109,19 +95,6 @@
  |[Microsoft - CVE-2024-20696](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20696-2024-03-19)|Visit link for details.|19/03/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Olive One Click Demo Import Plugin for WordPress security bypass (CVE-2024-2702)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
- |[Save as PDF Plugin for WordPress security bypass (CVE-2023-52229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
- |[Sourcecodester Online Discussion Forum Site file upload (CVE-2024-2690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
- |[Campcodes Online Job Finder System SQL injection (CVE-2024-2668)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
- |[Campcodes Online Job Finder System SQL injection (CVE-2024-2669)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
- |[Campcodes Online Job Finder System SQL injection (CVE-2024-2670)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
- |[Campcodes Online Job Finder System SQL injection (CVE-2024-2671)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -136,6 +109,33 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-cryptography-denial-of-service-via-PKCS-12-43697" class="noirorange"><b>Python-cryptography</b>: denial of service via PKCS 12</a>](https://vigilance.fr/vulnerability/Python-cryptography-denial-of-service-via-PKCS-12-43697)|An attacker can cause a fatal error of Ubuntu |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-osTicky2-vulnerability-43696" class="noirorange"><b>Joomla osTicky2</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-osTicky2-vulnerability-43696)|A vulnerability of Joomla osTicky2 was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete POST Requests</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete POST Requests, in order to read sensitive information...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240314)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 14 Mar 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Olive One Click Demo Import Plugin for WordPress security bypass (CVE-2024-2702)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
+ |[Save as PDF Plugin for WordPress security bypass (CVE-2023-52229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
+ |[Sourcecodester Online Discussion Forum Site file upload (CVE-2024-2690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
+ |[Campcodes Online Job Finder System SQL injection (CVE-2024-2668)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
+ |[Campcodes Online Job Finder System SQL injection (CVE-2024-2669)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
+ |[Campcodes Online Job Finder System SQL injection (CVE-2024-2670)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
+ |[Campcodes Online Job Finder System SQL injection (CVE-2024-2671)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
  
 
 # ZERODAYINITIATIVE
