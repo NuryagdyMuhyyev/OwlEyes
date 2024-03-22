@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/03/2024 06:10:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/03/2024 07:22:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6700-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6700-2-linux-kernel-aws-vulnerabilities.49188/)|Visit link for details.|Mar 21, 2024|
+ |[DSA-5643-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5643-1-firefox-esr-security-update.49187/)|Visit link for details.|Mar 21, 2024|
+ |[USN-6709-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6709-1-openssl-vulnerabilities.49184/)|Visit link for details.|Mar 21, 2024|
+ |[USN-6707-2: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6707-2-linux-kernel-arm-laptop-vulnerabilities.49181/)|Visit link for details.|Mar 21, 2024|
+ |[USN-6704-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6704-2-linux-kernel-raspberry-pi-vulnerabilities.49180/)|Visit link for details.|Mar 21, 2024|
+ |[USN-6702-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6702-2-linux-kernel-vulnerabilities.49168/)|Visit link for details.|Mar 20, 2024|
+ |[USN-6701-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6701-2-linux-kernel-gcp-vulnerabilities.49167/)|Visit link for details.|Mar 20, 2024|
+ |[DSA-5626-2 pdns-recursor - regression update](https://www.linux.org/threads/dsa-5626-2-pdns-recursor-regression-update.49166/)|Visit link for details.|Mar 20, 2024|
+ |[DSA-5642-1 php-dompdf-svg-lib - security update](https://www.linux.org/threads/dsa-5642-1-php-dompdf-svg-lib-security-update.49165/)|Visit link for details.|Mar 20, 2024|
+ |[USN-6707-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6707-1-linux-kernel-vulnerabilities.49163/)|Visit link for details.|Mar 20, 2024|
+ |[USN-6706-1: Linux kernel (OEM) vulnerability](https://www.linux.org/threads/usn-6706-1-linux-kernel-oem-vulnerability.49162/)|Visit link for details.|Mar 20, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,36 @@
  |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6700-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6700-2-linux-kernel-aws-vulnerabilities.49188/)|Visit link for details.|Mar 21, 2024|
- |[DSA-5643-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5643-1-firefox-esr-security-update.49187/)|Visit link for details.|Mar 21, 2024|
- |[USN-6709-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6709-1-openssl-vulnerabilities.49184/)|Visit link for details.|Mar 21, 2024|
- |[USN-6707-2: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6707-2-linux-kernel-arm-laptop-vulnerabilities.49181/)|Visit link for details.|Mar 21, 2024|
- |[USN-6704-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6704-2-linux-kernel-raspberry-pi-vulnerabilities.49180/)|Visit link for details.|Mar 21, 2024|
- |[USN-6702-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6702-2-linux-kernel-vulnerabilities.49168/)|Visit link for details.|Mar 20, 2024|
- |[USN-6701-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6701-2-linux-kernel-gcp-vulnerabilities.49167/)|Visit link for details.|Mar 20, 2024|
- |[DSA-5626-2 pdns-recursor - regression update](https://www.linux.org/threads/dsa-5626-2-pdns-recursor-regression-update.49166/)|Visit link for details.|Mar 20, 2024|
- |[DSA-5642-1 php-dompdf-svg-lib - security update](https://www.linux.org/threads/dsa-5642-1-php-dompdf-svg-lib-security-update.49165/)|Visit link for details.|Mar 20, 2024|
- |[USN-6707-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6707-1-linux-kernel-vulnerabilities.49163/)|Visit link for details.|Mar 20, 2024|
- |[USN-6706-1: Linux kernel (OEM) vulnerability](https://www.linux.org/threads/usn-6706-1-linux-kernel-oem-vulnerability.49162/)|Visit link for details.|Mar 20, 2024|
+ |[Vulnérabilité dansMicrosoft Xbox Gaming Services](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/)|Une vulnérabilité a été découverte dans |Publié le 21 mars 2024|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 mars 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Belden. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 20 mars 2024|
+ |[Vulnérabilité dans Spring Authorization Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0236/)|Une vulnérabilité a été découverte dans |Publié le 20 mars 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0235/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 mars 2024|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 mars 2024|
+ |[Multiples vulnérabilités dans AXIS OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0233/)|De multiples vulnérabilités ont été découvertes dans AXIS OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 19 mars 2024|
+ |[Vulnérabilité dans les produits Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0232/)|Une vulnérabilité a été découverte dans |Publié le 19 mars 2024|
+ |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0231/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mars 2024|
+ |[Vulnérabilité dans Kaspersky Password Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0230/)|Une vulnérabilité a été découverte dans Kaspersky Password Manager. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 mars 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-integer-overflow-41556" class="noirorange"><b>Apple iOS  macOS</b>: integer overflow</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-integer-overflow-41556)|An attacker can trigger an integer overflow of Apple iOS  macOS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP Optional Transitive Attribute</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555)|An attacker can cause a fatal error of Juniper Junos OS, via BGP Optional Transitive Attribute, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553" class="noirorange"><b>ReadyMedia MiniDLNA</b>: buffer overflow via Chunked Transport Encoding</a>](https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553)|An attacker can trigger a buffer overflow of ReadyMedia MiniDLNA, via Chunked Transport Encoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/keylime-vulnerability-due-to-misuse-of-TPM-43715" class="noirorange"><b>keylime</b>: vulnerability due to misuse of TPM</a>](https://vigilance.fr/vulnerability/keylime-vulnerability-due-to-misuse-of-TPM-43715)|A keylime vulnerability, via misuse of TPM, has been announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550" class="noirorange"><b>Reportlab</b>: code execution via PDF File</a>](https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550)|An attacker can use a vulnerability of Reportlab, via PDF File, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/phpseclib-overload-43708" class="noirorange"><b>phpseclib</b>: overload</a>](https://vigilance.fr/vulnerability/phpseclib-overload-43708)|An attacker can trigger an overload of phpseclib, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41544" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41544)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-OpenOffice-code-execution-via-hsqldb-SCRIPT-41543" class="noirorange"><b>LibreOffice  OpenOffice</b>: code execution via hsqldb SCRIPT</a>](https://vigilance.fr/vulnerability/LibreOffice-OpenOffice-code-execution-via-hsqldb-SCRIPT-41543)|An attacker can use a vulnerability of LibreOffice  OpenOffice, via hsqldb SCRIPT, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-buffer-overflow-via-log-entry-attr-43706" class="noirorange"><b>389 Directory Server</b>: buffer overflow via log_entry_attr()</a>](https://vigilance.fr/vulnerability/389-Directory-Server-buffer-overflow-via-log-entry-attr-43706)|An attacker can trigger a buffer overflow of 389 Directory Server, via log_entry_attr(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-information-disclosure-via-the-Subject-header-43705" class="noirorange"><b>Mozilla Thunderbird</b>: information disclosure via the Subject header</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-information-disclosure-via-the-Subject-header-43705)|An attacker can bypass access restrictions to data of Mozilla Thunderbird, via the Subject header, in order to read sensitive information...|Visit link for details|
  
 
 # CERT-SANTE
@@ -79,52 +111,6 @@
  |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|20/03/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Belden. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 20 mars 2024|
- |[Vulnérabilité dans Spring Authorization Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0236/)|Une vulnérabilité a été découverte dans |Publié le 20 mars 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0235/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 mars 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 mars 2024|
- |[Multiples vulnérabilités dans AXIS OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0233/)|De multiples vulnérabilités ont été découvertes dans AXIS OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 19 mars 2024|
- |[Vulnérabilité dans les produits Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0232/)|Une vulnérabilité a été découverte dans |Publié le 19 mars 2024|
- |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0231/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mars 2024|
- |[Vulnérabilité dans Kaspersky Password Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0230/)|Une vulnérabilité a été découverte dans Kaspersky Password Manager. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 mars 2024|
- |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0229/)|Une vulnérabilité a été découverte dans Tenable Nessus. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 18 mars 2024|
- |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-integer-overflow-41556" class="noirorange"><b>Apple iOS  macOS</b>: integer overflow</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-integer-overflow-41556)|An attacker can trigger an integer overflow of Apple iOS  macOS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP Optional Transitive Attribute</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555)|An attacker can cause a fatal error of Juniper Junos OS, via BGP Optional Transitive Attribute, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553" class="noirorange"><b>ReadyMedia MiniDLNA</b>: buffer overflow via Chunked Transport Encoding</a>](https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553)|An attacker can trigger a buffer overflow of ReadyMedia MiniDLNA, via Chunked Transport Encoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/keylime-vulnerability-due-to-misuse-of-TPM-43715" class="noirorange"><b>keylime</b>: vulnerability due to misuse of TPM</a>](https://vigilance.fr/vulnerability/keylime-vulnerability-due-to-misuse-of-TPM-43715)|A keylime vulnerability, via misuse of TPM, has been announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550" class="noirorange"><b>Reportlab</b>: code execution via PDF File</a>](https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550)|An attacker can use a vulnerability of Reportlab, via PDF File, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpseclib-overload-43708" class="noirorange"><b>phpseclib</b>: overload</a>](https://vigilance.fr/vulnerability/phpseclib-overload-43708)|An attacker can trigger an overload of phpseclib, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41544" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41544)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-OpenOffice-code-execution-via-hsqldb-SCRIPT-41543" class="noirorange"><b>LibreOffice  OpenOffice</b>: code execution via hsqldb SCRIPT</a>](https://vigilance.fr/vulnerability/LibreOffice-OpenOffice-code-execution-via-hsqldb-SCRIPT-41543)|An attacker can use a vulnerability of LibreOffice  OpenOffice, via hsqldb SCRIPT, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-buffer-overflow-via-log-entry-attr-43706" class="noirorange"><b>389 Directory Server</b>: buffer overflow via log_entry_attr()</a>](https://vigilance.fr/vulnerability/389-Directory-Server-buffer-overflow-via-log-entry-attr-43706)|An attacker can trigger a buffer overflow of 389 Directory Server, via log_entry_attr(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-information-disclosure-via-the-Subject-header-43705" class="noirorange"><b>Mozilla Thunderbird</b>: information disclosure via the Subject header</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-information-disclosure-via-the-Subject-header-43705)|An attacker can bypass access restrictions to data of Mozilla Thunderbird, via the Subject header, in order to read sensitive information...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240314)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 14 Mar 2024 |
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -134,8 +120,22 @@
  |[Progress Telerik code execution (CVE-2024-1856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
  |[Apache Doris security bypass (CVE-2024-26307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
  |[Apache Doris command execution (CVE-2024-27438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
+ |[Advantech WebAccess/SCADA SQL injection (CVE-2024-2453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
  |[Tenda AC10U buffer overflow (CVE-2024-2710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
- |[Tenda AC10U buffer overflow (CVE-2024-2711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
  
 
 # EU-CERT
@@ -153,23 +153,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
- |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
- |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
- |[ 46672003/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-1)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 21 mars 2024|
- |[ 46662003/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-5)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 21 mars 2024|
- |[ 46632003/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-7)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 20 mars 2024|
- |[ 46622003/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et…| 20 mars 2024|
- |[ 46601903/24 - Vulnérabilité dans Kaspersky Password Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-kaspersky-password-manager)| Kaspersky a corrigé un problème de sécurité dans les versions susmentionnées de Kaspersky Password Manager. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte aux…| 19 mars 2024|
- |[ 46611803/24 - Vulnérabilité critique affectant l’outil de transfert FileCatalyst de… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-de-transfert-filecatalyst-de-fortra)| Fortra annonce la correction d’une vulnérabilité critique affectant son outil de transfert  FileCatalyst. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant le parcours non…| 19 mars 2024|
- |[ 46601803/24 - Vulnérabilité critique affectant les plugins «Malware Scanner» et « Web… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-plugins-malware-scanner-et-web-application-firewall)| Une vulnérabilité critique a été découverte au niveau des plugins «Malware Scanner» et « Web Application Firewall » pour WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 18 mars 2024|
- |[ 46591803/24 - Vulnérabilités dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-secure-analytics)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Juniper Secure Analytics. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 18 mars 2024|
  
 
 # ZERODAYINITIATIVE
@@ -201,4 +184,21 @@
  |[Dell security advisory (AV24-146)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-146)|Visit link for details|2024-03-18|
  |[Microsoft Edge security advisory (AV24-145)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-145)|Visit link for details|2024-03-15|
  |[HPE security advisory (AV24-144)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-144)|Visit link for details|2024-03-15|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
+ |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
+ |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
+ |[ 46672003/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-1)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 21 mars 2024|
+ |[ 46662003/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-5)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 21 mars 2024|
+ |[ 46632003/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-7)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 20 mars 2024|
+ |[ 46622003/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et…| 20 mars 2024|
+ |[ 46601903/24 - Vulnérabilité dans Kaspersky Password Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-kaspersky-password-manager)| Kaspersky a corrigé un problème de sécurité dans les versions susmentionnées de Kaspersky Password Manager. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte aux…| 19 mars 2024|
+ |[ 46611803/24 - Vulnérabilité critique affectant l’outil de transfert FileCatalyst de… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-de-transfert-filecatalyst-de-fortra)| Fortra annonce la correction d’une vulnérabilité critique affectant son outil de transfert  FileCatalyst. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant le parcours non…| 19 mars 2024|
+ |[ 46601803/24 - Vulnérabilité critique affectant les plugins «Malware Scanner» et « Web… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-plugins-malware-scanner-et-web-application-firewall)| Une vulnérabilité critique a été découverte au niveau des plugins «Malware Scanner» et « Web Application Firewall » pour WordPress. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 18 mars 2024|
+ |[ 46591803/24 - Vulnérabilités dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-secure-analytics)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Juniper Secure Analytics. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 18 mars 2024|
  
