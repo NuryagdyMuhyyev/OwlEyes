@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/03/2024 14:18:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/03/2024 15:17:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
- |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
- |[CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity)|Visit link for details.|Mar 19, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 19, 2024|
- |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
- |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,29 +46,10 @@
  |[USN-6707-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6707-1-linux-kernel-vulnerabilities.49163/)|Visit link for details.|Mar 20, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[OpenText - CVE-2024-1811](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1811-2024-03-21)|Visit link for details.|21/03/2024|
- |[OpenClinic GA - CVE-2023-40280](https://www.cyberveille-sante.gouv.fr/alertes/openclinic-ga-cve-2023-40280-2024-03-21)|Visit link for details.|21/03/2024|
- |[Ivanti - CVE-2023-46808](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46808-2024-03-21-0)|Visit link for details.|21/03/2024|
- |[Ivanti - CVE-2023-41724](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41724-2024-03-21)|Visit link for details.|21/03/2024|
- |[GitHub - CVE-2024-2443](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2443-2024-03-21)|Visit link for details.|21/03/2024|
- |[Online Medicine Ordering System - CVE-2024-28303](https://www.cyberveille-sante.gouv.fr/alertes/online-medicine-ordering-system-cve-2024-28303-2024-03-20)|Visit link for details.|20/03/2024|
- |[Mozilla - CVE-2024-2615](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-2615-2024-03-20)|Visit link for details.|20/03/2024|
- |[Google - CVE-2024-2625](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2625-2024-03-20)|Visit link for details.|20/03/2024|
- |[Cegid - CVE-2024-2636](https://www.cyberveille-sante.gouv.fr/alertes/cegid-cve-2024-2636-2024-03-20)|Visit link for details.|20/03/2024|
- |[Arcserve - CVE-2024-0801](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0801-2024-03-20)|Visit link for details.|20/03/2024|
- |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|20/03/2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dansMicrosoft Xbox Gaming Services](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/)|Une vulnérabilité a été découverte dans |Publié le 21 mars 2024|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 mars 2024|
  |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Belden. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 20 mars 2024|
  |[Vulnérabilité dans Spring Authorization Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0236/)|Une vulnérabilité a été découverte dans |Publié le 20 mars 2024|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0235/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 mars 2024|
@@ -93,22 +58,37 @@
  |[Vulnérabilité dans les produits Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0232/)|Une vulnérabilité a été découverte dans |Publié le 19 mars 2024|
  |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0231/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mars 2024|
  |[Vulnérabilité dans Kaspersky Password Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0230/)|Une vulnérabilité a été découverte dans Kaspersky Password Manager. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 mars 2024|
+ |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0229/)|Une vulnérabilité a été découverte dans Tenable Nessus. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 18 mars 2024|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/cpp-jwt-information-disclosure-via-duration-measurements-43723" class="noirorange"><b>cpp-jwt</b>: information disclosure via duration measurements</a>](https://vigilance.fr/vulnerability/cpp-jwt-information-disclosure-via-duration-measurements-43723)|An attacker can bypass access restrictions to data of cpp-jwt, via duration measurements, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336" class="noirorange"><b>Dojo Toolkit</b>: Cross Site Scripting via dijit.Editor SVG</a>](https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336)|An attacker can trigger a Cross Site Scripting of Dojo Toolkit, via dijit.Editor SVG, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558" class="noirorange"><b>Apache Traffic Server</b>: write access via PUSH Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558)|An attacker can bypass access restrictions of Apache Traffic Server, via PUSH Method, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334" class="noirorange"><b>sosreport</b>: user access via Password Collection</a>](https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334)|An attacker can bypass restrictions of sosreport, via Password Collection, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-integer-overflow-41556" class="noirorange"><b>Apple iOS  macOS</b>: integer overflow</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-integer-overflow-41556)|An attacker can trigger an integer overflow of Apple iOS  macOS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP Optional Transitive Attribute</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555)|An attacker can cause a fatal error of Juniper Junos OS, via BGP Optional Transitive Attribute, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553" class="noirorange"><b>ReadyMedia MiniDLNA</b>: buffer overflow via Chunked Transport Encoding</a>](https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553)|An attacker can trigger a buffer overflow of ReadyMedia MiniDLNA, via Chunked Transport Encoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/keylime-vulnerability-due-to-misuse-of-TPM-43715" class="noirorange"><b>keylime</b>: vulnerability due to misuse of TPM</a>](https://vigilance.fr/vulnerability/keylime-vulnerability-due-to-misuse-of-TPM-43715)|A keylime vulnerability, via misuse of TPM, has been announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550" class="noirorange"><b>Reportlab</b>: code execution via PDF File</a>](https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550)|An attacker can use a vulnerability of Reportlab, via PDF File, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpseclib-overload-43708" class="noirorange"><b>phpseclib</b>: overload</a>](https://vigilance.fr/vulnerability/phpseclib-overload-43708)|An attacker can trigger an overload of phpseclib, in order to trigger a denial of service...|Visit link for details|
+ |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
+ |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
+ |[CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity)|Visit link for details.|Mar 19, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 19, 2024|
+ |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
+ |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarEdge mySolarEdge man-in-the-middle (CVE-2024-28756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
+ |[Progress Telerik code execution (CVE-2024-1800)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
+ |[Progress Telerik code execution (CVE-2024-1801)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
+ |[Progress Telerik code execution (CVE-2024-1856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
+ |[Apache Doris security bypass (CVE-2024-26307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
+ |[Apache Doris command execution (CVE-2024-27438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
+ |[Distrobox code execution (CVE-2024-29864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
  
 
 # HK-CERT
@@ -125,19 +105,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarEdge mySolarEdge man-in-the-middle (CVE-2024-28756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
- |[Progress Telerik code execution (CVE-2024-1800)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
- |[Progress Telerik code execution (CVE-2024-1801)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
- |[Progress Telerik code execution (CVE-2024-1856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
- |[Apache Doris security bypass (CVE-2024-26307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
- |[Apache Doris command execution (CVE-2024-27438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2024|
- |[Distrobox code execution (CVE-2024-29864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2024|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -150,6 +117,39 @@
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
  |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-OSPF-LSA-43727" class="noirorange"><b>FRRouting</b>: denial of service via OSPF LSA</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-OSPF-LSA-43727)|An attacker can send malicious OSPF LSA packets to FRRouting, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/c-ares-out-of-bounds-memory-reading-via-ares-read-line-43726" class="noirorange"><b>c-ares</b>: out-of-bounds memory reading via ares__read_line()</a>](https://vigilance.fr/vulnerability/c-ares-out-of-bounds-memory-reading-via-ares-read-line-43726)|An attacker can force a read at an invalid memory address of c-ares, via ares__read_line(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-file-corruption-via-tempfile-TemporaryDirectory-43725" class="noirorange"><b>Python Core</b>: file corruption via tempfile.TemporaryDirectory</a>](https://vigilance.fr/vulnerability/Python-Core-file-corruption-via-tempfile-TemporaryDirectory-43725)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Python Core, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cpp-jwt-information-disclosure-via-duration-measurements-43723" class="noirorange"><b>cpp-jwt</b>: information disclosure via duration measurements</a>](https://vigilance.fr/vulnerability/cpp-jwt-information-disclosure-via-duration-measurements-43723)|An attacker can bypass access restrictions to data of cpp-jwt, via duration measurements, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336" class="noirorange"><b>Dojo Toolkit</b>: Cross Site Scripting via dijit.Editor SVG</a>](https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336)|An attacker can trigger a Cross Site Scripting of Dojo Toolkit, via dijit.Editor SVG, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558" class="noirorange"><b>Apache Traffic Server</b>: write access via PUSH Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558)|An attacker can bypass access restrictions of Apache Traffic Server, via PUSH Method, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334" class="noirorange"><b>sosreport</b>: user access via Password Collection</a>](https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334)|An attacker can bypass restrictions of sosreport, via Password Collection, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-integer-overflow-41556" class="noirorange"><b>Apple iOS  macOS</b>: integer overflow</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-integer-overflow-41556)|An attacker can trigger an integer overflow of Apple iOS  macOS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP Optional Transitive Attribute</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555)|An attacker can cause a fatal error of Juniper Junos OS, via BGP Optional Transitive Attribute, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553" class="noirorange"><b>ReadyMedia MiniDLNA</b>: buffer overflow via Chunked Transport Encoding</a>](https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553)|An attacker can trigger a buffer overflow of ReadyMedia MiniDLNA, via Chunked Transport Encoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet - CVE-2023-48788](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48788-2024-03-13)|Visit link for details.|22/03/2024|
+ |[OpenText - CVE-2024-1811](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1811-2024-03-21)|Visit link for details.|21/03/2024|
+ |[OpenClinic GA - CVE-2023-40280](https://www.cyberveille-sante.gouv.fr/alertes/openclinic-ga-cve-2023-40280-2024-03-21)|Visit link for details.|21/03/2024|
+ |[Ivanti - CVE-2023-46808](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46808-2024-03-21-0)|Visit link for details.|21/03/2024|
+ |[Ivanti - CVE-2023-41724](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41724-2024-03-21)|Visit link for details.|21/03/2024|
+ |[GitHub - CVE-2024-2443](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2443-2024-03-21)|Visit link for details.|21/03/2024|
+ |[Online Medicine Ordering System - CVE-2024-28303](https://www.cyberveille-sante.gouv.fr/alertes/online-medicine-ordering-system-cve-2024-28303-2024-03-20)|Visit link for details.|20/03/2024|
+ |[Mozilla - CVE-2024-2615](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-2615-2024-03-20)|Visit link for details.|20/03/2024|
+ |[Google - CVE-2024-2625](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-2625-2024-03-20)|Visit link for details.|20/03/2024|
+ |[Cegid - CVE-2024-2636](https://www.cyberveille-sante.gouv.fr/alertes/cegid-cve-2024-2636-2024-03-20)|Visit link for details.|20/03/2024|
+ |[Arcserve - CVE-2024-0801](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0801-2024-03-20)|Visit link for details.|20/03/2024|
  
 
 # EU-CERT
