@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/03/2024 18:16:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/03/2024 19:13:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6708-1: Graphviz vulnerability](https://www.linux.org/threads/usn-6708-1-graphviz-vulnerability.49200/)|Visit link for details.|Mar 22, 2024|
+ |[DSA-5644-1 thunderbird - security update](https://www.linux.org/threads/dsa-5644-1-thunderbird-security-update.49195/)|Visit link for details.|Mar 22, 2024|
+ |[USN-6700-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6700-2-linux-kernel-aws-vulnerabilities.49188/)|Visit link for details.|Mar 21, 2024|
+ |[DSA-5643-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5643-1-firefox-esr-security-update.49187/)|Visit link for details.|Mar 21, 2024|
+ |[USN-6709-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6709-1-openssl-vulnerabilities.49184/)|Visit link for details.|Mar 21, 2024|
+ |[USN-6707-2: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6707-2-linux-kernel-arm-laptop-vulnerabilities.49181/)|Visit link for details.|Mar 21, 2024|
+ |[USN-6704-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6704-2-linux-kernel-raspberry-pi-vulnerabilities.49180/)|Visit link for details.|Mar 21, 2024|
+ |[USN-6702-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6702-2-linux-kernel-vulnerabilities.49168/)|Visit link for details.|Mar 20, 2024|
+ |[USN-6701-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6701-2-linux-kernel-gcp-vulnerabilities.49167/)|Visit link for details.|Mar 20, 2024|
+ |[DSA-5626-2 pdns-recursor - regression update](https://www.linux.org/threads/dsa-5626-2-pdns-recursor-regression-update.49166/)|Visit link for details.|Mar 20, 2024|
+ |[DSA-5642-1 php-dompdf-svg-lib - security update](https://www.linux.org/threads/dsa-5642-1-php-dompdf-svg-lib-security-update.49165/)|Visit link for details.|Mar 20, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,21 @@
  |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6708-1: Graphviz vulnerability](https://www.linux.org/threads/usn-6708-1-graphviz-vulnerability.49200/)|Visit link for details.|Mar 22, 2024|
- |[DSA-5644-1 thunderbird - security update](https://www.linux.org/threads/dsa-5644-1-thunderbird-security-update.49195/)|Visit link for details.|Mar 22, 2024|
- |[USN-6700-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6700-2-linux-kernel-aws-vulnerabilities.49188/)|Visit link for details.|Mar 21, 2024|
- |[DSA-5643-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5643-1-firefox-esr-security-update.49187/)|Visit link for details.|Mar 21, 2024|
- |[USN-6709-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6709-1-openssl-vulnerabilities.49184/)|Visit link for details.|Mar 21, 2024|
- |[USN-6707-2: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6707-2-linux-kernel-arm-laptop-vulnerabilities.49181/)|Visit link for details.|Mar 21, 2024|
- |[USN-6704-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6704-2-linux-kernel-raspberry-pi-vulnerabilities.49180/)|Visit link for details.|Mar 21, 2024|
- |[USN-6702-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6702-2-linux-kernel-vulnerabilities.49168/)|Visit link for details.|Mar 20, 2024|
- |[USN-6701-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6701-2-linux-kernel-gcp-vulnerabilities.49167/)|Visit link for details.|Mar 20, 2024|
- |[DSA-5626-2 pdns-recursor - regression update](https://www.linux.org/threads/dsa-5626-2-pdns-recursor-regression-update.49166/)|Visit link for details.|Mar 20, 2024|
- |[DSA-5642-1 php-dompdf-svg-lib - security update](https://www.linux.org/threads/dsa-5642-1-php-dompdf-svg-lib-security-update.49165/)|Visit link for details.|Mar 20, 2024|
+ |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|22/03/2024|
+ |[OpenText - CVE-2024-1148](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1148-2024-03-22)|Visit link for details.|22/03/2024|
+ |[OpenText - CVE-2024-1147](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1147-2024-03-22)|Visit link for details.|22/03/2024|
+ |[GitHub - CVE-2024-2469](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2469-2024-03-22)|Visit link for details.|22/03/2024|
+ |[D-Link - CVE-2024-27683](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-27683-2024-03-22)|Visit link for details.|22/03/2024|
+ |[Fortinet - CVE-2023-48788](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48788-2024-03-13)|Visit link for details.|22/03/2024|
+ |[OpenText - CVE-2024-1811](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1811-2024-03-21)|Visit link for details.|21/03/2024|
+ |[OpenClinic GA - CVE-2023-40280](https://www.cyberveille-sante.gouv.fr/alertes/openclinic-ga-cve-2023-40280-2024-03-21)|Visit link for details.|21/03/2024|
+ |[Ivanti - CVE-2023-46808](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46808-2024-03-21-0)|Visit link for details.|21/03/2024|
+ |[Ivanti - CVE-2023-41724](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41724-2024-03-21)|Visit link for details.|21/03/2024|
+ |[GitHub - CVE-2024-2443](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2443-2024-03-21)|Visit link for details.|21/03/2024|
  
 
 # CERT-FR
@@ -82,6 +99,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353" class="noirorange"><b>Linux kernel</b>: use after free via drm_atomic.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353)|An attacker can force the reuse of a freed memory area of the Linux kernel, via drm_atomic.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352" class="noirorange"><b>Linux kernel</b>: use after free via amdgpu_cs_wait_all_fences()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/opencryptoki-information-disclosure-via-timing-43736" class="noirorange"><b>opencryptoki</b>: information disclosure via timing</a>](https://vigilance.fr/vulnerability/opencryptoki-information-disclosure-via-timing-43736)|An attacker can get information about the plain text of a message signed with RSA in PKCS 1 version 1.5 format...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349" class="noirorange"><b>Ansible Core</b>: information disclosure via ANSIBLE_NO_LOG</a>](https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349)|An attacker can bypass access restrictions to data of Ansible Core, via ANSIBLE_NO_LOG, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348" class="noirorange"><b>Jinja</b>: Cross Site Scripting via Placeholders</a>](https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348)|An attacker can trigger a Cross Site Scripting of Jinja, via Placeholders, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -89,26 +109,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via Offset Argument</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346)|An attacker can cause a fatal error of Kodi Home Theater Software, via Offset Argument, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345" class="noirorange"><b>Kodi xbmc</b>: denial of service via istream</a>](https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345)|An attacker can cause a fatal error of Kodi xbmc, via istream, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344" class="noirorange"><b>Kodi Chorus2</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344)|An attacker can traverse directories of Kodi Chorus2, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via GET Request Scan Jobs</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via GET Request Scan Jobs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Compact-Font-Format-Parser-41570" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via Compact Font Format Parser</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Compact-Font-Format-Parser-41570)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via Compact Font Format Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Backup-Restore-Feature-41569" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via Backup Restore Feature</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Backup-Restore-Feature-41569)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via Backup Restore Feature, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|22/03/2024|
- |[OpenText - CVE-2024-1148](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1148-2024-03-22)|Visit link for details.|22/03/2024|
- |[OpenText - CVE-2024-1147](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1147-2024-03-22)|Visit link for details.|22/03/2024|
- |[GitHub - CVE-2024-2469](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2469-2024-03-22)|Visit link for details.|22/03/2024|
- |[D-Link - CVE-2024-27683](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-27683-2024-03-22)|Visit link for details.|22/03/2024|
- |[Fortinet - CVE-2023-48788](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48788-2024-03-13)|Visit link for details.|22/03/2024|
- |[OpenText - CVE-2024-1811](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1811-2024-03-21)|Visit link for details.|21/03/2024|
- |[OpenClinic GA - CVE-2023-40280](https://www.cyberveille-sante.gouv.fr/alertes/openclinic-ga-cve-2023-40280-2024-03-21)|Visit link for details.|21/03/2024|
- |[Ivanti - CVE-2023-46808](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46808-2024-03-21-0)|Visit link for details.|21/03/2024|
- |[Ivanti - CVE-2023-41724](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41724-2024-03-21)|Visit link for details.|21/03/2024|
- |[GitHub - CVE-2024-2443](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2443-2024-03-21)|Visit link for details.|21/03/2024|
+ |[Progress Software LoadMaster command execution (CVE-2024-2448)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
+ |[Progress Software LoadMaster cross-site request forgery (CVE-2024-2449)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
+ |[CIGESv2 system information disclosure (CVE-2024-2725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
+ |[CIGESv2 system information disclosure (CVE-2024-2728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
+ |[CIGESv2 system cross-site scripting (CVE-2024-2727)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
+ |[CIGESv2 system cross-site scripting (CVE-2024-2726)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
+ |[CIGESv2 system SQL injection (CVE-2024-2724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  
 
 # HK-CERT
@@ -123,19 +136,6 @@
  |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress Software LoadMaster command execution (CVE-2024-2448)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
- |[Progress Software LoadMaster cross-site request forgery (CVE-2024-2449)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
- |[CIGESv2 system information disclosure (CVE-2024-2725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
- |[CIGESv2 system information disclosure (CVE-2024-2728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
- |[CIGESv2 system cross-site scripting (CVE-2024-2727)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
- |[CIGESv2 system cross-site scripting (CVE-2024-2726)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
- |[CIGESv2 system SQL injection (CVE-2024-2724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  
 
 # EU-CERT
