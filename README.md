@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/03/2024 11:24:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/03/2024 12:16:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,22 @@
  |[DSA-5642-1 php-dompdf-svg-lib - security update](https://www.linux.org/threads/dsa-5642-1-php-dompdf-svg-lib-security-update.49165/)|Visit link for details.|Mar 20, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
+ |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
+ |[CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity)|Visit link for details.|Mar 19, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 19, 2024|
+ |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
+ |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -62,20 +78,37 @@
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 mars 2024|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
- |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
- |[CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity)|Visit link for details.|Mar 19, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 19, 2024|
- |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
- |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|22/03/2024|
+ |[OpenText - CVE-2024-1148](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1148-2024-03-22)|Visit link for details.|22/03/2024|
+ |[OpenText - CVE-2024-1147](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1147-2024-03-22)|Visit link for details.|22/03/2024|
+ |[GitHub - CVE-2024-2469](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2469-2024-03-22)|Visit link for details.|22/03/2024|
+ |[D-Link - CVE-2024-27683](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-27683-2024-03-22)|Visit link for details.|22/03/2024|
+ |[Fortinet - CVE-2023-48788](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48788-2024-03-13)|Visit link for details.|22/03/2024|
+ |[OpenText - CVE-2024-1811](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1811-2024-03-21)|Visit link for details.|21/03/2024|
+ |[OpenClinic GA - CVE-2023-40280](https://www.cyberveille-sante.gouv.fr/alertes/openclinic-ga-cve-2023-40280-2024-03-21)|Visit link for details.|21/03/2024|
+ |[Ivanti - CVE-2023-46808](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46808-2024-03-21-0)|Visit link for details.|21/03/2024|
+ |[Ivanti - CVE-2023-41724](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41724-2024-03-21)|Visit link for details.|21/03/2024|
+ |[GitHub - CVE-2024-2443](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2443-2024-03-21)|Visit link for details.|21/03/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via GET Request Scan Jobs</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via GET Request Scan Jobs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Compact-Font-Format-Parser-41570" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via Compact Font Format Parser</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Compact-Font-Format-Parser-41570)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via Compact Font Format Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Backup-Restore-Feature-41569" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via Backup Restore Feature</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Backup-Restore-Feature-41569)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via Backup Restore Feature, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-code-execution-via-Web-Service-Eventing-Model-41568" class="noirorange"><b>HP LaserJet Pro Print</b>: code execution via Web Service Eventing Model</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-code-execution-via-Web-Service-Eventing-Model-41568)|An attacker can use a vulnerability of HP LaserJet Pro Print, via Web Service Eventing Model, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zlib-directory-traversal-via-miniunz-43342" class="noirorange"><b>zlib</b>: directory traversal via miniunz</a>](https://vigilance.fr/vulnerability/zlib-directory-traversal-via-miniunz-43342)|An attacker can traverse directories of zlib, via miniunz, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341" class="noirorange"><b>Linux kernel</b>: denial of service via Xen Zero-size SKB Frags</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Xen Zero-size SKB Frags, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340" class="noirorange"><b>Linux kernel</b>: use after free via __ext4_remount()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __ext4_remount(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339" class="noirorange"><b>IBM Storage Protect Plus Server</b>: information disclosure via Admin Console Endpoint</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339)|An attacker can bypass access restrictions to data of IBM Storage Protect Plus Server, via Admin Console Endpoint, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-five-vulnerabilities-41565" class="noirorange"><b>VMware vCenter Server</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-five-vulnerabilities-41565)|An attacker can use several vulnerabilities of VMware vCenter Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/giflib-memory-reading-via-DumpSCreen2RGB-43730" class="noirorange"><b>giflib</b>: memory reading via DumpSCreen2RGB()</a>](https://vigilance.fr/vulnerability/giflib-memory-reading-via-DumpSCreen2RGB-43730)|An attacker can read a memory fragment of giflib, via DumpSCreen2RGB(), in order to obtain sensitive information...|Visit link for details|
  
 
 # HK-CERT
@@ -103,39 +136,6 @@
  |[CIGESv2 system cross-site scripting (CVE-2024-2727)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  |[CIGESv2 system cross-site scripting (CVE-2024-2726)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  |[CIGESv2 system SQL injection (CVE-2024-2724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/zlib-directory-traversal-via-miniunz-43342" class="noirorange"><b>zlib</b>: directory traversal via miniunz</a>](https://vigilance.fr/vulnerability/zlib-directory-traversal-via-miniunz-43342)|An attacker can traverse directories of zlib, via miniunz, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341" class="noirorange"><b>Linux kernel</b>: denial of service via Xen Zero-size SKB Frags</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Xen Zero-size SKB Frags, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340" class="noirorange"><b>Linux kernel</b>: use after free via __ext4_remount()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __ext4_remount(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339" class="noirorange"><b>IBM Storage Protect Plus Server</b>: information disclosure via Admin Console Endpoint</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339)|An attacker can bypass access restrictions to data of IBM Storage Protect Plus Server, via Admin Console Endpoint, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-five-vulnerabilities-41565" class="noirorange"><b>VMware vCenter Server</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-five-vulnerabilities-41565)|An attacker can use several vulnerabilities of VMware vCenter Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/giflib-memory-reading-via-DumpSCreen2RGB-43730" class="noirorange"><b>giflib</b>: memory reading via DumpSCreen2RGB()</a>](https://vigilance.fr/vulnerability/giflib-memory-reading-via-DumpSCreen2RGB-43730)|An attacker can read a memory fragment of giflib, via DumpSCreen2RGB(), in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338" class="noirorange"><b>Spring Framework</b>: denial of service via HTTP Requests</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338)|An attacker can cause a fatal error of Spring Framework, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Archive File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Archive File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-OSPF-LSA-43727" class="noirorange"><b>FRRouting</b>: denial of service via OSPF LSA</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-OSPF-LSA-43727)|An attacker can send malicious OSPF LSA packets to FRRouting, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/c-ares-out-of-bounds-memory-reading-via-ares-read-line-43726" class="noirorange"><b>c-ares</b>: out-of-bounds memory reading via ares__read_line()</a>](https://vigilance.fr/vulnerability/c-ares-out-of-bounds-memory-reading-via-ares-read-line-43726)|An attacker can force a read at an invalid memory address of c-ares, via ares__read_line(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|22/03/2024|
- |[OpenText - CVE-2024-1148](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1148-2024-03-22)|Visit link for details.|22/03/2024|
- |[OpenText - CVE-2024-1147](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1147-2024-03-22)|Visit link for details.|22/03/2024|
- |[GitHub - CVE-2024-2469](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2469-2024-03-22)|Visit link for details.|22/03/2024|
- |[D-Link - CVE-2024-27683](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-27683-2024-03-22)|Visit link for details.|22/03/2024|
- |[Fortinet - CVE-2023-48788](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-48788-2024-03-13)|Visit link for details.|22/03/2024|
- |[OpenText - CVE-2024-1811](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1811-2024-03-21)|Visit link for details.|21/03/2024|
- |[OpenClinic GA - CVE-2023-40280](https://www.cyberveille-sante.gouv.fr/alertes/openclinic-ga-cve-2023-40280-2024-03-21)|Visit link for details.|21/03/2024|
- |[Ivanti - CVE-2023-46808](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46808-2024-03-21-0)|Visit link for details.|21/03/2024|
- |[Ivanti - CVE-2023-41724](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41724-2024-03-21)|Visit link for details.|21/03/2024|
- |[GitHub - CVE-2024-2443](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2443-2024-03-21)|Visit link for details.|21/03/2024|
  
 
 # ZERODAYINITIATIVE
