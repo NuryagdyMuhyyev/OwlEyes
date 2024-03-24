@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/03/2024 09:21:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/03/2024 10:15:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
+ |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
+ |[CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity)|Visit link for details.|Mar 19, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 19, 2024|
+ |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
+ |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -43,20 +59,6 @@
  |[Vulnérabilité dans Spring Authorization Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0236/)|Une vulnérabilité a été découverte dans |Publié le 20 mars 2024|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0235/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 mars 2024|
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 mars 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
  
 
 # LINUX-SEC
@@ -76,22 +78,6 @@
  |[DSA-5626-2 pdns-recursor - regression update](https://www.linux.org/threads/dsa-5626-2-pdns-recursor-regression-update.49166/)|Visit link for details.|Mar 20, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
- |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
- |[CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity)|Visit link for details.|Mar 19, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 19, 2024|
- |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/14/cisa-releases-fifteen-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2024|
- |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- |[Microsoft Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/12/microsoft-releases-security-updates-multiple-products)|Visit link for details.|Mar 12, 2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -103,6 +89,50 @@
  |[CIGESv2 system cross-site scripting (CVE-2024-2727)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  |[CIGESv2 system cross-site scripting (CVE-2024-2726)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  |[CIGESv2 system SQL injection (CVE-2024-2724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359" class="noirorange"><b>Squid</b>: denial of service via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359)|An attacker can cause a fatal error of Squid, via Cache Manager, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353" class="noirorange"><b>Linux kernel</b>: use after free via drm_atomic.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353)|An attacker can force the reuse of a freed memory area of the Linux kernel, via drm_atomic.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352" class="noirorange"><b>Linux kernel</b>: use after free via amdgpu_cs_wait_all_fences()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/opencryptoki-information-disclosure-via-timing-43736" class="noirorange"><b>opencryptoki</b>: information disclosure via timing</a>](https://vigilance.fr/vulnerability/opencryptoki-information-disclosure-via-timing-43736)|An attacker can get information about the plain text of a message signed with RSA in PKCS 1 version 1.5 format...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349" class="noirorange"><b>Ansible Core</b>: information disclosure via ANSIBLE_NO_LOG</a>](https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349)|An attacker can bypass access restrictions to data of Ansible Core, via ANSIBLE_NO_LOG, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348" class="noirorange"><b>Jinja</b>: Cross Site Scripting via Placeholders</a>](https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348)|An attacker can trigger a Cross Site Scripting of Jinja, via Placeholders, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via MP3 File</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347)|An attacker can cause a fatal error of Kodi Home Theater Software, via MP3 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via Offset Argument</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346)|An attacker can cause a fatal error of Kodi Home Theater Software, via Offset Argument, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345" class="noirorange"><b>Kodi xbmc</b>: denial of service via istream</a>](https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345)|An attacker can cause a fatal error of Kodi xbmc, via istream, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240315)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 15 Mar 2024 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
 # CERT-SANTE
@@ -120,36 +150,6 @@
  |[Ivanti - CVE-2023-46808](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46808-2024-03-21-0)|Visit link for details.|21/03/2024|
  |[Ivanti - CVE-2023-41724](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41724-2024-03-21)|Visit link for details.|21/03/2024|
  |[GitHub - CVE-2024-2443](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2443-2024-03-21)|Visit link for details.|21/03/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359" class="noirorange"><b>Squid</b>: denial of service via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359)|An attacker can cause a fatal error of Squid, via Cache Manager, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353" class="noirorange"><b>Linux kernel</b>: use after free via drm_atomic.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353)|An attacker can force the reuse of a freed memory area of the Linux kernel, via drm_atomic.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352" class="noirorange"><b>Linux kernel</b>: use after free via amdgpu_cs_wait_all_fences()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/opencryptoki-information-disclosure-via-timing-43736" class="noirorange"><b>opencryptoki</b>: information disclosure via timing</a>](https://vigilance.fr/vulnerability/opencryptoki-information-disclosure-via-timing-43736)|An attacker can get information about the plain text of a message signed with RSA in PKCS 1 version 1.5 format...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349" class="noirorange"><b>Ansible Core</b>: information disclosure via ANSIBLE_NO_LOG</a>](https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349)|An attacker can bypass access restrictions to data of Ansible Core, via ANSIBLE_NO_LOG, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348" class="noirorange"><b>Jinja</b>: Cross Site Scripting via Placeholders</a>](https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348)|An attacker can trigger a Cross Site Scripting of Jinja, via Placeholders, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via MP3 File</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347)|An attacker can cause a fatal error of Kodi Home Theater Software, via MP3 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via Offset Argument</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346)|An attacker can cause a fatal error of Kodi Home Theater Software, via Offset Argument, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345" class="noirorange"><b>Kodi xbmc</b>: denial of service via istream</a>](https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345)|An attacker can cause a fatal error of Kodi xbmc, via istream, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
