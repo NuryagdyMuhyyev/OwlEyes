@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/03/2024 16:15:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/03/2024 17:30:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,37 @@
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 mars 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Server-Side-Request-Forgery-via-CControllerAuthenticationUpdate-43374" class="noirorange"><b>Zabbix</b>: Server-Side Request Forgery via CControllerAuthenticationUpdate</a>](https://vigilance.fr/vulnerability/Zabbix-Server-Side-Request-Forgery-via-CControllerAuthenticationUpdate-43374)|An attacker can trigger a Server-Side Request Forgery of Zabbix, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/fontTools-external-XML-entity-injection-via-OT-SVG-Fonts-43373" class="noirorange"><b>fontTools</b>: external XML entity injection via OT-SVG Fonts</a>](https://vigilance.fr/vulnerability/fontTools-external-XML-entity-injection-via-OT-SVG-Fonts-43373)|An attacker can transmit malicious XML data to fontTools, via OT-SVG Fonts, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-social-group-flexible-group-43371" class="noirorange"><b>Drupal Open Social</b>: information disclosure via social_group_flexible_group</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-social-group-flexible-group-43371)|An attacker can bypass access restrictions to data of Drupal Open Social, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-write-access-via-Public-Content-43370" class="noirorange"><b>Drupal Open Social</b>: write access via Public Content</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-write-access-via-Public-Content-43370)|An attacker can bypass access restrictions of Drupal Open Social, via Public Content, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Disabled-Plugin-43369" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via Disabled Plugin</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Disabled-Plugin-43369)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via Disabled Plugin, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-Cross-Site-Scripting-43365" class="noirorange"><b>Cisco Unity Connection</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-Cross-Site-Scripting-43365)|An attacker can trigger a Cross Site Scripting of Cisco Unity Connection, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jasper-buffer-overflow-43361" class="noirorange"><b>Jasper</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Jasper-buffer-overflow-43361)|An attacker can trigger a buffer overflow of Jasper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pillow-code-execution-via-PIL-ImageMath-eval-43360" class="noirorange"><b>Pillow</b>: code execution via PIL.ImageMath.eval()</a>](https://vigilance.fr/vulnerability/Pillow-code-execution-via-PIL-ImageMath-eval-43360)|An attacker can use a vulnerability of Pillow, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359" class="noirorange"><b>Squid</b>: denial of service via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359)|An attacker can cause a fatal error of Squid, via Cache Manager, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution,  information disclosure, spoofing, denial of service and security restriction bypass on the targeted system.|Release Date: 25 Mar 2024 |
+ |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,22 +126,6 @@
  |[GitHub - CVE-2024-2443](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2443-2024-03-21)|Visit link for details.|21/03/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Server-Side-Request-Forgery-via-CControllerAuthenticationUpdate-43374" class="noirorange"><b>Zabbix</b>: Server-Side Request Forgery via CControllerAuthenticationUpdate</a>](https://vigilance.fr/vulnerability/Zabbix-Server-Side-Request-Forgery-via-CControllerAuthenticationUpdate-43374)|An attacker can trigger a Server-Side Request Forgery of Zabbix, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fontTools-external-XML-entity-injection-via-OT-SVG-Fonts-43373" class="noirorange"><b>fontTools</b>: external XML entity injection via OT-SVG Fonts</a>](https://vigilance.fr/vulnerability/fontTools-external-XML-entity-injection-via-OT-SVG-Fonts-43373)|An attacker can transmit malicious XML data to fontTools, via OT-SVG Fonts, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-social-group-flexible-group-43371" class="noirorange"><b>Drupal Open Social</b>: information disclosure via social_group_flexible_group</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-social-group-flexible-group-43371)|An attacker can bypass access restrictions to data of Drupal Open Social, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-write-access-via-Public-Content-43370" class="noirorange"><b>Drupal Open Social</b>: write access via Public Content</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-write-access-via-Public-Content-43370)|An attacker can bypass access restrictions of Drupal Open Social, via Public Content, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Disabled-Plugin-43369" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via Disabled Plugin</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Disabled-Plugin-43369)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via Disabled Plugin, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-Cross-Site-Scripting-43365" class="noirorange"><b>Cisco Unity Connection</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-Cross-Site-Scripting-43365)|An attacker can trigger a Cross Site Scripting of Cisco Unity Connection, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jasper-buffer-overflow-43361" class="noirorange"><b>Jasper</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Jasper-buffer-overflow-43361)|An attacker can trigger a buffer overflow of Jasper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pillow-code-execution-via-PIL-ImageMath-eval-43360" class="noirorange"><b>Pillow</b>: code execution via PIL.ImageMath.eval()</a>](https://vigilance.fr/vulnerability/Pillow-code-execution-via-PIL-ImageMath-eval-43360)|An attacker can use a vulnerability of Pillow, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359" class="noirorange"><b>Squid</b>: denial of service via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359)|An attacker can cause a fatal error of Squid, via Cache Manager, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,21 +137,6 @@
  |[CIGESv2 system cross-site scripting (CVE-2024-2727)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  |[CIGESv2 system cross-site scripting (CVE-2024-2726)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  |[CIGESv2 system SQL injection (CVE-2024-2724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution,  information disclosure, spoofing, denial of service and security restriction bypass on the targeted system.|Release Date: 25 Mar 2024 |
- |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -191,6 +191,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
  |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
  |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
  |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
@@ -199,5 +200,4 @@
  |[ 46662003/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-5)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 21 mars 2024|
  |[ 46632003/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-7)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 20 mars 2024|
  |[ 46622003/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et…| 20 mars 2024|
- |[ 46601903/24 - Vulnérabilité dans Kaspersky Password Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-kaspersky-password-manager)| Kaspersky a corrigé un problème de sécurité dans les versions susmentionnées de Kaspersky Password Manager. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte aux…| 19 mars 2024|
  
