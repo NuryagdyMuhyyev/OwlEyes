@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/03/2024 09:21:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/03/2024 10:17:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6710-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6710-1-firefox-vulnerabilities.49238/)|Visit link for details.|Mar 25, 2024|
  |[DSA-5647-1 samba - security update](https://www.linux.org/threads/dsa-5647-1-samba-security-update.49237/)|Visit link for details.|Mar 25, 2024|
  |[DSA-5646-1 cacti - security update](https://www.linux.org/threads/dsa-5646-1-cacti-security-update.49236/)|Visit link for details.|Mar 25, 2024|
  |[DSA-5645-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5645-1-firefox-esr-security-update.49226/)|Visit link for details.|Mar 24, 2024|
@@ -59,7 +60,6 @@
  |[USN-6709-1: OpenSSL vulnerabilities](https://www.linux.org/threads/usn-6709-1-openssl-vulnerabilities.49184/)|Visit link for details.|Mar 21, 2024|
  |[USN-6707-2: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6707-2-linux-kernel-arm-laptop-vulnerabilities.49181/)|Visit link for details.|Mar 21, 2024|
  |[USN-6704-2: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6704-2-linux-kernel-raspberry-pi-vulnerabilities.49180/)|Visit link for details.|Mar 21, 2024|
- |[USN-6702-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6702-2-linux-kernel-vulnerabilities.49168/)|Visit link for details.|Mar 20, 2024|
  
 
 # CERT-FR
@@ -78,22 +78,6 @@
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 mars 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-social-group-flexible-group-43371" class="noirorange"><b>Drupal Open Social</b>: information disclosure via social_group_flexible_group</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-social-group-flexible-group-43371)|An attacker can bypass access restrictions to data of Drupal Open Social, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-write-access-via-Public-Content-43370" class="noirorange"><b>Drupal Open Social</b>: write access via Public Content</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-write-access-via-Public-Content-43370)|An attacker can bypass access restrictions of Drupal Open Social, via Public Content, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Disabled-Plugin-43369" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via Disabled Plugin</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Disabled-Plugin-43369)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via Disabled Plugin, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-Cross-Site-Scripting-43365" class="noirorange"><b>Cisco Unity Connection</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-Cross-Site-Scripting-43365)|An attacker can trigger a Cross Site Scripting of Cisco Unity Connection, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jasper-buffer-overflow-43361" class="noirorange"><b>Jasper</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Jasper-buffer-overflow-43361)|An attacker can trigger a buffer overflow of Jasper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pillow-code-execution-via-PIL-ImageMath-eval-43360" class="noirorange"><b>Pillow</b>: code execution via PIL.ImageMath.eval()</a>](https://vigilance.fr/vulnerability/Pillow-code-execution-via-PIL-ImageMath-eval-43360)|An attacker can use a vulnerability of Pillow, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359" class="noirorange"><b>Squid</b>: denial of service via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359)|An attacker can cause a fatal error of Squid, via Cache Manager, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353" class="noirorange"><b>Linux kernel</b>: use after free via drm_atomic.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353)|An attacker can force the reuse of a freed memory area of the Linux kernel, via drm_atomic.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352" class="noirorange"><b>Linux kernel</b>: use after free via amdgpu_cs_wait_all_fences()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -109,6 +93,22 @@
  |[Ivanti - CVE-2023-46808](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-46808-2024-03-21-0)|Visit link for details.|21/03/2024|
  |[Ivanti - CVE-2023-41724](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-41724-2024-03-21)|Visit link for details.|21/03/2024|
  |[GitHub - CVE-2024-2443](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2443-2024-03-21)|Visit link for details.|21/03/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-social-group-flexible-group-43371" class="noirorange"><b>Drupal Open Social</b>: information disclosure via social_group_flexible_group</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-social-group-flexible-group-43371)|An attacker can bypass access restrictions to data of Drupal Open Social, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-write-access-via-Public-Content-43370" class="noirorange"><b>Drupal Open Social</b>: write access via Public Content</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-write-access-via-Public-Content-43370)|An attacker can bypass access restrictions of Drupal Open Social, via Public Content, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Disabled-Plugin-43369" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via Disabled Plugin</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Disabled-Plugin-43369)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via Disabled Plugin, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-Cross-Site-Scripting-43365" class="noirorange"><b>Cisco Unity Connection</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-Cross-Site-Scripting-43365)|An attacker can trigger a Cross Site Scripting of Cisco Unity Connection, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jasper-buffer-overflow-43361" class="noirorange"><b>Jasper</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Jasper-buffer-overflow-43361)|An attacker can trigger a buffer overflow of Jasper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pillow-code-execution-via-PIL-ImageMath-eval-43360" class="noirorange"><b>Pillow</b>: code execution via PIL.ImageMath.eval()</a>](https://vigilance.fr/vulnerability/Pillow-code-execution-via-PIL-ImageMath-eval-43360)|An attacker can use a vulnerability of Pillow, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359" class="noirorange"><b>Squid</b>: denial of service via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Cache-Manager-43359)|An attacker can cause a fatal error of Squid, via Cache Manager, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb_strndup_from_utf16()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb-strndup-from-utf16-43354)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353" class="noirorange"><b>Linux kernel</b>: use after free via drm_atomic.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drm-atomic-c-43353)|An attacker can force the reuse of a freed memory area of the Linux kernel, via drm_atomic.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352" class="noirorange"><b>Linux kernel</b>: use after free via amdgpu_cs_wait_all_fences()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-amdgpu-cs-wait-all-fences-43352)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
 
 # HK-CERT
@@ -139,20 +139,6 @@
  |[CIGESv2 system SQL injection (CVE-2024-2724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -170,19 +156,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
- |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
- |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
- |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
- |[ 46672003/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-1)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 21 mars 2024|
- |[ 46662003/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-5)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 21 mars 2024|
- |[ 46632003/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-7)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 20 mars 2024|
- |[ 46622003/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et…| 20 mars 2024|
- |[ 46601903/24 - Vulnérabilité dans Kaspersky Password Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-kaspersky-password-manager)| Kaspersky a corrigé un problème de sécurité dans les versions susmentionnées de Kaspersky Password Manager. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte aux…| 19 mars 2024|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-288/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-287/)|Visit link for details|2024-03-12|
  
 
 # CA-CCS
@@ -200,4 +185,19 @@
  |[Ubuntu security advisory (AV24-147)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-147)|Visit link for details|2024-03-18|
  |[Dell security advisory (AV24-146)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-146)|Visit link for details|2024-03-18|
  |[Microsoft Edge security advisory (AV24-145)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-145)|Visit link for details|2024-03-15|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
+ |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
+ |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
+ |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
+ |[ 46672003/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-1)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 21 mars 2024|
+ |[ 46662003/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-5)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de…| 21 mars 2024|
+ |[ 46632003/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-7)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 20 mars 2024|
+ |[ 46622003/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et…| 20 mars 2024|
+ |[ 46601903/24 - Vulnérabilité dans Kaspersky Password Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-kaspersky-password-manager)| Kaspersky a corrigé un problème de sécurité dans les versions susmentionnées de Kaspersky Password Manager. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte aux…| 19 mars 2024|
  
