@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/03/2024 04:18:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/03/2024 06:10:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,38 +45,6 @@
  |[Cisco Releases Security Updates for IOS XR Software ](https://www.cisa.gov/news-events/alerts/2024/03/14/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Mar 14, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6714-1: Debian Goodies vulnerability](https://www.linux.org/threads/usn-6714-1-debian-goodies-vulnerability.49248/)|Visit link for details.|Mar 25, 2024|
- |[USN-6711-1: CRM shell vulnerability](https://www.linux.org/threads/usn-6711-1-crm-shell-vulnerability.49247/)|Visit link for details.|Mar 25, 2024|
- |[USN-6713-1: QPDF vulnerability](https://www.linux.org/threads/usn-6713-1-qpdf-vulnerability.49243/)|Visit link for details.|Mar 25, 2024|
- |[USN-6712-1: Net::CIDR::Lite vulnerability](https://www.linux.org/threads/usn-6712-1-net-cidr-lite-vulnerability.49242/)|Visit link for details.|Mar 25, 2024|
- |[USN-6710-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6710-1-firefox-vulnerabilities.49238/)|Visit link for details.|Mar 25, 2024|
- |[DSA-5647-1 samba - security update](https://www.linux.org/threads/dsa-5647-1-samba-security-update.49237/)|Visit link for details.|Mar 25, 2024|
- |[DSA-5646-1 cacti - security update](https://www.linux.org/threads/dsa-5646-1-cacti-security-update.49236/)|Visit link for details.|Mar 25, 2024|
- |[DSA-5645-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5645-1-firefox-esr-security-update.49226/)|Visit link for details.|Mar 24, 2024|
- |[USN-6708-1: Graphviz vulnerability](https://www.linux.org/threads/usn-6708-1-graphviz-vulnerability.49200/)|Visit link for details.|Mar 22, 2024|
- |[DSA-5644-1 thunderbird - security update](https://www.linux.org/threads/dsa-5644-1-thunderbird-security-update.49195/)|Visit link for details.|Mar 22, 2024|
- |[USN-6700-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6700-2-linux-kernel-aws-vulnerabilities.49188/)|Visit link for details.|Mar 21, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution,  information disclosure, spoofing, denial of service and security restriction bypass on the targeted system.|Release Date: 25 Mar 2024 |
- |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -93,21 +61,21 @@
  |[Vulnérabilité dansMicrosoft Xbox Gaming Services](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/)|Une vulnérabilité a été découverte dans |Publié le 21 mars 2024|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress File Manager - CVE-2024-1538](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-file-manager-cve-2024-1538-2024-03-25)|Visit link for details.|25/03/2024|
- |[Mozilla Firefox - CVE-2024-29944](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-29944-2024-03-25)|Visit link for details.|25/03/2024|
- |[Microsoft - CVE-2024-29059](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-29059-2024-03-25)|Visit link for details.|25/03/2024|
- |[D-Link - CVE-2024-29385](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-29385-2024-03-25)|Visit link for details.|25/03/2024|
- |[Artica Proxy - CVE-2024-2054](https://www.cyberveille-sante.gouv.fr/alertes/artica-proxy-cve-2024-2054-2024-03-25)|Visit link for details.|25/03/2024|
- |[Nagios - CVE-2023-48084](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-48084-2023-12-26)|Visit link for details.|25/03/2024|
- |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|22/03/2024|
- |[OpenText - CVE-2024-1148](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1148-2024-03-22)|Visit link for details.|22/03/2024|
- |[OpenText - CVE-2024-1147](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1147-2024-03-22)|Visit link for details.|22/03/2024|
- |[GitHub - CVE-2024-2469](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2469-2024-03-22)|Visit link for details.|22/03/2024|
- |[D-Link - CVE-2024-27683](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-27683-2024-03-22)|Visit link for details.|22/03/2024|
+ |[USN-6714-1: Debian Goodies vulnerability](https://www.linux.org/threads/usn-6714-1-debian-goodies-vulnerability.49248/)|Visit link for details.|Mar 25, 2024|
+ |[USN-6711-1: CRM shell vulnerability](https://www.linux.org/threads/usn-6711-1-crm-shell-vulnerability.49247/)|Visit link for details.|Mar 25, 2024|
+ |[USN-6713-1: QPDF vulnerability](https://www.linux.org/threads/usn-6713-1-qpdf-vulnerability.49243/)|Visit link for details.|Mar 25, 2024|
+ |[USN-6712-1: Net::CIDR::Lite vulnerability](https://www.linux.org/threads/usn-6712-1-net-cidr-lite-vulnerability.49242/)|Visit link for details.|Mar 25, 2024|
+ |[USN-6710-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6710-1-firefox-vulnerabilities.49238/)|Visit link for details.|Mar 25, 2024|
+ |[DSA-5647-1 samba - security update](https://www.linux.org/threads/dsa-5647-1-samba-security-update.49237/)|Visit link for details.|Mar 25, 2024|
+ |[DSA-5646-1 cacti - security update](https://www.linux.org/threads/dsa-5646-1-cacti-security-update.49236/)|Visit link for details.|Mar 25, 2024|
+ |[DSA-5645-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5645-1-firefox-esr-security-update.49226/)|Visit link for details.|Mar 24, 2024|
+ |[USN-6708-1: Graphviz vulnerability](https://www.linux.org/threads/usn-6708-1-graphviz-vulnerability.49200/)|Visit link for details.|Mar 22, 2024|
+ |[DSA-5644-1 thunderbird - security update](https://www.linux.org/threads/dsa-5644-1-thunderbird-security-update.49195/)|Visit link for details.|Mar 22, 2024|
+ |[USN-6700-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6700-2-linux-kernel-aws-vulnerabilities.49188/)|Visit link for details.|Mar 21, 2024|
  
 
 # OBS-Vigilance
@@ -137,6 +105,38 @@
  |[Progress Software LoadMaster cross-site request forgery (CVE-2024-2449)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  |[CIGESv2 system information disclosure (CVE-2024-2725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
  |[CIGESv2 system information disclosure (CVE-2024-2728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress File Manager - CVE-2024-1538](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-file-manager-cve-2024-1538-2024-03-25)|Visit link for details.|25/03/2024|
+ |[Mozilla Firefox - CVE-2024-29944](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-29944-2024-03-25)|Visit link for details.|25/03/2024|
+ |[Microsoft - CVE-2024-29059](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-29059-2024-03-25)|Visit link for details.|25/03/2024|
+ |[D-Link - CVE-2024-29385](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-29385-2024-03-25)|Visit link for details.|25/03/2024|
+ |[Artica Proxy - CVE-2024-2054](https://www.cyberveille-sante.gouv.fr/alertes/artica-proxy-cve-2024-2054-2024-03-25)|Visit link for details.|25/03/2024|
+ |[Nagios - CVE-2023-48084](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-48084-2023-12-26)|Visit link for details.|25/03/2024|
+ |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|22/03/2024|
+ |[OpenText - CVE-2024-1148](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1148-2024-03-22)|Visit link for details.|22/03/2024|
+ |[OpenText - CVE-2024-1147](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-1147-2024-03-22)|Visit link for details.|22/03/2024|
+ |[GitHub - CVE-2024-2469](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-2469-2024-03-22)|Visit link for details.|22/03/2024|
+ |[D-Link - CVE-2024-27683](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-27683-2024-03-22)|Visit link for details.|22/03/2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution,  information disclosure, spoofing, denial of service and security restriction bypass on the targeted system.|Release Date: 25 Mar 2024 |
+ |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20240319)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, elevation of privilege, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 19 Mar 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240307)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-03...| Release Date: 7 Mar 2024 |
  
 
 # ZERODAYINITIATIVE
