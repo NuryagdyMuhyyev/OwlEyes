@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/03/2024 03:17:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/03/2024 04:16:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6686-5: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6686-5-linux-kernel-intel-iotg-vulnerabilities.49291/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6717-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6717-1-thunderbird-vulnerabilities.49267/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6588-2: PAM vulnerability](https://www.linux.org/threads/usn-6588-2-pam-vulnerability.49264/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6716-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6716-1-linux-kernel-azure-vulnerabilities.49258/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6701-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6701-3-linux-kernel-vulnerabilities.49257/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6704-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6704-3-linux-kernel-oracle-vulnerabilities.49256/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6707-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6707-3-linux-kernel-aws-vulnerabilities.49255/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6714-1: Debian Goodies vulnerability](https://www.linux.org/threads/usn-6714-1-debian-goodies-vulnerability.49248/)|Visit link for details.|Mar 25, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,27 +62,13 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 19, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
- |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
- |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
- |[USN-6717-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6717-1-thunderbird-vulnerabilities.49267/)|Visit link for details.|Mar 26, 2024|
- |[USN-6588-2: PAM vulnerability](https://www.linux.org/threads/usn-6588-2-pam-vulnerability.49264/)|Visit link for details.|Mar 26, 2024|
- |[USN-6716-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6716-1-linux-kernel-azure-vulnerabilities.49258/)|Visit link for details.|Mar 26, 2024|
- |[USN-6701-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6701-3-linux-kernel-vulnerabilities.49257/)|Visit link for details.|Mar 26, 2024|
- |[USN-6704-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6704-3-linux-kernel-oracle-vulnerabilities.49256/)|Visit link for details.|Mar 26, 2024|
- |[USN-6707-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6707-3-linux-kernel-aws-vulnerabilities.49255/)|Visit link for details.|Mar 26, 2024|
- |[USN-6714-1: Debian Goodies vulnerability](https://www.linux.org/threads/usn-6714-1-debian-goodies-vulnerability.49248/)|Visit link for details.|Mar 25, 2024|
- |[USN-6711-1: CRM shell vulnerability](https://www.linux.org/threads/usn-6711-1-crm-shell-vulnerability.49247/)|Visit link for details.|Mar 25, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 mars 2024|
+ |[Vulnérabilité dans Aruba ArubaOS-Switch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/)|Une vulnérabilité a été découverte dans Aruba ArubaOS-Switch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 27 mars 2024|
+ |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 27 mars 2024|
  |[Multiples vulnérabilités dans Kaspersky Anti Targeted Attack](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Kaspersky Anti Targeted Attack. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 mars 2024|
  |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0250/)|Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 mars 2024|
  |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0249/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 mars 2024|
@@ -73,9 +76,6 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0247/)|De multiples vulnérabilités ont été corrigées dans |Publié le 25 mars 2024|
  |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0246/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 25 mars 2024|
  |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0245/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 mars 2024|
- |[Multiples vulnérabilités dans les produits Netapp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans les produits Netapp. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 25 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0243/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 mars 2024|
  
 
 # HK-CERT
@@ -94,6 +94,19 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Contact Form With Captcha Plugin for WordPress cross-site scripting (CVE-2023-45771)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[Booking Calendar Plugin for WordPress SQL Injection (CVE-2023-23991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[WP Dummy Content Generator Plugin for WordPress security bypass (CVE-2024-24805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[PropertyHive Plugin for WordPress security bypass (CVE-2024-24718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[Location Picker at Checkout for WooCommerce Plugin for WordPress security bypass (CVE-2024-24719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[WireShark denial of service (CVE-2023-6175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -109,19 +122,6 @@
  |[GnuTLS - CVE-2024-0553](https://www.cyberveille-sante.gouv.fr/alertes/gnutls-cve-2024-0553-2024-03-26)|Visit link for details.|26/03/2024|
  |[D-Link - CVE-2024-29366](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-29366-2024-03-26)|Visit link for details.|26/03/2024|
  |[WordPress File Manager - CVE-2024-1538](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-file-manager-cve-2024-1538-2024-03-25)|Visit link for details.|25/03/2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Contact Form With Captcha Plugin for WordPress cross-site scripting (CVE-2023-45771)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[Booking Calendar Plugin for WordPress SQL Injection (CVE-2023-23991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[WP Dummy Content Generator Plugin for WordPress security bypass (CVE-2024-24805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[PropertyHive Plugin for WordPress security bypass (CVE-2024-24718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[Location Picker at Checkout for WooCommerce Plugin for WordPress security bypass (CVE-2024-24719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[WireShark denial of service (CVE-2023-6175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
  
 
 # OBS-Vigilance
@@ -154,6 +154,23 @@
  |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-164)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-164)|Visit link for details|2024-03-27|
+ |[[Control systems] Siemens security advisory (AV24-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-163)|Visit link for details|2024-03-27|
+ |[Google Chrome security advisory (AV24-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-162)|Visit link for details|2024-03-26|
+ |[Red Hat security advisory (AV24-161)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-161)|Visit link for details|2024-03-26|
+ |[[Control systems] CISA ICS security advisories (AV24-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-160)|Visit link for details|2024-03-26|
+ |[Apple security advisory (AV24-159)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-159)|Visit link for details|2024-03-26|
+ |[Dell security advisory (AV24-158)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-158)|Visit link for details|2024-03-25|
+ |[IBM security advisory (AV24-157)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-157)|Visit link for details|2024-03-25|
+ |[Ubuntu security advisory (AV24-156)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-156)|Visit link for details|2024-03-25|
+ |[Mozilla security advisory (AV24-155)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-155)|Visit link for details|2024-03-22|
+ |[Ivanti security advisory (AV24-154)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-154)|Visit link for details|2024-03-20|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -184,21 +201,4 @@
  |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
  |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
  |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-164)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-164)|Visit link for details|2024-03-27|
- |[[Control systems] Siemens security advisory (AV24-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-163)|Visit link for details|2024-03-27|
- |[Google Chrome security advisory (AV24-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-162)|Visit link for details|2024-03-26|
- |[Red Hat security advisory (AV24-161)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-161)|Visit link for details|2024-03-26|
- |[[Control systems] CISA ICS security advisories (AV24-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-160)|Visit link for details|2024-03-26|
- |[Apple security advisory (AV24-159)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-159)|Visit link for details|2024-03-26|
- |[Dell security advisory (AV24-158)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-158)|Visit link for details|2024-03-25|
- |[IBM security advisory (AV24-157)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-157)|Visit link for details|2024-03-25|
- |[Ubuntu security advisory (AV24-156)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-156)|Visit link for details|2024-03-25|
- |[Mozilla security advisory (AV24-155)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-155)|Visit link for details|2024-03-22|
- |[Ivanti security advisory (AV24-154)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-154)|Visit link for details|2024-03-20|
  
