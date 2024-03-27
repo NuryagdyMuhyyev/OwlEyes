@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/03/2024 22:14:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/03/2024 23:20:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -171,21 +171,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
- |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
- |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
- |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
- |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
- |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
- |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
- |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
- |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -201,4 +186,19 @@
  |[Ubuntu security advisory (AV24-156)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-156)|Visit link for details|2024-03-25|
  |[Mozilla security advisory (AV24-155)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-155)|Visit link for details|2024-03-22|
  |[Ivanti security advisory (AV24-154)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-154)|Visit link for details|2024-03-20|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
+ |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
+ |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
+ |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
+ |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
+ |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
+ |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
+ |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
+ |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
  
