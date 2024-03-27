@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/03/2024 02:14:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/03/2024 03:17:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[USN-6711-1: CRM shell vulnerability](https://www.linux.org/threads/usn-6711-1-crm-shell-vulnerability.49247/)|Visit link for details.|Mar 25, 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240327)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2024 |
- |[Apple Product Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-remote-code-execution-vulnerability_20240326)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2024-03-27] Updated System / Technologies affected, Solutions and Related Links.| Release Date: 26 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240326)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch is currently available for CVE-2023-4408 of the affected products.|Release Date: 26 Mar 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution,  information disclosure, spoofing, denial of service and security restriction bypass on the targeted system.|Release Date: 25 Mar 2024 |
- |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -94,17 +78,20 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 mars 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Contact Form With Captcha Plugin for WordPress cross-site scripting (CVE-2023-45771)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[Booking Calendar Plugin for WordPress SQL Injection (CVE-2023-23991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[WP Dummy Content Generator Plugin for WordPress security bypass (CVE-2024-24805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[PropertyHive Plugin for WordPress security bypass (CVE-2024-24718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[Location Picker at Checkout for WooCommerce Plugin for WordPress security bypass (CVE-2024-24719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[WireShark denial of service (CVE-2023-6175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240327)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2024 |
+ |[Apple Product Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-remote-code-execution-vulnerability_20240326)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2024-03-27] Updated System / Technologies affected, Solutions and Related Links.| Release Date: 26 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240326)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch is currently available for CVE-2023-4408 of the affected products.|Release Date: 26 Mar 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution,  information disclosure, spoofing, denial of service and security restriction bypass on the targeted system.|Release Date: 25 Mar 2024 |
+ |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
  
 
 # CERT-SANTE
@@ -124,18 +111,17 @@
  |[WordPress File Manager - CVE-2024-1538](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-file-manager-cve-2024-1538-2024-03-25)|Visit link for details.|25/03/2024|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Autodesk DWG TrueView DWG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-296/)|Visit link for details|2024-03-27|
- |[Autodesk FBX Review ABC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-295/)|Visit link for details|2024-03-27|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ |[Contact Form With Captcha Plugin for WordPress cross-site scripting (CVE-2023-45771)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[Booking Calendar Plugin for WordPress SQL Injection (CVE-2023-23991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[WP Dummy Content Generator Plugin for WordPress security bypass (CVE-2024-24805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[PropertyHive Plugin for WordPress security bypass (CVE-2024-24718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[Location Picker at Checkout for WooCommerce Plugin for WordPress security bypass (CVE-2024-24719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[WireShark denial of service (CVE-2023-6175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
  
 
 # OBS-Vigilance
@@ -152,6 +138,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391" class="noirorange"><b>Quarkus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391)|An attacker can bypass restrictions of Quarkus, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cpio-directory-traversal-43390" class="noirorange"><b>cpio</b>: directory traversal</a>](https://vigilance.fr/vulnerability/cpio-directory-traversal-43390)|An attacker can traverse directories of cpio, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NetBSD-log-corruption-via-utmp-update-43740" class="noirorange"><b>NetBSD</b>: log corruption via utmp_update</a>](https://vigilance.fr/vulnerability/NetBSD-log-corruption-via-utmp-update-43740)|An attacker can corrupt the NetBSD utmp log, via utmp_update, in order to modify its display...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Autodesk DWG TrueView DWG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-296/)|Visit link for details|2024-03-27|
+ |[Autodesk FBX Review ABC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-295/)|Visit link for details|2024-03-27|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
  
 
 # EU-CERT
@@ -171,6 +171,21 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
+ |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
+ |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
+ |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
+ |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
+ |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
+ |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
+ |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
+ |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -186,19 +201,4 @@
  |[Ubuntu security advisory (AV24-156)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-156)|Visit link for details|2024-03-25|
  |[Mozilla security advisory (AV24-155)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-155)|Visit link for details|2024-03-22|
  |[Ivanti security advisory (AV24-154)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-154)|Visit link for details|2024-03-20|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
- |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
- |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
- |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
- |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
- |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
- |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
- |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
- |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
  
