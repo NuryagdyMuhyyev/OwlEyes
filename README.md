@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/03/2024 17:30:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/03/2024 18:18:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,22 +78,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 mars 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743" class="noirorange"><b>Linux kernel</b>: memory reading via the driver of Habana's AI Processors</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743)|An attacker can read a memory fragment of the Linux kernel, via the driver of the Habana|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-41588" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-41588)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AccountsService-obtain-hashed-passwords-43742" class="noirorange"><b>AccountsService</b>: obtain hashed passwords</a>](https://vigilance.fr/vulnerability/AccountsService-obtain-hashed-passwords-43742)|An attacker can bypass access restrictions to data of AccountsService, in order to get the password fingerprints...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Parsson-overload-via-JSON-43393" class="noirorange"><b>Eclipse Parsson</b>: overload via JSON</a>](https://vigilance.fr/vulnerability/Eclipse-Parsson-overload-via-JSON-43393)|An attacker can trigger an overload of Eclipse Parsson, via JSON, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392" class="noirorange"><b>Quarkus</b>: read-write access via Json Payload Deserialized</a>](https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392)|An attacker can bypass access restrictions of Quarkus, via Json Payload Deserialized, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391" class="noirorange"><b>Quarkus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391)|An attacker can bypass restrictions of Quarkus, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cpio-directory-traversal-43390" class="noirorange"><b>cpio</b>: directory traversal</a>](https://vigilance.fr/vulnerability/cpio-directory-traversal-43390)|An attacker can traverse directories of cpio, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NetBSD-log-corruption-via-utmp-update-43740" class="noirorange"><b>NetBSD</b>: log corruption via utmp_update</a>](https://vigilance.fr/vulnerability/NetBSD-log-corruption-via-utmp-update-43740)|An attacker can corrupt the NetBSD utmp log, via utmp_update, in order to modify its display...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grub-denial-of-service-via-grub2-set-bootflag-43739" class="noirorange"><b>Grub</b>: denial of service via grub2-set-bootflag</a>](https://vigilance.fr/vulnerability/Grub-denial-of-service-via-grub2-set-bootflag-43739)|An attacker can cause a fatal error of Grub, via grub2-set-bootflag, in order to trigger a denial of service...|Visit link for details|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -140,6 +124,36 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Autodesk DWG TrueView DWG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-296/)|Visit link for details|2024-03-27|
+ |[Autodesk FBX Review ABC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-295/)|Visit link for details|2024-03-27|
+ |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
+ |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
+ |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
+ |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
+ |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743" class="noirorange"><b>Linux kernel</b>: memory reading via the driver of Habana's AI Processors</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743)|An attacker can read a memory fragment of the Linux kernel, via the driver of the Habana|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-41588" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-41588)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AccountsService-obtain-hashed-passwords-43742" class="noirorange"><b>AccountsService</b>: obtain hashed passwords</a>](https://vigilance.fr/vulnerability/AccountsService-obtain-hashed-passwords-43742)|An attacker can bypass access restrictions to data of AccountsService, in order to get the password fingerprints...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-Parsson-overload-via-JSON-43393" class="noirorange"><b>Eclipse Parsson</b>: overload via JSON</a>](https://vigilance.fr/vulnerability/Eclipse-Parsson-overload-via-JSON-43393)|An attacker can trigger an overload of Eclipse Parsson, via JSON, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392" class="noirorange"><b>Quarkus</b>: read-write access via Json Payload Deserialized</a>](https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Json-Payload-Deserialized-43392)|An attacker can bypass access restrictions of Quarkus, via Json Payload Deserialized, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391" class="noirorange"><b>Quarkus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391)|An attacker can bypass restrictions of Quarkus, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cpio-directory-traversal-43390" class="noirorange"><b>cpio</b>: directory traversal</a>](https://vigilance.fr/vulnerability/cpio-directory-traversal-43390)|An attacker can traverse directories of cpio, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetBSD-log-corruption-via-utmp-update-43740" class="noirorange"><b>NetBSD</b>: log corruption via utmp_update</a>](https://vigilance.fr/vulnerability/NetBSD-log-corruption-via-utmp-update-43740)|An attacker can corrupt the NetBSD utmp log, via utmp_update, in order to modify its display...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grub-denial-of-service-via-grub2-set-bootflag-43739" class="noirorange"><b>Grub</b>: denial of service via grub2-set-bootflag</a>](https://vigilance.fr/vulnerability/Grub-denial-of-service-via-grub2-set-bootflag-43739)|An attacker can cause a fatal error of Grub, via grub2-set-bootflag, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -157,35 +171,6 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
- |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
- |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
- |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
- |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
- |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
- |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
- |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
- |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Autodesk DWG TrueView DWG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-296/)|Visit link for details|2024-03-27|
- |[Autodesk FBX Review ABC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-295/)|Visit link for details|2024-03-27|
- |[Microsoft Office Performance Monitor Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-294/)|Visit link for details|2024-03-13|
- |[Microsoft Skype Protection Mechanism Failure Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-293/)|Visit link for details|2024-03-13|
- |[Adobe Premiere Pro AVI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-292/)|Visit link for details|2024-03-13|
- |[Adobe Bridge PS File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-291/)|Visit link for details|2024-03-13|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-290/)|Visit link for details|2024-03-12|
- |[NI LabVIEW VI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-289/)|Visit link for details|2024-03-12|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -201,4 +186,19 @@
  |[Ivanti security advisory (AV24-154)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-154)|Visit link for details|2024-03-20|
  |[Google Chrome security advisory (AV24-153)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-153)|Visit link for details|2024-03-20|
  |[Atlassian security advisory (AV24-152)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-152)|Visit link for details|2024-03-19|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
+ |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
+ |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
+ |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
+ |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
+ |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
+ |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
+ |[ 46642103/24 - Vulnérabilité critique affectant Ivanti Standalone Sentry ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-ivanti-standalone-sentry)| Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit Standalone Sentry. L’exploitation de cette…| 21 mars 2024|
+ |[ 46682003/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian)| Atlassian a corrigée plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 21 mars 2024|
  
