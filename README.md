@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/03/2024 06:10:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/03/2024 07:22:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 26, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 26, 2024|
- |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate SQL Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-sql-injection-vulnerabilities)|Visit link for details.|Mar 25, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 25, 2024|
- |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
- |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
- |[CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity)|Visit link for details.|Mar 19, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 19, 2024|
- |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,38 @@
  |[USN-6713-1: QPDF vulnerability](https://www.linux.org/threads/usn-6713-1-qpdf-vulnerability.49243/)|Visit link for details.|Mar 25, 2024|
  |[USN-6712-1: Net::CIDR::Lite vulnerability](https://www.linux.org/threads/usn-6712-1-net-cidr-lite-vulnerability.49242/)|Visit link for details.|Mar 25, 2024|
  |[USN-6710-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6710-1-firefox-vulnerabilities.49238/)|Visit link for details.|Mar 25, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Kaspersky Anti Targeted Attack](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Kaspersky Anti Targeted Attack. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 mars 2024|
+ |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0250/)|Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 mars 2024|
+ |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0249/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 mars 2024|
+ |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0248/)|Une vulnérabilité a été corrigée dans |Publié le 25 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0247/)|De multiples vulnérabilités ont été corrigées dans |Publié le 25 mars 2024|
+ |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0246/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 25 mars 2024|
+ |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0245/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 mars 2024|
+ |[Multiples vulnérabilités dans les produits Netapp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans les produits Netapp. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 25 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0243/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 mars 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 26, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 26, 2024|
+ |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate SQL Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-sql-injection-vulnerabilities)|Visit link for details.|Mar 25, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 25, 2024|
+ |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
+ |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
+ |[CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity)|Visit link for details.|Mar 19, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 19, 2024|
+ |[Repository for Software Attestation and Artifacts Now Live](https://www.cisa.gov/news-events/alerts/2024/03/18/repository-software-attestation-and-artifacts-now-live)|Visit link for details.|Mar 18, 2024|
  
 
 # CERT-SANTE
@@ -79,33 +95,20 @@
  |[Nagios - CVE-2023-48084](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2023-48084-2023-12-26)|Visit link for details.|25/03/2024|
  
 
-# CERT-FR
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Kaspersky Anti Targeted Attack](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Kaspersky Anti Targeted Attack. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 mars 2024|
- |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0250/)|Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 mars 2024|
- |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0249/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 mars 2024|
- |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0248/)|Une vulnérabilité a été corrigée dans |Publié le 25 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0247/)|De multiples vulnérabilités ont été corrigées dans |Publié le 25 mars 2024|
- |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0246/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 25 mars 2024|
- |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0245/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 mars 2024|
- |[Multiples vulnérabilités dans les produits Netapp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans les produits Netapp. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 25 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0243/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 mars 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Location Picker at Checkout for WooCommerce Plugin for WordPress security bypass (CVE-2024-24719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[WireShark denial of service (CVE-2023-6175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[Google Chrome code execution (CVE-2024-2887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[Google Chrome code execution (CVE-2024-2886)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[Google Chrome code execution (CVE-2024-2885)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[Google Chrome code execution (CVE-2024-2883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240327)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2024 |
+ |[Apple Product Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-remote-code-execution-vulnerability_20240326)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2024-03-27] Updated System / Technologies affected, Solutions and Related Links.| Release Date: 26 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240326)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch is currently available for CVE-2023-4408 of the affected products.|Release Date: 26 Mar 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution,  information disclosure, spoofing, denial of service and security restriction bypass on the targeted system.|Release Date: 25 Mar 2024 |
+ |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
  
 
 # OBS-Vigilance
@@ -124,19 +127,17 @@
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388" class="noirorange"><b>LibTIFF</b>: buffer overflow via TIFFReadRGBAStrip()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRGBAStrip-43388)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
  
 
-# HK-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple Product Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-remote-code-execution-vulnerability_20240326)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 26 Mar 2024 |
- |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240326)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch is currently available for CVE-2023-4408 of the affected products.|Release Date: 26 Mar 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution,  information disclosure, spoofing, denial of service and security restriction bypass on the targeted system.|Release Date: 25 Mar 2024 |
- |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240313)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-03-22] For CVE-2023-48788, ...| Release Date: 13 Mar 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240320)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Mar 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 18 Mar 2024 |
+ |[Location Picker at Checkout for WooCommerce Plugin for WordPress security bypass (CVE-2024-24719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[WireShark denial of service (CVE-2023-6175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[Google Chrome code execution (CVE-2024-2887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[Google Chrome code execution (CVE-2024-2886)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[Google Chrome code execution (CVE-2024-2885)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[Google Chrome code execution (CVE-2024-2883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2024|
  
 
 # ZERODAYINITIATIVE
