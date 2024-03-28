@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/03/2024 01:18:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/03/2024 02:15:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6715-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6715-1-unixodbc-vulnerability.49292/)|Visit link for details.|Mar 28, 2024|
- |[USN-6686-5: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6686-5-linux-kernel-intel-iotg-vulnerabilities.49291/)|Visit link for details.|Mar 27, 2024|
- |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
- |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
- |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
- |[USN-6717-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6717-1-thunderbird-vulnerabilities.49267/)|Visit link for details.|Mar 26, 2024|
- |[USN-6588-2: PAM vulnerability](https://www.linux.org/threads/usn-6588-2-pam-vulnerability.49264/)|Visit link for details.|Mar 26, 2024|
- |[USN-6716-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6716-1-linux-kernel-azure-vulnerabilities.49258/)|Visit link for details.|Mar 26, 2024|
- |[USN-6701-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6701-3-linux-kernel-vulnerabilities.49257/)|Visit link for details.|Mar 26, 2024|
- |[USN-6704-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6704-3-linux-kernel-oracle-vulnerabilities.49256/)|Visit link for details.|Mar 26, 2024|
- |[USN-6707-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6707-3-linux-kernel-aws-vulnerabilities.49255/)|Visit link for details.|Mar 26, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,21 +45,21 @@
  |[CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity)|Visit link for details.|Mar 19, 2024|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Tenable Nessus - CVE-2024-2390](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-2390-2024-03-28)|Visit link for details.|28/03/2024|
- |[Synology - CVE-2024-29241](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-29241-2024-03-28)|Visit link for details.|28/03/2024|
- |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|28/03/2024|
- |[Cisco - CVE-2024-20314](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20314-2024-03-28)|Visit link for details.|28/03/2024|
- |[Cisco - CVE-2024-20311](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20311-2024-03-28)|Visit link for details.|28/03/2024|
- |[WordPress Elementor - CVE-2023-48777](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementor-cve-2023-48777-2023-12-08)|Visit link for details.|28/03/2024|
- |[WordPress Check & Log Email - CVE-2024-0866](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-check-log-email-cve-2024-0866-2024-03-27)|Visit link for details.|27/03/2024|
- |[TeamViewer - CVE-2024-1933](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-1933-2024-03-27)|Visit link for details.|27/03/2024|
- |[SonicDICOM - CVE-2024-29734](https://www.cyberveille-sante.gouv.fr/alertes/sonicdicom-cve-2024-29734-2024-03-27)|Visit link for details.|27/03/2024|
- |[Microsoft SharePoint - CVE-2023-24955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-24955-2024-03-27)|Visit link for details.|27/03/2024|
- |[Google Chrome - CVE-2024-2883](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2883-2024-03-27)|Visit link for details.|27/03/2024|
+ |[USN-6715-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6715-1-unixodbc-vulnerability.49292/)|Visit link for details.|Mar 28, 2024|
+ |[USN-6686-5: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6686-5-linux-kernel-intel-iotg-vulnerabilities.49291/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6717-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6717-1-thunderbird-vulnerabilities.49267/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6588-2: PAM vulnerability](https://www.linux.org/threads/usn-6588-2-pam-vulnerability.49264/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6716-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6716-1-linux-kernel-azure-vulnerabilities.49258/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6701-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6701-3-linux-kernel-vulnerabilities.49257/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6704-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6704-3-linux-kernel-oracle-vulnerabilities.49256/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6707-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6707-3-linux-kernel-aws-vulnerabilities.49255/)|Visit link for details.|Mar 26, 2024|
  
 
 # HK-CERT
@@ -108,22 +91,6 @@
  |[Simple Subscription Website SQL injection (CVE-2024-3015)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-GhostRace-43764" class="noirorange"><b>Xen</b>: information disclosure via GhostRace</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-GhostRace-43764)|An attacker can exploit the processor|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Atom-processor-getting-information-about-float-calculation-registers-43763" class="noirorange"><b>Intel Atom processor</b>: getting information about float calculation registers</a>](https://vigilance.fr/vulnerability/Intel-Atom-processor-getting-information-about-float-calculation-registers-43763)|An attacker can obtain information on the contents of float calculation registers...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Bluetooh-RFCOMM-43758" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Bluetooh RFCOMM</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Bluetooh-RFCOMM-43758)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Bluetooh RFCOMM, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libLAS-memory-leak-43757" class="noirorange"><b>libLAS</b>: memory leak</a>](https://vigilance.fr/vulnerability/libLAS-memory-leak-43757)|An attacker can create a memory leak of libLAS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeIPA-denial-of-service-via-HTTP-43756" class="noirorange"><b>FreeIPA</b>: denial of service via HTTP</a>](https://vigilance.fr/vulnerability/FreeIPA-denial-of-service-via-HTTP-43756)|An attacker can cause a fatal error of FreeIPA, via HTTP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/EDK-II-memory-reading-via-DHCP-v6-43755" class="noirorange"><b>EDK II</b>: memory reading via DHCP v6</a>](https://vigilance.fr/vulnerability/EDK-II-memory-reading-via-DHCP-v6-43755)|An attacker can read a memory fragment of EDK II, via DHCP v6, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594" class="noirorange"><b>Etcd-io</b>: privilege escalation via Debug Function</a>](https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594)|An attacker can bypass restrictions of Etcd-io, via Debug Function, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592" class="noirorange"><b>Keycloak</b>: user access via Oauth Client Impersonation</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592)|An attacker can bypass restrictions of Keycloak, via Oauth Client Impersonation, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-memcg-43744" class="noirorange"><b>Linux kernel</b>: memory leak via memcg</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-memcg-43744)|An attacker can create a memory leak of the Linux kernel, via memcg, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743" class="noirorange"><b>Linux kernel</b>: memory reading via the driver of Habana's AI Processors</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743)|An attacker can read a memory fragment of the Linux kernel, via the driver of the Habana|Visit link for details|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -140,19 +107,51 @@
  |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0245/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 mars 2024|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 46772803/24 - Vulnérabilité dans Aruba ArubaOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-aruba-arubaos)| Une vulnérabilité a été corrigée dans Aruba ArubaOS-Switch. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service.| 28 mars 2024|
- |[ 46762803/24 - Vulnérabilité critique dans le protocole UDP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-protocole-udp)| Des chercheurs en sécurité ont révélé une vulnérabilité critique (CVE-2024-2169) affectant les implémentations du protocole UDP (User Datagram Protocol). L'exploitation réussie de cette vulnérabilité…| 28 mars 2024|
- |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
- |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
- |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
- |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
- |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
- |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
- |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
+ |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
+ |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-352/)|Visit link for details|2024-03-28|
+ |[SolarWinds Access Rights Manager OpenFileStreamLocal Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-351/)|Visit link for details|2024-03-28|
+ |[SolarWinds Access Rights Manager JsonSerializationHelper Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-350/)|Visit link for details|2024-03-28|
+ |[SolarWinds Access Rights Manager OpenFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-349/)|Visit link for details|2024-03-28|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-GhostRace-43764" class="noirorange"><b>Xen</b>: information disclosure via GhostRace</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-GhostRace-43764)|An attacker can exploit the processor|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Atom-processor-getting-information-about-float-calculation-registers-43763" class="noirorange"><b>Intel Atom processor</b>: getting information about float calculation registers</a>](https://vigilance.fr/vulnerability/Intel-Atom-processor-getting-information-about-float-calculation-registers-43763)|An attacker can obtain information on the contents of float calculation registers...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Bluetooh-RFCOMM-43758" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Bluetooh RFCOMM</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Bluetooh-RFCOMM-43758)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Bluetooh RFCOMM, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libLAS-memory-leak-43757" class="noirorange"><b>libLAS</b>: memory leak</a>](https://vigilance.fr/vulnerability/libLAS-memory-leak-43757)|An attacker can create a memory leak of libLAS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeIPA-denial-of-service-via-HTTP-43756" class="noirorange"><b>FreeIPA</b>: denial of service via HTTP</a>](https://vigilance.fr/vulnerability/FreeIPA-denial-of-service-via-HTTP-43756)|An attacker can cause a fatal error of FreeIPA, via HTTP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/EDK-II-memory-reading-via-DHCP-v6-43755" class="noirorange"><b>EDK II</b>: memory reading via DHCP v6</a>](https://vigilance.fr/vulnerability/EDK-II-memory-reading-via-DHCP-v6-43755)|An attacker can read a memory fragment of EDK II, via DHCP v6, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594" class="noirorange"><b>Etcd-io</b>: privilege escalation via Debug Function</a>](https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594)|An attacker can bypass restrictions of Etcd-io, via Debug Function, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592" class="noirorange"><b>Keycloak</b>: user access via Oauth Client Impersonation</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592)|An attacker can bypass restrictions of Keycloak, via Oauth Client Impersonation, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-memcg-43744" class="noirorange"><b>Linux kernel</b>: memory leak via memcg</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-memcg-43744)|An attacker can create a memory leak of the Linux kernel, via memcg, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743" class="noirorange"><b>Linux kernel</b>: memory reading via the driver of Habana's AI Processors</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743)|An attacker can read a memory fragment of the Linux kernel, via the driver of the Habana|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Tenable Nessus - CVE-2024-2390](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-2390-2024-03-28)|Visit link for details.|28/03/2024|
+ |[Synology - CVE-2024-29241](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-29241-2024-03-28)|Visit link for details.|28/03/2024|
+ |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|28/03/2024|
+ |[Cisco - CVE-2024-20314](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20314-2024-03-28)|Visit link for details.|28/03/2024|
+ |[Cisco - CVE-2024-20311](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20311-2024-03-28)|Visit link for details.|28/03/2024|
+ |[WordPress Elementor - CVE-2023-48777](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementor-cve-2023-48777-2023-12-08)|Visit link for details.|28/03/2024|
+ |[WordPress Check & Log Email - CVE-2024-0866](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-check-log-email-cve-2024-0866-2024-03-27)|Visit link for details.|27/03/2024|
+ |[TeamViewer - CVE-2024-1933](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-1933-2024-03-27)|Visit link for details.|27/03/2024|
+ |[SonicDICOM - CVE-2024-29734](https://www.cyberveille-sante.gouv.fr/alertes/sonicdicom-cve-2024-29734-2024-03-27)|Visit link for details.|27/03/2024|
+ |[Microsoft SharePoint - CVE-2023-24955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-24955-2024-03-27)|Visit link for details.|27/03/2024|
+ |[Google Chrome - CVE-2024-2883](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2883-2024-03-27)|Visit link for details.|27/03/2024|
  
 
 # EU-CERT
@@ -172,6 +171,21 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46772803/24 - Vulnérabilité dans Aruba ArubaOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-aruba-arubaos)| Une vulnérabilité a été corrigée dans Aruba ArubaOS-Switch. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service.| 28 mars 2024|
+ |[ 46762803/24 - Vulnérabilité critique dans le protocole UDP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-protocole-udp)| Des chercheurs en sécurité ont révélé une vulnérabilité critique (CVE-2024-2169) affectant les implémentations du protocole UDP (User Datagram Protocol). L'exploitation réussie de cette vulnérabilité…| 28 mars 2024|
+ |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
+ |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
+ |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
+ |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
+ |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
+ |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
+ |[ 46642103/24 - Vulnérabilité affectant les routeurs wifi de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-routeurs-wifi-de-netgear)| Netgear annonce la correction d’une vulnérabilité affectant son routeur wifi  AX Router Nighthawk.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant connecté au même réseau wifi…| 21 mars 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -187,18 +201,4 @@
  |[[Control systems] CISA ICS security advisories (AV24-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-160)|Visit link for details|2024-03-26|
  |[Apple security advisory (AV24-159)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-159)|Visit link for details|2024-03-26|
  |[Dell security advisory (AV24-158)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-158)|Visit link for details|2024-03-25|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
- |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
- |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-352/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager OpenFileStreamLocal Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-351/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager JsonSerializationHelper Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-350/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager OpenFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-349/)|Visit link for details|2024-03-28|
  
