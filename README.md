@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/03/2024 00:14:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/03/2024 01:18:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/)|De multiples vulnérabilités ont été découvertes dans Elasticsearch. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 mars 2024|
- |[Vulnérabilité dans GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0255/)|Une vulnérabilité a été découverte dans GLPI. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 mars 2024|
- |[Vulnérabilité dans Aruba ArubaOS-Switch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/)|Une vulnérabilité a été découverte dans Aruba ArubaOS-Switch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 27 mars 2024|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 27 mars 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -78,20 +62,20 @@
  |[USN-6716-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6716-1-linux-kernel-azure-vulnerabilities.49258/)|Visit link for details.|Mar 26, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403" class="noirorange"><b>OTRS Help Desk</b>: file write via Ticket Comments Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403)|An attacker can bypass access restrictions of OTRS Help Desk, via Ticket Comments Attachments, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402" class="noirorange"><b>OTRS Help Desk</b>: logged sensitive information via Indexing</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402)|An attacker can read logs of OTRS Help Desk, via Indexing, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via AgentInterface ExternalInterface Passwords</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400)|An attacker can bypass access restrictions to data of OTRS Help Desk, via AgentInterface ExternalInterface Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-buffer-overflow-43792" class="noirorange"><b>NVIDIA Display Driver</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-buffer-overflow-43792)|An attacker can trigger a buffer overflow of NVIDIA Display Driver, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-NULL-pointer-dereference-43791" class="noirorange"><b>NVIDIA Display Driver</b>: NULL pointer dereference</a>](https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-NULL-pointer-dereference-43791)|An attacker can force a NULL pointer to be dereferenced on NVIDIA Display Driver, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-41626" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-41626)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tex-Live-memory-corruption-via-TrueType-43790" class="noirorange"><b>Tex Live</b>: memory corruption via TrueType</a>](https://vigilance.fr/vulnerability/Tex-Live-memory-corruption-via-TrueType-43790)|An attacker can trigger a memory corruption of Tex Live, via TrueType, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tex-Live-information-disclosure-via-network-requests-43789" class="noirorange"><b>Tex Live</b>: information disclosure via network requests</a>](https://vigilance.fr/vulnerability/Tex-Live-information-disclosure-via-network-requests-43789)|An attacker can trigger unscheduled network accesses to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tex-Live-denial-of-service-via-axodraw2-43788" class="noirorange"><b>Tex Live</b>: denial of service via axodraw2</a>](https://vigilance.fr/vulnerability/Tex-Live-denial-of-service-via-axodraw2-43788)|An attacker can cause a fatal error of Tex Live, via axodraw2, in order to trigger a denial of service...|Visit link for details|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0265/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0264/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0263/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0262/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/)|De multiples vulnérabilités ont été découvertes dans Elasticsearch. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 mars 2024|
  
 
 # CERT-SANTE
@@ -109,6 +93,22 @@
  |[Synology - CVE-2024-29241](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-29241-2024-03-28)|Visit link for details.|28/03/2024|
  |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|28/03/2024|
  |[Cisco - CVE-2024-20314](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20314-2024-03-28)|Visit link for details.|28/03/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403" class="noirorange"><b>OTRS Help Desk</b>: file write via Ticket Comments Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403)|An attacker can bypass access restrictions of OTRS Help Desk, via Ticket Comments Attachments, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402" class="noirorange"><b>OTRS Help Desk</b>: logged sensitive information via Indexing</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402)|An attacker can read logs of OTRS Help Desk, via Indexing, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via AgentInterface ExternalInterface Passwords</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400)|An attacker can bypass access restrictions to data of OTRS Help Desk, via AgentInterface ExternalInterface Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-buffer-overflow-43792" class="noirorange"><b>NVIDIA Display Driver</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-buffer-overflow-43792)|An attacker can trigger a buffer overflow of NVIDIA Display Driver, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-NULL-pointer-dereference-43791" class="noirorange"><b>NVIDIA Display Driver</b>: NULL pointer dereference</a>](https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-NULL-pointer-dereference-43791)|An attacker can force a NULL pointer to be dereferenced on NVIDIA Display Driver, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-41626" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-41626)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tex-Live-memory-corruption-via-TrueType-43790" class="noirorange"><b>Tex Live</b>: memory corruption via TrueType</a>](https://vigilance.fr/vulnerability/Tex-Live-memory-corruption-via-TrueType-43790)|An attacker can trigger a memory corruption of Tex Live, via TrueType, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tex-Live-information-disclosure-via-network-requests-43789" class="noirorange"><b>Tex Live</b>: information disclosure via network requests</a>](https://vigilance.fr/vulnerability/Tex-Live-information-disclosure-via-network-requests-43789)|An attacker can trigger unscheduled network accesses to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tex-Live-denial-of-service-via-axodraw2-43788" class="noirorange"><b>Tex Live</b>: denial of service via axodraw2</a>](https://vigilance.fr/vulnerability/Tex-Live-denial-of-service-via-axodraw2-43788)|An attacker can cause a fatal error of Tex Live, via axodraw2, in order to trigger a denial of service...|Visit link for details|
  
 
 # HK-CERT
@@ -158,17 +158,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-100: High Severity Vulnerability in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-100/)|On December 20, 2023, Google released an advisory regarding a new high severity vulnerability in its web browser. Google is aware that an exploit for this vulnerability exists in the wild.|Friday, December 22, 2023 11:35:10 AM CET|
- |[2023-099: Critical Vulnerabilities in Ivanti Avalanche](https://cert.europa.eu/publications/security-advisories/2023-099/)|On December 20, 2023, Ivanti has released security updates to fix 13 critical security vulnerabilities in the company's Avalanche enterprise mobile device management (MDM) solution. These vulnerabilities, if exploited, could lead to Remote Code Execution or Denial of Service. The updates also cover 8 medium- and high-severity bugs that attackers could exploit in denial of service, remote code execution, and server-side request forgery (SSRF) attacks.|Thursday, December 21, 2023 10:38:41 AM CET|
- |[2023-098: SMTP Smuggling Vulnerability in CISCO Secure Email Gateway](https://cert.europa.eu/publications/security-advisories/2023-098/)|On December 18, 2023, researchers from SEC Consult released an article about an SMTP Smuggling vulnerability affecting products from several vendors such as Microsoft, GMX or Cisco. While the vulnerability was fixed in GMX and Microsoft products, it is considered as a feature in Cisco Secure Email Gateway and Cisco Secure Email Cloud Gateway, and thus, it was not fixed.|Tuesday, December 19, 2023 03:35:45 PM CET|
- |[2023-097: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2023-097/)|On December 12, 2023, Microsoft released the December 2023 Patch Tuesday which includes security updates for a total of 35 flaws. Among the vulnerabilities, four were rated as critical.|Tuesday, December 19, 2023 02:50:21 PM CET|
- |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
- |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
- |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
- |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
- |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
- |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
- |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
 # MA-CERT
