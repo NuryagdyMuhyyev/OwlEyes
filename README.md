@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/03/2024 15:17:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/03/2024 16:15:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity)|Visit link for details.|Mar 19, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/)|De multiples vulnérabilités ont été découvertes dans Elasticsearch. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 mars 2024|
+ |[Vulnérabilité dans GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0255/)|Une vulnérabilité a été découverte dans GLPI. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 mars 2024|
+ |[Vulnérabilité dans Aruba ArubaOS-Switch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/)|Une vulnérabilité a été découverte dans Aruba ArubaOS-Switch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 27 mars 2024|
+ |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 27 mars 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,20 +78,17 @@
  |[USN-6716-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6716-1-linux-kernel-azure-vulnerabilities.49258/)|Visit link for details.|Mar 26, 2024|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 mars 2024|
- |[Vulnérabilité dans Aruba ArubaOS-Switch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/)|Une vulnérabilité a été découverte dans Aruba ArubaOS-Switch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 27 mars 2024|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 27 mars 2024|
- |[Multiples vulnérabilités dans Kaspersky Anti Targeted Attack](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Kaspersky Anti Targeted Attack. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 mars 2024|
- |[Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0250/)|Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 mars 2024|
- |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0249/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 mars 2024|
- |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0248/)|Une vulnérabilité a été corrigée dans |Publié le 25 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0247/)|De multiples vulnérabilités ont été corrigées dans |Publié le 25 mars 2024|
- |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0246/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 25 mars 2024|
- |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0245/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 mars 2024|
+ |[Slider by Supsystic Plugin for WordPress SQL Injection (CVE-2024-30237)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[Acowebs PDF Invoices and Packing Slips For WooCommerce Plugin for WordPress code execution (CVE-2024-30230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[GiveWP Plugin for WordPress code execution (CVE-2024-30229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[Geo Controller Plugin for WordPress code execution (CVE-2024-30227)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[BetterDocs Plugin for WordPress code execution (CVE-2024-30226)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[Synology Surveillance Station SQL injection (CVE-2024-29236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
  
 
 # CERT-SANTE
@@ -111,17 +124,18 @@
  |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Slider by Supsystic Plugin for WordPress SQL Injection (CVE-2024-30237)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Acowebs PDF Invoices and Packing Slips For WooCommerce Plugin for WordPress code execution (CVE-2024-30230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[GiveWP Plugin for WordPress code execution (CVE-2024-30229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Geo Controller Plugin for WordPress code execution (CVE-2024-30227)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[BetterDocs Plugin for WordPress code execution (CVE-2024-30226)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Synology Surveillance Station SQL injection (CVE-2024-29236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Synology Surveillance Station SQL injection (CVE-2024-29237)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
+ |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
+ |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-352/)|Visit link for details|2024-03-28|
+ |[SolarWinds Access Rights Manager OpenFileStreamLocal Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-351/)|Visit link for details|2024-03-28|
+ |[SolarWinds Access Rights Manager JsonSerializationHelper Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-350/)|Visit link for details|2024-03-28|
+ |[SolarWinds Access Rights Manager OpenFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-349/)|Visit link for details|2024-03-28|
  
 
 # OBS-Vigilance
@@ -131,45 +145,13 @@
  |[<a href="https://vigilance.fr/vulnerability/glibc-vulnerability-via-qsort-43784" class="noirorange"><b>glibc</b>: vulnerability via qsort()</a>](https://vigilance.fr/vulnerability/glibc-vulnerability-via-qsort-43784)|A vulnerability of glibc, via qsort(), was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Tile-List-43396" class="noirorange"><b>GStreamer</b>: buffer overflow via Tile List</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Tile-List-43396)|An attacker can trigger a buffer overflow of GStreamer, via Tile List, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atril-code-execution-via-CBT-Document-TAR-Archive-43397" class="noirorange"><b>Atril</b>: code execution via CBT Document TAR Archive</a>](https://vigilance.fr/vulnerability/Atril-code-execution-via-CBT-Document-TAR-Archive-43397)|An attacker can use a vulnerability of Atril, via CBT Document TAR Archive, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-GhostRace-43764" class="noirorange"><b>Xen</b>: information disclosure via GhostRace</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-GhostRace-43764)|An attacker can exploit the processor|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-GhostRace-43764" class="noirorange"><b>Xen</b>: information disclosure via GhostRace</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-GhostRace-43764)|An attacker can exploit the processor's speculative execution to read memory that is normally inaccessible...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Atom-processor-getting-information-about-float-calculation-registers-43763" class="noirorange"><b>Intel Atom processor</b>: getting information about float calculation registers</a>](https://vigilance.fr/vulnerability/Intel-Atom-processor-getting-information-about-float-calculation-registers-43763)|An attacker can obtain information on the contents of float calculation registers...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Bluetooh-RFCOMM-43758" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Bluetooh RFCOMM</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Bluetooh-RFCOMM-43758)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Bluetooh RFCOMM, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libLAS-memory-leak-43757" class="noirorange"><b>libLAS</b>: memory leak</a>](https://vigilance.fr/vulnerability/libLAS-memory-leak-43757)|An attacker can create a memory leak of libLAS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeIPA-denial-of-service-via-HTTP-43756" class="noirorange"><b>FreeIPA</b>: denial of service via HTTP</a>](https://vigilance.fr/vulnerability/FreeIPA-denial-of-service-via-HTTP-43756)|An attacker can cause a fatal error of FreeIPA, via HTTP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/EDK-II-memory-reading-via-DHCP-v6-43755" class="noirorange"><b>EDK II</b>: memory reading via DHCP v6</a>](https://vigilance.fr/vulnerability/EDK-II-memory-reading-via-DHCP-v6-43755)|An attacker can read a memory fragment of EDK II, via DHCP v6, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594" class="noirorange"><b>Etcd-io</b>: privilege escalation via Debug Function</a>](https://vigilance.fr/vulnerability/Etcd-io-privilege-escalation-via-Debug-Function-41594)|An attacker can bypass restrictions of Etcd-io, via Debug Function, in order to escalate his privileges...|Visit link for details|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-168)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-168)|Visit link for details|2024-03-28|
- |[JetBrains security advisory (AV24-167)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-167)|Visit link for details|2024-03-28|
- |[GitLab security advisory (AV24-166)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-166)|Visit link for details|2024-03-28|
- |[Cisco security advisory (AV24-165)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-165)|Visit link for details|2024-03-28|
- |[Microsoft Edge security advisory (AV24-164)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-164)|Visit link for details|2024-03-27|
- |[[Control systems] Siemens security advisory (AV24-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-163)|Visit link for details|2024-03-27|
- |[Google Chrome security advisory (AV24-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-162)|Visit link for details|2024-03-26|
- |[Red Hat security advisory (AV24-161)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-161)|Visit link for details|2024-03-26|
- |[[Control systems] CISA ICS security advisories (AV24-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-160)|Visit link for details|2024-03-26|
- |[Apple security advisory (AV24-159)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-159)|Visit link for details|2024-03-26|
- |[Dell security advisory (AV24-158)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-158)|Visit link for details|2024-03-25|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46782803/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-13)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 28 mars 2024|
- |[ 46772803/24 - Vulnérabilité dans Aruba ArubaOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-aruba-arubaos)| Une vulnérabilité a été corrigée dans Aruba ArubaOS-Switch. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service.| 28 mars 2024|
- |[ 46762803/24 - Vulnérabilité critique dans le protocole UDP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-protocole-udp)| Des chercheurs en sécurité ont révélé une vulnérabilité critique (CVE-2024-2169) affectant les implémentations du protocole UDP (User Datagram Protocol). L'exploitation réussie de cette vulnérabilité…| 28 mars 2024|
- |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
- |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
- |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
- |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
- |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
- |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
  
 
 # EU-CERT
@@ -189,16 +171,34 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
- |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
- |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-352/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager OpenFileStreamLocal Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-351/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager JsonSerializationHelper Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-350/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager OpenFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-349/)|Visit link for details|2024-03-28|
+ |[ 46782803/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-13)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 28 mars 2024|
+ |[ 46772803/24 - Vulnérabilité dans Aruba ArubaOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-aruba-arubaos)| Une vulnérabilité a été corrigée dans Aruba ArubaOS-Switch. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service.| 28 mars 2024|
+ |[ 46762803/24 - Vulnérabilité critique dans le protocole UDP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-protocole-udp)| Des chercheurs en sécurité ont révélé une vulnérabilité critique (CVE-2024-2169) affectant les implémentations du protocole UDP (User Datagram Protocol). L'exploitation réussie de cette vulnérabilité…| 28 mars 2024|
+ |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
+ |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
+ |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
+ |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
+ |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
+ |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-168)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-168)|Visit link for details|2024-03-28|
+ |[JetBrains security advisory (AV24-167)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-167)|Visit link for details|2024-03-28|
+ |[GitLab security advisory (AV24-166)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-166)|Visit link for details|2024-03-28|
+ |[Cisco security advisory (AV24-165)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-165)|Visit link for details|2024-03-28|
+ |[Microsoft Edge security advisory (AV24-164)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-164)|Visit link for details|2024-03-27|
+ |[[Control systems] Siemens security advisory (AV24-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-163)|Visit link for details|2024-03-27|
+ |[Google Chrome security advisory (AV24-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-162)|Visit link for details|2024-03-26|
+ |[Red Hat security advisory (AV24-161)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-161)|Visit link for details|2024-03-26|
+ |[[Control systems] CISA ICS security advisories (AV24-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-160)|Visit link for details|2024-03-26|
+ |[Apple security advisory (AV24-159)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-159)|Visit link for details|2024-03-26|
+ |[Dell security advisory (AV24-158)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-158)|Visit link for details|2024-03-25|
  
