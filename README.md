@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/03/2024 17:27:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/03/2024 18:18:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5649-1 xz-utils - security update](https://www.linux.org/threads/dsa-5649-1-xz-utils-security-update.49306/)|Visit link for details.|Mar 29, 2024|
+ |[DSA-5648-1 chromium - security update](https://www.linux.org/threads/dsa-5648-1-chromium-security-update.49301/)|Visit link for details.|Mar 29, 2024|
+ |[USN-6707-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6707-4-linux-kernel-azure-vulnerabilities.49298/)|Visit link for details.|Mar 28, 2024|
+ |[USN-6704-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6704-4-linux-kernel-intel-iotg-vulnerabilities.49297/)|Visit link for details.|Mar 28, 2024|
+ |[USN-6715-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6715-1-unixodbc-vulnerability.49292/)|Visit link for details.|Mar 28, 2024|
+ |[USN-6686-5: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6686-5-linux-kernel-intel-iotg-vulnerabilities.49291/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6717-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6717-1-thunderbird-vulnerabilities.49267/)|Visit link for details.|Mar 26, 2024|
+ |[USN-6588-2: PAM vulnerability](https://www.linux.org/threads/usn-6588-2-pam-vulnerability.49264/)|Visit link for details.|Mar 26, 2024|
+ 
 
 # US-CERT
 
@@ -61,34 +78,20 @@
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 mars 2024|
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5649-1 xz-utils - security update](https://www.linux.org/threads/dsa-5649-1-xz-utils-security-update.49306/)|Visit link for details.|Mar 29, 2024|
- |[DSA-5648-1 chromium - security update](https://www.linux.org/threads/dsa-5648-1-chromium-security-update.49301/)|Visit link for details.|Mar 29, 2024|
- |[USN-6707-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6707-4-linux-kernel-azure-vulnerabilities.49298/)|Visit link for details.|Mar 28, 2024|
- |[USN-6704-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6704-4-linux-kernel-intel-iotg-vulnerabilities.49297/)|Visit link for details.|Mar 28, 2024|
- |[USN-6715-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6715-1-unixodbc-vulnerability.49292/)|Visit link for details.|Mar 28, 2024|
- |[USN-6686-5: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6686-5-linux-kernel-intel-iotg-vulnerabilities.49291/)|Visit link for details.|Mar 27, 2024|
- |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
- |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
- |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
- |[USN-6717-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6717-1-thunderbird-vulnerabilities.49267/)|Visit link for details.|Mar 26, 2024|
- |[USN-6588-2: PAM vulnerability](https://www.linux.org/threads/usn-6588-2-pam-vulnerability.49264/)|Visit link for details.|Mar 26, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Yahoo! JAPAN cross-site scripting (CVE-2024-28895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[VT STUDIO code execution (CVE-2024-28099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[Apache Fineract SQL injection (CVE-2024-23538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Synology Surveillance Station security bypass (CVE-2024-29241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Synology Surveillance Station security bypass (CVE-2024-29240)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[<a href="https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406" class="noirorange"><b>OpenLDAP</b>: information disclosure via Back-config MatchedDN</a>](https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406)|An attacker can bypass access restrictions to data of OpenLDAP, via Back-config MatchedDN, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via Unquoted Path</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via Unquoted Path, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-15-03-2024-43797" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities dated 15/03/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-15-03-2024-43797)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 15/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mock-privilege-escalation-via-Jinja2-Templates-43404" class="noirorange"><b>Mock</b>: privilege escalation via Jinja2 Templates</a>](https://vigilance.fr/vulnerability/Mock-privilege-escalation-via-Jinja2-Templates-43404)|An attacker can bypass restrictions of Mock, via Jinja2 Templates, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403" class="noirorange"><b>OTRS Help Desk</b>: file write via Ticket Comments Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403)|An attacker can bypass access restrictions of OTRS Help Desk, via Ticket Comments Attachments, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402" class="noirorange"><b>OTRS Help Desk</b>: logged sensitive information via Indexing</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402)|An attacker can read logs of OTRS Help Desk, via Indexing, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via AgentInterface ExternalInterface Passwords</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400)|An attacker can bypass access restrictions to data of OTRS Help Desk, via AgentInterface ExternalInterface Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-buffer-overflow-43792" class="noirorange"><b>NVIDIA Display Driver</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-buffer-overflow-43792)|An attacker can trigger a buffer overflow of NVIDIA Display Driver, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-NULL-pointer-dereference-43791" class="noirorange"><b>NVIDIA Display Driver</b>: NULL pointer dereference</a>](https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-NULL-pointer-dereference-43791)|An attacker can force a NULL pointer to be dereferenced on NVIDIA Display Driver, in order to trigger a denial of service...|Visit link for details|
  
 
 # CERT-SANTE
@@ -106,6 +109,19 @@
  |[Synology - CVE-2024-29241](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-29241-2024-03-28)|Visit link for details.|28/03/2024|
  |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|28/03/2024|
  |[Cisco - CVE-2024-20314](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20314-2024-03-28)|Visit link for details.|28/03/2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Yahoo! JAPAN cross-site scripting (CVE-2024-28895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[VT STUDIO code execution (CVE-2024-28099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[Apache Fineract SQL injection (CVE-2024-23538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[Synology Surveillance Station security bypass (CVE-2024-29241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[Synology Surveillance Station security bypass (CVE-2024-29240)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
  
 
 # HK-CERT
@@ -138,20 +154,21 @@
  |[SolarWinds Access Rights Manager OpenFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-349/)|Visit link for details|2024-03-28|
  
 
-# OBS-Vigilance
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406" class="noirorange"><b>OpenLDAP</b>: information disclosure via Back-config MatchedDN</a>](https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406)|An attacker can bypass access restrictions to data of OpenLDAP, via Back-config MatchedDN, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via Unquoted Path</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via Unquoted Path, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-15-03-2024-43797" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities dated 15/03/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-15-03-2024-43797)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 15/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mock-privilege-escalation-via-Jinja2-Templates-43404" class="noirorange"><b>Mock</b>: privilege escalation via Jinja2 Templates</a>](https://vigilance.fr/vulnerability/Mock-privilege-escalation-via-Jinja2-Templates-43404)|An attacker can bypass restrictions of Mock, via Jinja2 Templates, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403" class="noirorange"><b>OTRS Help Desk</b>: file write via Ticket Comments Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-write-via-Ticket-Comments-Attachments-43403)|An attacker can bypass access restrictions of OTRS Help Desk, via Ticket Comments Attachments, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402" class="noirorange"><b>OTRS Help Desk</b>: logged sensitive information via Indexing</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Indexing-43402)|An attacker can read logs of OTRS Help Desk, via Indexing, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via AgentInterface ExternalInterface Passwords</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-AgentInterface-ExternalInterface-Passwords-43400)|An attacker can bypass access restrictions to data of OTRS Help Desk, via AgentInterface ExternalInterface Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-buffer-overflow-43792" class="noirorange"><b>NVIDIA Display Driver</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-buffer-overflow-43792)|An attacker can trigger a buffer overflow of NVIDIA Display Driver, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-NULL-pointer-dereference-43791" class="noirorange"><b>NVIDIA Display Driver</b>: NULL pointer dereference</a>](https://vigilance.fr/vulnerability/NVIDIA-Display-Driver-NULL-pointer-dereference-43791)|An attacker can force a NULL pointer to be dereferenced on NVIDIA Display Driver, in order to trigger a denial of service...|Visit link for details|
+ |[2023-100: High Severity Vulnerability in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-100/)|On December 20, 2023, Google released an advisory regarding a new high severity vulnerability in its web browser. Google is aware that an exploit for this vulnerability exists in the wild.|Friday, December 22, 2023 11:35:10 AM CET|
+ |[2023-099: Critical Vulnerabilities in Ivanti Avalanche](https://cert.europa.eu/publications/security-advisories/2023-099/)|On December 20, 2023, Ivanti has released security updates to fix 13 critical security vulnerabilities in the company's Avalanche enterprise mobile device management (MDM) solution. These vulnerabilities, if exploited, could lead to Remote Code Execution or Denial of Service. The updates also cover 8 medium- and high-severity bugs that attackers could exploit in denial of service, remote code execution, and server-side request forgery (SSRF) attacks.|Thursday, December 21, 2023 10:38:41 AM CET|
+ |[2023-098: SMTP Smuggling Vulnerability in CISCO Secure Email Gateway](https://cert.europa.eu/publications/security-advisories/2023-098/)|On December 18, 2023, researchers from SEC Consult released an article about an SMTP Smuggling vulnerability affecting products from several vendors such as Microsoft, GMX or Cisco. While the vulnerability was fixed in GMX and Microsoft products, it is considered as a feature in Cisco Secure Email Gateway and Cisco Secure Email Cloud Gateway, and thus, it was not fixed.|Tuesday, December 19, 2023 03:35:45 PM CET|
+ |[2023-097: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2023-097/)|On December 12, 2023, Microsoft released the December 2023 Patch Tuesday which includes security updates for a total of 35 flaws. Among the vulnerabilities, four were rated as critical.|Tuesday, December 19, 2023 02:50:21 PM CET|
+ |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
+ |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
+ |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
+ |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
+ |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
+ |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
+ |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
 # MA-CERT
@@ -169,23 +186,6 @@
  |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
  |[ 46712503/24 - Mozilla corrige deux zero-day dans Firefox ](https://www.dgssi.gov.ma/fr/bulletins/mozilla-corrige-deux-zero-day-dans-firefox)| Mozilla a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques de type zero-day affectant les versions susmentionnées de Firefox. Un attaquant pourrait exploiter certaines…| 25 mars 2024|
  |[ 46712203/24 - Vulnérabilité affectant Advantech WebAccess/SCADA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-advantech-webaccessscada)| Advantech  annonce la correction d’une vulnérabilité affectant son produit WebAccess/SCADA.  L'exploitation de cette vulnérabilité  peut  permettre  à un attaquant d’injecter du code SQL| 22 mars 2024|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-100: High Severity Vulnerability in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-100/)|On December 20, 2023, Google released an advisory regarding a new high severity vulnerability in its web browser. Google is aware that an exploit for this vulnerability exists in the wild.|Friday, December 22, 2023 11:35:10 AM CET|
- |[2023-099: Critical Vulnerabilities in Ivanti Avalanche](https://cert.europa.eu/publications/security-advisories/2023-099/)|On December 20, 2023, Ivanti has released security updates to fix 13 critical security vulnerabilities in the company's Avalanche enterprise mobile device management (MDM) solution. These vulnerabilities, if exploited, could lead to Remote Code Execution or Denial of Service. The updates also cover 8 medium- and high-severity bugs that attackers could exploit in denial of service, remote code execution, and server-side request forgery (SSRF) attacks.|Thursday, December 21, 2023 10:38:41 AM CET|
- |[2023-098: SMTP Smuggling Vulnerability in CISCO Secure Email Gateway](https://cert.europa.eu/publications/security-advisories/2023-098/)|On December 18, 2023, researchers from SEC Consult released an article about an SMTP Smuggling vulnerability affecting products from several vendors such as Microsoft, GMX or Cisco. While the vulnerability was fixed in GMX and Microsoft products, it is considered as a feature in Cisco Secure Email Gateway and Cisco Secure Email Cloud Gateway, and thus, it was not fixed.|Tuesday, December 19, 2023 03:35:45 PM CET|
- |[2023-097: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2023-097/)|On December 12, 2023, Microsoft released the December 2023 Patch Tuesday which includes security updates for a total of 35 flaws. Among the vulnerabilities, four were rated as critical.|Tuesday, December 19, 2023 02:50:21 PM CET|
- |[2023-096: High Severity Vulnerability in WordPress](https://cert.europa.eu/publications/security-advisories/2023-096/)|On December 6, 2023, WordPress released a new version addressing a vulnerability that, if combined with another vulnerability, could result in remote code execution.|Monday, December 11, 2023 02:11:50 PM CET|
- |[2023-095: Critical Vulnerability in Apache Struts](https://cert.europa.eu/publications/security-advisories/2023-095/)|On December 7, 2023, The Apache Struts group released an update addressing a critical security vulnerability in Apache Struts. This vulnerability could lead, under some circumstances, to remote code execution.|Monday, December 11, 2023 02:07:53 PM CET|
- |[2023-094: Multiple Critical Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2023-094/)|On December 5, 2023, Atlassian released several security advisories regarding critical vulnerabilities affecting multiple Atlassian products. The exploitation of these vulnerabilities could lead to Remote Code Execution.|Wednesday, December 06, 2023 12:11:25 PM CET|
- |[2023-093: High Vulnerabilities in Google Chrome](https://cert.europa.eu/publications/security-advisories/2023-093/)|On November 28, Google has released an emergency security update to address six high vulnerabilities found in Chrome. Google is aware that an exploit exists for one of the vulnerabilities, tracked as "CVE-2023-6345".|Wednesday, November 29, 2023 06:08:09 PM CET|
- |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
- |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
- |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
 # CA-CCS
