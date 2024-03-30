@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/03/2024 08:20:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/03/2024 09:19:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,16 +66,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0265/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0264/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0263/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0262/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 mars 2024|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 mars 2024|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 28 mars 2024|
  |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
  |[Multiples vulnérabilités dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/)|De multiples vulnérabilités ont été découvertes dans Elasticsearch. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 mars 2024|
- |[Vulnérabilité dans GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0255/)|Une vulnérabilité a été découverte dans GLPI. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 mars 2024|
- |[Vulnérabilité dans Aruba ArubaOS-Switch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/)|Une vulnérabilité a été découverte dans Aruba ArubaOS-Switch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 27 mars 2024|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 27 mars 2024|
  
 
 # CERT-SANTE
@@ -111,19 +111,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Tex-Live-denial-of-service-via-axodraw2-43788" class="noirorange"><b>Tex Live</b>: denial of service via axodraw2</a>](https://vigilance.fr/vulnerability/Tex-Live-denial-of-service-via-axodraw2-43788)|An attacker can cause a fatal error of Tex Live, via axodraw2, in order to trigger a denial of service...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Yahoo! JAPAN cross-site scripting (CVE-2024-28895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[VT STUDIO code execution (CVE-2024-28099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[Slider by Supsystic Plugin for WordPress SQL Injection (CVE-2024-30237)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Acowebs PDF Invoices and Packing Slips For WooCommerce Plugin for WordPress code execution (CVE-2024-30230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -140,18 +127,17 @@
  |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
- |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
- |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-352/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager OpenFileStreamLocal Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-351/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager JsonSerializationHelper Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-350/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager OpenFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-349/)|Visit link for details|2024-03-28|
+ |[Yahoo! JAPAN cross-site scripting (CVE-2024-28895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[VT STUDIO code execution (CVE-2024-28099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[Slider by Supsystic Plugin for WordPress SQL Injection (CVE-2024-30237)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[Acowebs PDF Invoices and Packing Slips For WooCommerce Plugin for WordPress code execution (CVE-2024-30230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
  
 
 # EU-CERT
@@ -169,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
+ |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
+ |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-352/)|Visit link for details|2024-03-28|
+ |[SolarWinds Access Rights Manager OpenFileStreamLocal Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-351/)|Visit link for details|2024-03-28|
+ |[SolarWinds Access Rights Manager JsonSerializationHelper Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-350/)|Visit link for details|2024-03-28|
+ |[SolarWinds Access Rights Manager OpenFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-349/)|Visit link for details|2024-03-28|
  
 
 # CA-CCS
