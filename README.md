@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/03/2024 04:15:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/03/2024 06:08:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library, CVE-2024-3094](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)|Visit link for details.|Mar 29, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/28/cisco-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2024|
+ |[Apple Released Security Updates for Safari and macOS](https://www.cisa.gov/news-events/alerts/2024/03/27/apple-released-security-updates-safari-and-macos)|Visit link for details.|Mar 27, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 26, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 26, 2024|
+ |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate SQL Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-sql-injection-vulnerabilities)|Visit link for details.|Mar 25, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 25, 2024|
+ |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
+ |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
  |[USN-6717-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6717-1-thunderbird-vulnerabilities.49267/)|Visit link for details.|Mar 26, 2024|
  |[USN-6588-2: PAM vulnerability](https://www.linux.org/threads/usn-6588-2-pam-vulnerability.49264/)|Visit link for details.|Mar 26, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library, CVE-2024-3094](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)|Visit link for details.|Mar 29, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/28/cisco-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2024|
- |[Apple Released Security Updates for Safari and macOS](https://www.cisa.gov/news-events/alerts/2024/03/27/apple-released-security-updates-safari-and-macos)|Visit link for details.|Mar 27, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 26, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 26, 2024|
- |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate SQL Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-sql-injection-vulnerabilities)|Visit link for details.|Mar 25, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 25, 2024|
- |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
- |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
  
 
 # CERT-SANTE
@@ -131,12 +131,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
  |[VT STUDIO code execution (CVE-2024-28099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
  |[Slider by Supsystic Plugin for WordPress SQL Injection (CVE-2024-30237)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
  |[Acowebs PDF Invoices and Packing Slips For WooCommerce Plugin for WordPress code execution (CVE-2024-30230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
  |[GiveWP Plugin for WordPress code execution (CVE-2024-30229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Geo Controller Plugin for WordPress code execution (CVE-2024-30227)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[BetterDocs Plugin for WordPress code execution (CVE-2024-30226)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
  
 
