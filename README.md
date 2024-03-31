@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/04/2024 00:13:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/04/2024 01:18:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5649-1 xz-utils - security update](https://www.linux.org/threads/dsa-5649-1-xz-utils-security-update.49306/)|Visit link for details.|Mar 29, 2024|
- |[DSA-5648-1 chromium - security update](https://www.linux.org/threads/dsa-5648-1-chromium-security-update.49301/)|Visit link for details.|Mar 29, 2024|
- |[USN-6707-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6707-4-linux-kernel-azure-vulnerabilities.49298/)|Visit link for details.|Mar 28, 2024|
- |[USN-6704-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6704-4-linux-kernel-intel-iotg-vulnerabilities.49297/)|Visit link for details.|Mar 28, 2024|
- |[USN-6715-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6715-1-unixodbc-vulnerability.49292/)|Visit link for details.|Mar 28, 2024|
- |[USN-6686-5: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6686-5-linux-kernel-intel-iotg-vulnerabilities.49291/)|Visit link for details.|Mar 27, 2024|
- |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
- |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
- |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
- |[USN-6717-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6717-1-thunderbird-vulnerabilities.49267/)|Visit link for details.|Mar 26, 2024|
- |[USN-6588-2: PAM vulnerability](https://www.linux.org/threads/usn-6588-2-pam-vulnerability.49264/)|Visit link for details.|Mar 26, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,56 @@
  |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
  |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5651-1 mediawiki - security update](https://www.linux.org/threads/dsa-5651-1-mediawiki-security-update.49349/)|Visit link for details.|Mar 31, 2024|
+ |[DSA-5650-1 util-linux - security update](https://www.linux.org/threads/dsa-5650-1-util-linux-security-update.49348/)|Visit link for details.|Mar 31, 2024|
+ |[DSA-5649-1 xz-utils - security update](https://www.linux.org/threads/dsa-5649-1-xz-utils-security-update.49306/)|Visit link for details.|Mar 29, 2024|
+ |[DSA-5648-1 chromium - security update](https://www.linux.org/threads/dsa-5648-1-chromium-security-update.49301/)|Visit link for details.|Mar 29, 2024|
+ |[USN-6707-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6707-4-linux-kernel-azure-vulnerabilities.49298/)|Visit link for details.|Mar 28, 2024|
+ |[USN-6704-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6704-4-linux-kernel-intel-iotg-vulnerabilities.49297/)|Visit link for details.|Mar 28, 2024|
+ |[USN-6715-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6715-1-unixodbc-vulnerability.49292/)|Visit link for details.|Mar 28, 2024|
+ |[USN-6686-5: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6686-5-linux-kernel-intel-iotg-vulnerabilities.49291/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420" class="noirorange"><b>Drupal Entity Delete Log</b>: information disclosure via Deleted Entities</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420)|An attacker can bypass access restrictions to data of Drupal Entity Delete Log, via Deleted Entities, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419" class="noirorange"><b>Linux kernel</b>: use after free via nft_setelem_catchall_deactivate()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_setelem_catchall|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SaltStack-Salt-directory-traversal-43418" class="noirorange"><b>SaltStack Salt</b>: directory traversal</a>](https://vigilance.fr/vulnerability/SaltStack-Salt-directory-traversal-43418)|An attacker can traverse directories of SaltStack Salt, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via ext4_write_inline_data_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via ext4_write_inline_da|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408" class="noirorange"><b>Xen</b>: read-write access via Not HVM Builds</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408)|An attacker, in a guest system, can bypass access restrictions of Xen, via Not HVM Builds, in order to read or alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406" class="noirorange"><b>OpenLDAP</b>: information disclosure via Back-config MatchedDN</a>](https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406)|An attacker can bypass access restrictions to data of OpenLDAP, via Back-config MatchedDN, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via Unquoted Path</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via Unquoted Path, in order to escalate his privileges...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell - CVE-2024-25962](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25962-2024-03-29)|Visit link for details.|29/03/2024|
+ |[Cisco - CVE-2024-20308](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20308-2024-03-29)|Visit link for details.|29/03/2024|
+ |[WordPress Pods - CVE-2023-6999](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-pods-cve-2023-6999-2024-03-29)|Visit link for details.|29/03/2024|
+ |[TP-Link - CVE-2023-6437](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-6437-2024-03-29)|Visit link for details.|29/03/2024|
+ |[SysAid - CVE-2024-27775](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-27775-2024-03-29)|Visit link for details.|29/03/2024|
+ |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|29/03/2024|
+ |[Google Chrome - CVE-2024-2883](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2883-2024-03-27)|Visit link for details.|29/03/2024|
+ |[Tenable Nessus - CVE-2024-2390](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-2390-2024-03-28)|Visit link for details.|28/03/2024|
+ |[Synology - CVE-2024-29241](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-29241-2024-03-28)|Visit link for details.|28/03/2024|
+ |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|28/03/2024|
+ |[Cisco - CVE-2024-20314](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20314-2024-03-28)|Visit link for details.|28/03/2024|
  
 
 # CERT-FR
@@ -107,23 +140,6 @@
  |[Apache Fineract SQL injection (CVE-2024-23538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell - CVE-2024-25962](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25962-2024-03-29)|Visit link for details.|29/03/2024|
- |[Cisco - CVE-2024-20308](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20308-2024-03-29)|Visit link for details.|29/03/2024|
- |[WordPress Pods - CVE-2023-6999](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-pods-cve-2023-6999-2024-03-29)|Visit link for details.|29/03/2024|
- |[TP-Link - CVE-2023-6437](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-6437-2024-03-29)|Visit link for details.|29/03/2024|
- |[SysAid - CVE-2024-27775](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-27775-2024-03-29)|Visit link for details.|29/03/2024|
- |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|29/03/2024|
- |[Google Chrome - CVE-2024-2883](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2883-2024-03-27)|Visit link for details.|29/03/2024|
- |[Tenable Nessus - CVE-2024-2390](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-2390-2024-03-28)|Visit link for details.|28/03/2024|
- |[Synology - CVE-2024-29241](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-29241-2024-03-28)|Visit link for details.|28/03/2024|
- |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|28/03/2024|
- |[Cisco - CVE-2024-20314](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20314-2024-03-28)|Visit link for details.|28/03/2024|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -136,22 +152,6 @@
  |[SolarWinds Access Rights Manager OpenFileStreamLocal Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-351/)|Visit link for details|2024-03-28|
  |[SolarWinds Access Rights Manager JsonSerializationHelper Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-350/)|Visit link for details|2024-03-28|
  |[SolarWinds Access Rights Manager OpenFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-349/)|Visit link for details|2024-03-28|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420" class="noirorange"><b>Drupal Entity Delete Log</b>: information disclosure via Deleted Entities</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420)|An attacker can bypass access restrictions to data of Drupal Entity Delete Log, via Deleted Entities, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419" class="noirorange"><b>Linux kernel</b>: use after free via nft_setelem_catchall_deactivate()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_setelem_catchall|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SaltStack-Salt-directory-traversal-43418" class="noirorange"><b>SaltStack Salt</b>: directory traversal</a>](https://vigilance.fr/vulnerability/SaltStack-Salt-directory-traversal-43418)|An attacker can traverse directories of SaltStack Salt, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via ext4_write_inline_data_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via ext4_write_inline_da|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408" class="noirorange"><b>Xen</b>: read-write access via Not HVM Builds</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-Not-HVM-Builds-43408)|An attacker, in a guest system, can bypass access restrictions of Xen, via Not HVM Builds, in order to read or alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406" class="noirorange"><b>OpenLDAP</b>: information disclosure via Back-config MatchedDN</a>](https://vigilance.fr/vulnerability/OpenLDAP-information-disclosure-via-Back-config-MatchedDN-43406)|An attacker can bypass access restrictions to data of OpenLDAP, via Back-config MatchedDN, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via Unquoted Path</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Unquoted-Path-43405)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via Unquoted Path, in order to escalate his privileges...|Visit link for details|
  
 
 # EU-CERT
