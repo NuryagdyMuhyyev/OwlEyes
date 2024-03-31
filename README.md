@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/03/2024 13:20:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/03/2024 14:16:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -60,6 +60,22 @@
  |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
  |[USN-6717-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6717-1-thunderbird-vulnerabilities.49267/)|Visit link for details.|Mar 26, 2024|
  |[USN-6588-2: PAM vulnerability](https://www.linux.org/threads/usn-6588-2-pam-vulnerability.49264/)|Visit link for details.|Mar 26, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0265/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0264/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0263/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0262/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
+ |[Multiples vulnérabilités dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/)|De multiples vulnérabilités ont été découvertes dans Elasticsearch. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 mars 2024|
  
 
 # CERT-SANTE
@@ -122,22 +138,6 @@
  |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240326)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch is currently available for CVE-2023-4408 of the affected products.|Release Date: 26 Mar 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution,  information disclosure, spoofing, denial of service and security restriction bypass on the targeted system.|Release Date: 25 Mar 2024 |
  |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0265/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0264/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0263/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0262/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/)|De multiples vulnérabilités ont été découvertes dans Elasticsearch. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 mars 2024|
  
 
 # ZERODAYINITIATIVE
