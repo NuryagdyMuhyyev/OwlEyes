@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/04/2024 18:17:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/04/2024 19:15:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5651-1 mediawiki - security update](https://www.linux.org/threads/dsa-5651-1-mediawiki-security-update.49349/)|Visit link for details.|Mar 31, 2024|
+ |[DSA-5650-1 util-linux - security update](https://www.linux.org/threads/dsa-5650-1-util-linux-security-update.49348/)|Visit link for details.|Mar 31, 2024|
+ |[DSA-5649-1 xz-utils - security update](https://www.linux.org/threads/dsa-5649-1-xz-utils-security-update.49306/)|Visit link for details.|Mar 29, 2024|
+ |[DSA-5648-1 chromium - security update](https://www.linux.org/threads/dsa-5648-1-chromium-security-update.49301/)|Visit link for details.|Mar 29, 2024|
+ |[USN-6707-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6707-4-linux-kernel-azure-vulnerabilities.49298/)|Visit link for details.|Mar 28, 2024|
+ |[USN-6704-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6704-4-linux-kernel-intel-iotg-vulnerabilities.49297/)|Visit link for details.|Mar 28, 2024|
+ |[USN-6715-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6715-1-unixodbc-vulnerability.49292/)|Visit link for details.|Mar 28, 2024|
+ |[USN-6686-5: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6686-5-linux-kernel-intel-iotg-vulnerabilities.49291/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
+ |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,6 +60,52 @@
  |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
  |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Yahoo! JAPAN cross-site scripting (CVE-2024-28895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[VT STUDIO code execution (CVE-2024-28099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[Apache Fineract privilege escalation (CVE-2024-23537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[Apache Fineract SQL injection (CVE-2024-23539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[Apache Fineract SQL injection (CVE-2024-23538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell - CVE-2024-25962](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25962-2024-03-29)|Visit link for details.|29/03/2024|
+ |[Cisco - CVE-2024-20308](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20308-2024-03-29)|Visit link for details.|29/03/2024|
+ |[WordPress Pods - CVE-2023-6999](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-pods-cve-2023-6999-2024-03-29)|Visit link for details.|29/03/2024|
+ |[TP-Link - CVE-2023-6437](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-6437-2024-03-29)|Visit link for details.|29/03/2024|
+ |[SysAid - CVE-2024-27775](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-27775-2024-03-29)|Visit link for details.|29/03/2024|
+ |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|29/03/2024|
+ |[Google Chrome - CVE-2024-2883](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2883-2024-03-27)|Visit link for details.|29/03/2024|
+ |[Tenable Nessus - CVE-2024-2390](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-2390-2024-03-28)|Visit link for details.|28/03/2024|
+ |[Synology - CVE-2024-29241](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-29241-2024-03-28)|Visit link for details.|28/03/2024|
+ |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|28/03/2024|
+ |[Cisco - CVE-2024-20314](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20314-2024-03-28)|Visit link for details.|28/03/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/BuildKit-four-vulnerabilities-43425" class="noirorange"><b>BuildKit</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/BuildKit-four-vulnerabilities-43425)|An attacker can use several vulnerabilities of BuildKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-privilege-escalation-via-Classic-Builder-Cache-Poisoning-43424" class="noirorange"><b>Docker Moby</b>: privilege escalation via Classic Builder Cache Poisoning</a>](https://vigilance.fr/vulnerability/Docker-Moby-privilege-escalation-via-Classic-Builder-Cache-Poisoning-43424)|An attacker can bypass restrictions of Docker Moby, via Classic Builder Cache Poisoning, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/runc-code-execution-via-File-Descriptor-Leak-43422" class="noirorange"><b>runc</b>: code execution via File Descriptor Leak</a>](https://vigilance.fr/vulnerability/runc-code-execution-via-File-Descriptor-Leak-43422)|An attacker, in a guest system, can use a vulnerability of runc, via File Descriptor Leak, in order to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420" class="noirorange"><b>Drupal Entity Delete Log</b>: information disclosure via Deleted Entities</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420)|An attacker can bypass access restrictions to data of Drupal Entity Delete Log, via Deleted Entities, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419" class="noirorange"><b>Linux kernel</b>: use after free via nft_setelem_catchall_deactivate()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_setelem_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SaltStack-Salt-directory-traversal-43418" class="noirorange"><b>SaltStack Salt</b>: directory traversal</a>](https://vigilance.fr/vulnerability/SaltStack-Salt-directory-traversal-43418)|An attacker can traverse directories of SaltStack Salt, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via ext4_write_inline_data_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via ext4_write_inline_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
  
 
 # CERT-FR
@@ -77,86 +140,6 @@
  |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5651-1 mediawiki - security update](https://www.linux.org/threads/dsa-5651-1-mediawiki-security-update.49349/)|Visit link for details.|Mar 31, 2024|
- |[DSA-5650-1 util-linux - security update](https://www.linux.org/threads/dsa-5650-1-util-linux-security-update.49348/)|Visit link for details.|Mar 31, 2024|
- |[DSA-5649-1 xz-utils - security update](https://www.linux.org/threads/dsa-5649-1-xz-utils-security-update.49306/)|Visit link for details.|Mar 29, 2024|
- |[DSA-5648-1 chromium - security update](https://www.linux.org/threads/dsa-5648-1-chromium-security-update.49301/)|Visit link for details.|Mar 29, 2024|
- |[USN-6707-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6707-4-linux-kernel-azure-vulnerabilities.49298/)|Visit link for details.|Mar 28, 2024|
- |[USN-6704-4: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6704-4-linux-kernel-intel-iotg-vulnerabilities.49297/)|Visit link for details.|Mar 28, 2024|
- |[USN-6715-1: unixODBC vulnerability](https://www.linux.org/threads/usn-6715-1-unixodbc-vulnerability.49292/)|Visit link for details.|Mar 28, 2024|
- |[USN-6686-5: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6686-5-linux-kernel-intel-iotg-vulnerabilities.49291/)|Visit link for details.|Mar 27, 2024|
- |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
- |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
- |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/BuildKit-four-vulnerabilities-43425" class="noirorange"><b>BuildKit</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/BuildKit-four-vulnerabilities-43425)|An attacker can use several vulnerabilities of BuildKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-privilege-escalation-via-Classic-Builder-Cache-Poisoning-43424" class="noirorange"><b>Docker Moby</b>: privilege escalation via Classic Builder Cache Poisoning</a>](https://vigilance.fr/vulnerability/Docker-Moby-privilege-escalation-via-Classic-Builder-Cache-Poisoning-43424)|An attacker can bypass restrictions of Docker Moby, via Classic Builder Cache Poisoning, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-code-execution-via-File-Descriptor-Leak-43422" class="noirorange"><b>runc</b>: code execution via File Descriptor Leak</a>](https://vigilance.fr/vulnerability/runc-code-execution-via-File-Descriptor-Leak-43422)|An attacker, in a guest system, can use a vulnerability of runc, via File Descriptor Leak, in order to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420" class="noirorange"><b>Drupal Entity Delete Log</b>: information disclosure via Deleted Entities</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420)|An attacker can bypass access restrictions to data of Drupal Entity Delete Log, via Deleted Entities, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419" class="noirorange"><b>Linux kernel</b>: use after free via nft_setelem_catchall_deactivate()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_setelem_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SaltStack-Salt-directory-traversal-43418" class="noirorange"><b>SaltStack Salt</b>: directory traversal</a>](https://vigilance.fr/vulnerability/SaltStack-Salt-directory-traversal-43418)|An attacker can traverse directories of SaltStack Salt, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415" class="noirorange"><b>Splunk Add-on Builder</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Splunk-Add-on-Builder-information-disclosure-43415)|An attacker can bypass access restrictions to data of Splunk Add-on Builder, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via ext4_write_inline_data_end()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via ext4_write_inline_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Yahoo! JAPAN cross-site scripting (CVE-2024-28895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[VT STUDIO code execution (CVE-2024-28099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[Apache Fineract privilege escalation (CVE-2024-23537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Apache Fineract SQL injection (CVE-2024-23539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Apache Fineract SQL injection (CVE-2024-23538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell - CVE-2024-25962](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25962-2024-03-29)|Visit link for details.|29/03/2024|
- |[Cisco - CVE-2024-20308](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20308-2024-03-29)|Visit link for details.|29/03/2024|
- |[WordPress Pods - CVE-2023-6999](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-pods-cve-2023-6999-2024-03-29)|Visit link for details.|29/03/2024|
- |[TP-Link - CVE-2023-6437](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-6437-2024-03-29)|Visit link for details.|29/03/2024|
- |[SysAid - CVE-2024-27775](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-27775-2024-03-29)|Visit link for details.|29/03/2024|
- |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|29/03/2024|
- |[Google Chrome - CVE-2024-2883](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-2883-2024-03-27)|Visit link for details.|29/03/2024|
- |[Tenable Nessus - CVE-2024-2390](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-2390-2024-03-28)|Visit link for details.|28/03/2024|
- |[Synology - CVE-2024-29241](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-29241-2024-03-28)|Visit link for details.|28/03/2024|
- |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|28/03/2024|
- |[Cisco - CVE-2024-20314](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20314-2024-03-28)|Visit link for details.|28/03/2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-168)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-168)|Visit link for details|2024-03-28|
- |[JetBrains security advisory (AV24-167)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-167)|Visit link for details|2024-03-28|
- |[GitLab security advisory (AV24-166)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-166)|Visit link for details|2024-03-28|
- |[Cisco security advisory (AV24-165)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-165)|Visit link for details|2024-03-28|
- |[Microsoft Edge security advisory (AV24-164)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-164)|Visit link for details|2024-03-27|
- |[[Control systems] Siemens security advisory (AV24-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-163)|Visit link for details|2024-03-27|
- |[Google Chrome security advisory (AV24-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-162)|Visit link for details|2024-03-26|
- |[Red Hat security advisory (AV24-161)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-161)|Visit link for details|2024-03-26|
- |[[Control systems] CISA ICS security advisories (AV24-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-160)|Visit link for details|2024-03-26|
- |[Apple security advisory (AV24-159)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-159)|Visit link for details|2024-03-26|
- |[Dell security advisory (AV24-158)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-158)|Visit link for details|2024-03-25|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -174,6 +157,23 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
+ |[ 46810104/24 - « Supply chain » attaque contre XZ Utils ](https://www.dgssi.gov.ma/fr/bulletins/supply-chain-attaque-contre-xz-utils)| Des chercheurs en sécurité ont révélé une vulnérabilité critique ( CVE-2024-3094 ) dans XZ Utils utilisé dans les distributions Linux. XZ Utils est victime d'une « Supply Chain » attaque La…| 01 avril 2024|
+ |[ 46802903/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-0)| Gitlab annonce la correction de deux vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service et…| 29 mars 2024|
+ |[ 46792903/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-1)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 29 mars 2024|
+ |[ 46782803/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-13)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 28 mars 2024|
+ |[ 46772803/24 - Vulnérabilité dans Aruba ArubaOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-aruba-arubaos)| Une vulnérabilité a été corrigée dans Aruba ArubaOS-Switch. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service.| 28 mars 2024|
+ |[ 46762803/24 - Vulnérabilité critique dans le protocole UDP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-protocole-udp)| Des chercheurs en sécurité ont révélé une vulnérabilité critique (CVE-2024-2169) affectant les implémentations du protocole UDP (User Datagram Protocol). L'exploitation réussie de cette vulnérabilité…| 28 mars 2024|
+ |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
+ |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
+ |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
+ |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -188,8 +188,19 @@
  |[SolarWinds Access Rights Manager OpenFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-349/)|Visit link for details|2024-03-28|
  
 
-# MA-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Edge security advisory (AV24-168)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-168)|Visit link for details|2024-03-28|
+ |[JetBrains security advisory (AV24-167)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-167)|Visit link for details|2024-03-28|
+ |[GitLab security advisory (AV24-166)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-166)|Visit link for details|2024-03-28|
+ |[Cisco security advisory (AV24-165)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-165)|Visit link for details|2024-03-28|
+ |[Microsoft Edge security advisory (AV24-164)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-164)|Visit link for details|2024-03-27|
+ |[[Control systems] Siemens security advisory (AV24-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-163)|Visit link for details|2024-03-27|
+ |[Google Chrome security advisory (AV24-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-162)|Visit link for details|2024-03-26|
+ |[Red Hat security advisory (AV24-161)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-161)|Visit link for details|2024-03-26|
+ |[[Control systems] CISA ICS security advisories (AV24-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-160)|Visit link for details|2024-03-26|
+ |[Apple security advisory (AV24-159)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-159)|Visit link for details|2024-03-26|
+ |[Dell security advisory (AV24-158)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-158)|Visit link for details|2024-03-25|
  
