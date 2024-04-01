@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/04/2024 23:20:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/04/2024 00:13:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,6 +111,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell EMC OpenManage Enterprise directory traversal (CVE-2024-25944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 1, 2024|
+ |[Yahoo! JAPAN cross-site scripting (CVE-2024-28895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[VT STUDIO code execution (CVE-2024-28099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[Apache Fineract privilege escalation (CVE-2024-23537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ |[Apache Fineract SQL injection (CVE-2024-23539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -125,19 +138,6 @@
  |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20240326)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch is currently available for CVE-2023-4408 of the affected products.|Release Date: 26 Mar 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Microsoft Edge.  A remote attacker could exploit some of these vulnerabilities to trigger remote code execution,  information disclosure, spoofing, denial of service and security restriction bypass on the targeted system.|Release Date: 25 Mar 2024 |
  |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240325)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 25 Mar 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell EMC OpenManage Enterprise directory traversal (CVE-2024-25944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 1, 2024|
- |[Yahoo! JAPAN cross-site scripting (CVE-2024-28895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[KV STUDIO and KV REPLAY VIEWER code execution (CVE-2024-29218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[VT STUDIO code execution (CVE-2024-28099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- |[Apache Fineract privilege escalation (CVE-2024-23537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
- |[Apache Fineract SQL injection (CVE-2024-23539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2024|
  
 
 # EU-CERT
@@ -161,31 +161,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
+ |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
+ |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
  |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
  |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
  |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
  |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-352/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager OpenFileStreamLocal Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-351/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager JsonSerializationHelper Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-350/)|Visit link for details|2024-03-28|
- |[SolarWinds Access Rights Manager OpenFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-349/)|Visit link for details|2024-03-28|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
- |[ 46810104/24 - « Supply chain » attaque contre XZ Utils ](https://www.dgssi.gov.ma/fr/bulletins/supply-chain-attaque-contre-xz-utils)| Des chercheurs en sécurité ont révélé une vulnérabilité critique ( CVE-2024-3094 ) dans XZ Utils utilisé dans les distributions Linux. XZ Utils est victime d'une « Supply Chain » attaque La…| 01 avril 2024|
- |[ 46802903/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-0)| Gitlab annonce la correction de deux vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service et…| 29 mars 2024|
- |[ 46792903/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-1)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 29 mars 2024|
- |[ 46782803/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-13)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 28 mars 2024|
- |[ 46772803/24 - Vulnérabilité dans Aruba ArubaOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-aruba-arubaos)| Une vulnérabilité a été corrigée dans Aruba ArubaOS-Switch. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service.| 28 mars 2024|
- |[ 46762803/24 - Vulnérabilité critique dans le protocole UDP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-protocole-udp)| Des chercheurs en sécurité ont révélé une vulnérabilité critique (CVE-2024-2169) affectant les implémentations du protocole UDP (User Datagram Protocol). L'exploitation réussie de cette vulnérabilité…| 28 mars 2024|
- |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
- |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
- |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
- |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
  
 
 # CA-CCS
@@ -203,4 +186,21 @@
  |[[Control systems] CISA ICS security advisories (AV24-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-160)|Visit link for details|2024-03-26|
  |[Apple security advisory (AV24-159)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-159)|Visit link for details|2024-03-26|
  |[Dell security advisory (AV24-158)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-158)|Visit link for details|2024-03-25|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
+ |[ 46810104/24 - « Supply chain » attaque contre XZ Utils ](https://www.dgssi.gov.ma/fr/bulletins/supply-chain-attaque-contre-xz-utils)| Des chercheurs en sécurité ont révélé une vulnérabilité critique ( CVE-2024-3094 ) dans XZ Utils utilisé dans les distributions Linux. XZ Utils est victime d'une « Supply Chain » attaque La…| 01 avril 2024|
+ |[ 46802903/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-0)| Gitlab annonce la correction de deux vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service et…| 29 mars 2024|
+ |[ 46792903/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-1)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 29 mars 2024|
+ |[ 46782803/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-13)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 28 mars 2024|
+ |[ 46772803/24 - Vulnérabilité dans Aruba ArubaOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-aruba-arubaos)| Une vulnérabilité a été corrigée dans Aruba ArubaOS-Switch. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service.| 28 mars 2024|
+ |[ 46762803/24 - Vulnérabilité critique dans le protocole UDP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-protocole-udp)| Des chercheurs en sécurité ont révélé une vulnérabilité critique (CVE-2024-2169) affectant les implémentations du protocole UDP (User Datagram Protocol). L'exploitation réussie de cette vulnérabilité…| 28 mars 2024|
+ |[ 46752703/24 - Vulnérabilité dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-apple)| Apple a publié des mises à jour de sécurité d'urgence pour corriger une  vulnérabilité affectant les produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant…| 27 mars 2024|
+ |[ 46742703/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-3)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 27 mars 2024|
+ |[ 46732603/24 - Deux vulnérabilités dans MISP ](https://www.dgssi.gov.ma/fr/bulletins/deux-vulnerabilites-dans-misp)| MISP a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant les versions susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de contourner…| 26 mars 2024|
+ |[ 46722603/24 - Vulnérabilité critique affectant le plugin «File Manager» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-file-manager-pour-wordpress-0)| Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « File Manager». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du  code…| 26 mars 2024|
  
