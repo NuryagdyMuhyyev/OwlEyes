@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/04/2024 15:18:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/04/2024 16:14:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library, CVE-2024-3094](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)|Visit link for details.|Mar 29, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/28/cisco-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2024|
- |[Apple Released Security Updates for Safari and macOS](https://www.cisa.gov/news-events/alerts/2024/03/27/apple-released-security-updates-safari-and-macos)|Visit link for details.|Mar 27, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 26, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 26, 2024|
- |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate SQL Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-sql-injection-vulnerabilities)|Visit link for details.|Mar 25, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 25, 2024|
- |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
- |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6719-1: util-linux vulnerability](https://www.linux.org/threads/usn-6719-1-util-linux-vulnerability.49288/)|Visit link for details.|Mar 27, 2024|
  |[USN-6718-2: curl vulnerability](https://www.linux.org/threads/usn-6718-2-curl-vulnerability.49287/)|Visit link for details.|Mar 27, 2024|
  |[USN-6718-1: curl vulnerabilities](https://www.linux.org/threads/usn-6718-1-curl-vulnerabilities.49281/)|Visit link for details.|Mar 27, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library, CVE-2024-3094](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)|Visit link for details.|Mar 29, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/28/cisco-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2024|
+ |[Apple Released Security Updates for Safari and macOS](https://www.cisa.gov/news-events/alerts/2024/03/27/apple-released-security-updates-safari-and-macos)|Visit link for details.|Mar 27, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 26, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 26, 2024|
+ |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate SQL Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-sql-injection-vulnerabilities)|Visit link for details.|Mar 25, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/25/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 25, 2024|
+ |[CISA, FBI, and MS-ISAC Release Update to Joint Guidance on Distributed Denial-of-Service Techniques](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-fbi-and-ms-isac-release-update-joint-guidance-distributed-denial-service-techniques)|Visit link for details.|Mar 21, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/03/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 21, 2024|
+ |[Ivanti Releases Security Updates for Neurons for ITSM and Standalone Sentry](https://www.cisa.gov/news-events/alerts/2024/03/21/ivanti-releases-security-updates-neurons-itsm-and-standalone-sentry)|Visit link for details.|Mar 21, 2024|
  
 
 # CERT-FR
@@ -111,6 +111,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420" class="noirorange"><b>Drupal Entity Delete Log</b>: information disclosure via Deleted Entities</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420)|An attacker can bypass access restrictions to data of Drupal Entity Delete Log, via Deleted Entities, in order to read sensitive information...|Visit link for details|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[FURUNO Systems ACERA 9010-08 and FURUNO Systems ACERA 9010-24 weak security (CVE-2024-28744)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 1, 2024|
+ |[Dell EMC OpenManage Enterprise directory traversal (CVE-2024-25944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 1, 2024|
+ |[Flexera Software FlexNet Publisher privilege escalation (CVE-2024-2658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
+ |[RARLAB WinRAR security bypass (CVE-2024-30370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
+ |[Linux Kernel denial of service (CVE-2024-26653)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
+ |[Linux Kernel denial of service (CVE-2024-26654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -127,17 +140,18 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[FURUNO Systems ACERA 9010-08 and FURUNO Systems ACERA 9010-24 weak security (CVE-2024-28744)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 1, 2024|
- |[Dell EMC OpenManage Enterprise directory traversal (CVE-2024-25944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 1, 2024|
- |[Flexera Software FlexNet Publisher privilege escalation (CVE-2024-2658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
- |[RARLAB WinRAR security bypass (CVE-2024-30370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
- |[Linux Kernel denial of service (CVE-2024-26653)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
- |[Linux Kernel denial of service (CVE-2024-26654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
+ |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
+ |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
+ |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
+ |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
  
 
 # EU-CERT
@@ -155,20 +169,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
- |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
- |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
- |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
- |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
- |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
  
 
 # MA-CERT
