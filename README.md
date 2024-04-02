@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/04/2024 17:31:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/04/2024 18:18:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,22 @@
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 mars 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenConnect-information-disclosure-43433" class="noirorange"><b>OpenConnect</b>: information disclosure</a>](https://vigilance.fr/vulnerability/OpenConnect-information-disclosure-43433)|An attacker can bypass access restrictions to data of OpenConnect, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/indent-buffer-overflow-via-set-buf-break-43428" class="noirorange"><b>indent</b>: buffer overflow via set_buf_break()</a>](https://vigilance.fr/vulnerability/indent-buffer-overflow-via-set-buf-break-43428)|An attacker can trigger a buffer overflow of indent, via set_buf_break(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JupyterLab-Cross-Site-Scripting-via-jupyter-server-43427" class="noirorange"><b>JupyterLab</b>: Cross Site Scripting via jupyter-server</a>](https://vigilance.fr/vulnerability/JupyterLab-Cross-Site-Scripting-via-jupyter-server-43427)|An attacker can trigger a Cross Site Scripting of JupyterLab, via jupyter-server, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Markdown-File-Preview-43426" class="noirorange"><b>JupyterLab</b>: information disclosure via Markdown File Preview</a>](https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Markdown-File-Preview-43426)|An attacker can bypass access restrictions to data of JupyterLab, via Markdown File Preview, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exiv2-denial-of-service-via-QuickTimeVideo-multipleEntriesDecoder-43810" class="noirorange"><b>Exiv2</b>: denial of service via QuickTimeVideo::multipleEntriesDecoder()</a>](https://vigilance.fr/vulnerability/Exiv2-denial-of-service-via-QuickTimeVideo-multipleEntriesDecoder-43810)|An attacker can cause a fatal error of Exiv2, via QuickTimeVideo::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-QuickTimeVideo-NikonTagsDecoder-43809" class="noirorange"><b>Exiv2</b>: out-of-bounds memory reading via QuickTimeVideo::NikonTagsDecoder()</a>](https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-QuickTimeVideo-NikonTagsDecoder-43809)|An attacker can force a read at an invalid memory address of Exiv2, via QuickTimeVideo::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIFLIB-memory-leak-via-DumpScreen2RGB-43807" class="noirorange"><b>GIFLIB</b>: memory leak via DumpScreen2RGB()</a>](https://vigilance.fr/vulnerability/GIFLIB-memory-leak-via-DumpScreen2RGB-43807)|An attacker can create a memory leak of GIFLIB, via DumpScreen2RGB(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BuildKit-four-vulnerabilities-43425" class="noirorange"><b>BuildKit</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/BuildKit-four-vulnerabilities-43425)|An attacker can use several vulnerabilities of BuildKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-privilege-escalation-via-Classic-Builder-Cache-Poisoning-43424" class="noirorange"><b>Docker Moby</b>: privilege escalation via Classic Builder Cache Poisoning</a>](https://vigilance.fr/vulnerability/Docker-Moby-privilege-escalation-via-Classic-Builder-Cache-Poisoning-43424)|An attacker can bypass restrictions of Docker Moby, via Classic Builder Cache Poisoning, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/runc-code-execution-via-File-Descriptor-Leak-43422" class="noirorange"><b>runc</b>: code execution via File Descriptor Leak</a>](https://vigilance.fr/vulnerability/runc-code-execution-via-File-Descriptor-Leak-43422)|An attacker, in a guest system, can use a vulnerability of runc, via File Descriptor Leak, in order to run code on the host system...|Visit link for details|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,35 +111,6 @@
  |[Cisco - CVE-2024-20314](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20314-2024-03-28)|Visit link for details.|28/03/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenConnect-information-disclosure-43433" class="noirorange"><b>OpenConnect</b>: information disclosure</a>](https://vigilance.fr/vulnerability/OpenConnect-information-disclosure-43433)|An attacker can bypass access restrictions to data of OpenConnect, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/indent-buffer-overflow-via-set-buf-break-43428" class="noirorange"><b>indent</b>: buffer overflow via set_buf_break()</a>](https://vigilance.fr/vulnerability/indent-buffer-overflow-via-set-buf-break-43428)|An attacker can trigger a buffer overflow of indent, via set_buf_break(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JupyterLab-Cross-Site-Scripting-via-jupyter-server-43427" class="noirorange"><b>JupyterLab</b>: Cross Site Scripting via jupyter-server</a>](https://vigilance.fr/vulnerability/JupyterLab-Cross-Site-Scripting-via-jupyter-server-43427)|An attacker can trigger a Cross Site Scripting of JupyterLab, via jupyter-server, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Markdown-File-Preview-43426" class="noirorange"><b>JupyterLab</b>: information disclosure via Markdown File Preview</a>](https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Markdown-File-Preview-43426)|An attacker can bypass access restrictions to data of JupyterLab, via Markdown File Preview, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exiv2-denial-of-service-via-QuickTimeVideo-multipleEntriesDecoder-43810" class="noirorange"><b>Exiv2</b>: denial of service via QuickTimeVideo::multipleEntriesDecoder()</a>](https://vigilance.fr/vulnerability/Exiv2-denial-of-service-via-QuickTimeVideo-multipleEntriesDecoder-43810)|An attacker can cause a fatal error of Exiv2, via QuickTimeVideo::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-QuickTimeVideo-NikonTagsDecoder-43809" class="noirorange"><b>Exiv2</b>: out-of-bounds memory reading via QuickTimeVideo::NikonTagsDecoder()</a>](https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-QuickTimeVideo-NikonTagsDecoder-43809)|An attacker can force a read at an invalid memory address of Exiv2, via QuickTimeVideo::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIFLIB-memory-leak-via-DumpScreen2RGB-43807" class="noirorange"><b>GIFLIB</b>: memory leak via DumpScreen2RGB()</a>](https://vigilance.fr/vulnerability/GIFLIB-memory-leak-via-DumpScreen2RGB-43807)|An attacker can create a memory leak of GIFLIB, via DumpScreen2RGB(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BuildKit-four-vulnerabilities-43425" class="noirorange"><b>BuildKit</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/BuildKit-four-vulnerabilities-43425)|An attacker can use several vulnerabilities of BuildKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-privilege-escalation-via-Classic-Builder-Cache-Poisoning-43424" class="noirorange"><b>Docker Moby</b>: privilege escalation via Classic Builder Cache Poisoning</a>](https://vigilance.fr/vulnerability/Docker-Moby-privilege-escalation-via-Classic-Builder-Cache-Poisoning-43424)|An attacker can bypass restrictions of Docker Moby, via Classic Builder Cache Poisoning, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-code-execution-via-File-Descriptor-Leak-43422" class="noirorange"><b>runc</b>: code execution via File Descriptor Leak</a>](https://vigilance.fr/vulnerability/runc-code-execution-via-File-Descriptor-Leak-43422)|An attacker, in a guest system, can use a vulnerability of runc, via File Descriptor Leak, in order to run code on the host system...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[FURUNO Systems ACERA 9010-08 and FURUNO Systems ACERA 9010-24 weak security (CVE-2024-28744)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 1, 2024|
- |[Dell EMC OpenManage Enterprise directory traversal (CVE-2024-25944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 1, 2024|
- |[Flexera Software FlexNet Publisher privilege escalation (CVE-2024-2658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
- |[RARLAB WinRAR security bypass (CVE-2024-30370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
- |[Linux Kernel denial of service (CVE-2024-26653)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
- |[Linux Kernel denial of service (CVE-2024-26654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -138,6 +125,19 @@
  |[Microsoft Monthly Security Update (May 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2023)|[Updated on 2024-03-28]Updated Source and Related Links.CVE-2023-24955 vulnerability is exploited in the wild. In a network-based attack, an authenticated attacker as a Site Owner could execute code remotely on the SharePoint Server. ...| Release Date: 10 May 2023 |
  |[Apple Product Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-product-remote-code-execution-vulnerability_20240326)|A vulnerability was identified in Apple Product. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2024-03-27] Updated System / Technologies affected, Solutions and Related Links.| Release Date: 26 Mar 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-03-07] Updated System...| Release Date: 1 Mar 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[FURUNO Systems ACERA 9010-08 and FURUNO Systems ACERA 9010-24 weak security (CVE-2024-28744)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 1, 2024|
+ |[Dell EMC OpenManage Enterprise directory traversal (CVE-2024-25944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 1, 2024|
+ |[Flexera Software FlexNet Publisher privilege escalation (CVE-2024-2658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
+ |[RARLAB WinRAR security bypass (CVE-2024-30370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
+ |[Linux Kernel denial of service (CVE-2024-26653)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
+ |[Linux Kernel denial of service (CVE-2024-26654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2024|
  
 
 # EU-CERT
