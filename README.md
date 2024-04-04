@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/04/2024 23:21:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/04/2024 00:14:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 04, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 04, 2024|
+ |[Ivanti Releases Security Update for Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/04/04/ivanti-releases-security-update-ivanti-connect-secure-and-policy-secure-gateways)|Visit link for details.|Apr 04, 2024|
+ |[CISA Publishes New Webpage Dedicated to Providing Resources for High-Risk Communities](https://www.cisa.gov/news-events/alerts/2024/04/02/cisa-publishes-new-webpage-dedicated-providing-resources-high-risk-communities)|Visit link for details.|Apr 02, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/04/02/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 02, 2024|
+ |[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library, CVE-2024-3094](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)|Visit link for details.|Mar 29, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/28/cisco-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2024|
+ |[Apple Released Security Updates for Safari and macOS](https://www.cisa.gov/news-events/alerts/2024/03/27/apple-released-security-updates-safari-and-macos)|Visit link for details.|Mar 27, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 26, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 26, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,37 @@
  |[USN-6707-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6707-4-linux-kernel-azure-vulnerabilities.49298/)|Visit link for details.|Mar 28, 2024|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 04, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 04, 2024|
- |[Ivanti Releases Security Update for Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/04/04/ivanti-releases-security-update-ivanti-connect-secure-and-policy-secure-gateways)|Visit link for details.|Apr 04, 2024|
- |[CISA Publishes New Webpage Dedicated to Providing Resources for High-Risk Communities](https://www.cisa.gov/news-events/alerts/2024/04/02/cisa-publishes-new-webpage-dedicated-providing-resources-high-risk-communities)|Visit link for details.|Apr 02, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/04/02/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 02, 2024|
- |[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library, CVE-2024-3094](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)|Visit link for details.|Mar 29, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/28/cisco-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2024|
- |[Apple Released Security Updates for Safari and macOS](https://www.cisa.gov/news-events/alerts/2024/03/27/apple-released-security-updates-safari-and-macos)|Visit link for details.|Mar 27, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 26, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 26, 2024|
+ |[X.Org - CVE-2024-31083](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-31083-2024-04-04)|Visit link for details.|04/04/2024|
+ |[Node.js - CVE-2024-27983](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27983-2024-04-04)|Visit link for details.|04/04/2024|
+ |[Ivanti - CVE-2024-22053](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22053-2024-04-04)|Visit link for details.|04/04/2024|
+ |[Ivanti - CVE-2024-21894](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21894-2024-04-04)|Visit link for details.|04/04/2024|
+ |[D-Link - CVE-2024-3272](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3272-2024-04-04)|Visit link for details.|04/04/2024|
+ |[VMware - CVE-2024-22248](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22248-2024-04-03)|Visit link for details.|03/04/2024|
+ |[VMware - CVE-2024-22246](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22246-2024-04-03)|Visit link for details.|03/04/2024|
+ |[Google Chrome - CVE-2024-3159](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3159-2024-04-03)|Visit link for details.|03/04/2024|
+ |[DELL - CVE-2024-25959](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25959-2024-04-03)|Visit link for details.|03/04/2024|
+ |[Cisco - CVE-2024-20271](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20271-2024-04-03)|Visit link for details.|03/04/2024|
+ |[liblzma - CVE-2024-3094](https://www.cyberveille-sante.gouv.fr/alertes/liblzma-cve-2024-3094-2024-04-02)|Visit link for details.|02/04/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-file-creation-via-Blacklisted-Extensions-Drafts-Saving-43832" class="noirorange"><b>Ibexa DXP</b>: file creation via Blacklisted Extensions Drafts Saving</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-file-creation-via-Blacklisted-Extensions-Drafts-Saving-43832)|An attacker can bypass access restrictions of Ibexa DXP, via Blacklisted Extensions Drafts Saving, in order to create a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-write-access-via-Existing-HyperVisor-Configuration-43828" class="noirorange"><b>IBM Storage Protect Plus Server</b>: write access via Existing HyperVisor Configuration</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-write-access-via-Existing-HyperVisor-Configuration-43828)|An attacker can bypass access restrictions of IBM Storage Protect Plus Server, via Existing HyperVisor Configuration, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-information-disclosure-via-Forward-External-DNS-Requests-43825" class="noirorange"><b>Docker Moby</b>: information disclosure via Forward External DNS Requests</a>](https://vigilance.fr/vulnerability/Docker-Moby-information-disclosure-via-Forward-External-DNS-Requests-43825)|An attacker can bypass access restrictions to data of Docker Moby, via Forward External DNS Requests, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeImage-overload-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43815" class="noirorange"><b>FreeImage</b>: overload via BitmapAccess.cpp::FreeImage_AllocateBitmap()</a>](https://vigilance.fr/vulnerability/FreeImage-overload-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43815)|An attacker can trigger an overload of FreeImage, via BitmapAccess.cpp::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43814" class="noirorange"><b>FreeImage</b>: denial of service via BitmapAccess.cpp::FreeImage_AllocateBitmap()</a>](https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43814)|An attacker can cause a fatal error of FreeImage, via BitmapAccess.cpp::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652)|An attacker can bypass restrictions of Ivanti Endpoint Manager, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenConnect-information-disclosure-43433" class="noirorange"><b>OpenConnect</b>: information disclosure</a>](https://vigilance.fr/vulnerability/OpenConnect-information-disclosure-43433)|An attacker can bypass access restrictions to data of OpenConnect, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/indent-buffer-overflow-via-set-buf-break-43428" class="noirorange"><b>indent</b>: buffer overflow via set_buf_break()</a>](https://vigilance.fr/vulnerability/indent-buffer-overflow-via-set-buf-break-43428)|An attacker can trigger a buffer overflow of indent, via set_buf_break(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JupyterLab-Cross-Site-Scripting-via-jupyter-server-43427" class="noirorange"><b>JupyterLab</b>: Cross Site Scripting via jupyter-server</a>](https://vigilance.fr/vulnerability/JupyterLab-Cross-Site-Scripting-via-jupyter-server-43427)|An attacker can trigger a Cross Site Scripting of JupyterLab, via jupyter-server, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Markdown-File-Preview-43426" class="noirorange"><b>JupyterLab</b>: information disclosure via Markdown File Preview</a>](https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Markdown-File-Preview-43426)|An attacker can bypass access restrictions to data of JupyterLab, via Markdown File Preview, in order to read sensitive information...|Visit link for details|
  
 
 # CERT-FR
@@ -91,23 +124,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[X.Org - CVE-2024-31083](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-31083-2024-04-04)|Visit link for details.|04/04/2024|
- |[Node.js - CVE-2024-27983](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27983-2024-04-04)|Visit link for details.|04/04/2024|
- |[Ivanti - CVE-2024-22053](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22053-2024-04-04)|Visit link for details.|04/04/2024|
- |[Ivanti - CVE-2024-21894](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21894-2024-04-04)|Visit link for details.|04/04/2024|
- |[D-Link - CVE-2024-3272](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3272-2024-04-04)|Visit link for details.|04/04/2024|
- |[VMware - CVE-2024-22248](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22248-2024-04-03)|Visit link for details.|03/04/2024|
- |[VMware - CVE-2024-22246](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22246-2024-04-03)|Visit link for details.|03/04/2024|
- |[Google Chrome - CVE-2024-3159](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3159-2024-04-03)|Visit link for details.|03/04/2024|
- |[DELL - CVE-2024-25959](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25959-2024-04-03)|Visit link for details.|03/04/2024|
- |[Cisco - CVE-2024-20271](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20271-2024-04-03)|Visit link for details.|03/04/2024|
- |[liblzma - CVE-2024-3094](https://www.cyberveille-sante.gouv.fr/alertes/liblzma-cve-2024-3094-2024-04-02)|Visit link for details.|02/04/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,36 +138,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240328)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 28 Mar 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240327)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-03-28] Updated impact.| Release Date: 27 Mar 2024 |
  |[Microsoft Monthly Security Update (May 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2023)|[Updated on 2024-03-28]Updated Source and Related Links.CVE-2023-24955 vulnerability is exploited in the wild. In a network-based attack, an authenticated attacker as a Site Owner could execute code remotely on the SharePoint Server. ...| Release Date: 10 May 2023 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-file-creation-via-Blacklisted-Extensions-Drafts-Saving-43832" class="noirorange"><b>Ibexa DXP</b>: file creation via Blacklisted Extensions Drafts Saving</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-file-creation-via-Blacklisted-Extensions-Drafts-Saving-43832)|An attacker can bypass access restrictions of Ibexa DXP, via Blacklisted Extensions Drafts Saving, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-write-access-via-Existing-HyperVisor-Configuration-43828" class="noirorange"><b>IBM Storage Protect Plus Server</b>: write access via Existing HyperVisor Configuration</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-write-access-via-Existing-HyperVisor-Configuration-43828)|An attacker can bypass access restrictions of IBM Storage Protect Plus Server, via Existing HyperVisor Configuration, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-information-disclosure-via-Forward-External-DNS-Requests-43825" class="noirorange"><b>Docker Moby</b>: information disclosure via Forward External DNS Requests</a>](https://vigilance.fr/vulnerability/Docker-Moby-information-disclosure-via-Forward-External-DNS-Requests-43825)|An attacker can bypass access restrictions to data of Docker Moby, via Forward External DNS Requests, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-overload-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43815" class="noirorange"><b>FreeImage</b>: overload via BitmapAccess.cpp::FreeImage_AllocateBitmap()</a>](https://vigilance.fr/vulnerability/FreeImage-overload-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43815)|An attacker can trigger an overload of FreeImage, via BitmapAccess.cpp::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43814" class="noirorange"><b>FreeImage</b>: denial of service via BitmapAccess.cpp::FreeImage_AllocateBitmap()</a>](https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43814)|An attacker can cause a fatal error of FreeImage, via BitmapAccess.cpp::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652)|An attacker can bypass restrictions of Ivanti Endpoint Manager, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenConnect-information-disclosure-43433" class="noirorange"><b>OpenConnect</b>: information disclosure</a>](https://vigilance.fr/vulnerability/OpenConnect-information-disclosure-43433)|An attacker can bypass access restrictions to data of OpenConnect, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/indent-buffer-overflow-via-set-buf-break-43428" class="noirorange"><b>indent</b>: buffer overflow via set_buf_break()</a>](https://vigilance.fr/vulnerability/indent-buffer-overflow-via-set-buf-break-43428)|An attacker can trigger a buffer overflow of indent, via set_buf_break(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JupyterLab-Cross-Site-Scripting-via-jupyter-server-43427" class="noirorange"><b>JupyterLab</b>: Cross Site Scripting via jupyter-server</a>](https://vigilance.fr/vulnerability/JupyterLab-Cross-Site-Scripting-via-jupyter-server-43427)|An attacker can trigger a Cross Site Scripting of JupyterLab, via jupyter-server, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Markdown-File-Preview-43426" class="noirorange"><b>JupyterLab</b>: information disclosure via Markdown File Preview</a>](https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Markdown-File-Preview-43426)|An attacker can bypass access restrictions to data of JupyterLab, via Markdown File Preview, in order to read sensitive information...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
- |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
- |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
- |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
- |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
- |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
  
 
 # EU-CERT
@@ -169,6 +155,20 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
+ |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
+ |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
+ |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
+ |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
  
 
 # CA-CCS
