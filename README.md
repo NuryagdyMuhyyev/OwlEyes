@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/04/2024 08:19:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/04/2024 09:23:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -154,21 +154,21 @@
  |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
  
 
-# CA-CCS
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[[Control systems] ABB security advisory (AV24-180)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-180)|Visit link for details|2024-04-04|
- |[HPE security advisory (AV24-179)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-179)|Visit link for details|2024-04-03|
- |[Cisco security advisory (AV24-178)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-178)|Visit link for details|2024-04-03|
- |[Ivanti security advisory (AV24-177)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-177)|Visit link for details|2024-04-03|
- |[Google Chrome security advisory (AV24-176)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-176)|Visit link for details|2024-04-03|
- |[HPE security advisory (AV24-175)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-175)|Visit link for details|2024-04-02|
- |[Android security advisory – April 2024 Monthly Rollup (AV24-174)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-april-2024-monthly-rollup-av24-174)|Visit link for details|2024-04-02|
- |[HPE security advisory (AV24-173)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-173)|Visit link for details|2024-04-02|
- |[[Control systems] CISA ICS security advisories (AV24-172)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-172)|Visit link for details|2024-04-02|
- |[Red Hat security advisory (AV24-171)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-171)|Visit link for details|2024-04-02|
- |[Ubuntu security advisory (AV24-170)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-170)|Visit link for details|2024-04-02|
+ |[ 46860404/24 - Vulnérabilités affectant Ivanti Connect Secure et Ivanti Policy Secure… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-connect-secure-et-ivanti-policy-secure-gateways)| Ivanti a publié des mises à jour de sécurité qui permettent de corriger quatres vulnérabilités critique affectant ses  produits affectant « Ivanti Connect Secure » et « Ivanti Policy Secure…| 04 avril 2024|
+ |[ 46850404/24 - Vulnérabilité affectant le plugin «WP-Members» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wp-members-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « WP-Members». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  de causer une injection de contenu…| 04 avril 2024|
+ |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
+ |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
+ |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
+ |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
+ |[ 46810104/24 - « Supply chain » attaque contre XZ Utils ](https://www.dgssi.gov.ma/fr/bulletins/supply-chain-attaque-contre-xz-utils)| Des chercheurs en sécurité ont révélé une vulnérabilité critique ( CVE-2024-3094 ) dans XZ Utils utilisé dans les distributions Linux. XZ Utils est victime d'une « Supply Chain » attaque La…| 01 avril 2024|
+ |[ 46802903/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-0)| Gitlab annonce la correction de deux vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service et…| 29 mars 2024|
+ |[ 46792903/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-1)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 29 mars 2024|
+ |[ 46782803/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-13)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 28 mars 2024|
+ |[ 46772803/24 - Vulnérabilité dans Aruba ArubaOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-aruba-arubaos)| Une vulnérabilité a été corrigée dans Aruba ArubaOS-Switch. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service.| 28 mars 2024|
  
 
 # EU-CERT
@@ -188,19 +188,19 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[ 46860404/24 - Vulnérabilités affectant Ivanti Connect Secure et Ivanti Policy Secure… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-connect-secure-et-ivanti-policy-secure-gateways)| Ivanti a publié des mises à jour de sécurité qui permettent de corriger quatres vulnérabilités critique affectant ses  produits affectant « Ivanti Connect Secure » et « Ivanti Policy Secure…| 04 avril 2024|
- |[ 46850404/24 - Vulnérabilité affectant le plugin «WP-Members» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wp-members-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « WP-Members». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  de causer une injection de contenu…| 04 avril 2024|
- |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
- |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
- |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
- |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
- |[ 46810104/24 - « Supply chain » attaque contre XZ Utils ](https://www.dgssi.gov.ma/fr/bulletins/supply-chain-attaque-contre-xz-utils)| Des chercheurs en sécurité ont révélé une vulnérabilité critique ( CVE-2024-3094 ) dans XZ Utils utilisé dans les distributions Linux. XZ Utils est victime d'une « Supply Chain » attaque La…| 01 avril 2024|
- |[ 46802903/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-0)| Gitlab annonce la correction de deux vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service et…| 29 mars 2024|
- |[ 46792903/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-1)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 29 mars 2024|
- |[ 46782803/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-13)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’élever ses…| 28 mars 2024|
- |[ 46772803/24 - Vulnérabilité dans Aruba ArubaOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-aruba-arubaos)| Une vulnérabilité a été corrigée dans Aruba ArubaOS-Switch. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service.| 28 mars 2024|
+ |[[Control systems] ABB security advisory (AV24-180)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-180)|Visit link for details|2024-04-04|
+ |[HPE security advisory (AV24-179)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-179)|Visit link for details|2024-04-03|
+ |[Cisco security advisory (AV24-178)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-178)|Visit link for details|2024-04-03|
+ |[Ivanti security advisory (AV24-177)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-177)|Visit link for details|2024-04-03|
+ |[Google Chrome security advisory (AV24-176)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-176)|Visit link for details|2024-04-03|
+ |[HPE security advisory (AV24-175)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-175)|Visit link for details|2024-04-02|
+ |[Android security advisory – April 2024 Monthly Rollup (AV24-174)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-april-2024-monthly-rollup-av24-174)|Visit link for details|2024-04-02|
+ |[HPE security advisory (AV24-173)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-173)|Visit link for details|2024-04-02|
+ |[[Control systems] CISA ICS security advisories (AV24-172)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-172)|Visit link for details|2024-04-02|
+ |[Red Hat security advisory (AV24-171)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-171)|Visit link for details|2024-04-02|
+ |[Ubuntu security advisory (AV24-170)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-170)|Visit link for details|2024-04-02|
  
