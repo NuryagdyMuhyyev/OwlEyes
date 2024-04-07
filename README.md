@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/04/2024 17:28:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/04/2024 18:19:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6721-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6721-1-x-org-x-server-vulnerabilities.49413/)|Visit link for details.|Apr 4, 2024|
- |[DSA-5655-1 cockpit - security update](https://www.linux.org/threads/dsa-5655-1-cockpit-security-update.49412/)|Visit link for details.|Apr 4, 2024|
- |[USN-6710-2: Firefox regressions](https://www.linux.org/threads/usn-6710-2-firefox-regressions.49403/)|Visit link for details.|Apr 4, 2024|
- |[DSA-5654-1 chromium - security update](https://www.linux.org/threads/dsa-5654-1-chromium-security-update.49396/)|Visit link for details.|Apr 4, 2024|
- |[DSA-5653-1 gtkwave - security update](https://www.linux.org/threads/dsa-5653-1-gtkwave-security-update.49392/)|Visit link for details.|Apr 3, 2024|
- |[LSN-0102-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0102-1-kernel-live-patch-security-notice.49391/)|Visit link for details.|Apr 3, 2024|
- |[DSA-5652-1 py7zr - security update](https://www.linux.org/threads/dsa-5652-1-py7zr-security-update.49373/)|Visit link for details.|Apr 2, 2024|
- |[USN-6720-1: Cacti vulnerability](https://www.linux.org/threads/usn-6720-1-cacti-vulnerability.49371/)|Visit link for details.|Apr 2, 2024|
- |[DSA-5651-1 mediawiki - security update](https://www.linux.org/threads/dsa-5651-1-mediawiki-security-update.49349/)|Visit link for details.|Mar 31, 2024|
- |[DSA-5650-1 util-linux - security update](https://www.linux.org/threads/dsa-5650-1-util-linux-security-update.49348/)|Visit link for details.|Mar 31, 2024|
- |[DSA-5649-1 xz-utils - security update](https://www.linux.org/threads/dsa-5649-1-xz-utils-security-update.49306/)|Visit link for details.|Mar 29, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,37 +45,21 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 26, 2024|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Red Hat - CVE-2023-1973](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2023-1973-2024-04-05)|Visit link for details.|05/04/2024|
- |[Progress Flowmon - CVE-2024-2389](https://www.cyberveille-sante.gouv.fr/alertes/progress-flowmon-cve-2024-2389-2024-04-05)|Visit link for details.|05/04/2024|
- |[D-Link - CVE-2024-3273](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3273-2024-04-05)|Visit link for details.|05/04/2024|
- |[Apache HTTP Server - CVE-2024-27316](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-server-cve-2024-27316-2024-04-05)|Visit link for details.|05/04/2024|
- |[X.Org - CVE-2024-31082](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-31082-2024-04-05)|Visit link for details.|05/04/2024|
- |[Microsoft - CVE-2024-29059](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-29059-2024-03-25)|Visit link for details.|05/04/2024|
- |[X.Org - CVE-2024-31083](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-31083-2024-04-04)|Visit link for details.|04/04/2024|
- |[Node.js - CVE-2024-27983](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27983-2024-04-04)|Visit link for details.|04/04/2024|
- |[Ivanti - CVE-2024-22053](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22053-2024-04-04)|Visit link for details.|04/04/2024|
- |[Ivanti - CVE-2024-21894](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21894-2024-04-04)|Visit link for details.|04/04/2024|
- |[D-Link - CVE-2024-3272](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3272-2024-04-04)|Visit link for details.|04/04/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-43452" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-43452)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448" class="noirorange"><b>Django</b>: denial of service via Intcomma Template Filter</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448)|An attacker can cause a fatal error of Django, via Intcomma Template Filter, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Graphviz-out-of-bounds-memory-reading-via-Config6a-43853" class="noirorange"><b>Graphviz</b>: out-of-bounds memory reading via Config6a</a>](https://vigilance.fr/vulnerability/Graphviz-out-of-bounds-memory-reading-via-Config6a-43853)|An attacker can force a read at an invalid memory address of Graphviz, via Config6a, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-D-Processors-information-disclosure-via-SGX-43852" class="noirorange"><b>Intel Xeon D Processors</b>: information disclosure via SGX</a>](https://vigilance.fr/vulnerability/Intel-Xeon-D-Processors-information-disclosure-via-SGX-43852)|An attacker can bypass access restrictions to data of Intel Xeon D Processors, via SGX, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zziplib-denial-of-service-via-zzip-disk-entry-to-file-header-43846" class="noirorange"><b>zziplib</b>: denial of service via zzip_disk_entry_to_file_header()</a>](https://vigilance.fr/vulnerability/zziplib-denial-of-service-via-zzip-disk-entry-to-file-header-43846)|An attacker can cause a fatal error of zziplib, via zzip_disk_entry_to_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nf-hook-slow-43446" class="noirorange"><b>Linux kernel</b>: double free via nf_hook_slow()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nf-hook-slow-43446)|An attacker can force a double memory free of the Linux kernel, via nf_hook_slow(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-cmsg-recv-43445" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via rds_cmsg_recv()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-cmsg-recv-43445)|An attacker can force a read at an invalid memory address of the Linux kernel, via rds_cmsg_recv(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43844" class="noirorange"><b>Jose</b>: overload via JSON Web Encryption</a>](https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43844)|An attacker can trigger an overload of Jose, via JSON Web Encryption, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43843" class="noirorange"><b>Jose</b>: overload via JSON Web Encryption</a>](https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43843)|An attacker can trigger an overload of Jose, via JSON Web Encryption, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-information-disclosure-via-Taxonomy-Tree-Controller-43443" class="noirorange"><b>Ibexa DXP</b>: information disclosure via Taxonomy Tree Controller</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-information-disclosure-via-Taxonomy-Tree-Controller-43443)|An attacker can bypass access restrictions to data of Ibexa DXP, via Taxonomy Tree Controller, in order to read sensitive information...|Visit link for details|
+ |[USN-6721-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6721-1-x-org-x-server-vulnerabilities.49413/)|Visit link for details.|Apr 4, 2024|
+ |[DSA-5655-1 cockpit - security update](https://www.linux.org/threads/dsa-5655-1-cockpit-security-update.49412/)|Visit link for details.|Apr 4, 2024|
+ |[USN-6710-2: Firefox regressions](https://www.linux.org/threads/usn-6710-2-firefox-regressions.49403/)|Visit link for details.|Apr 4, 2024|
+ |[DSA-5654-1 chromium - security update](https://www.linux.org/threads/dsa-5654-1-chromium-security-update.49396/)|Visit link for details.|Apr 4, 2024|
+ |[DSA-5653-1 gtkwave - security update](https://www.linux.org/threads/dsa-5653-1-gtkwave-security-update.49392/)|Visit link for details.|Apr 3, 2024|
+ |[LSN-0102-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0102-1-kernel-live-patch-security-notice.49391/)|Visit link for details.|Apr 3, 2024|
+ |[DSA-5652-1 py7zr - security update](https://www.linux.org/threads/dsa-5652-1-py7zr-security-update.49373/)|Visit link for details.|Apr 2, 2024|
+ |[USN-6720-1: Cacti vulnerability](https://www.linux.org/threads/usn-6720-1-cacti-vulnerability.49371/)|Visit link for details.|Apr 2, 2024|
+ |[DSA-5651-1 mediawiki - security update](https://www.linux.org/threads/dsa-5651-1-mediawiki-security-update.49349/)|Visit link for details.|Mar 31, 2024|
+ |[DSA-5650-1 util-linux - security update](https://www.linux.org/threads/dsa-5650-1-util-linux-security-update.49348/)|Visit link for details.|Mar 31, 2024|
+ |[DSA-5649-1 xz-utils - security update](https://www.linux.org/threads/dsa-5649-1-xz-utils-security-update.49306/)|Visit link for details.|Mar 29, 2024|
  
 
 # CERT-FR
@@ -137,7 +104,54 @@
  |[Tempesta Technologies Tempesta FW denial of service (CVE-2024-2758)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2024|
  |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-29049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2024|
  |[YubiKey Manager GUI privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2024|
- |[PLANEX MZK-MF300N security bypass (CVE-2024-30220)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Red Hat - CVE-2023-1973](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2023-1973-2024-04-05)|Visit link for details.|05/04/2024|
+ |[Progress Flowmon - CVE-2024-2389](https://www.cyberveille-sante.gouv.fr/alertes/progress-flowmon-cve-2024-2389-2024-04-05)|Visit link for details.|05/04/2024|
+ |[D-Link - CVE-2024-3273](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3273-2024-04-05)|Visit link for details.|05/04/2024|
+ |[Apache HTTP Server - CVE-2024-27316](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-server-cve-2024-27316-2024-04-05)|Visit link for details.|05/04/2024|
+ |[X.Org - CVE-2024-31082](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-31082-2024-04-05)|Visit link for details.|05/04/2024|
+ |[Microsoft - CVE-2024-29059](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-29059-2024-03-25)|Visit link for details.|05/04/2024|
+ |[X.Org - CVE-2024-31083](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-31083-2024-04-04)|Visit link for details.|04/04/2024|
+ |[Node.js - CVE-2024-27983](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27983-2024-04-04)|Visit link for details.|04/04/2024|
+ |[Ivanti - CVE-2024-22053](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22053-2024-04-04)|Visit link for details.|04/04/2024|
+ |[Ivanti - CVE-2024-21894](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-21894-2024-04-04)|Visit link for details.|04/04/2024|
+ |[D-Link - CVE-2024-3272](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3272-2024-04-04)|Visit link for details.|04/04/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
+ |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
+ |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
+ |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
+ |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-43452" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-43452)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448" class="noirorange"><b>Django</b>: denial of service via Intcomma Template Filter</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448)|An attacker can cause a fatal error of Django, via Intcomma Template Filter, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Graphviz-out-of-bounds-memory-reading-via-Config6a-43853" class="noirorange"><b>Graphviz</b>: out-of-bounds memory reading via Config6a</a>](https://vigilance.fr/vulnerability/Graphviz-out-of-bounds-memory-reading-via-Config6a-43853)|An attacker can force a read at an invalid memory address of Graphviz, via Config6a, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-D-Processors-information-disclosure-via-SGX-43852" class="noirorange"><b>Intel Xeon D Processors</b>: information disclosure via SGX</a>](https://vigilance.fr/vulnerability/Intel-Xeon-D-Processors-information-disclosure-via-SGX-43852)|An attacker can bypass access restrictions to data of Intel Xeon D Processors, via SGX, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zziplib-denial-of-service-via-zzip-disk-entry-to-file-header-43846" class="noirorange"><b>zziplib</b>: denial of service via zzip_disk_entry_to_file_header()</a>](https://vigilance.fr/vulnerability/zziplib-denial-of-service-via-zzip-disk-entry-to-file-header-43846)|An attacker can cause a fatal error of zziplib, via zzip_disk_entry_to_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nf-hook-slow-43446" class="noirorange"><b>Linux kernel</b>: double free via nf_hook_slow()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nf-hook-slow-43446)|An attacker can force a double memory free of the Linux kernel, via nf_hook_slow(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-cmsg-recv-43445" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via rds_cmsg_recv()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-cmsg-recv-43445)|An attacker can force a read at an invalid memory address of the Linux kernel, via rds_cmsg_recv(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43844" class="noirorange"><b>Jose</b>: overload via JSON Web Encryption</a>](https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43844)|An attacker can trigger an overload of Jose, via JSON Web Encryption, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43843" class="noirorange"><b>Jose</b>: overload via JSON Web Encryption</a>](https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43843)|An attacker can trigger an overload of Jose, via JSON Web Encryption, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-information-disclosure-via-Taxonomy-Tree-Controller-43443" class="noirorange"><b>Ibexa DXP</b>: information disclosure via Taxonomy Tree Controller</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-information-disclosure-via-Taxonomy-Tree-Controller-43443)|An attacker can bypass access restrictions to data of Ibexa DXP, via Taxonomy Tree Controller, in order to read sensitive information...|Visit link for details|
  
 
 # EU-CERT
@@ -172,20 +186,6 @@
  |[ 46810104/24 - « Supply chain » attaque contre XZ Utils ](https://www.dgssi.gov.ma/fr/bulletins/supply-chain-attaque-contre-xz-utils)| Des chercheurs en sécurité ont révélé une vulnérabilité critique ( CVE-2024-3094 ) dans XZ Utils utilisé dans les distributions Linux. XZ Utils est victime d'une « Supply Chain » attaque La…| 01 avril 2024|
  |[ 46802903/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-0)| Gitlab annonce la correction de deux vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service et…| 29 mars 2024|
  |[ 46792903/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-1)| Splunk a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 29 mars 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
- |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
- |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
- |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
- |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
- |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
  
 
 # CA-CCS
