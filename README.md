@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/04/2024 02:16:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/04/2024 03:15:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library, CVE-2024-3094](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)|Visit link for details.|Mar 29, 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,51 +60,6 @@
  |[USN-6710-2: Firefox regressions](https://www.linux.org/threads/usn-6710-2-firefox-regressions.49403/)|Visit link for details.|Apr 4, 2024|
  |[DSA-5654-1 chromium - security update](https://www.linux.org/threads/dsa-5654-1-chromium-security-update.49396/)|Visit link for details.|Apr 4, 2024|
  |[DSA-5653-1 gtkwave - security update](https://www.linux.org/threads/dsa-5653-1-gtkwave-security-update.49392/)|Visit link for details.|Apr 3, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Vulnérabilité dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/)|Une vulnérabilité a été découverte dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0273/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans Google Android et Pixel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0272/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 avril 2024|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0271/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 avril 2024|
- |[Vulnérabilité dans Cisco Nexus Dashboard Fabric Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0270/)|Une vulnérabilité a été découverte dans Cisco Nexus Dashboard Fabric Controller. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 4 avril 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (February2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-february-2024)|[Updated on 2024-04-08] Updated the Notes for product "Magento and Adobe Commerce". For CVE-2024-20720, Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'). A report stated that this issue may...| Release Date: 14 Feb 2024 |
- |[Apache Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-products-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in Apache products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 5 Apr 2024 |
- |[Ivanti Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20240405)|Multiple vulnerabilities have been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Apr 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 5 Apr 2024 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240405)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 5 Apr 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 5 Apr 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240403)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240403)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure and remote code execution on the targeted system. |Release Date: 3 Apr 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 2 Apr 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Apr 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[SAP NetWeaver server-side request forgery (CVE-2024-27898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
- |[XenSource Xen information disclosure (CVE-2024-31142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
- |[XenSource Xen denial of service (CVE-2023-46842)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
- |[Microsoft Windows Secure Boot security bypass (CVE-2024-28921)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
- |[Microsoft Azure Monitor Agent privilege escalation (CVE-2024-29989)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Microsoft OLE DB Driver for SQL Server code execution (CVE-2024-29984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Microsoft OLE DB Driver for SQL Server code execution (CVE-2024-29983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
  
 
 # OBS-Vigilance
@@ -146,6 +95,51 @@
  |[Google Chrome - CVE-2024-3158](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3158-2024-04-08)|Visit link for details.|08/04/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0283/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 avril 2024|
+ |[[SCADA] Vulnérabilité dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0282/)|Une vulnérabilité a été découverte dans |Publié le 9 avril 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0281/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 avril 2024|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0280/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Vulnérabilité dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/)|Une vulnérabilité a été découverte dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Monthly Security Update (February2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-february-2024)|[Updated on 2024-04-08] Updated the Notes for product "Magento and Adobe Commerce". For CVE-2024-20720, Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'). A report stated that this issue may...| Release Date: 14 Feb 2024 |
+ |[Apache Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-products-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in Apache products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 5 Apr 2024 |
+ |[Ivanti Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20240405)|Multiple vulnerabilities have been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Apr 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 5 Apr 2024 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240405)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 5 Apr 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 5 Apr 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240403)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240403)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure and remote code execution on the targeted system. |Release Date: 3 Apr 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 2 Apr 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Apr 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SAP NetWeaver server-side request forgery (CVE-2024-27898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
+ |[XenSource Xen information disclosure (CVE-2024-31142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
+ |[XenSource Xen denial of service (CVE-2023-46842)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
+ |[Microsoft Windows File Server Resource Management privilege escalation (CVE-2024-26216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
+ |[Microsoft Windows Secure Boot security bypass (CVE-2024-28921)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
+ |[Microsoft Azure Monitor Agent privilege escalation (CVE-2024-29989)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -163,21 +157,18 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 46910904/24 - Vulnérabilité critique dans IBM Personal Communications ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ibm-personal-communications)| Une vulnérabilité critique a été corrigée dans IBM Personal Communications. La vulnérabilité permet à tout utilisateur non privilégié disposant d'un accès réseau à un ordinateur cible d'exécuter des…| 09 avril 2024|
- |[ 46900904/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas)| Une faille de sécurité critique a été découverte affectant les versions susmentionnées du D-Link NAS. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d'exécuter des…| 09 avril 2024|
- |[ 46880804/24 - Vulnérabilités critiques dans JumpServer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jumpserver)| Deux vulnérabilités critiques ont été corrigées dans JumpServer, un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la maintenance. Les attaquants peuvent exploiter…| 08 avril 2024|
- |[ 46870504/24 - Vulnérabilités dans Google Android et Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android-et-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques dans Google Android et Google Pixel. L’exploitation de ces…| 05 avril 2024|
- |[ 46870404/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-14)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’accéder à…| 05 avril 2024|
- |[ 46860404/24 - Vulnérabilités affectant Ivanti Connect Secure et Ivanti Policy Secure… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-connect-secure-et-ivanti-policy-secure-gateways)| Ivanti a publié des mises à jour de sécurité qui permettent de corriger quatres vulnérabilités critique affectant ses  produits affectant « Ivanti Connect Secure » et « Ivanti Policy Secure…| 04 avril 2024|
- |[ 46850404/24 - Vulnérabilité affectant le plugin «WP-Members» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wp-members-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « WP-Members». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  de causer une injection de contenu…| 04 avril 2024|
- |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
- |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
- |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
- |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
+ |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
+ |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
+ |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
+ |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
  
 
 # CA-CCS
@@ -195,4 +186,21 @@
  |[Ubuntu security advisory (AV24-183)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-183)|Visit link for details|2024-04-08|
  |[IBM security advisory (AV24-182)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-182)|Visit link for details|2024-04-08|
  |[Microsoft Edge security advisory (AV24-181)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-181)|Visit link for details|2024-04-05|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46910904/24 - Vulnérabilité critique dans IBM Personal Communications ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ibm-personal-communications)| Une vulnérabilité critique a été corrigée dans IBM Personal Communications. La vulnérabilité permet à tout utilisateur non privilégié disposant d'un accès réseau à un ordinateur cible d'exécuter des…| 09 avril 2024|
+ |[ 46900904/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas)| Une faille de sécurité critique a été découverte affectant les versions susmentionnées du D-Link NAS. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d'exécuter des…| 09 avril 2024|
+ |[ 46880804/24 - Vulnérabilités critiques dans JumpServer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jumpserver)| Deux vulnérabilités critiques ont été corrigées dans JumpServer, un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la maintenance. Les attaquants peuvent exploiter…| 08 avril 2024|
+ |[ 46870504/24 - Vulnérabilités dans Google Android et Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android-et-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques dans Google Android et Google Pixel. L’exploitation de ces…| 05 avril 2024|
+ |[ 46870404/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-14)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’accéder à…| 05 avril 2024|
+ |[ 46860404/24 - Vulnérabilités affectant Ivanti Connect Secure et Ivanti Policy Secure… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-connect-secure-et-ivanti-policy-secure-gateways)| Ivanti a publié des mises à jour de sécurité qui permettent de corriger quatres vulnérabilités critique affectant ses  produits affectant « Ivanti Connect Secure » et « Ivanti Policy Secure…| 04 avril 2024|
+ |[ 46850404/24 - Vulnérabilité affectant le plugin «WP-Members» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wp-members-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « WP-Members». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  de causer une injection de contenu…| 04 avril 2024|
+ |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
+ |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
+ |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
+ |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
  
