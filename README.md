@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/04/2024 12:16:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/04/2024 13:20:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[DSA-5650-1 util-linux - security update](https://www.linux.org/threads/dsa-5650-1-util-linux-security-update.49348/)|Visit link for details.|Mar 31, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Vulnérabilité dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/)|Une vulnérabilité a été découverte dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0273/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans Google Android et Pixel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0272/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 avril 2024|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0271/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 avril 2024|
- |[Vulnérabilité dans Cisco Nexus Dashboard Fabric Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0270/)|Une vulnérabilité a été découverte dans Cisco Nexus Dashboard Fabric Controller. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 4 avril 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -95,33 +79,20 @@
  |[Microsoft - CVE-2024-29059](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-29059-2024-03-25)|Visit link for details.|05/04/2024|
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Monthly Security Update (February2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-february-2024)|[Updated on 2024-04-08] Updated the Notes for product "Magento and Adobe Commerce". For CVE-2024-20720, Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'). A report stated that this issue may...| Release Date: 14 Feb 2024 |
- |[Apache Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-products-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in Apache products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 5 Apr 2024 |
- |[Ivanti Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20240405)|Multiple vulnerabilities have been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Apr 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 5 Apr 2024 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240405)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 5 Apr 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 5 Apr 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240403)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240403)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure and remote code execution on the targeted system. |Release Date: 3 Apr 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 2 Apr 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Apr 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sourcecodester Online Library System SQL injection (CVE-2024-3363)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Sourcecodester Online Courseware SQL injection (CVE-2024-3419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Sourcecodester Online Courseware SQL injection (CVE-2024-3422)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Sourcecodester Prison Management System SQL injection (CVE-2024-3439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Sourcecodester Prison Management System SQL injection (CVE-2024-3440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Sourcecodester Laundry Management System SQL injection (CVE-2024-3445)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Sourcecodester Prison Management System SQL injection (CVE-2024-3441)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Vulnérabilité dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/)|Une vulnérabilité a été découverte dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0273/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans Google Android et Pixel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0272/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 avril 2024|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0271/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 avril 2024|
+ |[Vulnérabilité dans Cisco Nexus Dashboard Fabric Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0270/)|Une vulnérabilité a été découverte dans Cisco Nexus Dashboard Fabric Controller. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 4 avril 2024|
  
 
 # OBS-Vigilance
@@ -140,21 +111,34 @@
  |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448" class="noirorange"><b>Django</b>: denial of service via Intcomma Template Filter</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448)|An attacker can cause a fatal error of Django, via Intcomma Template Filter, in order to trigger a denial of service...|Visit link for details|
  
 
-# CA-CCS
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Red Hat security advisory (AV24-185)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-185)|Visit link for details|2024-04-08|
- |[Ubuntu security advisory (AV24-183)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-183)|Visit link for details|2024-04-08|
- |[IBM security advisory (AV24-182)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-182)|Visit link for details|2024-04-08|
- |[[Control systems] CISA ICS security advisories (AV24-184)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-184)|Visit link for details|2024-04-08|
- |[Microsoft Edge security advisory (AV24-181)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-181)|Visit link for details|2024-04-05|
- |[[Control systems] ABB security advisory (AV24-180)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-180)|Visit link for details|2024-04-04|
- |[HPE security advisory (AV24-179)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-179)|Visit link for details|2024-04-03|
- |[Cisco security advisory (AV24-178)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-178)|Visit link for details|2024-04-03|
- |[Ivanti security advisory (AV24-177)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-177)|Visit link for details|2024-04-03|
- |[Google Chrome security advisory (AV24-176)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-176)|Visit link for details|2024-04-03|
- |[HPE security advisory (AV24-175)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-175)|Visit link for details|2024-04-02|
+ |[Adobe Monthly Security Update (February2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-february-2024)|[Updated on 2024-04-08] Updated the Notes for product "Magento and Adobe Commerce". For CVE-2024-20720, Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'). A report stated that this issue may...| Release Date: 14 Feb 2024 |
+ |[Apache Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-products-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in Apache products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 5 Apr 2024 |
+ |[Ivanti Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20240405)|Multiple vulnerabilities have been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Apr 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and spoofing on the targeted system.|Release Date: 5 Apr 2024 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240405)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 5 Apr 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 5 Apr 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240403)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240403)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure and remote code execution on the targeted system. |Release Date: 3 Apr 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 2 Apr 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 2 Apr 2024 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
+ |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
+ |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
+ |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
+ |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
  
 
 # EU-CERT
@@ -174,6 +158,19 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sourcecodester Online Courseware cross-site scripting (CVE-2024-3426)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[Sourcecodester Online Courseware cross-site scripting (CVE-2024-3427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[Sourcecodester Online Library System SQL injection (CVE-2024-3363)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[Sourcecodester Online Courseware SQL injection (CVE-2024-3419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[Sourcecodester Online Courseware SQL injection (CVE-2024-3422)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[Sourcecodester Prison Management System SQL injection (CVE-2024-3439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -191,16 +188,19 @@
  |[ 46802903/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-0)| Gitlab annonce la correction de deux vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service et…| 29 mars 2024|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
- |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
- |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
- |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
- |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
- |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
+ |[Red Hat security advisory (AV24-185)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-185)|Visit link for details|2024-04-08|
+ |[Ubuntu security advisory (AV24-183)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-183)|Visit link for details|2024-04-08|
+ |[IBM security advisory (AV24-182)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-182)|Visit link for details|2024-04-08|
+ |[[Control systems] CISA ICS security advisories (AV24-184)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-184)|Visit link for details|2024-04-08|
+ |[Microsoft Edge security advisory (AV24-181)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-181)|Visit link for details|2024-04-05|
+ |[[Control systems] ABB security advisory (AV24-180)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-180)|Visit link for details|2024-04-04|
+ |[HPE security advisory (AV24-179)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-179)|Visit link for details|2024-04-03|
+ |[Cisco security advisory (AV24-178)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-178)|Visit link for details|2024-04-03|
+ |[Ivanti security advisory (AV24-177)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-177)|Visit link for details|2024-04-03|
+ |[Google Chrome security advisory (AV24-176)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-176)|Visit link for details|2024-04-03|
+ |[HPE security advisory (AV24-175)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-175)|Visit link for details|2024-04-02|
  
