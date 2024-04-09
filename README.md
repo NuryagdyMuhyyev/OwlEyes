@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/04/2024 23:19:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/04/2024 00:11:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,7 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/04/10/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Apr 10, 2024|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/04/09/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Apr 09, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/04/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 09, 2024|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 04, 2024|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 04, 2024|
@@ -43,6 +43,39 @@
  |[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library, CVE-2024-3094](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)|Visit link for details.|Mar 29, 2024|
  |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/03/28/cisco-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2024|
  |[Apple Released Security Updates for Safari and macOS](https://www.cisa.gov/news-events/alerts/2024/03/27/apple-released-security-updates-safari-and-macos)|Visit link for details.|Mar 27, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6701-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6701-4-linux-kernel-azure-vulnerabilities.49467/)|Visit link for details.|Apr 9, 2024|
+ |[USN-6726-1: Linux kerne vulnerabilities](https://www.linux.org/threads/usn-6726-1-linux-kerne-vulnerabilities.49466/)|Visit link for details.|Apr 9, 2024|
+ |[USN-6725-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6725-1-linux-kernel-vulnerabilities.49465/)|Visit link for details.|Apr 9, 2024|
+ |[USN-6724-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6724-1-linux-kernel-vulnerabilities.49464/)|Visit link for details.|Apr 9, 2024|
+ |[USN-6723-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6723-1-bind-vulnerabilities.49462/)|Visit link for details.|Apr 9, 2024|
+ |[USN-6722-1: Django vulnerability](https://www.linux.org/threads/usn-6722-1-django-vulnerability.49449/)|Visit link for details.|Apr 8, 2024|
+ |[USN-6721-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6721-1-x-org-x-server-vulnerabilities.49413/)|Visit link for details.|Apr 4, 2024|
+ |[DSA-5655-1 cockpit - security update](https://www.linux.org/threads/dsa-5655-1-cockpit-security-update.49412/)|Visit link for details.|Apr 4, 2024|
+ |[USN-6710-2: Firefox regressions](https://www.linux.org/threads/usn-6710-2-firefox-regressions.49403/)|Visit link for details.|Apr 4, 2024|
+ |[DSA-5654-1 chromium - security update](https://www.linux.org/threads/dsa-5654-1-chromium-security-update.49396/)|Visit link for details.|Apr 4, 2024|
+ |[DSA-5653-1 gtkwave - security update](https://www.linux.org/threads/dsa-5653-1-gtkwave-security-update.49392/)|Visit link for details.|Apr 3, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Vulnérabilité dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/)|Une vulnérabilité a été découverte dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0273/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans Google Android et Pixel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0272/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 avril 2024|
+ |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0271/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 avril 2024|
+ |[Vulnérabilité dans Cisco Nexus Dashboard Fabric Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0270/)|Une vulnérabilité a été découverte dans Cisco Nexus Dashboard Fabric Controller. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 4 avril 2024|
  
 
 # CERT-SANTE
@@ -78,39 +111,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448" class="noirorange"><b>Django</b>: denial of service via Intcomma Template Filter</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448)|An attacker can cause a fatal error of Django, via Intcomma Template Filter, in order to trigger a denial of service...|Visit link for details|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6701-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6701-4-linux-kernel-azure-vulnerabilities.49467/)|Visit link for details.|Apr 9, 2024|
- |[USN-6726-1: Linux kerne vulnerabilities](https://www.linux.org/threads/usn-6726-1-linux-kerne-vulnerabilities.49466/)|Visit link for details.|Apr 9, 2024|
- |[USN-6725-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6725-1-linux-kernel-vulnerabilities.49465/)|Visit link for details.|Apr 9, 2024|
- |[USN-6724-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6724-1-linux-kernel-vulnerabilities.49464/)|Visit link for details.|Apr 9, 2024|
- |[USN-6723-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6723-1-bind-vulnerabilities.49462/)|Visit link for details.|Apr 9, 2024|
- |[USN-6722-1: Django vulnerability](https://www.linux.org/threads/usn-6722-1-django-vulnerability.49449/)|Visit link for details.|Apr 8, 2024|
- |[USN-6721-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6721-1-x-org-x-server-vulnerabilities.49413/)|Visit link for details.|Apr 4, 2024|
- |[DSA-5655-1 cockpit - security update](https://www.linux.org/threads/dsa-5655-1-cockpit-security-update.49412/)|Visit link for details.|Apr 4, 2024|
- |[USN-6710-2: Firefox regressions](https://www.linux.org/threads/usn-6710-2-firefox-regressions.49403/)|Visit link for details.|Apr 4, 2024|
- |[DSA-5654-1 chromium - security update](https://www.linux.org/threads/dsa-5654-1-chromium-security-update.49396/)|Visit link for details.|Apr 4, 2024|
- |[DSA-5653-1 gtkwave - security update](https://www.linux.org/threads/dsa-5653-1-gtkwave-security-update.49392/)|Visit link for details.|Apr 3, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0283/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 avril 2024|
- |[[SCADA] Vulnérabilité dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0282/)|Une vulnérabilité a été découverte dans |Publié le 9 avril 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0281/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 avril 2024|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0280/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Vulnérabilité dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/)|Une vulnérabilité a été découverte dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -131,30 +131,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SAP BusinessObject Business Intelligence Launch Pad information disclosure (CVE-2024-25646)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
  |[XenSource Xen denial of service (CVE-2023-46842)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 9, 2024|
+ |[Microsoft Windows Storage privilege escalation (CVE-2024-29052)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[Microsoft Windows Secure Boot security bypass (CVE-2024-28924)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[Microsoft Windows Secure Boot security bypass (CVE-2024-26240)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
  |[Microsoft Windows Telephony Server privilege escalation (CVE-2024-26242)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Microsoft Windows privilege escalation (CVE-2024-26236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Microsoft Windows privilege escalation (CVE-2024-26235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Microsoft Windows USB Print Driver privilege escalation (CVE-2024-26243)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
- |[Microsoft Windows Win32k privilege escalation (CVE-2024-26241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[HPE security advisory (AV24-188)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-188)|Visit link for details|2024-04-09|
- |[[Control systems] Siemens security advisory (AV24-187)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-187)|Visit link for details|2024-04-09|
- |[[Control systems] Schneider Electric security advisory (AV24-186)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-186)|Visit link for details|2024-04-09|
- |[Red Hat security advisory (AV24-185)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-185)|Visit link for details|2024-04-08|
- |[[Control systems] CISA ICS security advisories (AV24-184)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-184)|Visit link for details|2024-04-08|
- |[Ubuntu security advisory (AV24-183)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-183)|Visit link for details|2024-04-08|
- |[IBM security advisory (AV24-182)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-182)|Visit link for details|2024-04-08|
- |[Microsoft Edge security advisory (AV24-181)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-181)|Visit link for details|2024-04-05|
- |[[Control systems] ABB security advisory (AV24-180)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-180)|Visit link for details|2024-04-04|
- |[HPE security advisory (AV24-179)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-179)|Visit link for details|2024-04-03|
- |[Cisco security advisory (AV24-178)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-178)|Visit link for details|2024-04-03|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
+ |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
+ |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
+ |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
+ |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
+ |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
+ |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
  
 
 # EU-CERT
@@ -191,16 +188,19 @@
  |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
- |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
- |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
- |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
- |[Siemens Simcenter Femap MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-356/)|Visit link for details|2024-03-28|
- |[Wireshark NetScreen File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-355/)|Visit link for details|2024-03-28|
- |[Schneider Electric EcoStruxure Power Design - Ecodial BinSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-354/)|Visit link for details|2024-03-28|
- |[Softing edgeConnector Siemens Cleartext Transmission of Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-353/)|Visit link for details|2024-03-28|
+ |[Fortinet security advisory (AV24-190)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-190)|Visit link for details|2024-04-09|
+ |[SAP security advisory – April 2024 monthly rollup (AV24-189)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2024-monthly-rollup-av24-189)|Visit link for details|2024-04-09|
+ |[HPE security advisory (AV24-188)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-188)|Visit link for details|2024-04-09|
+ |[[Control systems] Siemens security advisory (AV24-187)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-187)|Visit link for details|2024-04-09|
+ |[[Control systems] Schneider Electric security advisory (AV24-186)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-186)|Visit link for details|2024-04-09|
+ |[Red Hat security advisory (AV24-185)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-185)|Visit link for details|2024-04-08|
+ |[[Control systems] CISA ICS security advisories (AV24-184)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-184)|Visit link for details|2024-04-08|
+ |[Ubuntu security advisory (AV24-183)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-183)|Visit link for details|2024-04-08|
+ |[IBM security advisory (AV24-182)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-182)|Visit link for details|2024-04-08|
+ |[Microsoft Edge security advisory (AV24-181)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-181)|Visit link for details|2024-04-05|
+ |[[Control systems] ABB security advisory (AV24-180)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-180)|Visit link for details|2024-04-04|
  
