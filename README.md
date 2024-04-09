@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/04/2024 10:16:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/04/2024 11:22:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -60,6 +60,22 @@
  |[USN-6720-1: Cacti vulnerability](https://www.linux.org/threads/usn-6720-1-cacti-vulnerability.49371/)|Visit link for details.|Apr 2, 2024|
  |[DSA-5651-1 mediawiki - security update](https://www.linux.org/threads/dsa-5651-1-mediawiki-security-update.49349/)|Visit link for details.|Mar 31, 2024|
  |[DSA-5650-1 util-linux - security update](https://www.linux.org/threads/dsa-5650-1-util-linux-security-update.49348/)|Visit link for details.|Mar 31, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/tcpreplay-NULL-pointer-dereference-via-mask-cidr6-43860" class="noirorange"><b>tcpreplay</b>: NULL pointer dereference via mask_cidr6()</a>](https://vigilance.fr/vulnerability/tcpreplay-NULL-pointer-dereference-via-mask-cidr6-43860)|An attacker can force a NULL pointer to be dereferenced on tcpreplay, via mask_cidr6(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-external-XML-entity-injection-via-SAML-Component-43465" class="noirorange"><b>Ivanti Connect Secure</b>: external XML entity injection via SAML Component</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-external-XML-entity-injection-via-SAML-Component-43465)|An attacker can transmit malicious XML data to Ivanti Connect Secure, via SAML Component, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-user-access-via-REFRESH-MATERIALIZED-VIEW-CONCURRENTLY-43463" class="noirorange"><b>PostgreSQL</b>: user access via REFRESH MATERIALIZED VIEW CONCURRENTLY</a>](https://vigilance.fr/vulnerability/PostgreSQL-user-access-via-REFRESH-MATERIALIZED-VIEW-CONCURRENTLY-43463)|An attacker can bypass restrictions of PostgreSQL, via REFRESH MATERIALIZED VIEW CONCURRENTLY, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libexpat-overload-via-Recursive-XML-Entity-Expansion-43460" class="noirorange"><b>libexpat</b>: overload via Recursive XML Entity Expansion</a>](https://vigilance.fr/vulnerability/libexpat-overload-via-Recursive-XML-Entity-Expansion-43460)|An attacker can trigger an overload of libexpat, via Recursive XML Entity Expansion, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libexpat-overload-via-Large-Token-Full-Reparsings-43459" class="noirorange"><b>libexpat</b>: overload via Large Token Full Reparsings</a>](https://vigilance.fr/vulnerability/libexpat-overload-via-Large-Token-Full-Reparsings-43459)|An attacker can trigger an overload of libexpat, via Large Token Full Reparsings, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-43458" class="noirorange"><b>GitLab CE/EE</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-43458)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Migrate-Tools-Cross-Site-Request-Forgery-43457" class="noirorange"><b>Drupal Migrate Tools</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Migrate-Tools-Cross-Site-Request-Forgery-43457)|An attacker can trigger a Cross Site Request Forgery of Drupal Migrate Tools, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-43452" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-43452)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448" class="noirorange"><b>Django</b>: denial of service via Intcomma Template Filter</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448)|An attacker can cause a fatal error of Django, via Intcomma Template Filter, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Graphviz-out-of-bounds-memory-reading-via-Config6a-43853" class="noirorange"><b>Graphviz</b>: out-of-bounds memory reading via Config6a</a>](https://vigilance.fr/vulnerability/Graphviz-out-of-bounds-memory-reading-via-Config6a-43853)|An attacker can force a read at an invalid memory address of Graphviz, via Config6a, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
 
 # CERT-FR
@@ -119,25 +135,9 @@
  |[Ninja Forms plugin for WordPress cross-site scripting (CVE-2024-29220)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
  |[Ninja Forms plugin for WordPress cross-site scripting (CVE-2024-26019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
  |[UNISOC mobile phone chipsets for Android denial of service (CVE-2024-23658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 8, 2024|
+ |[Huawei HarmonyOS and EMUI security bypass (CVE-2023-52388)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 7, 2024|
  |[OpenSSL denial of service (CVE-2024-2511)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 7, 2024|
- |[IBM Personal Communications code execution (CVE-2024-25029)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 5, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/tcpreplay-NULL-pointer-dereference-via-mask-cidr6-43860" class="noirorange"><b>tcpreplay</b>: NULL pointer dereference via mask_cidr6()</a>](https://vigilance.fr/vulnerability/tcpreplay-NULL-pointer-dereference-via-mask-cidr6-43860)|An attacker can force a NULL pointer to be dereferenced on tcpreplay, via mask_cidr6(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-external-XML-entity-injection-via-SAML-Component-43465" class="noirorange"><b>Ivanti Connect Secure</b>: external XML entity injection via SAML Component</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-external-XML-entity-injection-via-SAML-Component-43465)|An attacker can transmit malicious XML data to Ivanti Connect Secure, via SAML Component, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-user-access-via-REFRESH-MATERIALIZED-VIEW-CONCURRENTLY-43463" class="noirorange"><b>PostgreSQL</b>: user access via REFRESH MATERIALIZED VIEW CONCURRENTLY</a>](https://vigilance.fr/vulnerability/PostgreSQL-user-access-via-REFRESH-MATERIALIZED-VIEW-CONCURRENTLY-43463)|An attacker can bypass restrictions of PostgreSQL, via REFRESH MATERIALIZED VIEW CONCURRENTLY, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libexpat-overload-via-Recursive-XML-Entity-Expansion-43460" class="noirorange"><b>libexpat</b>: overload via Recursive XML Entity Expansion</a>](https://vigilance.fr/vulnerability/libexpat-overload-via-Recursive-XML-Entity-Expansion-43460)|An attacker can trigger an overload of libexpat, via Recursive XML Entity Expansion, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libexpat-overload-via-Large-Token-Full-Reparsings-43459" class="noirorange"><b>libexpat</b>: overload via Large Token Full Reparsings</a>](https://vigilance.fr/vulnerability/libexpat-overload-via-Large-Token-Full-Reparsings-43459)|An attacker can trigger an overload of libexpat, via Large Token Full Reparsings, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-43458" class="noirorange"><b>GitLab CE/EE</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-43458)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Migrate-Tools-Cross-Site-Request-Forgery-43457" class="noirorange"><b>Drupal Migrate Tools</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Migrate-Tools-Cross-Site-Request-Forgery-43457)|An attacker can trigger a Cross Site Request Forgery of Drupal Migrate Tools, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-43452" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-43452)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448" class="noirorange"><b>Django</b>: denial of service via Intcomma Template Filter</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Intcomma-Template-Filter-43448)|An attacker can cause a fatal error of Django, via Intcomma Template Filter, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Graphviz-out-of-bounds-memory-reading-via-Config6a-43853" class="noirorange"><b>Graphviz</b>: out-of-bounds memory reading via Config6a</a>](https://vigilance.fr/vulnerability/Graphviz-out-of-bounds-memory-reading-via-Config6a-43853)|An attacker can force a read at an invalid memory address of Graphviz, via Config6a, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
