@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/04/2024 11:22:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/04/2024 12:16:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,70 +29,36 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6728-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6728-1-squid-vulnerabilities.49484/)|Visit link for details.|Apr 10, 2024|
- |[USN-6727-1: NSS vulnerabilities](https://www.linux.org/threads/usn-6727-1-nss-vulnerabilities.49483/)|Visit link for details.|Apr 10, 2024|
- |[USN-6719-2: util-linux vulnerability](https://www.linux.org/threads/usn-6719-2-util-linux-vulnerability.49479/)|Visit link for details.|Apr 10, 2024|
- |[USN-6721-2: X.Org X Server regression](https://www.linux.org/threads/usn-6721-2-x-org-x-server-regression.49472/)|Visit link for details.|Apr 10, 2024|
- |[USN-6701-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6701-4-linux-kernel-azure-vulnerabilities.49467/)|Visit link for details.|Apr 9, 2024|
- |[USN-6726-1: Linux kerne vulnerabilities](https://www.linux.org/threads/usn-6726-1-linux-kerne-vulnerabilities.49466/)|Visit link for details.|Apr 9, 2024|
- |[USN-6725-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6725-1-linux-kernel-vulnerabilities.49465/)|Visit link for details.|Apr 9, 2024|
- |[USN-6724-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6724-1-linux-kernel-vulnerabilities.49464/)|Visit link for details.|Apr 9, 2024|
- |[USN-6723-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6723-1-bind-vulnerabilities.49462/)|Visit link for details.|Apr 9, 2024|
- |[USN-6722-1: Django vulnerability](https://www.linux.org/threads/usn-6722-1-django-vulnerability.49449/)|Visit link for details.|Apr 8, 2024|
- |[USN-6721-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6721-1-x-org-x-server-vulnerabilities.49413/)|Visit link for details.|Apr 4, 2024|
+ |[Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0)|Visit link for details.|Apr 09, 2024|
+ |[Microsoft Releases April 2024 Security Updates  ](https://www.cisa.gov/news-events/alerts/2024/04/09/microsoft-releases-april-2024-security-updates)|Visit link for details.|Apr 09, 2024|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/04/09/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Apr 09, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/04/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 09, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 04, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 04, 2024|
+ |[Ivanti Releases Security Update for Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/04/04/ivanti-releases-security-update-ivanti-connect-secure-and-policy-secure-gateways)|Visit link for details.|Apr 04, 2024|
+ |[CISA Publishes New Webpage Dedicated to Providing Resources for High-Risk Communities](https://www.cisa.gov/news-events/alerts/2024/04/02/cisa-publishes-new-webpage-dedicated-providing-resources-high-risk-communities)|Visit link for details.|Apr 02, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/04/02/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 02, 2024|
+ |[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library, CVE-2024-3094](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)|Visit link for details.|Mar 29, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0292/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0291/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 avril 2024|
+ |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0290/)|Une vulnérabilité a été découverte dans |Publié le 10 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0289/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 avril 2024|
+ |[Vulnérabilité dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0288/)|Une vulnérabilité a été découverte dans |Publié le 10 avril 2024|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0287/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 avril 2024|
+ |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0286/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 avril 2024|
+ |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0285/)|Une vulnérabilité a été découverte dans |Publié le 10 avril 2024|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0284/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 avril 2024|
  |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0283/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 avril 2024|
- |[[SCADA] Vulnérabilité dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0282/)|Une vulnérabilité a été découverte dans |Publié le 9 avril 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0281/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 avril 2024|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0280/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Vulnérabilité dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/)|Une vulnérabilité a été découverte dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-denial-of-service-via-SSH-Daemon-43870" class="noirorange"><b>ArubaOS</b>: denial of service via SSH Daemon</a>](https://vigilance.fr/vulnerability/ArubaOS-denial-of-service-via-SSH-Daemon-43870)|An attacker can cause a fatal error of ArubaOS, via SSH Daemon, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703" class="noirorange"><b>IBM Db2</b>: buffer overflow via db2set</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703)|An attacker can trigger a buffer overflow of IBM Db2, via db2set, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libgit2-overload-via-git-revparse-single-43474" class="noirorange"><b>libgit2</b>: overload via git_revparse_single()</a>](https://vigilance.fr/vulnerability/libgit2-overload-via-git-revparse-single-43474)|An attacker can trigger an overload of libgit2, via git_revparse_single(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libgit2-use-after-free-via-has-dir-name-43473" class="noirorange"><b>libgit2</b>: use after free via has_dir_name()</a>](https://vigilance.fr/vulnerability/libgit2-use-after-free-via-has-dir-name-43473)|An attacker can force the reuse of a freed memory area of libgit2, via has_dir_name(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-Man-in-the-Middle-via-Fortilink-43467" class="noirorange"><b>FortiOS</b>: Man-in-the-Middle via Fortilink</a>](https://vigilance.fr/vulnerability/FortiOS-Man-in-the-Middle-via-Fortilink-43467)|An attacker can act as a Man-in-the-Middle on FortiOS, via Fortilink, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/tcpreplay-NULL-pointer-dereference-via-mask-cidr6-43860" class="noirorange"><b>tcpreplay</b>: NULL pointer dereference via mask_cidr6()</a>](https://vigilance.fr/vulnerability/tcpreplay-NULL-pointer-dereference-via-mask-cidr6-43860)|An attacker can force a NULL pointer to be dereferenced on tcpreplay, via mask_cidr6(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-external-XML-entity-injection-via-SAML-Component-43465" class="noirorange"><b>Ivanti Connect Secure</b>: external XML entity injection via SAML Component</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-external-XML-entity-injection-via-SAML-Component-43465)|An attacker can transmit malicious XML data to Ivanti Connect Secure, via SAML Component, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-user-access-via-REFRESH-MATERIALIZED-VIEW-CONCURRENTLY-43463" class="noirorange"><b>PostgreSQL</b>: user access via REFRESH MATERIALIZED VIEW CONCURRENTLY</a>](https://vigilance.fr/vulnerability/PostgreSQL-user-access-via-REFRESH-MATERIALIZED-VIEW-CONCURRENTLY-43463)|An attacker can bypass restrictions of PostgreSQL, via REFRESH MATERIALIZED VIEW CONCURRENTLY, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libexpat-overload-via-Recursive-XML-Entity-Expansion-43460" class="noirorange"><b>libexpat</b>: overload via Recursive XML Entity Expansion</a>](https://vigilance.fr/vulnerability/libexpat-overload-via-Recursive-XML-Entity-Expansion-43460)|An attacker can trigger an overload of libexpat, via Recursive XML Entity Expansion, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libexpat-overload-via-Large-Token-Full-Reparsings-43459" class="noirorange"><b>libexpat</b>: overload via Large Token Full Reparsings</a>](https://vigilance.fr/vulnerability/libexpat-overload-via-Large-Token-Full-Reparsings-43459)|An attacker can trigger an overload of libexpat, via Large Token Full Reparsings, in order to trigger a denial of service...|Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft SmartScreen - CVE-2024-29988](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-smartscreen-cve-2024-29988-2024-04-10)|Visit link for details.|10/04/2024|
- |[Microsoft - CVE-2024-29053](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-29053-2024-04-10)|Visit link for details.|10/04/2024|
- |[Microsoft - CVE-2024-20678](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20678-2024-04-10)|Visit link for details.|10/04/2024|
- |[FortiSandbox - CVE-2024-21755](https://www.cyberveille-sante.gouv.fr/alertes/fortisandbox-cve-2024-21755-2024-04-10)|Visit link for details.|10/04/2024|
- |[FortiClient Linux - CVE-2023-45590](https://www.cyberveille-sante.gouv.fr/alertes/forticlient-linux-cve-2023-45590-2024-04-10)|Visit link for details.|10/04/2024|
- |[SAP - CVE-2024-25646](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-25646-2024-04-09)|Visit link for details.|09/04/2024|
- |[OpenText - CVE-2024-2834](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-2834-2024-04-09)|Visit link for details.|09/04/2024|
- |[Octopus - CVE-2024-2975](https://www.cyberveille-sante.gouv.fr/alertes/octopus-cve-2024-2975-2024-04-09)|Visit link for details.|09/04/2024|
- |[Linux - CVE-2024-0582](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-0582-2024-04-09)|Visit link for details.|09/04/2024|
- |[SAP - CVE-2024-27899](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-27899-2024-04-09)|Visit link for details.|09/04/2024|
- |[D-Link - CVE-2024-3273](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3273-2024-04-05)|Visit link for details.|09/04/2024|
  
 
 # HK-CERT
@@ -111,20 +77,21 @@
  |[Ivanti Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20240405)|Multiple vulnerabilities have been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Apr 2024 |
  
 
-# US-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0)|Visit link for details.|Apr 09, 2024|
- |[Microsoft Releases April 2024 Security Updates  ](https://www.cisa.gov/news-events/alerts/2024/04/09/microsoft-releases-april-2024-security-updates)|Visit link for details.|Apr 09, 2024|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/04/09/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Apr 09, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/04/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 09, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 04, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 04, 2024|
- |[Ivanti Releases Security Update for Ivanti Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/04/04/ivanti-releases-security-update-ivanti-connect-secure-and-policy-secure-gateways)|Visit link for details.|Apr 04, 2024|
- |[CISA Publishes New Webpage Dedicated to Providing Resources for High-Risk Communities](https://www.cisa.gov/news-events/alerts/2024/04/02/cisa-publishes-new-webpage-dedicated-providing-resources-high-risk-communities)|Visit link for details.|Apr 02, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/04/02/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 02, 2024|
- |[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library, CVE-2024-3094](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)|Visit link for details.|Mar 29, 2024|
+ |[USN-6728-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6728-1-squid-vulnerabilities.49484/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6727-1: NSS vulnerabilities](https://www.linux.org/threads/usn-6727-1-nss-vulnerabilities.49483/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6719-2: util-linux vulnerability](https://www.linux.org/threads/usn-6719-2-util-linux-vulnerability.49479/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6721-2: X.Org X Server regression](https://www.linux.org/threads/usn-6721-2-x-org-x-server-regression.49472/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6701-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6701-4-linux-kernel-azure-vulnerabilities.49467/)|Visit link for details.|Apr 9, 2024|
+ |[USN-6726-1: Linux kerne vulnerabilities](https://www.linux.org/threads/usn-6726-1-linux-kerne-vulnerabilities.49466/)|Visit link for details.|Apr 9, 2024|
+ |[USN-6725-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6725-1-linux-kernel-vulnerabilities.49465/)|Visit link for details.|Apr 9, 2024|
+ |[USN-6724-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6724-1-linux-kernel-vulnerabilities.49464/)|Visit link for details.|Apr 9, 2024|
+ |[USN-6723-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6723-1-bind-vulnerabilities.49462/)|Visit link for details.|Apr 9, 2024|
+ |[USN-6722-1: Django vulnerability](https://www.linux.org/threads/usn-6722-1-django-vulnerability.49449/)|Visit link for details.|Apr 8, 2024|
+ |[USN-6721-1: X.Org X Server vulnerabilities](https://www.linux.org/threads/usn-6721-1-x-org-x-server-vulnerabilities.49413/)|Visit link for details.|Apr 4, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -152,6 +119,39 @@
  |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
  |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
  |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft SmartScreen - CVE-2024-29988](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-smartscreen-cve-2024-29988-2024-04-10)|Visit link for details.|10/04/2024|
+ |[Microsoft - CVE-2024-29053](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-29053-2024-04-10)|Visit link for details.|10/04/2024|
+ |[Microsoft - CVE-2024-20678](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20678-2024-04-10)|Visit link for details.|10/04/2024|
+ |[FortiSandbox - CVE-2024-21755](https://www.cyberveille-sante.gouv.fr/alertes/fortisandbox-cve-2024-21755-2024-04-10)|Visit link for details.|10/04/2024|
+ |[FortiClient Linux - CVE-2023-45590](https://www.cyberveille-sante.gouv.fr/alertes/forticlient-linux-cve-2023-45590-2024-04-10)|Visit link for details.|10/04/2024|
+ |[SAP - CVE-2024-25646](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-25646-2024-04-09)|Visit link for details.|09/04/2024|
+ |[OpenText - CVE-2024-2834](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-2834-2024-04-09)|Visit link for details.|09/04/2024|
+ |[Octopus - CVE-2024-2975](https://www.cyberveille-sante.gouv.fr/alertes/octopus-cve-2024-2975-2024-04-09)|Visit link for details.|09/04/2024|
+ |[Linux - CVE-2024-0582](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-0582-2024-04-09)|Visit link for details.|09/04/2024|
+ |[SAP - CVE-2024-27899](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-27899-2024-04-09)|Visit link for details.|09/04/2024|
+ |[D-Link - CVE-2024-3273](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3273-2024-04-05)|Visit link for details.|09/04/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-T-38-Dissector-43879" class="noirorange"><b>Wireshark</b>: denial of service via T.38 Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-T-38-Dissector-43879)|An attacker can cause a fatal error of Wireshark, via T.38 Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-information-disclosure-via-Disabled-Protocol-43875" class="noirorange"><b>curl</b>: information disclosure via Disabled Protocol</a>](https://vigilance.fr/vulnerability/curl-information-disclosure-via-Disabled-Protocol-43875)|An attacker can bypass access restrictions to data of curl, via Disabled Protocol, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-denial-of-service-via-SSH-Daemon-43870" class="noirorange"><b>ArubaOS</b>: denial of service via SSH Daemon</a>](https://vigilance.fr/vulnerability/ArubaOS-denial-of-service-via-SSH-Daemon-43870)|An attacker can cause a fatal error of ArubaOS, via SSH Daemon, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703" class="noirorange"><b>IBM Db2</b>: buffer overflow via db2set</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703)|An attacker can trigger a buffer overflow of IBM Db2, via db2set, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libgit2-overload-via-git-revparse-single-43474" class="noirorange"><b>libgit2</b>: overload via git_revparse_single()</a>](https://vigilance.fr/vulnerability/libgit2-overload-via-git-revparse-single-43474)|An attacker can trigger an overload of libgit2, via git_revparse_single(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libgit2-use-after-free-via-has-dir-name-43473" class="noirorange"><b>libgit2</b>: use after free via has_dir_name()</a>](https://vigilance.fr/vulnerability/libgit2-use-after-free-via-has-dir-name-43473)|An attacker can force the reuse of a freed memory area of libgit2, via has_dir_name(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-Man-in-the-Middle-via-Fortilink-43467" class="noirorange"><b>FortiOS</b>: Man-in-the-Middle via Fortilink</a>](https://vigilance.fr/vulnerability/FortiOS-Man-in-the-Middle-via-Fortilink-43467)|An attacker can act as a Man-in-the-Middle on FortiOS, via Fortilink, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tcpreplay-NULL-pointer-dereference-via-mask-cidr6-43860" class="noirorange"><b>tcpreplay</b>: NULL pointer dereference via mask_cidr6()</a>](https://vigilance.fr/vulnerability/tcpreplay-NULL-pointer-dereference-via-mask-cidr6-43860)|An attacker can force a NULL pointer to be dereferenced on tcpreplay, via mask_cidr6(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-external-XML-entity-injection-via-SAML-Component-43465" class="noirorange"><b>Ivanti Connect Secure</b>: external XML entity injection via SAML Component</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-external-XML-entity-injection-via-SAML-Component-43465)|An attacker can transmit malicious XML data to Ivanti Connect Secure, via SAML Component, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-user-access-via-REFRESH-MATERIALIZED-VIEW-CONCURRENTLY-43463" class="noirorange"><b>PostgreSQL</b>: user access via REFRESH MATERIALIZED VIEW CONCURRENTLY</a>](https://vigilance.fr/vulnerability/PostgreSQL-user-access-via-REFRESH-MATERIALIZED-VIEW-CONCURRENTLY-43463)|An attacker can bypass restrictions of PostgreSQL, via REFRESH MATERIALIZED VIEW CONCURRENTLY, in order to gain user privileges...|Visit link for details|
  
 
 # EU-CERT
