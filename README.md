@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/04/2024 02:15:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/04/2024 03:15:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,22 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
- |[Compromise of Sisense Customer Data](https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data)|Visit link for details.|Apr 11, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 11, 2024|
- |[CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft)|Visit link for details.|Apr 11, 2024|
- |[Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0)|Visit link for details.|Apr 09, 2024|
- |[Microsoft Releases April 2024 Security Updates  ](https://www.cisa.gov/news-events/alerts/2024/04/09/microsoft-releases-april-2024-security-updates)|Visit link for details.|Apr 09, 2024|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/04/09/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Apr 09, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/04/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 09, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 04, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 04, 2024|
- 
 
 # LINUX-SEC
 
@@ -78,22 +62,6 @@
  |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0290/)|Une vulnérabilité a été découverte dans |Publié le 10 avril 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-July-2023-41724" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-July-2023-41724)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2023-41723" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2023-41723)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-July-2023-41722" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-July-2023-41722)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2022-39525" class="noirorange"><b>Windows</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2022-39525)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-file-reading-via-Remote-Cluster-Security-API-43905" class="noirorange"><b>Elasticsearch</b>: file reading via Remote Cluster Security API</a>](https://vigilance.fr/vulnerability/Elasticsearch-file-reading-via-Remote-Cluster-Security-API-43905)|An attacker can read a file of Elasticsearch, via Remote Cluster Security API, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-mDNS-43899" class="noirorange"><b>Cisco IOS XE</b>: denial of service via mDNS</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-mDNS-43899)|An attacker can cause a fatal error of Cisco IOS XE, via mDNS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-information-disclosure-via-Wireless-LAN-Controllers-43896" class="noirorange"><b>Cisco IOS XE</b>: information disclosure via Wireless LAN Controllers</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-information-disclosure-via-Wireless-LAN-Controllers-43896)|An attacker can bypass access restrictions to data of Cisco IOS XE, via Wireless LAN Controllers, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Auxiliary-Asynchronous-Port-43886" class="noirorange"><b>Cisco IOS XE</b>: denial of service via Auxiliary Asynchronous Port</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Auxiliary-Asynchronous-Port-43886)|An attacker can cause a fatal error of Cisco IOS XE, via Auxiliary Asynchronous Port, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Aironet-Catalyst-AP-privilege-escalation-via-Boot-Process-43885" class="noirorange"><b>Cisco Aironet  Catalyst AP</b>: privilege escalation via Boot Process</a>](https://vigilance.fr/vulnerability/Cisco-Aironet-Catalyst-AP-privilege-escalation-via-Boot-Process-43885)|An attacker can bypass restrictions of Cisco Aironet  Catalyst AP, via Boot Process, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvirt-NULL-pointer-dereference-via-udevConnectListAllInterfaces-43882" class="noirorange"><b>libvirt</b>: NULL pointer dereference via udevConnectListAllInterfaces()</a>](https://vigilance.fr/vulnerability/libvirt-NULL-pointer-dereference-via-udevConnectListAllInterfaces-43882)|An attacker can force a NULL pointer to be dereferenced on libvirt, via udevConnectListAllIn|Visit link for details|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -111,16 +79,48 @@
  |[FortiSandbox - CVE-2024-21755](https://www.cyberveille-sante.gouv.fr/alertes/fortisandbox-cve-2024-21755-2024-04-10)|Visit link for details.|10/04/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-July-2023-41724" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-July-2023-41724)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2023-41723" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2023-41723)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-July-2023-41722" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-July-2023-41722)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2022-39525" class="noirorange"><b>Windows</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2022-39525)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-file-reading-via-Remote-Cluster-Security-API-43905" class="noirorange"><b>Elasticsearch</b>: file reading via Remote Cluster Security API</a>](https://vigilance.fr/vulnerability/Elasticsearch-file-reading-via-Remote-Cluster-Security-API-43905)|An attacker can read a file of Elasticsearch, via Remote Cluster Security API, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-mDNS-43899" class="noirorange"><b>Cisco IOS XE</b>: denial of service via mDNS</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-mDNS-43899)|An attacker can cause a fatal error of Cisco IOS XE, via mDNS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-information-disclosure-via-Wireless-LAN-Controllers-43896" class="noirorange"><b>Cisco IOS XE</b>: information disclosure via Wireless LAN Controllers</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-information-disclosure-via-Wireless-LAN-Controllers-43896)|An attacker can bypass access restrictions to data of Cisco IOS XE, via Wireless LAN Controllers, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Auxiliary-Asynchronous-Port-43886" class="noirorange"><b>Cisco IOS XE</b>: denial of service via Auxiliary Asynchronous Port</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Auxiliary-Asynchronous-Port-43886)|An attacker can cause a fatal error of Cisco IOS XE, via Auxiliary Asynchronous Port, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Aironet-Catalyst-AP-privilege-escalation-via-Boot-Process-43885" class="noirorange"><b>Cisco Aironet  Catalyst AP</b>: privilege escalation via Boot Process</a>](https://vigilance.fr/vulnerability/Cisco-Aironet-Catalyst-AP-privilege-escalation-via-Boot-Process-43885)|An attacker can bypass restrictions of Cisco Aironet  Catalyst AP, via Boot Process, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libvirt-NULL-pointer-dereference-via-udevConnectListAllInterfaces-43882" class="noirorange"><b>libvirt</b>: NULL pointer dereference via udevConnectListAllInterfaces()</a>](https://vigilance.fr/vulnerability/libvirt-NULL-pointer-dereference-via-udevConnectListAllInterfaces-43882)|An attacker can force a NULL pointer to be dereferenced on libvirt, via udevConnectListAllIn|Visit link for details|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
+ |[Compromise of Sisense Customer Data](https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data)|Visit link for details.|Apr 11, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 11, 2024|
+ |[CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft)|Visit link for details.|Apr 11, 2024|
+ |[Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0)|Visit link for details.|Apr 09, 2024|
+ |[Microsoft Releases April 2024 Security Updates  ](https://www.cisa.gov/news-events/alerts/2024/04/09/microsoft-releases-april-2024-security-updates)|Visit link for details.|Apr 09, 2024|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/04/09/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Apr 09, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/04/09/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 09, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 04, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 04, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Summernote Rich Text Editor cross-site scripting (CVE-2024-29504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
  |[Rockwell Automation 5015-AENFTXT denial of service (CVE-2024-2424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
  |[Node.js request smuggling (CVE-2024-27980)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2024|
  |[a-blog cms code execution (CVE-2024-31396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2024|
  |[Google Chrome code execution (CVE-2024-3515)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2024|
  |[Google Chrome buffer overflow (CVE-2024-3516)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2024|
- |[a-blog cms server-side request forgery (CVE-2024-30420)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
@@ -154,23 +154,6 @@
  |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] B&R security advisory (AV24-197)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-197)|Visit link for details|2024-04-11|
- |[Mitel security advisory (AV24-196)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-196)|Visit link for details|2024-04-11|
- |[Citrix security advisory (AV24-195)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-195)|Visit link for details|2024-04-11|
- |[Google Chrome security advisory (AV24-194)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-194)|Visit link for details|2024-04-10|
- |[Palo Alto Networks security advisory (AV24-193)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-193)|Visit link for details|2024-04-10|
- |[Microsoft security advisory – April 2024 monthly rollup (AV24-192)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2024-monthly-rollup-av24-192)|Visit link for details|2024-04-10|
- |[Adobe security advisory (AV24-191)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-191)|Visit link for details|2024-04-09|
- |[Fortinet security advisory (AV24-190)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-190)|Visit link for details|2024-04-09|
- |[SAP security advisory – April 2024 monthly rollup (AV24-189)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2024-monthly-rollup-av24-189)|Visit link for details|2024-04-09|
- |[HPE security advisory (AV24-188)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-188)|Visit link for details|2024-04-09|
- |[[Control systems] Siemens security advisory (AV24-187)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-187)|Visit link for details|2024-04-09|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -186,6 +169,23 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] B&R security advisory (AV24-197)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-197)|Visit link for details|2024-04-11|
+ |[Mitel security advisory (AV24-196)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-196)|Visit link for details|2024-04-11|
+ |[Citrix security advisory (AV24-195)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-195)|Visit link for details|2024-04-11|
+ |[Google Chrome security advisory (AV24-194)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-194)|Visit link for details|2024-04-10|
+ |[Palo Alto Networks security advisory (AV24-193)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-193)|Visit link for details|2024-04-10|
+ |[Microsoft security advisory – April 2024 monthly rollup (AV24-192)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2024-monthly-rollup-av24-192)|Visit link for details|2024-04-10|
+ |[Adobe security advisory (AV24-191)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-191)|Visit link for details|2024-04-09|
+ |[Fortinet security advisory (AV24-190)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-190)|Visit link for details|2024-04-09|
+ |[SAP security advisory – April 2024 monthly rollup (AV24-189)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2024-monthly-rollup-av24-189)|Visit link for details|2024-04-09|
+ |[HPE security advisory (AV24-188)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-188)|Visit link for details|2024-04-09|
+ |[[Control systems] Siemens security advisory (AV24-187)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-187)|Visit link for details|2024-04-09|
  
 
 # MA-CERT
