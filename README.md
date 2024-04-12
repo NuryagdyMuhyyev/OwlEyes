@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/04/2024 18:18:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/04/2024 19:15:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,23 +62,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 04, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[strongSwan / Juniper - CVE-2023-41913](https://www.cyberveille-sante.gouv.fr/alertes/strongswan-juniper-cve-2023-41913-2024-04-11)|Visit link for details.|11/04/2024|
- |[Microsoft - CVE-2024-26200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26200-2024-04-11)|Visit link for details.|11/04/2024|
- |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
- |[GitLab - CVE-2024-3092](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-3092-2024-04-11)|Visit link for details.|11/04/2024|
- |[FortiSandbox - CVE-2024-21756](https://www.cyberveille-sante.gouv.fr/alertes/fortisandbox-cve-2024-21756-2024-04-11)|Visit link for details.|11/04/2024|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|11/04/2024|
- |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|11/04/2024|
- |[Microsoft SmartScreen - CVE-2024-29988](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-smartscreen-cve-2024-29988-2024-04-10)|Visit link for details.|10/04/2024|
- |[Microsoft - CVE-2024-29053](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-29053-2024-04-10)|Visit link for details.|10/04/2024|
- |[Microsoft - CVE-2024-20678](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20678-2024-04-10)|Visit link for details.|10/04/2024|
- |[FortiSandbox - CVE-2024-21755](https://www.cyberveille-sante.gouv.fr/alertes/fortisandbox-cve-2024-21755-2024-04-10)|Visit link for details.|10/04/2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -109,6 +92,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-XRef-fetch-43479" class="noirorange"><b>Xpdf</b>: memory corruption via XRef::fetch()</a>](https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-XRef-fetch-43479)|An attacker can trigger a memory corruption of Xpdf, via XRef::fetch(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-July-2023-41724" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-July-2023-41724)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2023-41723" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2023-41723)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[strongSwan / Juniper - CVE-2023-41913](https://www.cyberveille-sante.gouv.fr/alertes/strongswan-juniper-cve-2023-41913-2024-04-11)|Visit link for details.|11/04/2024|
+ |[Microsoft - CVE-2024-26200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26200-2024-04-11)|Visit link for details.|11/04/2024|
+ |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
+ |[GitLab - CVE-2024-3092](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-3092-2024-04-11)|Visit link for details.|11/04/2024|
+ |[FortiSandbox - CVE-2024-21756](https://www.cyberveille-sante.gouv.fr/alertes/fortisandbox-cve-2024-21756-2024-04-11)|Visit link for details.|11/04/2024|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|11/04/2024|
+ |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|11/04/2024|
+ |[Microsoft SmartScreen - CVE-2024-29988](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-smartscreen-cve-2024-29988-2024-04-10)|Visit link for details.|10/04/2024|
+ |[Microsoft - CVE-2024-29053](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-29053-2024-04-10)|Visit link for details.|10/04/2024|
+ |[Microsoft - CVE-2024-20678](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20678-2024-04-10)|Visit link for details.|10/04/2024|
+ |[FortiSandbox - CVE-2024-21755](https://www.cyberveille-sante.gouv.fr/alertes/fortisandbox-cve-2024-21755-2024-04-10)|Visit link for details.|10/04/2024|
  
 
 # IBM-X-FORCE-EXCHANGE
