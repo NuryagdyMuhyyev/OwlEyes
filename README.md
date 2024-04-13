@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/04/2024 20:12:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/04/2024 21:20:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,23 @@
  |[Microsoft Releases April 2024 Security Updates  ](https://www.cisa.gov/news-events/alerts/2024/04/09/microsoft-releases-april-2024-security-updates)|Visit link for details.|Apr 09, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5658-1 linux - security update](https://www.linux.org/threads/dsa-5658-1-linux-security-update.49510/)|Visit link for details.|Apr 13, 2024|
+ |[DSA-5657-1 xorg-server - security update](https://www.linux.org/threads/dsa-5657-1-xorg-server-security-update.49508/)|Visit link for details.|Apr 13, 2024|
+ |[USN-6730-1: Apache Maven Shared Utils vulnerability](https://www.linux.org/threads/usn-6730-1-apache-maven-shared-utils-vulnerability.49498/)|Visit link for details.|Apr 12, 2024|
+ |[USN-6727-2: NSS regression](https://www.linux.org/threads/usn-6727-2-nss-regression.49496/)|Visit link for details.|Apr 11, 2024|
+ |[DSA-5656-1 chromium - security update](https://www.linux.org/threads/dsa-5656-1-chromium-security-update.49495/)|Visit link for details.|Apr 11, 2024|
+ |[USN-6729-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-1-apache-http-server-vulnerabilities.49494/)|Visit link for details.|Apr 11, 2024|
+ |[USN-6728-2: Squid regression](https://www.linux.org/threads/usn-6728-2-squid-regression.49492/)|Visit link for details.|Apr 11, 2024|
+ |[USN-6728-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6728-1-squid-vulnerabilities.49484/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6727-1: NSS vulnerabilities](https://www.linux.org/threads/usn-6727-1-nss-vulnerabilities.49483/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6719-2: util-linux vulnerability](https://www.linux.org/threads/usn-6719-2-util-linux-vulnerability.49479/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6721-2: X.Org X Server regression](https://www.linux.org/threads/usn-6721-2-x-org-x-server-regression.49472/)|Visit link for details.|Apr 10, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -77,36 +94,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5658-1 linux - security update](https://www.linux.org/threads/dsa-5658-1-linux-security-update.49510/)|Visit link for details.|Apr 13, 2024|
- |[DSA-5657-1 xorg-server - security update](https://www.linux.org/threads/dsa-5657-1-xorg-server-security-update.49508/)|Visit link for details.|Apr 13, 2024|
- |[USN-6730-1: Apache Maven Shared Utils vulnerability](https://www.linux.org/threads/usn-6730-1-apache-maven-shared-utils-vulnerability.49498/)|Visit link for details.|Apr 12, 2024|
- |[USN-6727-2: NSS regression](https://www.linux.org/threads/usn-6727-2-nss-regression.49496/)|Visit link for details.|Apr 11, 2024|
- |[DSA-5656-1 chromium - security update](https://www.linux.org/threads/dsa-5656-1-chromium-security-update.49495/)|Visit link for details.|Apr 11, 2024|
- |[USN-6729-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-1-apache-http-server-vulnerabilities.49494/)|Visit link for details.|Apr 11, 2024|
- |[USN-6728-2: Squid regression](https://www.linux.org/threads/usn-6728-2-squid-regression.49492/)|Visit link for details.|Apr 11, 2024|
- |[USN-6728-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6728-1-squid-vulnerabilities.49484/)|Visit link for details.|Apr 10, 2024|
- |[USN-6727-1: NSS vulnerabilities](https://www.linux.org/threads/usn-6727-1-nss-vulnerabilities.49483/)|Visit link for details.|Apr 10, 2024|
- |[USN-6719-2: util-linux vulnerability](https://www.linux.org/threads/usn-6719-2-util-linux-vulnerability.49479/)|Visit link for details.|Apr 10, 2024|
- |[USN-6721-2: X.Org X Server regression](https://www.linux.org/threads/usn-6721-2-x-org-x-server-regression.49472/)|Visit link for details.|Apr 10, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[WP Event Aggregator Plugin for WordPress cross-site request forgery (CVE-2024-31371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[No-Bot Registration Plugin for WordPress cross-site request forgery (CVE-2024-31372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[Palo Alto Networks PAN-OS command execution (CVE-2024-3400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[PHP security bypass (CVE-2024-3096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[PHP denial of service (CVE-2024-2757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[PHP security bypass (CVE-2024-2756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -124,20 +111,6 @@
  |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
- |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
- |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
- |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
- |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -152,6 +125,33 @@
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Backend Forms Hashed Passwords</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500)|An attacker can bypass access restrictions to data of TYPO3 Core, via Backend Forms Hashed Passwords, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-code-execution-via-Install-Tool-43499" class="noirorange"><b>TYPO3 Core</b>: code execution via Install Tool</a>](https://vigilance.fr/vulnerability/TYPO3-Core-code-execution-via-Install-Tool-43499)|An attacker can use a vulnerability of TYPO3 Core, via Install Tool, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-directory-traversal-via-File-Abstraction-Layer-Storages-43498" class="noirorange"><b>TYPO3 Core</b>: directory traversal via File Abstraction Layer Storages</a>](https://vigilance.fr/vulnerability/TYPO3-Core-directory-traversal-via-File-Abstraction-Layer-Storages-43498)|An attacker can traverse directories of TYPO3 Core, via File Abstraction Layer Storages, in order to write a file outside the service root path...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WP Event Aggregator Plugin for WordPress cross-site request forgery (CVE-2024-31371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[No-Bot Registration Plugin for WordPress cross-site request forgery (CVE-2024-31372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[Palo Alto Networks PAN-OS command execution (CVE-2024-3400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[PHP security bypass (CVE-2024-3096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[PHP denial of service (CVE-2024-2757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[PHP security bypass (CVE-2024-2756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
+ |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
+ |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
+ |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
  
 
 # EU-CERT
