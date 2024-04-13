@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/04/2024 18:16:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/04/2024 19:14:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,20 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/)|Une vulnérabilité a été découverte dans|Publié le 11 avril 2024|
- |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0297/)|De multiples vulnérabilités ont été découvertes dans Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 11 avril 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
+ |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
+ |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
+ |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
+ |[Compromise of Sisense Customer Data](https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data)|Visit link for details.|Apr 11, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 11, 2024|
+ |[CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft)|Visit link for details.|Apr 11, 2024|
+ |[Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0)|Visit link for details.|Apr 09, 2024|
+ |[Microsoft Releases April 2024 Security Updates  ](https://www.cisa.gov/news-events/alerts/2024/04/09/microsoft-releases-april-2024-security-updates)|Visit link for details.|Apr 09, 2024|
  
 
 # LINUX-SEC
@@ -62,10 +62,49 @@
  |[USN-6721-2: X.Org X Server regression](https://www.linux.org/threads/usn-6721-2-x-org-x-server-regression.49472/)|Visit link for details.|Apr 10, 2024|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/)|Une vulnérabilité a été découverte dans|Publié le 11 avril 2024|
+ |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0297/)|De multiples vulnérabilités ont été découvertes dans Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 11 avril 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-DHCP-Daemon-43510" class="noirorange"><b>Stormshield Network Security</b>: denial of service via DHCP Daemon</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-DHCP-Daemon-43510)|An attacker can cause a fatal error of Stormshield Network Security, via DHCP Daemon, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508" class="noirorange"><b>DNSSEC</b>: overload via NSEC3 Closest Encloser Proof</a>](https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508)|An attacker can trigger an overload of DNSSEC, via NSEC3 Closest Encloser Proof, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506" class="noirorange"><b>ISC BIND</b>: memory leak via Recursive Query Patterns</a>](https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506)|An attacker can create a memory leak of ISC BIND, via Recursive Query Patterns, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505" class="noirorange"><b>ISC BIND</b>: overload via ECS-enabled Cache Cleaning</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505)|An attacker can trigger an overload of ISC BIND, via ECS-enabled Cache Cleaning, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-DNS64-Serve-stale-Recursive-Resolution-43504" class="noirorange"><b>ISC BIND</b>: assertion error via DNS64 Serve-stale Recursive Resolution</a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-DNS64-Serve-stale-Recursive-Resolution-43504)|An attacker can force an assertion error of ISC BIND, via DNS64 Serve-stale Recursive Resolution, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Data-Handler-Persisting-FAL-Entities-43503" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Data Handler Persisting FAL Entities</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Data-Handler-Persisting-FAL-Entities-43503)|An attacker can bypass access restrictions to data of TYPO3 Core, via Data Handler Persisting FAL Entities, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-T3-URI-Scheme-43502" class="noirorange"><b>TYPO3 Core</b>: information disclosure via T3 URI Scheme</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-T3-URI-Scheme-43502)|An attacker can bypass access restrictions to data of TYPO3 Core, via T3 URI Scheme, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Backend Forms Hashed Passwords</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500)|An attacker can bypass access restrictions to data of TYPO3 Core, via Backend Forms Hashed Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-code-execution-via-Install-Tool-43499" class="noirorange"><b>TYPO3 Core</b>: code execution via Install Tool</a>](https://vigilance.fr/vulnerability/TYPO3-Core-code-execution-via-Install-Tool-43499)|An attacker can use a vulnerability of TYPO3 Core, via Install Tool, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-directory-traversal-via-File-Abstraction-Layer-Storages-43498" class="noirorange"><b>TYPO3 Core</b>: directory traversal via File Abstraction Layer Storages</a>](https://vigilance.fr/vulnerability/TYPO3-Core-directory-traversal-via-File-Abstraction-Layer-Storages-43498)|An attacker can traverse directories of TYPO3 Core, via File Abstraction Layer Storages, in order to write a file outside the service root path...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WP Event Aggregator Plugin for WordPress cross-site request forgery (CVE-2024-31371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[No-Bot Registration Plugin for WordPress cross-site request forgery (CVE-2024-31372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[Palo Alto Networks PAN-OS command execution (CVE-2024-3400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[PHP security bypass (CVE-2024-3096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[PHP denial of service (CVE-2024-2757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[PHP security bypass (CVE-2024-2756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -101,35 +140,6 @@
  |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508" class="noirorange"><b>DNSSEC</b>: overload via NSEC3 Closest Encloser Proof</a>](https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508)|An attacker can trigger an overload of DNSSEC, via NSEC3 Closest Encloser Proof, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506" class="noirorange"><b>ISC BIND</b>: memory leak via Recursive Query Patterns</a>](https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506)|An attacker can create a memory leak of ISC BIND, via Recursive Query Patterns, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505" class="noirorange"><b>ISC BIND</b>: overload via ECS-enabled Cache Cleaning</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505)|An attacker can trigger an overload of ISC BIND, via ECS-enabled Cache Cleaning, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-DNS64-Serve-stale-Recursive-Resolution-43504" class="noirorange"><b>ISC BIND</b>: assertion error via DNS64 Serve-stale Recursive Resolution</a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-DNS64-Serve-stale-Recursive-Resolution-43504)|An attacker can force an assertion error of ISC BIND, via DNS64 Serve-stale Recursive Resolution, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Data-Handler-Persisting-FAL-Entities-43503" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Data Handler Persisting FAL Entities</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Data-Handler-Persisting-FAL-Entities-43503)|An attacker can bypass access restrictions to data of TYPO3 Core, via Data Handler Persisting FAL Entities, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-T3-URI-Scheme-43502" class="noirorange"><b>TYPO3 Core</b>: information disclosure via T3 URI Scheme</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-T3-URI-Scheme-43502)|An attacker can bypass access restrictions to data of TYPO3 Core, via T3 URI Scheme, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Backend Forms Hashed Passwords</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500)|An attacker can bypass access restrictions to data of TYPO3 Core, via Backend Forms Hashed Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-code-execution-via-Install-Tool-43499" class="noirorange"><b>TYPO3 Core</b>: code execution via Install Tool</a>](https://vigilance.fr/vulnerability/TYPO3-Core-code-execution-via-Install-Tool-43499)|An attacker can use a vulnerability of TYPO3 Core, via Install Tool, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-directory-traversal-via-File-Abstraction-Layer-Storages-43498" class="noirorange"><b>TYPO3 Core</b>: directory traversal via File Abstraction Layer Storages</a>](https://vigilance.fr/vulnerability/TYPO3-Core-directory-traversal-via-File-Abstraction-Layer-Storages-43498)|An attacker can traverse directories of TYPO3 Core, via File Abstraction Layer Storages, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Event-Management-And-Registration-read-write-access-43497" class="noirorange"><b>TYPO3 Event Management And Registration</b>: read-write access</a>](https://vigilance.fr/vulnerability/TYPO3-Event-Management-And-Registration-read-write-access-43497)|An attacker can bypass access restrictions of TYPO3 Event Management And Registration, in order to read or alter data...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[WP Event Aggregator Plugin for WordPress cross-site request forgery (CVE-2024-31371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[No-Bot Registration Plugin for WordPress cross-site request forgery (CVE-2024-31372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[Palo Alto Networks PAN-OS command execution (CVE-2024-3400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[PHP security bypass (CVE-2024-3096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[PHP denial of service (CVE-2024-2757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[PHP security bypass (CVE-2024-2756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -142,6 +152,23 @@
  |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
  |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
  |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46910904/24 - Vulnérabilité critique dans IBM Personal Communications ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ibm-personal-communications)| Une vulnérabilité critique a été corrigée dans IBM Personal Communications. La vulnérabilité permet à tout utilisateur non privilégié disposant d'un accès réseau à un ordinateur cible d'exécuter des…| 09 avril 2024|
+ |[ 46900904/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas)| Une faille de sécurité critique a été découverte affectant les versions susmentionnées du D-Link NAS. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d'exécuter des…| 09 avril 2024|
+ |[ 46880804/24 - Vulnérabilités critiques dans JumpServer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jumpserver)| Deux vulnérabilités critiques ont été corrigées dans JumpServer, un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la maintenance. Les attaquants peuvent exploiter…| 08 avril 2024|
+ |[ 46870504/24 - Vulnérabilités dans Google Android et Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android-et-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques dans Google Android et Google Pixel. L’exploitation de ces…| 05 avril 2024|
+ |[ 46870404/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-14)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’accéder à…| 05 avril 2024|
+ |[ 46860404/24 - Vulnérabilités affectant Ivanti Connect Secure et Ivanti Policy Secure… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-connect-secure-et-ivanti-policy-secure-gateways)| Ivanti a publié des mises à jour de sécurité qui permettent de corriger quatres vulnérabilités critique affectant ses  produits affectant « Ivanti Connect Secure » et « Ivanti Policy Secure…| 04 avril 2024|
+ |[ 46850404/24 - Vulnérabilité affectant le plugin «WP-Members» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wp-members-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « WP-Members». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  de causer une injection de contenu…| 04 avril 2024|
+ |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
+ |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
+ |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
+ |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
  
 
 # EU-CERT
@@ -176,21 +203,4 @@
  |[Adobe security advisory (AV24-191)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-191)|Visit link for details|2024-04-09|
  |[Fortinet security advisory (AV24-190)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-190)|Visit link for details|2024-04-09|
  |[SAP security advisory – April 2024 monthly rollup (AV24-189)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2024-monthly-rollup-av24-189)|Visit link for details|2024-04-09|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46910904/24 - Vulnérabilité critique dans IBM Personal Communications ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ibm-personal-communications)| Une vulnérabilité critique a été corrigée dans IBM Personal Communications. La vulnérabilité permet à tout utilisateur non privilégié disposant d'un accès réseau à un ordinateur cible d'exécuter des…| 09 avril 2024|
- |[ 46900904/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas)| Une faille de sécurité critique a été découverte affectant les versions susmentionnées du D-Link NAS. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d'exécuter des…| 09 avril 2024|
- |[ 46880804/24 - Vulnérabilités critiques dans JumpServer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jumpserver)| Deux vulnérabilités critiques ont été corrigées dans JumpServer, un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la maintenance. Les attaquants peuvent exploiter…| 08 avril 2024|
- |[ 46870504/24 - Vulnérabilités dans Google Android et Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android-et-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques dans Google Android et Google Pixel. L’exploitation de ces…| 05 avril 2024|
- |[ 46870404/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-14)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’accéder à…| 05 avril 2024|
- |[ 46860404/24 - Vulnérabilités affectant Ivanti Connect Secure et Ivanti Policy Secure… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-connect-secure-et-ivanti-policy-secure-gateways)| Ivanti a publié des mises à jour de sécurité qui permettent de corriger quatres vulnérabilités critique affectant ses  produits affectant « Ivanti Connect Secure » et « Ivanti Policy Secure…| 04 avril 2024|
- |[ 46850404/24 - Vulnérabilité affectant le plugin «WP-Members» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wp-members-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « WP-Members». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  de causer une injection de contenu…| 04 avril 2024|
- |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
- |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
- |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
- |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
  
