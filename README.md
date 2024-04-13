@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/04/2024 13:16:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/04/2024 14:13:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5657-1 xorg-server - security update](https://www.linux.org/threads/dsa-5657-1-xorg-server-security-update.49508/)|Visit link for details.|Apr 13, 2024|
- |[USN-6730-1: Apache Maven Shared Utils vulnerability](https://www.linux.org/threads/usn-6730-1-apache-maven-shared-utils-vulnerability.49498/)|Visit link for details.|Apr 12, 2024|
- |[USN-6727-2: NSS regression](https://www.linux.org/threads/usn-6727-2-nss-regression.49496/)|Visit link for details.|Apr 11, 2024|
- |[DSA-5656-1 chromium - security update](https://www.linux.org/threads/dsa-5656-1-chromium-security-update.49495/)|Visit link for details.|Apr 11, 2024|
- |[USN-6729-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-1-apache-http-server-vulnerabilities.49494/)|Visit link for details.|Apr 11, 2024|
- |[USN-6728-2: Squid regression](https://www.linux.org/threads/usn-6728-2-squid-regression.49492/)|Visit link for details.|Apr 11, 2024|
- |[USN-6728-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6728-1-squid-vulnerabilities.49484/)|Visit link for details.|Apr 10, 2024|
- |[USN-6727-1: NSS vulnerabilities](https://www.linux.org/threads/usn-6727-1-nss-vulnerabilities.49483/)|Visit link for details.|Apr 10, 2024|
- |[USN-6719-2: util-linux vulnerability](https://www.linux.org/threads/usn-6719-2-util-linux-vulnerability.49479/)|Visit link for details.|Apr 10, 2024|
- |[USN-6721-2: X.Org X Server regression](https://www.linux.org/threads/usn-6721-2-x-org-x-server-regression.49472/)|Visit link for details.|Apr 10, 2024|
- |[USN-6701-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6701-4-linux-kernel-azure-vulnerabilities.49467/)|Visit link for details.|Apr 9, 2024|
- 
 
 # US-CERT
 
@@ -78,26 +61,42 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
  
 
-# HK-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240412)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2024 |
- |[Palo Alto Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20240412)|Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
- |[Node.js Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/node-js-remote-code-execution-vulnerability_20240411)|A vulnerability has been identified in Node.js. A remote  attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Apr 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240411)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 11 Apr 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-04-11] Updated System / Technologies affected, ...| Release Date: 2 Apr 2024 |
- |[Adobe Monthly Security Update (April 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe After Effects Medium RiskInformation Disclosure APSB24-09Adobe Photoshop Medium RiskInformation Disclosure APSB24-...|Release Date: 10 Apr 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240410)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, elevation of privilege and security restriction bypass on the targeted system. |Release Date: 10 Apr 2024 |
- |[Microsoft Monthly Security Update (April 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low RiskSpoofing Windows High RiskSecurity Restriction BypassRemote Code ExecutionDenial of ServiceInformation DisclosureElevation of Privilege...|Release Date: 10 Apr 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
+ |[DSA-5657-1 xorg-server - security update](https://www.linux.org/threads/dsa-5657-1-xorg-server-security-update.49508/)|Visit link for details.|Apr 13, 2024|
+ |[USN-6730-1: Apache Maven Shared Utils vulnerability](https://www.linux.org/threads/usn-6730-1-apache-maven-shared-utils-vulnerability.49498/)|Visit link for details.|Apr 12, 2024|
+ |[USN-6727-2: NSS regression](https://www.linux.org/threads/usn-6727-2-nss-regression.49496/)|Visit link for details.|Apr 11, 2024|
+ |[DSA-5656-1 chromium - security update](https://www.linux.org/threads/dsa-5656-1-chromium-security-update.49495/)|Visit link for details.|Apr 11, 2024|
+ |[USN-6729-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-1-apache-http-server-vulnerabilities.49494/)|Visit link for details.|Apr 11, 2024|
+ |[USN-6728-2: Squid regression](https://www.linux.org/threads/usn-6728-2-squid-regression.49492/)|Visit link for details.|Apr 11, 2024|
+ |[USN-6728-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6728-1-squid-vulnerabilities.49484/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6727-1: NSS vulnerabilities](https://www.linux.org/threads/usn-6727-1-nss-vulnerabilities.49483/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6719-2: util-linux vulnerability](https://www.linux.org/threads/usn-6719-2-util-linux-vulnerability.49479/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6721-2: X.Org X Server regression](https://www.linux.org/threads/usn-6721-2-x-org-x-server-regression.49472/)|Visit link for details.|Apr 10, 2024|
+ |[USN-6701-4: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6701-4-linux-kernel-azure-vulnerabilities.49467/)|Visit link for details.|Apr 9, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WP Event Aggregator Plugin for WordPress cross-site request forgery (CVE-2024-31371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[No-Bot Registration Plugin for WordPress cross-site request forgery (CVE-2024-31372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[Palo Alto Networks PAN-OS command execution (CVE-2024-3400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[PHP security bypass (CVE-2024-3096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[PHP denial of service (CVE-2024-2757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[PHP security bypass (CVE-2024-2756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-RPC-43496" class="noirorange"><b>SIMATIC</b>: two vulnerabilities via RPC</a>](https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-RPC-43496)|An attacker can use several vulnerabilities of SIMATIC...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-CP-343-1-denial-of-service-via-Spoofed-TCP-RST-Packets-43495" class="noirorange"><b>SIMATIC CP 343-1</b>: denial of service via Spoofed TCP RST Packets</a>](https://vigilance.fr/vulnerability/SIMATIC-CP-343-1-denial-of-service-via-Spoofed-TCP-RST-Packets-43495)|An attacker can cause a fatal error of SIMATIC CP 343-1, via Spoofed TCP RST Packets, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-July-2023-41742" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-July-2023-41742)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41741" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41741)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-REST-41740" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via REST</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-REST-41740)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via REST, in order to gain user privileges...|Visit link for details|
@@ -106,8 +105,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-39531" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-39531)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/python-glance-store-logged-sensitive-information-via-access-key-43492" class="noirorange"><b>python-glance-store</b>: logged sensitive information via access_key</a>](https://vigilance.fr/vulnerability/python-glance-store-logged-sensitive-information-via-access-key-43492)|An attacker can read logs of python-glance-store, via access_key, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43491" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43491)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-six-vulnerabilities-43490" class="noirorange"><b>Centreon Web</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-six-vulnerabilities-43490)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-VMM-Int80-Syscall-43489" class="noirorange"><b>Linux kernel</b>: privilege escalation via VMM Int80 Syscall</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-VMM-Int80-Syscall-43489)|An attacker can bypass restrictions of the Linux kernel, via VMM Int80 Syscall, in order to escalate his privileges...|Visit link for details|
  
 
 # CERT-SANTE
@@ -127,31 +124,20 @@
  |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[WP Event Aggregator Plugin for WordPress cross-site request forgery (CVE-2024-31371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[No-Bot Registration Plugin for WordPress cross-site request forgery (CVE-2024-31372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[Palo Alto Networks PAN-OS command execution (CVE-2024-3400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[PHP security bypass (CVE-2024-3096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[PHP denial of service (CVE-2024-2757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[PHP security bypass (CVE-2024-2756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
- |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
- |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
- |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
- |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240412)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2024 |
+ |[Palo Alto Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20240412)|Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
+ |[Node.js Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/node-js-remote-code-execution-vulnerability_20240411)|A vulnerability has been identified in Node.js. A remote  attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Apr 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240411)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 11 Apr 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-04-11] Updated System / Technologies affected, ...| Release Date: 2 Apr 2024 |
+ |[Adobe Monthly Security Update (April 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe After Effects Medium RiskInformation Disclosure APSB24-09Adobe Photoshop Medium RiskInformation Disclosure APSB24-...|Release Date: 10 Apr 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240410)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, elevation of privilege and security restriction bypass on the targeted system. |Release Date: 10 Apr 2024 |
+ |[Microsoft Monthly Security Update (April 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low RiskSpoofing Windows High RiskSecurity Restriction BypassRemote Code ExecutionDenial of ServiceInformation DisclosureElevation of Privilege...|Release Date: 10 Apr 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
  
 
 # EU-CERT
@@ -186,6 +172,20 @@
  |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
  |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
  |[ 46820104/24 - Vulnérabilité affectant le noyau Linux ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-noyau-linux)| Une vulnérabilité a été corrigée au niveau du noyau de plusieurs distributions de Linux. L’exploitation de cette vulnérabilité pour laquelle la preuve du concept existe peut permettre à un attaquant…| 01 avril 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
+ |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[Flexera Software FlexNet Publisher Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-359/)|Visit link for details|2024-04-01|
+ |[GitLab Label Description Uncontrolled Resource Consumption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-358/)|Visit link for details|2024-04-01|
+ |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
  
 
 # CA-CCS
