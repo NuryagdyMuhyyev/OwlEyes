@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/04/2024 04:18:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/04/2024 06:45:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,23 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Node.js - CVE-2024-27980](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27980-2024-04-12)|Visit link for details.|12/04/2024|
+ |[Microsoft WDAC SQL Server - CVE-2024-26214](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-wdac-sql-server-cve-2024-26214-2024-04-12)|Visit link for details.|12/04/2024|
+ |[Google Chrome - CVE-2024-3516](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3516-2024-04-12)|Visit link for details.|12/04/2024|
+ |[cURL / Juniper - CVE-2023-23914](https://www.cyberveille-sante.gouv.fr/alertes/curl-juniper-cve-2023-23914-2024-04-12)|Visit link for details.|12/04/2024|
+ |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|12/04/2024|
+ |[D-Link - CVE-2024-3272](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3272-2024-04-04)|Visit link for details.|12/04/2024|
+ |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|12/04/2024|
+ |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|12/04/2024|
+ |[strongSwan / Juniper - CVE-2023-41913](https://www.cyberveille-sante.gouv.fr/alertes/strongswan-juniper-cve-2023-41913-2024-04-11)|Visit link for details.|11/04/2024|
+ |[Microsoft - CVE-2024-26200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26200-2024-04-11)|Visit link for details.|11/04/2024|
+ |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,6 +111,22 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Windows-privilege-escalation-43516" class="noirorange"><b>Microsoft Defender for Endpoint for Windows</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Windows-privilege-escalation-43516)|An attacker can bypass restrictions of Microsoft Defender for Endpoint for Windows, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-memory-leak-via-xmalloc-43513" class="noirorange"><b>Open vSwitch</b>: memory leak via xmalloc__()</a>](https://vigilance.fr/vulnerability/Open-vSwitch-memory-leak-via-xmalloc-43513)|An attacker can create a memory leak of Open vSwitch, via xmalloc__(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-DHCP-Daemon-43510" class="noirorange"><b>Stormshield Network Security</b>: denial of service via DHCP Daemon</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-DHCP-Daemon-43510)|An attacker can cause a fatal error of Stormshield Network Security, via DHCP Daemon, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508" class="noirorange"><b>DNSSEC</b>: overload via NSEC3 Closest Encloser Proof</a>](https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508)|An attacker can trigger an overload of DNSSEC, via NSEC3 Closest Encloser Proof, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506" class="noirorange"><b>ISC BIND</b>: memory leak via Recursive Query Patterns</a>](https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506)|An attacker can create a memory leak of ISC BIND, via Recursive Query Patterns, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505" class="noirorange"><b>ISC BIND</b>: overload via ECS-enabled Cache Cleaning</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505)|An attacker can trigger an overload of ISC BIND, via ECS-enabled Cache Cleaning, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-DNS64-Serve-stale-Recursive-Resolution-43504" class="noirorange"><b>ISC BIND</b>: assertion error via DNS64 Serve-stale Recursive Resolution</a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-DNS64-Serve-stale-Recursive-Resolution-43504)|An attacker can force an assertion error of ISC BIND, via DNS64 Serve-stale Recursive Resolution, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Data-Handler-Persisting-FAL-Entities-43503" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Data Handler Persisting FAL Entities</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Data-Handler-Persisting-FAL-Entities-43503)|An attacker can bypass access restrictions to data of TYPO3 Core, via Data Handler Persisting FAL Entities, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-T3-URI-Scheme-43502" class="noirorange"><b>TYPO3 Core</b>: information disclosure via T3 URI Scheme</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-T3-URI-Scheme-43502)|An attacker can bypass access restrictions to data of TYPO3 Core, via T3 URI Scheme, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Backend Forms Hashed Passwords</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500)|An attacker can bypass access restrictions to data of TYPO3 Core, via Backend Forms Hashed Passwords, in order to read sensitive information...|Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -105,23 +138,6 @@
  |[PHP denial of service (CVE-2024-2757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
  |[PHP security bypass (CVE-2024-2756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Node.js - CVE-2024-27980](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27980-2024-04-12)|Visit link for details.|12/04/2024|
- |[Microsoft WDAC SQL Server - CVE-2024-26214](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-wdac-sql-server-cve-2024-26214-2024-04-12)|Visit link for details.|12/04/2024|
- |[Google Chrome - CVE-2024-3516](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3516-2024-04-12)|Visit link for details.|12/04/2024|
- |[cURL / Juniper - CVE-2023-23914](https://www.cyberveille-sante.gouv.fr/alertes/curl-juniper-cve-2023-23914-2024-04-12)|Visit link for details.|12/04/2024|
- |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|12/04/2024|
- |[D-Link - CVE-2024-3272](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3272-2024-04-04)|Visit link for details.|12/04/2024|
- |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|12/04/2024|
- |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|12/04/2024|
- |[strongSwan / Juniper - CVE-2023-41913](https://www.cyberveille-sante.gouv.fr/alertes/strongswan-juniper-cve-2023-41913-2024-04-11)|Visit link for details.|11/04/2024|
- |[Microsoft - CVE-2024-26200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26200-2024-04-11)|Visit link for details.|11/04/2024|
- |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
  
 
 # ZERODAYINITIATIVE
@@ -155,20 +171,21 @@
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
  
 
-# OBS-Vigilance
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Windows-privilege-escalation-43516" class="noirorange"><b>Microsoft Defender for Endpoint for Windows</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Windows-privilege-escalation-43516)|An attacker can bypass restrictions of Microsoft Defender for Endpoint for Windows, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-memory-leak-via-xmalloc-43513" class="noirorange"><b>Open vSwitch</b>: memory leak via xmalloc__()</a>](https://vigilance.fr/vulnerability/Open-vSwitch-memory-leak-via-xmalloc-43513)|An attacker can create a memory leak of Open vSwitch, via xmalloc__(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-DHCP-Daemon-43510" class="noirorange"><b>Stormshield Network Security</b>: denial of service via DHCP Daemon</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-DHCP-Daemon-43510)|An attacker can cause a fatal error of Stormshield Network Security, via DHCP Daemon, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508" class="noirorange"><b>DNSSEC</b>: overload via NSEC3 Closest Encloser Proof</a>](https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508)|An attacker can trigger an overload of DNSSEC, via NSEC3 Closest Encloser Proof, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506" class="noirorange"><b>ISC BIND</b>: memory leak via Recursive Query Patterns</a>](https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506)|An attacker can create a memory leak of ISC BIND, via Recursive Query Patterns, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505" class="noirorange"><b>ISC BIND</b>: overload via ECS-enabled Cache Cleaning</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505)|An attacker can trigger an overload of ISC BIND, via ECS-enabled Cache Cleaning, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-DNS64-Serve-stale-Recursive-Resolution-43504" class="noirorange"><b>ISC BIND</b>: assertion error via DNS64 Serve-stale Recursive Resolution</a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-DNS64-Serve-stale-Recursive-Resolution-43504)|An attacker can force an assertion error of ISC BIND, via DNS64 Serve-stale Recursive Resolution, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Data-Handler-Persisting-FAL-Entities-43503" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Data Handler Persisting FAL Entities</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Data-Handler-Persisting-FAL-Entities-43503)|An attacker can bypass access restrictions to data of TYPO3 Core, via Data Handler Persisting FAL Entities, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-T3-URI-Scheme-43502" class="noirorange"><b>TYPO3 Core</b>: information disclosure via T3 URI Scheme</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-T3-URI-Scheme-43502)|An attacker can bypass access restrictions to data of TYPO3 Core, via T3 URI Scheme, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Backend Forms Hashed Passwords</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500)|An attacker can bypass access restrictions to data of TYPO3 Core, via Backend Forms Hashed Passwords, in order to read sensitive information...|Visit link for details|
+ |[AL24-005 - Vulnerability impacting PAN-OS GlobalProtect Gateway](https://www.cyber.gc.ca/en/alerts-advisories/al24-005-vulnerability-impacting-pan-os-globalprotect-gateway)|Visit link for details|2024-04-12|
+ |[Palo Alto Networks security advisory (AV24-198)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-198)|Visit link for details|2024-04-12|
+ |[[Control systems] B&R security advisory (AV24-197)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-197)|Visit link for details|2024-04-11|
+ |[Mitel security advisory (AV24-196)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-196)|Visit link for details|2024-04-11|
+ |[Citrix security advisory (AV24-195)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-195)|Visit link for details|2024-04-11|
+ |[Google Chrome security advisory (AV24-194)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-194)|Visit link for details|2024-04-10|
+ |[Palo Alto Networks security advisory (AV24-193)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-193)|Visit link for details|2024-04-10|
+ |[Microsoft security advisory – April 2024 monthly rollup (AV24-192)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2024-monthly-rollup-av24-192)|Visit link for details|2024-04-10|
+ |[Adobe security advisory (AV24-191)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-191)|Visit link for details|2024-04-09|
+ |[Fortinet security advisory (AV24-190)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-190)|Visit link for details|2024-04-09|
+ |[SAP security advisory – April 2024 monthly rollup (AV24-189)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2024-monthly-rollup-av24-189)|Visit link for details|2024-04-09|
  
 
 # MA-CERT
@@ -186,21 +203,4 @@
  |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
  |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
  |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[AL24-005 - Vulnerability impacting PAN-OS GlobalProtect Gateway](https://www.cyber.gc.ca/en/alerts-advisories/al24-005-vulnerability-impacting-pan-os-globalprotect-gateway)|Visit link for details|2024-04-12|
- |[Palo Alto Networks security advisory (AV24-198)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-198)|Visit link for details|2024-04-12|
- |[[Control systems] B&R security advisory (AV24-197)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-197)|Visit link for details|2024-04-11|
- |[Mitel security advisory (AV24-196)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-196)|Visit link for details|2024-04-11|
- |[Citrix security advisory (AV24-195)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-195)|Visit link for details|2024-04-11|
- |[Google Chrome security advisory (AV24-194)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-194)|Visit link for details|2024-04-10|
- |[Palo Alto Networks security advisory (AV24-193)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-193)|Visit link for details|2024-04-10|
- |[Microsoft security advisory – April 2024 monthly rollup (AV24-192)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2024-monthly-rollup-av24-192)|Visit link for details|2024-04-10|
- |[Adobe security advisory (AV24-191)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-191)|Visit link for details|2024-04-09|
- |[Fortinet security advisory (AV24-190)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-190)|Visit link for details|2024-04-09|
- |[SAP security advisory – April 2024 monthly rollup (AV24-189)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2024-monthly-rollup-av24-189)|Visit link for details|2024-04-09|
  
