@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/04/2024 08:17:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/04/2024 09:42:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,21 +62,20 @@
  |[USN-6721-2: X.Org X Server regression](https://www.linux.org/threads/usn-6721-2-x-org-x-server-regression.49472/)|Visit link for details.|Apr 10, 2024|
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Node.js - CVE-2024-27980](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27980-2024-04-12)|Visit link for details.|12/04/2024|
- |[Microsoft WDAC SQL Server - CVE-2024-26214](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-wdac-sql-server-cve-2024-26214-2024-04-12)|Visit link for details.|12/04/2024|
- |[Google Chrome - CVE-2024-3516](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3516-2024-04-12)|Visit link for details.|12/04/2024|
- |[cURL / Juniper - CVE-2023-23914](https://www.cyberveille-sante.gouv.fr/alertes/curl-juniper-cve-2023-23914-2024-04-12)|Visit link for details.|12/04/2024|
- |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|12/04/2024|
- |[D-Link - CVE-2024-3272](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3272-2024-04-04)|Visit link for details.|12/04/2024|
- |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|12/04/2024|
- |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|12/04/2024|
- |[strongSwan / Juniper - CVE-2023-41913](https://www.cyberveille-sante.gouv.fr/alertes/strongswan-juniper-cve-2023-41913-2024-04-11)|Visit link for details.|11/04/2024|
- |[Microsoft - CVE-2024-26200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26200-2024-04-11)|Visit link for details.|11/04/2024|
- |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/)|Une vulnérabilité a été découverte dans|Publié le 11 avril 2024|
+ |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0297/)|De multiples vulnérabilités ont été découvertes dans Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 11 avril 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
  
 
 # OBS-Vigilance
@@ -95,20 +94,21 @@
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Backend Forms Hashed Passwords</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500)|An attacker can bypass access restrictions to data of TYPO3 Core, via Backend Forms Hashed Passwords, in order to read sensitive information...|Visit link for details|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/)|Une vulnérabilité a été découverte dans|Publié le 11 avril 2024|
- |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0297/)|De multiples vulnérabilités ont été découvertes dans Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 11 avril 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
+ |[Node.js - CVE-2024-27980](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27980-2024-04-12)|Visit link for details.|12/04/2024|
+ |[Microsoft WDAC SQL Server - CVE-2024-26214](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-wdac-sql-server-cve-2024-26214-2024-04-12)|Visit link for details.|12/04/2024|
+ |[Google Chrome - CVE-2024-3516](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3516-2024-04-12)|Visit link for details.|12/04/2024|
+ |[cURL / Juniper - CVE-2023-23914](https://www.cyberveille-sante.gouv.fr/alertes/curl-juniper-cve-2023-23914-2024-04-12)|Visit link for details.|12/04/2024|
+ |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|12/04/2024|
+ |[D-Link - CVE-2024-3272](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3272-2024-04-04)|Visit link for details.|12/04/2024|
+ |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|12/04/2024|
+ |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|12/04/2024|
+ |[strongSwan / Juniper - CVE-2023-41913](https://www.cyberveille-sante.gouv.fr/alertes/strongswan-juniper-cve-2023-41913-2024-04-11)|Visit link for details.|11/04/2024|
+ |[Microsoft - CVE-2024-26200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26200-2024-04-11)|Visit link for details.|11/04/2024|
+ |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
  
 
 # HK-CERT
@@ -171,23 +171,6 @@
  |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 46921304/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os)| Une vulnérabilité critique a été corrigée dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de cette faille peut permettre à un attaquant non authentifié d'exécuter un code…| 13 avril 2024|
- |[ 46910904/24 - Vulnérabilité critique dans IBM Personal Communications ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ibm-personal-communications)| Une vulnérabilité critique a été corrigée dans IBM Personal Communications. La vulnérabilité permet à tout utilisateur non privilégié disposant d'un accès réseau à un ordinateur cible d'exécuter des…| 09 avril 2024|
- |[ 46900904/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas)| Une faille de sécurité critique a été découverte affectant les versions susmentionnées du D-Link NAS. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d'exécuter des…| 09 avril 2024|
- |[ 46880804/24 - Vulnérabilités critiques dans JumpServer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jumpserver)| Deux vulnérabilités critiques ont été corrigées dans JumpServer, un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la maintenance. Les attaquants peuvent exploiter…| 08 avril 2024|
- |[ 46870504/24 - Vulnérabilités dans Google Android et Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android-et-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques dans Google Android et Google Pixel. L’exploitation de ces…| 05 avril 2024|
- |[ 46870404/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-14)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’accéder à…| 05 avril 2024|
- |[ 46860404/24 - Vulnérabilités affectant Ivanti Connect Secure et Ivanti Policy Secure… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-connect-secure-et-ivanti-policy-secure-gateways)| Ivanti a publié des mises à jour de sécurité qui permettent de corriger quatres vulnérabilités critique affectant ses  produits affectant « Ivanti Connect Secure » et « Ivanti Policy Secure…| 04 avril 2024|
- |[ 46850404/24 - Vulnérabilité affectant le plugin «WP-Members» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wp-members-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « WP-Members». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  de causer une injection de contenu…| 04 avril 2024|
- |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
- |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
- |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -203,4 +186,21 @@
  |[Adobe security advisory (AV24-191)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-191)|Visit link for details|2024-04-09|
  |[Fortinet security advisory (AV24-190)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-190)|Visit link for details|2024-04-09|
  |[SAP security advisory – April 2024 monthly rollup (AV24-189)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2024-monthly-rollup-av24-189)|Visit link for details|2024-04-09|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46921304/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os)| Une vulnérabilité critique a été corrigée dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de cette faille peut permettre à un attaquant non authentifié d'exécuter un code…| 13 avril 2024|
+ |[ 46910904/24 - Vulnérabilité critique dans IBM Personal Communications ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ibm-personal-communications)| Une vulnérabilité critique a été corrigée dans IBM Personal Communications. La vulnérabilité permet à tout utilisateur non privilégié disposant d'un accès réseau à un ordinateur cible d'exécuter des…| 09 avril 2024|
+ |[ 46900904/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas)| Une faille de sécurité critique a été découverte affectant les versions susmentionnées du D-Link NAS. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d'exécuter des…| 09 avril 2024|
+ |[ 46880804/24 - Vulnérabilités critiques dans JumpServer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jumpserver)| Deux vulnérabilités critiques ont été corrigées dans JumpServer, un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la maintenance. Les attaquants peuvent exploiter…| 08 avril 2024|
+ |[ 46870504/24 - Vulnérabilités dans Google Android et Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android-et-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques dans Google Android et Google Pixel. L’exploitation de ces…| 05 avril 2024|
+ |[ 46870404/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-14)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’accéder à…| 05 avril 2024|
+ |[ 46860404/24 - Vulnérabilités affectant Ivanti Connect Secure et Ivanti Policy Secure… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-connect-secure-et-ivanti-policy-secure-gateways)| Ivanti a publié des mises à jour de sécurité qui permettent de corriger quatres vulnérabilités critique affectant ses  produits affectant « Ivanti Connect Secure » et « Ivanti Policy Secure…| 04 avril 2024|
+ |[ 46850404/24 - Vulnérabilité affectant le plugin «WP-Members» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wp-members-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « WP-Members». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  de causer une injection de contenu…| 04 avril 2024|
+ |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
+ |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
+ |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
  
