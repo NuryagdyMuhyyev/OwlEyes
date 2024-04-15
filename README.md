@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/04/2024 14:16:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/04/2024 15:16:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
- |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
- |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
- |[Compromise of Sisense Customer Data](https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data)|Visit link for details.|Apr 11, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 11, 2024|
- |[CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft)|Visit link for details.|Apr 11, 2024|
- |[Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0)|Visit link for details.|Apr 09, 2024|
- |[Microsoft Releases April 2024 Security Updates  ](https://www.cisa.gov/news-events/alerts/2024/04/09/microsoft-releases-april-2024-security-updates)|Visit link for details.|Apr 09, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,6 +46,22 @@
  |[USN-6719-2: util-linux vulnerability](https://www.linux.org/threads/usn-6719-2-util-linux-vulnerability.49479/)|Visit link for details.|Apr 10, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
+ |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
+ |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
+ |[Compromise of Sisense Customer Data](https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data)|Visit link for details.|Apr 11, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 11, 2024|
+ |[CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft)|Visit link for details.|Apr 11, 2024|
+ |[Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0)|Visit link for details.|Apr 09, 2024|
+ |[Microsoft Releases April 2024 Security Updates  ](https://www.cisa.gov/news-events/alerts/2024/04/09/microsoft-releases-april-2024-security-updates)|Visit link for details.|Apr 09, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,6 +76,22 @@
  |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/)|Une vulnérabilité a été découverte dans|Publié le 11 avril 2024|
  |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0297/)|De multiples vulnérabilités ont été découvertes dans Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 11 avril 2024|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555" class="noirorange"><b>Python Core</b>: use after free via deque_index_impl()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555)|An attacker can force the reuse of a freed memory area of Python Core, via deque_index_impl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554" class="noirorange"><b>Dell OpenManage Integration with Microsoft Windows Admin Center</b>: privilege escalation via Gateway Plugin</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554)|An attacker can bypass restrictions of Dell OpenManage Integration with Microsoft Windows Admin Center, via Gateway Plugin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553" class="noirorange"><b>Wind River VxWorks</b>: memory leak via OpenSSL Task / POSIX Thread</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553)|An attacker can create a memory leak of Wind River VxWorks, via OpenSSL Task / POSIX Thread, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Core HTML Parsing Module</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552)|An attacker can trigger a Cross Site Scripting of CKEditor, via Core HTML Parsing Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551" class="noirorange"><b>Engrampa</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551)|An attacker can traverse directories of Engrampa, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-did-set-langmap-43550" class="noirorange"><b>Vim</b>: buffer overflow via did_set_langmap()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-did-set-langmap-43550)|An attacker can trigger a buffer overflow of Vim, via did_set_langmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-Ubuntu-privilege-escalation-via-EDK2-UEFI-Shell-43548" class="noirorange"><b>Debian  Ubuntu</b>: privilege escalation via EDK2 UEFI Shell</a>](https://vigilance.fr/vulnerability/Debian-Ubuntu-privilege-escalation-via-EDK2-UEFI-Shell-43548)|An attacker can bypass restrictions of Debian  Ubuntu, via EDK2 UEFI Shell, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/EDK2-three-vulnerabilities-43547" class="noirorange"><b>EDK2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/EDK2-three-vulnerabilities-43547)|An attacker can use several vulnerabilities of EDK2...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Header-Parser-43546" class="noirorange"><b>Squid</b>: denial of service via HTTP Header Parser</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Header-Parser-43546)|An attacker can cause a fatal error of Squid, via HTTP Header Parser, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-43545" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Captive Portal Authentication</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-43545)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Captive Portal Authentication, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # CERT-SANTE
@@ -111,35 +127,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-04-11] Updated System / Technologies affected, ...| Release Date: 2 Apr 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[WP Event Aggregator Plugin for WordPress cross-site request forgery (CVE-2024-31371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[No-Bot Registration Plugin for WordPress cross-site request forgery (CVE-2024-31372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[Palo Alto Networks PAN-OS command execution (CVE-2024-3400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
- |[PHP security bypass (CVE-2024-3096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[PHP denial of service (CVE-2024-2757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[PHP security bypass (CVE-2024-2756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- |[Apache Solr Operator information disclosure (CVE-2024-31391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554" class="noirorange"><b>Dell OpenManage Integration with Microsoft Windows Admin Center</b>: privilege escalation via Gateway Plugin</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554)|An attacker can bypass restrictions of Dell OpenManage Integration with Microsoft Windows Admin Center, via Gateway Plugin, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553" class="noirorange"><b>Wind River VxWorks</b>: memory leak via OpenSSL Task / POSIX Thread</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553)|An attacker can create a memory leak of Wind River VxWorks, via OpenSSL Task / POSIX Thread, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Core HTML Parsing Module</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552)|An attacker can trigger a Cross Site Scripting of CKEditor, via Core HTML Parsing Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551" class="noirorange"><b>Engrampa</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551)|An attacker can traverse directories of Engrampa, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-did-set-langmap-43550" class="noirorange"><b>Vim</b>: buffer overflow via did_set_langmap()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-did-set-langmap-43550)|An attacker can trigger a buffer overflow of Vim, via did_set_langmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-Ubuntu-privilege-escalation-via-EDK2-UEFI-Shell-43548" class="noirorange"><b>Debian  Ubuntu</b>: privilege escalation via EDK2 UEFI Shell</a>](https://vigilance.fr/vulnerability/Debian-Ubuntu-privilege-escalation-via-EDK2-UEFI-Shell-43548)|An attacker can bypass restrictions of Debian  Ubuntu, via EDK2 UEFI Shell, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/EDK2-three-vulnerabilities-43547" class="noirorange"><b>EDK2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/EDK2-three-vulnerabilities-43547)|An attacker can use several vulnerabilities of EDK2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Header-Parser-43546" class="noirorange"><b>Squid</b>: denial of service via HTTP Header Parser</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Header-Parser-43546)|An attacker can cause a fatal error of Squid, via HTTP Header Parser, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-43545" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Captive Portal Authentication</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-43545)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Captive Portal Authentication, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-GlobalProtect-Portal-43544" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via GlobalProtect Portal</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-GlobalProtect-Portal-43544)|An attacker can trigger a Cross Site Scripting of PAN-OS, via GlobalProtect Portal, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -157,21 +144,34 @@
  |[2024-027: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-027/)|On March 12, 2024, Microsoft addressed 60 vulnerabilities in its March 2024 Patch Tuesday update, including 18 remote code execution (RCE) vulnerabilities.|Wednesday, March 13, 2024 04:10:17 PM CET|
  
 
-# CA-CCS
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[AL24-005 - Vulnerability impacting PAN-OS GlobalProtect Gateway](https://www.cyber.gc.ca/en/alerts-advisories/al24-005-vulnerability-impacting-pan-os-globalprotect-gateway)|Visit link for details|2024-04-12|
- |[Palo Alto Networks security advisory (AV24-198)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-198)|Visit link for details|2024-04-12|
- |[[Control systems] B&R security advisory (AV24-197)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-197)|Visit link for details|2024-04-11|
- |[Mitel security advisory (AV24-196)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-196)|Visit link for details|2024-04-11|
- |[Citrix security advisory (AV24-195)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-195)|Visit link for details|2024-04-11|
- |[Google Chrome security advisory (AV24-194)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-194)|Visit link for details|2024-04-10|
- |[Palo Alto Networks security advisory (AV24-193)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-193)|Visit link for details|2024-04-10|
- |[Microsoft security advisory – April 2024 monthly rollup (AV24-192)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2024-monthly-rollup-av24-192)|Visit link for details|2024-04-10|
- |[Adobe security advisory (AV24-191)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-191)|Visit link for details|2024-04-09|
- |[Fortinet security advisory (AV24-190)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-190)|Visit link for details|2024-04-09|
- |[SAP security advisory – April 2024 monthly rollup (AV24-189)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2024-monthly-rollup-av24-189)|Visit link for details|2024-04-09|
+ |[WP Event Aggregator Plugin for WordPress cross-site request forgery (CVE-2024-31371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[No-Bot Registration Plugin for WordPress cross-site request forgery (CVE-2024-31372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[Palo Alto Networks PAN-OS command execution (CVE-2024-3400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2024|
+ |[zauberzeug nicegui file include (CVE-2024-32005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[Netdata privilege escalation (CVE-2024-32019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[PHP security bypass (CVE-2024-3096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 46931504/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-12)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 15 avril 2024|
+ |[ 46921304/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os)| Une vulnérabilité critique a été corrigée dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de cette faille peut permettre à un attaquant non authentifié d'exécuter un code…| 13 avril 2024|
+ |[ 46910904/24 - Vulnérabilité critique dans IBM Personal Communications ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ibm-personal-communications)| Une vulnérabilité critique a été corrigée dans IBM Personal Communications. La vulnérabilité permet à tout utilisateur non privilégié disposant d'un accès réseau à un ordinateur cible d'exécuter des…| 09 avril 2024|
+ |[ 46900904/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas)| Une faille de sécurité critique a été découverte affectant les versions susmentionnées du D-Link NAS. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d'exécuter des…| 09 avril 2024|
+ |[ 46880804/24 - Vulnérabilités critiques dans JumpServer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jumpserver)| Deux vulnérabilités critiques ont été corrigées dans JumpServer, un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la maintenance. Les attaquants peuvent exploiter…| 08 avril 2024|
+ |[ 46870504/24 - Vulnérabilités dans Google Android et Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android-et-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques dans Google Android et Google Pixel. L’exploitation de ces…| 05 avril 2024|
+ |[ 46870404/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-14)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’accéder à…| 05 avril 2024|
+ |[ 46860404/24 - Vulnérabilités affectant Ivanti Connect Secure et Ivanti Policy Secure… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-connect-secure-et-ivanti-policy-secure-gateways)| Ivanti a publié des mises à jour de sécurité qui permettent de corriger quatres vulnérabilités critique affectant ses  produits affectant « Ivanti Connect Secure » et « Ivanti Policy Secure…| 04 avril 2024|
+ |[ 46850404/24 - Vulnérabilité affectant le plugin «WP-Members» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wp-members-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « WP-Members». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  de causer une injection de contenu…| 04 avril 2024|
+ |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
+ |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
  
 
 # ZERODAYINITIATIVE
@@ -188,19 +188,19 @@
  |[RARLAB WinRAR Mark-Of-The-Web Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-357/)|Visit link for details|2024-04-01|
  
 
-# MA-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[ 46921304/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os)| Une vulnérabilité critique a été corrigée dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de cette faille peut permettre à un attaquant non authentifié d'exécuter un code…| 13 avril 2024|
- |[ 46910904/24 - Vulnérabilité critique dans IBM Personal Communications ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ibm-personal-communications)| Une vulnérabilité critique a été corrigée dans IBM Personal Communications. La vulnérabilité permet à tout utilisateur non privilégié disposant d'un accès réseau à un ordinateur cible d'exécuter des…| 09 avril 2024|
- |[ 46900904/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas)| Une faille de sécurité critique a été découverte affectant les versions susmentionnées du D-Link NAS. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d'exécuter des…| 09 avril 2024|
- |[ 46880804/24 - Vulnérabilités critiques dans JumpServer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-jumpserver)| Deux vulnérabilités critiques ont été corrigées dans JumpServer, un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la maintenance. Les attaquants peuvent exploiter…| 08 avril 2024|
- |[ 46870504/24 - Vulnérabilités dans Google Android et Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-android-et-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques dans Google Android et Google Pixel. L’exploitation de ces…| 05 avril 2024|
- |[ 46870404/24 - Vulnérabilités affectant plusieurs produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-cisco-14)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’accéder à…| 05 avril 2024|
- |[ 46860404/24 - Vulnérabilités affectant Ivanti Connect Secure et Ivanti Policy Secure… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-connect-secure-et-ivanti-policy-secure-gateways)| Ivanti a publié des mises à jour de sécurité qui permettent de corriger quatres vulnérabilités critique affectant ses  produits affectant « Ivanti Connect Secure » et « Ivanti Policy Secure…| 04 avril 2024|
- |[ 46850404/24 - Vulnérabilité affectant le plugin «WP-Members» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wp-members-pour-wordpress)| Wordpress annonce la correction d’une vulnérabilité affectant le plugin « WP-Members». L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  de causer une injection de contenu…| 04 avril 2024|
- |[ 46840404/24 - Vulnérabilités dans VMware SD-WAN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-sd-wan)| VMware a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 04 avril 2024|
- |[ 46830404/24 - Vulnérabilité critique dans plugin «LayerSlider» de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-layerslider-de-wordpress)| Une vulnérabilité critique a été corrigée dans le plugin « LayerSlider» pour WordPress. L’exploitation de cette faille pourrait permettre à un attaquant d’injecter des commandes SQL pour récupérer des…| 04 avril 2024|
- |[ 46820304/24 - Vulnérabilité dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-palo-alto-networks)| Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto Networks. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des…| 03 avril 2024|
+ |[AL24-005 - Vulnerability impacting PAN-OS GlobalProtect Gateway](https://www.cyber.gc.ca/en/alerts-advisories/al24-005-vulnerability-impacting-pan-os-globalprotect-gateway)|Visit link for details|2024-04-12|
+ |[Palo Alto Networks security advisory (AV24-198)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-198)|Visit link for details|2024-04-12|
+ |[[Control systems] B&R security advisory (AV24-197)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-197)|Visit link for details|2024-04-11|
+ |[Mitel security advisory (AV24-196)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-196)|Visit link for details|2024-04-11|
+ |[Citrix security advisory (AV24-195)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-195)|Visit link for details|2024-04-11|
+ |[Google Chrome security advisory (AV24-194)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-194)|Visit link for details|2024-04-10|
+ |[Palo Alto Networks security advisory (AV24-193)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-193)|Visit link for details|2024-04-10|
+ |[Microsoft security advisory – April 2024 monthly rollup (AV24-192)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2024-monthly-rollup-av24-192)|Visit link for details|2024-04-10|
+ |[Adobe security advisory (AV24-191)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-191)|Visit link for details|2024-04-09|
+ |[Fortinet security advisory (AV24-190)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-190)|Visit link for details|2024-04-09|
+ |[SAP security advisory – April 2024 monthly rollup (AV24-189)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2024-monthly-rollup-av24-189)|Visit link for details|2024-04-09|
  
