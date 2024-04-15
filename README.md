@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/04/2024 09:31:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/04/2024 10:14:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,39 @@
  |[USN-6719-2: util-linux vulnerability](https://www.linux.org/threads/usn-6719-2-util-linux-vulnerability.49479/)|Visit link for details.|Apr 10, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Header-Parser-43546" class="noirorange"><b>Squid</b>: denial of service via HTTP Header Parser</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Header-Parser-43546)|An attacker can cause a fatal error of Squid, via HTTP Header Parser, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-43545" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Captive Portal Authentication</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-43545)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Captive Portal Authentication, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-GlobalProtect-Portal-43544" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via GlobalProtect Portal</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-GlobalProtect-Portal-43544)|An attacker can trigger a Cross Site Scripting of PAN-OS, via GlobalProtect Portal, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-ingress-filtrering-bypass-via-IP-Address-Verification-43543" class="noirorange"><b>PAN-OS</b>: ingress filtrering bypass via IP Address Verification</a>](https://vigilance.fr/vulnerability/PAN-OS-ingress-filtrering-bypass-via-IP-Address-Verification-43543)|An attacker can bypass filtering rules of PAN-OS, via IP Address Verification, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-user-access-via-Insufficient-Session-Expiration-43542" class="noirorange"><b>PAN-OS</b>: user access via Insufficient Session Expiration</a>](https://vigilance.fr/vulnerability/PAN-OS-user-access-via-Insufficient-Session-Expiration-43542)|An attacker can bypass restrictions of PAN-OS, via Insufficient Session Expiration, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Panorama-Web-Interface-43541" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Panorama Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Panorama-Web-Interface-43541)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Panorama Web Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-43540" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-43540)|An attacker can trigger a Cross Site Scripting of Centreon Web, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-information-disclosure-via-Configuration-users-Endpoint-43539" class="noirorange"><b>Centreon Web</b>: information disclosure via Configuration/users Endpoint</a>](https://vigilance.fr/vulnerability/Centreon-Web-information-disclosure-via-Configuration-users-Endpoint-43539)|An attacker can bypass access restrictions to data of Centreon Web, via Configuration/users Endpoint, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Tomcat-User-Post-Script-43537" class="noirorange"><b>SUSE</b>: privilege escalation via Tomcat User Post Script</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Tomcat-User-Post-Script-43537)|An attacker can bypass restrictions of SUSE, via Tomcat User Post Script, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Hugin-four-vulnerabilities-43536" class="noirorange"><b>Hugin</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Hugin-four-vulnerabilities-43536)|An attacker can use several vulnerabilities of Hugin...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Node.js - CVE-2024-27980](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27980-2024-04-12)|Visit link for details.|12/04/2024|
+ |[Microsoft WDAC SQL Server - CVE-2024-26214](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-wdac-sql-server-cve-2024-26214-2024-04-12)|Visit link for details.|12/04/2024|
+ |[Google Chrome - CVE-2024-3516](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3516-2024-04-12)|Visit link for details.|12/04/2024|
+ |[cURL / Juniper - CVE-2023-23914](https://www.cyberveille-sante.gouv.fr/alertes/curl-juniper-cve-2023-23914-2024-04-12)|Visit link for details.|12/04/2024|
+ |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|12/04/2024|
+ |[D-Link - CVE-2024-3272](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3272-2024-04-04)|Visit link for details.|12/04/2024|
+ |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|12/04/2024|
+ |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|12/04/2024|
+ |[strongSwan / Juniper - CVE-2023-41913](https://www.cyberveille-sante.gouv.fr/alertes/strongswan-juniper-cve-2023-41913-2024-04-11)|Visit link for details.|11/04/2024|
+ |[Microsoft - CVE-2024-26200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26200-2024-04-11)|Visit link for details.|11/04/2024|
+ |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -92,23 +125,6 @@
  |[Node.js Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/node-js-remote-code-execution-vulnerability_20240411)|A vulnerability has been identified in Node.js. A remote  attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Apr 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240411)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 11 Apr 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-04-11] Updated System / Technologies affected, ...| Release Date: 2 Apr 2024 |
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Node.js - CVE-2024-27980](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27980-2024-04-12)|Visit link for details.|12/04/2024|
- |[Microsoft WDAC SQL Server - CVE-2024-26214](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-wdac-sql-server-cve-2024-26214-2024-04-12)|Visit link for details.|12/04/2024|
- |[Google Chrome - CVE-2024-3516](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3516-2024-04-12)|Visit link for details.|12/04/2024|
- |[cURL / Juniper - CVE-2023-23914](https://www.cyberveille-sante.gouv.fr/alertes/curl-juniper-cve-2023-23914-2024-04-12)|Visit link for details.|12/04/2024|
- |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|12/04/2024|
- |[D-Link - CVE-2024-3272](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-3272-2024-04-04)|Visit link for details.|12/04/2024|
- |[Microsoft - CVE-2024-26199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26199-2024-03-15)|Visit link for details.|12/04/2024|
- |[Microsoft - CVE-2024-21400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21400-2024-03-18)|Visit link for details.|12/04/2024|
- |[strongSwan / Juniper - CVE-2023-41913](https://www.cyberveille-sante.gouv.fr/alertes/strongswan-juniper-cve-2023-41913-2024-04-11)|Visit link for details.|11/04/2024|
- |[Microsoft - CVE-2024-26200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26200-2024-04-11)|Visit link for details.|11/04/2024|
- |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|11/04/2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -153,22 +169,6 @@
  |[2023-092: Critical vulnerability in FortiSIEM](https://cert.europa.eu/publications/security-advisories/2023-092/)|On November 14, Fortinet released an advisory regarding a critical vulnerability affecting FortiSIEM which may allow a remote unauthenticated attacker to execute unauthorised commands via crafted API requests.|Tuesday, November 21, 2023 09:07:34 AM CET|
  |[2023-091: High Vulnerabilities in Citrix Hypervisor](https://cert.europa.eu/publications/security-advisories/2023-091/)|On November 15, 2023, Citrix issued an advisory regarding two vulnerabilities affecting Citrix Hypervisor 8.2 CU1 LTSR that could allow malicious code in a guest VM to compromise the host.|Monday, November 20, 2023 11:42:36 AM CET|
  |[2023-090: Microsoft Software Critical Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2023-090/)|On November 15, 2023, Microsoft released patches for 63 security flaws in its software, including five new zero-day vulnerabilities, three of which are actively exploited. These vulnerabilities pose significant risks and require immediate attention.|Monday, November 20, 2023 11:33:43 AM CET|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Header-Parser-43546" class="noirorange"><b>Squid</b>: denial of service via HTTP Header Parser</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Header-Parser-43546)|An attacker can cause a fatal error of Squid, via HTTP Header Parser, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-43545" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Captive Portal Authentication</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Captive-Portal-Authentication-43545)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Captive Portal Authentication, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-GlobalProtect-Portal-43544" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via GlobalProtect Portal</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-GlobalProtect-Portal-43544)|An attacker can trigger a Cross Site Scripting of PAN-OS, via GlobalProtect Portal, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-ingress-filtrering-bypass-via-IP-Address-Verification-43543" class="noirorange"><b>PAN-OS</b>: ingress filtrering bypass via IP Address Verification</a>](https://vigilance.fr/vulnerability/PAN-OS-ingress-filtrering-bypass-via-IP-Address-Verification-43543)|An attacker can bypass filtering rules of PAN-OS, via IP Address Verification, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-user-access-via-Insufficient-Session-Expiration-43542" class="noirorange"><b>PAN-OS</b>: user access via Insufficient Session Expiration</a>](https://vigilance.fr/vulnerability/PAN-OS-user-access-via-Insufficient-Session-Expiration-43542)|An attacker can bypass restrictions of PAN-OS, via Insufficient Session Expiration, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Panorama-Web-Interface-43541" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Panorama Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Panorama-Web-Interface-43541)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Panorama Web Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-43540" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-43540)|An attacker can trigger a Cross Site Scripting of Centreon Web, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-information-disclosure-via-Configuration-users-Endpoint-43539" class="noirorange"><b>Centreon Web</b>: information disclosure via Configuration/users Endpoint</a>](https://vigilance.fr/vulnerability/Centreon-Web-information-disclosure-via-Configuration-users-Endpoint-43539)|An attacker can bypass access restrictions to data of Centreon Web, via Configuration/users Endpoint, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Tomcat-User-Post-Script-43537" class="noirorange"><b>SUSE</b>: privilege escalation via Tomcat User Post Script</a>](https://vigilance.fr/vulnerability/SUSE-privilege-escalation-via-Tomcat-User-Post-Script-43537)|An attacker can bypass restrictions of SUSE, via Tomcat User Post Script, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Hugin-four-vulnerabilities-43536" class="noirorange"><b>Hugin</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Hugin-four-vulnerabilities-43536)|An attacker can use several vulnerabilities of Hugin...|Visit link for details|
  
 
 # CA-CCS
