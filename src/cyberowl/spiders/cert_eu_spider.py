@@ -25,7 +25,7 @@ class EUCERTSpider(scrapy.Spider):
 
     name = "EU-CERT"
     max_items = 10
-    start_urls = ["https://cert.europa.eu/publications/security-advisories/2023"]
+    start_urls = ["https://cert.europa.eu/publications/security-advisories/2024"]
     block_selector = "li.publications--list--item"
     link_selector = "descendant-or-self::a[contains(@class,'publications--list--item--link')]/@href"
     date_selector = ".//div[contains(@class,'publications--list--item--link--date')]/text()"
