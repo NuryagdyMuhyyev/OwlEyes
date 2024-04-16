@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/04/2024 21:21:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/04/2024 22:16:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,38 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
- |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/)|Une vulnérabilité a été découverte dans|Publié le 11 avril 2024|
- |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0297/)|De multiples vulnérabilités ont été découvertes dans Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 11 avril 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240416)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 16 Apr 2024 |
- |[Xen Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/xen-denial-of-service-vulnerability_20240415)|A vulnerability was identified in Xen. A remote attacker could exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 15 Apr 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240415)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and denial of service on the targeted system.|Release Date: 15 Apr 2024 |
- |[Palo Alto Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-products-remote-code-execution-vulnerability_20240415)|A vulnerability has been identified in Palo Alto Products. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system. Note: CVE-2024-3400 affected GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-...|Release Date: 15 Apr 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240412)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2024 |
- |[Palo Alto Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20240412)|Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
- |[Node.js Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/node-js-remote-code-execution-vulnerability_20240411)|A vulnerability has been identified in Node.js. A remote  attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Apr 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240411)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 11 Apr 2024 |
- 
 
 # US-CERT
 
@@ -94,6 +62,22 @@
  |[USN-6727-2: NSS regression](https://www.linux.org/threads/usn-6727-2-nss-regression.49496/)|Visit link for details.|Apr 11, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 avril 2024|
+ |[Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/)|Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -122,6 +106,22 @@
  |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|16/04/2024|
  |[Fortinet - CVE-2024-23671](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23671-2024-04-15)|Visit link for details.|15/04/2024|
  |[GitLab - CVE-2024-2279](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2279-2024-04-15)|Visit link for details.|15/04/2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240416)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 16 Apr 2024 |
+ |[Xen Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/xen-denial-of-service-vulnerability_20240415)|A vulnerability was identified in Xen. A remote attacker could exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 15 Apr 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240415)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and denial of service on the targeted system.|Release Date: 15 Apr 2024 |
+ |[Palo Alto Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-products-remote-code-execution-vulnerability_20240415)|A vulnerability has been identified in Palo Alto Products. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system. Note: CVE-2024-3400 affected GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-...|Release Date: 15 Apr 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240412)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2024 |
+ |[Palo Alto Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20240412)|Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
+ |[Node.js Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/node-js-remote-code-execution-vulnerability_20240411)|A vulnerability has been identified in Node.js. A remote  attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Apr 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240411)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 11 Apr 2024 |
  
 
 # ZERODAYINITIATIVE
