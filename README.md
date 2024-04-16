@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/04/2024 20:17:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/04/2024 21:21:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,56 +45,6 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5661-1 php8.2 - security update](https://www.linux.org/threads/dsa-5661-1-php8-2-security-update.49536/)|Visit link for details.|Apr 16, 2024|
- |[DSA-5660-1 php7.4 - security update](https://www.linux.org/threads/dsa-5660-1-php7-4-security-update.49535/)|Visit link for details.|Apr 16, 2024|
- |[USN-6734-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6734-1-libvirt-vulnerabilities.49532/)|Visit link for details.|Apr 15, 2024|
- |[USN-6733-1: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6733-1-gnutls-vulnerabilities.49531/)|Visit link for details.|Apr 15, 2024|
- |[USN-6732-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6732-1-webkitgtk-vulnerabilities.49530/)|Visit link for details.|Apr 15, 2024|
- |[USN-6731-1: YARD vulnerabilities](https://www.linux.org/threads/usn-6731-1-yard-vulnerabilities.49526/)|Visit link for details.|Apr 15, 2024|
- |[DSA-5659-1 trafficserver - security update](https://www.linux.org/threads/dsa-5659-1-trafficserver-security-update.49522/)|Visit link for details.|Apr 15, 2024|
- |[DSA-5658-1 linux - security update](https://www.linux.org/threads/dsa-5658-1-linux-security-update.49510/)|Visit link for details.|Apr 13, 2024|
- |[DSA-5657-1 xorg-server - security update](https://www.linux.org/threads/dsa-5657-1-xorg-server-security-update.49508/)|Visit link for details.|Apr 13, 2024|
- |[USN-6730-1: Apache Maven Shared Utils vulnerability](https://www.linux.org/threads/usn-6730-1-apache-maven-shared-utils-vulnerability.49498/)|Visit link for details.|Apr 12, 2024|
- |[USN-6727-2: NSS regression](https://www.linux.org/threads/usn-6727-2-nss-regression.49496/)|Visit link for details.|Apr 11, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper - CVE-2024-30407](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-30407-2024-04-16)|Visit link for details.|16/04/2024|
- |[GLPI - CVE-2024-31705](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-31705-2024-04-16)|Visit link for details.|16/04/2024|
- |[Combodo - CVE-2023-48710](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2023-48710-2024-04-16)|Visit link for details.|16/04/2024|
- |[Ivanti - CVE-2024-22052](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22052-2024-04-08)|Visit link for details.|16/04/2024|
- |[Spring - CVE-2024-22243](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22243-2024-02-23)|Visit link for details.|16/04/2024|
- |[Fortinet - CVE-2024-23671](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23671-2024-04-15)|Visit link for details.|15/04/2024|
- |[GitLab - CVE-2024-2279](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2279-2024-04-15)|Visit link for details.|15/04/2024|
- |[Juniper - CVE-2024-30381](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-30381-2024-04-15)|Visit link for details.|15/04/2024|
- |[Microsoft - CVE-2024-21323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21323-2024-04-15)|Visit link for details.|15/04/2024|
- |[QEMU - CVE-2024-3446](https://www.cyberveille-sante.gouv.fr/alertes/qemu-cve-2024-3446-2024-04-15)|Visit link for details.|15/04/2024|
- |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|15/04/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558" class="noirorange"><b>SnapCenter</b>: write access via System Logging Configuration Settings</a>](https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558)|An attacker can bypass access restrictions of SnapCenter, via System Logging Configuration Settings, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932" class="noirorange"><b>Suricata Engine</b>: vulnerability dated 01/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932)|A vulnerability of Suricata Engine, dated 01/04/2024, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927" class="noirorange"><b>Kanidm</b>: denial of service via Oauth2 Claim Maps</a>](https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927)|An attacker can cause a fatal error of Kanidm, via Oauth2 Claim Maps, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557" class="noirorange"><b>libuv</b>: ingress filtrering bypass via uv_getaddrinfo()</a>](https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557)|An attacker can bypass filtering rules of libuv, via uv_getaddrinfo(), in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/undici-vulnerability-43556" class="noirorange"><b>undici</b>: vulnerability</a>](https://vigilance.fr/vulnerability/undici-vulnerability-43556)|A vulnerability of undici was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555" class="noirorange"><b>Python Core</b>: use after free via deque_index_impl()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555)|An attacker can force the reuse of a freed memory area of Python Core, via deque_index_impl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554" class="noirorange"><b>Dell OpenManage Integration with Microsoft Windows Admin Center</b>: privilege escalation via Gateway Plugin</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554)|An attacker can bypass restrictions of Dell OpenManage Integration with Microsoft Windows Admin Center, via Gateway Plugin, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553" class="noirorange"><b>Wind River VxWorks</b>: memory leak via OpenSSL Task / POSIX Thread</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553)|An attacker can create a memory leak of Wind River VxWorks, via OpenSSL Task / POSIX Thread, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Core HTML Parsing Module</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552)|An attacker can trigger a Cross Site Scripting of CKEditor, via Core HTML Parsing Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551" class="noirorange"><b>Engrampa</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551)|An attacker can traverse directories of Engrampa, in order to write a file outside the service root path...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -127,6 +77,23 @@
  |[CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft)|Visit link for details.|Apr 11, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5661-1 php8.2 - security update](https://www.linux.org/threads/dsa-5661-1-php8-2-security-update.49536/)|Visit link for details.|Apr 16, 2024|
+ |[DSA-5660-1 php7.4 - security update](https://www.linux.org/threads/dsa-5660-1-php7-4-security-update.49535/)|Visit link for details.|Apr 16, 2024|
+ |[USN-6734-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6734-1-libvirt-vulnerabilities.49532/)|Visit link for details.|Apr 15, 2024|
+ |[USN-6733-1: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6733-1-gnutls-vulnerabilities.49531/)|Visit link for details.|Apr 15, 2024|
+ |[USN-6732-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6732-1-webkitgtk-vulnerabilities.49530/)|Visit link for details.|Apr 15, 2024|
+ |[USN-6731-1: YARD vulnerabilities](https://www.linux.org/threads/usn-6731-1-yard-vulnerabilities.49526/)|Visit link for details.|Apr 15, 2024|
+ |[DSA-5659-1 trafficserver - security update](https://www.linux.org/threads/dsa-5659-1-trafficserver-security-update.49522/)|Visit link for details.|Apr 15, 2024|
+ |[DSA-5658-1 linux - security update](https://www.linux.org/threads/dsa-5658-1-linux-security-update.49510/)|Visit link for details.|Apr 13, 2024|
+ |[DSA-5657-1 xorg-server - security update](https://www.linux.org/threads/dsa-5657-1-xorg-server-security-update.49508/)|Visit link for details.|Apr 13, 2024|
+ |[USN-6730-1: Apache Maven Shared Utils vulnerability](https://www.linux.org/threads/usn-6730-1-apache-maven-shared-utils-vulnerability.49498/)|Visit link for details.|Apr 12, 2024|
+ |[USN-6727-2: NSS regression](https://www.linux.org/threads/usn-6727-2-nss-regression.49496/)|Visit link for details.|Apr 11, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -138,6 +105,53 @@
  |[SourceCodester Cosmetics and Beauty Product Online Store cross-site scripting (CVE-2024-31651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
  |[NETGEAR RAX security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Spring - CVE-2024-22262](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22262-2024-04-16)|Visit link for details.|16/04/2024|
+ |[Juniper - CVE-2024-30407](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-30407-2024-04-16)|Visit link for details.|16/04/2024|
+ |[GLPI - CVE-2024-31705](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-31705-2024-04-16)|Visit link for details.|16/04/2024|
+ |[Combodo - CVE-2023-48710](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2023-48710-2024-04-16)|Visit link for details.|16/04/2024|
+ |[Ivanti - CVE-2024-22052](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22052-2024-04-08)|Visit link for details.|16/04/2024|
+ |[Spring - CVE-2024-22259](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22259-2024-03-18)|Visit link for details.|16/04/2024|
+ |[Spring - CVE-2024-22243](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22243-2024-02-23)|Visit link for details.|16/04/2024|
+ |[TP-Link - CVE-2023-49134](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2023-49134-2024-04-16)|Visit link for details.|16/04/2024|
+ |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|16/04/2024|
+ |[Fortinet - CVE-2024-23671](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23671-2024-04-15)|Visit link for details.|15/04/2024|
+ |[GitLab - CVE-2024-2279](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2279-2024-04-15)|Visit link for details.|15/04/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
+ |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
+ |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558" class="noirorange"><b>SnapCenter</b>: write access via System Logging Configuration Settings</a>](https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558)|An attacker can bypass access restrictions of SnapCenter, via System Logging Configuration Settings, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932" class="noirorange"><b>Suricata Engine</b>: vulnerability dated 01/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932)|A vulnerability of Suricata Engine, dated 01/04/2024, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927" class="noirorange"><b>Kanidm</b>: denial of service via Oauth2 Claim Maps</a>](https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927)|An attacker can cause a fatal error of Kanidm, via Oauth2 Claim Maps, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557" class="noirorange"><b>libuv</b>: ingress filtrering bypass via uv_getaddrinfo()</a>](https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557)|An attacker can bypass filtering rules of libuv, via uv_getaddrinfo(), in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/undici-vulnerability-43556" class="noirorange"><b>undici</b>: vulnerability</a>](https://vigilance.fr/vulnerability/undici-vulnerability-43556)|A vulnerability of undici was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555" class="noirorange"><b>Python Core</b>: use after free via deque_index_impl()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555)|An attacker can force the reuse of a freed memory area of Python Core, via deque_index_impl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554" class="noirorange"><b>Dell OpenManage Integration with Microsoft Windows Admin Center</b>: privilege escalation via Gateway Plugin</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554)|An attacker can bypass restrictions of Dell OpenManage Integration with Microsoft Windows Admin Center, via Gateway Plugin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553" class="noirorange"><b>Wind River VxWorks</b>: memory leak via OpenSSL Task / POSIX Thread</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553)|An attacker can create a memory leak of Wind River VxWorks, via OpenSSL Task / POSIX Thread, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Core HTML Parsing Module</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552)|An attacker can trigger a Cross Site Scripting of CKEditor, via Core HTML Parsing Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551" class="noirorange"><b>Engrampa</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551)|An attacker can traverse directories of Engrampa, in order to write a file outside the service root path...|Visit link for details|
  
 
 # EU-CERT
@@ -157,18 +171,21 @@
  |[2024-027: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-027/)|On March 12, 2024, Microsoft addressed 60 vulnerabilities in its March 2024 Patch Tuesday update, including 18 remote code execution (RCE) vulnerabilities.|Wednesday, March 13, 2024 04:10:17 PM CET|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
- |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
- |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[ 47011604/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-12)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 16 avril 2024|
+ |[ 47001504/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 15 avril 2024|
+ |[ 46991504/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité,…| 15 avril 2024|
+ |[ 46981504/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 15 avril 2024|
+ |[ 46971504/24 - Vulnérabilité dans Microsoft Office (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-office-patch-tuesday-avril-2024)| Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de cette vulnérabilité pourrait permettre à un attaquant…| 15 avril 2024|
+ |[ 46961504/24 - Vulnérabilités affectant plusieurs produits de Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-juniper)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  plusieurs versions de ses       produits susmentionnés.   Un attaquant distant  pourrait exploiter ces vulnérabilités  pour…| 15 avril 2024|
+ |[ 46951504/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-3)| Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données   …| 15 avril 2024|
+ |[ 46941504/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-6)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 15 avril 2024|
+ |[ 46931504/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-12)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 15 avril 2024|
+ |[ 46921304/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os)| Une vulnérabilité critique a été corrigée dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de cette faille peut permettre à un attaquant non authentifié d'exécuter un code…| 13 avril 2024|
+ |[ 46910904/24 - Vulnérabilité critique dans IBM Personal Communications ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ibm-personal-communications)| Une vulnérabilité critique a été corrigée dans IBM Personal Communications. La vulnérabilité permet à tout utilisateur non privilégié disposant d'un accès réseau à un ordinateur cible d'exécuter des…| 09 avril 2024|
  
 
 # CA-CCS
@@ -186,21 +203,4 @@
  |[IBM security advisory (AV24-199)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-199)|Visit link for details|2024-04-15|
  |[Palo Alto Networks security advisory (AV24-198)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-198)|Visit link for details|2024-04-12|
  |[[Control systems] B&R security advisory (AV24-197)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-197)|Visit link for details|2024-04-11|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47011604/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-12)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 16 avril 2024|
- |[ 47001504/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 15 avril 2024|
- |[ 46991504/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité,…| 15 avril 2024|
- |[ 46981504/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 15 avril 2024|
- |[ 46971504/24 - Vulnérabilité dans Microsoft Office (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-office-patch-tuesday-avril-2024)| Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de cette vulnérabilité pourrait permettre à un attaquant…| 15 avril 2024|
- |[ 46961504/24 - Vulnérabilités affectant plusieurs produits de Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-juniper)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  plusieurs versions de ses       produits susmentionnés.   Un attaquant distant  pourrait exploiter ces vulnérabilités  pour…| 15 avril 2024|
- |[ 46951504/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-3)| Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données   …| 15 avril 2024|
- |[ 46941504/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-6)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 15 avril 2024|
- |[ 46931504/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-12)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 15 avril 2024|
- |[ 46921304/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os)| Une vulnérabilité critique a été corrigée dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de cette faille peut permettre à un attaquant non authentifié d'exécuter un code…| 13 avril 2024|
- |[ 46910904/24 - Vulnérabilité critique dans IBM Personal Communications ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ibm-personal-communications)| Une vulnérabilité critique a été corrigée dans IBM Personal Communications. La vulnérabilité permet à tout utilisateur non privilégié disposant d'un accès réseau à un ordinateur cible d'exécuter des…| 09 avril 2024|
  
