@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/04/2024 12:18:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/04/2024 13:20:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0)|Visit link for details.|Apr 09, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 avril 2024|
- |[Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/)|Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -78,20 +62,20 @@
  |[USN-6727-2: NSS regression](https://www.linux.org/threads/usn-6727-2-nss-regression.49496/)|Visit link for details.|Apr 11, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557" class="noirorange"><b>libuv</b>: ingress filtrering bypass via uv_getaddrinfo()</a>](https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557)|An attacker can bypass filtering rules of libuv, via uv_getaddrinfo(), in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/undici-vulnerability-43556" class="noirorange"><b>undici</b>: vulnerability</a>](https://vigilance.fr/vulnerability/undici-vulnerability-43556)|A vulnerability of undici was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555" class="noirorange"><b>Python Core</b>: use after free via deque_index_impl()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555)|An attacker can force the reuse of a freed memory area of Python Core, via deque_index_impl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554" class="noirorange"><b>Dell OpenManage Integration with Microsoft Windows Admin Center</b>: privilege escalation via Gateway Plugin</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554)|An attacker can bypass restrictions of Dell OpenManage Integration with Microsoft Windows Admin Center, via Gateway Plugin, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553" class="noirorange"><b>Wind River VxWorks</b>: memory leak via OpenSSL Task / POSIX Thread</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553)|An attacker can create a memory leak of Wind River VxWorks, via OpenSSL Task / POSIX Thread, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Core HTML Parsing Module</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552)|An attacker can trigger a Cross Site Scripting of CKEditor, via Core HTML Parsing Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551" class="noirorange"><b>Engrampa</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551)|An attacker can traverse directories of Engrampa, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-did-set-langmap-43550" class="noirorange"><b>Vim</b>: buffer overflow via did_set_langmap()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-did-set-langmap-43550)|An attacker can trigger a buffer overflow of Vim, via did_set_langmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-Ubuntu-privilege-escalation-via-EDK2-UEFI-Shell-43548" class="noirorange"><b>Debian  Ubuntu</b>: privilege escalation via EDK2 UEFI Shell</a>](https://vigilance.fr/vulnerability/Debian-Ubuntu-privilege-escalation-via-EDK2-UEFI-Shell-43548)|An attacker can bypass restrictions of Debian  Ubuntu, via EDK2 UEFI Shell, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/EDK2-three-vulnerabilities-43547" class="noirorange"><b>EDK2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/EDK2-three-vulnerabilities-43547)|An attacker can use several vulnerabilities of EDK2...|Visit link for details|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 avril 2024|
+ |[Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/)|Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
  
 
 # CERT-SANTE
@@ -127,16 +111,32 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240411)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 11 Apr 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557" class="noirorange"><b>libuv</b>: ingress filtrering bypass via uv_getaddrinfo()</a>](https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557)|An attacker can bypass filtering rules of libuv, via uv_getaddrinfo(), in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/undici-vulnerability-43556" class="noirorange"><b>undici</b>: vulnerability</a>](https://vigilance.fr/vulnerability/undici-vulnerability-43556)|A vulnerability of undici was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555" class="noirorange"><b>Python Core</b>: use after free via deque_index_impl()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555)|An attacker can force the reuse of a freed memory area of Python Core, via deque_index_impl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554" class="noirorange"><b>Dell OpenManage Integration with Microsoft Windows Admin Center</b>: privilege escalation via Gateway Plugin</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554)|An attacker can bypass restrictions of Dell OpenManage Integration with Microsoft Windows Admin Center, via Gateway Plugin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553" class="noirorange"><b>Wind River VxWorks</b>: memory leak via OpenSSL Task / POSIX Thread</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553)|An attacker can create a memory leak of Wind River VxWorks, via OpenSSL Task / POSIX Thread, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Core HTML Parsing Module</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552)|An attacker can trigger a Cross Site Scripting of CKEditor, via Core HTML Parsing Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551" class="noirorange"><b>Engrampa</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551)|An attacker can traverse directories of Engrampa, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-did-set-langmap-43550" class="noirorange"><b>Vim</b>: buffer overflow via did_set_langmap()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-did-set-langmap-43550)|An attacker can trigger a buffer overflow of Vim, via did_set_langmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-Ubuntu-privilege-escalation-via-EDK2-UEFI-Shell-43548" class="noirorange"><b>Debian  Ubuntu</b>: privilege escalation via EDK2 UEFI Shell</a>](https://vigilance.fr/vulnerability/Debian-Ubuntu-privilege-escalation-via-EDK2-UEFI-Shell-43548)|An attacker can bypass restrictions of Debian  Ubuntu, via EDK2 UEFI Shell, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/EDK2-three-vulnerabilities-43547" class="noirorange"><b>EDK2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/EDK2-three-vulnerabilities-43547)|An attacker can use several vulnerabilities of EDK2...|Visit link for details|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[Oracle Database Server unspecified (CVE-2024-20903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[SourceCodester Cosmetics and Beauty Product Online Store cross-site scripting (CVE-2024-31651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[NETGEAR RAX security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
  |[Popup by Supsystic Plugin for WordPress security bypass (CVE-2024-31421)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
  |[Restrict Content Plugin for WordPress security bypass (CVE-2024-31432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
  |[WBSAirback code execution (CVE-2024-3787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[WBSAirback code execution (CVE-2024-3788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[WBSAirback denial of service (CVE-2024-3789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
