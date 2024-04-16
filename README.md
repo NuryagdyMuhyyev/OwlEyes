@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/04/2024 06:12:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/04/2024 07:24:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -111,10 +111,24 @@
  |[cURL / Juniper - CVE-2023-23914](https://www.cyberveille-sante.gouv.fr/alertes/curl-juniper-cve-2023-23914-2024-04-12)|Visit link for details.|12/04/2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Popup by Supsystic Plugin for WordPress security bypass (CVE-2024-31421)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[Restrict Content Plugin for WordPress security bypass (CVE-2024-31432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[WBSAirback code execution (CVE-2024-3787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[WBSAirback code execution (CVE-2024-3788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[WBSAirback denial of service (CVE-2024-3789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[WBSAirback cross-site scripting (CVE-2024-3790)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240416)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 16 Apr 2024 |
  |[Xen Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/xen-denial-of-service-vulnerability_20240415)|A vulnerability was identified in Xen. A remote attacker could exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 15 Apr 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240415)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and denial of service on the targeted system.|Release Date: 15 Apr 2024 |
  |[Palo Alto Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-products-remote-code-execution-vulnerability_20240415)|A vulnerability has been identified in Palo Alto Products. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system. Note: CVE-2024-3400 affected GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-...|Release Date: 15 Apr 2024 |
@@ -124,7 +138,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
  |[Node.js Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/node-js-remote-code-execution-vulnerability_20240411)|A vulnerability has been identified in Node.js. A remote  attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Apr 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240411)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 11 Apr 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-04-11] Updated System / Technologies affected, ...| Release Date: 2 Apr 2024 |
  
 
 # EU-CERT
@@ -142,19 +155,6 @@
  |[2024-029: Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2024-029/)|On March 19, 2024, Atlassian released a security advisory addressing 24 high and critical vulnerabilities, among which a critical severity vulnerability in Bamboo Data Center/Server and a high vulnerability in Confluence Data Center and Server.|Wednesday, March 20, 2024 01:48:33 PM CET|
  |[2024-028: Vulnerabilities in Fortinet Products](https://cert.europa.eu/publications/security-advisories/2024-028/)|On March 12, 2024, Fortinet released fixes for three vulnerabilities affecting some of their products. The vulnerabilities could allow an unauthenticated attacker to execute unauthorised code or commands via specifically crafted requests.|Thursday, March 14, 2024 05:49:32 PM CET|
  |[2024-027: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-027/)|On March 12, 2024, Microsoft addressed 60 vulnerabilities in its March 2024 Patch Tuesday update, including 18 remote code execution (RCE) vulnerabilities.|Wednesday, March 13, 2024 04:10:17 PM CET|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Popup by Supsystic Plugin for WordPress security bypass (CVE-2024-31421)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[Restrict Content Plugin for WordPress security bypass (CVE-2024-31432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[WBSAirback code execution (CVE-2024-3787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[WBSAirback code execution (CVE-2024-3788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[WBSAirback denial of service (CVE-2024-3789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[WBSAirback cross-site scripting (CVE-2024-3790)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
