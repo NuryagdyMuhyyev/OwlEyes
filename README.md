@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/04/2024 07:24:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/04/2024 08:19:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5661-1 php8.2 - security update](https://www.linux.org/threads/dsa-5661-1-php8-2-security-update.49536/)|Visit link for details.|Apr 16, 2024|
+ |[DSA-5660-1 php7.4 - security update](https://www.linux.org/threads/dsa-5660-1-php7-4-security-update.49535/)|Visit link for details.|Apr 16, 2024|
+ |[USN-6734-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6734-1-libvirt-vulnerabilities.49532/)|Visit link for details.|Apr 15, 2024|
+ |[USN-6733-1: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6733-1-gnutls-vulnerabilities.49531/)|Visit link for details.|Apr 15, 2024|
+ |[USN-6732-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6732-1-webkitgtk-vulnerabilities.49530/)|Visit link for details.|Apr 15, 2024|
+ |[USN-6731-1: YARD vulnerabilities](https://www.linux.org/threads/usn-6731-1-yard-vulnerabilities.49526/)|Visit link for details.|Apr 15, 2024|
+ |[DSA-5659-1 trafficserver - security update](https://www.linux.org/threads/dsa-5659-1-trafficserver-security-update.49522/)|Visit link for details.|Apr 15, 2024|
+ |[DSA-5658-1 linux - security update](https://www.linux.org/threads/dsa-5658-1-linux-security-update.49510/)|Visit link for details.|Apr 13, 2024|
+ |[DSA-5657-1 xorg-server - security update](https://www.linux.org/threads/dsa-5657-1-xorg-server-security-update.49508/)|Visit link for details.|Apr 13, 2024|
+ |[USN-6730-1: Apache Maven Shared Utils vulnerability](https://www.linux.org/threads/usn-6730-1-apache-maven-shared-utils-vulnerability.49498/)|Visit link for details.|Apr 12, 2024|
+ |[USN-6727-2: NSS regression](https://www.linux.org/threads/usn-6727-2-nss-regression.49496/)|Visit link for details.|Apr 11, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,21 @@
  |[Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/news-events/alerts/2024/04/09/adobe-releases-security-updates-multiple-products-0)|Visit link for details.|Apr 09, 2024|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5661-1 php8.2 - security update](https://www.linux.org/threads/dsa-5661-1-php8-2-security-update.49536/)|Visit link for details.|Apr 16, 2024|
- |[DSA-5660-1 php7.4 - security update](https://www.linux.org/threads/dsa-5660-1-php7-4-security-update.49535/)|Visit link for details.|Apr 16, 2024|
- |[USN-6734-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6734-1-libvirt-vulnerabilities.49532/)|Visit link for details.|Apr 15, 2024|
- |[USN-6733-1: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6733-1-gnutls-vulnerabilities.49531/)|Visit link for details.|Apr 15, 2024|
- |[USN-6732-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6732-1-webkitgtk-vulnerabilities.49530/)|Visit link for details.|Apr 15, 2024|
- |[USN-6731-1: YARD vulnerabilities](https://www.linux.org/threads/usn-6731-1-yard-vulnerabilities.49526/)|Visit link for details.|Apr 15, 2024|
- |[DSA-5659-1 trafficserver - security update](https://www.linux.org/threads/dsa-5659-1-trafficserver-security-update.49522/)|Visit link for details.|Apr 15, 2024|
- |[DSA-5658-1 linux - security update](https://www.linux.org/threads/dsa-5658-1-linux-security-update.49510/)|Visit link for details.|Apr 13, 2024|
- |[DSA-5657-1 xorg-server - security update](https://www.linux.org/threads/dsa-5657-1-xorg-server-security-update.49508/)|Visit link for details.|Apr 13, 2024|
- |[USN-6730-1: Apache Maven Shared Utils vulnerability](https://www.linux.org/threads/usn-6730-1-apache-maven-shared-utils-vulnerability.49498/)|Visit link for details.|Apr 12, 2024|
- |[USN-6727-2: NSS regression](https://www.linux.org/threads/usn-6727-2-nss-regression.49496/)|Visit link for details.|Apr 11, 2024|
+ |[Fortinet - CVE-2024-23671](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23671-2024-04-15)|Visit link for details.|15/04/2024|
+ |[GitLab - CVE-2024-2279](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2279-2024-04-15)|Visit link for details.|15/04/2024|
+ |[Juniper - CVE-2024-30381](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-30381-2024-04-15)|Visit link for details.|15/04/2024|
+ |[Microsoft - CVE-2024-21323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21323-2024-04-15)|Visit link for details.|15/04/2024|
+ |[QEMU - CVE-2024-3446](https://www.cyberveille-sante.gouv.fr/alertes/qemu-cve-2024-3446-2024-04-15)|Visit link for details.|15/04/2024|
+ |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|15/04/2024|
+ |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|15/04/2024|
+ |[Google Chrome - CVE-2024-3516](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3516-2024-04-12)|Visit link for details.|15/04/2024|
+ |[Node.js - CVE-2024-27980](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27980-2024-04-12)|Visit link for details.|12/04/2024|
+ |[Microsoft WDAC SQL Server - CVE-2024-26214](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-wdac-sql-server-cve-2024-26214-2024-04-12)|Visit link for details.|12/04/2024|
+ |[cURL / Juniper - CVE-2023-23914](https://www.cyberveille-sante.gouv.fr/alertes/curl-juniper-cve-2023-23914-2024-04-12)|Visit link for details.|12/04/2024|
  
 
 # CERT-FR
@@ -94,36 +111,6 @@
  |[<a href="https://vigilance.fr/vulnerability/EDK2-three-vulnerabilities-43547" class="noirorange"><b>EDK2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/EDK2-three-vulnerabilities-43547)|An attacker can use several vulnerabilities of EDK2...|Visit link for details|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet - CVE-2024-23671](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23671-2024-04-15)|Visit link for details.|15/04/2024|
- |[GitLab - CVE-2024-2279](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2279-2024-04-15)|Visit link for details.|15/04/2024|
- |[Juniper - CVE-2024-30381](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-30381-2024-04-15)|Visit link for details.|15/04/2024|
- |[Microsoft - CVE-2024-21323](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21323-2024-04-15)|Visit link for details.|15/04/2024|
- |[QEMU - CVE-2024-3446](https://www.cyberveille-sante.gouv.fr/alertes/qemu-cve-2024-3446-2024-04-15)|Visit link for details.|15/04/2024|
- |[Google Chrome - CVE-2024-3515](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3515-2024-04-11)|Visit link for details.|15/04/2024|
- |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|15/04/2024|
- |[Google Chrome - CVE-2024-3516](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3516-2024-04-12)|Visit link for details.|15/04/2024|
- |[Node.js - CVE-2024-27980](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-27980-2024-04-12)|Visit link for details.|12/04/2024|
- |[Microsoft WDAC SQL Server - CVE-2024-26214](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-wdac-sql-server-cve-2024-26214-2024-04-12)|Visit link for details.|12/04/2024|
- |[cURL / Juniper - CVE-2023-23914](https://www.cyberveille-sante.gouv.fr/alertes/curl-juniper-cve-2023-23914-2024-04-12)|Visit link for details.|12/04/2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Popup by Supsystic Plugin for WordPress security bypass (CVE-2024-31421)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[Restrict Content Plugin for WordPress security bypass (CVE-2024-31432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[WBSAirback code execution (CVE-2024-3787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[WBSAirback code execution (CVE-2024-3788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[WBSAirback denial of service (CVE-2024-3789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[WBSAirback cross-site scripting (CVE-2024-3790)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -155,6 +142,19 @@
  |[2024-029: Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2024-029/)|On March 19, 2024, Atlassian released a security advisory addressing 24 high and critical vulnerabilities, among which a critical severity vulnerability in Bamboo Data Center/Server and a high vulnerability in Confluence Data Center and Server.|Wednesday, March 20, 2024 01:48:33 PM CET|
  |[2024-028: Vulnerabilities in Fortinet Products](https://cert.europa.eu/publications/security-advisories/2024-028/)|On March 12, 2024, Fortinet released fixes for three vulnerabilities affecting some of their products. The vulnerabilities could allow an unauthenticated attacker to execute unauthorised code or commands via specifically crafted requests.|Thursday, March 14, 2024 05:49:32 PM CET|
  |[2024-027: Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-027/)|On March 12, 2024, Microsoft addressed 60 vulnerabilities in its March 2024 Patch Tuesday update, including 18 remote code execution (RCE) vulnerabilities.|Wednesday, March 13, 2024 04:10:17 PM CET|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Popup by Supsystic Plugin for WordPress security bypass (CVE-2024-31421)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[Restrict Content Plugin for WordPress security bypass (CVE-2024-31432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[WBSAirback code execution (CVE-2024-3787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[WBSAirback code execution (CVE-2024-3788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[WBSAirback denial of service (CVE-2024-3789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[WBSAirback cross-site scripting (CVE-2024-3790)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
