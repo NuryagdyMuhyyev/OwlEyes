@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/04/2024 00:13:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/04/2024 01:17:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
- |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
- |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
- |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
- |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
- |[Compromise of Sisense Customer Data](https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data)|Visit link for details.|Apr 11, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 11, 2024|
- |[CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft)|Visit link for details.|Apr 11, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +50,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/)|Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
  |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 avril 2024|
  |[Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/)|Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 avril 2024|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 avril 2024|
@@ -74,8 +60,22 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558" class="noirorange"><b>SnapCenter</b>: write access via System Logging Configuration Settings</a>](https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558)|An attacker can bypass access restrictions of SnapCenter, via System Logging Configuration Settings, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932" class="noirorange"><b>Suricata Engine</b>: vulnerability dated 01/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932)|A vulnerability of Suricata Engine, dated 01/04/2024, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927" class="noirorange"><b>Kanidm</b>: denial of service via Oauth2 Claim Maps</a>](https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927)|An attacker can cause a fatal error of Kanidm, via Oauth2 Claim Maps, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557" class="noirorange"><b>libuv</b>: ingress filtrering bypass via uv_getaddrinfo()</a>](https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557)|An attacker can bypass filtering rules of libuv, via uv_getaddrinfo(), in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/undici-vulnerability-43556" class="noirorange"><b>undici</b>: vulnerability</a>](https://vigilance.fr/vulnerability/undici-vulnerability-43556)|A vulnerability of undici was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555" class="noirorange"><b>Python Core</b>: use after free via deque_index_impl()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555)|An attacker can force the reuse of a freed memory area of Python Core, via deque_index_impl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554" class="noirorange"><b>Dell OpenManage Integration with Microsoft Windows Admin Center</b>: privilege escalation via Gateway Plugin</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554)|An attacker can bypass restrictions of Dell OpenManage Integration with Microsoft Windows Admin Center, via Gateway Plugin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553" class="noirorange"><b>Wind River VxWorks</b>: memory leak via OpenSSL Task / POSIX Thread</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553)|An attacker can create a memory leak of Wind River VxWorks, via OpenSSL Task / POSIX Thread, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Core HTML Parsing Module</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552)|An attacker can trigger a Cross Site Scripting of CKEditor, via Core HTML Parsing Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551" class="noirorange"><b>Engrampa</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551)|An attacker can traverse directories of Engrampa, in order to write a file outside the service root path...|Visit link for details|
  
 
 # CERT-SANTE
@@ -95,6 +95,22 @@
  |[GitLab - CVE-2024-2279](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2279-2024-04-15)|Visit link for details.|15/04/2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
+ |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
+ |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
+ |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
+ |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
+ |[Compromise of Sisense Customer Data](https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data)|Visit link for details.|Apr 11, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 11, 2024|
+ |[CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft)|Visit link for details.|Apr 11, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,22 +125,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
  |[Node.js Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/node-js-remote-code-execution-vulnerability_20240411)|A vulnerability has been identified in Node.js. A remote  attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 11 Apr 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240411)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 11 Apr 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558" class="noirorange"><b>SnapCenter</b>: write access via System Logging Configuration Settings</a>](https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558)|An attacker can bypass access restrictions of SnapCenter, via System Logging Configuration Settings, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932" class="noirorange"><b>Suricata Engine</b>: vulnerability dated 01/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932)|A vulnerability of Suricata Engine, dated 01/04/2024, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927" class="noirorange"><b>Kanidm</b>: denial of service via Oauth2 Claim Maps</a>](https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927)|An attacker can cause a fatal error of Kanidm, via Oauth2 Claim Maps, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557" class="noirorange"><b>libuv</b>: ingress filtrering bypass via uv_getaddrinfo()</a>](https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557)|An attacker can bypass filtering rules of libuv, via uv_getaddrinfo(), in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/undici-vulnerability-43556" class="noirorange"><b>undici</b>: vulnerability</a>](https://vigilance.fr/vulnerability/undici-vulnerability-43556)|A vulnerability of undici was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555" class="noirorange"><b>Python Core</b>: use after free via deque_index_impl()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555)|An attacker can force the reuse of a freed memory area of Python Core, via deque_index_impl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554" class="noirorange"><b>Dell OpenManage Integration with Microsoft Windows Admin Center</b>: privilege escalation via Gateway Plugin</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554)|An attacker can bypass restrictions of Dell OpenManage Integration with Microsoft Windows Admin Center, via Gateway Plugin, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553" class="noirorange"><b>Wind River VxWorks</b>: memory leak via OpenSSL Task / POSIX Thread</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553)|An attacker can create a memory leak of Wind River VxWorks, via OpenSSL Task / POSIX Thread, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Core HTML Parsing Module</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552)|An attacker can trigger a Cross Site Scripting of CKEditor, via Core HTML Parsing Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551" class="noirorange"><b>Engrampa</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551)|An attacker can traverse directories of Engrampa, in order to write a file outside the service root path...|Visit link for details|
  
 
 # EU-CERT
@@ -157,6 +157,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
+ |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
+ |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -172,20 +186,6 @@
  |[Ubuntu security advisory (AV24-202)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-202)|Visit link for details|2024-04-15|
  |[Red Hat security advisory (AV24-201)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-201)|Visit link for details|2024-04-15|
  |[[Control systems] CISA ICS security advisories (AV24-200)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-200)|Visit link for details|2024-04-15|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
- |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
- |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
  
 
 # MA-CERT
