@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/04/2024 21:22:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/04/2024 22:14:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,39 +62,6 @@
  |[USN-6734-1: libvirt vulnerabilities](https://www.linux.org/threads/usn-6734-1-libvirt-vulnerabilities.49532/)|Visit link for details.|Apr 15, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558" class="noirorange"><b>SnapCenter</b>: write access via System Logging Configuration Settings</a>](https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558)|An attacker can bypass access restrictions of SnapCenter, via System Logging Configuration Settings, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932" class="noirorange"><b>Suricata Engine</b>: vulnerability dated 01/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932)|A vulnerability of Suricata Engine, dated 01/04/2024, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927" class="noirorange"><b>Kanidm</b>: denial of service via Oauth2 Claim Maps</a>](https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927)|An attacker can cause a fatal error of Kanidm, via Oauth2 Claim Maps, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557" class="noirorange"><b>libuv</b>: ingress filtrering bypass via uv_getaddrinfo()</a>](https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557)|An attacker can bypass filtering rules of libuv, via uv_getaddrinfo(), in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/undici-vulnerability-43556" class="noirorange"><b>undici</b>: vulnerability</a>](https://vigilance.fr/vulnerability/undici-vulnerability-43556)|A vulnerability of undici was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555" class="noirorange"><b>Python Core</b>: use after free via deque_index_impl()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555)|An attacker can force the reuse of a freed memory area of Python Core, via deque_index_impl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554" class="noirorange"><b>Dell OpenManage Integration with Microsoft Windows Admin Center</b>: privilege escalation via Gateway Plugin</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554)|An attacker can bypass restrictions of Dell OpenManage Integration with Microsoft Windows Admin Center, via Gateway Plugin, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553" class="noirorange"><b>Wind River VxWorks</b>: memory leak via OpenSSL Task / POSIX Thread</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553)|An attacker can create a memory leak of Wind River VxWorks, via OpenSSL Task / POSIX Thread, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Core HTML Parsing Module</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552)|An attacker can trigger a Cross Site Scripting of CKEditor, via Core HTML Parsing Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551" class="noirorange"><b>Engrampa</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551)|An attacker can traverse directories of Engrampa, in order to write a file outside the service root path...|Visit link for details|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Oracle - CVE-2024-21112](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2024-21112-2024-04-17)|Visit link for details.|17/04/2024|
- |[Mozilla - CVE-2024-3853](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-3853-2024-04-17)|Visit link for details.|17/04/2024|
- |[Juniper - CVE-2024-21598](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21598-2024-04-17)|Visit link for details.|17/04/2024|
- |[Google - CVE-2024-3832](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-3832-2024-04-17)|Visit link for details.|17/04/2024|
- |[Combodo - CVE-2023-47626](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2023-47626-2024-04-17)|Visit link for details.|17/04/2024|
- |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|17/04/2024|
- |[Apache - CVE-2022-42889](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2022-42889-2023-04-27)|Visit link for details.|17/04/2024|
- |[Progress LoadMaster - CVE-2024-2448](https://www.cyberveille-sante.gouv.fr/alertes/progress-loadmaster-cve-2024-2448-2024-03-26)|Visit link for details.|17/04/2024|
- |[OpenVPN - CVE-2020-20813](https://www.cyberveille-sante.gouv.fr/alertes/openvpn-cve-2020-20813-2023-08-29)|Visit link for details.|17/04/2024|
- |[Spring - CVE-2024-22262](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22262-2024-04-16)|Visit link for details.|16/04/2024|
- |[Juniper - CVE-2024-30407](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-30407-2024-04-16)|Visit link for details.|16/04/2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -125,6 +92,23 @@
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240412)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2024 |
  |[Palo Alto Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20240412)|Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle - CVE-2024-21112](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2024-21112-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Mozilla - CVE-2024-3853](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-3853-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Juniper - CVE-2024-21598](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21598-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Google - CVE-2024-3832](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-3832-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Combodo - CVE-2023-47626](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2023-47626-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|17/04/2024|
+ |[Apache - CVE-2022-42889](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2022-42889-2023-04-27)|Visit link for details.|17/04/2024|
+ |[Progress LoadMaster - CVE-2024-2448](https://www.cyberveille-sante.gouv.fr/alertes/progress-loadmaster-cve-2024-2448-2024-03-26)|Visit link for details.|17/04/2024|
+ |[OpenVPN - CVE-2020-20813](https://www.cyberveille-sante.gouv.fr/alertes/openvpn-cve-2020-20813-2023-08-29)|Visit link for details.|17/04/2024|
+ |[Spring - CVE-2024-22262](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22262-2024-04-16)|Visit link for details.|16/04/2024|
+ |[Juniper - CVE-2024-30407](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-30407-2024-04-16)|Visit link for details.|16/04/2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -169,6 +153,22 @@
  |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
  |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
  |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558" class="noirorange"><b>SnapCenter</b>: write access via System Logging Configuration Settings</a>](https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558)|An attacker can bypass access restrictions of SnapCenter, via System Logging Configuration Settings, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932" class="noirorange"><b>Suricata Engine</b>: vulnerability dated 01/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932)|A vulnerability of Suricata Engine, dated 01/04/2024, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927" class="noirorange"><b>Kanidm</b>: denial of service via Oauth2 Claim Maps</a>](https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927)|An attacker can cause a fatal error of Kanidm, via Oauth2 Claim Maps, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557" class="noirorange"><b>libuv</b>: ingress filtrering bypass via uv_getaddrinfo()</a>](https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557)|An attacker can bypass filtering rules of libuv, via uv_getaddrinfo(), in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/undici-vulnerability-43556" class="noirorange"><b>undici</b>: vulnerability</a>](https://vigilance.fr/vulnerability/undici-vulnerability-43556)|A vulnerability of undici was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555" class="noirorange"><b>Python Core</b>: use after free via deque_index_impl()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555)|An attacker can force the reuse of a freed memory area of Python Core, via deque_index_impl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554" class="noirorange"><b>Dell OpenManage Integration with Microsoft Windows Admin Center</b>: privilege escalation via Gateway Plugin</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Integration-with-Microsoft-Windows-Admin-Center-privilege-escalation-via-Gateway-Plugin-43554)|An attacker can bypass restrictions of Dell OpenManage Integration with Microsoft Windows Admin Center, via Gateway Plugin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553" class="noirorange"><b>Wind River VxWorks</b>: memory leak via OpenSSL Task / POSIX Thread</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-memory-leak-via-OpenSSL-Task-POSIX-Thread-43553)|An attacker can create a memory leak of Wind River VxWorks, via OpenSSL Task / POSIX Thread, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Core HTML Parsing Module</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Core-HTML-Parsing-Module-43552)|An attacker can trigger a Cross Site Scripting of CKEditor, via Core HTML Parsing Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551" class="noirorange"><b>Engrampa</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Engrampa-directory-traversal-43551)|An attacker can traverse directories of Engrampa, in order to write a file outside the service root path...|Visit link for details|
  
 
 # CA-CCS
