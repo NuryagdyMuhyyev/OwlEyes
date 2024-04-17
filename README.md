@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/04/2024 07:26:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/04/2024 08:18:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
+ |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
+ |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
+ |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
+ |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
+ |[Compromise of Sisense Customer Data](https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data)|Visit link for details.|Apr 11, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 11, 2024|
+ |[CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft)|Visit link for details.|Apr 11, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,22 +62,6 @@
  |[USN-6733-1: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6733-1-gnutls-vulnerabilities.49531/)|Visit link for details.|Apr 15, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
- |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
- |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
- |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
- |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
- |[Compromise of Sisense Customer Data](https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data)|Visit link for details.|Apr 11, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 11, 2024|
- |[CISA Issues Emergency Directive 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-issues-emergency-directive-24-02-mitigating-significant-risk-nation-state-compromise-microsoft)|Visit link for details.|Apr 11, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,19 +76,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla Firefox denial of service (CVE-2024-3857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Mozilla Firefox code execution (CVE-2024-3854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Mozilla Firefox security bypass (CVE-2024-3852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Mozilla Firefox code execution (CVE-2024-3853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Google Chrome security bypass (CVE-2024-3847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Google Chrome security bypass (CVE-2024-3846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
@@ -157,18 +144,17 @@
  |[2024-029: Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2024-029/)|On March 19, 2024, Atlassian released a security advisory addressing 24 high and critical vulnerabilities, among which a critical severity vulnerability in Bamboo Data Center/Server and a high vulnerability in Confluence Data Center and Server.|Wednesday, March 20, 2024 01:48:33 PM CET|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
- |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
- |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ |[Mozilla Firefox denial of service (CVE-2024-3857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Mozilla Firefox code execution (CVE-2024-3854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Mozilla Firefox security bypass (CVE-2024-3852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Mozilla Firefox code execution (CVE-2024-3853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Google Chrome security bypass (CVE-2024-3847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Google Chrome security bypass (CVE-2024-3846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # MA-CERT
@@ -203,4 +189,18 @@
  |[Ubuntu security advisory (AV24-202)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-202)|Visit link for details|2024-04-15|
  |[Red Hat security advisory (AV24-201)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-201)|Visit link for details|2024-04-15|
  |[[Control systems] CISA ICS security advisories (AV24-200)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-200)|Visit link for details|2024-04-15|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
+ |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
+ |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
  
