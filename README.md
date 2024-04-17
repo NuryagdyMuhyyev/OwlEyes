@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/04/2024 08:18:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/04/2024 09:20:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -127,6 +127,19 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla Firefox code execution (CVE-2024-3865)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Mozilla Firefox code execution (CVE-2024-3864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Mozilla Firefox code execution (CVE-2024-3863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Mozilla Firefox code execution (CVE-2024-3862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Mozilla Firefox denial of service (CVE-2024-3302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Mozilla Firefox denial of service (CVE-2024-3860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -142,19 +155,6 @@
  |[2024-031: High Severity Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-031/)|On March 27, 2024, Cisco released security updates for fourteen (14) vulnerabilities affecting IOS, IOS XE and Cisco Access Point software. Six (6) high severity vulnerabilities with a CVSS score of 8.6, could allow an unauthenticated, remote attacker to cause denial of service on an affected device.|Friday, March 29, 2024 11:49:02 AM CET|
  |[2024-030: Critical Vulnerabilities in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-030/)|On March 20, 2024, Ivanti released fixes for two critical vulnerabilities affecting Ivanti Standalone Sentry and Ivanti Neurons for ITSM. According to Ivanti, there is no evidence of these vulnerabilities being exploited in the wild.|Thursday, March 21, 2024 10:19:02 AM CET|
  |[2024-029: Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2024-029/)|On March 19, 2024, Atlassian released a security advisory addressing 24 high and critical vulnerabilities, among which a critical severity vulnerability in Bamboo Data Center/Server and a high vulnerability in Confluence Data Center and Server.|Wednesday, March 20, 2024 01:48:33 PM CET|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla Firefox denial of service (CVE-2024-3857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Mozilla Firefox code execution (CVE-2024-3854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Mozilla Firefox security bypass (CVE-2024-3852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Mozilla Firefox code execution (CVE-2024-3853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Google Chrome security bypass (CVE-2024-3847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Google Chrome security bypass (CVE-2024-3846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # MA-CERT
