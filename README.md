@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/04/2024 01:17:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/04/2024 02:15:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0324/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Weblogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0323/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0322/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0321/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE . Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle VirtualBox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans Oracle VirtualBox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0319/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2024|
+ |[Vulnérabilité dans Cisco ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0317/)|Une vulnérabilité a été découverte dans Cisco ClamAV. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 avril 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,20 +78,21 @@
  |[DSA-5662-1 apache2 - security update](https://www.linux.org/threads/dsa-5662-1-apache2-security-update.49551/)|Visit link for details.|Apr 16, 2024|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/)|Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 avril 2024|
- |[Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/)|Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[SolarWinds - CVE-2024-28073](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28073-2024-04-18)|Visit link for details.|18/04/2024|
+ |[NetApp - CVE-2024-21989](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2024-21989-2024-04-18)|Visit link for details.|18/04/2024|
+ |[Ivanti - CVE-2024-29204](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29204-2024-04-18)|Visit link for details.|18/04/2024|
+ |[Ivanti - CVE-2024-24996](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-24996-2024-04-18)|Visit link for details.|18/04/2024|
+ |[Cisco - CVE-2024-20295](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20295-2024-04-18)|Visit link for details.|18/04/2024|
+ |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|18/04/2024|
+ |[Oracle - CVE-2024-21112](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2024-21112-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Mozilla - CVE-2024-3853](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-3853-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Juniper - CVE-2024-21598](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21598-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Google - CVE-2024-3832](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-3832-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Combodo - CVE-2023-47626](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2023-47626-2024-04-17)|Visit link for details.|17/04/2024|
  
 
 # OBS-Vigilance
@@ -108,23 +125,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240417)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, security restriction bypass and remote code execution on the targeted system. |Release Date: 17 Apr 2024 |
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240417)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted...|Release Date: 17 Apr 2024 |
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240416)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 16 Apr 2024 |
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2024-28073](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28073-2024-04-18)|Visit link for details.|18/04/2024|
- |[NetApp - CVE-2024-21989](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2024-21989-2024-04-18)|Visit link for details.|18/04/2024|
- |[Ivanti - CVE-2024-29204](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29204-2024-04-18)|Visit link for details.|18/04/2024|
- |[Ivanti - CVE-2024-24996](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-24996-2024-04-18)|Visit link for details.|18/04/2024|
- |[Cisco - CVE-2024-20295](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20295-2024-04-18)|Visit link for details.|18/04/2024|
- |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|18/04/2024|
- |[Oracle - CVE-2024-21112](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2024-21112-2024-04-17)|Visit link for details.|17/04/2024|
- |[Mozilla - CVE-2024-3853](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-3853-2024-04-17)|Visit link for details.|17/04/2024|
- |[Juniper - CVE-2024-21598](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21598-2024-04-17)|Visit link for details.|17/04/2024|
- |[Google - CVE-2024-3832](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-3832-2024-04-17)|Visit link for details.|17/04/2024|
- |[Combodo - CVE-2023-47626](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2023-47626-2024-04-17)|Visit link for details.|17/04/2024|
  
 
 # IBM-X-FORCE-EXCHANGE
