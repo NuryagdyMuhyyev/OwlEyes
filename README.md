@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/04/2024 23:21:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/04/2024 00:13:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6737-1: GNU C Library vulnerability](https://www.linux.org/threads/usn-6737-1-gnu-c-library-vulnerability.49569/)|Visit link for details.|Apr 18, 2024|
+ |[DSA-5665-1 tomcat10 - security update](https://www.linux.org/threads/dsa-5665-1-tomcat10-security-update.49564/)|Visit link for details.|Apr 18, 2024|
+ |[DSA-5664-1 jetty9 - security update](https://www.linux.org/threads/dsa-5664-1-jetty9-security-update.49563/)|Visit link for details.|Apr 18, 2024|
+ |[DSA-5663-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5663-1-firefox-esr-security-update.49562/)|Visit link for details.|Apr 17, 2024|
+ |[USN-6729-2: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-2-apache-http-server-vulnerabilities.49560/)|Visit link for details.|Apr 17, 2024|
+ |[USN-6726-3: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6726-3-linux-kernel-xilinx-zynqmp-vulnerabilities.49559/)|Visit link for details.|Apr 17, 2024|
+ |[USN-6726-2: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6726-2-linux-kernel-iot-vulnerabilities.49556/)|Visit link for details.|Apr 17, 2024|
+ |[USN-6725-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6725-2-linux-kernel-aws-vulnerabilities.49555/)|Visit link for details.|Apr 17, 2024|
+ |[USN-6724-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6724-2-linux-kernel-vulnerabilities.49554/)|Visit link for details.|Apr 17, 2024|
+ |[DSA-5655-2 cockpit - regression update](https://www.linux.org/threads/dsa-5655-2-cockpit-regression-update.49552/)|Visit link for details.|Apr 17, 2024|
+ |[DSA-5662-1 apache2 - security update](https://www.linux.org/threads/dsa-5662-1-apache2-security-update.49551/)|Visit link for details.|Apr 16, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -49,33 +66,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0324/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle Weblogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0323/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0322/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0321/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE . Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle VirtualBox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans Oracle VirtualBox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0319/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2024|
- |[Vulnérabilité dans Cisco ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0317/)|Une vulnérabilité a été découverte dans Cisco ClamAV. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 avril 2024|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6737-1: GNU C Library vulnerability](https://www.linux.org/threads/usn-6737-1-gnu-c-library-vulnerability.49569/)|Visit link for details.|Apr 18, 2024|
- |[DSA-5665-1 tomcat10 - security update](https://www.linux.org/threads/dsa-5665-1-tomcat10-security-update.49564/)|Visit link for details.|Apr 18, 2024|
- |[DSA-5664-1 jetty9 - security update](https://www.linux.org/threads/dsa-5664-1-jetty9-security-update.49563/)|Visit link for details.|Apr 18, 2024|
- |[DSA-5663-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5663-1-firefox-esr-security-update.49562/)|Visit link for details.|Apr 17, 2024|
- |[USN-6729-2: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-2-apache-http-server-vulnerabilities.49560/)|Visit link for details.|Apr 17, 2024|
- |[USN-6726-3: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6726-3-linux-kernel-xilinx-zynqmp-vulnerabilities.49559/)|Visit link for details.|Apr 17, 2024|
- |[USN-6726-2: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6726-2-linux-kernel-iot-vulnerabilities.49556/)|Visit link for details.|Apr 17, 2024|
- |[USN-6725-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6725-2-linux-kernel-aws-vulnerabilities.49555/)|Visit link for details.|Apr 17, 2024|
- |[USN-6724-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6724-2-linux-kernel-vulnerabilities.49554/)|Visit link for details.|Apr 17, 2024|
- |[DSA-5655-2 cockpit - regression update](https://www.linux.org/threads/dsa-5655-2-cockpit-regression-update.49552/)|Visit link for details.|Apr 17, 2024|
- |[DSA-5662-1 apache2 - security update](https://www.linux.org/threads/dsa-5662-1-apache2-security-update.49551/)|Visit link for details.|Apr 16, 2024|
+ |[Vulnérabilité dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/)|Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 avril 2024|
+ |[Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/)|Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
  
 
 # CERT-SANTE
@@ -127,33 +127,6 @@
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240416)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 16 Apr 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE Compute Scale-up Server information disclosure (CVE-2024-22440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
- |[Cisco Integrated Management Controller (IMC) Software command execution (CVE-2024-20295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
- |[Cisco Integrated Management Controller (IMC) Software command execution (CVE-2024-20356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
- |[Cisco IOS XE Software security bypass (CVE-2024-20373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
- |[Peplink Smart Reader information disclosure (CVE-2023-43491)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Peplink Smart Reader command execution (CVE-2023-39367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
- |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
- |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -171,21 +144,17 @@
  |[2024-032: Critical Vulnerability in XZ Utils](https://cert.europa.eu/publications/security-advisories/2024-032/)|[Updated] On March 29, several companies issued a warning regarding a backdoor found in the XZ Utils software. XZ Utils is a data compression software and may be present in Linux distributions. The malicious code may allow a Threat Actor, with the right authentication key, to achieve gated pre-auth RCE on affected systems.|Tuesday, April 02, 2024 06:31:14 PM CEST|
  
 
-# CA-CCS
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnerability impacting PAN-OS GlobalProtect Gateway - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/al24-005-vulnerability-impacting-pan-os-globalprotect-gateway)|Visit link for details|2024-04-17|
- |[Cisco security advisory (AV24-213)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-213)|Visit link for details|2024-04-17|
- |[Google Chrome security advisory (AV24-212)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-212)|Visit link for details|2024-04-17|
- |[Atlassian security advisory (AV24-211)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-211)|Visit link for details|2024-04-17|
- |[Oracle security advisory – April 2024 quarterly rollup (AV24-210)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-april-2024-quarterly-rollup-av24-210)|Visit link for details|2024-04-17|
- |[Mozilla security advisory (AV24-209)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-209)|Visit link for details|2024-04-16|
- |[PuTTY security advisory (AV24-208)](https://www.cyber.gc.ca/en/alerts-advisories/putty-security-advisory-av24-208)|Visit link for details|2024-04-16|
- |[Juniper security advisory (AV24-207)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-207)|Visit link for details|2024-04-16|
- |[[Control systems] B&R security advisory (AV24-206)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-206)|Visit link for details|2024-04-15|
- |[Dell security advisory (AV24-205)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-205)|Visit link for details|2024-04-15|
- |[HPE security advisory (AV24-204)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-204)|Visit link for details|2024-04-15|
+ |[HPE Compute Scale-up Server information disclosure (CVE-2024-22440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
+ |[Cisco Integrated Management Controller (IMC) Software command execution (CVE-2024-20295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
+ |[Cisco Integrated Management Controller (IMC) Software command execution (CVE-2024-20356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
+ |[Cisco IOS XE Software security bypass (CVE-2024-20373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
+ |[Peplink Smart Reader information disclosure (CVE-2023-43491)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Peplink Smart Reader command execution (CVE-2023-39367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # MA-CERT
@@ -202,4 +171,35 @@
  |[ 47001504/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 15 avril 2024|
  |[ 46991504/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité,…| 15 avril 2024|
  |[ 46981504/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 15 avril 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
+ |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
+ |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnerability impacting PAN-OS GlobalProtect Gateway - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/al24-005-vulnerability-impacting-pan-os-globalprotect-gateway)|Visit link for details|2024-04-17|
+ |[Cisco security advisory (AV24-213)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-213)|Visit link for details|2024-04-17|
+ |[Google Chrome security advisory (AV24-212)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-212)|Visit link for details|2024-04-17|
+ |[Atlassian security advisory (AV24-211)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-211)|Visit link for details|2024-04-17|
+ |[Oracle security advisory – April 2024 quarterly rollup (AV24-210)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-april-2024-quarterly-rollup-av24-210)|Visit link for details|2024-04-17|
+ |[Mozilla security advisory (AV24-209)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-209)|Visit link for details|2024-04-16|
+ |[PuTTY security advisory (AV24-208)](https://www.cyber.gc.ca/en/alerts-advisories/putty-security-advisory-av24-208)|Visit link for details|2024-04-16|
+ |[Juniper security advisory (AV24-207)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-207)|Visit link for details|2024-04-16|
+ |[[Control systems] B&R security advisory (AV24-206)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-206)|Visit link for details|2024-04-15|
+ |[Dell security advisory (AV24-205)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-205)|Visit link for details|2024-04-15|
+ |[HPE security advisory (AV24-204)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-204)|Visit link for details|2024-04-15|
  
