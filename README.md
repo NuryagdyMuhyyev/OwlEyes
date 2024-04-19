@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/04/2024 08:18:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/04/2024 09:19:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,22 @@
  |[DSA-5662-1 apache2 - security update](https://www.linux.org/threads/dsa-5662-1-apache2-security-update.49551/)|Visit link for details.|Apr 16, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0324/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Weblogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0323/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0322/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0321/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE . Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle VirtualBox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans Oracle VirtualBox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0319/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2024|
+ |[Vulnérabilité dans Cisco ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0317/)|Une vulnérabilité a été découverte dans Cisco ClamAV. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 avril 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +93,6 @@
  |[Juniper - CVE-2024-21598](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21598-2024-04-17)|Visit link for details.|17/04/2024|
  |[Google - CVE-2024-3832](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-3832-2024-04-17)|Visit link for details.|17/04/2024|
  |[Combodo - CVE-2023-47626](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2023-47626-2024-04-17)|Visit link for details.|17/04/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0315/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 17 avril 2024|
- |[Multiples vulnérabilités dans Ivanti Avalanche](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0314/)|De multiples vulnérabilités ont été découvertes dans Ivanti Avalanche. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 17 avril 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2024|
- |[Multiples vulnérabilités dans les produits Atlassian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0312/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0311/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2024|
- |[Vulnérabilité dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/)|Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 avril 2024|
- |[Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/)|Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 avril 2024|
  
 
 # OBS-Vigilance
@@ -111,19 +111,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927" class="noirorange"><b>Kanidm</b>: denial of service via Oauth2 Claim Maps</a>](https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927)|An attacker can cause a fatal error of Kanidm, via Oauth2 Claim Maps, in order to trigger a denial of service...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE Compute Scale-up Server information disclosure (CVE-2024-22440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
- |[Cisco Integrated Management Controller (IMC) Software command execution (CVE-2024-20295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
- |[Cisco Integrated Management Controller (IMC) Software command execution (CVE-2024-20356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
- |[Cisco IOS XE Software security bypass (CVE-2024-20373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
- |[Microsoft Authentication Library (MSAL) for .NET denial of service (CVE-2024-27086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[Peplink Smart Reader information disclosure (CVE-2023-43491)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -138,6 +125,33 @@
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 18 Apr 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240417)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, security restriction bypass and remote code execution on the targeted system. |Release Date: 17 Apr 2024 |
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240417)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted...|Release Date: 17 Apr 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE Compute Scale-up Server information disclosure (CVE-2024-22440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
+ |[Cisco Integrated Management Controller (IMC) Software command execution (CVE-2024-20295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
+ |[Cisco Integrated Management Controller (IMC) Software command execution (CVE-2024-20356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
+ |[Cisco IOS XE Software security bypass (CVE-2024-20373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
+ |[Apache Airflow information disclosure (CVE-2024-31869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[Metal3 Ironic Container security bypass (CVE-2024-31463)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
+ |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
+ |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
+ |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
  
 
 # EU-CERT
@@ -155,20 +169,6 @@
  |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  |[2024-032: Critical Vulnerability in XZ Utils](https://cert.europa.eu/publications/security-advisories/2024-032/)|[Updated] On March 29, several companies issued a warning regarding a backdoor found in the XZ Utils software. XZ Utils is a data compression software and may be present in Linux distributions. The malicious code may allow a Threat Actor, with the right authentication key, to achieve gated pre-auth RCE on affected systems.|Tuesday, April 02, 2024 06:31:14 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
- |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
- |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Internet Shortcut SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-361/)|Visit link for details|2024-04-09|
- |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
  
 
 # MA-CERT
