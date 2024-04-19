@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/04/2024 13:21:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/04/2024 14:18:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and Partners Release Advisory on Akira Ransomware](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware)|Visit link for details.|Apr 18, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
- |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
- |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
- |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
- |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,21 +46,20 @@
  |[DSA-5662-1 apache2 - security update](https://www.linux.org/threads/dsa-5662-1-apache2-security-update.49551/)|Visit link for details.|Apr 16, 2024|
  
 
-# CERT-SANTE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds - CVE-2024-28073](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28073-2024-04-18)|Visit link for details.|18/04/2024|
- |[NetApp - CVE-2024-21989](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2024-21989-2024-04-18)|Visit link for details.|18/04/2024|
- |[Ivanti - CVE-2024-29204](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29204-2024-04-18)|Visit link for details.|18/04/2024|
- |[Ivanti - CVE-2024-24996](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-24996-2024-04-18)|Visit link for details.|18/04/2024|
- |[Cisco - CVE-2024-20295](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20295-2024-04-18)|Visit link for details.|18/04/2024|
- |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|18/04/2024|
- |[Oracle - CVE-2024-21112](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2024-21112-2024-04-17)|Visit link for details.|17/04/2024|
- |[Mozilla - CVE-2024-3853](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-3853-2024-04-17)|Visit link for details.|17/04/2024|
- |[Juniper - CVE-2024-21598](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21598-2024-04-17)|Visit link for details.|17/04/2024|
- |[Google - CVE-2024-3832](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-3832-2024-04-17)|Visit link for details.|17/04/2024|
- |[Combodo - CVE-2023-47626](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2023-47626-2024-04-17)|Visit link for details.|17/04/2024|
+ |[CISA and Partners Release Advisory on Akira Ransomware](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware)|Visit link for details.|Apr 18, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
+ |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
+ |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
+ |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
+ |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/11/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2024|
  
 
 # CERT-FR
@@ -128,6 +111,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/quic-go-overload-via-PATH-CHALLENGE-Frames-43565" class="noirorange"><b>quic-go</b>: overload via PATH_CHALLENGE Frames</a>](https://vigilance.fr/vulnerability/quic-go-overload-via-PATH-CHALLENGE-Frames-43565)|An attacker can trigger an overload of quic-go, via PATH_CHALLENGE Frames, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-PCI-SRIOV-TOTAL-VF-43564" class="noirorange"><b>QEMU</b>: buffer overflow via register_vfs() PCI_SRIOV_TOTAL_VF</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-PCI-SRIOV-TOTAL-VF-43564)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via register_vfs() PCI_SRIOV_TOTAL_VF, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-TotalVFs-43563" class="noirorange"><b>QEMU</b>: buffer overflow via register_vfs() TotalVFs</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-TotalVFs-43563)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via register_vfs() TotalVFs, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789" class="noirorange"><b>Oracle Java</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787" class="noirorange"><b>Oracle VM VirtualBox</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787)|An attacker can use several vulnerabilities of Oracle VM VirtualBox...|Visit link for details|
@@ -135,9 +121,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-July-2023-41784" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-July-2023-41784)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-July-2023-41783" class="noirorange"><b>Oracle Database</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-July-2023-41783)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Qt-buffer-overflow-via-KTX-Images-43562" class="noirorange"><b>Qt</b>: buffer overflow via KTX Images</a>](https://vigilance.fr/vulnerability/Qt-buffer-overflow-via-KTX-Images-43562)|An attacker can trigger a buffer overflow of Qt, via KTX Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-integer-overflow-via-freerdp-bitmap-planar-context-reset-43560" class="noirorange"><b>FreeRDP</b>: integer overflow via freerdp_bitmap_planar_context_reset()</a>](https://vigilance.fr/vulnerability/FreeRDP-integer-overflow-via-freerdp-bitmap-planar-context-reset-43560)|An attacker can trigger an integer overflow of FreeRDP, via freerdp_bitmap_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-integer-overflow-via-mbedtls-x509-set-extension-43561" class="noirorange"><b>Mbed TLS</b>: integer overflow via mbedtls_x509_set_extension()</a>](https://vigilance.fr/vulnerability/Mbed-TLS-integer-overflow-via-mbedtls-x509-set-extension-43561)|An attacker can trigger an integer overflow of Mbed TLS, via mbedtls_x509_set_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781" class="noirorange"><b>Veritas NetBackup</b>: file upload via BPCD Process</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781)|An attacker can upload a malicious file on Veritas NetBackup, via BPCD Process, in order for example to upload a Trojan...|Visit link for details|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2024-28073](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28073-2024-04-18)|Visit link for details.|18/04/2024|
+ |[NetApp - CVE-2024-21989](https://www.cyberveille-sante.gouv.fr/alertes/netapp-cve-2024-21989-2024-04-18)|Visit link for details.|18/04/2024|
+ |[Ivanti - CVE-2024-29204](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29204-2024-04-18)|Visit link for details.|18/04/2024|
+ |[Ivanti - CVE-2024-24996](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-24996-2024-04-18)|Visit link for details.|18/04/2024|
+ |[Cisco - CVE-2024-20295](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20295-2024-04-18)|Visit link for details.|18/04/2024|
+ |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|18/04/2024|
+ |[Oracle - CVE-2024-21112](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2024-21112-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Mozilla - CVE-2024-3853](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-3853-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Juniper - CVE-2024-21598](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21598-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Google - CVE-2024-3832](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-3832-2024-04-17)|Visit link for details.|17/04/2024|
+ |[Combodo - CVE-2023-47626](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2023-47626-2024-04-17)|Visit link for details.|17/04/2024|
  
 
 # EU-CERT
@@ -171,6 +171,22 @@
  |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47081804/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-8)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 18 avril 2024|
+ |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
+ |[ 47061804/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’injecter des…| 18 avril 2024|
+ |[ 47051804/24 - "Oracle Critical Patch Update" du Mois Avril 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2024. L'exploitation de…| 18 avril 2024|
+ |[ 47041704/24 - Vulnérabilité dans SolarWinds Serv-U ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-serv-u-0)| Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.| 17 avril 2024|
+ |[ 47031704/24 - Vulnérabilités critiques dans Ivanti Avalanche ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-ivanti-avalanche)| Plusieurs vulnérabilités critiques ont été corrigées dans Ivanti Avalanche mobile device management (MDM), un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la…| 17 avril 2024|
+ |[ 47011604/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-12)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 16 avril 2024|
+ |[ 47001504/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 15 avril 2024|
+ |[ 46991504/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité,…| 15 avril 2024|
+ |[ 46981504/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 15 avril 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -186,20 +202,4 @@
  |[[Control systems] B&R security advisory (AV24-206)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-206)|Visit link for details|2024-04-15|
  |[Dell security advisory (AV24-205)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-205)|Visit link for details|2024-04-15|
  |[HPE security advisory (AV24-204)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-204)|Visit link for details|2024-04-15|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47081804/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-8)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 18 avril 2024|
- |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
- |[ 47061804/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’injecter des…| 18 avril 2024|
- |[ 47051804/24 - "Oracle Critical Patch Update" du Mois Avril 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2024. L'exploitation de…| 18 avril 2024|
- |[ 47041704/24 - Vulnérabilité dans SolarWinds Serv-U ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-serv-u-0)| Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.| 17 avril 2024|
- |[ 47031704/24 - Vulnérabilités critiques dans Ivanti Avalanche ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-ivanti-avalanche)| Plusieurs vulnérabilités critiques ont été corrigées dans Ivanti Avalanche mobile device management (MDM), un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la…| 17 avril 2024|
- |[ 47011604/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-12)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 16 avril 2024|
- |[ 47001504/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 15 avril 2024|
- |[ 46991504/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité,…| 15 avril 2024|
- |[ 46981504/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 15 avril 2024|
  
