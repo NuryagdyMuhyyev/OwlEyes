@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/04/2024 21:23:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/04/2024 22:15:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0315/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 17 avril 2024|
+ |[Multiples vulnérabilités dans Ivanti Avalanche](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0314/)|De multiples vulnérabilités ont été découvertes dans Ivanti Avalanche. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 17 avril 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2024|
+ |[Multiples vulnérabilités dans les produits Atlassian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0312/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2024|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0311/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2024|
+ |[Vulnérabilité dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/)|Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
+ |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 avril 2024|
+ |[Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/)|Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 avril 2024|
+ 
 
 # US-CERT
 
@@ -79,22 +95,6 @@
  |[Ivanti - CVE-2024-29204](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29204-2024-04-18)|Visit link for details.|18/04/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0324/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle Weblogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0323/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0322/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0321/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE . Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle VirtualBox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans Oracle VirtualBox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0319/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2024|
- |[Vulnérabilité dans Cisco ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0317/)|Une vulnérabilité a été découverte dans Cisco ClamAV. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 avril 2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -109,8 +109,8 @@
  |[Microsoft Edge for Android (Chromium-based) information disclosure (CVE-2024-29986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
  |[Microsoft Edge (Chromium-based) information disclosure (CVE-2024-29987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
  |[IBM Aspera Faspex privilege escalation (CVE-2023-37400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[Silicon Labs Gecko Platform denial of service (CVE-2023-51391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
- |[Unitronics Vision Series PLCs information disclosure (CVE-2024-1480)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2024|
+ |[IBM Aspera Faspex information disclosure (CVE-2023-37396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[IBM Aspera Faspex information disclosure (CVE-2023-22869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
@@ -144,6 +144,23 @@
  |[JetBrains TeamCity AgentDistributionSettingsController Cross-Site Scripting Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-360/)|Visit link for details|2024-04-01|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti security advisory (AV24-215)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-215)|Visit link for details|2024-04-19|
+ |[Microsoft Edge security advisory (AV24-214)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-214)|Visit link for details|2024-04-19|
+ |[Vulnerability impacting PAN-OS GlobalProtect Gateway - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/al24-005-vulnerability-impacting-pan-os-globalprotect-gateway)|Visit link for details|2024-04-17|
+ |[Cisco security advisory (AV24-213)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-213)|Visit link for details|2024-04-17|
+ |[Google Chrome security advisory (AV24-212)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-212)|Visit link for details|2024-04-17|
+ |[Atlassian security advisory (AV24-211)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-211)|Visit link for details|2024-04-17|
+ |[Oracle security advisory – April 2024 quarterly rollup (AV24-210)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-april-2024-quarterly-rollup-av24-210)|Visit link for details|2024-04-17|
+ |[Mozilla security advisory (AV24-209)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-209)|Visit link for details|2024-04-16|
+ |[PuTTY security advisory (AV24-208)](https://www.cyber.gc.ca/en/alerts-advisories/putty-security-advisory-av24-208)|Visit link for details|2024-04-16|
+ |[Juniper security advisory (AV24-207)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-207)|Visit link for details|2024-04-16|
+ |[[Control systems] B&R security advisory (AV24-206)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-206)|Visit link for details|2024-04-15|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -175,21 +192,4 @@
  |[ 47011604/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-12)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 16 avril 2024|
  |[ 47001504/24 - Vulnérabilités critiques dans plusieurs produits Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une…| 15 avril 2024|
  |[ 46991504/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, une usurpation d’identité,…| 15 avril 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti security advisory (AV24-215)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-215)|Visit link for details|2024-04-19|
- |[Microsoft Edge security advisory (AV24-214)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-214)|Visit link for details|2024-04-19|
- |[Vulnerability impacting PAN-OS GlobalProtect Gateway - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/al24-005-vulnerability-impacting-pan-os-globalprotect-gateway)|Visit link for details|2024-04-17|
- |[Cisco security advisory (AV24-213)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-213)|Visit link for details|2024-04-17|
- |[Google Chrome security advisory (AV24-212)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-212)|Visit link for details|2024-04-17|
- |[Atlassian security advisory (AV24-211)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-211)|Visit link for details|2024-04-17|
- |[Oracle security advisory – April 2024 quarterly rollup (AV24-210)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-april-2024-quarterly-rollup-av24-210)|Visit link for details|2024-04-17|
- |[Mozilla security advisory (AV24-209)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-209)|Visit link for details|2024-04-16|
- |[PuTTY security advisory (AV24-208)](https://www.cyber.gc.ca/en/alerts-advisories/putty-security-advisory-av24-208)|Visit link for details|2024-04-16|
- |[Juniper security advisory (AV24-207)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-207)|Visit link for details|2024-04-16|
- |[[Control systems] B&R security advisory (AV24-206)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-206)|Visit link for details|2024-04-15|
  
