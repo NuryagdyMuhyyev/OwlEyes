@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/04/2024 08:18:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/04/2024 09:21:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans les produits Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0330/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0329/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Vulnérabilité dans Citrix uberAgent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0328/)|Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -76,6 +60,22 @@
  |[DSA-5665-1 tomcat10 - security update](https://www.linux.org/threads/dsa-5665-1-tomcat10-security-update.49564/)|Visit link for details.|Apr 18, 2024|
  |[DSA-5664-1 jetty9 - security update](https://www.linux.org/threads/dsa-5664-1-jetty9-security-update.49563/)|Visit link for details.|Apr 18, 2024|
  |[DSA-5663-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5663-1-firefox-esr-security-update.49562/)|Visit link for details.|Apr 17, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0324/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Weblogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0323/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0322/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0321/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE . Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle VirtualBox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans Oracle VirtualBox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0319/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2024|
+ |[Vulnérabilité dans Cisco ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0317/)|Une vulnérabilité a été découverte dans Cisco ClamAV. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 avril 2024|
  
 
 # CERT-SANTE
@@ -101,19 +101,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge (Chromium-based) security bypass (CVE-2024-29991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2024|
- |[Flatpak code execution (CVE-2024-32462)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[SolarWinds Platform SWQL injection (CVE-2024-29001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[SolarWinds Platform cross-site scripting (CVE-2024-29003)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[Microsoft Edge for Android (Chromium-based) information disclosure (CVE-2024-29986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[Microsoft Edge (Chromium-based) information disclosure (CVE-2024-29987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -128,6 +115,19 @@
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 18 Apr 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240417)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, security restriction bypass and remote code execution on the targeted system. |Release Date: 17 Apr 2024 |
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240417)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted...|Release Date: 17 Apr 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge (Chromium-based) security bypass (CVE-2024-29991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2024|
+ |[Flatpak code execution (CVE-2024-32462)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[SolarWinds Platform SWQL injection (CVE-2024-29001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[SolarWinds Platform cross-site scripting (CVE-2024-29003)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[Microsoft Edge for Android (Chromium-based) information disclosure (CVE-2024-29986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[Microsoft Edge (Chromium-based) information disclosure (CVE-2024-29987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
