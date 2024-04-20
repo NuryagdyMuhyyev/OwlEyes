@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/04/2024 10:15:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/04/2024 11:20:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,16 +66,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/)|Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 avril 2024|
- |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 avril 2024|
- |[Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/)|Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans les produits Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0330/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0329/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Vulnérabilité dans Citrix uberAgent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0328/)|Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
  
 
 # CERT-SANTE
@@ -122,11 +122,11 @@
  |Title|Description|Date|
  |---|---|---|
  |[Microsoft Edge (Chromium-based) security bypass (CVE-2024-29991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2024|
+ |[GStreamer buffer overflow (CVE-2023-50186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[LINE Armeria security bypass (CVE-2024-1735)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
  |[Flatpak code execution (CVE-2024-32462)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
  |[SolarWinds Platform SWQL injection (CVE-2024-29001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
  |[SolarWinds Platform cross-site scripting (CVE-2024-29003)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[Microsoft Edge for Android (Chromium-based) information disclosure (CVE-2024-29986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[Microsoft Edge (Chromium-based) information disclosure (CVE-2024-29987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
