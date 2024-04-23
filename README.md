@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/04/2024 04:17:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/04/2024 06:13:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases Security Advisories for Cisco Integrated Management Controller](https://www.cisa.gov/news-events/alerts/2024/04/19/cisco-releases-security-advisories-cisco-integrated-management-controller)|Visit link for details.|Apr 19, 2024|
+ |[CISA and Partners Release Advisory on Akira Ransomware](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware)|Visit link for details.|Apr 18, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
+ |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
+ |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
+ |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
+ |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,38 +66,29 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Synacor Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)|Publié le 22 avril 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[[SCADA] Vulnérabilité dans Siemens RUGGEDCOM APE1808](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0338/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans|Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
- |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0335/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  |[Multiples vulnérabilités dans les produits Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0330/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0329/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Vulnérabilité dans Citrix uberAgent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0328/)|Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
  
 
-# US-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco Releases Security Advisories for Cisco Integrated Management Controller](https://www.cisa.gov/news-events/alerts/2024/04/19/cisco-releases-security-advisories-cisco-integrated-management-controller)|Visit link for details.|Apr 19, 2024|
- |[CISA and Partners Release Advisory on Akira Ransomware](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware)|Visit link for details.|Apr 18, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
- |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
- |[Palo Alto Networks Releases Guidance for Vulnerability in PAN-OS, CVE-2024-3400](https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400)|Visit link for details.|Apr 12, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/12/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 12, 2024|
- |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/04/12/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Apr 12, 2024|
- |[Juniper Releases Security Bulletin for Multiple Juniper Products](https://www.cisa.gov/news-events/alerts/2024/04/12/juniper-releases-security-bulletin-multiple-juniper-products)|Visit link for details.|Apr 12, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[Microsoft Edge (Chromium-based) security bypass (CVE-2024-29991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2024|
+ |[Apache Answer cross-site scripting (CVE-2024-29217)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[Apache Airflow FTP Provider security bypass (CVE-2024-29733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[Rustls denial of service (CVE-2024-32650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[Arm Mali GPU Kernel Driver security bypass (CVE-2024-1065)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[Arm Mali GPU Kernel Driver security bypass (CVE-2024-0671)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # CERT-SANTE
@@ -117,6 +124,26 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240417)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, security restriction bypass and remote code execution on the targeted system. |Release Date: 17 Apr 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google cAdvisor REST API Improper Access Control Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-369/)|Visit link for details|2024-04-22|
+ |[GStreamer AV1 Video Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-368/)|Visit link for details|2024-04-19|
+ |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
+ |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
+ |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
+ |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
+ |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -132,35 +159,6 @@
  |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  |[2024-032: Critical Vulnerability in XZ Utils](https://cert.europa.eu/publications/security-advisories/2024-032/)|[Updated] On March 29, several companies issued a warning regarding a backdoor found in the XZ Utils software. XZ Utils is a data compression software and may be present in Linux distributions. The malicious code may allow a Threat Actor, with the right authentication key, to achieve gated pre-auth RCE on affected systems.|Tuesday, April 02, 2024 06:31:14 PM CEST|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge (Chromium-based) security bypass (CVE-2024-29991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2024|
- |[Apache Answer cross-site scripting (CVE-2024-29217)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[Apache Airflow FTP Provider security bypass (CVE-2024-29733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[Rustls denial of service (CVE-2024-32650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[Arm Mali GPU Kernel Driver security bypass (CVE-2024-1065)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[Arm Mali GPU Kernel Driver security bypass (CVE-2024-0671)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47122204/24 - Vulnérabilité affectant Confluence Data Center and Confluence Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-confluence-data-center-and-confluence-server)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.  L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du     code…| 22 avril 2024|
- |[ 47112204/24 - Vulnérabilité « Zero-day » affectant CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-zero-day-affectant-crushftp)| Un « Zero-day » critique affectant  les versions susmentionnées de CrushFTP a été corrigé. Cette  vulnérabilité  est activement exploitée et elle peut   permettre à un attaquant distant non…| 22 avril 2024|
- |[ 47102204/24 - Vulnérabilités critiques affectant le plugin «Forminator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-forminator-pour-wordpress)| Wordpress annonce la correction de trois vulnérabilités critiques affectant le plugin « Forminator». L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code SQL,…| 22 avril 2024|
- |[ 47091804/24 - Vulnérabilité critique affectant PuTTy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-putty)| Une vulnérabilité critique affecte les versions susmentionnées de PuTTY. L’exploitation de cette  vulnérabilité peut   permettre à un attaquant distant d’obtenir les clés privées de la victime et de…| 19 avril 2024|
- |[ 47081804/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-8)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 18 avril 2024|
- |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
- |[ 47061804/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’injecter des…| 18 avril 2024|
- |[ 47051804/24 - "Oracle Critical Patch Update" du Mois Avril 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2024. L'exploitation de…| 18 avril 2024|
- |[ 47041704/24 - Vulnérabilité dans SolarWinds Serv-U ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-serv-u-0)| Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.| 17 avril 2024|
- |[ 47031704/24 - Vulnérabilités critiques dans Ivanti Avalanche ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-ivanti-avalanche)| Plusieurs vulnérabilités critiques ont été corrigées dans Ivanti Avalanche mobile device management (MDM), un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la…| 17 avril 2024|
  
 
 # CA-CCS
@@ -180,16 +178,18 @@
  |[Oracle security advisory – April 2024 quarterly rollup (AV24-210)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-april-2024-quarterly-rollup-av24-210)|Visit link for details|2024-04-17|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Google cAdvisor REST API Improper Access Control Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-369/)|Visit link for details|2024-04-22|
- |[GStreamer AV1 Video Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-368/)|Visit link for details|2024-04-19|
- |[(Pwn2Own) Google Chrome V8 Enum Cache Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-367/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Google Chrome WASM Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-366/)|Visit link for details|2024-04-15|
- |[(Pwn2Own) Microsoft Edge DOMArrayBuffer Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-365/)|Visit link for details|2024-04-15|
- |[Arista NG Firewall ReportEntry SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-364/)|Visit link for details|2024-04-09|
- |[Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-363/)|Visit link for details|2024-04-09|
- |[Microsoft Azure Private 5G Core InitialUEMessage Improper Input Validation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-362/)|Visit link for details|2024-04-09|
+ |[ 47122204/24 - Vulnérabilité affectant Confluence Data Center and Confluence Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-confluence-data-center-and-confluence-server)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.  L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du     code…| 22 avril 2024|
+ |[ 47112204/24 - Vulnérabilité « Zero-day » affectant CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-zero-day-affectant-crushftp)| Un « Zero-day » critique affectant  les versions susmentionnées de CrushFTP a été corrigé. Cette  vulnérabilité  est activement exploitée et elle peut   permettre à un attaquant distant non…| 22 avril 2024|
+ |[ 47102204/24 - Vulnérabilités critiques affectant le plugin «Forminator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-forminator-pour-wordpress)| Wordpress annonce la correction de trois vulnérabilités critiques affectant le plugin « Forminator». L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code SQL,…| 22 avril 2024|
+ |[ 47091804/24 - Vulnérabilité critique affectant PuTTy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-putty)| Une vulnérabilité critique affecte les versions susmentionnées de PuTTY. L’exploitation de cette  vulnérabilité peut   permettre à un attaquant distant d’obtenir les clés privées de la victime et de…| 19 avril 2024|
+ |[ 47081804/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-8)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 18 avril 2024|
+ |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
+ |[ 47061804/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’injecter des…| 18 avril 2024|
+ |[ 47051804/24 - "Oracle Critical Patch Update" du Mois Avril 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2024. L'exploitation de…| 18 avril 2024|
+ |[ 47041704/24 - Vulnérabilité dans SolarWinds Serv-U ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-serv-u-0)| Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.| 17 avril 2024|
+ |[ 47031704/24 - Vulnérabilités critiques dans Ivanti Avalanche ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-ivanti-avalanche)| Plusieurs vulnérabilités critiques ont été corrigées dans Ivanti Avalanche mobile device management (MDM), un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la…| 17 avril 2024|
  
