@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/04/2024 10:15:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/04/2024 11:24:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,22 +62,6 @@
  |[DSA-5667-1 tomcat9 - security update](https://www.linux.org/threads/dsa-5667-1-tomcat9-security-update.49585/)|Visit link for details.|Apr 20, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans les produits Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0330/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0329/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Vulnérabilité dans Citrix uberAgent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0328/)|Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
- |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,6 +78,12 @@
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 18 Apr 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -105,12 +95,6 @@
  |[Apache Airflow FTP Provider security bypass (CVE-2024-29733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
  |[Rustls denial of service (CVE-2024-32650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -130,6 +114,22 @@
  |[Palo Alto - CVE-2024-3400](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3400-2024-04-12)|Visit link for details.|19/04/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans les produits Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0330/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0329/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Vulnérabilité dans Citrix uberAgent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0328/)|Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -147,22 +147,6 @@
  |[2024-032: Critical Vulnerability in XZ Utils](https://cert.europa.eu/publications/security-advisories/2024-032/)|[Updated] On March 29, several companies issued a warning regarding a backdoor found in the XZ Utils software. XZ Utils is a data compression software and may be present in Linux distributions. The malicious code may allow a Threat Actor, with the right authentication key, to achieve gated pre-auth RCE on affected systems.|Tuesday, April 02, 2024 06:31:14 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47122204/24 - Vulnérabilité affectant Confluence Data Center and Confluence Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-confluence-data-center-and-confluence-server)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.  L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du     code…| 22 avril 2024|
- |[ 47112204/24 - Vulnérabilité « Zero-day » affectant CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-zero-day-affectant-crushftp)| Un « Zero-day » critique affectant  les versions susmentionnées de CrushFTP a été corrigé. Cette  vulnérabilité  est activement exploitée et elle peut   permettre à un attaquant distant non…| 22 avril 2024|
- |[ 47102204/24 - Vulnérabilités critiques affectant le plugin «Forminator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-forminator-pour-wordpress)| Wordpress annonce la correction de trois vulnérabilités critiques affectant le plugin « Forminator». L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code SQL,…| 22 avril 2024|
- |[ 47091804/24 - Vulnérabilité critique affectant PuTTy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-putty)| Une vulnérabilité critique affecte les versions susmentionnées de PuTTY. L’exploitation de cette  vulnérabilité peut   permettre à un attaquant distant d’obtenir les clés privées de la victime et de…| 19 avril 2024|
- |[ 47081804/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-8)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 18 avril 2024|
- |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
- |[ 47061804/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’injecter des…| 18 avril 2024|
- |[ 47051804/24 - "Oracle Critical Patch Update" du Mois Avril 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2024. L'exploitation de…| 18 avril 2024|
- |[ 47041704/24 - Vulnérabilité dans SolarWinds Serv-U ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-serv-u-0)| Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.| 17 avril 2024|
- |[ 47031704/24 - Vulnérabilités critiques dans Ivanti Avalanche ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-ivanti-avalanche)| Plusieurs vulnérabilités critiques ont été corrigées dans Ivanti Avalanche mobile device management (MDM), un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la…| 17 avril 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -178,6 +162,22 @@
  |[Google Chrome security advisory (AV24-212)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-212)|Visit link for details|2024-04-17|
  |[Atlassian security advisory (AV24-211)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-211)|Visit link for details|2024-04-17|
  |[Oracle security advisory – April 2024 quarterly rollup (AV24-210)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-april-2024-quarterly-rollup-av24-210)|Visit link for details|2024-04-17|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47122204/24 - Vulnérabilité affectant Confluence Data Center and Confluence Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-confluence-data-center-and-confluence-server)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.  L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du     code…| 22 avril 2024|
+ |[ 47112204/24 - Vulnérabilité « Zero-day » affectant CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-zero-day-affectant-crushftp)| Un « Zero-day » critique affectant  les versions susmentionnées de CrushFTP a été corrigé. Cette  vulnérabilité  est activement exploitée et elle peut   permettre à un attaquant distant non…| 22 avril 2024|
+ |[ 47102204/24 - Vulnérabilités critiques affectant le plugin «Forminator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-forminator-pour-wordpress)| Wordpress annonce la correction de trois vulnérabilités critiques affectant le plugin « Forminator». L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code SQL,…| 22 avril 2024|
+ |[ 47091804/24 - Vulnérabilité critique affectant PuTTy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-putty)| Une vulnérabilité critique affecte les versions susmentionnées de PuTTY. L’exploitation de cette  vulnérabilité peut   permettre à un attaquant distant d’obtenir les clés privées de la victime et de…| 19 avril 2024|
+ |[ 47081804/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-8)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 18 avril 2024|
+ |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
+ |[ 47061804/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’injecter des…| 18 avril 2024|
+ |[ 47051804/24 - "Oracle Critical Patch Update" du Mois Avril 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2024. L'exploitation de…| 18 avril 2024|
+ |[ 47041704/24 - Vulnérabilité dans SolarWinds Serv-U ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-serv-u-0)| Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.| 17 avril 2024|
+ |[ 47031704/24 - Vulnérabilités critiques dans Ivanti Avalanche ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-ivanti-avalanche)| Plusieurs vulnérabilités critiques ont été corrigées dans Ivanti Avalanche mobile device management (MDM), un hôte bastion open source et un système d'audit de sécurité pour l'exploitation et la…| 17 avril 2024|
  
 
 # ZERODAYINITIATIVE
