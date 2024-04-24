@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/04/2024 00:13:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/04/2024 01:17:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,29 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6748-1: Sanitize vulnerabilities](https://www.linux.org/threads/usn-6748-1-sanitize-vulnerabilities.49664/)|Visit link for details.|Apr 24, 2024|
- |[USN-6747-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6747-1-firefox-vulnerabilities.49663/)|Visit link for details.|Apr 24, 2024|
- |[USN-6742-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6742-2-linux-kernel-vulnerabilities.49652/)|Visit link for details.|Apr 23, 2024|
- |[USN-6746-1: Google Guest Agent and Google OS Config Agent vulnerability](https://www.linux.org/threads/usn-6746-1-google-guest-agent-and-google-os-config-agent-vulnerability.49648/)|Visit link for details.|Apr 23, 2024|
- |[USN-6728-3: Squid vulnerability](https://www.linux.org/threads/usn-6728-3-squid-vulnerability.49647/)|Visit link for details.|Apr 23, 2024|
- |[DSA-5673-1 glibc - security update](https://www.linux.org/threads/dsa-5673-1-glibc-security-update.49645/)|Visit link for details.|Apr 23, 2024|
- |[USN-6743-2: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6743-2-linux-kernel-low-latency-vulnerabilities.49642/)|Visit link for details.|Apr 22, 2024|
- |[DSA-5672-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5672-1-openjdk-17-security-update.49640/)|Visit link for details.|Apr 22, 2024|
- |[USN-6744-2: Pillow vulnerability](https://www.linux.org/threads/usn-6744-2-pillow-vulnerability.49637/)|Visit link for details.|Apr 22, 2024|
- |[USN-6745-1: Percona XtraBackup vulnerability](https://www.linux.org/threads/usn-6745-1-percona-xtrabackup-vulnerability.49636/)|Visit link for details.|Apr 22, 2024|
- |[USN-6744-1: Pillow vulnerability](https://www.linux.org/threads/usn-6744-1-pillow-vulnerability.49635/)|Visit link for details.|Apr 22, 2024|
- 
 
 # CERT-SANTE
 
@@ -85,6 +62,29 @@
  |[Multiples vulnérabilités dans les produits Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6748-1: Sanitize vulnerabilities](https://www.linux.org/threads/usn-6748-1-sanitize-vulnerabilities.49664/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6747-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6747-1-firefox-vulnerabilities.49663/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6742-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6742-2-linux-kernel-vulnerabilities.49652/)|Visit link for details.|Apr 23, 2024|
+ |[USN-6746-1: Google Guest Agent and Google OS Config Agent vulnerability](https://www.linux.org/threads/usn-6746-1-google-guest-agent-and-google-os-config-agent-vulnerability.49648/)|Visit link for details.|Apr 23, 2024|
+ |[USN-6728-3: Squid vulnerability](https://www.linux.org/threads/usn-6728-3-squid-vulnerability.49647/)|Visit link for details.|Apr 23, 2024|
+ |[DSA-5673-1 glibc - security update](https://www.linux.org/threads/dsa-5673-1-glibc-security-update.49645/)|Visit link for details.|Apr 23, 2024|
+ |[USN-6743-2: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6743-2-linux-kernel-low-latency-vulnerabilities.49642/)|Visit link for details.|Apr 22, 2024|
+ |[DSA-5672-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5672-1-openjdk-17-security-update.49640/)|Visit link for details.|Apr 22, 2024|
+ |[USN-6744-2: Pillow vulnerability](https://www.linux.org/threads/usn-6744-2-pillow-vulnerability.49637/)|Visit link for details.|Apr 22, 2024|
+ |[USN-6745-1: Percona XtraBackup vulnerability](https://www.linux.org/threads/usn-6745-1-percona-xtrabackup-vulnerability.49636/)|Visit link for details.|Apr 22, 2024|
+ |[USN-6744-1: Pillow vulnerability](https://www.linux.org/threads/usn-6744-1-pillow-vulnerability.49635/)|Visit link for details.|Apr 22, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -99,22 +99,6 @@
  |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
  |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
- |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20240423)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 23 Apr 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04-11] Updated System...| Release Date: 2 Apr 2024 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240422)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and elevation of privilege on the targeted system. Note:Proof of concept exploit for CVE-2024-20295 and CVE-2024...|Release Date: 22 Apr 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240419)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-04-22] Updated Vulnerability...| Release Date: 19 Apr 2024 |
- |[Palo Alto Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-products-remote-code-execution-vulnerability_20240415)|A vulnerability has been identified in Palo Alto Products. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system. Note: CVE-2024-3400 affected GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-...| Release Date: 15 Apr 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 18 Apr 2024 |
- |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Apr 2024 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 18 Apr 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -162,6 +146,22 @@
  |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
  |[ 47061804/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’injecter des…| 18 avril 2024|
  |[ 47051804/24 - "Oracle Critical Patch Update" du Mois Avril 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2024. L'exploitation de…| 18 avril 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
+ |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20240423)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 23 Apr 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04-11] Updated System...| Release Date: 2 Apr 2024 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240422)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and elevation of privilege on the targeted system. Note:Proof of concept exploit for CVE-2024-20295 and CVE-2024...|Release Date: 22 Apr 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240419)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-04-22] Updated Vulnerability...| Release Date: 19 Apr 2024 |
+ |[Palo Alto Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-products-remote-code-execution-vulnerability_20240415)|A vulnerability has been identified in Palo Alto Products. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system. Note: CVE-2024-3400 affected GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-...| Release Date: 15 Apr 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 18 Apr 2024 |
+ |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 18 Apr 2024 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 18 Apr 2024 |
  
 
 # ZERODAYINITIATIVE
