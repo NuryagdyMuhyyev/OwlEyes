@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/04/2024 16:14:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/04/2024 17:26:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -101,19 +101,6 @@
  |[WordPress Husky - CVE-2024-32680](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-husky-cve-2024-32680-2024-04-23)|Visit link for details.|23/04/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Advanced PWA module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
- |[REST Views module for Drupal information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
- |[PowerDNS Recursor denial of service (CVE-2024-25583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
- |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software denial of service (CVE-2024-20353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
- |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software code execution (CVE-2024-20359)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
- |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software command execution (CVE-2024-20358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -130,18 +117,17 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 18 Apr 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Azure ODSP nikisos Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-396/)|Visit link for details|2024-04-23|
- |[Ivanti Avalanche WLInfoRailService DELKEY Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-395/)|Visit link for details|2024-04-23|
- |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-394/)|Visit link for details|2024-04-23|
- |[Ivanti Avalanche WLAvalancheService Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-393/)|Visit link for details|2024-04-23|
- |[Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-392/)|Visit link for details|2024-04-23|
- |[Ivanti Avalanche WLAvalancheService Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-391/)|Visit link for details|2024-04-23|
- |[Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-390/)|Visit link for details|2024-04-23|
- |[Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-389/)|Visit link for details|2024-04-23|
+ |[Advanced PWA module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
+ |[REST Views module for Drupal information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
+ |[PowerDNS Recursor denial of service (CVE-2024-25583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
+ |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software denial of service (CVE-2024-20353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
+ |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software code execution (CVE-2024-20359)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
+ |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software command execution (CVE-2024-20358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -176,6 +162,20 @@
  |[ 47091804/24 - Vulnérabilité critique affectant PuTTy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-putty)| Une vulnérabilité critique affecte les versions susmentionnées de PuTTY. L’exploitation de cette  vulnérabilité peut   permettre à un attaquant distant d’obtenir les clés privées de la victime et de…| 19 avril 2024|
  |[ 47081804/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-8)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 18 avril 2024|
  |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Azure ODSP nikisos Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-396/)|Visit link for details|2024-04-23|
+ |[Ivanti Avalanche WLInfoRailService DELKEY Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-395/)|Visit link for details|2024-04-23|
+ |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-394/)|Visit link for details|2024-04-23|
+ |[Ivanti Avalanche WLAvalancheService Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-393/)|Visit link for details|2024-04-23|
+ |[Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-392/)|Visit link for details|2024-04-23|
+ |[Ivanti Avalanche WLAvalancheService Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-391/)|Visit link for details|2024-04-23|
+ |[Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-390/)|Visit link for details|2024-04-23|
+ |[Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-389/)|Visit link for details|2024-04-23|
  
 
 # CA-CCS
