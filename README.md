@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/04/2024 22:17:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/04/2024 23:21:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,23 +78,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[MongoDB - CVE-2024-3371](https://www.cyberveille-sante.gouv.fr/alertes/mongodb-cve-2024-3371-2024-04-25)|Visit link for details.|25/04/2024|
- |[Ivanti - CVE-2024-29205](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29205-2024-04-25)|Visit link for details.|25/04/2024|
- |[Google Chrome - CVE-2024-4058](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4058-2024-04-25)|Visit link for details.|25/04/2024|
- |[GitLab - CVE-2024-2434](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2434-2024-04-25)|Visit link for details.|25/04/2024|
- |[WordPress - CVE-2023-31090](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-31090-2023-05-30)|Visit link for details.|25/04/2024|
- |[Progress Flowmon - CVE-2024-2389](https://www.cyberveille-sante.gouv.fr/alertes/progress-flowmon-cve-2024-2389-2024-04-05)|Visit link for details.|25/04/2024|
- |[WordPress ElementsKit Elementor addons - CVE-2024-3499](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-elementor-addons-cve-2024-3499-2024-04-24)|Visit link for details.|24/04/2024|
- |[SolarWinds - CVE-2024-29001](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29001-2024-04-24)|Visit link for details.|24/04/2024|
- |[Oracle VirtualBox - CVE-2024-21111](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21111-2024-04-24)|Visit link for details.|24/04/2024|
- |[Linux - CVE-2024-26593](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26593-2024-04-24)|Visit link for details.|24/04/2024|
- |[Python / Dell - CVE-2022-48565](https://www.cyberveille-sante.gouv.fr/alertes/python-dell-cve-2022-48565-2024-04-24)|Visit link for details.|24/04/2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -112,6 +95,23 @@
  |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software denial of service (CVE-2024-20353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
  |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software code execution (CVE-2024-20359)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[MongoDB - CVE-2024-3371](https://www.cyberveille-sante.gouv.fr/alertes/mongodb-cve-2024-3371-2024-04-25)|Visit link for details.|25/04/2024|
+ |[Ivanti - CVE-2024-29205](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29205-2024-04-25)|Visit link for details.|25/04/2024|
+ |[Google Chrome - CVE-2024-4058](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4058-2024-04-25)|Visit link for details.|25/04/2024|
+ |[GitLab - CVE-2024-2434](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2434-2024-04-25)|Visit link for details.|25/04/2024|
+ |[WordPress - CVE-2023-31090](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-31090-2023-05-30)|Visit link for details.|25/04/2024|
+ |[Progress Flowmon - CVE-2024-2389](https://www.cyberveille-sante.gouv.fr/alertes/progress-flowmon-cve-2024-2389-2024-04-05)|Visit link for details.|25/04/2024|
+ |[WordPress ElementsKit Elementor addons - CVE-2024-3499](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-elementor-addons-cve-2024-3499-2024-04-24)|Visit link for details.|24/04/2024|
+ |[SolarWinds - CVE-2024-29001](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29001-2024-04-24)|Visit link for details.|24/04/2024|
+ |[Oracle VirtualBox - CVE-2024-21111](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21111-2024-04-24)|Visit link for details.|24/04/2024|
+ |[Linux - CVE-2024-26593](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26593-2024-04-24)|Visit link for details.|24/04/2024|
+ |[Python / Dell - CVE-2022-48565](https://www.cyberveille-sante.gouv.fr/alertes/python-dell-cve-2022-48565-2024-04-24)|Visit link for details.|24/04/2024|
  
 
 # HK-CERT
@@ -161,23 +161,6 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Mitel security advisory (AV24-226)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-226)|Visit link for details|2024-04-25|
- |[HPE security advisory (AV24-225)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-225)|Visit link for details|2024-04-25|
- |[Drupal security advisory (AV24-224)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-224)|Visit link for details|2024-04-25|
- |[Cisco security advisory (AV24-223)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-223)|Visit link for details|2024-04-24|
- |[Cyber activity impacting CISCO ASA devices](https://www.cyber.gc.ca/en/alerts-advisories/cyber-activity-impacting-cisco-asa-devices)|Visit link for details|2024-04-24|
- |[Google Chrome security advisory (AV24-222)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-222)|Visit link for details|2024-04-24|
- |[CrushFTP security advisory (AV24-221)](https://www.cyber.gc.ca/en/alerts-advisories/crushftp-security-advisory-av24-221)|Visit link for details|2024-04-24|
- |[Dell security advisory (AV24-220)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-220)|Visit link for details|2024-04-23|
- |[Ubuntu security advisory (AV24-219)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-219)|Visit link for details|2024-04-22|
- |[IBM security advisory (AV24-218)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-218)|Visit link for details|2024-04-22|
- |[Red Hat security advisory (AV24-217)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-217)|Visit link for details|2024-04-22|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -193,4 +176,21 @@
  |[ 47091804/24 - Vulnérabilité critique affectant PuTTy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-putty)| Une vulnérabilité critique affecte les versions susmentionnées de PuTTY. L’exploitation de cette  vulnérabilité peut   permettre à un attaquant distant d’obtenir les clés privées de la victime et de…| 19 avril 2024|
  |[ 47081804/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-8)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 18 avril 2024|
  |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitel security advisory (AV24-226)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-226)|Visit link for details|2024-04-25|
+ |[HPE security advisory (AV24-225)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-225)|Visit link for details|2024-04-25|
+ |[Drupal security advisory (AV24-224)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-224)|Visit link for details|2024-04-25|
+ |[Cisco security advisory (AV24-223)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-223)|Visit link for details|2024-04-24|
+ |[Cyber activity impacting CISCO ASA devices](https://www.cyber.gc.ca/en/alerts-advisories/cyber-activity-impacting-cisco-asa-devices)|Visit link for details|2024-04-24|
+ |[Google Chrome security advisory (AV24-222)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-222)|Visit link for details|2024-04-24|
+ |[CrushFTP security advisory (AV24-221)](https://www.cyber.gc.ca/en/alerts-advisories/crushftp-security-advisory-av24-221)|Visit link for details|2024-04-24|
+ |[Dell security advisory (AV24-220)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-220)|Visit link for details|2024-04-23|
+ |[Ubuntu security advisory (AV24-219)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-219)|Visit link for details|2024-04-22|
+ |[IBM security advisory (AV24-218)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-218)|Visit link for details|2024-04-22|
+ |[Red Hat security advisory (AV24-217)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-217)|Visit link for details|2024-04-22|
  
