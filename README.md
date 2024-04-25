@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/04/2024 08:18:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/04/2024 09:20:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 23, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 23, 2024|
+ |[Cisco Releases Security Advisories for Cisco Integrated Management Controller](https://www.cisa.gov/news-events/alerts/2024/04/19/cisco-releases-security-advisories-cisco-integrated-management-controller)|Visit link for details.|Apr 19, 2024|
+ |[CISA and Partners Release Advisory on Akira Ransomware](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware)|Visit link for details.|Apr 18, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
+ |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,20 @@
  |[DSA-5672-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5672-1-openjdk-17-security-update.49640/)|Visit link for details.|Apr 22, 2024|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 23, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 23, 2024|
- |[Cisco Releases Security Advisories for Cisco Integrated Management Controller](https://www.cisa.gov/news-events/alerts/2024/04/19/cisco-releases-security-advisories-cisco-integrated-management-controller)|Visit link for details.|Apr 19, 2024|
- |[CISA and Partners Release Advisory on Akira Ransomware](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware)|Visit link for details.|Apr 18, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
- |[Joint Guidance on Deploying AI Systems Securely](https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely)|Visit link for details.|Apr 15, 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0343/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 avril 2024|
+ |[Multiples vulnérabilités dans NagiosXI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans NagiosXI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une atteinte à l'intégrité des données.|Publié le 24 avril 2024|
+ |[Multiples vulnérabilités dans Synacor Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)|Publié le 22 avril 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
+ |[[SCADA] Vulnérabilité dans Siemens RUGGEDCOM APE1808](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0338/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans|Publié le 22 avril 2024|
+ |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
+ |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0335/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  
 
 # CERT-SANTE
@@ -77,22 +93,6 @@
  |[Node - mysql2 - CVE-2024-21511](https://www.cyberveille-sante.gouv.fr/alertes/node-mysql2-cve-2024-21511-2024-04-23)|Visit link for details.|23/04/2024|
  |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|23/04/2024|
  |[WordPress Husky - CVE-2024-32680](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-husky-cve-2024-32680-2024-04-23)|Visit link for details.|23/04/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0343/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 avril 2024|
- |[Multiples vulnérabilités dans NagiosXI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans NagiosXI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une atteinte à l'intégrité des données.|Publié le 24 avril 2024|
- |[Multiples vulnérabilités dans Synacor Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)|Publié le 22 avril 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[[SCADA] Vulnérabilité dans Siemens RUGGEDCOM APE1808](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0338/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans|Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
- |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0335/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  
 
 # HK-CERT
@@ -144,23 +144,6 @@
  |[Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-389/)|Visit link for details|2024-04-23|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco security advisory (AV24-223)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-223)|Visit link for details|2024-04-24|
- |[Cyber activity impacting CISCO ASA devices](https://www.cyber.gc.ca/en/alerts-advisories/cyber-activity-impacting-cisco-asa-devices)|Visit link for details|2024-04-24|
- |[Google Chrome security advisory (AV24-222)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-222)|Visit link for details|2024-04-24|
- |[CrushFTP security advisory (AV24-221)](https://www.cyber.gc.ca/en/alerts-advisories/crushftp-security-advisory-av24-221)|Visit link for details|2024-04-24|
- |[Dell security advisory (AV24-220)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-220)|Visit link for details|2024-04-23|
- |[Ubuntu security advisory (AV24-219)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-219)|Visit link for details|2024-04-22|
- |[IBM security advisory (AV24-218)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-218)|Visit link for details|2024-04-22|
- |[Red Hat security advisory (AV24-217)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-217)|Visit link for details|2024-04-22|
- |[[Control systems] CISA ICS security advisories (AV24-216)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-216)|Visit link for details|2024-04-22|
- |[Ivanti security advisory (AV24-215)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-215)|Visit link for details|2024-04-19|
- |[Microsoft Edge security advisory (AV24-214)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-214)|Visit link for details|2024-04-19|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -193,4 +176,21 @@
  |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
  |[ 47061804/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant d’injecter des…| 18 avril 2024|
  |[ 47051804/24 - "Oracle Critical Patch Update" du Mois Avril 2024 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2024)| Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités critiques dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2024. L'exploitation de…| 18 avril 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco security advisory (AV24-223)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-223)|Visit link for details|2024-04-24|
+ |[Cyber activity impacting CISCO ASA devices](https://www.cyber.gc.ca/en/alerts-advisories/cyber-activity-impacting-cisco-asa-devices)|Visit link for details|2024-04-24|
+ |[Google Chrome security advisory (AV24-222)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-222)|Visit link for details|2024-04-24|
+ |[CrushFTP security advisory (AV24-221)](https://www.cyber.gc.ca/en/alerts-advisories/crushftp-security-advisory-av24-221)|Visit link for details|2024-04-24|
+ |[Dell security advisory (AV24-220)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-220)|Visit link for details|2024-04-23|
+ |[Ubuntu security advisory (AV24-219)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-219)|Visit link for details|2024-04-22|
+ |[IBM security advisory (AV24-218)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-218)|Visit link for details|2024-04-22|
+ |[Red Hat security advisory (AV24-217)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-217)|Visit link for details|2024-04-22|
+ |[[Control systems] CISA ICS security advisories (AV24-216)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-216)|Visit link for details|2024-04-22|
+ |[Ivanti security advisory (AV24-215)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-215)|Visit link for details|2024-04-19|
+ |[Microsoft Edge security advisory (AV24-214)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-214)|Visit link for details|2024-04-19|
  
