@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/04/2024 21:21:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/04/2024 22:17:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0343/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 avril 2024|
- |[Multiples vulnérabilités dans NagiosXI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans NagiosXI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une atteinte à l'intégrité des données.|Publié le 24 avril 2024|
- |[Multiples vulnérabilités dans Synacor Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)|Publié le 22 avril 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[[SCADA] Vulnérabilité dans Siemens RUGGEDCOM APE1808](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0338/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans|Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
- |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0335/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -78,10 +62,20 @@
  |[USN-6743-2: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6743-2-linux-kernel-low-latency-vulnerabilities.49642/)|Visit link for details.|Apr 22, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0343/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 avril 2024|
+ |[Multiples vulnérabilités dans NagiosXI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans NagiosXI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une atteinte à l'intégrité des données.|Publié le 24 avril 2024|
+ |[Multiples vulnérabilités dans Synacor Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)|Publié le 22 avril 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
+ |[[SCADA] Vulnérabilité dans Siemens RUGGEDCOM APE1808](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0338/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans|Publié le 22 avril 2024|
+ |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
+ |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0335/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  
 
 # CERT-SANTE
@@ -99,6 +93,12 @@
  |[Oracle VirtualBox - CVE-2024-21111](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21111-2024-04-24)|Visit link for details.|24/04/2024|
  |[Linux - CVE-2024-26593](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26593-2024-04-24)|Visit link for details.|24/04/2024|
  |[Python / Dell - CVE-2022-48565](https://www.cyberveille-sante.gouv.fr/alertes/python-dell-cve-2022-48565-2024-04-24)|Visit link for details.|24/04/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
