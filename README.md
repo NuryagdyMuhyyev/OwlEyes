@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/04/2024 14:18:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/04/2024 15:18:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6750-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6750-1-thunderbird-vulnerabilities.49679/)|Visit link for details.|Apr 25, 2024|
- |[USN-6743-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6743-3-linux-kernel-azure-vulnerabilities.49677/)|Visit link for details.|Apr 25, 2024|
- |[USN-6657-2: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-2-dnsmasq-vulnerabilities.49676/)|Visit link for details.|Apr 24, 2024|
- |[USN-6749-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6749-1-freerdp-vulnerabilities.49675/)|Visit link for details.|Apr 24, 2024|
- |[USN-6748-1: Sanitize vulnerabilities](https://www.linux.org/threads/usn-6748-1-sanitize-vulnerabilities.49664/)|Visit link for details.|Apr 24, 2024|
- |[USN-6747-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6747-1-firefox-vulnerabilities.49663/)|Visit link for details.|Apr 24, 2024|
- |[USN-6742-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6742-2-linux-kernel-vulnerabilities.49652/)|Visit link for details.|Apr 23, 2024|
- |[USN-6746-1: Google Guest Agent and Google OS Config Agent vulnerability](https://www.linux.org/threads/usn-6746-1-google-guest-agent-and-google-os-config-agent-vulnerability.49648/)|Visit link for details.|Apr 23, 2024|
- |[USN-6728-3: Squid vulnerability](https://www.linux.org/threads/usn-6728-3-squid-vulnerability.49647/)|Visit link for details.|Apr 23, 2024|
- |[DSA-5673-1 glibc - security update](https://www.linux.org/threads/dsa-5673-1-glibc-security-update.49645/)|Visit link for details.|Apr 23, 2024|
- |[USN-6743-2: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6743-2-linux-kernel-low-latency-vulnerabilities.49642/)|Visit link for details.|Apr 22, 2024|
- 
 
 # US-CERT
 
@@ -78,21 +61,21 @@
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress ElementsKit Elementor addons - CVE-2024-3499](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-elementor-addons-cve-2024-3499-2024-04-24)|Visit link for details.|24/04/2024|
- |[SolarWinds - CVE-2024-29001](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29001-2024-04-24)|Visit link for details.|24/04/2024|
- |[Oracle VirtualBox - CVE-2024-21111](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21111-2024-04-24)|Visit link for details.|24/04/2024|
- |[Linux - CVE-2024-26593](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26593-2024-04-24)|Visit link for details.|24/04/2024|
- |[Python / Dell - CVE-2022-48565](https://www.cyberveille-sante.gouv.fr/alertes/python-dell-cve-2022-48565-2024-04-24)|Visit link for details.|24/04/2024|
- |[Microsoft - CVE-2024-26198](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26198-2024-03-14)|Visit link for details.|24/04/2024|
- |[Spring/Juniper - CVE-2023-34040](https://www.cyberveille-sante.gouv.fr/alertes/springjuniper-cve-2023-34040-2024-01-05)|Visit link for details.|24/04/2024|
- |[GitHub - CVE-2024-3646](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-3646-2024-04-23)|Visit link for details.|23/04/2024|
- |[Node - mysql2 - CVE-2024-21511](https://www.cyberveille-sante.gouv.fr/alertes/node-mysql2-cve-2024-21511-2024-04-23)|Visit link for details.|23/04/2024|
- |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|23/04/2024|
- |[WordPress Husky - CVE-2024-32680](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-husky-cve-2024-32680-2024-04-23)|Visit link for details.|23/04/2024|
+ |[USN-6750-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6750-1-thunderbird-vulnerabilities.49679/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6743-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6743-3-linux-kernel-azure-vulnerabilities.49677/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6657-2: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-2-dnsmasq-vulnerabilities.49676/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6749-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6749-1-freerdp-vulnerabilities.49675/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6748-1: Sanitize vulnerabilities](https://www.linux.org/threads/usn-6748-1-sanitize-vulnerabilities.49664/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6747-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6747-1-firefox-vulnerabilities.49663/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6742-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6742-2-linux-kernel-vulnerabilities.49652/)|Visit link for details.|Apr 23, 2024|
+ |[USN-6746-1: Google Guest Agent and Google OS Config Agent vulnerability](https://www.linux.org/threads/usn-6746-1-google-guest-agent-and-google-os-config-agent-vulnerability.49648/)|Visit link for details.|Apr 23, 2024|
+ |[USN-6728-3: Squid vulnerability](https://www.linux.org/threads/usn-6728-3-squid-vulnerability.49647/)|Visit link for details.|Apr 23, 2024|
+ |[DSA-5673-1 glibc - security update](https://www.linux.org/threads/dsa-5673-1-glibc-security-update.49645/)|Visit link for details.|Apr 23, 2024|
+ |[USN-6743-2: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-6743-2-linux-kernel-low-latency-vulnerabilities.49642/)|Visit link for details.|Apr 22, 2024|
  
 
 # HK-CERT
@@ -111,12 +94,6 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240418)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 18 Apr 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -128,6 +105,23 @@
  |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software code execution (CVE-2024-20359)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
  |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software command execution (CVE-2024-20358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress ElementsKit Elementor addons - CVE-2024-3499](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-elementor-addons-cve-2024-3499-2024-04-24)|Visit link for details.|24/04/2024|
+ |[SolarWinds - CVE-2024-29001](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29001-2024-04-24)|Visit link for details.|24/04/2024|
+ |[Oracle VirtualBox - CVE-2024-21111](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21111-2024-04-24)|Visit link for details.|24/04/2024|
+ |[Linux - CVE-2024-26593](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26593-2024-04-24)|Visit link for details.|24/04/2024|
+ |[Python / Dell - CVE-2022-48565](https://www.cyberveille-sante.gouv.fr/alertes/python-dell-cve-2022-48565-2024-04-24)|Visit link for details.|24/04/2024|
+ |[Microsoft - CVE-2024-26198](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26198-2024-03-14)|Visit link for details.|24/04/2024|
+ |[Spring/Juniper - CVE-2023-34040](https://www.cyberveille-sante.gouv.fr/alertes/springjuniper-cve-2023-34040-2024-01-05)|Visit link for details.|24/04/2024|
+ |[GitHub - CVE-2024-3646](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-3646-2024-04-23)|Visit link for details.|23/04/2024|
+ |[Node - mysql2 - CVE-2024-21511](https://www.cyberveille-sante.gouv.fr/alertes/node-mysql2-cve-2024-21511-2024-04-23)|Visit link for details.|23/04/2024|
+ |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|23/04/2024|
+ |[WordPress Husky - CVE-2024-32680](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-husky-cve-2024-32680-2024-04-23)|Visit link for details.|23/04/2024|
  
 
 # ZERODAYINITIATIVE
@@ -142,6 +136,12 @@
  |[Ivanti Avalanche WLAvalancheService Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-391/)|Visit link for details|2024-04-23|
  |[Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-390/)|Visit link for details|2024-04-23|
  |[Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-389/)|Visit link for details|2024-04-23|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
