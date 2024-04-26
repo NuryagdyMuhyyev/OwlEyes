@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/04/2024 15:19:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/04/2024 16:14:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6754-1: nghttp2 vulnerabilities](https://www.linux.org/threads/usn-6754-1-nghttp2-vulnerabilities.49705/)|Visit link for details.|Apr 26, 2024|
- |[DSA-5674-1 pdns-recursor - security update](https://www.linux.org/threads/dsa-5674-1-pdns-recursor-security-update.49703/)|Visit link for details.|Apr 26, 2024|
- |[USN-6753-1: CryptoJS vulnerability](https://www.linux.org/threads/usn-6753-1-cryptojs-vulnerability.49699/)|Visit link for details.|Apr 25, 2024|
- |[USN-6751-1: Zabbix vulnerabilities](https://www.linux.org/threads/usn-6751-1-zabbix-vulnerabilities.49693/)|Visit link for details.|Apr 25, 2024|
- |[USN-6752-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6752-1-freerdp-vulnerabilities.49692/)|Visit link for details.|Apr 25, 2024|
- |[USN-6750-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6750-1-thunderbird-vulnerabilities.49679/)|Visit link for details.|Apr 25, 2024|
- |[USN-6743-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6743-3-linux-kernel-azure-vulnerabilities.49677/)|Visit link for details.|Apr 25, 2024|
- |[USN-6657-2: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-2-dnsmasq-vulnerabilities.49676/)|Visit link for details.|Apr 24, 2024|
- |[USN-6749-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6749-1-freerdp-vulnerabilities.49675/)|Visit link for details.|Apr 24, 2024|
- |[USN-6748-1: Sanitize vulnerabilities](https://www.linux.org/threads/usn-6748-1-sanitize-vulnerabilities.49664/)|Visit link for details.|Apr 24, 2024|
- |[USN-6747-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6747-1-firefox-vulnerabilities.49663/)|Visit link for details.|Apr 24, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -66,23 +49,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[MongoDB - CVE-2024-3371](https://www.cyberveille-sante.gouv.fr/alertes/mongodb-cve-2024-3371-2024-04-25)|Visit link for details.|25/04/2024|
- |[Ivanti - CVE-2024-29205](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29205-2024-04-25)|Visit link for details.|25/04/2024|
- |[Google Chrome - CVE-2024-4058](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4058-2024-04-25)|Visit link for details.|25/04/2024|
- |[GitLab - CVE-2024-2434](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2434-2024-04-25)|Visit link for details.|25/04/2024|
- |[WordPress - CVE-2023-31090](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-31090-2023-05-30)|Visit link for details.|25/04/2024|
- |[Progress Flowmon - CVE-2024-2389](https://www.cyberveille-sante.gouv.fr/alertes/progress-flowmon-cve-2024-2389-2024-04-05)|Visit link for details.|25/04/2024|
- |[WordPress ElementsKit Elementor addons - CVE-2024-3499](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-elementor-addons-cve-2024-3499-2024-04-24)|Visit link for details.|24/04/2024|
- |[SolarWinds - CVE-2024-29001](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29001-2024-04-24)|Visit link for details.|24/04/2024|
- |[Oracle VirtualBox - CVE-2024-21111](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21111-2024-04-24)|Visit link for details.|24/04/2024|
- |[Linux - CVE-2024-26593](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26593-2024-04-24)|Visit link for details.|24/04/2024|
- |[Python / Dell - CVE-2022-48565](https://www.cyberveille-sante.gouv.fr/alertes/python-dell-cve-2022-48565-2024-04-24)|Visit link for details.|24/04/2024|
  
 
 # CERT-FR
@@ -117,6 +83,40 @@
  |[Palo Alto Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-products-remote-code-execution-vulnerability_20240415)|A vulnerability has been identified in Palo Alto Products. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system. Note: CVE-2024-3400 affected GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-...| Release Date: 15 Apr 2024 |
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[MongoDB - CVE-2024-3371](https://www.cyberveille-sante.gouv.fr/alertes/mongodb-cve-2024-3371-2024-04-25)|Visit link for details.|25/04/2024|
+ |[Ivanti - CVE-2024-29205](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29205-2024-04-25)|Visit link for details.|25/04/2024|
+ |[Google Chrome - CVE-2024-4058](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4058-2024-04-25)|Visit link for details.|25/04/2024|
+ |[GitLab - CVE-2024-2434](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2434-2024-04-25)|Visit link for details.|25/04/2024|
+ |[WordPress - CVE-2023-31090](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-31090-2023-05-30)|Visit link for details.|25/04/2024|
+ |[Progress Flowmon - CVE-2024-2389](https://www.cyberveille-sante.gouv.fr/alertes/progress-flowmon-cve-2024-2389-2024-04-05)|Visit link for details.|25/04/2024|
+ |[WordPress ElementsKit Elementor addons - CVE-2024-3499](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-elementor-addons-cve-2024-3499-2024-04-24)|Visit link for details.|24/04/2024|
+ |[SolarWinds - CVE-2024-29001](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29001-2024-04-24)|Visit link for details.|24/04/2024|
+ |[Oracle VirtualBox - CVE-2024-21111](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21111-2024-04-24)|Visit link for details.|24/04/2024|
+ |[Linux - CVE-2024-26593](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26593-2024-04-24)|Visit link for details.|24/04/2024|
+ |[Python / Dell - CVE-2022-48565](https://www.cyberveille-sante.gouv.fr/alertes/python-dell-cve-2022-48565-2024-04-24)|Visit link for details.|24/04/2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6754-1: nghttp2 vulnerabilities](https://www.linux.org/threads/usn-6754-1-nghttp2-vulnerabilities.49705/)|Visit link for details.|Apr 26, 2024|
+ |[DSA-5674-1 pdns-recursor - security update](https://www.linux.org/threads/dsa-5674-1-pdns-recursor-security-update.49703/)|Visit link for details.|Apr 26, 2024|
+ |[USN-6753-1: CryptoJS vulnerability](https://www.linux.org/threads/usn-6753-1-cryptojs-vulnerability.49699/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6751-1: Zabbix vulnerabilities](https://www.linux.org/threads/usn-6751-1-zabbix-vulnerabilities.49693/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6752-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6752-1-freerdp-vulnerabilities.49692/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6750-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6750-1-thunderbird-vulnerabilities.49679/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6743-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6743-3-linux-kernel-azure-vulnerabilities.49677/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6657-2: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-2-dnsmasq-vulnerabilities.49676/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6749-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6749-1-freerdp-vulnerabilities.49675/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6748-1: Sanitize vulnerabilities](https://www.linux.org/threads/usn-6748-1-sanitize-vulnerabilities.49664/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6747-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6747-1-firefox-vulnerabilities.49663/)|Visit link for details.|Apr 24, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -145,23 +145,6 @@
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
  |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47162504/24 - Vulnérabilités affectant Cisco Adaptive Security Appliance and Firepower… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-cisco-adaptive-security-appliance-and-firepower-threat-defense)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de son produit Cisco  Adaptive Security Appliance and Firepower Threat Defense Software. L’exploitation de ces…| 25 avril 2024|
- |[ 47152504/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-20)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. Une de ces vulnérabilités est très critique et son…| 25 avril 2024|
- |[ 47142404/24 - Vulnérabilité affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-1)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 24 avril 2024|
- |[ 47152404/24 - Vulnérabilités critiques affectant la bibliothèque de bases données… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-la-bibliotheque-de-bases-donnees-javascript-node)| Trois vulnérabilités affectant la bibliothèque de  bases de données javascript « node-mysql2 » ont été corrigées. Deux de ces vulnérabilités dont l’exploit existe sont très critiques et peuvent…| 24 avril 2024|
- |[ 47132304/24 - Vulnérabilité affectant Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-zimbra-collaboration)| Veuillez se référer au bulletin de sécurité de Zimbra pour installer les mises à jour.| 23 avril 2024|
- |[ 47122204/24 - Vulnérabilité affectant Confluence Data Center and Confluence Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-confluence-data-center-and-confluence-server)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.  L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du     code…| 22 avril 2024|
- |[ 47112204/24 - Vulnérabilité « Zero-day » affectant CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-zero-day-affectant-crushftp)| Un « Zero-day » critique affectant  les versions susmentionnées de CrushFTP a été corrigé. Cette  vulnérabilité  est activement exploitée et elle peut   permettre à un attaquant distant non…| 22 avril 2024|
- |[ 47102204/24 - Vulnérabilités critiques affectant le plugin «Forminator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-forminator-pour-wordpress)| Wordpress annonce la correction de trois vulnérabilités critiques affectant le plugin « Forminator». L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code SQL,…| 22 avril 2024|
- |[ 47091804/24 - Vulnérabilité critique affectant PuTTy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-putty)| Une vulnérabilité critique affecte les versions susmentionnées de PuTTY. L’exploitation de cette  vulnérabilité peut   permettre à un attaquant distant d’obtenir les clés privées de la victime et de…| 19 avril 2024|
- |[ 47081804/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-8)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 18 avril 2024|
- |[ 47071804/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-19)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 avril 2024|
  
 
 # ZERODAYINITIATIVE
@@ -193,4 +176,21 @@
  |[Ubuntu security advisory (AV24-219)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-219)|Visit link for details|2024-04-22|
  |[IBM security advisory (AV24-218)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-218)|Visit link for details|2024-04-22|
  |[Red Hat security advisory (AV24-217)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-217)|Visit link for details|2024-04-22|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47182504/24 - Vulnérabilité critique affectant Flowmon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-flowmon)| Une vulnérabilité très critique affectant l’outil de monitoring de réseaux « Flowmon » a été corrigée. L’exploitation réussite de cette vulnérabilité peut permettre à un attaquant distant non…| 26 avril 2024|
+ |[ 47172604/24 - Vulnérabilité critique affectant le plugin «WP-Automatic» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-automatic-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP-Automatic» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle total sur le site web…| 26 avril 2024|
+ |[ 47162504/24 - Vulnérabilités affectant Cisco Adaptive Security Appliance and Firepower… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-cisco-adaptive-security-appliance-and-firepower-threat-defense)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de son produit Cisco  Adaptive Security Appliance and Firepower Threat Defense Software. L’exploitation de ces…| 25 avril 2024|
+ |[ 47152504/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-20)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. Une de ces vulnérabilités est très critique et son…| 25 avril 2024|
+ |[ 47142404/24 - Vulnérabilité affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-1)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 24 avril 2024|
+ |[ 47152404/24 - Vulnérabilités critiques affectant la bibliothèque de bases données… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-la-bibliotheque-de-bases-donnees-javascript-node)| Trois vulnérabilités affectant la bibliothèque de  bases de données javascript « node-mysql2 » ont été corrigées. Deux de ces vulnérabilités dont l’exploit existe sont très critiques et peuvent…| 24 avril 2024|
+ |[ 47132304/24 - Vulnérabilité affectant Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-zimbra-collaboration)| Veuillez se référer au bulletin de sécurité de Zimbra pour installer les mises à jour.| 23 avril 2024|
+ |[ 47122204/24 - Vulnérabilité affectant Confluence Data Center and Confluence Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-confluence-data-center-and-confluence-server)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.  L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du     code…| 22 avril 2024|
+ |[ 47112204/24 - Vulnérabilité « Zero-day » affectant CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-zero-day-affectant-crushftp)| Un « Zero-day » critique affectant  les versions susmentionnées de CrushFTP a été corrigé. Cette  vulnérabilité  est activement exploitée et elle peut   permettre à un attaquant distant non…| 22 avril 2024|
+ |[ 47102204/24 - Vulnérabilités critiques affectant le plugin «Forminator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-forminator-pour-wordpress)| Wordpress annonce la correction de trois vulnérabilités critiques affectant le plugin « Forminator». L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code SQL,…| 22 avril 2024|
+ |[ 47091804/24 - Vulnérabilité critique affectant PuTTy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-putty)| Une vulnérabilité critique affecte les versions susmentionnées de PuTTY. L’exploitation de cette  vulnérabilité peut   permettre à un attaquant distant d’obtenir les clés privées de la victime et de…| 19 avril 2024|
  
