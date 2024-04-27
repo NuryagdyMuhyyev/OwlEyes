@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/04/2024 04:17:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/04/2024 06:12:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,70 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5675-1 chromium - security update](https://www.linux.org/threads/dsa-5675-1-chromium-security-update.49714/)|Visit link for details.|Apr 26, 2024|
- |[USN-6754-1: nghttp2 vulnerabilities](https://www.linux.org/threads/usn-6754-1-nghttp2-vulnerabilities.49705/)|Visit link for details.|Apr 26, 2024|
- |[DSA-5674-1 pdns-recursor - security update](https://www.linux.org/threads/dsa-5674-1-pdns-recursor-security-update.49703/)|Visit link for details.|Apr 26, 2024|
- |[USN-6753-1: CryptoJS vulnerability](https://www.linux.org/threads/usn-6753-1-cryptojs-vulnerability.49699/)|Visit link for details.|Apr 25, 2024|
- |[USN-6751-1: Zabbix vulnerabilities](https://www.linux.org/threads/usn-6751-1-zabbix-vulnerabilities.49693/)|Visit link for details.|Apr 25, 2024|
- |[USN-6752-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6752-1-freerdp-vulnerabilities.49692/)|Visit link for details.|Apr 25, 2024|
- |[USN-6750-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6750-1-thunderbird-vulnerabilities.49679/)|Visit link for details.|Apr 25, 2024|
- |[USN-6743-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6743-3-linux-kernel-azure-vulnerabilities.49677/)|Visit link for details.|Apr 25, 2024|
- |[USN-6657-2: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-2-dnsmasq-vulnerabilities.49676/)|Visit link for details.|Apr 24, 2024|
- |[USN-6749-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6749-1-freerdp-vulnerabilities.49675/)|Visit link for details.|Apr 24, 2024|
- |[USN-6748-1: Sanitize vulnerabilities](https://www.linux.org/threads/usn-6748-1-sanitize-vulnerabilities.49664/)|Visit link for details.|Apr 24, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/25/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2024|
- |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 23, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 23, 2024|
- |[Cisco Releases Security Advisories for Cisco Integrated Management Controller](https://www.cisa.gov/news-events/alerts/2024/04/19/cisco-releases-security-advisories-cisco-integrated-management-controller)|Visit link for details.|Apr 19, 2024|
- |[CISA and Partners Release Advisory on Akira Ransomware](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware)|Visit link for details.|Apr 18, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ |[Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0345/)|Une preuve de concept a été publiée affectant|Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0343/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 avril 2024|
+ |[Multiples vulnérabilités dans NagiosXI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans NagiosXI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une atteinte à l'intégrité des données.|Publié le 24 avril 2024|
  |[Multiples vulnérabilités dans Synacor Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)|Publié le 22 avril 2024|
  |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[[SCADA] Vulnérabilité dans Siemens RUGGEDCOM APE1808](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0338/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans|Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
- |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0335/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans les produits Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress ElementsKit Pro - CVE-2024-3500](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-pro-cve-2024-3500-2024-04-26)|Visit link for details.|26/04/2024|
- |[Red Hat - CVE-2024-1139](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-1139-2024-04-26)|Visit link for details.|26/04/2024|
- |[Veritas - CVE-2024-33671](https://www.cyberveille-sante.gouv.fr/alertes/veritas-cve-2024-33671-2024-04-26)|Visit link for details.|26/04/2024|
- |[GLPI - CVE-2024-28241](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-28241-2024-04-26)|Visit link for details.|26/04/2024|
- |[M-Files - CVE-2024-4056](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-4056-2024-04-26)|Visit link for details.|26/04/2024|
- |[Cisco - CVE-2024-20353](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20353-2024-04-26)|Visit link for details.|26/04/2024|
- |[MongoDB - CVE-2024-3371](https://www.cyberveille-sante.gouv.fr/alertes/mongodb-cve-2024-3371-2024-04-25)|Visit link for details.|25/04/2024|
- |[Ivanti - CVE-2024-29205](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29205-2024-04-25)|Visit link for details.|25/04/2024|
- |[Google Chrome - CVE-2024-4058](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4058-2024-04-25)|Visit link for details.|25/04/2024|
- |[GitLab - CVE-2024-2434](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2434-2024-04-25)|Visit link for details.|25/04/2024|
- |[WordPress - CVE-2023-31090](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-31090-2023-05-30)|Visit link for details.|25/04/2024|
  
 
 # HK-CERT
@@ -111,6 +61,23 @@
  |[Palo Alto Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-products-remote-code-execution-vulnerability_20240415)|A vulnerability has been identified in Palo Alto Products. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system. Note: CVE-2024-3400 affected GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-...| Release Date: 15 Apr 2024 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5675-1 chromium - security update](https://www.linux.org/threads/dsa-5675-1-chromium-security-update.49714/)|Visit link for details.|Apr 26, 2024|
+ |[USN-6754-1: nghttp2 vulnerabilities](https://www.linux.org/threads/usn-6754-1-nghttp2-vulnerabilities.49705/)|Visit link for details.|Apr 26, 2024|
+ |[DSA-5674-1 pdns-recursor - security update](https://www.linux.org/threads/dsa-5674-1-pdns-recursor-security-update.49703/)|Visit link for details.|Apr 26, 2024|
+ |[USN-6753-1: CryptoJS vulnerability](https://www.linux.org/threads/usn-6753-1-cryptojs-vulnerability.49699/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6751-1: Zabbix vulnerabilities](https://www.linux.org/threads/usn-6751-1-zabbix-vulnerabilities.49693/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6752-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6752-1-freerdp-vulnerabilities.49692/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6750-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6750-1-thunderbird-vulnerabilities.49679/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6743-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6743-3-linux-kernel-azure-vulnerabilities.49677/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6657-2: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-2-dnsmasq-vulnerabilities.49676/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6749-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6749-1-freerdp-vulnerabilities.49675/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6748-1: Sanitize vulnerabilities](https://www.linux.org/threads/usn-6748-1-sanitize-vulnerabilities.49664/)|Visit link for details.|Apr 24, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -121,7 +88,7 @@
  |[Grassroot DICOM information disclosure (CVE-2024-25569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2024|
  |[Grassroot DICOM code execution (CVE-2024-22373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2024|
  |[Honeywell Experion controller, ControlEdge PLC, Safety Manager and SMSC S300 code execution (CVE-2023-5393)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Honeywell Experion controller, ControlEdge PLC, Safety Manager and SMSC S300 code execution (CVE-2023-5394)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2024|
  
 
 # OBS-Vigilance
@@ -130,35 +97,37 @@
  |---|---|---|
  
 
-# ZERODAYINITIATIVE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-411/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox vboxdrv Improper Privilege Management Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-410/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox Guest Additions Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-409/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox Web Service Exposure of Resource to Wrong Sphere Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-408/)|Visit link for details|2024-04-26|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/25/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2024|
+ |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 23, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 23, 2024|
+ |[Cisco Releases Security Advisories for Cisco Integrated Management Controller](https://www.cisa.gov/news-events/alerts/2024/04/19/cisco-releases-security-advisories-cisco-integrated-management-controller)|Visit link for details.|Apr 19, 2024|
+ |[CISA and Partners Release Advisory on Akira Ransomware](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware)|Visit link for details.|Apr 18, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Mitel security advisory (AV24-226)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-226)|Visit link for details|2024-04-25|
- |[HPE security advisory (AV24-225)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-225)|Visit link for details|2024-04-25|
- |[Drupal security advisory (AV24-224)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-224)|Visit link for details|2024-04-25|
- |[Cisco security advisory (AV24-223)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-223)|Visit link for details|2024-04-24|
- |[Cyber activity impacting CISCO ASA devices](https://www.cyber.gc.ca/en/alerts-advisories/cyber-activity-impacting-cisco-asa-devices)|Visit link for details|2024-04-24|
- |[Google Chrome security advisory (AV24-222)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-222)|Visit link for details|2024-04-24|
- |[CrushFTP security advisory (AV24-221)](https://www.cyber.gc.ca/en/alerts-advisories/crushftp-security-advisory-av24-221)|Visit link for details|2024-04-24|
- |[Dell security advisory (AV24-220)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-220)|Visit link for details|2024-04-23|
- |[Ubuntu security advisory (AV24-219)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-219)|Visit link for details|2024-04-22|
- |[IBM security advisory (AV24-218)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-218)|Visit link for details|2024-04-22|
- |[Red Hat security advisory (AV24-217)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-217)|Visit link for details|2024-04-22|
+ |[WordPress ElementsKit Pro - CVE-2024-3500](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-pro-cve-2024-3500-2024-04-26)|Visit link for details.|26/04/2024|
+ |[Red Hat - CVE-2024-1139](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-1139-2024-04-26)|Visit link for details.|26/04/2024|
+ |[Veritas - CVE-2024-33671](https://www.cyberveille-sante.gouv.fr/alertes/veritas-cve-2024-33671-2024-04-26)|Visit link for details.|26/04/2024|
+ |[GLPI - CVE-2024-28241](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-28241-2024-04-26)|Visit link for details.|26/04/2024|
+ |[M-Files - CVE-2024-4056](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-4056-2024-04-26)|Visit link for details.|26/04/2024|
+ |[Cisco - CVE-2024-20353](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20353-2024-04-26)|Visit link for details.|26/04/2024|
+ |[MongoDB - CVE-2024-3371](https://www.cyberveille-sante.gouv.fr/alertes/mongodb-cve-2024-3371-2024-04-25)|Visit link for details.|25/04/2024|
+ |[Ivanti - CVE-2024-29205](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29205-2024-04-25)|Visit link for details.|25/04/2024|
+ |[Google Chrome - CVE-2024-4058](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4058-2024-04-25)|Visit link for details.|25/04/2024|
+ |[GitLab - CVE-2024-2434](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-2434-2024-04-25)|Visit link for details.|25/04/2024|
+ |[WordPress - CVE-2023-31090](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2023-31090-2023-05-30)|Visit link for details.|25/04/2024|
  
 
 # EU-CERT
@@ -193,4 +162,35 @@
  |[ 47112204/24 - Vulnérabilité « Zero-day » affectant CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-zero-day-affectant-crushftp)| Un « Zero-day » critique affectant  les versions susmentionnées de CrushFTP a été corrigé. Cette  vulnérabilité  est activement exploitée et elle peut   permettre à un attaquant distant non…| 22 avril 2024|
  |[ 47102204/24 - Vulnérabilités critiques affectant le plugin «Forminator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-forminator-pour-wordpress)| Wordpress annonce la correction de trois vulnérabilités critiques affectant le plugin « Forminator». L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code SQL,…| 22 avril 2024|
  |[ 47091804/24 - Vulnérabilité critique affectant PuTTy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-putty)| Une vulnérabilité critique affecte les versions susmentionnées de PuTTY. L’exploitation de cette  vulnérabilité peut   permettre à un attaquant distant d’obtenir les clés privées de la victime et de…| 19 avril 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitel security advisory (AV24-226)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-226)|Visit link for details|2024-04-25|
+ |[HPE security advisory (AV24-225)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-225)|Visit link for details|2024-04-25|
+ |[Drupal security advisory (AV24-224)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-224)|Visit link for details|2024-04-25|
+ |[Cisco security advisory (AV24-223)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-223)|Visit link for details|2024-04-24|
+ |[Cyber activity impacting CISCO ASA devices](https://www.cyber.gc.ca/en/alerts-advisories/cyber-activity-impacting-cisco-asa-devices)|Visit link for details|2024-04-24|
+ |[Google Chrome security advisory (AV24-222)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-222)|Visit link for details|2024-04-24|
+ |[CrushFTP security advisory (AV24-221)](https://www.cyber.gc.ca/en/alerts-advisories/crushftp-security-advisory-av24-221)|Visit link for details|2024-04-24|
+ |[Dell security advisory (AV24-220)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-220)|Visit link for details|2024-04-23|
+ |[Ubuntu security advisory (AV24-219)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-219)|Visit link for details|2024-04-22|
+ |[IBM security advisory (AV24-218)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-218)|Visit link for details|2024-04-22|
+ |[Red Hat security advisory (AV24-217)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-217)|Visit link for details|2024-04-22|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-411/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox vboxdrv Improper Privilege Management Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-410/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox Guest Additions Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-409/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox Web Service Exposure of Resource to Wrong Sphere Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-408/)|Visit link for details|2024-04-26|
  
