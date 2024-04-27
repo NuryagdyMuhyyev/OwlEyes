@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/04/2024 07:25:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/04/2024 08:19:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5675-1 chromium - security update](https://www.linux.org/threads/dsa-5675-1-chromium-security-update.49714/)|Visit link for details.|Apr 26, 2024|
- |[USN-6754-1: nghttp2 vulnerabilities](https://www.linux.org/threads/usn-6754-1-nghttp2-vulnerabilities.49705/)|Visit link for details.|Apr 26, 2024|
- |[DSA-5674-1 pdns-recursor - security update](https://www.linux.org/threads/dsa-5674-1-pdns-recursor-security-update.49703/)|Visit link for details.|Apr 26, 2024|
- |[USN-6753-1: CryptoJS vulnerability](https://www.linux.org/threads/usn-6753-1-cryptojs-vulnerability.49699/)|Visit link for details.|Apr 25, 2024|
- |[USN-6751-1: Zabbix vulnerabilities](https://www.linux.org/threads/usn-6751-1-zabbix-vulnerabilities.49693/)|Visit link for details.|Apr 25, 2024|
- |[USN-6752-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6752-1-freerdp-vulnerabilities.49692/)|Visit link for details.|Apr 25, 2024|
- |[USN-6750-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6750-1-thunderbird-vulnerabilities.49679/)|Visit link for details.|Apr 25, 2024|
- |[USN-6743-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6743-3-linux-kernel-azure-vulnerabilities.49677/)|Visit link for details.|Apr 25, 2024|
- |[USN-6657-2: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-2-dnsmasq-vulnerabilities.49676/)|Visit link for details.|Apr 24, 2024|
- |[USN-6749-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6749-1-freerdp-vulnerabilities.49675/)|Visit link for details.|Apr 24, 2024|
- |[USN-6748-1: Sanitize vulnerabilities](https://www.linux.org/threads/usn-6748-1-sanitize-vulnerabilities.49664/)|Visit link for details.|Apr 24, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,28 +43,6 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
  |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2024|
- |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
- |[Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0345/)|Une preuve de concept a été publiée affectant|Publié le 25 avril 2024|
- |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -117,6 +78,29 @@
  |[Palo Alto Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-products-remote-code-execution-vulnerability_20240415)|A vulnerability has been identified in Palo Alto Products. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system. Note: CVE-2024-3400 affected GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-...| Release Date: 15 Apr 2024 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5675-1 chromium - security update](https://www.linux.org/threads/dsa-5675-1-chromium-security-update.49714/)|Visit link for details.|Apr 26, 2024|
+ |[USN-6754-1: nghttp2 vulnerabilities](https://www.linux.org/threads/usn-6754-1-nghttp2-vulnerabilities.49705/)|Visit link for details.|Apr 26, 2024|
+ |[DSA-5674-1 pdns-recursor - security update](https://www.linux.org/threads/dsa-5674-1-pdns-recursor-security-update.49703/)|Visit link for details.|Apr 26, 2024|
+ |[USN-6753-1: CryptoJS vulnerability](https://www.linux.org/threads/usn-6753-1-cryptojs-vulnerability.49699/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6751-1: Zabbix vulnerabilities](https://www.linux.org/threads/usn-6751-1-zabbix-vulnerabilities.49693/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6752-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6752-1-freerdp-vulnerabilities.49692/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6750-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6750-1-thunderbird-vulnerabilities.49679/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6743-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6743-3-linux-kernel-azure-vulnerabilities.49677/)|Visit link for details.|Apr 25, 2024|
+ |[USN-6657-2: Dnsmasq vulnerabilities](https://www.linux.org/threads/usn-6657-2-dnsmasq-vulnerabilities.49676/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6749-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6749-1-freerdp-vulnerabilities.49675/)|Visit link for details.|Apr 24, 2024|
+ |[USN-6748-1: Sanitize vulnerabilities](https://www.linux.org/threads/usn-6748-1-sanitize-vulnerabilities.49664/)|Visit link for details.|Apr 24, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -128,6 +112,22 @@
  |[Grassroot DICOM code execution (CVE-2024-22373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2024|
  |[Honeywell Experion controller, ControlEdge PLC, Safety Manager and SMSC S300 code execution (CVE-2023-5393)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ |[Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0345/)|Une preuve de concept a été publiée affectant|Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0343/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 avril 2024|
+ |[Multiples vulnérabilités dans NagiosXI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans NagiosXI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une atteinte à l'intégrité des données.|Publié le 24 avril 2024|
+ |[Multiples vulnérabilités dans Synacor Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)|Publié le 22 avril 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
  
 
 # EU-CERT
@@ -147,20 +147,6 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-411/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox vboxdrv Improper Privilege Management Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-410/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox Guest Additions Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-409/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox Web Service Exposure of Resource to Wrong Sphere Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-408/)|Visit link for details|2024-04-26|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -176,6 +162,20 @@
  |[Ubuntu security advisory (AV24-219)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-219)|Visit link for details|2024-04-22|
  |[IBM security advisory (AV24-218)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-218)|Visit link for details|2024-04-22|
  |[Red Hat security advisory (AV24-217)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-217)|Visit link for details|2024-04-22|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-411/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox vboxdrv Improper Privilege Management Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-410/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox Guest Additions Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-409/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox Web Service Exposure of Resource to Wrong Sphere Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-408/)|Visit link for details|2024-04-26|
  
 
 # MA-CERT
