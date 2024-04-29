@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/04/2024 00:13:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/04/2024 01:17:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,45 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[QNAP - CVE-2024-32766](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32766-2024-04-29)|Visit link for details.|29/04/2024|
- |[QNAP - CVE-2024-32764](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32764-2024-04-29)|Visit link for details.|29/04/2024|
- |[IBM i - CVE-2024-25050](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-25050-2024-04-29)|Visit link for details.|29/04/2024|
- |[Grassroot DICOM - CVE-2024-22373](https://www.cyberveille-sante.gouv.fr/alertes/grassroot-dicom-cve-2024-22373-2024-04-29)|Visit link for details.|29/04/2024|
- |[D-Link - CVE-2024-33342](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33342-2024-04-29)|Visit link for details.|29/04/2024|
- |[Google Chrome - CVE-2024-4058](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4058-2024-04-25)|Visit link for details.|29/04/2024|
- |[Runc - CVE-2023-27561](https://www.cyberveille-sante.gouv.fr/alertes/runc-cve-2023-27561-2023-03-06)|Visit link for details.|29/04/2024|
- |[WordPress ElementsKit Pro - CVE-2024-3500](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-pro-cve-2024-3500-2024-04-26)|Visit link for details.|26/04/2024|
- |[Red Hat - CVE-2024-1139](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-1139-2024-04-26)|Visit link for details.|26/04/2024|
- |[Veritas - CVE-2024-33671](https://www.cyberveille-sante.gouv.fr/alertes/veritas-cve-2024-33671-2024-04-26)|Visit link for details.|26/04/2024|
- |[GLPI - CVE-2024-28241](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-28241-2024-04-26)|Visit link for details.|26/04/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2024|
- |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
- 
 
 # US-CERT
 
@@ -101,6 +62,61 @@
  |[USN-6754-1: nghttp2 vulnerabilities](https://www.linux.org/threads/usn-6754-1-nghttp2-vulnerabilities.49705/)|Visit link for details.|Apr 26, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2024|
+ |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[QNAP - CVE-2024-32766](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32766-2024-04-29)|Visit link for details.|29/04/2024|
+ |[QNAP - CVE-2024-32764](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32764-2024-04-29)|Visit link for details.|29/04/2024|
+ |[IBM i - CVE-2024-25050](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-25050-2024-04-29)|Visit link for details.|29/04/2024|
+ |[Grassroot DICOM - CVE-2024-22373](https://www.cyberveille-sante.gouv.fr/alertes/grassroot-dicom-cve-2024-22373-2024-04-29)|Visit link for details.|29/04/2024|
+ |[D-Link - CVE-2024-33342](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33342-2024-04-29)|Visit link for details.|29/04/2024|
+ |[Google Chrome - CVE-2024-4058](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4058-2024-04-25)|Visit link for details.|29/04/2024|
+ |[Runc - CVE-2023-27561](https://www.cyberveille-sante.gouv.fr/alertes/runc-cve-2023-27561-2023-03-06)|Visit link for details.|29/04/2024|
+ |[WordPress ElementsKit Pro - CVE-2024-3500](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-pro-cve-2024-3500-2024-04-26)|Visit link for details.|26/04/2024|
+ |[Red Hat - CVE-2024-1139](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-1139-2024-04-26)|Visit link for details.|26/04/2024|
+ |[Veritas - CVE-2024-33671](https://www.cyberveille-sante.gouv.fr/alertes/veritas-cve-2024-33671-2024-04-26)|Visit link for details.|26/04/2024|
+ |[GLPI - CVE-2024-28241](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-28241-2024-04-26)|Visit link for details.|26/04/2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240429)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 29 Apr 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240429)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 29 Apr 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04-11] Updated System...| Release Date: 2 Apr 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240426)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and denial of service on the targeted system.|Release Date: 26 Apr 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240425)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. Notes:CVE-2024-20353 and CVE-2024-20359 are being exploited in the...|Release Date: 25 Apr 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240425)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 25 Apr 2024 |
+ |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20240423)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 23 Apr 2024 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240422)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and elevation of privilege on the targeted system. Note:Proof of concept exploit for CVE-2024-20295 and CVE-2024...|Release Date: 22 Apr 2024 |
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -131,20 +147,18 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
-# HK-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240429)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 29 Apr 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240429)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 29 Apr 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04-11] Updated System...| Release Date: 2 Apr 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240426)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and denial of service on the targeted system.|Release Date: 26 Apr 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 5 Apr 2024 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240425)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. Notes:CVE-2024-20353 and CVE-2024-20359 are being exploited in the...|Release Date: 25 Apr 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240425)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 25 Apr 2024 |
- |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20240423)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 23 Apr 2024 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240422)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and elevation of privilege on the targeted system. Note:Proof of concept exploit for CVE-2024-20295 and CVE-2024...|Release Date: 22 Apr 2024 |
+ |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-411/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox vboxdrv Improper Privilege Management Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-410/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox Guest Additions Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-409/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox Web Service Exposure of Resource to Wrong Sphere Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-408/)|Visit link for details|2024-04-26|
  
 
 # MA-CERT
@@ -164,24 +178,11 @@
  |[ 47091804/24 - Vulnérabilité critique affectant PuTTy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-putty)| Une vulnérabilité critique affecte les versions susmentionnées de PuTTY. L’exploitation de cette  vulnérabilité peut   permettre à un attaquant distant d’obtenir les clés privées de la victime et de…| 19 avril 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-411/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox vboxdrv Improper Privilege Management Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-410/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox Guest Additions Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-409/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox Web Service Exposure of Resource to Wrong Sphere Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-408/)|Visit link for details|2024-04-26|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] CISA ICS security advisories (AV24-230)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-230)|Visit link for details|2024-04-29|
  |[IBM security advisory (AV24-229)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-229)|Visit link for details|2024-04-29|
  |[Dell security advisory (AV24-228)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-228)|Visit link for details|2024-04-29|
  |[Ubuntu security advisory (AV24-227)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-227)|Visit link for details|2024-04-29|
@@ -192,5 +193,4 @@
  |[Cyber activity impacting CISCO ASA devices](https://www.cyber.gc.ca/en/alerts-advisories/cyber-activity-impacting-cisco-asa-devices)|Visit link for details|2024-04-24|
  |[Google Chrome security advisory (AV24-222)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-222)|Visit link for details|2024-04-24|
  |[CrushFTP security advisory (AV24-221)](https://www.cyber.gc.ca/en/alerts-advisories/crushftp-security-advisory-av24-221)|Visit link for details|2024-04-24|
- |[Dell security advisory (AV24-220)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-220)|Visit link for details|2024-04-23|
  
