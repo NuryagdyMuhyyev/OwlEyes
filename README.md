@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/04/2024 20:14:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/04/2024 21:22:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 30, 2024|
  |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/25/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2024|
  |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
@@ -42,7 +43,6 @@
  |[CISA and Partners Release Advisory on Akira Ransomware](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-and-partners-release-advisory-akira-ransomware)|Visit link for details.|Apr 18, 2024|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
  |[Oracle Releases Critical Patch Update Advisory for April 2024](https://www.cisa.gov/news-events/alerts/2024/04/18/oracle-releases-critical-patch-update-advisory-april-2024)|Visit link for details.|Apr 18, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/16/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 16, 2024|
  
 
 # CERT-FR
@@ -78,39 +78,16 @@
  |[USN-6755-1: GNU cpio vulnerabilities](https://www.linux.org/threads/usn-6755-1-gnu-cpio-vulnerabilities.49740/)|Visit link for details.|Apr 29, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Centreon - CVE-2023-51633](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2023-51633-2024-04-30)|Visit link for details.|30/04/2024|
- |[Acronis - CVE-2024-34010](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-34010-2024-04-30)|Visit link for details.|30/04/2024|
- |[D-Link - CVE-2024-33344](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33344-2024-04-30)|Visit link for details.|30/04/2024|
- |[D-Link - CVE-2024-33343](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33343-2024-04-30)|Visit link for details.|30/04/2024|
- |[QNAP - CVE-2023-47222](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47222-2024-04-30)|Visit link for details.|30/04/2024|
- |[Google Chrome - CVE-2024-3159](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3159-2024-04-03)|Visit link for details.|30/04/2024|
- |[QNAP - CVE-2024-32766](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32766-2024-04-29)|Visit link for details.|29/04/2024|
- |[QNAP - CVE-2024-32764](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32764-2024-04-29)|Visit link for details.|29/04/2024|
- |[IBM i - CVE-2024-25050](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-25050-2024-04-29)|Visit link for details.|29/04/2024|
- |[Grassroot DICOM - CVE-2024-22373](https://www.cyberveille-sante.gouv.fr/alertes/grassroot-dicom-cve-2024-22373-2024-04-29)|Visit link for details.|29/04/2024|
- |[D-Link - CVE-2024-33342](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33342-2024-04-29)|Visit link for details.|29/04/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[IBM Storage Scale session fixation (CVE-2023-38002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 29, 2024|
  |[R Programming Language code execution (CVE-2024-27322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2024|
  |[Hypr Development Hyprland weak security](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2024|
  |[Telegram WebK cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2024|
  |[IBM i privilege escalation (CVE-2024-25050)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2024|
  |[IBM MQ code execution (CVE-2024-25048)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2024|
- |[Multiple Lexmark products buffer overflow (CVE-2023-50739)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
@@ -130,6 +107,12 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240425)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 25 Apr 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -142,6 +125,23 @@
  |[(Pwn2Own) Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-411/)|Visit link for details|2024-04-26|
  |[Oracle VirtualBox vboxdrv Improper Privilege Management Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-410/)|Visit link for details|2024-04-26|
  |[Oracle VirtualBox Guest Additions Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-409/)|Visit link for details|2024-04-26|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Centreon - CVE-2023-51633](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2023-51633-2024-04-30)|Visit link for details.|30/04/2024|
+ |[Acronis - CVE-2024-34010](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-34010-2024-04-30)|Visit link for details.|30/04/2024|
+ |[D-Link - CVE-2024-33344](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33344-2024-04-30)|Visit link for details.|30/04/2024|
+ |[D-Link - CVE-2024-33343](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33343-2024-04-30)|Visit link for details.|30/04/2024|
+ |[QNAP - CVE-2023-47222](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47222-2024-04-30)|Visit link for details.|30/04/2024|
+ |[Google Chrome - CVE-2024-3159](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3159-2024-04-03)|Visit link for details.|30/04/2024|
+ |[QNAP - CVE-2024-32766](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32766-2024-04-29)|Visit link for details.|29/04/2024|
+ |[QNAP - CVE-2024-32764](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32764-2024-04-29)|Visit link for details.|29/04/2024|
+ |[IBM i - CVE-2024-25050](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-25050-2024-04-29)|Visit link for details.|29/04/2024|
+ |[Grassroot DICOM - CVE-2024-22373](https://www.cyberveille-sante.gouv.fr/alertes/grassroot-dicom-cve-2024-22373-2024-04-29)|Visit link for details.|29/04/2024|
+ |[D-Link - CVE-2024-33342](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33342-2024-04-29)|Visit link for details.|29/04/2024|
  
 
 # MA-CERT
