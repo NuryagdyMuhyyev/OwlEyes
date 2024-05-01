@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/05/2024 08:21:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/05/2024 09:20:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,20 +45,10 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0356/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.|Publié le 30 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2024|
- |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
  
 
 # LINUX-SEC
@@ -78,6 +68,22 @@
  |[USN-6729-3: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-3-apache-http-server-vulnerabilities.49742/)|Visit link for details.|Apr 29, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0356/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.|Publié le 30 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2024|
+ |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,12 +100,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240425)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 25 Apr 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -111,23 +111,6 @@
  |[HGiga iSherlock information disclosure (CVE-2024-4297)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 29, 2024|
  |[HGiga iSherlock command execution (CVE-2024-4298)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 29, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Centreon - CVE-2023-51633](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2023-51633-2024-04-30)|Visit link for details.|30/04/2024|
- |[Acronis - CVE-2024-34010](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-34010-2024-04-30)|Visit link for details.|30/04/2024|
- |[D-Link - CVE-2024-33344](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33344-2024-04-30)|Visit link for details.|30/04/2024|
- |[D-Link - CVE-2024-33343](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33343-2024-04-30)|Visit link for details.|30/04/2024|
- |[QNAP - CVE-2023-47222](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47222-2024-04-30)|Visit link for details.|30/04/2024|
- |[Google Chrome - CVE-2024-3159](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3159-2024-04-03)|Visit link for details.|30/04/2024|
- |[QNAP - CVE-2024-32766](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32766-2024-04-29)|Visit link for details.|29/04/2024|
- |[QNAP - CVE-2024-32764](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32764-2024-04-29)|Visit link for details.|29/04/2024|
- |[IBM i - CVE-2024-25050](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-25050-2024-04-29)|Visit link for details.|29/04/2024|
- |[Grassroot DICOM - CVE-2024-22373](https://www.cyberveille-sante.gouv.fr/alertes/grassroot-dicom-cve-2024-22373-2024-04-29)|Visit link for details.|29/04/2024|
- |[D-Link - CVE-2024-33342](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33342-2024-04-29)|Visit link for details.|29/04/2024|
  
 
 # EU-CERT
@@ -145,6 +128,23 @@
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
  |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Centreon - CVE-2023-51633](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2023-51633-2024-04-30)|Visit link for details.|30/04/2024|
+ |[Acronis - CVE-2024-34010](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-34010-2024-04-30)|Visit link for details.|30/04/2024|
+ |[D-Link - CVE-2024-33344](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33344-2024-04-30)|Visit link for details.|30/04/2024|
+ |[D-Link - CVE-2024-33343](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33343-2024-04-30)|Visit link for details.|30/04/2024|
+ |[QNAP - CVE-2023-47222](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47222-2024-04-30)|Visit link for details.|30/04/2024|
+ |[Google Chrome - CVE-2024-3159](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-3159-2024-04-03)|Visit link for details.|30/04/2024|
+ |[QNAP - CVE-2024-32766](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32766-2024-04-29)|Visit link for details.|29/04/2024|
+ |[QNAP - CVE-2024-32764](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-32764-2024-04-29)|Visit link for details.|29/04/2024|
+ |[IBM i - CVE-2024-25050](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-25050-2024-04-29)|Visit link for details.|29/04/2024|
+ |[Grassroot DICOM - CVE-2024-22373](https://www.cyberveille-sante.gouv.fr/alertes/grassroot-dicom-cve-2024-22373-2024-04-29)|Visit link for details.|29/04/2024|
+ |[D-Link - CVE-2024-33342](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33342-2024-04-29)|Visit link for details.|29/04/2024|
  
 
 # ZERODAYINITIATIVE
