@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/05/2024 23:22:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/05/2024 00:15:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,26 +29,21 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist)|Visit link for details.|May 01, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 30, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 30, 2024|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/25/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2024|
- |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 23, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 23, 2024|
- |[Cisco Releases Security Advisories for Cisco Integrated Management Controller](https://www.cisa.gov/news-events/alerts/2024/04/19/cisco-releases-security-advisories-cisco-integrated-management-controller)|Visit link for details.|Apr 19, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[USN-6760-1: Gerbv vulnerability](https://www.linux.org/threads/usn-6760-1-gerbv-vulnerability.49765/)|Visit link for details.|May 1, 2024|
+ |[LSN-0103-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0103-1-kernel-live-patch-security-notice.49763/)|Visit link for details.|Apr 30, 2024|
+ |[USN-6758-1: JSON5 vulnerability](https://www.linux.org/threads/usn-6758-1-json5-vulnerability.49762/)|Visit link for details.|Apr 30, 2024|
+ |[USN-6761-1: Anope vulnerability](https://www.linux.org/threads/usn-6761-1-anope-vulnerability.49759/)|Visit link for details.|Apr 30, 2024|
+ |[USN-6759-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6759-1-freerdp-vulnerabilities.49753/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6757-1: PHP vulnerabilities](https://www.linux.org/threads/usn-6757-1-php-vulnerabilities.49750/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6744-3: Pillow vulnerability](https://www.linux.org/threads/usn-6744-3-pillow-vulnerability.49746/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6734-2: libvirt vulnerabilities](https://www.linux.org/threads/usn-6734-2-libvirt-vulnerabilities.49745/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6733-2: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6733-2-gnutls-vulnerabilities.49744/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6718-3: curl vulnerabilities](https://www.linux.org/threads/usn-6718-3-curl-vulnerabilities.49743/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6729-3: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-3-apache-http-server-vulnerabilities.49742/)|Visit link for details.|Apr 29, 2024|
  
 
 # CERT-SANTE
@@ -84,6 +79,22 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist)|Visit link for details.|May 01, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
+ |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 30, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 30, 2024|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/25/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2024|
+ |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 23, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 23, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -100,21 +111,10 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240425)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 25 Apr 2024 |
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6760-1: Gerbv vulnerability](https://www.linux.org/threads/usn-6760-1-gerbv-vulnerability.49765/)|Visit link for details.|May 1, 2024|
- |[LSN-0103-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0103-1-kernel-live-patch-security-notice.49763/)|Visit link for details.|Apr 30, 2024|
- |[USN-6758-1: JSON5 vulnerability](https://www.linux.org/threads/usn-6758-1-json5-vulnerability.49762/)|Visit link for details.|Apr 30, 2024|
- |[USN-6761-1: Anope vulnerability](https://www.linux.org/threads/usn-6761-1-anope-vulnerability.49759/)|Visit link for details.|Apr 30, 2024|
- |[USN-6759-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6759-1-freerdp-vulnerabilities.49753/)|Visit link for details.|Apr 29, 2024|
- |[USN-6757-1: PHP vulnerabilities](https://www.linux.org/threads/usn-6757-1-php-vulnerabilities.49750/)|Visit link for details.|Apr 29, 2024|
- |[USN-6744-3: Pillow vulnerability](https://www.linux.org/threads/usn-6744-3-pillow-vulnerability.49746/)|Visit link for details.|Apr 29, 2024|
- |[USN-6734-2: libvirt vulnerabilities](https://www.linux.org/threads/usn-6734-2-libvirt-vulnerabilities.49745/)|Visit link for details.|Apr 29, 2024|
- |[USN-6733-2: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6733-2-gnutls-vulnerabilities.49744/)|Visit link for details.|Apr 29, 2024|
- |[USN-6718-3: curl vulnerabilities](https://www.linux.org/threads/usn-6718-3-curl-vulnerabilities.49743/)|Visit link for details.|Apr 29, 2024|
- |[USN-6729-3: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-3-apache-http-server-vulnerabilities.49742/)|Visit link for details.|Apr 29, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -128,20 +128,6 @@
  |[IBM MQ denial of service (CVE-2024-25015)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
  |[IBM Cloud Pak for Security information disclosure (CVE-2022-38386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Centreon sysName Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-416/)|Visit link for details|2024-04-29|
- |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-411/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox vboxdrv Improper Privilege Management Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-410/)|Visit link for details|2024-04-26|
- |[Oracle VirtualBox Guest Additions Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-409/)|Visit link for details|2024-04-26|
  
 
 # EU-CERT
@@ -159,6 +145,20 @@
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
  |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Centreon sysName Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-416/)|Visit link for details|2024-04-29|
+ |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-411/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox vboxdrv Improper Privilege Management Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-410/)|Visit link for details|2024-04-26|
+ |[Oracle VirtualBox Guest Additions Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-409/)|Visit link for details|2024-04-26|
  
 
 # CA-CCS
