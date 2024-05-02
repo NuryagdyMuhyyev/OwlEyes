@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/05/2024 19:15:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/05/2024 20:18:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 02, 2024|
  |[CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist)|Visit link for details.|May 01, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
  |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
@@ -42,7 +43,6 @@
  |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 23, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 23, 2024|
  
 
 # LINUX-SEC
@@ -62,6 +62,41 @@
  |[USN-6733-2: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6733-2-gnutls-vulnerabilities.49744/)|Visit link for details.|Apr 29, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0356/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.|Publié le 30 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2024|
+ |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zscaler Client Connector code execution (CVE-2024-23480)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 1, 2024|
+ |[Apache ActiveMQ security bypass (CVE-2024-32114)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Cisco IP Phone security bypass (CVE-2024-20357)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Cisco IP Phone information disclosure (CVE-2024-20378)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Cisco IP Phone denial of service (CVE-2024-20376)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Delta Electronics CNCSoft-G2 DOPSoft buffer overflow (CVE-2024-4192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -79,22 +114,6 @@
  |[Grassroot DICOM - CVE-2024-22373](https://www.cyberveille-sante.gouv.fr/alertes/grassroot-dicom-cve-2024-22373-2024-04-29)|Visit link for details.|29/04/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0356/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.|Publié le 30 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2024|
- |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,25 +128,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
  |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240430)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240429)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 29 Apr 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache ActiveMQ security bypass (CVE-2024-32114)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Cisco IP Phone security bypass (CVE-2024-20357)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Cisco IP Phone information disclosure (CVE-2024-20378)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Cisco IP Phone denial of service (CVE-2024-20376)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Delta Electronics CNCSoft-G2 DOPSoft buffer overflow (CVE-2024-4192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Google Chrome code execution (CVE-2024-4368)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -165,6 +165,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 47220205/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de sécurité…| 02 mai 2024|
  |[ 47210205/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service et d’exécuter…| 02 mai 2024|
  |[ 47200205/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-7)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de privilège…| 02 mai 2024|
  |[ 47193004/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-5)| Plusieurs vulnérabilités ont été corrigées dans les produits Qnap susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 30 avril 2024|
@@ -175,7 +176,6 @@
  |[ 47142404/24 - Vulnérabilité affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-1)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 24 avril 2024|
  |[ 47152404/24 - Vulnérabilités critiques affectant la bibliothèque de bases données… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-la-bibliotheque-de-bases-donnees-javascript-node)| Trois vulnérabilités affectant la bibliothèque de  bases de données javascript « node-mysql2 » ont été corrigées. Deux de ces vulnérabilités dont l’exploit existe sont très critiques et peuvent…| 24 avril 2024|
  |[ 47132304/24 - Vulnérabilité affectant Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-zimbra-collaboration)| Veuillez se référer au bulletin de sécurité de Zimbra pour installer les mises à jour.| 23 avril 2024|
- |[ 47122204/24 - Vulnérabilité affectant Confluence Data Center and Confluence Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-confluence-data-center-and-confluence-server)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.  L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du     code…| 22 avril 2024|
  
 
 # CA-CCS
