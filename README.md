@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/05/2024 16:14:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/05/2024 17:32:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,39 +78,10 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 2 May 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 2 May 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 2 May 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. |Release Date: 2 May 2024 |
- |[Microsoft Monthly Security Update (April 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low RiskSpoofing Windows High RiskSecurity Restriction BypassRemote Code ExecutionDenial of ServiceInformation DisclosureElevation of Privilege...| Release Date: 10 Apr 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-05-02]CVE-2023-7028 is being...| Release Date: 15 Jan 2024 |
- |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20240430)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240430)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240429)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 29 Apr 2024 |
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache ActiveMQ security bypass (CVE-2024-32114)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Cisco IP Phone security bypass (CVE-2024-20357)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Cisco IP Phone information disclosure (CVE-2024-20378)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Cisco IP Phone denial of service (CVE-2024-20376)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Delta Electronics CNCSoft-G2 DOPSoft buffer overflow (CVE-2024-4192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Google Chrome code execution (CVE-2024-4368)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # CERT-SANTE
@@ -128,6 +99,35 @@
  |[IBM i - CVE-2024-25050](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-25050-2024-04-29)|Visit link for details.|29/04/2024|
  |[Grassroot DICOM - CVE-2024-22373](https://www.cyberveille-sante.gouv.fr/alertes/grassroot-dicom-cve-2024-22373-2024-04-29)|Visit link for details.|29/04/2024|
  |[D-Link - CVE-2024-33342](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33342-2024-04-29)|Visit link for details.|29/04/2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 2 May 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 2 May 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 2 May 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. |Release Date: 2 May 2024 |
+ |[Microsoft Monthly Security Update (April 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low RiskSpoofing Windows High RiskSecurity Restriction BypassRemote Code ExecutionDenial of ServiceInformation DisclosureElevation of Privilege...| Release Date: 10 Apr 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-05-02]CVE-2023-7028 is being...| Release Date: 15 Jan 2024 |
+ |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20240430)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240430)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240429)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 29 Apr 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache ActiveMQ security bypass (CVE-2024-32114)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Cisco IP Phone security bypass (CVE-2024-20357)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Cisco IP Phone information disclosure (CVE-2024-20378)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Cisco IP Phone denial of service (CVE-2024-20376)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Delta Electronics CNCSoft-G2 DOPSoft buffer overflow (CVE-2024-4192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Google Chrome code execution (CVE-2024-4368)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -161,23 +161,6 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47193004/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-5)| Plusieurs vulnérabilités ont été corrigées dans les produits Qnap susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 30 avril 2024|
- |[ 47182504/24 - Vulnérabilité critique affectant Flowmon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-flowmon)| Une vulnérabilité très critique affectant l’outil de monitoring de réseaux « Flowmon » a été corrigée. L’exploitation réussite de cette vulnérabilité peut permettre à un attaquant distant non…| 26 avril 2024|
- |[ 47172604/24 - Vulnérabilité critique affectant le plugin «WP-Automatic» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-automatic-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP-Automatic» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle total sur le site web…| 26 avril 2024|
- |[ 47162504/24 - Vulnérabilités affectant Cisco Adaptive Security Appliance and Firepower… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-cisco-adaptive-security-appliance-and-firepower-threat-defense)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de son produit Cisco  Adaptive Security Appliance and Firepower Threat Defense Software. L’exploitation de ces…| 25 avril 2024|
- |[ 47152504/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-20)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. Une de ces vulnérabilités est très critique et son…| 25 avril 2024|
- |[ 47142404/24 - Vulnérabilité affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-1)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 24 avril 2024|
- |[ 47152404/24 - Vulnérabilités critiques affectant la bibliothèque de bases données… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-la-bibliotheque-de-bases-donnees-javascript-node)| Trois vulnérabilités affectant la bibliothèque de  bases de données javascript « node-mysql2 » ont été corrigées. Deux de ces vulnérabilités dont l’exploit existe sont très critiques et peuvent…| 24 avril 2024|
- |[ 47132304/24 - Vulnérabilité affectant Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-zimbra-collaboration)| Veuillez se référer au bulletin de sécurité de Zimbra pour installer les mises à jour.| 23 avril 2024|
- |[ 47122204/24 - Vulnérabilité affectant Confluence Data Center and Confluence Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-confluence-data-center-and-confluence-server)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.  L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du     code…| 22 avril 2024|
- |[ 47112204/24 - Vulnérabilité « Zero-day » affectant CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-zero-day-affectant-crushftp)| Un « Zero-day » critique affectant  les versions susmentionnées de CrushFTP a été corrigé. Cette  vulnérabilité  est activement exploitée et elle peut   permettre à un attaquant distant non…| 22 avril 2024|
- |[ 47102204/24 - Vulnérabilités critiques affectant le plugin «Forminator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-forminator-pour-wordpress)| Wordpress annonce la correction de trois vulnérabilités critiques affectant le plugin « Forminator». L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code SQL,…| 22 avril 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -193,4 +176,21 @@
  |[Dell security advisory (AV24-228)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-228)|Visit link for details|2024-04-29|
  |[Ubuntu security advisory (AV24-227)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-227)|Visit link for details|2024-04-29|
  |[Mitel security advisory (AV24-226)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-226)|Visit link for details|2024-04-25|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47193004/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-5)| Plusieurs vulnérabilités ont été corrigées dans les produits Qnap susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 30 avril 2024|
+ |[ 47182504/24 - Vulnérabilité critique affectant Flowmon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-flowmon)| Une vulnérabilité très critique affectant l’outil de monitoring de réseaux « Flowmon » a été corrigée. L’exploitation réussite de cette vulnérabilité peut permettre à un attaquant distant non…| 26 avril 2024|
+ |[ 47172604/24 - Vulnérabilité critique affectant le plugin «WP-Automatic» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-automatic-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP-Automatic» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle total sur le site web…| 26 avril 2024|
+ |[ 47162504/24 - Vulnérabilités affectant Cisco Adaptive Security Appliance and Firepower… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-cisco-adaptive-security-appliance-and-firepower-threat-defense)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de son produit Cisco  Adaptive Security Appliance and Firepower Threat Defense Software. L’exploitation de ces…| 25 avril 2024|
+ |[ 47152504/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-20)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. Une de ces vulnérabilités est très critique et son…| 25 avril 2024|
+ |[ 47142404/24 - Vulnérabilité affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-1)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 24 avril 2024|
+ |[ 47152404/24 - Vulnérabilités critiques affectant la bibliothèque de bases données… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-la-bibliotheque-de-bases-donnees-javascript-node)| Trois vulnérabilités affectant la bibliothèque de  bases de données javascript « node-mysql2 » ont été corrigées. Deux de ces vulnérabilités dont l’exploit existe sont très critiques et peuvent…| 24 avril 2024|
+ |[ 47132304/24 - Vulnérabilité affectant Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-zimbra-collaboration)| Veuillez se référer au bulletin de sécurité de Zimbra pour installer les mises à jour.| 23 avril 2024|
+ |[ 47122204/24 - Vulnérabilité affectant Confluence Data Center and Confluence Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-confluence-data-center-and-confluence-server)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.  L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du     code…| 22 avril 2024|
+ |[ 47112204/24 - Vulnérabilité « Zero-day » affectant CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-zero-day-affectant-crushftp)| Un « Zero-day » critique affectant  les versions susmentionnées de CrushFTP a été corrigé. Cette  vulnérabilité  est activement exploitée et elle peut   permettre à un attaquant distant non…| 22 avril 2024|
+ |[ 47102204/24 - Vulnérabilités critiques affectant le plugin «Forminator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-forminator-pour-wordpress)| Wordpress annonce la correction de trois vulnérabilités critiques affectant le plugin « Forminator». L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code SQL,…| 22 avril 2024|
  
