@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/05/2024 08:18:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/05/2024 09:20:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6760-1: Gerbv vulnerability](https://www.linux.org/threads/usn-6760-1-gerbv-vulnerability.49765/)|Visit link for details.|May 1, 2024|
+ |[LSN-0103-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0103-1-kernel-live-patch-security-notice.49763/)|Visit link for details.|Apr 30, 2024|
+ |[USN-6758-1: JSON5 vulnerability](https://www.linux.org/threads/usn-6758-1-json5-vulnerability.49762/)|Visit link for details.|Apr 30, 2024|
+ |[USN-6761-1: Anope vulnerability](https://www.linux.org/threads/usn-6761-1-anope-vulnerability.49759/)|Visit link for details.|Apr 30, 2024|
+ |[USN-6759-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6759-1-freerdp-vulnerabilities.49753/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6757-1: PHP vulnerabilities](https://www.linux.org/threads/usn-6757-1-php-vulnerabilities.49750/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6744-3: Pillow vulnerability](https://www.linux.org/threads/usn-6744-3-pillow-vulnerability.49746/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6734-2: libvirt vulnerabilities](https://www.linux.org/threads/usn-6734-2-libvirt-vulnerabilities.49745/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6733-2: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6733-2-gnutls-vulnerabilities.49744/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6718-3: curl vulnerabilities](https://www.linux.org/threads/usn-6718-3-curl-vulnerabilities.49743/)|Visit link for details.|Apr 29, 2024|
+ |[USN-6729-3: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-3-apache-http-server-vulnerabilities.49742/)|Visit link for details.|Apr 29, 2024|
+ 
 
 # US-CERT
 
@@ -61,21 +78,10 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6760-1: Gerbv vulnerability](https://www.linux.org/threads/usn-6760-1-gerbv-vulnerability.49765/)|Visit link for details.|May 1, 2024|
- |[LSN-0103-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0103-1-kernel-live-patch-security-notice.49763/)|Visit link for details.|Apr 30, 2024|
- |[USN-6758-1: JSON5 vulnerability](https://www.linux.org/threads/usn-6758-1-json5-vulnerability.49762/)|Visit link for details.|Apr 30, 2024|
- |[USN-6761-1: Anope vulnerability](https://www.linux.org/threads/usn-6761-1-anope-vulnerability.49759/)|Visit link for details.|Apr 30, 2024|
- |[USN-6759-1: FreeRDP vulnerabilities](https://www.linux.org/threads/usn-6759-1-freerdp-vulnerabilities.49753/)|Visit link for details.|Apr 29, 2024|
- |[USN-6757-1: PHP vulnerabilities](https://www.linux.org/threads/usn-6757-1-php-vulnerabilities.49750/)|Visit link for details.|Apr 29, 2024|
- |[USN-6744-3: Pillow vulnerability](https://www.linux.org/threads/usn-6744-3-pillow-vulnerability.49746/)|Visit link for details.|Apr 29, 2024|
- |[USN-6734-2: libvirt vulnerabilities](https://www.linux.org/threads/usn-6734-2-libvirt-vulnerabilities.49745/)|Visit link for details.|Apr 29, 2024|
- |[USN-6733-2: GnuTLS vulnerabilities](https://www.linux.org/threads/usn-6733-2-gnutls-vulnerabilities.49744/)|Visit link for details.|Apr 29, 2024|
- |[USN-6718-3: curl vulnerabilities](https://www.linux.org/threads/usn-6718-3-curl-vulnerabilities.49743/)|Visit link for details.|Apr 29, 2024|
- |[USN-6729-3: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-3-apache-http-server-vulnerabilities.49742/)|Visit link for details.|Apr 29, 2024|
  
 
 # CERT-SANTE
@@ -95,25 +101,6 @@
  |[D-Link - CVE-2024-33342](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33342-2024-04-29)|Visit link for details.|29/04/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache ActiveMQ security bypass (CVE-2024-32114)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Cisco IP Phone security bypass (CVE-2024-20357)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Cisco IP Phone information disclosure (CVE-2024-20378)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Cisco IP Phone denial of service (CVE-2024-20376)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Delta Electronics CNCSoft-G2 DOPSoft buffer overflow (CVE-2024-4192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[Google Chrome code execution (CVE-2024-4368)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -128,6 +115,19 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
  |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240430)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240429)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 29 Apr 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache ActiveMQ security bypass (CVE-2024-32114)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Cisco IP Phone security bypass (CVE-2024-20357)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Cisco IP Phone information disclosure (CVE-2024-20378)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Cisco IP Phone denial of service (CVE-2024-20376)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Delta Electronics CNCSoft-G2 DOPSoft buffer overflow (CVE-2024-4192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[Google Chrome code execution (CVE-2024-4368)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 30, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -161,23 +161,6 @@
  |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco security advisory (AV24-236)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-236)|Visit link for details|2024-05-01|
- |[HPE security advisory (AV24-235)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-235)|Visit link for details|2024-05-01|
- |[Google Chrome security advisory (AV24-234)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-234)|Visit link for details|2024-05-01|
- |[SonicWall security advisory (AV24-233)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-233)|Visit link for details|2024-04-30|
- |[HPE security advisory (AV24-232)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-232)|Visit link for details|2024-04-30|
- |[Microsoft Edge security advisory (AV24-231)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-231)|Visit link for details|2024-04-29|
- |[[Control systems] CISA ICS security advisories (AV24-230)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-230)|Visit link for details|2024-04-29|
- |[IBM security advisory (AV24-229)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-229)|Visit link for details|2024-04-29|
- |[Dell security advisory (AV24-228)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-228)|Visit link for details|2024-04-29|
- |[Ubuntu security advisory (AV24-227)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-227)|Visit link for details|2024-04-29|
- |[Mitel security advisory (AV24-226)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-226)|Visit link for details|2024-04-25|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -193,4 +176,21 @@
  |[ 47122204/24 - Vulnérabilité affectant Confluence Data Center and Confluence Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-confluence-data-center-and-confluence-server)| Atlassian  annonce la correction d’une vulnérabilité critique affectant ses produits  susmentionnés.  L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du     code…| 22 avril 2024|
  |[ 47112204/24 - Vulnérabilité « Zero-day » affectant CrushFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-zero-day-affectant-crushftp)| Un « Zero-day » critique affectant  les versions susmentionnées de CrushFTP a été corrigé. Cette  vulnérabilité  est activement exploitée et elle peut   permettre à un attaquant distant non…| 22 avril 2024|
  |[ 47102204/24 - Vulnérabilités critiques affectant le plugin «Forminator» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-plugin-forminator-pour-wordpress)| Wordpress annonce la correction de trois vulnérabilités critiques affectant le plugin « Forminator». L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code SQL,…| 22 avril 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco security advisory (AV24-236)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-236)|Visit link for details|2024-05-01|
+ |[HPE security advisory (AV24-235)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-235)|Visit link for details|2024-05-01|
+ |[Google Chrome security advisory (AV24-234)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-234)|Visit link for details|2024-05-01|
+ |[SonicWall security advisory (AV24-233)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-233)|Visit link for details|2024-04-30|
+ |[HPE security advisory (AV24-232)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-232)|Visit link for details|2024-04-30|
+ |[Microsoft Edge security advisory (AV24-231)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-231)|Visit link for details|2024-04-29|
+ |[[Control systems] CISA ICS security advisories (AV24-230)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-230)|Visit link for details|2024-04-29|
+ |[IBM security advisory (AV24-229)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-229)|Visit link for details|2024-04-29|
+ |[Dell security advisory (AV24-228)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-228)|Visit link for details|2024-04-29|
+ |[Ubuntu security advisory (AV24-227)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-227)|Visit link for details|2024-04-29|
+ |[Mitel security advisory (AV24-226)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-226)|Visit link for details|2024-04-25|
  
