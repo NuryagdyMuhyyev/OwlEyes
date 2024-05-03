@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/05/2024 13:20:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/05/2024 14:18:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,42 +62,10 @@
  |[USN-6744-3: Pillow vulnerability](https://www.linux.org/threads/usn-6744-3-pillow-vulnerability.49746/)|Visit link for details.|Apr 29, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0356/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.|Publié le 30 avril 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
- |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2024|
- |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240503)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 3 May 2024 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 2 May 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 2 May 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 2 May 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. |Release Date: 2 May 2024 |
- |[Microsoft Monthly Security Update (April 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low RiskSpoofing Windows High RiskSecurity Restriction BypassRemote Code ExecutionDenial of ServiceInformation DisclosureElevation of Privilege...| Release Date: 10 Apr 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-05-02]CVE-2023-7028 is being...| Release Date: 15 Jan 2024 |
- |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20240430)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240430)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
  
 
 # CERT-SANTE
@@ -115,6 +83,38 @@
  |[D-Link - CVE-2024-33344](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33344-2024-04-30)|Visit link for details.|30/04/2024|
  |[D-Link - CVE-2024-33343](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33343-2024-04-30)|Visit link for details.|30/04/2024|
  |[QNAP - CVE-2023-47222](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-47222-2024-04-30)|Visit link for details.|30/04/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0356/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.|Publié le 30 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
+ |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2024|
+ |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240503)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 3 May 2024 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 2 May 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 2 May 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 2 May 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. |Release Date: 2 May 2024 |
+ |[Microsoft Monthly Security Update (April 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low RiskSpoofing Windows High RiskSecurity Restriction BypassRemote Code ExecutionDenial of ServiceInformation DisclosureElevation of Privilege...| Release Date: 10 Apr 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-05-02]CVE-2023-7028 is being...| Release Date: 15 Jan 2024 |
+ |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20240430)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240430)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
