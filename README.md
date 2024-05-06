@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/05/2024 22:17:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/05/2024 23:25:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,22 +45,6 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0367/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 mai 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0363/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le greffon Media Streaming de Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/)|De multiples vulnérabilités ont été découvertes dans|Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
- |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0359/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0358/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -76,19 +60,6 @@
  |[LSN-0103-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0103-1-kernel-live-patch-security-notice.49763/)|Visit link for details.|Apr 30, 2024|
  |[USN-6758-1: JSON5 vulnerability](https://www.linux.org/threads/usn-6758-1-json5-vulnerability.49762/)|Visit link for details.|Apr 30, 2024|
  |[USN-6761-1: Anope vulnerability](https://www.linux.org/threads/usn-6761-1-anope-vulnerability.49759/)|Visit link for details.|Apr 30, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Aspera Orchestrator cross-site scripting (CVE-2023-27283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[IBM Aspera Orchestrator information disclosure (CVE-2023-27281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[IBM Aspera Orchestrator information disclosure (CVE-2023-27280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[Apache Hive code execution (CVE-2023-35701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
- |[CyberPower PowerPanel security bypass (CVE-2024-31409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
- |[CyberPower PowerPanel SQL injection (CVE-2024-31856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
@@ -112,6 +83,52 @@
  |[Aruba - CVE-2024-26304](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-26304-2024-05-03)|Visit link for details.|03/05/2024|
  |[Aruba - CVE-2024-33511](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-33511-2024-05-03)|Visit link for details.|03/05/2024|
  |[D-Link - CVE-2023-35723](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35723-2023-07-03)|Visit link for details.|03/05/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0363/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le greffon Media Streaming de Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/)|De multiples vulnérabilités ont été découvertes dans|Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
+ |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0359/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0358/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
+ |[Multiples vulnérabilités dans Cisco IP Phone](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0357/)|De multiples vulnérabilités ont été découvertes dans Cisco IP Phone. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service à distance.|Publié le 2 mai 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM Aspera Orchestrator cross-site scripting (CVE-2023-27283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
+ |[IBM Aspera Orchestrator information disclosure (CVE-2023-27281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
+ |[IBM Aspera Orchestrator information disclosure (CVE-2023-27280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
+ |[Apache Hive code execution (CVE-2023-35701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
+ |[CyberPower PowerPanel security bypass (CVE-2024-31409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
+ |[CyberPower PowerPanel SQL injection (CVE-2024-31856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
+ |[2024-042: Vulnerability in Cisco Integrated Management Controller](https://cert.europa.eu/publications/security-advisories/2024-042/)|On April 17, 2024, Cisco disclosed vulnerabilities in its Cisco Integrated Management Controller product. |Thursday, April 18, 2024 04:36:20 PM CEST|
+ |[2024-041: Multiple Vulnerabilities in Ivanti Avalanche MDM](https://cert.europa.eu/publications/security-advisories/2024-041/)|On April 16, 2024, Ivanti disclosed several vulnerabilities in its Avalanche MDM solution, including two critical heap overflow issues allowing unauthenticated remote command execution.|Wednesday, April 17, 2024 11:32:02 AM CEST|
+ |[2024-040: Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2024-040/)|On April 16, 2024, Atlassian released a security advisory addressing 7 high vulnerabilities in Bamboo Data Center, Confluence Data Center, Jira Software Data Center, and Jira Service Management Data Center.|Wednesday, April 17, 2024 11:31:38 AM CEST|
+ |[2024-039: Crtitical Putty Client Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-039/)|A critical vulnerability, identified as CVE-2024-31497, affects the PuTTY SSH client. This vulnerability stems from a bias in ECDSA nonce generation when using the NIST P-521 elliptic curve. Attackers can exploit this bias to recover private keys after observing a relatively small number of ECDSA signatures.|Tuesday, April 16, 2024 09:00:16 PM CEST|
+ |[2024-038: Critical vulnerabilities in Junos OS and Junos OS Evolved](https://cert.europa.eu/publications/security-advisories/2024-038/)|Multiple critical vulnerabilities have been identified in Juniper Networks Junos OS and Junos OS Evolved, primarily related to outdated cURL libraries. These vulnerabilities could allow remote attackers to execute arbitrary code, cause denial of service, or leak sensitive information. |Tuesday, April 16, 2024 08:59:45 PM CEST|
+ |[2024-037: Critical Vulnerability in PAN-OS software](https://cert.europa.eu/publications/security-advisories/2024-037/)|On April 12, 2024, Palo Alto Networks released a security advisory for a critical vulnerability affecting a feature of PAN-OS software. This vulnerability allows an unauthenticated remote attacker to execute arbitrary code as root on the affected device.|Monday, April 29, 2024 12:45:35 PM CEST|
+ |[2024-036: Vulnerabilities in Fortinet products](https://cert.europa.eu/publications/security-advisories/2024-036/)|On April 11, 2024, Fortinet released multiple advisories regarding high and critical vulnerabilities affecting FortiOS, FortiProxy, FortiClient Mac and FortiClient Linux. |Thursday, April 11, 2024 11:01:43 AM CEST|
+ |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
+ |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
+ |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
 # HK-CERT
@@ -144,21 +161,21 @@
  |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
  
 
-# EU-CERT
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
- |[2024-042: Vulnerability in Cisco Integrated Management Controller](https://cert.europa.eu/publications/security-advisories/2024-042/)|On April 17, 2024, Cisco disclosed vulnerabilities in its Cisco Integrated Management Controller product. |Thursday, April 18, 2024 04:36:20 PM CEST|
- |[2024-041: Multiple Vulnerabilities in Ivanti Avalanche MDM](https://cert.europa.eu/publications/security-advisories/2024-041/)|On April 16, 2024, Ivanti disclosed several vulnerabilities in its Avalanche MDM solution, including two critical heap overflow issues allowing unauthenticated remote command execution.|Wednesday, April 17, 2024 11:32:02 AM CEST|
- |[2024-040: Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2024-040/)|On April 16, 2024, Atlassian released a security advisory addressing 7 high vulnerabilities in Bamboo Data Center, Confluence Data Center, Jira Software Data Center, and Jira Service Management Data Center.|Wednesday, April 17, 2024 11:31:38 AM CEST|
- |[2024-039: Crtitical Putty Client Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-039/)|A critical vulnerability, identified as CVE-2024-31497, affects the PuTTY SSH client. This vulnerability stems from a bias in ECDSA nonce generation when using the NIST P-521 elliptic curve. Attackers can exploit this bias to recover private keys after observing a relatively small number of ECDSA signatures.|Tuesday, April 16, 2024 09:00:16 PM CEST|
- |[2024-038: Critical vulnerabilities in Junos OS and Junos OS Evolved](https://cert.europa.eu/publications/security-advisories/2024-038/)|Multiple critical vulnerabilities have been identified in Juniper Networks Junos OS and Junos OS Evolved, primarily related to outdated cURL libraries. These vulnerabilities could allow remote attackers to execute arbitrary code, cause denial of service, or leak sensitive information. |Tuesday, April 16, 2024 08:59:45 PM CEST|
- |[2024-037: Critical Vulnerability in PAN-OS software](https://cert.europa.eu/publications/security-advisories/2024-037/)|On April 12, 2024, Palo Alto Networks released a security advisory for a critical vulnerability affecting a feature of PAN-OS software. This vulnerability allows an unauthenticated remote attacker to execute arbitrary code as root on the affected device.|Monday, April 29, 2024 12:45:35 PM CEST|
- |[2024-036: Vulnerabilities in Fortinet products](https://cert.europa.eu/publications/security-advisories/2024-036/)|On April 11, 2024, Fortinet released multiple advisories regarding high and critical vulnerabilities affecting FortiOS, FortiProxy, FortiClient Mac and FortiClient Linux. |Thursday, April 11, 2024 11:01:43 AM CEST|
- |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
- |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
- |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
+ |[ 47260605/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-0)| Veuillez se référer au bulletin de sécurité WordPress afin d’installer les nouvelles mises à jour.| 06 mai 2024|
+ |[ 47250605/24 - Vulnérabilités dans PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-postgresql-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de PostgreSQL pgAdmin. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et…| 06 mai 2024|
+ |[ 47240305/24 - Vulnérabilité critique dans Langage de programmation R ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-langage-de-programmation-r)| Le projet R a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-27322) affectant le langage de programmation R.  La vulnérabilité est présente en raison du processus de…| 03 mai 2024|
+ |[ 47230305/24 - Vulnérabilités dans SonicWall GMS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-gms)| Deux vulnérabilités ont été corrigées dans SonicWall GMS. L'exploitation de ces failles peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la…| 03 mai 2024|
+ |[ 47220205/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de sécurité…| 02 mai 2024|
+ |[ 47210205/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service et d’exécuter…| 02 mai 2024|
+ |[ 47200205/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-7)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de privilège…| 02 mai 2024|
+ |[ 47193004/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-5)| Plusieurs vulnérabilités ont été corrigées dans les produits Qnap susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 30 avril 2024|
+ |[ 47182504/24 - Vulnérabilité critique affectant Flowmon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-flowmon)| Une vulnérabilité très critique affectant l’outil de monitoring de réseaux « Flowmon » a été corrigée. L’exploitation réussite de cette vulnérabilité peut permettre à un attaquant distant non…| 26 avril 2024|
+ |[ 47172604/24 - Vulnérabilité critique affectant le plugin «WP-Automatic» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-automatic-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP-Automatic» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle total sur le site web…| 26 avril 2024|
+ |[ 47162504/24 - Vulnérabilités affectant Cisco Adaptive Security Appliance and Firepower… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-cisco-adaptive-security-appliance-and-firepower-threat-defense)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de son produit Cisco  Adaptive Security Appliance and Firepower Threat Defense Software. L’exploitation de ces…| 25 avril 2024|
  
 
 # CA-CCS
@@ -176,21 +193,4 @@
  |[IBM security advisory (AV24-229)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-229)|Visit link for details|2024-04-29|
  |[Dell security advisory (AV24-228)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-228)|Visit link for details|2024-04-29|
  |[Ubuntu security advisory (AV24-227)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-227)|Visit link for details|2024-04-29|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47260605/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-0)| Veuillez se référer au bulletin de sécurité WordPress afin d’installer les nouvelles mises à jour.| 06 mai 2024|
- |[ 47250605/24 - Vulnérabilités dans PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-postgresql-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de PostgreSQL pgAdmin. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et…| 06 mai 2024|
- |[ 47240305/24 - Vulnérabilité critique dans Langage de programmation R ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-langage-de-programmation-r)| Le projet R a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-27322) affectant le langage de programmation R.  La vulnérabilité est présente en raison du processus de…| 03 mai 2024|
- |[ 47230305/24 - Vulnérabilités dans SonicWall GMS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-gms)| Deux vulnérabilités ont été corrigées dans SonicWall GMS. L'exploitation de ces failles peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la…| 03 mai 2024|
- |[ 47220205/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de causer un problème de sécurité…| 02 mai 2024|
- |[ 47210205/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service et d’exécuter…| 02 mai 2024|
- |[ 47200205/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-7)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de privilège…| 02 mai 2024|
- |[ 47193004/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-5)| Plusieurs vulnérabilités ont été corrigées dans les produits Qnap susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 30 avril 2024|
- |[ 47182504/24 - Vulnérabilité critique affectant Flowmon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-flowmon)| Une vulnérabilité très critique affectant l’outil de monitoring de réseaux « Flowmon » a été corrigée. L’exploitation réussite de cette vulnérabilité peut permettre à un attaquant distant non…| 26 avril 2024|
- |[ 47172604/24 - Vulnérabilité critique affectant le plugin «WP-Automatic» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-automatic-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP-Automatic» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle total sur le site web…| 26 avril 2024|
- |[ 47162504/24 - Vulnérabilités affectant Cisco Adaptive Security Appliance and Firepower… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-cisco-adaptive-security-appliance-and-firepower-threat-defense)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de son produit Cisco  Adaptive Security Appliance and Firepower Threat Defense Software. L’exploitation de ces…| 25 avril 2024|
  
