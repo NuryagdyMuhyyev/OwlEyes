@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/05/2024 03:17:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/05/2024 04:17:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,21 +45,21 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[SonicWall - CVE-2024-29011](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-29011-2024-05-06)|Visit link for details.|06/05/2024|
- |[PostgreSQL - CVE-2024-4215](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-4215-2024-05-06)|Visit link for details.|06/05/2024|
- |[glibc - CVE-2024-33599](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2024-33599-2024-05-06)|Visit link for details.|06/05/2024|
- |[Check Point - CVE-2024-24912](https://www.cyberveille-sante.gouv.fr/alertes/check-point-cve-2024-24912-2024-05-06)|Visit link for details.|06/05/2024|
- |[Aruba - CVE-2024-33512](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-33512-2024-05-06)|Visit link for details.|06/05/2024|
- |[Zscaler - CVE-2024-23463](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2024-23463-2024-05-03)|Visit link for details.|03/05/2024|
- |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|03/05/2024|
- |[Cisco - CVE-2024-20376](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20376-2024-05-03)|Visit link for details.|03/05/2024|
- |[Aruba - CVE-2024-26304](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-26304-2024-05-03)|Visit link for details.|03/05/2024|
- |[Aruba - CVE-2024-33511](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-33511-2024-05-03)|Visit link for details.|03/05/2024|
- |[D-Link - CVE-2023-35723](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35723-2023-07-03)|Visit link for details.|03/05/2024|
+ |[DSA-5679-1 less - security update](https://www.linux.org/threads/dsa-5679-1-less-security-update.49810/)|Visit link for details.|May 4, 2024|
+ |[DSA-5678-1 glibc - security update](https://www.linux.org/threads/dsa-5678-1-glibc-security-update.49809/)|Visit link for details.|May 4, 2024|
+ |[DSA-5677-1 ruby3.1 - security update](https://www.linux.org/threads/dsa-5677-1-ruby3-1-security-update.49808/)|Visit link for details.|May 4, 2024|
+ |[USN-6757-2: PHP vulnerabilities](https://www.linux.org/threads/usn-6757-2-php-vulnerabilities.49795/)|Visit link for details.|May 2, 2024|
+ |[USN-6762-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6762-1-gnu-c-library-vulnerabilities.49792/)|Visit link for details.|May 2, 2024|
+ |[DSA-5676-1 chromium - security update](https://www.linux.org/threads/dsa-5676-1-chromium-security-update.49790/)|Visit link for details.|May 2, 2024|
+ |[USN-6747-2: Firefox regressions](https://www.linux.org/threads/usn-6747-2-firefox-regressions.49783/)|Visit link for details.|May 2, 2024|
+ |[USN-6760-1: Gerbv vulnerability](https://www.linux.org/threads/usn-6760-1-gerbv-vulnerability.49765/)|Visit link for details.|May 1, 2024|
+ |[LSN-0103-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0103-1-kernel-live-patch-security-notice.49763/)|Visit link for details.|Apr 30, 2024|
+ |[USN-6758-1: JSON5 vulnerability](https://www.linux.org/threads/usn-6758-1-json5-vulnerability.49762/)|Visit link for details.|Apr 30, 2024|
+ |[USN-6761-1: Anope vulnerability](https://www.linux.org/threads/usn-6761-1-anope-vulnerability.49759/)|Visit link for details.|Apr 30, 2024|
  
 
 # CERT-FR
@@ -111,6 +111,23 @@
  |[CyberPower PowerPanel security bypass (CVE-2024-31409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
  |[CyberPower PowerPanel SQL injection (CVE-2024-31856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall - CVE-2024-29011](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-29011-2024-05-06)|Visit link for details.|06/05/2024|
+ |[PostgreSQL - CVE-2024-4215](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-4215-2024-05-06)|Visit link for details.|06/05/2024|
+ |[glibc - CVE-2024-33599](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2024-33599-2024-05-06)|Visit link for details.|06/05/2024|
+ |[Check Point - CVE-2024-24912](https://www.cyberveille-sante.gouv.fr/alertes/check-point-cve-2024-24912-2024-05-06)|Visit link for details.|06/05/2024|
+ |[Aruba - CVE-2024-33512](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-33512-2024-05-06)|Visit link for details.|06/05/2024|
+ |[Zscaler - CVE-2024-23463](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2024-23463-2024-05-03)|Visit link for details.|03/05/2024|
+ |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|03/05/2024|
+ |[Cisco - CVE-2024-20376](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20376-2024-05-03)|Visit link for details.|03/05/2024|
+ |[Aruba - CVE-2024-26304](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-26304-2024-05-03)|Visit link for details.|03/05/2024|
+ |[Aruba - CVE-2024-33511](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-33511-2024-05-03)|Visit link for details.|03/05/2024|
+ |[D-Link - CVE-2023-35723](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35723-2023-07-03)|Visit link for details.|03/05/2024|
  
 
 # ZERODAYINITIATIVE
@@ -176,21 +193,4 @@
  |[ 47182504/24 - Vulnérabilité critique affectant Flowmon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-flowmon)| Une vulnérabilité très critique affectant l’outil de monitoring de réseaux « Flowmon » a été corrigée. L’exploitation réussite de cette vulnérabilité peut permettre à un attaquant distant non…| 26 avril 2024|
  |[ 47172604/24 - Vulnérabilité critique affectant le plugin «WP-Automatic» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-automatic-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP-Automatic» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle total sur le site web…| 26 avril 2024|
  |[ 47162504/24 - Vulnérabilités affectant Cisco Adaptive Security Appliance and Firepower… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-cisco-adaptive-security-appliance-and-firepower-threat-defense)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de son produit Cisco  Adaptive Security Appliance and Firepower Threat Defense Software. L’exploitation de ces…| 25 avril 2024|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5665-1 tomcat10 - security update](https://www.linux.org/threads/dsa-5665-1-tomcat10-security-update.49564/)|Visit link for details.|Apr 18, 2024|
- |[DSA-5664-1 jetty9 - security update](https://www.linux.org/threads/dsa-5664-1-jetty9-security-update.49563/)|Visit link for details.|Apr 18, 2024|
- |[DSA-5663-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5663-1-firefox-esr-security-update.49562/)|Visit link for details.|Apr 17, 2024|
- |[USN-6729-2: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-2-apache-http-server-vulnerabilities.49560/)|Visit link for details.|Apr 17, 2024|
- |[USN-6726-3: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6726-3-linux-kernel-xilinx-zynqmp-vulnerabilities.49559/)|Visit link for details.|Apr 17, 2024|
- |[USN-6726-2: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6726-2-linux-kernel-iot-vulnerabilities.49556/)|Visit link for details.|Apr 17, 2024|
- |[USN-6725-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6725-2-linux-kernel-aws-vulnerabilities.49555/)|Visit link for details.|Apr 17, 2024|
- |[USN-6724-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6724-2-linux-kernel-vulnerabilities.49554/)|Visit link for details.|Apr 17, 2024|
- |[DSA-5655-2 cockpit - regression update](https://www.linux.org/threads/dsa-5655-2-cockpit-regression-update.49552/)|Visit link for details.|Apr 17, 2024|
- |[DSA-5662-1 apache2 - security update](https://www.linux.org/threads/dsa-5662-1-apache2-security-update.49551/)|Visit link for details.|Apr 16, 2024|
- |[USN-6736-1: klibc vulnerabilities](https://www.linux.org/threads/usn-6736-1-klibc-vulnerabilities.49547/)|Visit link for details.|Apr 16, 2024|
  
