@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/05/2024 07:30:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/05/2024 08:20:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate Directory Traversal Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-directory-traversal)|Visit link for details.|May 02, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 02, 2024|
- |[CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist)|Visit link for details.|May 01, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
- |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 30, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 30, 2024|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/25/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2024|
- |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,10 +46,20 @@
  |[USN-6761-1: Anope vulnerability](https://www.linux.org/threads/usn-6761-1-anope-vulnerability.49759/)|Visit link for details.|Apr 30, 2024|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate Directory Traversal Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-directory-traversal)|Visit link for details.|May 02, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 02, 2024|
+ |[CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist)|Visit link for details.|May 01, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
+ |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 30, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 30, 2024|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/25/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2024|
+ |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
  
 
 # CERT-FR
@@ -82,6 +76,29 @@
  |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0359/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0358/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
  |[Multiples vulnérabilités dans Cisco IP Phone](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0357/)|De multiples vulnérabilités ont été découvertes dans Cisco IP Phone. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service à distance.|Publié le 2 mai 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zscaler - CVE-2024-23463](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2024-23463-2024-05-03)|Visit link for details.|03/05/2024|
+ |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|03/05/2024|
+ |[Cisco - CVE-2024-20376](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20376-2024-05-03)|Visit link for details.|03/05/2024|
+ |[Aruba - CVE-2024-26304](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-26304-2024-05-03)|Visit link for details.|03/05/2024|
+ |[Aruba - CVE-2024-33511](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-33511-2024-05-03)|Visit link for details.|03/05/2024|
+ |[D-Link - CVE-2023-35723](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35723-2023-07-03)|Visit link for details.|03/05/2024|
+ |[D-Link - CVE-2023-44414](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44414-2023-10-05)|Visit link for details.|03/05/2024|
+ |[Netgear - CVE-2023-34285](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34285-2023-06-12)|Visit link for details.|03/05/2024|
+ |[Centreon - CVE-2023-51633](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2023-51633-2024-04-30)|Visit link for details.|03/05/2024|
+ |[Netgear - CVE-2023-40480](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-40480-2023-08-24)|Visit link for details.|03/05/2024|
+ |[Netgear - CVE-2023-40479](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-40479-2023-08-23)|Visit link for details.|03/05/2024|
  
 
 # HK-CERT
@@ -113,37 +130,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zscaler - CVE-2024-23463](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2024-23463-2024-05-03)|Visit link for details.|03/05/2024|
- |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|03/05/2024|
- |[Cisco - CVE-2024-20376](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20376-2024-05-03)|Visit link for details.|03/05/2024|
- |[Aruba - CVE-2024-26304](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-26304-2024-05-03)|Visit link for details.|03/05/2024|
- |[Aruba - CVE-2024-33511](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-33511-2024-05-03)|Visit link for details.|03/05/2024|
- |[D-Link - CVE-2023-35723](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-35723-2023-07-03)|Visit link for details.|03/05/2024|
- |[D-Link - CVE-2023-44414](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-44414-2023-10-05)|Visit link for details.|03/05/2024|
- |[Netgear - CVE-2023-34285](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-34285-2023-06-12)|Visit link for details.|03/05/2024|
- |[Centreon - CVE-2023-51633](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2023-51633-2024-04-30)|Visit link for details.|03/05/2024|
- |[Netgear - CVE-2023-40480](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-40480-2023-08-24)|Visit link for details.|03/05/2024|
- |[Netgear - CVE-2023-40479](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2023-40479-2023-08-23)|Visit link for details.|03/05/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Xiaomi Pro 13 GetApps integral-dialog-page Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-419/)|Visit link for details|2024-05-01|
- |[(Pwn2Own) Xiaomi Pro 13 mimarket manual-upgrade Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-418/)|Visit link for details|2024-05-01|
- |[Xiaomi Pro 13 isUrlMatchLevel Permissive List of Allowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-417/)|Visit link for details|2024-05-01|
- |[Centreon sysName Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-416/)|Visit link for details|2024-04-29|
- |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -159,6 +145,20 @@
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
  |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Xiaomi Pro 13 GetApps integral-dialog-page Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-419/)|Visit link for details|2024-05-01|
+ |[(Pwn2Own) Xiaomi Pro 13 mimarket manual-upgrade Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-418/)|Visit link for details|2024-05-01|
+ |[Xiaomi Pro 13 isUrlMatchLevel Permissive List of Allowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-417/)|Visit link for details|2024-05-01|
+ |[Centreon sysName Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-416/)|Visit link for details|2024-04-29|
+ |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
  
 
 # CA-CCS
