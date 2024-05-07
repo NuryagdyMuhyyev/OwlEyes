@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/05/2024 16:16:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/05/2024 17:31:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0367/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 mai 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0363/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le greffon Media Streaming de Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/)|De multiples vulnérabilités ont été découvertes dans|Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
+ |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0359/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0358/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,22 +82,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0367/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 mai 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0363/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le greffon Media Streaming de Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/)|De multiples vulnérabilités ont été découvertes dans|Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
- |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0359/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0358/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
  
 
 # CERT-SANTE
@@ -117,19 +117,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Aspera Orchestrator cross-site scripting (CVE-2023-27283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[IBM Aspera Orchestrator information disclosure (CVE-2023-27281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[IBM Aspera Orchestrator information disclosure (CVE-2023-27280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[Motorola Phones directory traversal (CVE-2023-41830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
- |[Motorola Phones security bypass (CVE-2023-41828)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
- |[Motorola Phones security bypass (CVE-2023-41826)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -147,20 +134,6 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Xiaomi Pro 13 GetApps integral-dialog-page Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-419/)|Visit link for details|2024-05-01|
- |[(Pwn2Own) Xiaomi Pro 13 mimarket manual-upgrade Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-418/)|Visit link for details|2024-05-01|
- |[Xiaomi Pro 13 isUrlMatchLevel Permissive List of Allowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-417/)|Visit link for details|2024-05-01|
- |[Centreon sysName Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-416/)|Visit link for details|2024-04-29|
- |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
- |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -176,6 +149,33 @@
  |[HPE security advisory (AV24-235)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-235)|Visit link for details|2024-05-01|
  |[Google Chrome security advisory (AV24-234)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-234)|Visit link for details|2024-05-01|
  |[SonicWall security advisory (AV24-233)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-233)|Visit link for details|2024-04-30|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM Aspera Orchestrator cross-site scripting (CVE-2023-27283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
+ |[IBM Aspera Orchestrator information disclosure (CVE-2023-27281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
+ |[IBM Aspera Orchestrator information disclosure (CVE-2023-27280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
+ |[Motorola Phones directory traversal (CVE-2023-41830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
+ |[Motorola Phones security bypass (CVE-2023-41828)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
+ |[Motorola Phones security bypass (CVE-2023-41826)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Xiaomi Pro 13 GetApps integral-dialog-page Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-419/)|Visit link for details|2024-05-01|
+ |[(Pwn2Own) Xiaomi Pro 13 mimarket manual-upgrade Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-418/)|Visit link for details|2024-05-01|
+ |[Xiaomi Pro 13 isUrlMatchLevel Permissive List of Allowed Inputs Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-417/)|Visit link for details|2024-05-01|
+ |[Centreon sysName Cross-Site Scripting Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-416/)|Visit link for details|2024-04-29|
+ |[(Pwn2Own) Oracle VirtualBox E1000 Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-415/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox AHCI Controller Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-414/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox DevVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-413/)|Visit link for details|2024-04-26|
+ |[(Pwn2Own) Oracle VirtualBox VirtIOCore Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-412/)|Visit link for details|2024-04-26|
  
 
 # MA-CERT
