@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/05/2024 00:14:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/05/2024 01:14:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,25 +78,6 @@
  |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Jinja cross-site scripting (CVE-2024-34064)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 5, 2024|
- |[IBM Aspera Orchestrator cross-site scripting (CVE-2023-27283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[IBM Aspera Orchestrator information disclosure (CVE-2023-27281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[IBM Aspera Orchestrator information disclosure (CVE-2023-27280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[Motorola Phones directory traversal (CVE-2023-41830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
- |[Motorola Phones security bypass (CVE-2023-41828)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -114,6 +95,12 @@
  |[Zscaler - CVE-2024-23463](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2024-23463-2024-05-03)|Visit link for details.|03/05/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -128,6 +115,19 @@
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, elevation of privilege and security restriction bypass on the targeted system. [Updated on 2024-05-02]CVE-2023-7028 is being...| Release Date: 15 Jan 2024 |
  |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20240430)|A vulnerability has been identified in ChromeOS. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 30 Apr 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SUBNET Solutions Substation Server privilege escalation (CVE-2024-26024)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[PTC Codebeamer cross-site scripting (CVE-2024-3951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[Jinja cross-site scripting (CVE-2024-34064)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 5, 2024|
+ |[IBM Aspera Orchestrator cross-site scripting (CVE-2023-27283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
+ |[IBM Aspera Orchestrator information disclosure (CVE-2023-27281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
+ |[IBM Aspera Orchestrator information disclosure (CVE-2023-27280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -147,6 +147,37 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader DC AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-427/)|Visit link for details|2024-05-07|
+ |[Adobe Acrobat Reader DC AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-426/)|Visit link for details|2024-05-07|
+ |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-425/)|Visit link for details|2024-05-07|
+ |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-424/)|Visit link for details|2024-05-07|
+ |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-423/)|Visit link for details|2024-05-07|
+ |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-422/)|Visit link for details|2024-05-07|
+ |[SonicWALL GMS Virtual Appliance ECMClientAuthenticator Hard-Coded Credential Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-421/)|Visit link for details|2024-05-07|
+ |[SonicWALL GMS Virtual Appliance ECMPolicy XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-420/)|Visit link for details|2024-05-07|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-244)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-244)|Visit link for details|2024-05-07|
+ |[Android security advisory – May 2024 Monthly Rollup (AV24-243)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2024-monthly-rollup-av24-243)|Visit link for details|2024-05-06|
+ |[Ubuntu security advisory (AV24-242)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-242)|Visit link for details|2024-05-06|
+ |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
+ |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
+ |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
+ |[Dell security advisory (AV24-238)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-238)|Visit link for details|2024-05-06|
+ |[Microsoft Edge security advisory (AV24-237)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-237)|Visit link for details|2024-05-03|
+ |[Cisco security advisory (AV24-236)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-236)|Visit link for details|2024-05-01|
+ |[HPE security advisory (AV24-235)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-235)|Visit link for details|2024-05-01|
+ |[Google Chrome security advisory (AV24-234)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-234)|Visit link for details|2024-05-01|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -162,35 +193,4 @@
  |[ 47193004/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-5)| Plusieurs vulnérabilités ont été corrigées dans les produits Qnap susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 30 avril 2024|
  |[ 47182504/24 - Vulnérabilité critique affectant Flowmon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-flowmon)| Une vulnérabilité très critique affectant l’outil de monitoring de réseaux « Flowmon » a été corrigée. L’exploitation réussite de cette vulnérabilité peut permettre à un attaquant distant non…| 26 avril 2024|
  |[ 47172604/24 - Vulnérabilité critique affectant le plugin «WP-Automatic» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-automatic-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP-Automatic» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle total sur le site web…| 26 avril 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Android security advisory – May 2024 Monthly Rollup (AV24-243)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2024-monthly-rollup-av24-243)|Visit link for details|2024-05-06|
- |[Ubuntu security advisory (AV24-242)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-242)|Visit link for details|2024-05-06|
- |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
- |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
- |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
- |[Dell security advisory (AV24-238)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-238)|Visit link for details|2024-05-06|
- |[Microsoft Edge security advisory (AV24-237)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-237)|Visit link for details|2024-05-03|
- |[Cisco security advisory (AV24-236)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-236)|Visit link for details|2024-05-01|
- |[HPE security advisory (AV24-235)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-235)|Visit link for details|2024-05-01|
- |[Google Chrome security advisory (AV24-234)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-234)|Visit link for details|2024-05-01|
- |[SonicWall security advisory (AV24-233)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-233)|Visit link for details|2024-04-30|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Acrobat Reader DC AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-427/)|Visit link for details|2024-05-07|
- |[Adobe Acrobat Reader DC AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-426/)|Visit link for details|2024-05-07|
- |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-425/)|Visit link for details|2024-05-07|
- |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-424/)|Visit link for details|2024-05-07|
- |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-423/)|Visit link for details|2024-05-07|
- |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-422/)|Visit link for details|2024-05-07|
- |[SonicWALL GMS Virtual Appliance ECMClientAuthenticator Hard-Coded Credential Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-421/)|Visit link for details|2024-05-07|
- |[SonicWALL GMS Virtual Appliance ECMPolicy XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-420/)|Visit link for details|2024-05-07|
  
