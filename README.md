@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/05/2024 08:19:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/05/2024 09:21:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate Directory Traversal Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-directory-traversal)|Visit link for details.|May 02, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 02, 2024|
+ |[CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist)|Visit link for details.|May 01, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
+ |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 30, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 30, 2024|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/25/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2024|
+ |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,27 +62,10 @@
  |[LSN-0103-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0103-1-kernel-live-patch-security-notice.49763/)|Visit link for details.|Apr 30, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate Directory Traversal Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-directory-traversal)|Visit link for details.|May 02, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 02, 2024|
- |[CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist)|Visit link for details.|May 01, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
- |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 30, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 30, 2024|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/25/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2024|
- |[Cisco Releases Security Updates Addressing ArcaneDoor, Vulnerabilities in Cisco Firewall Platforms](https://www.cisa.gov/news-events/alerts/2024/04/24/cisco-releases-security-updates-addressing-arcanedoor-vulnerabilities-cisco-firewall-platforms)|Visit link for details.|Apr 24, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 24, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0367/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 mai 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
@@ -76,12 +75,7 @@
  |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
  |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0359/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0358/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[Multiples vulnérabilités dans Cisco IP Phone](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0357/)|De multiples vulnérabilités ont été découvertes dans Cisco IP Phone. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service à distance.|Publié le 2 mai 2024|
  
 
 # CERT-SANTE
@@ -117,6 +111,12 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-04...| Release Date: 2 Apr 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -124,9 +124,9 @@
  |[IBM Aspera Orchestrator cross-site scripting (CVE-2023-27283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
  |[IBM Aspera Orchestrator information disclosure (CVE-2023-27281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
  |[IBM Aspera Orchestrator information disclosure (CVE-2023-27280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
+ |[Motorola Phones information disclosure (CVE-2023-41817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
  |[The Bouncy Castle Crypto Package For Java security bypass (CVE-2024-34447)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
  |[tqdm code execution (CVE-2024-34062)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
- |[Apache Hive code execution (CVE-2023-35701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
@@ -161,23 +161,6 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu security advisory (AV24-242)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-242)|Visit link for details|2024-05-06|
- |[Android security advisory – May 2024 Monthly Rollup (AV24-243)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2024-monthly-rollup-av24-243)|Visit link for details|2024-05-06|
- |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
- |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
- |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
- |[Dell security advisory (AV24-238)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-238)|Visit link for details|2024-05-06|
- |[Microsoft Edge security advisory (AV24-237)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-237)|Visit link for details|2024-05-03|
- |[Cisco security advisory (AV24-236)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-236)|Visit link for details|2024-05-01|
- |[HPE security advisory (AV24-235)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-235)|Visit link for details|2024-05-01|
- |[Google Chrome security advisory (AV24-234)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-234)|Visit link for details|2024-05-01|
- |[SonicWall security advisory (AV24-233)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-233)|Visit link for details|2024-04-30|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -193,4 +176,21 @@
  |[ 47182504/24 - Vulnérabilité critique affectant Flowmon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-flowmon)| Une vulnérabilité très critique affectant l’outil de monitoring de réseaux « Flowmon » a été corrigée. L’exploitation réussite de cette vulnérabilité peut permettre à un attaquant distant non…| 26 avril 2024|
  |[ 47172604/24 - Vulnérabilité critique affectant le plugin «WP-Automatic» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-automatic-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP-Automatic» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle total sur le site web…| 26 avril 2024|
  |[ 47162504/24 - Vulnérabilités affectant Cisco Adaptive Security Appliance and Firepower… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-cisco-adaptive-security-appliance-and-firepower-threat-defense)| Cisco annonce la correction de trois vulnérabilités affectant certaines versions de son produit Cisco  Adaptive Security Appliance and Firepower Threat Defense Software. L’exploitation de ces…| 25 avril 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu security advisory (AV24-242)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-242)|Visit link for details|2024-05-06|
+ |[Android security advisory – May 2024 Monthly Rollup (AV24-243)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2024-monthly-rollup-av24-243)|Visit link for details|2024-05-06|
+ |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
+ |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
+ |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
+ |[Dell security advisory (AV24-238)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-238)|Visit link for details|2024-05-06|
+ |[Microsoft Edge security advisory (AV24-237)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-237)|Visit link for details|2024-05-03|
+ |[Cisco security advisory (AV24-236)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-236)|Visit link for details|2024-05-01|
+ |[HPE security advisory (AV24-235)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-235)|Visit link for details|2024-05-01|
+ |[Google Chrome security advisory (AV24-234)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-234)|Visit link for details|2024-05-01|
+ |[SonicWall security advisory (AV24-233)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-233)|Visit link for details|2024-04-30|
  
