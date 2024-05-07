@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/05/2024 01:14:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/05/2024 02:15:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,8 +66,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0369/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mai 2024|
- |[[SCADA] Vulnérabilité dans Moxa NPort](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0368/)|Une vulnérabilité a été découverte dans|Publié le 7 mai 2024|
  |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0367/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 mai 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
@@ -76,6 +74,8 @@
  |[Multiples vulnérabilités dans le greffon Media Streaming de Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/)|De multiples vulnérabilités ont été découvertes dans|Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
+ |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0359/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0358/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
  
 
 # CERT-SANTE
@@ -121,12 +121,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[XenSource Xen denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
  |[SUBNET Solutions Substation Server privilege escalation (CVE-2024-26024)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
  |[PTC Codebeamer cross-site scripting (CVE-2024-3951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[IBM AIX privilege escalation (CVE-2024-27273)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 6, 2024|
  |[Jinja cross-site scripting (CVE-2024-34064)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 5, 2024|
  |[IBM Aspera Orchestrator cross-site scripting (CVE-2023-27283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[IBM Aspera Orchestrator information disclosure (CVE-2023-27281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
- |[IBM Aspera Orchestrator information disclosure (CVE-2023-27280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
@@ -161,23 +161,6 @@
  |[SonicWALL GMS Virtual Appliance ECMPolicy XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-420/)|Visit link for details|2024-05-07|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-244)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-244)|Visit link for details|2024-05-07|
- |[Android security advisory – May 2024 Monthly Rollup (AV24-243)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2024-monthly-rollup-av24-243)|Visit link for details|2024-05-06|
- |[Ubuntu security advisory (AV24-242)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-242)|Visit link for details|2024-05-06|
- |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
- |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
- |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
- |[Dell security advisory (AV24-238)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-238)|Visit link for details|2024-05-06|
- |[Microsoft Edge security advisory (AV24-237)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-237)|Visit link for details|2024-05-03|
- |[Cisco security advisory (AV24-236)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-236)|Visit link for details|2024-05-01|
- |[HPE security advisory (AV24-235)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-235)|Visit link for details|2024-05-01|
- |[Google Chrome security advisory (AV24-234)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-234)|Visit link for details|2024-05-01|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -193,4 +176,21 @@
  |[ 47193004/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-5)| Plusieurs vulnérabilités ont été corrigées dans les produits Qnap susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 30 avril 2024|
  |[ 47182504/24 - Vulnérabilité critique affectant Flowmon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-flowmon)| Une vulnérabilité très critique affectant l’outil de monitoring de réseaux « Flowmon » a été corrigée. L’exploitation réussite de cette vulnérabilité peut permettre à un attaquant distant non…| 26 avril 2024|
  |[ 47172604/24 - Vulnérabilité critique affectant le plugin «WP-Automatic» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-automatic-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP-Automatic» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle total sur le site web…| 26 avril 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-244)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-244)|Visit link for details|2024-05-07|
+ |[Android security advisory – May 2024 Monthly Rollup (AV24-243)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2024-monthly-rollup-av24-243)|Visit link for details|2024-05-06|
+ |[Ubuntu security advisory (AV24-242)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-242)|Visit link for details|2024-05-06|
+ |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
+ |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
+ |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
+ |[Dell security advisory (AV24-238)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-238)|Visit link for details|2024-05-06|
+ |[Microsoft Edge security advisory (AV24-237)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-237)|Visit link for details|2024-05-03|
+ |[Cisco security advisory (AV24-236)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-236)|Visit link for details|2024-05-01|
+ |[HPE security advisory (AV24-235)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-235)|Visit link for details|2024-05-01|
+ |[Google Chrome security advisory (AV24-234)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-234)|Visit link for details|2024-05-01|
  
