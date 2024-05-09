@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/05/2024 01:17:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/05/2024 02:18:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,28 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Apr 30, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0369/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mai 2024|
+ |[[SCADA] Vulnérabilité dans Moxa NPort](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0368/)|Une vulnérabilité a été découverte dans|Publié le 7 mai 2024|
+ |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0367/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 mai 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0363/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans le greffon Media Streaming de Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/)|De multiples vulnérabilités ont été découvertes dans|Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
+ |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,28 +99,6 @@
  |[Check Point - CVE-2024-24912](https://www.cyberveille-sante.gouv.fr/alertes/check-point-cve-2024-24912-2024-05-06)|Visit link for details.|06/05/2024|
  |[Aruba - CVE-2024-33512](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-33512-2024-05-06)|Visit link for details.|06/05/2024|
  |[Zscaler - CVE-2024-23463](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2024-23463-2024-05-03)|Visit link for details.|03/05/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0369/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mai 2024|
- |[[SCADA] Vulnérabilité dans Moxa NPort](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0368/)|Une vulnérabilité a été découverte dans|Publié le 7 mai 2024|
- |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0367/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 mai 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0363/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans le greffon Media Streaming de Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/)|De multiples vulnérabilités ont été découvertes dans|Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
- |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
  
 
 # HK-CERT
@@ -147,6 +147,23 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47350905/24 - Vulnérabilité critique dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-service-provider-console)| Veeam annonce la correction d’une vulnérabilité critique affectant Service Provider Console (VSPC).  L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code à distance (RCE).| 09 mai 2024|
+ |[ 47340905/24 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-1)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de…| 09 mai 2024|
+ |[ 47330905/24 - Vulnérabilités dans F5 BIG-IP Next Central Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-f5-big-ip-next-central-manager)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de F5 BIG-IP Next Central Manager. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 09 mai 2024|
+ |[ 47310805/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance.| 08 mai 2024|
+ |[ 47300805/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-7)| Google a publié une mise à jour de sécurité pour son navigateur Chrome. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d'exécuter à distance du code arbitraire sur la…| 08 mai 2024|
+ |[ 47290805/24 - Vulnérabilité critique dans Tinyproxy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-tinyproxy)| Une vulnérabilité critique a été corrigée dans les versions susmentionnées de Tinyproxy. L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code à distance sur des systèmes…| 08 mai 2024|
+ |[ 47280705/24 - Vulnérabilité dans Citrix Netscaler ADC et Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-citrix-netscaler-adc-et-gateway)| Veuillez se référer au bulletin de sécurité Citrix afin d’installer les nouvelles mises à jour.| 07 mai 2024|
+ |[ 47260605/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-0)| Veuillez se référer au bulletin de sécurité WordPress afin d’installer les nouvelles mises à jour.| 06 mai 2024|
+ |[ 47250605/24 - Vulnérabilités dans PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-postgresql-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de PostgreSQL pgAdmin. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et…| 06 mai 2024|
+ |[ 47240305/24 - Vulnérabilité critique dans Langage de programmation R ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-langage-de-programmation-r)| Le projet R a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-27322) affectant le langage de programmation R.  La vulnérabilité est présente en raison du processus de…| 03 mai 2024|
+ |[ 47230305/24 - Vulnérabilités dans SonicWall GMS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-gms)| Deux vulnérabilités ont été corrigées dans SonicWall GMS. L'exploitation de ces failles peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la…| 03 mai 2024|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -176,21 +193,4 @@
  |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
  |[Dell security advisory (AV24-238)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-238)|Visit link for details|2024-05-06|
  |[Microsoft Edge security advisory (AV24-237)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-237)|Visit link for details|2024-05-03|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47350905/24 - Vulnérabilité critique dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-service-provider-console)| Veeam annonce la correction d’une vulnérabilité critique affectant Service Provider Console (VSPC).  L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code à distance (RCE).| 09 mai 2024|
- |[ 47340905/24 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-1)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de…| 09 mai 2024|
- |[ 47330905/24 - Vulnérabilités dans F5 BIG-IP Next Central Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-f5-big-ip-next-central-manager)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de F5 BIG-IP Next Central Manager. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 09 mai 2024|
- |[ 47310805/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance.| 08 mai 2024|
- |[ 47300805/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-7)| Google a publié une mise à jour de sécurité pour son navigateur Chrome. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant d'exécuter à distance du code arbitraire sur la…| 08 mai 2024|
- |[ 47290805/24 - Vulnérabilité critique dans Tinyproxy ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-tinyproxy)| Une vulnérabilité critique a été corrigée dans les versions susmentionnées de Tinyproxy. L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code à distance sur des systèmes…| 08 mai 2024|
- |[ 47280705/24 - Vulnérabilité dans Citrix Netscaler ADC et Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-citrix-netscaler-adc-et-gateway)| Veuillez se référer au bulletin de sécurité Citrix afin d’installer les nouvelles mises à jour.| 07 mai 2024|
- |[ 47260605/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-0)| Veuillez se référer au bulletin de sécurité WordPress afin d’installer les nouvelles mises à jour.| 06 mai 2024|
- |[ 47250605/24 - Vulnérabilités dans PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-postgresql-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de PostgreSQL pgAdmin. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et…| 06 mai 2024|
- |[ 47240305/24 - Vulnérabilité critique dans Langage de programmation R ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-langage-de-programmation-r)| Le projet R a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-27322) affectant le langage de programmation R.  La vulnérabilité est présente en raison du processus de…| 03 mai 2024|
- |[ 47230305/24 - Vulnérabilités dans SonicWall GMS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-gms)| Deux vulnérabilités ont été corrigées dans SonicWall GMS. L'exploitation de ces failles peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la…| 03 mai 2024|
  
