@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/05/2024 10:17:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/05/2024 11:23:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,23 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5685-1 wordpress - security update](https://www.linux.org/threads/dsa-5685-1-wordpress-security-update.49875/)|Visit link for details.|May 9, 2024|
- |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
- |[DSA-5682-1 glib2.0 - security update](https://www.linux.org/threads/dsa-5682-1-glib2-0-security-update.49859/)|Visit link for details.|May 8, 2024|
- |[USN-6767-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6767-1-linux-kernel-vulnerabilities.49858/)|Visit link for details.|May 7, 2024|
- |[USN-6766-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6766-1-linux-kernel-vulnerabilities.49857/)|Visit link for details.|May 7, 2024|
- |[USN-6765-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6765-1-linux-kernel-oem-vulnerabilities.49855/)|Visit link for details.|May 7, 2024|
- |[USN-6764-1: libde265 vulnerability](https://www.linux.org/threads/usn-6764-1-libde265-vulnerability.49854/)|Visit link for details.|May 7, 2024|
- |[USN-6754-2: nghttp2 vulnerability](https://www.linux.org/threads/usn-6754-2-nghttp2-vulnerability.49853/)|Visit link for details.|May 7, 2024|
- |[USN-6763-1: libvirt vulnerability](https://www.linux.org/threads/usn-6763-1-libvirt-vulnerability.49851/)|Visit link for details.|May 7, 2024|
- |[DSA-5681-1 linux - security update](https://www.linux.org/threads/dsa-5681-1-linux-security-update.49844/)|Visit link for details.|May 7, 2024|
- |[DSA-5680-1 linux - security update](https://www.linux.org/threads/dsa-5680-1-linux-security-update.49843/)|Visit link for details.|May 7, 2024|
- 
 
 # US-CERT
 
@@ -78,6 +61,23 @@
  |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5685-1 wordpress - security update](https://www.linux.org/threads/dsa-5685-1-wordpress-security-update.49875/)|Visit link for details.|May 9, 2024|
+ |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
+ |[DSA-5682-1 glib2.0 - security update](https://www.linux.org/threads/dsa-5682-1-glib2-0-security-update.49859/)|Visit link for details.|May 8, 2024|
+ |[USN-6767-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6767-1-linux-kernel-vulnerabilities.49858/)|Visit link for details.|May 7, 2024|
+ |[USN-6766-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6766-1-linux-kernel-vulnerabilities.49857/)|Visit link for details.|May 7, 2024|
+ |[USN-6765-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6765-1-linux-kernel-oem-vulnerabilities.49855/)|Visit link for details.|May 7, 2024|
+ |[USN-6764-1: libde265 vulnerability](https://www.linux.org/threads/usn-6764-1-libde265-vulnerability.49854/)|Visit link for details.|May 7, 2024|
+ |[USN-6754-2: nghttp2 vulnerability](https://www.linux.org/threads/usn-6754-2-nghttp2-vulnerability.49853/)|Visit link for details.|May 7, 2024|
+ |[USN-6763-1: libvirt vulnerability](https://www.linux.org/threads/usn-6763-1-libvirt-vulnerability.49851/)|Visit link for details.|May 7, 2024|
+ |[DSA-5681-1 linux - security update](https://www.linux.org/threads/dsa-5681-1-linux-security-update.49844/)|Visit link for details.|May 7, 2024|
+ |[DSA-5680-1 linux - security update](https://www.linux.org/threads/dsa-5680-1-linux-security-update.49843/)|Visit link for details.|May 7, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -100,6 +100,19 @@
  |---|---|---|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple iTunes for Window code execution (CVE-2024-27793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 8, 2024|
+ |[F5 BIG-IP Next Central Manager SQL injection (CVE-2024-21793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[F5 BIG-IP Next Central Manager SQL injection (CVE-2024-26026)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[F5 BIG-IP denial of service (CVE-2024-33608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[BIG-IP (AFM) denial of service (CVE-2024-25560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[F5 BIG-IP Next Central Manager man-in-the-middle (CVE-2024-32049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -117,33 +130,6 @@
  |[Zscaler - CVE-2024-23463](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2024-23463-2024-05-03)|Visit link for details.|03/05/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple iTunes for Window code execution (CVE-2024-27793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 8, 2024|
- |[F5 BIG-IP denial of service (CVE-2024-33608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
- |[BIG-IP (AFM) denial of service (CVE-2024-25560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
- |[F5 BIG-IP Next Central Manager man-in-the-middle (CVE-2024-32049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
- |[F5 BIG-IP (APM) and APM Clients security bypass (CVE-2024-28883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
- |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-6195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Acrobat Reader DC AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-427/)|Visit link for details|2024-05-07|
- |[Adobe Acrobat Reader DC AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-426/)|Visit link for details|2024-05-07|
- |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-425/)|Visit link for details|2024-05-07|
- |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-424/)|Visit link for details|2024-05-07|
- |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-423/)|Visit link for details|2024-05-07|
- |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-422/)|Visit link for details|2024-05-07|
- |[SonicWALL GMS Virtual Appliance ECMClientAuthenticator Hard-Coded Credential Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-421/)|Visit link for details|2024-05-07|
- |[SonicWALL GMS Virtual Appliance ECMPolicy XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-420/)|Visit link for details|2024-05-07|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -159,6 +145,20 @@
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
  |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader DC AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-427/)|Visit link for details|2024-05-07|
+ |[Adobe Acrobat Reader DC AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-426/)|Visit link for details|2024-05-07|
+ |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-425/)|Visit link for details|2024-05-07|
+ |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-424/)|Visit link for details|2024-05-07|
+ |[Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-423/)|Visit link for details|2024-05-07|
+ |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-422/)|Visit link for details|2024-05-07|
+ |[SonicWALL GMS Virtual Appliance ECMClientAuthenticator Hard-Coded Credential Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-421/)|Visit link for details|2024-05-07|
+ |[SonicWALL GMS Virtual Appliance ECMPolicy XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-420/)|Visit link for details|2024-05-07|
  
 
 # CA-CCS
