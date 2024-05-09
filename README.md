@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/05/2024 09:23:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/05/2024 10:17:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5685-1 wordpress - security update](https://www.linux.org/threads/dsa-5685-1-wordpress-security-update.49875/)|Visit link for details.|May 9, 2024|
+ |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
+ |[DSA-5682-1 glib2.0 - security update](https://www.linux.org/threads/dsa-5682-1-glib2-0-security-update.49859/)|Visit link for details.|May 8, 2024|
+ |[USN-6767-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6767-1-linux-kernel-vulnerabilities.49858/)|Visit link for details.|May 7, 2024|
+ |[USN-6766-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6766-1-linux-kernel-vulnerabilities.49857/)|Visit link for details.|May 7, 2024|
+ |[USN-6765-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6765-1-linux-kernel-oem-vulnerabilities.49855/)|Visit link for details.|May 7, 2024|
+ |[USN-6764-1: libde265 vulnerability](https://www.linux.org/threads/usn-6764-1-libde265-vulnerability.49854/)|Visit link for details.|May 7, 2024|
+ |[USN-6754-2: nghttp2 vulnerability](https://www.linux.org/threads/usn-6754-2-nghttp2-vulnerability.49853/)|Visit link for details.|May 7, 2024|
+ |[USN-6763-1: libvirt vulnerability](https://www.linux.org/threads/usn-6763-1-libvirt-vulnerability.49851/)|Visit link for details.|May 7, 2024|
+ |[DSA-5681-1 linux - security update](https://www.linux.org/threads/dsa-5681-1-linux-security-update.49844/)|Visit link for details.|May 7, 2024|
+ |[DSA-5680-1 linux - security update](https://www.linux.org/threads/dsa-5680-1-linux-security-update.49843/)|Visit link for details.|May 7, 2024|
+ 
 
 # US-CERT
 
@@ -61,40 +78,6 @@
  |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5685-1 wordpress - security update](https://www.linux.org/threads/dsa-5685-1-wordpress-security-update.49875/)|Visit link for details.|May 9, 2024|
- |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
- |[DSA-5682-1 glib2.0 - security update](https://www.linux.org/threads/dsa-5682-1-glib2-0-security-update.49859/)|Visit link for details.|May 8, 2024|
- |[USN-6767-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6767-1-linux-kernel-vulnerabilities.49858/)|Visit link for details.|May 7, 2024|
- |[USN-6766-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6766-1-linux-kernel-vulnerabilities.49857/)|Visit link for details.|May 7, 2024|
- |[USN-6765-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6765-1-linux-kernel-oem-vulnerabilities.49855/)|Visit link for details.|May 7, 2024|
- |[USN-6764-1: libde265 vulnerability](https://www.linux.org/threads/usn-6764-1-libde265-vulnerability.49854/)|Visit link for details.|May 7, 2024|
- |[USN-6754-2: nghttp2 vulnerability](https://www.linux.org/threads/usn-6754-2-nghttp2-vulnerability.49853/)|Visit link for details.|May 7, 2024|
- |[USN-6763-1: libvirt vulnerability](https://www.linux.org/threads/usn-6763-1-libvirt-vulnerability.49851/)|Visit link for details.|May 7, 2024|
- |[DSA-5681-1 linux - security update](https://www.linux.org/threads/dsa-5681-1-linux-security-update.49844/)|Visit link for details.|May 7, 2024|
- |[DSA-5680-1 linux - security update](https://www.linux.org/threads/dsa-5680-1-linux-security-update.49843/)|Visit link for details.|May 7, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro - CVE-2024-32849](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-32849-2024-05-07)|Visit link for details.|07/05/2024|
- |[PostgreSQL - CVE-2024-4216](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-4216-2024-05-07)|Visit link for details.|07/05/2024|
- |[Linux - CVE-2024-26885](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26885-2024-05-07)|Visit link for details.|07/05/2024|
- |[D-Link - CVE-2024-33112](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33112-2024-05-07)|Visit link for details.|07/05/2024|
- |[D-Link - CVE-2024-33110](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33110-2024-05-07)|Visit link for details.|07/05/2024|
- |[SonicWall - CVE-2024-29011](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-29011-2024-05-06)|Visit link for details.|06/05/2024|
- |[PostgreSQL - CVE-2024-4215](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-4215-2024-05-06)|Visit link for details.|06/05/2024|
- |[glibc - CVE-2024-33599](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2024-33599-2024-05-06)|Visit link for details.|06/05/2024|
- |[Check Point - CVE-2024-24912](https://www.cyberveille-sante.gouv.fr/alertes/check-point-cve-2024-24912-2024-05-06)|Visit link for details.|06/05/2024|
- |[Aruba - CVE-2024-33512](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-33512-2024-05-06)|Visit link for details.|06/05/2024|
- |[Zscaler - CVE-2024-23463](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2024-23463-2024-05-03)|Visit link for details.|03/05/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -117,16 +100,33 @@
  |---|---|---|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro - CVE-2024-32849](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-32849-2024-05-07)|Visit link for details.|07/05/2024|
+ |[PostgreSQL - CVE-2024-4216](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-4216-2024-05-07)|Visit link for details.|07/05/2024|
+ |[Linux - CVE-2024-26885](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26885-2024-05-07)|Visit link for details.|07/05/2024|
+ |[D-Link - CVE-2024-33112](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33112-2024-05-07)|Visit link for details.|07/05/2024|
+ |[D-Link - CVE-2024-33110](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-33110-2024-05-07)|Visit link for details.|07/05/2024|
+ |[SonicWall - CVE-2024-29011](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-29011-2024-05-06)|Visit link for details.|06/05/2024|
+ |[PostgreSQL - CVE-2024-4215](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-4215-2024-05-06)|Visit link for details.|06/05/2024|
+ |[glibc - CVE-2024-33599](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2024-33599-2024-05-06)|Visit link for details.|06/05/2024|
+ |[Check Point - CVE-2024-24912](https://www.cyberveille-sante.gouv.fr/alertes/check-point-cve-2024-24912-2024-05-06)|Visit link for details.|06/05/2024|
+ |[Aruba - CVE-2024-33512](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-33512-2024-05-06)|Visit link for details.|06/05/2024|
+ |[Zscaler - CVE-2024-23463](https://www.cyberveille-sante.gouv.fr/alertes/zscaler-cve-2024-23463-2024-05-03)|Visit link for details.|03/05/2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[Apple iTunes for Window code execution (CVE-2024-27793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 8, 2024|
+ |[F5 BIG-IP denial of service (CVE-2024-33608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[BIG-IP (AFM) denial of service (CVE-2024-25560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[F5 BIG-IP Next Central Manager man-in-the-middle (CVE-2024-32049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
+ |[F5 BIG-IP (APM) and APM Clients security bypass (CVE-2024-28883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
  |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2023-6195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
- |[GitLab Community Edition and Enterprise Edition information disclosure (CVE-2024-3976)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
- |[GitLab Community Edition and Enterprise Edition cross-site request forgery (CVE-2024-1211)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
- |[GitLab Enterprise Edition information disclosure (CVE-2024-1539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
- |[GitLab Enterprise Edition cross-site request forgery (CVE-2024-4597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
