@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/05/2024 02:17:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/05/2024 03:17:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
  |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
  |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
  |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
@@ -59,7 +60,6 @@
  |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
  |[DSA-5682-1 glib2.0 - security update](https://www.linux.org/threads/dsa-5682-1-glib2-0-security-update.49859/)|Visit link for details.|May 8, 2024|
  |[USN-6767-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6767-1-linux-kernel-vulnerabilities.49858/)|Visit link for details.|May 7, 2024|
- |[USN-6766-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6766-1-linux-kernel-vulnerabilities.49857/)|Visit link for details.|May 7, 2024|
  
 
 # CERT-FR
@@ -76,12 +76,6 @@
  |[Multiples vulnérabilités dans le greffon Media Streaming de Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/)|De multiples vulnérabilités ont été découvertes dans|Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -117,6 +111,12 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240507)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 May 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -127,7 +127,7 @@
  |[IBM UrbanCode Deploy cross-site scripting (CVE-2024-28781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 9, 2024|
  |[IBM QRadar SIEM information disclosure (CVE-2024-27269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 9, 2024|
  |[IBM TXSeries for Multiplatforms information disclosure (CVE-2024-22345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 9, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[IBM TXSeries for Multiplatforms HTML injection (CVE-2024-22344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 9, 2024|
  
 
 # EU-CERT
@@ -145,20 +145,6 @@
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
  |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Windows Bluetooth AVDTP Protocol Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-439/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-438/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-437/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-436/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-435/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-434/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-433/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer JT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-432/)|Visit link for details|2024-05-09|
  
 
 # MA-CERT
@@ -193,4 +179,18 @@
  |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
  |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
  |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Windows Bluetooth AVDTP Protocol Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-439/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-438/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-437/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-436/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-435/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-434/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-433/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer JT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-432/)|Visit link for details|2024-05-09|
  
