@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/05/2024 23:21:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/05/2024 00:13:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,35 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 30, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/)|Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans Juniper Junos OS. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0377/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Phormer cross-site scripting (CVE-2024-34749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[Central Dogma cross-site scripting (CVE-2024-1143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[IBM App Connect Enterprise HTML injection (CVE-2024-28761)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[IBM App Connect Enterprise denial of service (CVE-2024-28760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[IBM Security Guardium privilege escalation (CVE-2023-47712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[IBM Security Guardium denial of service (CVE-2023-47711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -79,22 +108,6 @@
  |[Linux - CVE-2024-26885](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26885-2024-05-07)|Visit link for details.|07/05/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/)|Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans Juniper Junos OS. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0377/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,19 +122,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240508)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 8 May 2024 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240508)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 8 May 2024 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240507)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 May 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Phormer cross-site scripting (CVE-2024-34749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[Central Dogma cross-site scripting (CVE-2024-1143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[IBM App Connect Enterprise HTML injection (CVE-2024-28761)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[IBM App Connect Enterprise denial of service (CVE-2024-28760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[IBM Security Guardium privilege escalation (CVE-2023-47712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[IBM Security Guardium denial of service (CVE-2023-47711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -155,23 +155,6 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-249)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-249)|Visit link for details|2024-05-10|
- |[F5 security advisory (AV24-248)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-248)|Visit link for details|2024-05-10|
- |[Apple security advisory (AV24-247)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-247)|Visit link for details|2024-05-08|
- |[Citrix security advisory (AV24-246)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-246)|Visit link for details|2024-05-08|
- |[Tinyproxy security advisory (AV24-245)](https://www.cyber.gc.ca/en/alerts-advisories/tinyproxy-security-advisory-av24-245)|Visit link for details|2024-05-08|
- |[Google Chrome security advisory (AV24-244)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-244)|Visit link for details|2024-05-07|
- |[Android security advisory – May 2024 Monthly Rollup (AV24-243)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2024-monthly-rollup-av24-243)|Visit link for details|2024-05-06|
- |[Ubuntu security advisory (AV24-242)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-242)|Visit link for details|2024-05-06|
- |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
- |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
- |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -187,6 +170,23 @@
  |[ 47250605/24 - Vulnérabilités dans PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-postgresql-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de PostgreSQL pgAdmin. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et…| 06 mai 2024|
  |[ 47240305/24 - Vulnérabilité critique dans Langage de programmation R ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-langage-de-programmation-r)| Le projet R a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-27322) affectant le langage de programmation R.  La vulnérabilité est présente en raison du processus de…| 03 mai 2024|
  |[ 47230305/24 - Vulnérabilités dans SonicWall GMS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-gms)| Deux vulnérabilités ont été corrigées dans SonicWall GMS. L'exploitation de ces failles peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la…| 03 mai 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-249)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-249)|Visit link for details|2024-05-10|
+ |[F5 security advisory (AV24-248)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-248)|Visit link for details|2024-05-10|
+ |[Apple security advisory (AV24-247)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-247)|Visit link for details|2024-05-08|
+ |[Citrix security advisory (AV24-246)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-246)|Visit link for details|2024-05-08|
+ |[Tinyproxy security advisory (AV24-245)](https://www.cyber.gc.ca/en/alerts-advisories/tinyproxy-security-advisory-av24-245)|Visit link for details|2024-05-08|
+ |[Google Chrome security advisory (AV24-244)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-244)|Visit link for details|2024-05-07|
+ |[Android security advisory – May 2024 Monthly Rollup (AV24-243)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2024-monthly-rollup-av24-243)|Visit link for details|2024-05-06|
+ |[Ubuntu security advisory (AV24-242)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-242)|Visit link for details|2024-05-06|
+ |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
+ |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
+ |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
  
 
 # OBS-Vigilance
