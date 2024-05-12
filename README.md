@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/05/2024 23:23:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/05/2024 00:13:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
- |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
- |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
- |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
- |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
- |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
- |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
- |[DSA-5685-1 wordpress - security update](https://www.linux.org/threads/dsa-5685-1-wordpress-security-update.49875/)|Visit link for details.|May 9, 2024|
- |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
- |[DSA-5682-1 glib2.0 - security update](https://www.linux.org/threads/dsa-5682-1-glib2-0-security-update.49859/)|Visit link for details.|May 8, 2024|
- |[USN-6767-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6767-1-linux-kernel-vulnerabilities.49858/)|Visit link for details.|May 7, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,40 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
  |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 30, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5688-1 atril - security update](https://www.linux.org/threads/dsa-5688-1-atril-security-update.49912/)|Visit link for details.|May 12, 2024|
+ |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
+ |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
+ |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
+ |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
+ |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
+ |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
+ |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
+ |[DSA-5685-1 wordpress - security update](https://www.linux.org/threads/dsa-5685-1-wordpress-security-update.49875/)|Visit link for details.|May 9, 2024|
+ |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
+ |[DSA-5682-1 glib2.0 - security update](https://www.linux.org/threads/dsa-5682-1-glib2-0-security-update.49859/)|Visit link for details.|May 8, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome - CVE-2024-4671](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4671-2024-05-10)|Visit link for details.|10/05/2024|
+ |[F5 Big-IP - CVE-2024-26026](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-26026-2024-05-10)|Visit link for details.|10/05/2024|
+ |[SolarWinds - CVE-2024-28075](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28075-2024-05-10)|Visit link for details.|10/05/2024|
+ |[F5 Big-IP - CVE-2024-21793](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-21793-2024-05-10)|Visit link for details.|10/05/2024|
+ |[DCMTK - CVE-2024-34508](https://www.cyberveille-sante.gouv.fr/alertes/dcmtk-cve-2024-34508-2024-05-10)|Visit link for details.|10/05/2024|
+ |[Arcserve - CVE-2024-0799](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0799-2024-03-14)|Visit link for details.|10/05/2024|
+ |[Arcserve - CVE-2024-0800](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0800-2024-03-15)|Visit link for details.|10/05/2024|
+ |[Arcserve - CVE-2024-0801](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0801-2024-03-20)|Visit link for details.|10/05/2024|
+ |[Trend Micro - CVE-2024-32849](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-32849-2024-05-07)|Visit link for details.|07/05/2024|
+ |[PostgreSQL - CVE-2024-4216](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-4216-2024-05-07)|Visit link for details.|07/05/2024|
+ |[Linux - CVE-2024-26885](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26885-2024-05-07)|Visit link for details.|07/05/2024|
  
 
 # CERT-FR
@@ -84,36 +101,6 @@
  |---|---|---|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome - CVE-2024-4671](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4671-2024-05-10)|Visit link for details.|10/05/2024|
- |[F5 Big-IP - CVE-2024-26026](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-26026-2024-05-10)|Visit link for details.|10/05/2024|
- |[SolarWinds - CVE-2024-28075](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28075-2024-05-10)|Visit link for details.|10/05/2024|
- |[F5 Big-IP - CVE-2024-21793](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-21793-2024-05-10)|Visit link for details.|10/05/2024|
- |[DCMTK - CVE-2024-34508](https://www.cyberveille-sante.gouv.fr/alertes/dcmtk-cve-2024-34508-2024-05-10)|Visit link for details.|10/05/2024|
- |[Arcserve - CVE-2024-0799](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0799-2024-03-14)|Visit link for details.|10/05/2024|
- |[Arcserve - CVE-2024-0800](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0800-2024-03-15)|Visit link for details.|10/05/2024|
- |[Arcserve - CVE-2024-0801](https://www.cyberveille-sante.gouv.fr/alertes/arcserve-cve-2024-0801-2024-03-20)|Visit link for details.|10/05/2024|
- |[Trend Micro - CVE-2024-32849](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-32849-2024-05-07)|Visit link for details.|07/05/2024|
- |[PostgreSQL - CVE-2024-4216](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-4216-2024-05-07)|Visit link for details.|07/05/2024|
- |[Linux - CVE-2024-26885](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26885-2024-05-07)|Visit link for details.|07/05/2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Phormer cross-site scripting (CVE-2024-34749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[Central Dogma cross-site scripting (CVE-2024-1143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[IBM App Connect Enterprise HTML injection (CVE-2024-28761)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[IBM App Connect Enterprise denial of service (CVE-2024-28760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[IBM Security Guardium privilege escalation (CVE-2023-47712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[IBM Security Guardium denial of service (CVE-2023-47711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -128,6 +115,19 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240508)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 8 May 2024 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240508)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 8 May 2024 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240507)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 May 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Phormer cross-site scripting (CVE-2024-34749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[Central Dogma cross-site scripting (CVE-2024-1143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[IBM App Connect Enterprise HTML injection (CVE-2024-28761)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[IBM App Connect Enterprise denial of service (CVE-2024-28760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[IBM Security Guardium privilege escalation (CVE-2023-47712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[IBM Security Guardium denial of service (CVE-2023-47711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -161,23 +161,6 @@
  |[Dassault Systèmes eDrawings Viewer JT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-432/)|Visit link for details|2024-05-09|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-249)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-249)|Visit link for details|2024-05-10|
- |[F5 security advisory (AV24-248)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-248)|Visit link for details|2024-05-10|
- |[Apple security advisory (AV24-247)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-247)|Visit link for details|2024-05-08|
- |[Citrix security advisory (AV24-246)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-246)|Visit link for details|2024-05-08|
- |[Tinyproxy security advisory (AV24-245)](https://www.cyber.gc.ca/en/alerts-advisories/tinyproxy-security-advisory-av24-245)|Visit link for details|2024-05-08|
- |[Google Chrome security advisory (AV24-244)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-244)|Visit link for details|2024-05-07|
- |[Android security advisory – May 2024 Monthly Rollup (AV24-243)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2024-monthly-rollup-av24-243)|Visit link for details|2024-05-06|
- |[Ubuntu security advisory (AV24-242)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-242)|Visit link for details|2024-05-06|
- |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
- |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
- |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -193,4 +176,21 @@
  |[ 47250605/24 - Vulnérabilités dans PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-postgresql-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de PostgreSQL pgAdmin. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et…| 06 mai 2024|
  |[ 47240305/24 - Vulnérabilité critique dans Langage de programmation R ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-langage-de-programmation-r)| Le projet R a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-27322) affectant le langage de programmation R.  La vulnérabilité est présente en raison du processus de…| 03 mai 2024|
  |[ 47230305/24 - Vulnérabilités dans SonicWall GMS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-gms)| Deux vulnérabilités ont été corrigées dans SonicWall GMS. L'exploitation de ces failles peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la…| 03 mai 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-249)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-249)|Visit link for details|2024-05-10|
+ |[F5 security advisory (AV24-248)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-248)|Visit link for details|2024-05-10|
+ |[Apple security advisory (AV24-247)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-247)|Visit link for details|2024-05-08|
+ |[Citrix security advisory (AV24-246)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-246)|Visit link for details|2024-05-08|
+ |[Tinyproxy security advisory (AV24-245)](https://www.cyber.gc.ca/en/alerts-advisories/tinyproxy-security-advisory-av24-245)|Visit link for details|2024-05-08|
+ |[Google Chrome security advisory (AV24-244)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-244)|Visit link for details|2024-05-07|
+ |[Android security advisory – May 2024 Monthly Rollup (AV24-243)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2024-monthly-rollup-av24-243)|Visit link for details|2024-05-06|
+ |[Ubuntu security advisory (AV24-242)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-242)|Visit link for details|2024-05-06|
+ |[Red Hat security advisory (AV24-241)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-241)|Visit link for details|2024-05-06|
+ |[[Control systems] CISA ICS security advisories (AV24-240)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-240)|Visit link for details|2024-05-06|
+ |[IBM security advisory (AV24-239)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-239)|Visit link for details|2024-05-06|
  
