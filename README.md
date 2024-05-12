@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/05/2024 19:15:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/05/2024 20:17:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
+ |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
+ |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
+ |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
+ |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
+ |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
+ |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
+ |[DSA-5685-1 wordpress - security update](https://www.linux.org/threads/dsa-5685-1-wordpress-security-update.49875/)|Visit link for details.|May 9, 2024|
+ |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
+ |[DSA-5682-1 glib2.0 - security update](https://www.linux.org/threads/dsa-5682-1-glib2-0-security-update.49859/)|Visit link for details.|May 8, 2024|
+ |[USN-6767-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6767-1-linux-kernel-vulnerabilities.49858/)|Visit link for details.|May 7, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,6 +60,22 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
  |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 30, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/)|Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans Juniper Junos OS. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0377/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
  
 
 # CERT-SANTE
@@ -68,22 +101,6 @@
  |---|---|---|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/)|Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans Juniper Junos OS. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0377/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -100,23 +117,6 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240507)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 May 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
- |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
- |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
- |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
- |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
- |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
- |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
- |[DSA-5685-1 wordpress - security update](https://www.linux.org/threads/dsa-5685-1-wordpress-security-update.49875/)|Visit link for details.|May 9, 2024|
- |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
- |[DSA-5682-1 glib2.0 - security update](https://www.linux.org/threads/dsa-5682-1-glib2-0-security-update.49859/)|Visit link for details.|May 8, 2024|
- |[USN-6767-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6767-1-linux-kernel-vulnerabilities.49858/)|Visit link for details.|May 7, 2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -128,20 +128,6 @@
  |[IBM Security Guardium privilege escalation (CVE-2023-47712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
  |[IBM Security Guardium denial of service (CVE-2023-47711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Windows Bluetooth AVDTP Protocol Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-439/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-438/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-437/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-436/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-435/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-434/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-433/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer JT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-432/)|Visit link for details|2024-05-09|
  
 
 # MA-CERT
@@ -176,6 +162,20 @@
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
  |[2024-034: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-034/)|On April 9, 2024, Microsoft addressed 150 vulnerabilities in its April 2024 Patch Tuesday update, including 67 remote code execution (RCE) vulnerabilities and 2 zero-days exploited in malware attacks.|Wednesday, April 10, 2024 09:45:54 AM CEST|
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Windows Bluetooth AVDTP Protocol Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-439/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-438/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-437/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-436/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-435/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-434/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-433/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer JT File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-432/)|Visit link for details|2024-05-09|
  
 
 # CA-CCS
