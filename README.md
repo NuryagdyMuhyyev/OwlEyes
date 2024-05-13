@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/05/2024 03:17:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/05/2024 04:17:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6771-1: SQL parse vulnerability](https://www.linux.org/threads/usn-6771-1-sql-parse-vulnerability.49927/)|Visit link for details.|May 13, 2024|
- |[DSA-5688-1 atril - security update](https://www.linux.org/threads/dsa-5688-1-atril-security-update.49912/)|Visit link for details.|May 12, 2024|
- |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
- |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
- |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
- |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
- |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
- |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
- |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
- |[DSA-5685-1 wordpress - security update](https://www.linux.org/threads/dsa-5685-1-wordpress-security-update.49875/)|Visit link for details.|May 9, 2024|
- |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -76,23 +59,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
  |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
  |[Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/)|Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 mai 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2024-23473](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23473-2024-05-13)|Visit link for details.|13/05/2024|
- |[IBM - CVE-2024-27273](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-27273-2024-05-13)|Visit link for details.|13/05/2024|
- |[Google - CVE-2024-4558](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4558-2024-05-13)|Visit link for details.|13/05/2024|
- |[F5 - CVE-2024-31156](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-31156-2024-05-13)|Visit link for details.|13/05/2024|
- |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|13/05/2024|
- |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
- |[Google Chrome - CVE-2024-4671](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4671-2024-05-10)|Visit link for details.|13/05/2024|
- |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|13/05/2024|
- |[F5 Big-IP - CVE-2024-26026](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-26026-2024-05-10)|Visit link for details.|10/05/2024|
- |[SolarWinds - CVE-2024-28075](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28075-2024-05-10)|Visit link for details.|10/05/2024|
- |[F5 Big-IP - CVE-2024-21793](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-21793-2024-05-10)|Visit link for details.|10/05/2024|
  
 
 # HK-CERT
@@ -111,23 +77,57 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240509)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. |Release Date: 9 May 2024 |
  
 
-# OBS-Vigilance
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6771-1: SQL parse vulnerability](https://www.linux.org/threads/usn-6771-1-sql-parse-vulnerability.49927/)|Visit link for details.|May 13, 2024|
+ |[DSA-5688-1 atril - security update](https://www.linux.org/threads/dsa-5688-1-atril-security-update.49912/)|Visit link for details.|May 12, 2024|
+ |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
+ |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
+ |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
+ |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
+ |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
+ |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
+ |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
+ |[DSA-5685-1 wordpress - security update](https://www.linux.org/threads/dsa-5685-1-wordpress-security-update.49875/)|Visit link for details.|May 9, 2024|
+ |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Frontend Admin by DynamiApps Plugin for WordPress security bypass (CVE-2021-4343)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple watchOS privilege escalation (CVE-2024-27804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
  |[Google Chrome code execution (CVE-2024-4761)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
  |[IBM Spectrum Fusion HCI improper access control (CVE-2023-43040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 11, 2024|
  |[Phormer cross-site scripting (CVE-2024-34749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
  |[Central Dogma cross-site scripting (CVE-2024-1143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
  |[IBM App Connect Enterprise HTML injection (CVE-2024-28761)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2024-23473](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23473-2024-05-13)|Visit link for details.|13/05/2024|
+ |[IBM - CVE-2024-27273](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-27273-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Google - CVE-2024-4558](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4558-2024-05-13)|Visit link for details.|13/05/2024|
+ |[F5 - CVE-2024-31156](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-31156-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
+ |[Google Chrome - CVE-2024-4671](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4671-2024-05-10)|Visit link for details.|13/05/2024|
+ |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|13/05/2024|
+ |[F5 Big-IP - CVE-2024-26026](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-26026-2024-05-10)|Visit link for details.|10/05/2024|
+ |[SolarWinds - CVE-2024-28075](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28075-2024-05-10)|Visit link for details.|10/05/2024|
+ |[F5 Big-IP - CVE-2024-21793](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-21793-2024-05-10)|Visit link for details.|10/05/2024|
  
 
 # ZERODAYINITIATIVE
