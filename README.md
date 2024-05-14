@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/05/2024 14:18:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/05/2024 15:20:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
- |[CISA and Partners Release Advisory on Black Basta Ransomware](https://www.cisa.gov/news-events/alerts/2024/05/10/cisa-and-partners-release-advisory-black-basta-ransomware)|Visit link for details.|May 10, 2024|
- |[ASD’s ACSC, CISA, and Partners Release Secure by Design Guidance on Choosing Secure and Verifiable Technologies](https://www.cisa.gov/news-events/alerts/2024/05/09/asds-acsc-cisa-and-partners-release-secure-design-guidance-choosing-secure-and-verifiable)|Visit link for details.|May 09, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 09, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/07/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|May 07, 2024|
- |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate Directory Traversal Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-directory-traversal)|Visit link for details.|May 02, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 02, 2024|
- |[CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist)|Visit link for details.|May 01, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
- |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,26 +46,26 @@
  |[DSA-5683-1 chromium - security update](https://www.linux.org/threads/dsa-5683-1-chromium-security-update.49871/)|Visit link for details.|May 8, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
+ |[CISA and Partners Release Advisory on Black Basta Ransomware](https://www.cisa.gov/news-events/alerts/2024/05/10/cisa-and-partners-release-advisory-black-basta-ransomware)|Visit link for details.|May 10, 2024|
+ |[ASD’s ACSC, CISA, and Partners Release Secure by Design Guidance on Choosing Secure and Verifiable Technologies](https://www.cisa.gov/news-events/alerts/2024/05/09/asds-acsc-cisa-and-partners-release-secure-design-guidance-choosing-secure-and-verifiable)|Visit link for details.|May 09, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 09, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/07/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|May 07, 2024|
+ |[CISA and FBI Release Secure by Design Alert to Urge Manufacturers to Eliminate Directory Traversal Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-and-fbi-release-secure-design-alert-urge-manufacturers-eliminate-directory-traversal)|Visit link for details.|May 02, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 02, 2024|
+ |[CISA and Partners Release Fact Sheet on Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-and-partners-release-fact-sheet-defending-ot-operations-against-ongoing-pro-russia-hacktivist)|Visit link for details.|May 01, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 01, 2024|
+ |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/)|Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans Juniper Junos OS. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0377/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
  
 
 # CERT-SANTE
@@ -101,17 +85,20 @@
  |[F5 Big-IP - CVE-2024-21793](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-21793-2024-05-10)|Visit link for details.|10/05/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple iOS and iPadOS security bypass (CVE-2024-27803)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[Apple iOS and iPadOS information disclosure (CVE-2024-27835)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[Apple iOS and iPadOS security bypass (CVE-2024-27852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[Apple iOS and iPadOS information disclosure (CVE-2024-27839)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[Apple macOS Sonoma privilege escalation (CVE-2024-27796)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[Apple macOS Sonoma privilege escalation (CVE-2024-27842)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une injection de requêtes illégitimes par rebond (CSRF), un contournement de la politique de sécurité.|Publié le 13 mai 2024|
+ |[Multiples vulnérabilités dans VMware Avi Load Balancer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans VMware Avi Load Balancer. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 13 mai 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mai 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/)|Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 mai 2024|
  
 
 # HK-CERT
@@ -128,6 +115,19 @@
  |[Apple iTunes Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-itunes-remote-code-execution-vulnerability_20240510)|A vulnerability has been identified in Apple iTunes. A remote attacker could exploit this vulnerability to trigger remote code execution and denial of serviceon the targeted system.|Release Date: 10 May 2024 |
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240510)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution and denial of service on the targeted system. Note:Google is aware of reports that an exploit for CVE-2024-4671 exists in the wild....|Release Date: 10 May 2024 |
  |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240510)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service and security restriction bypass on the targeted system.|Release Date: 10 May 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple iOS and iPadOS security bypass (CVE-2024-27803)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple iOS and iPadOS information disclosure (CVE-2024-27835)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple iOS and iPadOS security bypass (CVE-2024-27852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple iOS and iPadOS information disclosure (CVE-2024-27839)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple macOS Sonoma privilege escalation (CVE-2024-27796)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple macOS Sonoma privilege escalation (CVE-2024-27842)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
