@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/05/2024 21:23:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/05/2024 22:15:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,46 +45,6 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/02/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|May 02, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6772-1: strongSwan vulnerability](https://www.linux.org/threads/usn-6772-1-strongswan-vulnerability.49943/)|Visit link for details.|May 14, 2024|
- |[USN-6767-2: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6767-2-linux-kernel-bluefield-vulnerabilities.49941/)|Visit link for details.|May 14, 2024|
- |[USN-6771-1: SQL parse vulnerability](https://www.linux.org/threads/usn-6771-1-sql-parse-vulnerability.49927/)|Visit link for details.|May 13, 2024|
- |[DSA-5688-1 atril - security update](https://www.linux.org/threads/dsa-5688-1-atril-security-update.49912/)|Visit link for details.|May 12, 2024|
- |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
- |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
- |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
- |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
- |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
- |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
- |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google - CVE-2024-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4761-2024-05-14)|Visit link for details.|14/05/2024|
- |[VMware - CVE-2024-22264](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22264-2024-05-14)|Visit link for details.|14/05/2024|
- |[Cacti - CVE-2024-29895](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-29895-2024-05-14)|Visit link for details.|14/05/2024|
- |[Cacti - CVE-2024-25641](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-25641-2024-05-14)|Visit link for details.|14/05/2024|
- |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|14/05/2024|
- |[SolarWinds - CVE-2024-23473](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23473-2024-05-13)|Visit link for details.|13/05/2024|
- |[IBM - CVE-2024-27273](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-27273-2024-05-13)|Visit link for details.|13/05/2024|
- |[Google - CVE-2024-4558](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4558-2024-05-13)|Visit link for details.|13/05/2024|
- |[F5 - CVE-2024-31156](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-31156-2024-05-13)|Visit link for details.|13/05/2024|
- |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|13/05/2024|
- |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -117,6 +77,29 @@
  |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240510)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service and security restriction bypass on the targeted system.|Release Date: 10 May 2024 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6772-1: strongSwan vulnerability](https://www.linux.org/threads/usn-6772-1-strongswan-vulnerability.49943/)|Visit link for details.|May 14, 2024|
+ |[USN-6767-2: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6767-2-linux-kernel-bluefield-vulnerabilities.49941/)|Visit link for details.|May 14, 2024|
+ |[USN-6771-1: SQL parse vulnerability](https://www.linux.org/threads/usn-6771-1-sql-parse-vulnerability.49927/)|Visit link for details.|May 13, 2024|
+ |[DSA-5688-1 atril - security update](https://www.linux.org/threads/dsa-5688-1-atril-security-update.49912/)|Visit link for details.|May 12, 2024|
+ |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
+ |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
+ |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
+ |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
+ |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
+ |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
+ |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -128,6 +111,37 @@
  |[Apple macOS Sonoma privilege escalation (CVE-2024-27796)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
  |[Apple macOS Sonoma privilege escalation (CVE-2024-27842)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google - CVE-2024-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4761-2024-05-14)|Visit link for details.|14/05/2024|
+ |[VMware - CVE-2024-22264](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22264-2024-05-14)|Visit link for details.|14/05/2024|
+ |[Cacti - CVE-2024-29895](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-29895-2024-05-14)|Visit link for details.|14/05/2024|
+ |[Cacti - CVE-2024-25641](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-25641-2024-05-14)|Visit link for details.|14/05/2024|
+ |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|14/05/2024|
+ |[SolarWinds - CVE-2024-23473](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23473-2024-05-13)|Visit link for details.|13/05/2024|
+ |[IBM - CVE-2024-27273](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-27273-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Google - CVE-2024-4558](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4558-2024-05-13)|Visit link for details.|13/05/2024|
+ |[F5 - CVE-2024-31156](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-31156-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) D-Link D-View execMonitorScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-450/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View queryDeviceCustomMonitorResult Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-449/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View executeWmicCmd Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-448/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-447/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link G416 flupl self Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-446/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link DIR-3040 prog.cgi websSecurityHandler Memory Leak Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-445/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link DIR-2640 HTTP Referer Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-444/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link Network Assistant Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-443/)|Visit link for details|2024-05-14|
  
 
 # EU-CERT
@@ -163,24 +177,11 @@
  |[ 47310805/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance.| 08 mai 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) D-Link D-View execMonitorScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-450/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View queryDeviceCustomMonitorResult Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-449/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View executeWmicCmd Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-448/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-447/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link G416 flupl self Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-446/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link DIR-3040 prog.cgi websSecurityHandler Memory Leak Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-445/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link DIR-2640 HTTP Referer Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-444/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link Network Assistant Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-443/)|Visit link for details|2024-05-14|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Siemens security advisory (AV24-263)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-263)|Visit link for details|2024-05-14|
  |[[Control systems] ABB security advisory (AV24-262)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-262)|Visit link for details|2024-05-14|
  |[[Control systems] B&R security advisory (AV24-261)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-261)|Visit link for details|2024-05-14|
  |[VMware security advisory (AV24-260)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-260)|Visit link for details|2024-05-14|
@@ -191,5 +192,4 @@
  |[Juniper security advisory (AV24-255)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-255)|Visit link for details|2024-05-13|
  |[Microsoft Edge security advisory (AV24-254)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-254)|Visit link for details|2024-05-13|
  |[[Control systems] CISA ICS security advisories (AV24-253)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-253)|Visit link for details|2024-05-13|
- |[Dell security advisory (AV24-252)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-252)|Visit link for details|2024-05-13|
  
