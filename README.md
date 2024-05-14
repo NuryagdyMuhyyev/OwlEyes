@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/05/2024 10:17:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/05/2024 11:25:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,13 +45,27 @@
  |[CERT/CC Reports R Programming Language Vulnerability](https://www.cisa.gov/news-events/alerts/2024/05/01/certcc-reports-r-programming-language-vulnerability)|Visit link for details.|May 01, 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2024-23473](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23473-2024-05-13)|Visit link for details.|13/05/2024|
+ |[IBM - CVE-2024-27273](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-27273-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Google - CVE-2024-4558](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4558-2024-05-13)|Visit link for details.|13/05/2024|
+ |[F5 - CVE-2024-31156](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-31156-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
+ |[Google Chrome - CVE-2024-4671](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4671-2024-05-10)|Visit link for details.|13/05/2024|
+ |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|13/05/2024|
+ |[F5 Big-IP - CVE-2024-26026](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-26026-2024-05-10)|Visit link for details.|10/05/2024|
+ |[SolarWinds - CVE-2024-28075](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28075-2024-05-10)|Visit link for details.|10/05/2024|
+ |[F5 Big-IP - CVE-2024-21793](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-21793-2024-05-10)|Visit link for details.|10/05/2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une injection de requêtes illégitimes par rebond (CSRF), un contournement de la politique de sécurité.|Publié le 13 mai 2024|
- |[Multiples vulnérabilités dans VMware Avi Load Balancer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans VMware Avi Load Balancer. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 13 mai 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mai 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
@@ -59,6 +73,9 @@
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
  |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
  |[Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/)|Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans Juniper Junos OS. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0377/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
  
 
 # LINUX-SEC
@@ -84,21 +101,17 @@
  |---|---|---|
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds - CVE-2024-23473](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23473-2024-05-13)|Visit link for details.|13/05/2024|
- |[IBM - CVE-2024-27273](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-27273-2024-05-13)|Visit link for details.|13/05/2024|
- |[Google - CVE-2024-4558](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4558-2024-05-13)|Visit link for details.|13/05/2024|
- |[F5 - CVE-2024-31156](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-31156-2024-05-13)|Visit link for details.|13/05/2024|
- |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|13/05/2024|
- |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
- |[Google Chrome - CVE-2024-4671](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-4671-2024-05-10)|Visit link for details.|13/05/2024|
- |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|13/05/2024|
- |[F5 Big-IP - CVE-2024-26026](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-26026-2024-05-10)|Visit link for details.|10/05/2024|
- |[SolarWinds - CVE-2024-28075](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28075-2024-05-10)|Visit link for details.|10/05/2024|
- |[F5 Big-IP - CVE-2024-21793](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-21793-2024-05-10)|Visit link for details.|10/05/2024|
+ |[Apple iOS and iPadOS security bypass (CVE-2024-27803)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple iOS and iPadOS information disclosure (CVE-2024-27835)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple iOS and iPadOS security bypass (CVE-2024-27852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple iOS and iPadOS information disclosure (CVE-2024-27839)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple macOS Sonoma privilege escalation (CVE-2024-27796)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple macOS Sonoma privilege escalation (CVE-2024-27842)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
+ |[Apple macOS Sonoma privilege escalation (CVE-2024-27798)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
  
 
 # HK-CERT
@@ -115,19 +128,6 @@
  |[Apple iTunes Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apple-itunes-remote-code-execution-vulnerability_20240510)|A vulnerability has been identified in Apple iTunes. A remote attacker could exploit this vulnerability to trigger remote code execution and denial of serviceon the targeted system.|Release Date: 10 May 2024 |
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240510)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution and denial of service on the targeted system. Note:Google is aware of reports that an exploit for CVE-2024-4671 exists in the wild....|Release Date: 10 May 2024 |
  |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240510)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service and security restriction bypass on the targeted system.|Release Date: 10 May 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple iOS and iPadOS security bypass (CVE-2024-27803)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[Apple iOS and iPadOS information disclosure (CVE-2024-27835)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[Apple iOS and iPadOS security bypass (CVE-2024-27852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[Apple iOS and iPadOS information disclosure (CVE-2024-27839)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[Apple macOS Sonoma privilege escalation (CVE-2024-27796)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[Apple macOS Sonoma privilege escalation (CVE-2024-27842)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 13, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -147,18 +147,21 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Delta Electronics CNCSoft-B DOPSoft Uncontrolled Search Path Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-441/)|Visit link for details|2024-05-13|
- |[Delta Electronics InfraSuite Device Master ActiveMQ Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-440/)|Visit link for details|2024-05-13|
- |[Microsoft Windows Bluetooth AVDTP Protocol Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-439/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-438/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-437/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-436/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-435/)|Visit link for details|2024-05-09|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-434/)|Visit link for details|2024-05-09|
+ |[Apple security advisory (AV24-257)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-257)|Visit link for details|2024-05-13|
+ |[Red Hat security advisory (AV24-256)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-256)|Visit link for details|2024-05-13|
+ |[Juniper security advisory (AV24-255)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-255)|Visit link for details|2024-05-13|
+ |[Microsoft Edge security advisory (AV24-254)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-254)|Visit link for details|2024-05-13|
+ |[[Control systems] CISA ICS security advisories (AV24-253)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-253)|Visit link for details|2024-05-13|
+ |[Dell security advisory (AV24-252)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-252)|Visit link for details|2024-05-13|
+ |[Ubuntu security advisory (AV24-251)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-251)|Visit link for details|2024-05-13|
+ |[IBM security advisory (AV24-250)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-250)|Visit link for details|2024-05-13|
+ |[Google Chrome security advisory (AV24-249)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-249)|Visit link for details|2024-05-10|
+ |[F5 security advisory (AV24-248)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-248)|Visit link for details|2024-05-10|
+ |[Apple security advisory (AV24-247)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-247)|Visit link for details|2024-05-08|
  
 
 # MA-CERT
@@ -177,19 +180,16 @@
  |[ 47260605/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-0)| Veuillez se référer au bulletin de sécurité WordPress afin d’installer les nouvelles mises à jour.| 06 mai 2024|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple security advisory (AV24-257)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-257)|Visit link for details|2024-05-13|
- |[Red Hat security advisory (AV24-256)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-256)|Visit link for details|2024-05-13|
- |[Juniper security advisory (AV24-255)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-255)|Visit link for details|2024-05-13|
- |[Microsoft Edge security advisory (AV24-254)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-254)|Visit link for details|2024-05-13|
- |[[Control systems] CISA ICS security advisories (AV24-253)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-253)|Visit link for details|2024-05-13|
- |[Dell security advisory (AV24-252)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-252)|Visit link for details|2024-05-13|
- |[Ubuntu security advisory (AV24-251)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-251)|Visit link for details|2024-05-13|
- |[IBM security advisory (AV24-250)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-250)|Visit link for details|2024-05-13|
- |[Google Chrome security advisory (AV24-249)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-249)|Visit link for details|2024-05-10|
- |[F5 security advisory (AV24-248)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-248)|Visit link for details|2024-05-10|
- |[Apple security advisory (AV24-247)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-247)|Visit link for details|2024-05-08|
+ |[Delta Electronics CNCSoft-B DOPSoft Uncontrolled Search Path Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-441/)|Visit link for details|2024-05-13|
+ |[Delta Electronics InfraSuite Device Master ActiveMQ Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-440/)|Visit link for details|2024-05-13|
+ |[Microsoft Windows Bluetooth AVDTP Protocol Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-439/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-438/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-437/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-436/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-435/)|Visit link for details|2024-05-09|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-434/)|Visit link for details|2024-05-09|
  
