@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/05/2024 08:22:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/05/2024 09:21:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 14, 2024|
+ |[CISA and Partners Release Guidance for Civil Society Organizations on Mitigating Cyber Threats with Limited Resources](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-and-partners-release-guidance-civil-society-organizations-mitigating-cyber-threats-limited)|Visit link for details.|May 14, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
+ |[CISA and Partners Release Advisory on Black Basta Ransomware](https://www.cisa.gov/news-events/alerts/2024/05/10/cisa-and-partners-release-advisory-black-basta-ransomware)|Visit link for details.|May 10, 2024|
+ |[ASD’s ACSC, CISA, and Partners Release Secure by Design Guidance on Choosing Secure and Verifiable Technologies](https://www.cisa.gov/news-events/alerts/2024/05/09/asds-acsc-cisa-and-partners-release-secure-design-guidance-choosing-secure-and-verifiable)|Visit link for details.|May 09, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 09, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/07/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|May 07, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,28 +60,6 @@
  |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
  |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
  |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 14, 2024|
- |[CISA and Partners Release Guidance for Civil Society Organizations on Mitigating Cyber Threats with Limited Resources](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-and-partners-release-guidance-civil-society-organizations-mitigating-cyber-threats-limited)|Visit link for details.|May 14, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
- |[CISA and Partners Release Advisory on Black Basta Ransomware](https://www.cisa.gov/news-events/alerts/2024/05/10/cisa-and-partners-release-advisory-black-basta-ransomware)|Visit link for details.|May 10, 2024|
- |[ASD’s ACSC, CISA, and Partners Release Secure by Design Guidance on Choosing Secure and Verifiable Technologies](https://www.cisa.gov/news-events/alerts/2024/05/09/asds-acsc-cisa-and-partners-release-secure-design-guidance-choosing-secure-and-verifiable)|Visit link for details.|May 09, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 09, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/07/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|May 07, 2024|
  
 
 # CERT-FR
@@ -101,6 +95,12 @@
  |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -121,44 +121,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Fortinet FortiOS denial of service (CVE-2024-26007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[FortiADC information disclosure (CVE-2023-50180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[FortiNAC cross-site scripting (CVE-2024-31488)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[Fortinet FortiOS code execution (CVE-2023-44247)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[Fortinet FortiOS spoofing (CVE-2023-45586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[Fortinet FortiOS buffer overflow (CVE-2023-46714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[VMware Workstation and Fusion information disclosure (CVE-2024-22270)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft SharePoint BaseXmlDataSource XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-453/)|Visit link for details|2024-05-14|
- |[Microsoft Windows cldflt Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-452/)|Visit link for details|2024-05-14|
- |[Microsoft Windows Search Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-451/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View execMonitorScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-450/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View queryDeviceCustomMonitorResult Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-449/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View executeWmicCmd Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-448/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-447/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link G416 flupl self Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-446/)|Visit link for details|2024-05-14|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel security advisory (AV24-269)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-269)|Visit link for details|2024-05-14|
- |[Adobe security advisory (AV24-268)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-268)|Visit link for details|2024-05-14|
- |[Fortinet security advisory (AV24-267)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-267)|Visit link for details|2024-05-14|
- |[Microsoft security advisory – May 2024 monthly rollup (AV24-266)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-may-2024-monthly-rollup-av24-266)|Visit link for details|2024-05-14|
- |[SAP security advisory – May 2024 monthly rollup (AV24-265)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-may-2024-monthly-rollup-av24-265)|Visit link for details|2024-05-14|
- |[Mozilla security advisory (AV24-264)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-264)|Visit link for details|2024-05-14|
- |[[Control systems] Siemens security advisory (AV24-263)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-263)|Visit link for details|2024-05-14|
- |[[Control systems] ABB security advisory (AV24-262)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-262)|Visit link for details|2024-05-14|
- |[[Control systems] B&R security advisory (AV24-261)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-261)|Visit link for details|2024-05-14|
- |[VMware security advisory (AV24-260)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-260)|Visit link for details|2024-05-14|
- |[Google Chrome security advisory (AV24-259)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-259)|Visit link for details|2024-05-14|
  
 
 # EU-CERT
@@ -178,6 +147,20 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft SharePoint BaseXmlDataSource XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-453/)|Visit link for details|2024-05-14|
+ |[Microsoft Windows cldflt Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-452/)|Visit link for details|2024-05-14|
+ |[Microsoft Windows Search Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-451/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View execMonitorScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-450/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View queryDeviceCustomMonitorResult Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-449/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View executeWmicCmd Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-448/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-447/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link G416 flupl self Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-446/)|Visit link for details|2024-05-14|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -192,4 +175,21 @@
  |[ 47340905/24 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-1)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de…| 09 mai 2024|
  |[ 47330905/24 - Vulnérabilités dans F5 BIG-IP Next Central Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-f5-big-ip-next-central-manager)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de F5 BIG-IP Next Central Manager. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 09 mai 2024|
  |[ 47310805/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance.| 08 mai 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Intel security advisory (AV24-269)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-269)|Visit link for details|2024-05-14|
+ |[Adobe security advisory (AV24-268)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-268)|Visit link for details|2024-05-14|
+ |[Fortinet security advisory (AV24-267)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-267)|Visit link for details|2024-05-14|
+ |[Microsoft security advisory – May 2024 monthly rollup (AV24-266)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-may-2024-monthly-rollup-av24-266)|Visit link for details|2024-05-14|
+ |[SAP security advisory – May 2024 monthly rollup (AV24-265)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-may-2024-monthly-rollup-av24-265)|Visit link for details|2024-05-14|
+ |[Mozilla security advisory (AV24-264)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-264)|Visit link for details|2024-05-14|
+ |[[Control systems] Siemens security advisory (AV24-263)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-263)|Visit link for details|2024-05-14|
+ |[[Control systems] ABB security advisory (AV24-262)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-262)|Visit link for details|2024-05-14|
+ |[[Control systems] B&R security advisory (AV24-261)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-261)|Visit link for details|2024-05-14|
+ |[VMware security advisory (AV24-260)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-260)|Visit link for details|2024-05-14|
+ |[Google Chrome security advisory (AV24-259)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-259)|Visit link for details|2024-05-14|
  
