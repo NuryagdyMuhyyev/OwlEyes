@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/05/2024 18:19:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/05/2024 19:17:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,29 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 09, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6772-1: strongSwan vulnerability](https://www.linux.org/threads/usn-6772-1-strongswan-vulnerability.49943/)|Visit link for details.|May 14, 2024|
+ |[USN-6767-2: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6767-2-linux-kernel-bluefield-vulnerabilities.49941/)|Visit link for details.|May 14, 2024|
+ |[USN-6771-1: SQL parse vulnerability](https://www.linux.org/threads/usn-6771-1-sql-parse-vulnerability.49927/)|Visit link for details.|May 13, 2024|
+ |[DSA-5688-1 atril - security update](https://www.linux.org/threads/dsa-5688-1-atril-security-update.49912/)|Visit link for details.|May 12, 2024|
+ |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
+ |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
+ |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
+ |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
+ |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
+ |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
+ |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -61,21 +84,21 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mai 2024|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6772-1: strongSwan vulnerability](https://www.linux.org/threads/usn-6772-1-strongswan-vulnerability.49943/)|Visit link for details.|May 14, 2024|
- |[USN-6767-2: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6767-2-linux-kernel-bluefield-vulnerabilities.49941/)|Visit link for details.|May 14, 2024|
- |[USN-6771-1: SQL parse vulnerability](https://www.linux.org/threads/usn-6771-1-sql-parse-vulnerability.49927/)|Visit link for details.|May 13, 2024|
- |[DSA-5688-1 atril - security update](https://www.linux.org/threads/dsa-5688-1-atril-security-update.49912/)|Visit link for details.|May 12, 2024|
- |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
- |[USN-6770-1: Fossil regression](https://www.linux.org/threads/usn-6770-1-fossil-regression.49885/)|Visit link for details.|May 10, 2024|
- |[USN-6769-1: Spreadsheet::ParseXLSX vulnerabilities](https://www.linux.org/threads/usn-6769-1-spreadsheet-parsexlsx-vulnerabilities.49883/)|Visit link for details.|May 9, 2024|
- |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
- |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
- |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
- |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
+ |[Google - CVE-2024-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4761-2024-05-14)|Visit link for details.|14/05/2024|
+ |[VMware - CVE-2024-22264](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22264-2024-05-14)|Visit link for details.|14/05/2024|
+ |[Cacti - CVE-2024-29895](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-29895-2024-05-14)|Visit link for details.|14/05/2024|
+ |[Cacti - CVE-2024-25641](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-25641-2024-05-14)|Visit link for details.|14/05/2024|
+ |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|14/05/2024|
+ |[SolarWinds - CVE-2024-23473](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23473-2024-05-13)|Visit link for details.|13/05/2024|
+ |[IBM - CVE-2024-27273](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-27273-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Google - CVE-2024-4558](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4558-2024-05-13)|Visit link for details.|13/05/2024|
+ |[F5 - CVE-2024-31156](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-31156-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|13/05/2024|
+ |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
  
 
 # HK-CERT
@@ -107,59 +130,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft SharePoint BaseXmlDataSource XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-453/)|Visit link for details|2024-05-14|
- |[Microsoft Windows cldflt Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-452/)|Visit link for details|2024-05-14|
- |[Microsoft Windows Search Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-451/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View execMonitorScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-450/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View queryDeviceCustomMonitorResult Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-449/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View executeWmicCmd Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-448/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-447/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link G416 flupl self Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-446/)|Visit link for details|2024-05-14|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google - CVE-2024-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4761-2024-05-14)|Visit link for details.|14/05/2024|
- |[VMware - CVE-2024-22264](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22264-2024-05-14)|Visit link for details.|14/05/2024|
- |[Cacti - CVE-2024-29895](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-29895-2024-05-14)|Visit link for details.|14/05/2024|
- |[Cacti - CVE-2024-25641](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-25641-2024-05-14)|Visit link for details.|14/05/2024|
- |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|14/05/2024|
- |[SolarWinds - CVE-2024-23473](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23473-2024-05-13)|Visit link for details.|13/05/2024|
- |[IBM - CVE-2024-27273](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-27273-2024-05-13)|Visit link for details.|13/05/2024|
- |[Google - CVE-2024-4558](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4558-2024-05-13)|Visit link for details.|13/05/2024|
- |[F5 - CVE-2024-31156](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-31156-2024-05-13)|Visit link for details.|13/05/2024|
- |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|13/05/2024|
- |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47461505/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un…| 15 mai 2024|
- |[ 47451505/24 - Vulnérabilité dans les produits Microsoft Azure (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-azure-patch-tuesday-mai-2024)| Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une attaque de cross site scripting. | 15 mai 2024|
- |[ 47441505/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 15 mai 2024|
- |[ 47431505/24 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques, y compris un zero-day « CVE-2024-30044 » activement exploité, affectant Microsoft SharrePoint permettant la divulgation des…| 15 mai 2024|
- |[ 47421405/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de prendre le contrôle…| 14 mai 2024|
- |[ 47411405/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-1)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 14 mai 2024|
- |[ 47401405/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-2)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 14 mai 2024|
- |[ 47391405/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 mai 2024|
- |[ 47371305/24 - Vulnérabilités dans Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-junos-os-0)| Juniper a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Junos OS. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 13 mai 2024|
- |[ 47361305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 13 mai 2024|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -177,6 +147,20 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-454/)|Visit link for details|2024-05-15|
+ |[Microsoft SharePoint BaseXmlDataSource XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-453/)|Visit link for details|2024-05-14|
+ |[Microsoft Windows cldflt Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-452/)|Visit link for details|2024-05-14|
+ |[Microsoft Windows Search Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-451/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View execMonitorScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-450/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View queryDeviceCustomMonitorResult Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-449/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View executeWmicCmd Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-448/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-447/)|Visit link for details|2024-05-14|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -192,4 +176,20 @@
  |[[Control systems] B&R security advisory (AV24-261)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-261)|Visit link for details|2024-05-14|
  |[VMware security advisory (AV24-260)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-260)|Visit link for details|2024-05-14|
  |[Google Chrome security advisory (AV24-259)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-259)|Visit link for details|2024-05-14|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47461505/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un…| 15 mai 2024|
+ |[ 47451505/24 - Vulnérabilité dans les produits Microsoft Azure (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-azure-patch-tuesday-mai-2024)| Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une attaque de cross site scripting. | 15 mai 2024|
+ |[ 47441505/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 15 mai 2024|
+ |[ 47431505/24 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques, y compris un zero-day « CVE-2024-30044 » activement exploité, affectant Microsoft SharrePoint permettant la divulgation des…| 15 mai 2024|
+ |[ 47421405/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de prendre le contrôle…| 14 mai 2024|
+ |[ 47411405/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-1)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 14 mai 2024|
+ |[ 47401405/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-2)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 14 mai 2024|
+ |[ 47391405/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 mai 2024|
+ |[ 47371305/24 - Vulnérabilités dans Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-junos-os-0)| Juniper a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Junos OS. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 13 mai 2024|
+ |[ 47361305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 13 mai 2024|
  
