@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/05/2024 20:17:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/05/2024 21:22:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6766-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6766-2-linux-kernel-vulnerabilities.49960/)|Visit link for details.|May 15, 2024|
  |[USN-6772-1: strongSwan vulnerability](https://www.linux.org/threads/usn-6772-1-strongswan-vulnerability.49943/)|Visit link for details.|May 14, 2024|
  |[USN-6767-2: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6767-2-linux-kernel-bluefield-vulnerabilities.49941/)|Visit link for details.|May 14, 2024|
  |[USN-6771-1: SQL parse vulnerability](https://www.linux.org/threads/usn-6771-1-sql-parse-vulnerability.49927/)|Visit link for details.|May 13, 2024|
@@ -59,23 +60,35 @@
  |[DSA-5686-1 dav1d - security update](https://www.linux.org/threads/dsa-5686-1-dav1d-security-update.49882/)|Visit link for details.|May 9, 2024|
  |[USN-6768-1: GLib vulnerability](https://www.linux.org/threads/usn-6768-1-glib-vulnerability.49881/)|Visit link for details.|May 9, 2024|
  |[DSA-5684-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5684-1-webkit2gtk-security-update.49880/)|Visit link for details.|May 9, 2024|
- |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
- |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0407/)|Une vulnérabilité a été découverte dans Libreoffice. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 15 mai 2024|
- |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0406/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0405/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0404/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0403/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
- |[Vulnérabilité dans Microsoft Azure Migrate](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0402/)|Une vulnérabilité a été découverte dans Microsoft Azure Migrate. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 15 mai 2024|
- |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0401/)|Une vulnérabilité a été découverte dans |Publié le 15 mai 2024|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0400/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mai 2024|
- |[Vulnérabilité dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0399/)|Une vulnérabilité a été découverte dans |Publié le 15 mai 2024|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une injection de requêtes illégitimes par rebond (CSRF), un contournement de la politique de sécurité.|Publié le 13 mai 2024|
+ |[Multiples vulnérabilités dans VMware Avi Load Balancer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans VMware Avi Load Balancer. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 13 mai 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mai 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
+ |[Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/)|Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 mai 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[FortiVoiceEntreprise security bypass (CVE-2023-40720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[Fortinet FortiProxy code or command execution (CVE-2023-45583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[Fortinet FortiProxy code or command execution (CVE-2023-36640)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[Fortinet FortiPortal security bypass (CVE-2024-23105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[Fortinet FortiOS denial of service (CVE-2024-26007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[FortiADC information disclosure (CVE-2023-50180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -100,23 +113,27 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[FortiVoiceEntreprise security bypass (CVE-2023-40720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[Fortinet FortiProxy code or command execution (CVE-2023-45583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[Fortinet FortiProxy code or command execution (CVE-2023-36640)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[Fortinet FortiPortal security bypass (CVE-2024-23105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[Fortinet FortiOS denial of service (CVE-2024-26007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[FortiADC information disclosure (CVE-2023-50180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[NI FlexLogger FLXPROJ File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-456/)|Visit link for details|2024-05-15|
+ |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-455/)|Visit link for details|2024-05-15|
+ |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-454/)|Visit link for details|2024-05-15|
+ |[Microsoft SharePoint BaseXmlDataSource XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-453/)|Visit link for details|2024-05-14|
+ |[Microsoft Windows cldflt Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-452/)|Visit link for details|2024-05-14|
+ |[Microsoft Windows Search Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-451/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View execMonitorScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-450/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View queryDeviceCustomMonitorResult Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-449/)|Visit link for details|2024-05-14|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft - CVE-2024-30051](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30051-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Microsoft - CVE-2024-30040](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30040-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|15/05/2024|
  |[Fortinet - CVE-2024-31491](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-31491-2024-05-15)|Visit link for details.|15/05/2024|
  |[Cacti - CVE-2024-31445](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-31445-2024-05-15)|Visit link for details.|15/05/2024|
  |[Google - CVE-2024-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4761-2024-05-14)|Visit link for details.|15/05/2024|
@@ -125,9 +142,6 @@
  |[Cacti - CVE-2024-25641](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-25641-2024-05-14)|Visit link for details.|14/05/2024|
  |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|14/05/2024|
  |[SolarWinds - CVE-2024-23473](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23473-2024-05-13)|Visit link for details.|13/05/2024|
- |[IBM - CVE-2024-27273](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-27273-2024-05-13)|Visit link for details.|13/05/2024|
- |[Google - CVE-2024-4558](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4558-2024-05-13)|Visit link for details.|13/05/2024|
- |[F5 - CVE-2024-31156](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-31156-2024-05-13)|Visit link for details.|13/05/2024|
  
 
 # EU-CERT
@@ -147,37 +161,6 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NI FlexLogger FLXPROJ File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-456/)|Visit link for details|2024-05-15|
- |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-455/)|Visit link for details|2024-05-15|
- |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-454/)|Visit link for details|2024-05-15|
- |[Microsoft SharePoint BaseXmlDataSource XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-453/)|Visit link for details|2024-05-14|
- |[Microsoft Windows cldflt Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-452/)|Visit link for details|2024-05-14|
- |[Microsoft Windows Search Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-451/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View execMonitorScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-450/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View queryDeviceCustomMonitorResult Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-449/)|Visit link for details|2024-05-14|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel security advisory (AV24-269)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-269)|Visit link for details|2024-05-14|
- |[Adobe security advisory (AV24-268)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-268)|Visit link for details|2024-05-14|
- |[Fortinet security advisory (AV24-267)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-267)|Visit link for details|2024-05-14|
- |[Microsoft security advisory – May 2024 monthly rollup (AV24-266)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-may-2024-monthly-rollup-av24-266)|Visit link for details|2024-05-14|
- |[SAP security advisory – May 2024 monthly rollup (AV24-265)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-may-2024-monthly-rollup-av24-265)|Visit link for details|2024-05-14|
- |[Mozilla security advisory (AV24-264)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-264)|Visit link for details|2024-05-14|
- |[[Control systems] Siemens security advisory (AV24-263)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-263)|Visit link for details|2024-05-14|
- |[[Control systems] ABB security advisory (AV24-262)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-262)|Visit link for details|2024-05-14|
- |[[Control systems] B&R security advisory (AV24-261)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-261)|Visit link for details|2024-05-14|
- |[VMware security advisory (AV24-260)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-260)|Visit link for details|2024-05-14|
- |[Google Chrome security advisory (AV24-259)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-259)|Visit link for details|2024-05-14|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -192,4 +175,21 @@
  |[ 47411405/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-1)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 14 mai 2024|
  |[ 47401405/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-2)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 14 mai 2024|
  |[ 47391405/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 mai 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[F5 security advisory (AV24-272)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-272)|Visit link for details|2024-05-15|
+ |[HPE security advisory (AV24-271)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-271)|Visit link for details|2024-05-15|
+ |[Microsoft Edge security advisory (AV24-270)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-270)|Visit link for details|2024-05-15|
+ |[Intel security advisory (AV24-269)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-269)|Visit link for details|2024-05-14|
+ |[Adobe security advisory (AV24-268)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-268)|Visit link for details|2024-05-14|
+ |[Fortinet security advisory (AV24-267)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-267)|Visit link for details|2024-05-14|
+ |[Microsoft security advisory – May 2024 monthly rollup (AV24-266)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-may-2024-monthly-rollup-av24-266)|Visit link for details|2024-05-14|
+ |[SAP security advisory – May 2024 monthly rollup (AV24-265)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-may-2024-monthly-rollup-av24-265)|Visit link for details|2024-05-14|
+ |[Mozilla security advisory (AV24-264)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-264)|Visit link for details|2024-05-14|
+ |[[Control systems] Siemens security advisory (AV24-263)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-263)|Visit link for details|2024-05-14|
+ |[[Control systems] ABB security advisory (AV24-262)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-262)|Visit link for details|2024-05-14|
  
