@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/05/2024 11:23:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/05/2024 12:17:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/07/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|May 07, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0395/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 14 mai 2024|
+ |[Multiples vulnérabilités dans les produits Typo3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 14 mai 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0393/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mai 2024|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0392/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 14 mai 2024|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0391/)|Une vulnérabilité a été découverte dans |Publié le 14 mai 2024|
+ |[Vulnérabilité dans StrongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0390/)|Une vulnérabilité a été découverte dans Strongswan. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 mai 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0389/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 mai 2024|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une injection de requêtes illégitimes par rebond (CSRF), un contournement de la politique de sécurité.|Publié le 13 mai 2024|
+ |[Multiples vulnérabilités dans VMware Avi Load Balancer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans VMware Avi Load Balancer. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 13 mai 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mai 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,6 +78,19 @@
  |[DSA-5682-2 glib2.0 - regression update](https://www.linux.org/threads/dsa-5682-2-glib2-0-regression-update.49877/)|Visit link for details.|May 9, 2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[FortiVoiceEntreprise security bypass (CVE-2023-40720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[Fortinet FortiProxy code or command execution (CVE-2023-45583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[Fortinet FortiProxy code or command execution (CVE-2023-36640)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[Fortinet FortiPortal security bypass (CVE-2024-23105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[Fortinet FortiOS denial of service (CVE-2024-26007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[FortiADC information disclosure (CVE-2023-50180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,22 +106,6 @@
  |[F5 - CVE-2024-31156](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-31156-2024-05-13)|Visit link for details.|13/05/2024|
  |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|13/05/2024|
  |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0395/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 14 mai 2024|
- |[Multiples vulnérabilités dans les produits Typo3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 14 mai 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0393/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mai 2024|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0392/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 14 mai 2024|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0391/)|Une vulnérabilité a été découverte dans |Publié le 14 mai 2024|
- |[Vulnérabilité dans StrongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0390/)|Une vulnérabilité a été découverte dans Strongswan. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 mai 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0389/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 mai 2024|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une injection de requêtes illégitimes par rebond (CSRF), un contournement de la politique de sécurité.|Publié le 13 mai 2024|
- |[Multiples vulnérabilités dans VMware Avi Load Balancer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans VMware Avi Load Balancer. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 13 mai 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mai 2024|
  
 
 # HK-CERT
@@ -115,19 +128,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet FortiProxy code or command execution (CVE-2023-45583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[Fortinet FortiProxy code or command execution (CVE-2023-36640)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[Fortinet FortiPortal security bypass (CVE-2024-23105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[Fortinet FortiOS denial of service (CVE-2024-26007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[FortiADC information disclosure (CVE-2023-50180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[FortiNAC cross-site scripting (CVE-2024-31488)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -161,6 +161,22 @@
  |[2024-033: Multiple Vulnerabilities in Ivanti Connect Secure](https://cert.europa.eu/publications/security-advisories/2024-033/)|On April 2, 2024, Ivanti has addressed critical vulnerabilities in its Connect Secure and Policy Secure products, notably CVE-2024-21894, allowing unauthenticated attackers to perform remote code execution (RCE) and denial of service (DoS) attacks.|Thursday, April 04, 2024 10:34:17 AM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47421405/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de prendre le contrôle…| 14 mai 2024|
+ |[ 47411405/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-1)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 14 mai 2024|
+ |[ 47401405/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-2)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 14 mai 2024|
+ |[ 47391405/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 mai 2024|
+ |[ 47371305/24 - Vulnérabilités dans Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-junos-os-0)| Juniper a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Junos OS. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 13 mai 2024|
+ |[ 47361305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 13 mai 2024|
+ |[ 47350905/24 - Vulnérabilité critique dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-service-provider-console)| Veeam annonce la correction d’une vulnérabilité critique affectant Service Provider Console (VSPC).  L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code à distance (RCE).| 09 mai 2024|
+ |[ 47340905/24 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-1)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de…| 09 mai 2024|
+ |[ 47330905/24 - Vulnérabilités dans F5 BIG-IP Next Central Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-f5-big-ip-next-central-manager)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de F5 BIG-IP Next Central Manager. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 09 mai 2024|
+ |[ 47310805/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance.| 08 mai 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -176,20 +192,4 @@
  |[[Control systems] B&R security advisory (AV24-261)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-261)|Visit link for details|2024-05-14|
  |[VMware security advisory (AV24-260)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-260)|Visit link for details|2024-05-14|
  |[Google Chrome security advisory (AV24-259)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-259)|Visit link for details|2024-05-14|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47421405/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de prendre le contrôle…| 14 mai 2024|
- |[ 47411405/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-1)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 14 mai 2024|
- |[ 47401405/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-2)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 14 mai 2024|
- |[ 47391405/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 mai 2024|
- |[ 47371305/24 - Vulnérabilités dans Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-junos-os-0)| Juniper a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Junos OS. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 13 mai 2024|
- |[ 47361305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 13 mai 2024|
- |[ 47350905/24 - Vulnérabilité critique dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-service-provider-console)| Veeam annonce la correction d’une vulnérabilité critique affectant Service Provider Console (VSPC).  L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code à distance (RCE).| 09 mai 2024|
- |[ 47340905/24 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-1)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de…| 09 mai 2024|
- |[ 47330905/24 - Vulnérabilités dans F5 BIG-IP Next Central Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-f5-big-ip-next-central-manager)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de F5 BIG-IP Next Central Manager. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 09 mai 2024|
- |[ 47310805/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance.| 08 mai 2024|
  
