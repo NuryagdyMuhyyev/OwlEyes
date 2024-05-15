@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/05/2024 09:21:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/05/2024 10:17:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -95,12 +95,6 @@
  |[Vulnérabilité dans l’algorithme de compression lz4](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-lalgorithme-de-compression-lz4-2022-09-29)|Visit link for details.|13/05/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -117,16 +111,22 @@
  |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240510)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service and security restriction bypass on the targeted system.|Release Date: 10 May 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Fortinet FortiPortal security bypass (CVE-2024-23105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[Fortinet FortiOS denial of service (CVE-2024-26007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[FortiADC information disclosure (CVE-2023-50180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[FortiNAC cross-site scripting (CVE-2024-31488)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[Fortinet FortiOS code execution (CVE-2023-44247)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[Fortinet FortiOS spoofing (CVE-2023-45586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
- |[Fortinet FortiOS buffer overflow (CVE-2023-46714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 14, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
@@ -161,22 +161,6 @@
  |[(0Day) D-Link G416 flupl self Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-446/)|Visit link for details|2024-05-14|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47421405/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de prendre le contrôle…| 14 mai 2024|
- |[ 47411405/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-1)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 14 mai 2024|
- |[ 47401405/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-2)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 14 mai 2024|
- |[ 47391405/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 mai 2024|
- |[ 47371305/24 - Vulnérabilités dans Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-junos-os-0)| Juniper a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Junos OS. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 13 mai 2024|
- |[ 47361305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 13 mai 2024|
- |[ 47350905/24 - Vulnérabilité critique dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-service-provider-console)| Veeam annonce la correction d’une vulnérabilité critique affectant Service Provider Console (VSPC).  L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code à distance (RCE).| 09 mai 2024|
- |[ 47340905/24 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-1)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de…| 09 mai 2024|
- |[ 47330905/24 - Vulnérabilités dans F5 BIG-IP Next Central Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-f5-big-ip-next-central-manager)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de F5 BIG-IP Next Central Manager. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 09 mai 2024|
- |[ 47310805/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance.| 08 mai 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -192,4 +176,20 @@
  |[[Control systems] B&R security advisory (AV24-261)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-261)|Visit link for details|2024-05-14|
  |[VMware security advisory (AV24-260)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-260)|Visit link for details|2024-05-14|
  |[Google Chrome security advisory (AV24-259)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-259)|Visit link for details|2024-05-14|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47421405/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de prendre le contrôle…| 14 mai 2024|
+ |[ 47411405/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-1)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 14 mai 2024|
+ |[ 47401405/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-2)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 14 mai 2024|
+ |[ 47391405/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-0)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 mai 2024|
+ |[ 47371305/24 - Vulnérabilités dans Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-junos-os-0)| Juniper a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Junos OS. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 13 mai 2024|
+ |[ 47361305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-4)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 13 mai 2024|
+ |[ 47350905/24 - Vulnérabilité critique dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-service-provider-console)| Veeam annonce la correction d’une vulnérabilité critique affectant Service Provider Console (VSPC).  L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code à distance (RCE).| 09 mai 2024|
+ |[ 47340905/24 - Vulnérabilités dans Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-android-1)| Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de…| 09 mai 2024|
+ |[ 47330905/24 - Vulnérabilités dans F5 BIG-IP Next Central Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-f5-big-ip-next-central-manager)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de F5 BIG-IP Next Central Manager. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à…| 09 mai 2024|
+ |[ 47310805/24 - Vulnérabilités dans GLPI ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi-0)| Deux vulnérabilités ont été corrigées dans les versions susmentionnées de GLPI. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance.| 08 mai 2024|
  
