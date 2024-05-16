@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/05/2024 19:17:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/05/2024 20:18:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
  |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
@@ -42,7 +43,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
  |[CISA and Partners Release Advisory on Black Basta Ransomware](https://www.cisa.gov/news-events/alerts/2024/05/10/cisa-and-partners-release-advisory-black-basta-ransomware)|Visit link for details.|May 10, 2024|
  |[ASD’s ACSC, CISA, and Partners Release Secure by Design Guidance on Choosing Secure and Verifiable Technologies](https://www.cisa.gov/news-events/alerts/2024/05/09/asds-acsc-cisa-and-partners-release-secure-design-guidance-choosing-secure-and-verifiable)|Visit link for details.|May 09, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/09/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 09, 2024|
  
 
 # LINUX-SEC
@@ -78,6 +78,36 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mai 2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitsubishi Electric Multiple FA Engineering Software Products denial of service (CVE-2023-51778)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
+ |[Mitsubishi Electric Multiple FA Engineering Software Products privilege escalation (CVE-2023-51776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
+ |[DataCube cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
+ |[Cisco Crosswork Network Services Orchestrator privilege escalation (CVE-2024-20366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
+ |[Secure Email and Web Manager cross-site scripting (CVE-2024-20383)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
+ |[Cisco Secure Email and Web Manager and Secure Email Gateway cross-site scripting (CVE-2024-20258)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti - CVE-2024-22026](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22026-2024-05-16)|Visit link for details.|16/05/2024|
+ |[Google - CVE-2024-4947](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4947-2024-05-16)|Visit link for details.|16/05/2024|
+ |[D-Link - CVE-2024-4960](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-4960-2024-05-16)|Visit link for details.|16/05/2024|
+ |[Microsoft - CVE-2024-30051](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30051-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Microsoft - CVE-2024-30040](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30040-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Fortinet - CVE-2024-31491](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-31491-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Cacti - CVE-2024-31445](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-31445-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Google - CVE-2024-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4761-2024-05-14)|Visit link for details.|15/05/2024|
+ |[VMware - CVE-2024-22264](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22264-2024-05-14)|Visit link for details.|14/05/2024|
+ |[Cacti - CVE-2024-29895](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-29895-2024-05-14)|Visit link for details.|14/05/2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,40 +124,10 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-05...| Release Date: 2 May 2024 |
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2024-30051](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30051-2024-05-15)|Visit link for details.|15/05/2024|
- |[Microsoft - CVE-2024-30040](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30040-2024-05-15)|Visit link for details.|15/05/2024|
- |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|15/05/2024|
- |[Fortinet - CVE-2024-31491](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-31491-2024-05-15)|Visit link for details.|15/05/2024|
- |[Cacti - CVE-2024-31445](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-31445-2024-05-15)|Visit link for details.|15/05/2024|
- |[Google - CVE-2024-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4761-2024-05-14)|Visit link for details.|15/05/2024|
- |[VMware - CVE-2024-22264](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22264-2024-05-14)|Visit link for details.|14/05/2024|
- |[Cacti - CVE-2024-29895](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-29895-2024-05-14)|Visit link for details.|14/05/2024|
- |[Cacti - CVE-2024-25641](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-25641-2024-05-14)|Visit link for details.|14/05/2024|
- |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|14/05/2024|
- |[SolarWinds - CVE-2024-23473](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23473-2024-05-13)|Visit link for details.|13/05/2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mitsubishi Electric Multiple FA Engineering Software Products denial of service (CVE-2023-51778)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[Mitsubishi Electric Multiple FA Engineering Software Products privilege escalation (CVE-2023-51776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[DataCube cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[Cisco Crosswork Network Services Orchestrator privilege escalation (CVE-2024-20366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[Secure Email and Web Manager cross-site scripting (CVE-2024-20383)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[Cisco Secure Email and Web Manager and Secure Email Gateway cross-site scripting (CVE-2024-20258)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
