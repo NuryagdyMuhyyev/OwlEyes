@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/05/2024 08:19:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/05/2024 09:21:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,21 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6774-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6774-1-linux-kernel-vulnerabilities.49984/)|Visit link for details.|May 16, 2024|
- |[DSA-5692-1 ghostscript - security update](https://www.linux.org/threads/dsa-5692-1-ghostscript-security-update.49971/)|Visit link for details.|May 16, 2024|
- |[DSA-5691-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5691-1-firefox-esr-security-update.49965/)|Visit link for details.|May 15, 2024|
- |[DSA-5690-1 libreoffice - security update](https://www.linux.org/threads/dsa-5690-1-libreoffice-security-update.49964/)|Visit link for details.|May 15, 2024|
- |[DSA-5689-1 chromium - security update](https://www.linux.org/threads/dsa-5689-1-chromium-security-update.49963/)|Visit link for details.|May 15, 2024|
- |[USN-6766-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6766-2-linux-kernel-vulnerabilities.49960/)|Visit link for details.|May 15, 2024|
- |[USN-6772-1: strongSwan vulnerability](https://www.linux.org/threads/usn-6772-1-strongswan-vulnerability.49943/)|Visit link for details.|May 14, 2024|
- |[USN-6767-2: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6767-2-linux-kernel-bluefield-vulnerabilities.49941/)|Visit link for details.|May 14, 2024|
- |[USN-6771-1: SQL parse vulnerability](https://www.linux.org/threads/usn-6771-1-sql-parse-vulnerability.49927/)|Visit link for details.|May 13, 2024|
- |[DSA-5688-1 atril - security update](https://www.linux.org/threads/dsa-5688-1-atril-security-update.49912/)|Visit link for details.|May 12, 2024|
- |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
+ |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 14, 2024|
+ |[CISA and Partners Release Guidance for Civil Society Organizations on Mitigating Cyber Threats with Limited Resources](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-and-partners-release-guidance-civil-society-organizations-mitigating-cyber-threats-limited)|Visit link for details.|May 14, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
  
 
 # CERT-FR
@@ -62,20 +61,44 @@
  |[Vulnérabilité dans Microsoft Azure Migrate](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0402/)|Une vulnérabilité a été découverte dans Microsoft Azure Migrate. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 15 mai 2024|
  
 
-# US-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
- |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 14, 2024|
- |[CISA and Partners Release Guidance for Civil Society Organizations on Mitigating Cyber Threats with Limited Resources](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-and-partners-release-guidance-civil-society-organizations-mitigating-cyber-threats-limited)|Visit link for details.|May 14, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6774-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6774-1-linux-kernel-vulnerabilities.49984/)|Visit link for details.|May 16, 2024|
+ |[DSA-5692-1 ghostscript - security update](https://www.linux.org/threads/dsa-5692-1-ghostscript-security-update.49971/)|Visit link for details.|May 16, 2024|
+ |[DSA-5691-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5691-1-firefox-esr-security-update.49965/)|Visit link for details.|May 15, 2024|
+ |[DSA-5690-1 libreoffice - security update](https://www.linux.org/threads/dsa-5690-1-libreoffice-security-update.49964/)|Visit link for details.|May 15, 2024|
+ |[DSA-5689-1 chromium - security update](https://www.linux.org/threads/dsa-5689-1-chromium-security-update.49963/)|Visit link for details.|May 15, 2024|
+ |[USN-6766-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6766-2-linux-kernel-vulnerabilities.49960/)|Visit link for details.|May 15, 2024|
+ |[USN-6772-1: strongSwan vulnerability](https://www.linux.org/threads/usn-6772-1-strongswan-vulnerability.49943/)|Visit link for details.|May 14, 2024|
+ |[USN-6767-2: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6767-2-linux-kernel-bluefield-vulnerabilities.49941/)|Visit link for details.|May 14, 2024|
+ |[USN-6771-1: SQL parse vulnerability](https://www.linux.org/threads/usn-6771-1-sql-parse-vulnerability.49927/)|Visit link for details.|May 13, 2024|
+ |[DSA-5688-1 atril - security update](https://www.linux.org/threads/dsa-5688-1-atril-security-update.49912/)|Visit link for details.|May 12, 2024|
+ |[DSA-5687-1 chromium - security update](https://www.linux.org/threads/dsa-5687-1-chromium-security-update.49896/)|Visit link for details.|May 10, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware - CVE-2024-22267](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22267-2024-05-16)|Visit link for details.|16/05/2024|
+ |[Mozilla - CVE-2024-4764](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-4764-2024-05-16)|Visit link for details.|16/05/2024|
+ |[Ivanti - CVE-2024-22026](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22026-2024-05-16)|Visit link for details.|16/05/2024|
+ |[Google - CVE-2024-4947](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4947-2024-05-16)|Visit link for details.|16/05/2024|
+ |[D-Link - CVE-2024-4960](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-4960-2024-05-16)|Visit link for details.|16/05/2024|
+ |[Microsoft - CVE-2024-30051](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30051-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Microsoft - CVE-2024-30040](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30040-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Fortinet - CVE-2024-31491](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-31491-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Cacti - CVE-2024-31445](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-31445-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Google - CVE-2024-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4761-2024-05-14)|Visit link for details.|15/05/2024|
  
 
 # HK-CERT
@@ -100,50 +123,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mitsubishi Electric Multiple FA Engineering Software Products privilege escalation (CVE-2024-26314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[Mitsubishi Electric Multiple FA Engineering Software Products privilege escalation (CVE-2024-25088)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[Mitsubishi Electric Multiple FA Engineering Software Products privilege escalation (CVE-2024-25086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[Mitsubishi Electric Multiple FA Engineering Software Products privilege escalation (CVE-2024-22106)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[Mitsubishi Electric Multiple FA Engineering Software Products denial of service (CVE-2024-25087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[Mitsubishi Electric Multiple FA Engineering Software Products denial of service (CVE-2024-22105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 15, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware - CVE-2024-22267](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22267-2024-05-16)|Visit link for details.|16/05/2024|
- |[Mozilla - CVE-2024-4764](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-4764-2024-05-16)|Visit link for details.|16/05/2024|
- |[Ivanti - CVE-2024-22026](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22026-2024-05-16)|Visit link for details.|16/05/2024|
- |[Google - CVE-2024-4947](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4947-2024-05-16)|Visit link for details.|16/05/2024|
- |[D-Link - CVE-2024-4960](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-4960-2024-05-16)|Visit link for details.|16/05/2024|
- |[Microsoft - CVE-2024-30051](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30051-2024-05-15)|Visit link for details.|15/05/2024|
- |[Microsoft - CVE-2024-30040](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30040-2024-05-15)|Visit link for details.|15/05/2024|
- |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|15/05/2024|
- |[Fortinet - CVE-2024-31491](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-31491-2024-05-15)|Visit link for details.|15/05/2024|
- |[Cacti - CVE-2024-31445](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-31445-2024-05-15)|Visit link for details.|15/05/2024|
- |[Google - CVE-2024-4761](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4761-2024-05-14)|Visit link for details.|15/05/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NI FlexLogger FLXPROJ File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-456/)|Visit link for details|2024-05-15|
- |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-455/)|Visit link for details|2024-05-15|
- |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-454/)|Visit link for details|2024-05-15|
- |[Microsoft SharePoint BaseXmlDataSource XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-453/)|Visit link for details|2024-05-14|
- |[Microsoft Windows cldflt Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-452/)|Visit link for details|2024-05-14|
- |[Microsoft Windows Search Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-451/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View execMonitorScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-450/)|Visit link for details|2024-05-14|
- |[(0Day) D-Link D-View queryDeviceCustomMonitorResult Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-449/)|Visit link for details|2024-05-14|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -159,6 +138,20 @@
  |[2024-037: Critical Vulnerability in PAN-OS software](https://cert.europa.eu/publications/security-advisories/2024-037/)|On April 12, 2024, Palo Alto Networks released a security advisory for a critical vulnerability affecting a feature of PAN-OS software. This vulnerability allows an unauthenticated remote attacker to execute arbitrary code as root on the affected device.|Monday, April 29, 2024 12:45:35 PM CEST|
  |[2024-036: Vulnerabilities in Fortinet products](https://cert.europa.eu/publications/security-advisories/2024-036/)|On April 11, 2024, Fortinet released multiple advisories regarding high and critical vulnerabilities affecting FortiOS, FortiProxy, FortiClient Mac and FortiClient Linux. |Thursday, April 11, 2024 11:01:43 AM CEST|
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NI FlexLogger FLXPROJ File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-456/)|Visit link for details|2024-05-15|
+ |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-455/)|Visit link for details|2024-05-15|
+ |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-454/)|Visit link for details|2024-05-15|
+ |[Microsoft SharePoint BaseXmlDataSource XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-453/)|Visit link for details|2024-05-14|
+ |[Microsoft Windows cldflt Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-452/)|Visit link for details|2024-05-14|
+ |[Microsoft Windows Search Service Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-451/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View execMonitorScript Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-450/)|Visit link for details|2024-05-14|
+ |[(0Day) D-Link D-View queryDeviceCustomMonitorResult Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-449/)|Visit link for details|2024-05-14|
  
 
 # CA-CCS
