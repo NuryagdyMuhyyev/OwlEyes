@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/05/2024 15:17:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/05/2024 16:13:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,43 +62,20 @@
  |[DSA-5690-1 libreoffice - security update](https://www.linux.org/threads/dsa-5690-1-libreoffice-security-update.49964/)|Visit link for details.|May 15, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans |Publié le 16 mai 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 16 mai 2024|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0409/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 16 mai 2024|
- |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
- |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0407/)|Une vulnérabilité a été découverte dans Libreoffice. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 15 mai 2024|
- |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0406/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0405/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0404/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0403/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
- |[Vulnérabilité dans Microsoft Azure Migrate](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0402/)|Une vulnérabilité a été découverte dans Microsoft Azure Migrate. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 15 mai 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WatchGuard - CVE-2024-1417](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-1417-2024-05-17)|Visit link for details.|17/05/2024|
- |[GE HealthCare - CVE-2024-27107](https://www.cyberveille-sante.gouv.fr/alertes/ge-healthcare-cve-2024-27107-2024-05-17)|Visit link for details.|17/05/2024|
- |[D-Link - CVE-2024-4961](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-4961-2024-05-17)|Visit link for details.|17/05/2024|
- |[Aruba - CVE-2024-31466](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-31466-2024-05-17)|Visit link for details.|17/05/2024|
- |[Adobe - CVE-2024-30284](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-30284-2024-05-17)|Visit link for details.|17/05/2024|
- |[VMware - CVE-2024-22267](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22267-2024-05-16)|Visit link for details.|16/05/2024|
- |[Mozilla - CVE-2024-4764](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-4764-2024-05-16)|Visit link for details.|16/05/2024|
- |[Ivanti - CVE-2024-22026](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22026-2024-05-16)|Visit link for details.|16/05/2024|
- |[Google - CVE-2024-4947](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4947-2024-05-16)|Visit link for details.|16/05/2024|
- |[D-Link - CVE-2024-4960](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-4960-2024-05-16)|Visit link for details.|16/05/2024|
- |[Microsoft - CVE-2024-30051](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30051-2024-05-15)|Visit link for details.|15/05/2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.|Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0421/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0420/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0419/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
+ |[Vulnérabilité dans Microsoft Azure Monitor Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0418/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0417/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0415/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges.|Publié le 17 mai 2024|
+ |[Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 17 mai 2024|
  
 
 # HK-CERT
@@ -130,6 +107,43 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WatchGuard - CVE-2024-1417](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-1417-2024-05-17)|Visit link for details.|17/05/2024|
+ |[GE HealthCare - CVE-2024-27107](https://www.cyberveille-sante.gouv.fr/alertes/ge-healthcare-cve-2024-27107-2024-05-17)|Visit link for details.|17/05/2024|
+ |[D-Link - CVE-2024-4961](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-4961-2024-05-17)|Visit link for details.|17/05/2024|
+ |[Aruba - CVE-2024-31466](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-31466-2024-05-17)|Visit link for details.|17/05/2024|
+ |[Adobe - CVE-2024-30284](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-30284-2024-05-17)|Visit link for details.|17/05/2024|
+ |[VMware - CVE-2024-22267](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22267-2024-05-16)|Visit link for details.|16/05/2024|
+ |[Mozilla - CVE-2024-4764](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-4764-2024-05-16)|Visit link for details.|16/05/2024|
+ |[Ivanti - CVE-2024-22026](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22026-2024-05-16)|Visit link for details.|16/05/2024|
+ |[Google - CVE-2024-4947](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4947-2024-05-16)|Visit link for details.|16/05/2024|
+ |[D-Link - CVE-2024-4960](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-4960-2024-05-16)|Visit link for details.|16/05/2024|
+ |[Microsoft - CVE-2024-30051](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30051-2024-05-15)|Visit link for details.|15/05/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Avira Prime Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-469/)|Visit link for details|2024-05-17|
+ |[Sante PACS Server PG Patient Query SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-468/)|Visit link for details|2024-05-17|
+ |[GStreamer EXIF Metadata Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-467/)|Visit link for details|2024-05-17|
+ |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-466/)|Visit link for details|2024-05-17|
+ |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-465/)|Visit link for details|2024-05-17|
+ |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-464/)|Visit link for details|2024-05-17|
+ |[Siemens Simcenter Femap IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-463/)|Visit link for details|2024-05-17|
+ |[Siemens Simcenter Femap IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-462/)|Visit link for details|2024-05-17|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -145,20 +159,6 @@
  |[2024-037: Critical Vulnerability in PAN-OS software](https://cert.europa.eu/publications/security-advisories/2024-037/)|On April 12, 2024, Palo Alto Networks released a security advisory for a critical vulnerability affecting a feature of PAN-OS software. This vulnerability allows an unauthenticated remote attacker to execute arbitrary code as root on the affected device.|Monday, April 29, 2024 12:45:35 PM CEST|
  |[2024-036: Vulnerabilities in Fortinet products](https://cert.europa.eu/publications/security-advisories/2024-036/)|On April 11, 2024, Fortinet released multiple advisories regarding high and critical vulnerabilities affecting FortiOS, FortiProxy, FortiClient Mac and FortiClient Linux. |Thursday, April 11, 2024 11:01:43 AM CEST|
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Avira Prime Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-469/)|Visit link for details|2024-05-17|
- |[Sante PACS Server PG Patient Query SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-468/)|Visit link for details|2024-05-17|
- |[GStreamer EXIF Metadata Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-467/)|Visit link for details|2024-05-17|
- |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-466/)|Visit link for details|2024-05-17|
- |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-465/)|Visit link for details|2024-05-17|
- |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-464/)|Visit link for details|2024-05-17|
- |[Siemens Simcenter Femap IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-463/)|Visit link for details|2024-05-17|
- |[Siemens Simcenter Femap IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-462/)|Visit link for details|2024-05-17|
  
 
 # MA-CERT
