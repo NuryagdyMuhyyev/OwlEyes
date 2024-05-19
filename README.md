@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/05/2024 15:16:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/05/2024 16:14:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
- |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 14, 2024|
- |[CISA and Partners Release Guidance for Civil Society Organizations on Mitigating Cyber Threats with Limited Resources](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-and-partners-release-guidance-civil-society-organizations-mitigating-cyber-threats-limited)|Visit link for details.|May 14, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[DSA-5692-1 ghostscript - security update](https://www.linux.org/threads/dsa-5692-1-ghostscript-security-update.49971/)|Visit link for details.|May 16, 2024|
  |[DSA-5691-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5691-1-firefox-esr-security-update.49965/)|Visit link for details.|May 15, 2024|
  |[DSA-5690-1 libreoffice - security update](https://www.linux.org/threads/dsa-5690-1-libreoffice-security-update.49964/)|Visit link for details.|May 15, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
+ |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 14, 2024|
+ |[CISA and Partners Release Guidance for Civil Society Organizations on Mitigating Cyber Threats with Limited Resources](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-and-partners-release-guidance-civil-society-organizations-mitigating-cyber-threats-limited)|Visit link for details.|May 14, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
  
 
 # CERT-FR
@@ -95,12 +95,6 @@
  |[Microsoft - CVE-2024-30051](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30051-2024-05-15)|Visit link for details.|15/05/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -117,6 +111,12 @@
  |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in VMware products. An attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure.|Release Date: 16 May 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -128,6 +128,20 @@
  |[Santesoft Sante PACS Server PG code execution (CVE-2023-51637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 16, 2024|
  |[GStreamer integer overflow (CVE-2024-4453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 16, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Avira Prime Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-469/)|Visit link for details|2024-05-17|
+ |[Sante PACS Server PG Patient Query SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-468/)|Visit link for details|2024-05-17|
+ |[GStreamer EXIF Metadata Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-467/)|Visit link for details|2024-05-17|
+ |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-466/)|Visit link for details|2024-05-17|
+ |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-465/)|Visit link for details|2024-05-17|
+ |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-464/)|Visit link for details|2024-05-17|
+ |[Siemens Simcenter Femap IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-463/)|Visit link for details|2024-05-17|
+ |[Siemens Simcenter Femap IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-462/)|Visit link for details|2024-05-17|
  
 
 # EU-CERT
@@ -145,20 +159,6 @@
  |[2024-037: Critical Vulnerability in PAN-OS software](https://cert.europa.eu/publications/security-advisories/2024-037/)|On April 12, 2024, Palo Alto Networks released a security advisory for a critical vulnerability affecting a feature of PAN-OS software. This vulnerability allows an unauthenticated remote attacker to execute arbitrary code as root on the affected device.|Monday, April 29, 2024 12:45:35 PM CEST|
  |[2024-036: Vulnerabilities in Fortinet products](https://cert.europa.eu/publications/security-advisories/2024-036/)|On April 11, 2024, Fortinet released multiple advisories regarding high and critical vulnerabilities affecting FortiOS, FortiProxy, FortiClient Mac and FortiClient Linux. |Thursday, April 11, 2024 11:01:43 AM CEST|
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Avira Prime Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-469/)|Visit link for details|2024-05-17|
- |[Sante PACS Server PG Patient Query SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-468/)|Visit link for details|2024-05-17|
- |[GStreamer EXIF Metadata Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-467/)|Visit link for details|2024-05-17|
- |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-466/)|Visit link for details|2024-05-17|
- |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-465/)|Visit link for details|2024-05-17|
- |[Siemens Simcenter Femap IGS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-464/)|Visit link for details|2024-05-17|
- |[Siemens Simcenter Femap IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-463/)|Visit link for details|2024-05-17|
- |[Siemens Simcenter Femap IGS File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-462/)|Visit link for details|2024-05-17|
  
 
 # MA-CERT
