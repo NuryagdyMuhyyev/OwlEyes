@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/05/2024 02:16:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/05/2024 03:18:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,28 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
+ |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 14, 2024|
+ |[CISA and Partners Release Guidance for Civil Society Organizations on Mitigating Cyber Threats with Limited Resources](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-and-partners-release-guidance-civil-society-organizations-mitigating-cyber-threats-limited)|Visit link for details.|May 14, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +66,6 @@
  |[DSA-5692-1 ghostscript - security update](https://www.linux.org/threads/dsa-5692-1-ghostscript-security-update.49971/)|Visit link for details.|May 16, 2024|
  |[DSA-5691-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5691-1-firefox-esr-security-update.49965/)|Visit link for details.|May 15, 2024|
  |[DSA-5690-1 libreoffice - security update](https://www.linux.org/threads/dsa-5690-1-libreoffice-security-update.49964/)|Visit link for details.|May 15, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
- |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|May 14, 2024|
- |[CISA and Partners Release Guidance for Civil Society Organizations on Mitigating Cyber Threats with Limited Resources](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-and-partners-release-guidance-civil-society-organizations-mitigating-cyber-threats-limited)|Visit link for details.|May 14, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 13, 2024|
  
 
 # CERT-FR
@@ -115,19 +121,6 @@
  |[Microsoft Monthly Security Update (May 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2024-_20240516)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDeveloper Tools Medium RiskRemote Code ExecutionDenial of Service Windows High RiskElevation of PrivilegeRemote Code ExecutionInformation Disclosure...|Release Date: 16 May 2024 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 16 May 2024 |
  |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in VMware products. An attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure.|Release Date: 16 May 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Download Plugins and Themes from Dashboard Plugin for WordPress directory traversal (CVE-2024-35162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 17, 2024|
- |[Cerberus FTP Server Enterprise Edition denial of service (CVE-2024-5052)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 17, 2024|
- |[IBM i denial of service (CVE-2024-31879)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 17, 2024|
- |[Avira Prime privilege escalation (CVE-2023-51636)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 16, 2024|
- |[Santesoft Sante PACS Server PG code execution (CVE-2023-51637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 16, 2024|
- |[GStreamer integer overflow (CVE-2024-4453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 16, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
