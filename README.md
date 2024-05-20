@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/05/2024 10:18:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/05/2024 11:24:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,20 +78,10 @@
  |[Multiples vulnérabilités dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 17 mai 2024|
  
 
-# HK-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240520)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. Note:The CVE-2024-4947 vulnerability is being exploited...|Release Date: 20 May 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-05-20]Updated System / Technologies...| Release Date: 16 May 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240517)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service, elevation of privilege and security restriction bypass on the targeted system. |Release Date: 17 May 2024 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240517)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution and denial of service on the targeted system. Note:Google is aware of reports that an exploit for CVE-2024-4761 exists in the wild. ...|Release Date: 17 May 2024 |
- |[Adobe Monthly Security Update (May 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-may-2024-_20240516)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation Disclosure APSB24-29Adobe Illustrator Medium Risk...|Release Date: 16 May 2024 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 16 May 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure and data manipulation on the targeted system. Note:No patch is currently available for CVE-2022-40304 of the...|Release Date: 16 May 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution and denial of service condition on the targeted system. Notes:CVE-2024-4947 are being exploited in the wild. CVE-...|Release Date: 16 May 2024 |
- |[Intel Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/intel-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Intel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 16 May 2024 |
- |[Microsoft Monthly Security Update (May 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2024-_20240516)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDeveloper Tools Medium RiskRemote Code ExecutionDenial of Service Windows High RiskElevation of PrivilegeRemote Code ExecutionInformation Disclosure...|Release Date: 16 May 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -105,12 +95,6 @@
  |[Santesoft Sante PACS Server PG code execution (CVE-2023-51637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 16, 2024|
  |[GStreamer integer overflow (CVE-2024-4453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 16, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -128,6 +112,22 @@
  |[Google - CVE-2024-4947](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4947-2024-05-16)|Visit link for details.|16/05/2024|
  |[D-Link - CVE-2024-4960](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-4960-2024-05-16)|Visit link for details.|16/05/2024|
  |[Microsoft - CVE-2024-30051](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30051-2024-05-15)|Visit link for details.|15/05/2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240520)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. Note:The CVE-2024-4947 vulnerability is being exploited...|Release Date: 20 May 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-05-20]Updated System / Technologies...| Release Date: 16 May 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240517)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service, elevation of privilege and security restriction bypass on the targeted system. |Release Date: 17 May 2024 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240517)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution and denial of service on the targeted system. Note:Google is aware of reports that an exploit for CVE-2024-4761 exists in the wild. ...|Release Date: 17 May 2024 |
+ |[Adobe Monthly Security Update (May 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-may-2024-_20240516)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation Disclosure APSB24-29Adobe Illustrator Medium Risk...|Release Date: 16 May 2024 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 16 May 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure and data manipulation on the targeted system. Note:No patch is currently available for CVE-2022-40304 of the...|Release Date: 16 May 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution and denial of service condition on the targeted system. Notes:CVE-2024-4947 are being exploited in the wild. CVE-...|Release Date: 16 May 2024 |
+ |[Intel Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/intel-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Intel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 16 May 2024 |
+ |[Microsoft Monthly Security Update (May 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2024-_20240516)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDeveloper Tools Medium RiskRemote Code ExecutionDenial of Service Windows High RiskElevation of PrivilegeRemote Code ExecutionInformation Disclosure...|Release Date: 16 May 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -161,23 +161,6 @@
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[F5 security advisory (AV24-278)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-278)|Visit link for details|2024-05-17|
- |[HPE security advisory (AV24-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-277)|Visit link for details|2024-05-17|
- |[Microsoft Edge security advisory (AV24-276)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-276)|Visit link for details|2024-05-17|
- |[Drupal security advisory (AV24-275)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-275)|Visit link for details|2024-05-16|
- |[Google Chrome security advisory (AV24-274)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-274)|Visit link for details|2024-05-16|
- |[Cisco security advisory (AV24-273)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-273)|Visit link for details|2024-05-15|
- |[F5 security advisory (AV24-272)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-272)|Visit link for details|2024-05-15|
- |[HPE security advisory (AV24-271)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-271)|Visit link for details|2024-05-15|
- |[Microsoft Edge security advisory (AV24-270)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-270)|Visit link for details|2024-05-15|
- |[Intel security advisory (AV24-269)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-269)|Visit link for details|2024-05-14|
- |[Adobe security advisory (AV24-268)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-268)|Visit link for details|2024-05-14|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -193,4 +176,21 @@
  |[ 47461505/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un…| 15 mai 2024|
  |[ 47451505/24 - Vulnérabilité dans les produits Microsoft Azure (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-azure-patch-tuesday-mai-2024)| Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une attaque de cross site scripting. | 15 mai 2024|
  |[ 47441505/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 15 mai 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[F5 security advisory (AV24-278)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-278)|Visit link for details|2024-05-17|
+ |[HPE security advisory (AV24-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-277)|Visit link for details|2024-05-17|
+ |[Microsoft Edge security advisory (AV24-276)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-276)|Visit link for details|2024-05-17|
+ |[Drupal security advisory (AV24-275)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-275)|Visit link for details|2024-05-16|
+ |[Google Chrome security advisory (AV24-274)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-274)|Visit link for details|2024-05-16|
+ |[Cisco security advisory (AV24-273)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-273)|Visit link for details|2024-05-15|
+ |[F5 security advisory (AV24-272)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-272)|Visit link for details|2024-05-15|
+ |[HPE security advisory (AV24-271)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-271)|Visit link for details|2024-05-15|
+ |[Microsoft Edge security advisory (AV24-270)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-270)|Visit link for details|2024-05-15|
+ |[Intel security advisory (AV24-269)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-269)|Visit link for details|2024-05-14|
+ |[Adobe security advisory (AV24-268)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-268)|Visit link for details|2024-05-14|
  
