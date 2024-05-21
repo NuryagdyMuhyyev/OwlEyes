@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/05/2024 01:19:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/05/2024 02:16:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,14 +49,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0424/)|Une vulnérabilité a été découverte dans Asterisk. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 21 mai 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0423/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 mai 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.|Publié le 17 mai 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0421/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 mai 2024|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0420/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 17 mai 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0419/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
  |[Vulnérabilité dans Microsoft Azure Monitor Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0418/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2024|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0417/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0415/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges.|Publié le 17 mai 2024|
+ |[Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 17 mai 2024|
  
 
 # LINUX-SEC
@@ -76,6 +78,12 @@
  |[USN-6775-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6775-1-linux-kernel-vulnerabilities.49992/)|Visit link for details.|May 17, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,10 +101,17 @@
  |[WatchGuard - CVE-2024-1417](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-1417-2024-05-17)|Visit link for details.|17/05/2024|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco OpenDNS denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2024|
+ |[QNAP TS-464 NAS devices directory traversal (CVE-2023-51365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2024|
+ |[QNAP TS-464 NAS devices directory traversal (CVE-2023-51364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2024|
+ |[aio-libs aiosmtpd command execution (CVE-2024-34083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 17, 2024|
+ |[NETGEAR NMS300 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 17, 2024|
+ |[NETGEAR NMS300 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 17, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -113,19 +128,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution and denial of service condition on the targeted system. Notes:CVE-2024-4947 are being exploited in the wild. CVE-...|Release Date: 16 May 2024 |
  |[Intel Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/intel-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Intel Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 16 May 2024 |
  |[Microsoft Monthly Security Update (May 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2024-_20240516)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDeveloper Tools Medium RiskRemote Code ExecutionDenial of Service Windows High RiskElevation of PrivilegeRemote Code ExecutionInformation Disclosure...|Release Date: 16 May 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco OpenDNS denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2024|
- |[QNAP TS-464 NAS devices directory traversal (CVE-2023-51365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2024|
- |[QNAP TS-464 NAS devices directory traversal (CVE-2023-51364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 18, 2024|
- |[aio-libs aiosmtpd command execution (CVE-2024-34083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 17, 2024|
- |[NETGEAR NMS300 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 17, 2024|
- |[NETGEAR NMS300 unspecified](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 17, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -159,23 +161,6 @@
  |[(Pwn2Own) QNAP TS-464 HLS_tmp Directory Traversal Arbitrary File Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-476/)|Visit link for details|2024-05-19|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[GitHub security advisory (AV24-284)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-284)|Visit link for details|2024-05-21|
- |[[Control systems] CISA ICS security advisories (AV24-283)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-283)|Visit link for details|2024-05-21|
- |[Red Hat security advisory (AV24-282)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-282)|Visit link for details|2024-05-21|
- |[Dell security advisory (AV24-281)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-281)|Visit link for details|2024-05-21|
- |[IBM security advisory (AV24-280)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-280)|Visit link for details|2024-05-21|
- |[Ubuntu security advisory (AV24-279)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-279)|Visit link for details|2024-05-21|
- |[F5 security advisory (AV24-278)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-278)|Visit link for details|2024-05-17|
- |[HPE security advisory (AV24-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-277)|Visit link for details|2024-05-17|
- |[Microsoft Edge security advisory (AV24-276)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-276)|Visit link for details|2024-05-17|
- |[Drupal security advisory (AV24-275)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-275)|Visit link for details|2024-05-16|
- |[Google Chrome security advisory (AV24-274)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-274)|Visit link for details|2024-05-16|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -191,4 +176,21 @@
  |[ 47471505/24 - Vulnérabilités dans Adobe Acrobat et Reader ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-adobe-acrobat-et-reader)| Adobe annonce la correction de plusieurs vulnérabilités critiques affectant les produits adobe reader et acrobat susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 15 mai 2024|
  |[ 47461505/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un…| 15 mai 2024|
  |[ 47451505/24 - Vulnérabilité dans les produits Microsoft Azure (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-azure-patch-tuesday-mai-2024)| Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une attaque de cross site scripting. | 15 mai 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitHub security advisory (AV24-284)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-284)|Visit link for details|2024-05-21|
+ |[[Control systems] CISA ICS security advisories (AV24-283)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-283)|Visit link for details|2024-05-21|
+ |[Red Hat security advisory (AV24-282)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-282)|Visit link for details|2024-05-21|
+ |[Dell security advisory (AV24-281)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-281)|Visit link for details|2024-05-21|
+ |[IBM security advisory (AV24-280)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-280)|Visit link for details|2024-05-21|
+ |[Ubuntu security advisory (AV24-279)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-279)|Visit link for details|2024-05-21|
+ |[F5 security advisory (AV24-278)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-278)|Visit link for details|2024-05-17|
+ |[HPE security advisory (AV24-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-277)|Visit link for details|2024-05-17|
+ |[Microsoft Edge security advisory (AV24-276)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-276)|Visit link for details|2024-05-17|
+ |[Drupal security advisory (AV24-275)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-275)|Visit link for details|2024-05-16|
+ |[Google Chrome security advisory (AV24-274)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-274)|Visit link for details|2024-05-16|
  
