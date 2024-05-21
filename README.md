@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/05/2024 22:16:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/05/2024 23:22:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Rockwell Automation Encourages Customers to Assess and Secure Public-Internet-Exposed Assets](https://www.cisa.gov/news-events/alerts/2024/05/21/rockwell-automation-encourages-customers-assess-and-secure-public-internet-exposed-assets)|Visit link for details.|May 21, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 21, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 20, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
+ |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,21 @@
  |[USN-6775-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6775-1-linux-kernel-vulnerabilities.49992/)|Visit link for details.|May 17, 2024|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Rockwell Automation Encourages Customers to Assess and Secure Public-Internet-Exposed Assets](https://www.cisa.gov/news-events/alerts/2024/05/21/rockwell-automation-encourages-customers-assess-and-secure-public-internet-exposed-assets)|Visit link for details.|May 21, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 21, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 20, 2024|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
- |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
+ |[IBM i - CVE-2024-31879](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-31879-2024-05-21)|Visit link for details.|21/05/2024|
+ |[Qlik - CVE-2024-36077](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-36077-2024-05-21)|Visit link for details.|21/05/2024|
+ |[WordPress Contact Form - CVE-2024-2771](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-contact-form-cve-2024-2771-2024-05-21)|Visit link for details.|21/05/2024|
+ |[Santesoft Pacs - CVE-2023-51637](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-pacs-cve-2023-51637-2024-05-21)|Visit link for details.|21/05/2024|
+ |[Zabbix - CVE-2024-22120](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-22120-2024-05-21)|Visit link for details.|21/05/2024|
+ |[Google - CVE-2024-4947](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4947-2024-05-16)|Visit link for details.|21/05/2024|
+ |[Fortinet - CVE-2023-34992](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34992-2023-10-11)|Visit link for details.|21/05/2024|
+ |[Ivanti - CVE-2024-22026](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22026-2024-05-16)|Visit link for details.|21/05/2024|
+ |[WordPress Husky - CVE-2024-32680](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-husky-cve-2024-32680-2024-04-23)|Visit link for details.|21/05/2024|
+ |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|21/05/2024|
+ |[WatchGuard - CVE-2024-1417](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-1417-2024-05-17)|Visit link for details.|17/05/2024|
  
 
 # CERT-FR
@@ -111,37 +128,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM i - CVE-2024-31879](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-31879-2024-05-21)|Visit link for details.|21/05/2024|
- |[Qlik - CVE-2024-36077](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-36077-2024-05-21)|Visit link for details.|21/05/2024|
- |[WordPress Contact Form - CVE-2024-2771](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-contact-form-cve-2024-2771-2024-05-21)|Visit link for details.|21/05/2024|
- |[Santesoft Pacs - CVE-2023-51637](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-pacs-cve-2023-51637-2024-05-21)|Visit link for details.|21/05/2024|
- |[Zabbix - CVE-2024-22120](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-22120-2024-05-21)|Visit link for details.|21/05/2024|
- |[Google - CVE-2024-4947](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4947-2024-05-16)|Visit link for details.|21/05/2024|
- |[Fortinet - CVE-2023-34992](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34992-2023-10-11)|Visit link for details.|21/05/2024|
- |[Ivanti - CVE-2024-22026](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22026-2024-05-16)|Visit link for details.|21/05/2024|
- |[WordPress Husky - CVE-2024-32680](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-husky-cve-2024-32680-2024-04-23)|Visit link for details.|21/05/2024|
- |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|21/05/2024|
- |[WatchGuard - CVE-2024-1417](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-1417-2024-05-17)|Visit link for details.|17/05/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-483/)|Visit link for details|2024-05-19|
- |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-482/)|Visit link for details|2024-05-19|
- |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-481/)|Visit link for details|2024-05-19|
- |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-480/)|Visit link for details|2024-05-19|
- |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-479/)|Visit link for details|2024-05-19|
- |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-478/)|Visit link for details|2024-05-19|
- |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-477/)|Visit link for details|2024-05-19|
- |[(Pwn2Own) QNAP TS-464 HLS_tmp Directory Traversal Arbitrary File Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-476/)|Visit link for details|2024-05-19|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -159,6 +145,37 @@
  |[2024-035: Critical Vulnerability in Rust on Windows](https://cert.europa.eu/publications/security-advisories/2024-035/)|On April 9, 2024, the Rust Security Response WG issued a security advisory regarding a critical vulnerability in the Rust programming environment affecting Windows platforms. This flaw allows command injection attacks via crafted batch file executions with untrusted arguments. |Wednesday, April 10, 2024 11:54:51 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-483/)|Visit link for details|2024-05-19|
+ |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-482/)|Visit link for details|2024-05-19|
+ |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-481/)|Visit link for details|2024-05-19|
+ |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-480/)|Visit link for details|2024-05-19|
+ |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-479/)|Visit link for details|2024-05-19|
+ |[Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-478/)|Visit link for details|2024-05-19|
+ |[Adobe Acrobat Reader DC PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-477/)|Visit link for details|2024-05-19|
+ |[(Pwn2Own) QNAP TS-464 HLS_tmp Directory Traversal Arbitrary File Creation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-476/)|Visit link for details|2024-05-19|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell security advisory (AV24-281)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-281)|Visit link for details|2024-05-21|
+ |[IBM security advisory (AV24-280)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-280)|Visit link for details|2024-05-21|
+ |[Ubuntu security advisory (AV24-279)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-279)|Visit link for details|2024-05-21|
+ |[F5 security advisory (AV24-278)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-278)|Visit link for details|2024-05-17|
+ |[HPE security advisory (AV24-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-277)|Visit link for details|2024-05-17|
+ |[Microsoft Edge security advisory (AV24-276)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-276)|Visit link for details|2024-05-17|
+ |[Drupal security advisory (AV24-275)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-275)|Visit link for details|2024-05-16|
+ |[Google Chrome security advisory (AV24-274)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-274)|Visit link for details|2024-05-16|
+ |[Cisco security advisory (AV24-273)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-273)|Visit link for details|2024-05-15|
+ |[F5 security advisory (AV24-272)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-272)|Visit link for details|2024-05-15|
+ |[HPE security advisory (AV24-271)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-271)|Visit link for details|2024-05-15|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -174,21 +191,4 @@
  |[ 47471505/24 - Vulnérabilités dans Adobe Acrobat et Reader ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-adobe-acrobat-et-reader)| Adobe annonce la correction de plusieurs vulnérabilités critiques affectant les produits adobe reader et acrobat susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 15 mai 2024|
  |[ 47461505/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un…| 15 mai 2024|
  |[ 47451505/24 - Vulnérabilité dans les produits Microsoft Azure (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-azure-patch-tuesday-mai-2024)| Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une attaque de cross site scripting. | 15 mai 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu security advisory (AV24-279)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-279)|Visit link for details|2024-05-21|
- |[F5 security advisory (AV24-278)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-278)|Visit link for details|2024-05-17|
- |[HPE security advisory (AV24-277)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-277)|Visit link for details|2024-05-17|
- |[Microsoft Edge security advisory (AV24-276)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-276)|Visit link for details|2024-05-17|
- |[Drupal security advisory (AV24-275)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-275)|Visit link for details|2024-05-16|
- |[Google Chrome security advisory (AV24-274)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-274)|Visit link for details|2024-05-16|
- |[Cisco security advisory (AV24-273)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-273)|Visit link for details|2024-05-15|
- |[F5 security advisory (AV24-272)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-272)|Visit link for details|2024-05-15|
- |[HPE security advisory (AV24-271)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-271)|Visit link for details|2024-05-15|
- |[Microsoft Edge security advisory (AV24-270)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-270)|Visit link for details|2024-05-15|
- |[Intel security advisory (AV24-269)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-269)|Visit link for details|2024-05-14|
  
