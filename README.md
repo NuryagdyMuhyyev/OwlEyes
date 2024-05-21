@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/05/2024 12:17:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/05/2024 13:22:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6779-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6779-1-firefox-vulnerabilities.50039/)|Visit link for details.|May 21, 2024|
  |[USN-6777-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6777-2-linux-kernel-azure-vulnerabilities.50034/)|Visit link for details.|May 20, 2024|
  |[USN-6766-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6766-3-linux-kernel-aws-vulnerabilities.50033/)|Visit link for details.|May 20, 2024|
  |[DSA-5694-1 chromium - security update](https://www.linux.org/threads/dsa-5694-1-chromium-security-update.50002/)|Visit link for details.|May 17, 2024|
@@ -59,7 +60,22 @@
  |[USN-6775-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6775-1-linux-kernel-vulnerabilities.49992/)|Visit link for details.|May 17, 2024|
  |[USN-6773-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6773-1-net-vulnerabilities.49991/)|Visit link for details.|May 17, 2024|
  |[USN-6774-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6774-1-linux-kernel-vulnerabilities.49984/)|Visit link for details.|May 16, 2024|
- |[DSA-5692-1 ghostscript - security update](https://www.linux.org/threads/dsa-5692-1-ghostscript-security-update.49971/)|Visit link for details.|May 16, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.|Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0421/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0420/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0419/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
+ |[Vulnérabilité dans Microsoft Azure Monitor Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0418/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0417/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0415/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges.|Publié le 17 mai 2024|
+ |[Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2024|
+ |[Multiples vulnérabilités dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 17 mai 2024|
  
 
 # HK-CERT
@@ -106,22 +122,6 @@
  |[Google - CVE-2024-4947](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-4947-2024-05-16)|Visit link for details.|16/05/2024|
  |[D-Link - CVE-2024-4960](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-4960-2024-05-16)|Visit link for details.|16/05/2024|
  |[Microsoft - CVE-2024-30051](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30051-2024-05-15)|Visit link for details.|15/05/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.|Publié le 17 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0421/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0420/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 17 mai 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0419/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
- |[Vulnérabilité dans Microsoft Azure Monitor Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0418/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0417/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 mai 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0415/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges.|Publié le 17 mai 2024|
- |[Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2024|
- |[Multiples vulnérabilités dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 17 mai 2024|
  
 
 # OBS-Vigilance
