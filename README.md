@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/05/2024 09:21:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/05/2024 10:18:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -76,6 +76,25 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0417/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam Backup Enterprise Manager information disclosure (CVE-2024-29852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29850)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29849)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Google Chrome buffer overflow (CVE-2024-5160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Google Chrome buffer overflow (CVE-2024-5159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -93,12 +112,6 @@
  |[WatchGuard - CVE-2024-1417](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-1417-2024-05-17)|Visit link for details.|17/05/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -113,19 +126,6 @@
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 16 May 2024 |
  |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure and data manipulation on the targeted system. Note:No patch is currently available for CVE-2022-40304 of the...|Release Date: 16 May 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution and denial of service condition on the targeted system. Notes:CVE-2024-4947 are being exploited in the wild. CVE-...|Release Date: 16 May 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Veeam Backup Enterprise Manager information disclosure (CVE-2024-29852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29850)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29849)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Google Chrome buffer overflow (CVE-2024-5160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Google Chrome buffer overflow (CVE-2024-5159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Google Chrome code execution (CVE-2024-5158)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
  
 
 # EU-CERT
