@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/05/2024 13:23:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/05/2024 14:19:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,29 +45,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 14, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6782-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6782-1-thunderbird-vulnerabilities.50055/)|Visit link for details.|May 22, 2024|
- |[USN-6775-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6775-2-linux-kernel-vulnerabilities.50051/)|Visit link for details.|May 22, 2024|
- |[USN-6777-3: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6777-3-linux-kernel-gcp-vulnerabilities.50050/)|Visit link for details.|May 22, 2024|
- |[USN-6780-1: idna vulnerability](https://www.linux.org/threads/usn-6780-1-idna-vulnerability.50045/)|Visit link for details.|May 21, 2024|
- |[USN-6781-1: Spreadsheet::ParseExcel vulnerability](https://www.linux.org/threads/usn-6781-1-spreadsheet-parseexcel-vulnerability.50044/)|Visit link for details.|May 21, 2024|
- |[USN-6779-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6779-1-firefox-vulnerabilities.50039/)|Visit link for details.|May 21, 2024|
- |[USN-6777-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6777-2-linux-kernel-azure-vulnerabilities.50034/)|Visit link for details.|May 20, 2024|
- |[USN-6766-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6766-3-linux-kernel-aws-vulnerabilities.50033/)|Visit link for details.|May 20, 2024|
- |[DSA-5694-1 chromium - security update](https://www.linux.org/threads/dsa-5694-1-chromium-security-update.50002/)|Visit link for details.|May 17, 2024|
- |[DSA-5693-1 thunderbird - security update](https://www.linux.org/threads/dsa-5693-1-thunderbird-security-update.50001/)|Visit link for details.|May 17, 2024|
- |[USN-6778-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6778-1-linux-kernel-vulnerabilities.49995/)|Visit link for details.|May 17, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -80,19 +57,6 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0419/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
  |[Vulnérabilité dans Microsoft Azure Monitor Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0418/)|Une vulnérabilité a été découverte dans |Publié le 17 mai 2024|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0417/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mai 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Veeam Backup Enterprise Manager information disclosure (CVE-2024-29852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29850)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29849)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Google Chrome buffer overflow (CVE-2024-5160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Google Chrome buffer overflow (CVE-2024-5159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # CERT-SANTE
@@ -112,6 +76,23 @@
  |[WatchGuard - CVE-2024-1417](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-1417-2024-05-17)|Visit link for details.|17/05/2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6782-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6782-1-thunderbird-vulnerabilities.50055/)|Visit link for details.|May 22, 2024|
+ |[USN-6775-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6775-2-linux-kernel-vulnerabilities.50051/)|Visit link for details.|May 22, 2024|
+ |[USN-6777-3: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-6777-3-linux-kernel-gcp-vulnerabilities.50050/)|Visit link for details.|May 22, 2024|
+ |[USN-6780-1: idna vulnerability](https://www.linux.org/threads/usn-6780-1-idna-vulnerability.50045/)|Visit link for details.|May 21, 2024|
+ |[USN-6781-1: Spreadsheet::ParseExcel vulnerability](https://www.linux.org/threads/usn-6781-1-spreadsheet-parseexcel-vulnerability.50044/)|Visit link for details.|May 21, 2024|
+ |[USN-6779-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6779-1-firefox-vulnerabilities.50039/)|Visit link for details.|May 21, 2024|
+ |[USN-6777-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6777-2-linux-kernel-azure-vulnerabilities.50034/)|Visit link for details.|May 20, 2024|
+ |[USN-6766-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6766-3-linux-kernel-aws-vulnerabilities.50033/)|Visit link for details.|May 20, 2024|
+ |[DSA-5694-1 chromium - security update](https://www.linux.org/threads/dsa-5694-1-chromium-security-update.50002/)|Visit link for details.|May 17, 2024|
+ |[DSA-5693-1 thunderbird - security update](https://www.linux.org/threads/dsa-5693-1-thunderbird-security-update.50001/)|Visit link for details.|May 17, 2024|
+ |[USN-6778-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6778-1-linux-kernel-vulnerabilities.49995/)|Visit link for details.|May 17, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -126,6 +107,25 @@
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, denial of service condition and remote code execution on the targeted system.|Release Date: 16 May 2024 |
  |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure and data manipulation on the targeted system. Note:No patch is currently available for CVE-2022-40304 of the...|Release Date: 16 May 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution and denial of service condition on the targeted system. Notes:CVE-2024-4947 are being exploited in the wild. CVE-...|Release Date: 16 May 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam Backup Enterprise Manager information disclosure (CVE-2024-29852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29850)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Veeam Backup Enterprise Manager privilege escalation (CVE-2024-29849)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Google Chrome buffer overflow (CVE-2024-5160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Google Chrome buffer overflow (CVE-2024-5159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -180,6 +180,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 47562205/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités afin d’exécuter du code arbitraire, causer un déni de…| 22 mai 2024|
+ |[ 47562205/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-6)| QNAP a publié une mise à jour d'urgence pour corriger un zero-day « CVE-2024-27130 » et quatre autres failles dans les produits NAS susmentionnés. Les détails de la vulnérabilité et un exploit de…| 22 mai 2024|
  |[ 47552105/24 - Vulnérabilité dans Cisco OpenDNS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-cisco-opendns)| Une vulnérabilité a été corrigée dans  Cisco OpenDNS. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.*/| 21 mai 2024|
  |[ 47541705/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-3)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 17 mai 2024|
  |[ 47531705/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du…| 17 mai 2024|
@@ -189,6 +191,4 @@
  |[ 47491605/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-4)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de Intel. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, de…| 16 mai 2024|
  |[ 47481505/24 - Vulnérabilités critiques dans VMware Workstation et Fusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vmware-workstation-et-fusion)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de VMware Workstation Pro et Fusion. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la…| 15 mai 2024|
  |[ 47471505/24 - Vulnérabilités dans Adobe Acrobat et Reader ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-adobe-acrobat-et-reader)| Adobe annonce la correction de plusieurs vulnérabilités critiques affectant les produits adobe reader et acrobat susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 15 mai 2024|
- |[ 47461505/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-mai-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un…| 15 mai 2024|
- |[ 47451505/24 - Vulnérabilité dans les produits Microsoft Azure (Patch Tuesday Mai 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-azure-patch-tuesday-mai-2024)| Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une attaque de cross site scripting. | 15 mai 2024|
  
