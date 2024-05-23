@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/05/2024 19:16:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/05/2024 20:20:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 23, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 23, 2024|
+ |[Rockwell Automation Encourages Customers to Assess and Secure Public-Internet-Exposed Assets](https://www.cisa.gov/news-events/alerts/2024/05/21/rockwell-automation-encourages-customers-assess-and-secure-public-internet-exposed-assets)|Visit link for details.|May 21, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 21, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 20, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
+ |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,19 +60,6 @@
  |[USN-6780-1: idna vulnerability](https://www.linux.org/threads/usn-6780-1-idna-vulnerability.50045/)|Visit link for details.|May 21, 2024|
  |[USN-6781-1: Spreadsheet::ParseExcel vulnerability](https://www.linux.org/threads/usn-6781-1-spreadsheet-parseexcel-vulnerability.50044/)|Visit link for details.|May 21, 2024|
  |[USN-6779-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6779-1-firefox-vulnerabilities.50039/)|Visit link for details.|May 21, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Commerce View Receipt Module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2024|
- |[Email Contact Module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2024|
- |[Cisco Firepower Management Center Software SQL Injection (CVE-2024-20360)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2024|
- |[Multiple Cisco products security bypass (CVE-2024-20363)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software security bypass (CVE-2024-20355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[LCDS LAquis SCADA directory traversal (CVE-2024-5040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # CERT-FR
@@ -75,21 +78,27 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0426/)|De multiples vulnérabilités ont été découvertes dans Roundcube. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une injection de code indirecte à distance (XSS).|Publié le 21 mai 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Netgear - CVE-2024-5247](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-5247-2024-05-23)|Visit link for details.|23/05/2024|
+ |[Ivanti - CVE-2024-29823](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29823-2024-05-23)|Visit link for details.|23/05/2024|
+ |[GitLab - CVE-2024-4835](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-4835-2024-05-23)|Visit link for details.|23/05/2024|
+ |[Mozilla Firefox - CVE-2024-4367](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-4367-2024-05-23)|Visit link for details.|23/05/2024|
+ |[Cisco - CVE-2024-20360](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20360-2024-05-23)|Visit link for details.|23/05/2024|
  |[Veeam - CVE-2024-29849](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29849-2024-05-22)|Visit link for details.|22/05/2024|
  |[QNAP - CVE-2024-27130](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-27130-2024-05-22)|Visit link for details.|22/05/2024|
  |[Google Chrome - CVE-2024-5157](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5157-2024-05-22)|Visit link for details.|22/05/2024|
  |[GitHub - CVE-2024-4985](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-4985-2024-05-22)|Visit link for details.|22/05/2024|
  |[Ivanti - CVE-2024-29822](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29822-2024-05-22)|Visit link for details.|22/05/2024|
  |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|22/05/2024|
- |[IBM i - CVE-2024-31879](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-31879-2024-05-21)|Visit link for details.|21/05/2024|
- |[WordPress Contact Form - CVE-2024-2771](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-contact-form-cve-2024-2771-2024-05-21)|Visit link for details.|21/05/2024|
- |[Zabbix - CVE-2024-22120](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-22120-2024-05-21)|Visit link for details.|21/05/2024|
- |[Qlik - CVE-2024-36077](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-36077-2024-05-21)|Visit link for details.|21/05/2024|
- |[Santesoft Pacs - CVE-2023-51637](https://www.cyberveille-sante.gouv.fr/alertes/santesoft-pacs-cve-2023-51637-2024-05-21)|Visit link for details.|21/05/2024|
  
 
 # HK-CERT
@@ -106,42 +115,6 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-05-20]Updated System / Technologies...| Release Date: 16 May 2024 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240517)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service, elevation of privilege and security restriction bypass on the targeted system. |Release Date: 17 May 2024 |
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240517)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution and denial of service on the targeted system. Note:Google is aware of reports that an exploit for CVE-2024-4761 exists in the wild. ...|Release Date: 17 May 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) TP-Link Omada ER605 Reliance on Security Through Obscurity Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-503/)|Visit link for details|2024-05-23|
- |[(Pwn2Own) TP-Link Omada ER605 Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-502/)|Visit link for details|2024-05-23|
- |[(Pwn2Own) TP-Link Omada ER605 Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-501/)|Visit link for details|2024-05-23|
- |[(Pwn2Own) TP-Link Omada ER605 Comexe DDNS Response Handling Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-500/)|Visit link for details|2024-05-23|
- |[(Pwn2Own) TP-Link Omada ER605 PPTP VPN username Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-499/)|Visit link for details|2024-05-23|
- |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-498/)|Visit link for details|2024-05-22|
- |[NETGEAR ProSAFE Network Management System Tomcat Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-497/)|Visit link for details|2024-05-22|
- |[NETGEAR ProSAFE Network Management System Default Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-496/)|Visit link for details|2024-05-22|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 23, 2024|
- |[Rockwell Automation Encourages Customers to Assess and Secure Public-Internet-Exposed Assets](https://www.cisa.gov/news-events/alerts/2024/05/21/rockwell-automation-encourages-customers-assess-and-secure-public-internet-exposed-assets)|Visit link for details.|May 21, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 21, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 20, 2024|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
- |[Microsoft Releases May 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates)|Visit link for details.|May 14, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/14/apple-releases-security-updates-multiple-products)|Visit link for details.|May 14, 2024|
  
 
 # EU-CERT
@@ -161,6 +134,50 @@
  |[2024-040: Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2024-040/)|On April 16, 2024, Atlassian released a security advisory addressing 7 high vulnerabilities in Bamboo Data Center, Confluence Data Center, Jira Software Data Center, and Jira Service Management Data Center.|Wednesday, April 17, 2024 11:31:38 AM CEST|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Commerce View Receipt Module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2024|
+ |[Email Contact Module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2024|
+ |[Cisco Firepower Management Center Software SQL Injection (CVE-2024-20360)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 22, 2024|
+ |[Multiple Cisco products security bypass (CVE-2024-20363)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[Cisco Adaptive Security Appliance and Firepower Threat Defense Software security bypass (CVE-2024-20355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[LCDS LAquis SCADA directory traversal (CVE-2024-5040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) TP-Link Omada ER605 Reliance on Security Through Obscurity Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-503/)|Visit link for details|2024-05-23|
+ |[(Pwn2Own) TP-Link Omada ER605 Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-502/)|Visit link for details|2024-05-23|
+ |[(Pwn2Own) TP-Link Omada ER605 Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-501/)|Visit link for details|2024-05-23|
+ |[(Pwn2Own) TP-Link Omada ER605 Comexe DDNS Response Handling Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-500/)|Visit link for details|2024-05-23|
+ |[(Pwn2Own) TP-Link Omada ER605 PPTP VPN username Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-499/)|Visit link for details|2024-05-23|
+ |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-498/)|Visit link for details|2024-05-22|
+ |[NETGEAR ProSAFE Network Management System Tomcat Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-497/)|Visit link for details|2024-05-22|
+ |[NETGEAR ProSAFE Network Management System Default Credentials Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-496/)|Visit link for details|2024-05-22|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE security advisory (AV24-290)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-290)|Visit link for details|2024-05-23|
+ |[Atlassian security advisory (AV24-289)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-289)|Visit link for details|2024-05-22|
+ |[Cisco security advisory (AV24-288)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-288)|Visit link for details|2024-05-22|
+ |[VMware security advisory (AV24-287)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-287)|Visit link for details|2024-05-22|
+ |[Ivanti security advisory (AV24-286)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-286)|Visit link for details|2024-05-22|
+ |[Google Chrome security advisory (AV24-285)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-285)|Visit link for details|2024-05-22|
+ |[GitHub security advisory (AV24-284)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-284)|Visit link for details|2024-05-21|
+ |[[Control systems] CISA ICS security advisories (AV24-283)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-283)|Visit link for details|2024-05-21|
+ |[Red Hat security advisory (AV24-282)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-282)|Visit link for details|2024-05-21|
+ |[Dell security advisory (AV24-281)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-281)|Visit link for details|2024-05-21|
+ |[IBM security advisory (AV24-280)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-280)|Visit link for details|2024-05-21|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -176,21 +193,4 @@
  |[ 47541705/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-3)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 17 mai 2024|
  |[ 47531705/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du…| 17 mai 2024|
  |[ 47521605/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-5)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 16 mai 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Atlassian security advisory (AV24-289)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-289)|Visit link for details|2024-05-22|
- |[Cisco security advisory (AV24-288)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-288)|Visit link for details|2024-05-22|
- |[VMware security advisory (AV24-287)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-287)|Visit link for details|2024-05-22|
- |[Ivanti security advisory (AV24-286)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-286)|Visit link for details|2024-05-22|
- |[Google Chrome security advisory (AV24-285)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-285)|Visit link for details|2024-05-22|
- |[GitHub security advisory (AV24-284)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-284)|Visit link for details|2024-05-21|
- |[[Control systems] CISA ICS security advisories (AV24-283)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-283)|Visit link for details|2024-05-21|
- |[Red Hat security advisory (AV24-282)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-282)|Visit link for details|2024-05-21|
- |[Dell security advisory (AV24-281)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-281)|Visit link for details|2024-05-21|
- |[IBM security advisory (AV24-280)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-280)|Visit link for details|2024-05-21|
- |[Ubuntu security advisory (AV24-279)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-279)|Visit link for details|2024-05-21|
  
