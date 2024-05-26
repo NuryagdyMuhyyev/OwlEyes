@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/05/2024 22:16:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/05/2024 23:21:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases May 2024 Cisco ASA, FMC, and FTD Software Security Publication ](https://www.cisa.gov/news-events/alerts/2024/05/24/cisco-releases-may-2024-cisco-asa-fmc-and-ftd-software-security-publication)|Visit link for details.|May 24, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 23, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 23, 2024|
+ |[Rockwell Automation Encourages Customers to Assess and Secure Public-Internet-Exposed Assets](https://www.cisa.gov/news-events/alerts/2024/05/21/rockwell-automation-encourages-customers-assess-and-secure-public-internet-exposed-assets)|Visit link for details.|May 21, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 21, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 20, 2024|
+ |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
+ 
 
 # LINUX-SEC
 
@@ -62,22 +78,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0433/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 22 mai 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Releases May 2024 Cisco ASA, FMC, and FTD Software Security Publication ](https://www.cisa.gov/news-events/alerts/2024/05/24/cisco-releases-may-2024-cisco-asa-fmc-and-ftd-software-security-publication)|Visit link for details.|May 24, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 23, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 23, 2024|
- |[Rockwell Automation Encourages Customers to Assess and Secure Public-Internet-Exposed Assets](https://www.cisa.gov/news-events/alerts/2024/05/21/rockwell-automation-encourages-customers-assess-and-secure-public-internet-exposed-assets)|Visit link for details.|May 21, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 21, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 20, 2024|
- |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -101,19 +101,6 @@
  |[Veeam - CVE-2024-29849](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29849-2024-05-22)|Visit link for details.|22/05/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tenda FH1206 command execution (CVE-2024-35339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 24, 2024|
- |[Tenda FH1206 command execution (CVE-2024-35340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 24, 2024|
- |[Ivanti Endpoint Manager code execution (CVE-2024-29846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2024|
- |[Ivanti Endpoint Manager code execution (CVE-2024-29830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2024|
- |[Ivanti Endpoint Manager code execution (CVE-2024-29829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2024|
- |[Ivanti Endpoint Manager code execution (CVE-2024-29828)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -130,18 +117,17 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240516)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-05-20]Updated System / Technologies...| Release Date: 16 May 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-515/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-514/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetLogFileRulesNameUniqueSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-513/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetLogFileRulesSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-512/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetRulesetsSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-511/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager RecordBrokenApp SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-508/)|Visit link for details|2024-05-24|
+ |[Tenda FH1206 command execution (CVE-2024-35339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 24, 2024|
+ |[Tenda FH1206 command execution (CVE-2024-35340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 24, 2024|
+ |[Ivanti Endpoint Manager code execution (CVE-2024-29846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2024|
+ |[Ivanti Endpoint Manager code execution (CVE-2024-29830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2024|
+ |[Ivanti Endpoint Manager code execution (CVE-2024-29829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2024|
+ |[Ivanti Endpoint Manager code execution (CVE-2024-29828)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 23, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -159,6 +145,20 @@
  |[2024-042: Vulnerability in Cisco Integrated Management Controller](https://cert.europa.eu/publications/security-advisories/2024-042/)|On April 17, 2024, Cisco disclosed vulnerabilities in its Cisco Integrated Management Controller product. |Thursday, April 18, 2024 04:36:20 PM CEST|
  |[2024-041: Multiple Vulnerabilities in Ivanti Avalanche MDM](https://cert.europa.eu/publications/security-advisories/2024-041/)|On April 16, 2024, Ivanti disclosed several vulnerabilities in its Avalanche MDM solution, including two critical heap overflow issues allowing unauthenticated remote command execution.|Wednesday, April 17, 2024 11:32:02 AM CEST|
  |[2024-040: Vulnerabilities in Atlassian Products](https://cert.europa.eu/publications/security-advisories/2024-040/)|On April 16, 2024, Atlassian released a security advisory addressing 7 high vulnerabilities in Bamboo Data Center, Confluence Data Center, Jira Software Data Center, and Jira Service Management Data Center.|Wednesday, April 17, 2024 11:31:38 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-515/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-514/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetLogFileRulesNameUniqueSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-513/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetLogFileRulesSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-512/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetRulesetsSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-511/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager RecordBrokenApp SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-508/)|Visit link for details|2024-05-24|
  
 
 # CA-CCS
