@@ -29,10 +29,10 @@ class CertFRSpider(scrapy.Spider):
 
     block_selector = "article.cert-avis"
     link_selector = (
-        "descendant-or-self::article/section/div[contains(@class,'item-title')]//@href"
+        "descendant-or-self::article/section/div[contains(@class,'item-title')]/h3/a//@href"
     )
-    date_selector = "descendant-or-self::article/section/div/span[contains(@class,'item-date')]//text()"
-    title_selector = "descendant-or-self::article/section/div[contains(@class,'item-title')]/h3//text()"
+    date_selector = "descendant-or-self::article/section/div[@contains(@class, 'item-meta')]/span[contains(@class,'item-date')]//text()"
+    title_selector = "descendant-or-self::article/section/div[contains(@class,'item-title')]/h3/a//text()"
     description_selector = (
         "descendant-or-self::article/section[contains(@class,'item-excerpt')]/p//text()"
     )
