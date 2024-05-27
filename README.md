@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/05/2024 02:18:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/05/2024 03:16:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,19 @@
  |[DSA-5696-1 chromium - security update](https://www.linux.org/threads/dsa-5696-1-chromium-security-update.50062/)|Visit link for details.|May 22, 2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mattermost security bypass (CVE-2024-32045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
+ |[Mattermost security bypass (CVE-2024-5272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
+ |[Mattermost security bypass (CVE-2024-34029)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
+ |[Mattermost security bypass (CVE-2024-34151)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
+ |[Mattermost command execution (CVE-2024-34152)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
+ |[Tenda FH1206 command execution (CVE-2024-35339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 24, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -83,17 +96,24 @@
  |[Veeam Backup & Replication Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-multiple-vulnerabilities_20240522)|Multiple vulnerabilities were identified in Veeam Backup & Replication. A remote attacker could exploit this vulnerability to trigger elevation of privilege, security restriction bypass and sensitive information disclosure on the targeted system. |Release Date: 22 May 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Mattermost security bypass (CVE-2024-32045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
- |[Mattermost security bypass (CVE-2024-5272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
- |[Mattermost security bypass (CVE-2024-34029)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
- |[Mattermost security bypass (CVE-2024-34151)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
- |[Mattermost command execution (CVE-2024-34152)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
- |[Tenda FH1206 command execution (CVE-2024-35339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 24, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-515/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-514/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetLogFileRulesNameUniqueSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-513/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetLogFileRulesSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-512/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetRulesetsSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-511/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager RecordBrokenApp SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-508/)|Visit link for details|2024-05-24|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
@@ -111,26 +131,6 @@
  |[Google Chrome - CVE-2024-5274](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5274-2024-05-24)|Visit link for details.|27/05/2024|
  |[GitHub - CVE-2024-4985](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-4985-2024-05-22)|Visit link for details.|27/05/2024|
  |[Vulnérabilité dans OpenSSL](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-openssl-2022-09-29-0)|Visit link for details.|27/05/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-515/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-514/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetLogFileRulesNameUniqueSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-513/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetLogFileRulesSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-512/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetRulesetsSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-511/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager RecordBrokenApp SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-508/)|Visit link for details|2024-05-24|
  
 
 # EU-CERT
