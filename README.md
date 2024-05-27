@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/05/2024 17:33:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/05/2024 18:20:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5699-1 redmine - security update](https://www.linux.org/threads/dsa-5699-1-redmine-security-update.50089/)|Visit link for details.|May 24, 2024|
- |[DSA-5698-1 ruby-rack - security update](https://www.linux.org/threads/dsa-5698-1-ruby-rack-security-update.50088/)|Visit link for details.|May 24, 2024|
- |[DSA-5697-1 chromium - security update](https://www.linux.org/threads/dsa-5697-1-chromium-security-update.50087/)|Visit link for details.|May 24, 2024|
- |[USN-6785-1: GNOME Remote Desktop vulnerability](https://www.linux.org/threads/usn-6785-1-gnome-remote-desktop-vulnerability.50076/)|Visit link for details.|May 23, 2024|
- |[USN-6784-1: cJSON vulnerabilities](https://www.linux.org/threads/usn-6784-1-cjson-vulnerabilities.50075/)|Visit link for details.|May 23, 2024|
- |[USN-6736-2: klibc vulnerabilities](https://www.linux.org/threads/usn-6736-2-klibc-vulnerabilities.50074/)|Visit link for details.|May 23, 2024|
- |[USN-6777-4: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6777-4-linux-kernel-hwe-vulnerabilities.50073/)|Visit link for details.|May 23, 2024|
- |[USN-6663-3: OpenSSL update](https://www.linux.org/threads/usn-6663-3-openssl-update.50072/)|Visit link for details.|May 23, 2024|
- |[USN-6783-1: VLC vulnerabilities](https://www.linux.org/threads/usn-6783-1-vlc-vulnerabilities.50071/)|Visit link for details.|May 23, 2024|
- |[DSA-5696-1 chromium - security update](https://www.linux.org/threads/dsa-5696-1-chromium-security-update.50062/)|Visit link for details.|May 22, 2024|
- |[DSA-5695-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5695-1-webkit2gtk-security-update.50057/)|Visit link for details.|May 22, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
  |---|---|---|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5699-1 redmine - security update](https://www.linux.org/threads/dsa-5699-1-redmine-security-update.50089/)|Visit link for details.|May 24, 2024|
+ |[DSA-5698-1 ruby-rack - security update](https://www.linux.org/threads/dsa-5698-1-ruby-rack-security-update.50088/)|Visit link for details.|May 24, 2024|
+ |[DSA-5697-1 chromium - security update](https://www.linux.org/threads/dsa-5697-1-chromium-security-update.50087/)|Visit link for details.|May 24, 2024|
+ |[USN-6785-1: GNOME Remote Desktop vulnerability](https://www.linux.org/threads/usn-6785-1-gnome-remote-desktop-vulnerability.50076/)|Visit link for details.|May 23, 2024|
+ |[USN-6784-1: cJSON vulnerabilities](https://www.linux.org/threads/usn-6784-1-cjson-vulnerabilities.50075/)|Visit link for details.|May 23, 2024|
+ |[USN-6736-2: klibc vulnerabilities](https://www.linux.org/threads/usn-6736-2-klibc-vulnerabilities.50074/)|Visit link for details.|May 23, 2024|
+ |[USN-6777-4: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6777-4-linux-kernel-hwe-vulnerabilities.50073/)|Visit link for details.|May 23, 2024|
+ |[USN-6663-3: OpenSSL update](https://www.linux.org/threads/usn-6663-3-openssl-update.50072/)|Visit link for details.|May 23, 2024|
+ |[USN-6783-1: VLC vulnerabilities](https://www.linux.org/threads/usn-6783-1-vlc-vulnerabilities.50071/)|Visit link for details.|May 23, 2024|
+ |[DSA-5696-1 chromium - security update](https://www.linux.org/threads/dsa-5696-1-chromium-security-update.50062/)|Visit link for details.|May 22, 2024|
+ |[DSA-5695-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5695-1-webkit2gtk-security-update.50057/)|Visit link for details.|May 22, 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -75,14 +75,29 @@
  |[Vulnérabilité dans glibc](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-glibc-2020-04-07)|Visit link for details.|27/05/2024|
  |[Multiples vulnérabilités critiques dans Zimbra](https://www.cyberveille-sante.gouv.fr/alertes/multiples-vulnerabilites-critiques-dans-zimbra-2022-08-01)|Visit link for details.|27/05/2024|
  |[Vulnérabilité dans OpenSSL](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-openssl-2022-09-29-0)|Visit link for details.|27/05/2024|
+ |[Vulnérabilités dans OpenSSL](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilites-dans-openssl-2022-09-29-1)|Visit link for details.|27/05/2024|
+ |[Netgear - CVE-2024-5247](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-5247-2024-05-23)|Visit link for details.|27/05/2024|
  |[TP-Link - CVE-2024-5227](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-5227-2024-05-24)|Visit link for details.|24/05/2024|
  |[OpenText - CVE-2024-5201](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-5201-2024-05-24)|Visit link for details.|24/05/2024|
  |[Ivanti - CVE-2024-29824](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29824-2024-05-24)|Visit link for details.|24/05/2024|
  |[D-Link - CVE-2024-5296](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-5296-2024-05-24)|Visit link for details.|24/05/2024|
  |[Google Chrome - CVE-2024-5274](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5274-2024-05-24)|Visit link for details.|24/05/2024|
- |[Netgear - CVE-2024-5247](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-5247-2024-05-23)|Visit link for details.|24/05/2024|
  |[Ivanti - CVE-2024-29823](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29823-2024-05-23)|Visit link for details.|23/05/2024|
- |[GitLab - CVE-2024-4835](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-4835-2024-05-23)|Visit link for details.|23/05/2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240527)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2024-5274 is being exploited in the wild.|Release Date: 27 May 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240524)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-4947 and CVE-2024-4761 are being exploited in...|Release Date: 24 May 2024 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240524)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild.|Release Date: 24 May 2024 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240523)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, security restriction bypass and elevation of privilege on the targeted system.|Release Date: 23 May 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240523)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. Note:Proof of concept exploit for CVE-2024-...|Release Date: 23 May 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240509)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-05-23] Updated System / Technologies affected, Solutions, Vulnerability Identifier...| Release Date: 9 May 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-05...| Release Date: 2 May 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240522)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 22 May 2024 |
+ |[Veeam Backup & Replication Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-multiple-vulnerabilities_20240522)|Multiple vulnerabilities were identified in Veeam Backup & Replication. A remote attacker could exploit this vulnerability to trigger elevation of privilege, security restriction bypass and sensitive information disclosure on the targeted system. |Release Date: 22 May 2024 |
  
 
 # OBS-Vigilance
@@ -121,21 +136,6 @@
  |[2024-041: Multiple Vulnerabilities in Ivanti Avalanche MDM](https://cert.europa.eu/publications/security-advisories/2024-041/)|On April 16, 2024, Ivanti disclosed several vulnerabilities in its Avalanche MDM solution, including two critical heap overflow issues allowing unauthenticated remote command execution.|Wednesday, April 17, 2024 11:32:02 AM CEST|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240527)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2024-5274 is being exploited in the wild.|Release Date: 27 May 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240524)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-4947 and CVE-2024-4761 are being exploited in...|Release Date: 24 May 2024 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240524)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild.|Release Date: 24 May 2024 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240523)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, security restriction bypass and elevation of privilege on the targeted system.|Release Date: 23 May 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240523)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. Note:Proof of concept exploit for CVE-2024-...|Release Date: 23 May 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240509)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-05-23] Updated System / Technologies affected, Solutions, Vulnerability Identifier...| Release Date: 9 May 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-05...| Release Date: 2 May 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240522)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 22 May 2024 |
- |[Veeam Backup & Replication Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-multiple-vulnerabilities_20240522)|Multiple vulnerabilities were identified in Veeam Backup & Replication. A remote attacker could exploit this vulnerability to trigger elevation of privilege, security restriction bypass and sensitive information disclosure on the targeted system. |Release Date: 22 May 2024 |
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -148,23 +148,6 @@
  |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
  |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
  |[Ivanti Endpoint Manager RecordBrokenApp SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-508/)|Visit link for details|2024-05-24|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47622705/24 - Vulnérabilités critiques dans les plugins WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-plugins-wordpress)| Plusieurs vulnérabilités critiques ont été corrigées dans les plugins du CMS WordPress  susmentionnés. Un attaquant pourrait exploiter ces failles afin de télécharger des fichiers arbitraires sur un…| 27 mai 2024|
- |[ 47612305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 23 mai 2024|
- |[ 47602305/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 23 mai 2024|
- |[ 47592305/24 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter…| 23 mai 2024|
- |[ 47582205/24 - Vulnérabilités critiques dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-backup-enterprise-manager)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant Veeam Backup Enterprise Manager.  VBEM est une plateforme web qui permet aux administrateurs de gérer les installations de…| 22 mai 2024|
- |[ 47572205/24 - Vulnérabilité critique dans les produits GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-github-enterprise-server)| */GitHub a corrigé une vulnérabilité critique «CVE-2024-4985 » de contournement d'authentification qui affecte les instances de GitHub Enterprise Server (GHES) utilisant l'authentification unique…| 22 mai 2024|
- |[ 47562205/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités afin d’exécuter du code arbitraire, causer un déni de…| 22 mai 2024|
- |[ 47562205/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-6)| QNAP a publié une mise à jour d'urgence pour corriger un zero-day « CVE-2024-27130 » et quatre autres failles dans les produits NAS susmentionnés. Les détails de la vulnérabilité et un exploit de…| 22 mai 2024|
- |[ 47552105/24 - Vulnérabilité dans Cisco OpenDNS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-cisco-opendns)| Une vulnérabilité a été corrigée dans  Cisco OpenDNS. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.*/| 21 mai 2024|
- |[ 47541705/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-3)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 17 mai 2024|
- |[ 47531705/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du…| 17 mai 2024|
  
 
 # CA-CCS
@@ -182,4 +165,21 @@
  |[Google Chrome security advisory (AV24-285)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-285)|Visit link for details|2024-05-22|
  |[GitHub security advisory (AV24-284)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-284)|Visit link for details|2024-05-21|
  |[[Control systems] CISA ICS security advisories (AV24-283)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-283)|Visit link for details|2024-05-21|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47622705/24 - Vulnérabilités critiques dans les plugins WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-plugins-wordpress)| Plusieurs vulnérabilités critiques ont été corrigées dans les plugins du CMS WordPress  susmentionnés. Un attaquant pourrait exploiter ces failles afin de télécharger des fichiers arbitraires sur un…| 27 mai 2024|
+ |[ 47612305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 23 mai 2024|
+ |[ 47602305/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 23 mai 2024|
+ |[ 47592305/24 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter…| 23 mai 2024|
+ |[ 47582205/24 - Vulnérabilités critiques dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-backup-enterprise-manager)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant Veeam Backup Enterprise Manager.  VBEM est une plateforme web qui permet aux administrateurs de gérer les installations de…| 22 mai 2024|
+ |[ 47572205/24 - Vulnérabilité critique dans les produits GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-github-enterprise-server)| */GitHub a corrigé une vulnérabilité critique «CVE-2024-4985 » de contournement d'authentification qui affecte les instances de GitHub Enterprise Server (GHES) utilisant l'authentification unique…| 22 mai 2024|
+ |[ 47562205/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités afin d’exécuter du code arbitraire, causer un déni de…| 22 mai 2024|
+ |[ 47562205/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-6)| QNAP a publié une mise à jour d'urgence pour corriger un zero-day « CVE-2024-27130 » et quatre autres failles dans les produits NAS susmentionnés. Les détails de la vulnérabilité et un exploit de…| 22 mai 2024|
+ |[ 47552105/24 - Vulnérabilité dans Cisco OpenDNS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-cisco-opendns)| Une vulnérabilité a été corrigée dans  Cisco OpenDNS. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.*/| 21 mai 2024|
+ |[ 47541705/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-3)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 17 mai 2024|
+ |[ 47531705/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-1)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, d’exécuter du…| 17 mai 2024|
  
