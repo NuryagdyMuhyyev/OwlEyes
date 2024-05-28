@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/05/2024 00:14:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/05/2024 01:19:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6791-1: Unbound vulnerability](https://www.linux.org/threads/usn-6791-1-unbound-vulnerability.50125/)|Visit link for details.|May 28, 2024|
- |[USN-6790-1: amavisd-new vulnerability](https://www.linux.org/threads/usn-6790-1-amavisd-new-vulnerability.50124/)|Visit link for details.|May 28, 2024|
- |[USN-6789-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6789-1-libreoffice-vulnerability.50123/)|Visit link for details.|May 28, 2024|
- |[USN-6788-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6788-1-webkitgtk-vulnerabilities.50122/)|Visit link for details.|May 28, 2024|
- |[USN-6786-1: Netatalk vulnerabilities](https://www.linux.org/threads/usn-6786-1-netatalk-vulnerabilities.50119/)|Visit link for details.|May 28, 2024|
- |[USN-6673-3: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-3-python-cryptography-vulnerability.50114/)|Visit link for details.|May 27, 2024|
- |[DSA-5699-1 redmine - security update](https://www.linux.org/threads/dsa-5699-1-redmine-security-update.50089/)|Visit link for details.|May 24, 2024|
- |[DSA-5698-1 ruby-rack - security update](https://www.linux.org/threads/dsa-5698-1-ruby-rack-security-update.50088/)|Visit link for details.|May 24, 2024|
- |[DSA-5697-1 chromium - security update](https://www.linux.org/threads/dsa-5697-1-chromium-security-update.50087/)|Visit link for details.|May 24, 2024|
- |[USN-6785-1: GNOME Remote Desktop vulnerability](https://www.linux.org/threads/usn-6785-1-gnome-remote-desktop-vulnerability.50076/)|Visit link for details.|May 23, 2024|
- |[USN-6784-1: cJSON vulnerabilities](https://www.linux.org/threads/usn-6784-1-cjson-vulnerabilities.50075/)|Visit link for details.|May 23, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,35 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 20, 2024|
  |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
  |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6795-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6795-1-linux-kernel-intel-iotg-vulnerabilities.50131/)|Visit link for details.|May 28, 2024|
+ |[USN-6792-1: Flask-Security vulnerability](https://www.linux.org/threads/usn-6792-1-flask-security-vulnerability.50130/)|Visit link for details.|May 28, 2024|
+ |[USN-6794-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6794-1-frr-vulnerabilities.50129/)|Visit link for details.|May 28, 2024|
+ |[USN-6793-1: Git vulnerabilities](https://www.linux.org/threads/usn-6793-1-git-vulnerabilities.50128/)|Visit link for details.|May 28, 2024|
+ |[USN-6787-1: Jinja2 vulnerability](https://www.linux.org/threads/usn-6787-1-jinja2-vulnerability.50127/)|Visit link for details.|May 28, 2024|
+ |[USN-6791-1: Unbound vulnerability](https://www.linux.org/threads/usn-6791-1-unbound-vulnerability.50125/)|Visit link for details.|May 28, 2024|
+ |[USN-6790-1: amavisd-new vulnerability](https://www.linux.org/threads/usn-6790-1-amavisd-new-vulnerability.50124/)|Visit link for details.|May 28, 2024|
+ |[USN-6789-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6789-1-libreoffice-vulnerability.50123/)|Visit link for details.|May 28, 2024|
+ |[USN-6788-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6788-1-webkitgtk-vulnerabilities.50122/)|Visit link for details.|May 28, 2024|
+ |[USN-6786-1: Netatalk vulnerabilities](https://www.linux.org/threads/usn-6786-1-netatalk-vulnerabilities.50119/)|Visit link for details.|May 28, 2024|
+ |[USN-6673-3: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-3-python-cryptography-vulnerability.50114/)|Visit link for details.|May 27, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
@@ -79,31 +91,6 @@
  |[Ivanti - CVE-2024-22059](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22059-2024-05-27)|Visit link for details.|27/05/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[RhinOS cross-site scripting (CVE-2024-5409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[RhinOS cross-site scripting (CVE-2024-5408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[RhinOS code execution (CVE-2024-5407)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[IBM Engineering Workflow Management cross-site scripting (CVE-2024-28793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[IBM Aspera Faspex cross-site scripting (CVE-2023-37411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[OMRON NJ/NX series CPU unit Software security bypass (CVE-2024-33687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -117,6 +104,19 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240523)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, security restriction bypass and elevation of privilege on the targeted system.|Release Date: 23 May 2024 |
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240523)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. Note:Proof of concept exploit for CVE-2024-...|Release Date: 23 May 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240509)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-05-23] Updated System / Technologies affected, Solutions, Vulnerability Identifier...| Release Date: 9 May 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RhinOS cross-site scripting (CVE-2024-5409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[RhinOS cross-site scripting (CVE-2024-5408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[RhinOS code execution (CVE-2024-5407)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[IBM Engineering Workflow Management cross-site scripting (CVE-2024-28793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[IBM Aspera Faspex cross-site scripting (CVE-2023-37411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[OMRON NJ/NX series CPU unit Software security bypass (CVE-2024-33687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
