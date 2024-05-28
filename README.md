@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/05/2024 14:18:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/05/2024 15:19:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,23 @@
  |[USN-6783-1: VLC vulnerabilities](https://www.linux.org/threads/usn-6783-1-vlc-vulnerabilities.50071/)|Visit link for details.|May 23, 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam - CVE-2024-29850](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29850-2024-05-27)|Visit link for details.|27/05/2024|
+ |[Google - CVE-2024-5158](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5158-2024-05-27)|Visit link for details.|27/05/2024|
+ |[Ivanti - CVE-2024-29825](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29825-2024-05-27)|Visit link for details.|27/05/2024|
+ |[Ivanti - CVE-2024-22059](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22059-2024-05-27)|Visit link for details.|27/05/2024|
+ |[D-Link - CVE-2024-5299](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-5299-2024-05-27)|Visit link for details.|27/05/2024|
+ |[Netgear - CVE-2024-5247](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-5247-2024-05-23)|Visit link for details.|27/05/2024|
+ |[Vulnérabilités dans OpenSSL](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilites-dans-openssl-2022-09-29-1)|Visit link for details.|27/05/2024|
+ |[Multiples vulnérabilités critiques dans Zimbra](https://www.cyberveille-sante.gouv.fr/alertes/multiples-vulnerabilites-critiques-dans-zimbra-2022-08-01)|Visit link for details.|27/05/2024|
+ |[Google Chrome - CVE-2024-5274](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5274-2024-05-24)|Visit link for details.|27/05/2024|
+ |[GitHub - CVE-2024-4985](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-4985-2024-05-22)|Visit link for details.|27/05/2024|
+ |[Vulnérabilité dans OpenSSL](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-openssl-2022-09-29-0)|Visit link for details.|27/05/2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -83,6 +100,12 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240509)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-05-23] Updated System / Technologies affected, Solutions, Vulnerability Identifier...| Release Date: 9 May 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -94,43 +117,6 @@
  |[Nintendo Wii U OS man-in-the-middle (CVE-2024-34454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
  |[Marvin Test privilege escalation (CVE-2024-36056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 26, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Veeam - CVE-2024-29850](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29850-2024-05-27)|Visit link for details.|27/05/2024|
- |[Google - CVE-2024-5158](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5158-2024-05-27)|Visit link for details.|27/05/2024|
- |[Ivanti - CVE-2024-29825](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29825-2024-05-27)|Visit link for details.|27/05/2024|
- |[Ivanti - CVE-2024-22059](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22059-2024-05-27)|Visit link for details.|27/05/2024|
- |[D-Link - CVE-2024-5299](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-5299-2024-05-27)|Visit link for details.|27/05/2024|
- |[Netgear - CVE-2024-5247](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-5247-2024-05-23)|Visit link for details.|27/05/2024|
- |[Vulnérabilités dans OpenSSL](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilites-dans-openssl-2022-09-29-1)|Visit link for details.|27/05/2024|
- |[Multiples vulnérabilités critiques dans Zimbra](https://www.cyberveille-sante.gouv.fr/alertes/multiples-vulnerabilites-critiques-dans-zimbra-2022-08-01)|Visit link for details.|27/05/2024|
- |[Google Chrome - CVE-2024-5274](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5274-2024-05-24)|Visit link for details.|27/05/2024|
- |[GitHub - CVE-2024-4985](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-4985-2024-05-22)|Visit link for details.|27/05/2024|
- |[Vulnérabilité dans OpenSSL](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilite-dans-openssl-2022-09-29-0)|Visit link for details.|27/05/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-515/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-514/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetLogFileRulesNameUniqueSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-513/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetLogFileRulesSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-512/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetRulesetsSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-511/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager RecordBrokenApp SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-508/)|Visit link for details|2024-05-24|
  
 
 # EU-CERT
@@ -150,21 +136,18 @@
  |[2024-042: Vulnerability in Cisco Integrated Management Controller](https://cert.europa.eu/publications/security-advisories/2024-042/)|On April 17, 2024, Cisco disclosed vulnerabilities in its Cisco Integrated Management Controller product. |Thursday, April 18, 2024 04:36:20 PM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 47642805/24 - Vulnérabilité critique corrigée dans les produits TP-Link ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-corrigee-dans-les-produits-tp-link)| TP-Link a corrigé une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant distant non authentifié d'exécuter des…| 28 mai 2024|
- |[ 47632705/24 - Zero-day critique corrigée dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-critique-corrigee-dans-google-chrome-0)| Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2024-5274». L’exploitation de cette faille peut permettre à un attaquant…| 27 mai 2024|
- |[ 47622705/24 - Vulnérabilités critiques dans les plugins WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-plugins-wordpress)| Plusieurs vulnérabilités critiques ont été corrigées dans les plugins du CMS WordPress  susmentionnés. Un attaquant pourrait exploiter ces failles afin de télécharger des fichiers arbitraires sur un…| 27 mai 2024|
- |[ 47612305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 23 mai 2024|
- |[ 47602305/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 23 mai 2024|
- |[ 47592305/24 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter…| 23 mai 2024|
- |[ 47582205/24 - Vulnérabilités critiques dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-backup-enterprise-manager)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant Veeam Backup Enterprise Manager.  VBEM est une plateforme web qui permet aux administrateurs de gérer les installations de…| 22 mai 2024|
- |[ 47572205/24 - Vulnérabilité critique dans les produits GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-github-enterprise-server)| */GitHub a corrigé une vulnérabilité critique «CVE-2024-4985 » de contournement d'authentification qui affecte les instances de GitHub Enterprise Server (GHES) utilisant l'authentification unique…| 22 mai 2024|
- |[ 47562205/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités afin d’exécuter du code arbitraire, causer un déni de…| 22 mai 2024|
- |[ 47562205/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-6)| QNAP a publié une mise à jour d'urgence pour corriger un zero-day « CVE-2024-27130 » et quatre autres failles dans les produits NAS susmentionnés. Les détails de la vulnérabilité et un exploit de…| 22 mai 2024|
- |[ 47552105/24 - Vulnérabilité dans Cisco OpenDNS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-cisco-opendns)| Une vulnérabilité a été corrigée dans  Cisco OpenDNS. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.*/| 21 mai 2024|
+ |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-515/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-514/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetLogFileRulesNameUniqueSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-513/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetLogFileRulesSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-512/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetRulesetsSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-511/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager RecordBrokenApp SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-508/)|Visit link for details|2024-05-24|
  
 
 # CA-CCS
@@ -182,4 +165,21 @@
  |[HPE security advisory (AV24-290)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-290)|Visit link for details|2024-05-23|
  |[Atlassian security advisory (AV24-289)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-289)|Visit link for details|2024-05-22|
  |[Cisco security advisory (AV24-288)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-288)|Visit link for details|2024-05-22|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47642805/24 - Vulnérabilité critique corrigée dans les produits TP-Link ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-corrigee-dans-les-produits-tp-link)| TP-Link a corrigé une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant distant non authentifié d'exécuter des…| 28 mai 2024|
+ |[ 47632705/24 - Zero-day critique corrigée dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-critique-corrigee-dans-google-chrome-0)| Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2024-5274». L’exploitation de cette faille peut permettre à un attaquant…| 27 mai 2024|
+ |[ 47622705/24 - Vulnérabilités critiques dans les plugins WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-plugins-wordpress)| Plusieurs vulnérabilités critiques ont été corrigées dans les plugins du CMS WordPress  susmentionnés. Un attaquant pourrait exploiter ces failles afin de télécharger des fichiers arbitraires sur un…| 27 mai 2024|
+ |[ 47612305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 23 mai 2024|
+ |[ 47602305/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 23 mai 2024|
+ |[ 47592305/24 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter…| 23 mai 2024|
+ |[ 47582205/24 - Vulnérabilités critiques dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-backup-enterprise-manager)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant Veeam Backup Enterprise Manager.  VBEM est une plateforme web qui permet aux administrateurs de gérer les installations de…| 22 mai 2024|
+ |[ 47572205/24 - Vulnérabilité critique dans les produits GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-github-enterprise-server)| */GitHub a corrigé une vulnérabilité critique «CVE-2024-4985 » de contournement d'authentification qui affecte les instances de GitHub Enterprise Server (GHES) utilisant l'authentification unique…| 22 mai 2024|
+ |[ 47562205/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités afin d’exécuter du code arbitraire, causer un déni de…| 22 mai 2024|
+ |[ 47562205/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-6)| QNAP a publié une mise à jour d'urgence pour corriger un zero-day « CVE-2024-27130 » et quatre autres failles dans les produits NAS susmentionnés. Les détails de la vulnérabilité et un exploit de…| 22 mai 2024|
+ |[ 47552105/24 - Vulnérabilité dans Cisco OpenDNS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-cisco-opendns)| Une vulnérabilité a été corrigée dans  Cisco OpenDNS. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.*/| 21 mai 2024|
  
