@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/05/2024 20:18:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/05/2024 21:21:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,29 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6791-1: Unbound vulnerability](https://www.linux.org/threads/usn-6791-1-unbound-vulnerability.50125/)|Visit link for details.|May 28, 2024|
+ |[USN-6790-1: amavisd-new vulnerability](https://www.linux.org/threads/usn-6790-1-amavisd-new-vulnerability.50124/)|Visit link for details.|May 28, 2024|
+ |[USN-6789-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6789-1-libreoffice-vulnerability.50123/)|Visit link for details.|May 28, 2024|
+ |[USN-6788-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6788-1-webkitgtk-vulnerabilities.50122/)|Visit link for details.|May 28, 2024|
+ |[USN-6786-1: Netatalk vulnerabilities](https://www.linux.org/threads/usn-6786-1-netatalk-vulnerabilities.50119/)|Visit link for details.|May 28, 2024|
+ |[USN-6673-3: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-3-python-cryptography-vulnerability.50114/)|Visit link for details.|May 27, 2024|
+ |[DSA-5699-1 redmine - security update](https://www.linux.org/threads/dsa-5699-1-redmine-security-update.50089/)|Visit link for details.|May 24, 2024|
+ |[DSA-5698-1 ruby-rack - security update](https://www.linux.org/threads/dsa-5698-1-ruby-rack-security-update.50088/)|Visit link for details.|May 24, 2024|
+ |[DSA-5697-1 chromium - security update](https://www.linux.org/threads/dsa-5697-1-chromium-security-update.50087/)|Visit link for details.|May 24, 2024|
+ |[USN-6785-1: GNOME Remote Desktop vulnerability](https://www.linux.org/threads/usn-6785-1-gnome-remote-desktop-vulnerability.50076/)|Visit link for details.|May 23, 2024|
+ |[USN-6784-1: cJSON vulnerabilities](https://www.linux.org/threads/usn-6784-1-cjson-vulnerabilities.50075/)|Visit link for details.|May 23, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 28, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 28, 2024|
  |[Cisco Releases May 2024 Cisco ASA, FMC, and FTD Software Security Publication ](https://www.cisa.gov/news-events/alerts/2024/05/24/cisco-releases-may-2024-cisco-asa-fmc-and-ftd-software-security-publication)|Visit link for details.|May 24, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 23, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 23, 2024|
@@ -41,31 +60,23 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 20, 2024|
  |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
  |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 16, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products)|Visit link for details.|May 15, 2024|
  
 
-# LINUX-SEC
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6786-1: Netatalk vulnerabilities](https://www.linux.org/threads/usn-6786-1-netatalk-vulnerabilities.50119/)|Visit link for details.|May 28, 2024|
- |[USN-6673-3: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-3-python-cryptography-vulnerability.50114/)|Visit link for details.|May 27, 2024|
- |[DSA-5699-1 redmine - security update](https://www.linux.org/threads/dsa-5699-1-redmine-security-update.50089/)|Visit link for details.|May 24, 2024|
- |[DSA-5698-1 ruby-rack - security update](https://www.linux.org/threads/dsa-5698-1-ruby-rack-security-update.50088/)|Visit link for details.|May 24, 2024|
- |[DSA-5697-1 chromium - security update](https://www.linux.org/threads/dsa-5697-1-chromium-security-update.50087/)|Visit link for details.|May 24, 2024|
- |[USN-6785-1: GNOME Remote Desktop vulnerability](https://www.linux.org/threads/usn-6785-1-gnome-remote-desktop-vulnerability.50076/)|Visit link for details.|May 23, 2024|
- |[USN-6784-1: cJSON vulnerabilities](https://www.linux.org/threads/usn-6784-1-cjson-vulnerabilities.50075/)|Visit link for details.|May 23, 2024|
- |[USN-6736-2: klibc vulnerabilities](https://www.linux.org/threads/usn-6736-2-klibc-vulnerabilities.50074/)|Visit link for details.|May 23, 2024|
- |[USN-6777-4: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6777-4-linux-kernel-hwe-vulnerabilities.50073/)|Visit link for details.|May 23, 2024|
- |[USN-6663-3: OpenSSL update](https://www.linux.org/threads/usn-6663-3-openssl-update.50072/)|Visit link for details.|May 23, 2024|
- |[USN-6783-1: VLC vulnerabilities](https://www.linux.org/threads/usn-6783-1-vlc-vulnerabilities.50071/)|Visit link for details.|May 23, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
+ |[VMware - CVE-2024-22273](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22273-2024-05-28)|Visit link for details.|28/05/2024|
+ |[TP-Link - CVE-2024-5035](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-5035-2024-05-28)|Visit link for details.|28/05/2024|
+ |[PMB - CVE-2024-26289](https://www.cyberveille-sante.gouv.fr/alertes/pmb-cve-2024-26289-2024-05-28)|Visit link for details.|28/05/2024|
+ |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|28/05/2024|
+ |[Adobe - CVE-2024-30279](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-30279-2024-05-28)|Visit link for details.|28/05/2024|
+ |[glibc - CVE-2024-2961](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2024-2961-2024-04-22)|Visit link for details.|28/05/2024|
+ |[Google Chrome - CVE-2024-5157](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5157-2024-05-22)|Visit link for details.|28/05/2024|
+ |[Google - CVE-2024-5158](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5158-2024-05-27)|Visit link for details.|28/05/2024|
+ |[Veeam - CVE-2024-29850](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29850-2024-05-27)|Visit link for details.|27/05/2024|
+ |[Ivanti - CVE-2024-29825](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29825-2024-05-27)|Visit link for details.|27/05/2024|
+ |[Ivanti - CVE-2024-22059](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22059-2024-05-27)|Visit link for details.|27/05/2024|
  
 
 # OBS-Vigilance
@@ -74,21 +85,10 @@
  |---|---|---|
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[glibc - CVE-2024-2961](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2024-2961-2024-04-22)|Visit link for details.|28/05/2024|
- |[Google Chrome - CVE-2024-5157](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5157-2024-05-22)|Visit link for details.|28/05/2024|
- |[Google - CVE-2024-5158](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5158-2024-05-27)|Visit link for details.|28/05/2024|
- |[Veeam - CVE-2024-29850](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29850-2024-05-27)|Visit link for details.|27/05/2024|
- |[Ivanti - CVE-2024-29825](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29825-2024-05-27)|Visit link for details.|27/05/2024|
- |[Ivanti - CVE-2024-22059](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22059-2024-05-27)|Visit link for details.|27/05/2024|
- |[D-Link - CVE-2024-5299](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-5299-2024-05-27)|Visit link for details.|27/05/2024|
- |[Netgear - CVE-2024-5247](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-5247-2024-05-23)|Visit link for details.|27/05/2024|
- |[Vulnérabilités dans OpenSSL](https://www.cyberveille-sante.gouv.fr/alertes/vulnerabilites-dans-openssl-2022-09-29-1)|Visit link for details.|27/05/2024|
- |[Multiples vulnérabilités critiques dans Zimbra](https://www.cyberveille-sante.gouv.fr/alertes/multiples-vulnerabilites-critiques-dans-zimbra-2022-08-01)|Visit link for details.|27/05/2024|
- |[Google Chrome - CVE-2024-5274](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5274-2024-05-24)|Visit link for details.|27/05/2024|
  
 
 # HK-CERT
@@ -150,6 +150,23 @@
  |[Ivanti Endpoint Manager RecordBrokenApp SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-508/)|Visit link for details|2024-05-24|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Citrix security advisory (AV24-302)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-302)|Visit link for details|2024-05-28|
+ |[HPE security advisory (AV24-301)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-301)|Visit link for details|2024-05-28|
+ |[Foxit security advisory (AV24-300)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-300)|Visit link for details|2024-05-28|
+ |[Microsoft Edge security advisory (AV24-299)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-299)|Visit link for details|2024-05-28|
+ |[[Control systems] CISA ICS security advisories (AV24-298)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-298)|Visit link for details|2024-05-27|
+ |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
+ |[IBM security advisory (AV24-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-296)|Visit link for details|2024-05-27|
+ |[Ubuntu security advisory (AV24-295)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-295)|Visit link for details|2024-05-27|
+ |[Dell security advisory (AV24-294)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-294)|Visit link for details|2024-05-27|
+ |[Google Chrome security advisory (AV24-293)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-293)|Visit link for details|2024-05-24|
+ |[GitLab security advisory (AV24-292)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-292)|Visit link for details|2024-05-23|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -165,21 +182,4 @@
  |[ 47572205/24 - Vulnérabilité critique dans les produits GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-github-enterprise-server)| */GitHub a corrigé une vulnérabilité critique «CVE-2024-4985 » de contournement d'authentification qui affecte les instances de GitHub Enterprise Server (GHES) utilisant l'authentification unique…| 22 mai 2024|
  |[ 47562205/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités afin d’exécuter du code arbitraire, causer un déni de…| 22 mai 2024|
  |[ 47562205/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-6)| QNAP a publié une mise à jour d'urgence pour corriger un zero-day « CVE-2024-27130 » et quatre autres failles dans les produits NAS susmentionnés. Les détails de la vulnérabilité et un exploit de…| 22 mai 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Foxit security advisory (AV24-300)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-300)|Visit link for details|2024-05-28|
- |[Microsoft Edge security advisory (AV24-299)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-299)|Visit link for details|2024-05-28|
- |[[Control systems] CISA ICS security advisories (AV24-298)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-298)|Visit link for details|2024-05-27|
- |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
- |[IBM security advisory (AV24-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-296)|Visit link for details|2024-05-27|
- |[Ubuntu security advisory (AV24-295)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-295)|Visit link for details|2024-05-27|
- |[Dell security advisory (AV24-294)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-294)|Visit link for details|2024-05-27|
- |[Google Chrome security advisory (AV24-293)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-293)|Visit link for details|2024-05-24|
- |[GitLab security advisory (AV24-292)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-292)|Visit link for details|2024-05-23|
- |[Mitel security advisory (AV24-291)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-291)|Visit link for details|2024-05-23|
- |[HPE security advisory (AV24-290)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-290)|Visit link for details|2024-05-23|
  
