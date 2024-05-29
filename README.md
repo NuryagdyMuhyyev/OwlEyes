@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/05/2024 01:19:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/05/2024 02:16:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,25 +62,6 @@
  |[USN-6787-1: Jinja2 vulnerability](https://www.linux.org/threads/usn-6787-1-jinja2-vulnerability.50127/)|Visit link for details.|May 28, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Db2 on Cloud Pak for Data privilege escalation (CVE-2023-42005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2024|
- |[Campbell Scientific CSI Web Server information disclosure (CVE-2024-5434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[Campbell Scientific CSI Web Server directory traversal (CVE-2024-5433)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[UTAU directory traversal (CVE-2024-32944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[UTAU command execution (CVE-2024-28886)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[Citrix Workspace app for Mac privilege escalation (CVE-2024-5027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -102,6 +77,31 @@
  |[TP-Link - CVE-2024-5035](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-5035-2024-05-28)|Visit link for details.|28/05/2024|
  |[PMB - CVE-2024-26289](https://www.cyberveille-sante.gouv.fr/alertes/pmb-cve-2024-26289-2024-05-28)|Visit link for details.|28/05/2024|
  |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|28/05/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[libigl PlyFile ply_cast_ascii buffer overflow (CVE-2023-49600)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2024|
+ |[IBM Db2 on Cloud Pak for Data privilege escalation (CVE-2023-42005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2024|
+ |[Campbell Scientific CSI Web Server information disclosure (CVE-2024-5434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[Campbell Scientific CSI Web Server directory traversal (CVE-2024-5433)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[UTAU directory traversal (CVE-2024-32944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[UTAU command execution (CVE-2024-28886)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -150,6 +150,23 @@
  |[2024-042: Vulnerability in Cisco Integrated Management Controller](https://cert.europa.eu/publications/security-advisories/2024-042/)|On April 17, 2024, Cisco disclosed vulnerabilities in its Cisco Integrated Management Controller product. |Thursday, April 18, 2024 04:36:20 PM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Check Point security advisory (AV24-305)](https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av24-305)|Visit link for details|2024-05-29|
+ |[Mitel security advisory (AV24-304)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-304)|Visit link for details|2024-05-29|
+ |[Ivanti security advisory (AV24-303)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-303)|Visit link for details|2024-05-29|
+ |[Citrix security advisory (AV24-302)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-302)|Visit link for details|2024-05-28|
+ |[HPE security advisory (AV24-301)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-301)|Visit link for details|2024-05-28|
+ |[Foxit security advisory (AV24-300)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-300)|Visit link for details|2024-05-28|
+ |[Microsoft Edge security advisory (AV24-299)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-299)|Visit link for details|2024-05-28|
+ |[[Control systems] CISA ICS security advisories (AV24-298)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-298)|Visit link for details|2024-05-27|
+ |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
+ |[IBM security advisory (AV24-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-296)|Visit link for details|2024-05-27|
+ |[Ubuntu security advisory (AV24-295)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-295)|Visit link for details|2024-05-27|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -165,21 +182,4 @@
  |[ 47582205/24 - Vulnérabilités critiques dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-backup-enterprise-manager)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant Veeam Backup Enterprise Manager.  VBEM est une plateforme web qui permet aux administrateurs de gérer les installations de…| 22 mai 2024|
  |[ 47572205/24 - Vulnérabilité critique dans les produits GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-github-enterprise-server)| */GitHub a corrigé une vulnérabilité critique «CVE-2024-4985 » de contournement d'authentification qui affecte les instances de GitHub Enterprise Server (GHES) utilisant l'authentification unique…| 22 mai 2024|
  |[ 47562205/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités afin d’exécuter du code arbitraire, causer un déni de…| 22 mai 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Mitel security advisory (AV24-304)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-304)|Visit link for details|2024-05-29|
- |[Ivanti security advisory (AV24-303)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-303)|Visit link for details|2024-05-29|
- |[Citrix security advisory (AV24-302)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-302)|Visit link for details|2024-05-28|
- |[HPE security advisory (AV24-301)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-301)|Visit link for details|2024-05-28|
- |[Foxit security advisory (AV24-300)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-300)|Visit link for details|2024-05-28|
- |[Microsoft Edge security advisory (AV24-299)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-299)|Visit link for details|2024-05-28|
- |[[Control systems] CISA ICS security advisories (AV24-298)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-298)|Visit link for details|2024-05-27|
- |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
- |[IBM security advisory (AV24-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-296)|Visit link for details|2024-05-27|
- |[Ubuntu security advisory (AV24-295)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-295)|Visit link for details|2024-05-27|
- |[Dell security advisory (AV24-294)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-294)|Visit link for details|2024-05-27|
  
