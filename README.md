@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/05/2024 08:20:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/05/2024 09:23:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -81,6 +75,23 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240524)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-4947 and CVE-2024-4761 are being exploited in...|Release Date: 24 May 2024 |
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240524)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild.|Release Date: 24 May 2024 |
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240523)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, security restriction bypass and elevation of privilege on the targeted system.|Release Date: 23 May 2024 |
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware - CVE-2024-22273](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22273-2024-05-28)|Visit link for details.|28/05/2024|
+ |[TP-Link - CVE-2024-5035](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-5035-2024-05-28)|Visit link for details.|28/05/2024|
+ |[PMB - CVE-2024-26289](https://www.cyberveille-sante.gouv.fr/alertes/pmb-cve-2024-26289-2024-05-28)|Visit link for details.|28/05/2024|
+ |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|28/05/2024|
+ |[Adobe - CVE-2024-30279](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-30279-2024-05-28)|Visit link for details.|28/05/2024|
+ |[glibc - CVE-2024-2961](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2024-2961-2024-04-22)|Visit link for details.|28/05/2024|
+ |[Google Chrome - CVE-2024-5157](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5157-2024-05-22)|Visit link for details.|28/05/2024|
+ |[Google - CVE-2024-5158](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5158-2024-05-27)|Visit link for details.|28/05/2024|
+ |[Veeam - CVE-2024-29850](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29850-2024-05-27)|Visit link for details.|27/05/2024|
+ |[Ivanti - CVE-2024-29825](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29825-2024-05-27)|Visit link for details.|27/05/2024|
+ |[Ivanti - CVE-2024-22059](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22059-2024-05-27)|Visit link for details.|27/05/2024|
  
 
 # OBS-Vigilance
@@ -102,52 +113,10 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[VMware - CVE-2024-22273](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22273-2024-05-28)|Visit link for details.|28/05/2024|
- |[TP-Link - CVE-2024-5035](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-5035-2024-05-28)|Visit link for details.|28/05/2024|
- |[PMB - CVE-2024-26289](https://www.cyberveille-sante.gouv.fr/alertes/pmb-cve-2024-26289-2024-05-28)|Visit link for details.|28/05/2024|
- |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|28/05/2024|
- |[Adobe - CVE-2024-30279](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-30279-2024-05-28)|Visit link for details.|28/05/2024|
- |[glibc - CVE-2024-2961](https://www.cyberveille-sante.gouv.fr/alertes/glibc-cve-2024-2961-2024-04-22)|Visit link for details.|28/05/2024|
- |[Google Chrome - CVE-2024-5157](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5157-2024-05-22)|Visit link for details.|28/05/2024|
- |[Google - CVE-2024-5158](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5158-2024-05-27)|Visit link for details.|28/05/2024|
- |[Veeam - CVE-2024-29850](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29850-2024-05-27)|Visit link for details.|27/05/2024|
- |[Ivanti - CVE-2024-29825](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29825-2024-05-27)|Visit link for details.|27/05/2024|
- |[Ivanti - CVE-2024-22059](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-22059-2024-05-27)|Visit link for details.|27/05/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress Software WhatsUp Gold HttpContentActiveController Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-516/)|Visit link for details|2024-05-28|
- |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-515/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-514/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetLogFileRulesNameUniqueSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-513/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetLogFileRulesSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-512/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetRulesetsSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-511/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Citrix security advisory (AV24-302)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-302)|Visit link for details|2024-05-28|
- |[HPE security advisory (AV24-301)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-301)|Visit link for details|2024-05-28|
- |[Foxit security advisory (AV24-300)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-300)|Visit link for details|2024-05-28|
- |[Microsoft Edge security advisory (AV24-299)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-299)|Visit link for details|2024-05-28|
- |[[Control systems] CISA ICS security advisories (AV24-298)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-298)|Visit link for details|2024-05-27|
- |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
- |[IBM security advisory (AV24-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-296)|Visit link for details|2024-05-27|
- |[Ubuntu security advisory (AV24-295)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-295)|Visit link for details|2024-05-27|
- |[Dell security advisory (AV24-294)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-294)|Visit link for details|2024-05-27|
- |[Google Chrome security advisory (AV24-293)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-293)|Visit link for details|2024-05-24|
- |[GitLab security advisory (AV24-292)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-292)|Visit link for details|2024-05-23|
  
 
 # EU-CERT
@@ -182,4 +151,35 @@
  |[ 47572205/24 - Vulnérabilité critique dans les produits GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-github-enterprise-server)| */GitHub a corrigé une vulnérabilité critique «CVE-2024-4985 » de contournement d'authentification qui affecte les instances de GitHub Enterprise Server (GHES) utilisant l'authentification unique…| 22 mai 2024|
  |[ 47562205/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités afin d’exécuter du code arbitraire, causer un déni de…| 22 mai 2024|
  |[ 47562205/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-6)| QNAP a publié une mise à jour d'urgence pour corriger un zero-day « CVE-2024-27130 » et quatre autres failles dans les produits NAS susmentionnés. Les détails de la vulnérabilité et un exploit de…| 22 mai 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress Software WhatsUp Gold HttpContentActiveController Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-516/)|Visit link for details|2024-05-28|
+ |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-515/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-514/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetLogFileRulesNameUniqueSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-513/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetLogFileRulesSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-512/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetRulesetsSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-511/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Citrix security advisory (AV24-302)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-302)|Visit link for details|2024-05-28|
+ |[HPE security advisory (AV24-301)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-301)|Visit link for details|2024-05-28|
+ |[Foxit security advisory (AV24-300)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-300)|Visit link for details|2024-05-28|
+ |[Microsoft Edge security advisory (AV24-299)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-299)|Visit link for details|2024-05-28|
+ |[[Control systems] CISA ICS security advisories (AV24-298)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-298)|Visit link for details|2024-05-27|
+ |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
+ |[IBM security advisory (AV24-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-296)|Visit link for details|2024-05-27|
+ |[Ubuntu security advisory (AV24-295)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-295)|Visit link for details|2024-05-27|
+ |[Dell security advisory (AV24-294)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-294)|Visit link for details|2024-05-27|
+ |[Google Chrome security advisory (AV24-293)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-293)|Visit link for details|2024-05-24|
+ |[GitLab security advisory (AV24-292)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-292)|Visit link for details|2024-05-23|
  
