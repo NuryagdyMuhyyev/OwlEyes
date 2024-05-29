@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/05/2024 12:17:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/05/2024 13:23:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6779-2: Firefox regressions](https://www.linux.org/threads/usn-6779-2-firefox-regressions.50136/)|Visit link for details.|May 29, 2024|
+ |[USN-6795-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6795-1-linux-kernel-intel-iotg-vulnerabilities.50131/)|Visit link for details.|May 28, 2024|
+ |[USN-6792-1: Flask-Security vulnerability](https://www.linux.org/threads/usn-6792-1-flask-security-vulnerability.50130/)|Visit link for details.|May 28, 2024|
+ |[USN-6794-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6794-1-frr-vulnerabilities.50129/)|Visit link for details.|May 28, 2024|
+ |[USN-6793-1: Git vulnerabilities](https://www.linux.org/threads/usn-6793-1-git-vulnerabilities.50128/)|Visit link for details.|May 28, 2024|
+ |[USN-6787-1: Jinja2 vulnerability](https://www.linux.org/threads/usn-6787-1-jinja2-vulnerability.50127/)|Visit link for details.|May 28, 2024|
+ |[USN-6791-1: Unbound vulnerability](https://www.linux.org/threads/usn-6791-1-unbound-vulnerability.50125/)|Visit link for details.|May 28, 2024|
+ |[USN-6790-1: amavisd-new vulnerability](https://www.linux.org/threads/usn-6790-1-amavisd-new-vulnerability.50124/)|Visit link for details.|May 28, 2024|
+ |[USN-6789-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6789-1-libreoffice-vulnerability.50123/)|Visit link for details.|May 28, 2024|
+ |[USN-6788-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6788-1-webkitgtk-vulnerabilities.50122/)|Visit link for details.|May 28, 2024|
+ |[USN-6786-1: Netatalk vulnerabilities](https://www.linux.org/threads/usn-6786-1-netatalk-vulnerabilities.50119/)|Visit link for details.|May 28, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,10 @@
  |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products)|Visit link for details.|May 16, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6795-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6795-1-linux-kernel-intel-iotg-vulnerabilities.50131/)|Visit link for details.|May 28, 2024|
- |[USN-6792-1: Flask-Security vulnerability](https://www.linux.org/threads/usn-6792-1-flask-security-vulnerability.50130/)|Visit link for details.|May 28, 2024|
- |[USN-6794-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6794-1-frr-vulnerabilities.50129/)|Visit link for details.|May 28, 2024|
- |[USN-6793-1: Git vulnerabilities](https://www.linux.org/threads/usn-6793-1-git-vulnerabilities.50128/)|Visit link for details.|May 28, 2024|
- |[USN-6787-1: Jinja2 vulnerability](https://www.linux.org/threads/usn-6787-1-jinja2-vulnerability.50127/)|Visit link for details.|May 28, 2024|
- |[USN-6791-1: Unbound vulnerability](https://www.linux.org/threads/usn-6791-1-unbound-vulnerability.50125/)|Visit link for details.|May 28, 2024|
- |[USN-6790-1: amavisd-new vulnerability](https://www.linux.org/threads/usn-6790-1-amavisd-new-vulnerability.50124/)|Visit link for details.|May 28, 2024|
- |[USN-6789-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6789-1-libreoffice-vulnerability.50123/)|Visit link for details.|May 28, 2024|
- |[USN-6788-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6788-1-webkitgtk-vulnerabilities.50122/)|Visit link for details.|May 28, 2024|
- |[USN-6786-1: Netatalk vulnerabilities](https://www.linux.org/threads/usn-6786-1-netatalk-vulnerabilities.50119/)|Visit link for details.|May 28, 2024|
- |[USN-6673-3: python-cryptography vulnerability](https://www.linux.org/threads/usn-6673-3-python-cryptography-vulnerability.50114/)|Visit link for details.|May 27, 2024|
  
 
 # CERT-SANTE
@@ -85,10 +91,17 @@
  |---|---|---|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Citrix Workspace app for Mac privilege escalation (CVE-2024-5027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[OpenSSL code execution (CVE-2024-4741)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[libigl information disclosure (CVE-2024-24584)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[libigl information disclosure (CVE-2024-24583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[libigl code execution (CVE-2024-22181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[Foxit Reader privilege escalation (CVE-2024-29072)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -106,17 +119,18 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240523)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, security restriction bypass and elevation of privilege on the targeted system.|Release Date: 23 May 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Citrix Workspace app for Mac privilege escalation (CVE-2024-5027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[OpenSSL code execution (CVE-2024-4741)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[libigl information disclosure (CVE-2024-24584)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[libigl information disclosure (CVE-2024-24583)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[libigl code execution (CVE-2024-22181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[Foxit Reader privilege escalation (CVE-2024-29072)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 27, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Progress Software WhatsUp Gold HttpContentActiveController Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-516/)|Visit link for details|2024-05-28|
+ |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-515/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-514/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetLogFileRulesNameUniqueSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-513/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetLogFileRulesSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-512/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetRulesetsSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-511/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
+ |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
  
 
 # EU-CERT
@@ -134,20 +148,6 @@
  |[2024-044: Zero-day Vulnerability in Chrome](https://cert.europa.eu/publications/security-advisories/2024-044/)|On May 15, 2024, Google has released an advisory addressing nine vulnerabilities, including a new zero-day bug identified as "CVE-2024-4947". It has been reported that this vulnerability is being actively exploited. This is the seventh zero-day vulnerability fixed by Google this year.|Thursday, May 16, 2024 01:23:40 PM CEST|
  |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
  |[2024-042: Vulnerability in Cisco Integrated Management Controller](https://cert.europa.eu/publications/security-advisories/2024-042/)|On April 17, 2024, Cisco disclosed vulnerabilities in its Cisco Integrated Management Controller product. |Thursday, April 18, 2024 04:36:20 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress Software WhatsUp Gold HttpContentActiveController Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-516/)|Visit link for details|2024-05-28|
- |[NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-515/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-514/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetLogFileRulesNameUniqueSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-513/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetLogFileRulesSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-512/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetRulesetsSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-511/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetDBPatchProducts SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-510/)|Visit link for details|2024-05-24|
- |[Ivanti Endpoint Manager GetDBPatches SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-509/)|Visit link for details|2024-05-24|
  
 
 # CA-CCS
