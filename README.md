@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/05/2024 18:19:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/05/2024 19:17:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6799-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-6799-1-werkzeug-vulnerability.50144/)|Visit link for details.|May 29, 2024|
- |[USN-6798-1: GStreamer Base Plugins vulnerability](https://www.linux.org/threads/usn-6798-1-gstreamer-base-plugins-vulnerability.50143/)|Visit link for details.|May 29, 2024|
- |[DSA-5700-1 python-pymysql - security update](https://www.linux.org/threads/dsa-5700-1-python-pymysql-security-update.50142/)|Visit link for details.|May 29, 2024|
- |[USN-6796-1: TPM2 Software Stack vulnerabilities](https://www.linux.org/threads/usn-6796-1-tpm2-software-stack-vulnerabilities.50139/)|Visit link for details.|May 29, 2024|
- |[USN-6797-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-6797-1-intel-microcode-vulnerabilities.50138/)|Visit link for details.|May 29, 2024|
- |[USN-6779-2: Firefox regressions](https://www.linux.org/threads/usn-6779-2-firefox-regressions.50136/)|Visit link for details.|May 29, 2024|
- |[USN-6795-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6795-1-linux-kernel-intel-iotg-vulnerabilities.50131/)|Visit link for details.|May 28, 2024|
- |[USN-6792-1: Flask-Security vulnerability](https://www.linux.org/threads/usn-6792-1-flask-security-vulnerability.50130/)|Visit link for details.|May 28, 2024|
- |[USN-6794-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6794-1-frr-vulnerabilities.50129/)|Visit link for details.|May 28, 2024|
- |[USN-6793-1: Git vulnerabilities](https://www.linux.org/threads/usn-6793-1-git-vulnerabilities.50128/)|Visit link for details.|May 28, 2024|
- |[USN-6787-1: Jinja2 vulnerability](https://www.linux.org/threads/usn-6787-1-jinja2-vulnerability.50127/)|Visit link for details.|May 28, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -83,27 +66,21 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240524)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild.|Release Date: 24 May 2024 |
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds - CVE-2024-29000](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29000-2024-05-29)|Visit link for details.|29/05/2024|
- |[Mitel - CVE-2024-35285](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35285-2024-05-29)|Visit link for details.|29/05/2024|
- |[FOG - CVE-2024-34477](https://www.cyberveille-sante.gouv.fr/alertes/fog-cve-2024-34477-2024-05-29)|Visit link for details.|29/05/2024|
- |[Citrix - CVE-2024-5027](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-5027-2024-05-29)|Visit link for details.|29/05/2024|
- |[CheckPoint Security - CVE-2024-24919](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-24919-2024-05-29)|Visit link for details.|29/05/2024|
- |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|29/05/2024|
- |[Fortinet - CVE-2024-23108](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23108-2024-02-06)|Visit link for details.|29/05/2024|
- |[VMware - CVE-2024-22273](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22273-2024-05-28)|Visit link for details.|28/05/2024|
- |[TP-Link - CVE-2024-5035](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-5035-2024-05-28)|Visit link for details.|28/05/2024|
- |[PMB - CVE-2024-26289](https://www.cyberveille-sante.gouv.fr/alertes/pmb-cve-2024-26289-2024-05-28)|Visit link for details.|28/05/2024|
- |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|28/05/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[USN-6799-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-6799-1-werkzeug-vulnerability.50144/)|Visit link for details.|May 29, 2024|
+ |[USN-6798-1: GStreamer Base Plugins vulnerability](https://www.linux.org/threads/usn-6798-1-gstreamer-base-plugins-vulnerability.50143/)|Visit link for details.|May 29, 2024|
+ |[DSA-5700-1 python-pymysql - security update](https://www.linux.org/threads/dsa-5700-1-python-pymysql-security-update.50142/)|Visit link for details.|May 29, 2024|
+ |[USN-6796-1: TPM2 Software Stack vulnerabilities](https://www.linux.org/threads/usn-6796-1-tpm2-software-stack-vulnerabilities.50139/)|Visit link for details.|May 29, 2024|
+ |[USN-6797-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-6797-1-intel-microcode-vulnerabilities.50138/)|Visit link for details.|May 29, 2024|
+ |[USN-6779-2: Firefox regressions](https://www.linux.org/threads/usn-6779-2-firefox-regressions.50136/)|Visit link for details.|May 29, 2024|
+ |[USN-6795-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6795-1-linux-kernel-intel-iotg-vulnerabilities.50131/)|Visit link for details.|May 28, 2024|
+ |[USN-6792-1: Flask-Security vulnerability](https://www.linux.org/threads/usn-6792-1-flask-security-vulnerability.50130/)|Visit link for details.|May 28, 2024|
+ |[USN-6794-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6794-1-frr-vulnerabilities.50129/)|Visit link for details.|May 28, 2024|
+ |[USN-6793-1: Git vulnerabilities](https://www.linux.org/threads/usn-6793-1-git-vulnerabilities.50128/)|Visit link for details.|May 28, 2024|
+ |[USN-6787-1: Jinja2 vulnerability](https://www.linux.org/threads/usn-6787-1-jinja2-vulnerability.50127/)|Visit link for details.|May 28, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -133,6 +110,29 @@
  |[Progress Software Telerik Reporting ValidateMetadaUri XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-518/)|Visit link for details|2024-05-29|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2024-29000](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29000-2024-05-29)|Visit link for details.|29/05/2024|
+ |[Mitel - CVE-2024-35285](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35285-2024-05-29)|Visit link for details.|29/05/2024|
+ |[FOG - CVE-2024-34477](https://www.cyberveille-sante.gouv.fr/alertes/fog-cve-2024-34477-2024-05-29)|Visit link for details.|29/05/2024|
+ |[Citrix - CVE-2024-5027](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-5027-2024-05-29)|Visit link for details.|29/05/2024|
+ |[CheckPoint Security - CVE-2024-24919](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-24919-2024-05-29)|Visit link for details.|29/05/2024|
+ |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|29/05/2024|
+ |[Fortinet - CVE-2024-23108](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23108-2024-02-06)|Visit link for details.|29/05/2024|
+ |[VMware - CVE-2024-22273](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22273-2024-05-28)|Visit link for details.|28/05/2024|
+ |[TP-Link - CVE-2024-5035](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-5035-2024-05-28)|Visit link for details.|28/05/2024|
+ |[PMB - CVE-2024-26289](https://www.cyberveille-sante.gouv.fr/alertes/pmb-cve-2024-26289-2024-05-28)|Visit link for details.|28/05/2024|
+ |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|28/05/2024|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -150,23 +150,6 @@
  |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Check Point security advisory (AV24-305)](https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av24-305)|Visit link for details|2024-05-29|
- |[Mitel security advisory (AV24-304)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-304)|Visit link for details|2024-05-29|
- |[Ivanti security advisory (AV24-303)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-303)|Visit link for details|2024-05-29|
- |[Citrix security advisory (AV24-302)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-302)|Visit link for details|2024-05-28|
- |[HPE security advisory (AV24-301)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-301)|Visit link for details|2024-05-28|
- |[Foxit security advisory (AV24-300)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-300)|Visit link for details|2024-05-28|
- |[Microsoft Edge security advisory (AV24-299)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-299)|Visit link for details|2024-05-28|
- |[[Control systems] CISA ICS security advisories (AV24-298)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-298)|Visit link for details|2024-05-27|
- |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
- |[IBM security advisory (AV24-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-296)|Visit link for details|2024-05-27|
- |[Ubuntu security advisory (AV24-295)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-295)|Visit link for details|2024-05-27|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -182,4 +165,21 @@
  |[ 47592305/24 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter…| 23 mai 2024|
  |[ 47582205/24 - Vulnérabilités critiques dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-backup-enterprise-manager)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant Veeam Backup Enterprise Manager.  VBEM est une plateforme web qui permet aux administrateurs de gérer les installations de…| 22 mai 2024|
  |[ 47572205/24 - Vulnérabilité critique dans les produits GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-github-enterprise-server)| */GitHub a corrigé une vulnérabilité critique «CVE-2024-4985 » de contournement d'authentification qui affecte les instances de GitHub Enterprise Server (GHES) utilisant l'authentification unique…| 22 mai 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Check Point security advisory (AV24-305)](https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av24-305)|Visit link for details|2024-05-29|
+ |[Mitel security advisory (AV24-304)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-304)|Visit link for details|2024-05-29|
+ |[Ivanti security advisory (AV24-303)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-303)|Visit link for details|2024-05-29|
+ |[Citrix security advisory (AV24-302)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-302)|Visit link for details|2024-05-28|
+ |[HPE security advisory (AV24-301)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-301)|Visit link for details|2024-05-28|
+ |[Foxit security advisory (AV24-300)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-300)|Visit link for details|2024-05-28|
+ |[Microsoft Edge security advisory (AV24-299)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-299)|Visit link for details|2024-05-28|
+ |[[Control systems] CISA ICS security advisories (AV24-298)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-298)|Visit link for details|2024-05-27|
+ |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
+ |[IBM security advisory (AV24-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-296)|Visit link for details|2024-05-27|
+ |[Ubuntu security advisory (AV24-295)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-295)|Visit link for details|2024-05-27|
  
