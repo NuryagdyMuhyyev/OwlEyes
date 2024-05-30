@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/05/2024 20:19:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/05/2024 21:22:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,12 @@
  |[USN-6787-1: Jinja2 vulnerability](https://www.linux.org/threads/usn-6787-1-jinja2-vulnerability.50127/)|Visit link for details.|May 28, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +66,12 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 23, 2024|
  |[Rockwell Automation Encourages Customers to Assess and Secure Public-Internet-Exposed Assets](https://www.cisa.gov/news-events/alerts/2024/05/21/rockwell-automation-encourages-customers-assess-and-secure-public-internet-exposed-assets)|Visit link for details.|May 21, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 21, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
@@ -77,18 +89,6 @@
  |[FOG - CVE-2024-34477](https://www.cyberveille-sante.gouv.fr/alertes/fog-cve-2024-34477-2024-05-29)|Visit link for details.|29/05/2024|
  |[Citrix - CVE-2024-5027](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-5027-2024-05-29)|Visit link for details.|29/05/2024|
  |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|29/05/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
