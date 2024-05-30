@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/05/2024 16:14:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/05/2024 17:34:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,33 +62,6 @@
  |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Check Point Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/check-point-products-information-disclosure-vulnerability_20240530)|A vulnerability was identified in Check Point Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:The vulnerability CVE-2024-24919 is being used in scattered exploit. The vulnerability potentially allows an attacker to...|Release Date: 30 May 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-05...| Release Date: 2 May 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-05...| Release Date: 2 May 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240528)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system. Note:No patch is currently available for CVE-2022-43680 of some of the affected products.No...|Release Date: 28 May 2024 |
- |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240528)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, sensitive information disclosure and security restriction bypass on the targeted system.Note:No patch is currently available for CVE-2024-5273 of...|Release Date: 28 May 2024 |
- |[TP-Link Router Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/tp-link-router-remote-code-execution-vulnerabilities_20240528)|A vulnerability were identified in TP-Link router. A remote attacker could exploit this vulnerability to trigger remote code execution and elevation of privilege on the targeted system.|Release Date: 28 May 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240527)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2024-5274 is being exploited in the wild.|Release Date: 27 May 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240524)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-4947 and CVE-2024-4761 are being exploited in...|Release Date: 24 May 2024 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240524)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild.|Release Date: 24 May 2024 |
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -106,17 +79,44 @@
  |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|28/05/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[IBM Aspera Console information disclosure (CVE-2022-43841)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 29, 2024|
+ |[IBM Aspera Console cross-site scripting (CVE-2022-43575)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 29, 2024|
+ |[IBM Aspera Console cross-site scripting (CVE-2022-43384)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 29, 2024|
  |[A10 Thunder ADC privilege escalation (CVE-2024-30369)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2024|
  |[F5 NGINX Plus and NGINX Open Source denial of service (CVE-2024-31079)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2024|
  |[F5 NGINX Plus and NGINX Open Source denial of service (CVE-2024-35200)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2024|
- |[F5 NGINX Plus and NGINX Open Source information disclousre (CVE-2024-34161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2024|
- |[F5 NGINX Plus and NGINX Open Source denial of service (CVE-2024-32760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2024|
- |[libigl PlyFile ply_cast_ascii buffer overflow (CVE-2023-49600)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 28, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Check Point Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/check-point-products-information-disclosure-vulnerability_20240530)|A vulnerability was identified in Check Point Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:The vulnerability CVE-2024-24919 is being used in scattered exploit. The vulnerability potentially allows an attacker to...|Release Date: 30 May 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-05...| Release Date: 2 May 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-05...| Release Date: 2 May 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240528)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system. Note:No patch is currently available for CVE-2022-43680 of some of the affected products.No...|Release Date: 28 May 2024 |
+ |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240528)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, sensitive information disclosure and security restriction bypass on the targeted system.Note:No patch is currently available for CVE-2024-5273 of...|Release Date: 28 May 2024 |
+ |[TP-Link Router Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/tp-link-router-remote-code-execution-vulnerabilities_20240528)|A vulnerability were identified in TP-Link router. A remote attacker could exploit this vulnerability to trigger remote code execution and elevation of privilege on the targeted system.|Release Date: 28 May 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240527)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2024-5274 is being exploited in the wild.|Release Date: 27 May 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240524)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-4947 and CVE-2024-4761 are being exploited in...|Release Date: 24 May 2024 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20240524)|A vulnerability has been identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild.|Release Date: 24 May 2024 |
  
 
 # EU-CERT
@@ -136,23 +136,6 @@
  |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47663005/24 - Zero Day affectant des produits Check Point ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-des-produits-check-point)| Un zero-day critique affectant plusieurs produits de Check Point a été corrigé. Selon Check Point, cette vulnérabilité qui affecte particulièrement l’accès VPN à ses produits vulnérables est…| 30 mai 2024|
- |[ 47652905/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge-0)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge.  L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de prendre le contrôle du…| 29 mai 2024|
- |[ 47642805/24 - Vulnérabilités critiques dans Cacti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-cacti)| Des vulnérabilités critiques ont été corrigées dans Cacti. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges ou de…| 28 mai 2024|
- |[ 47642805/24 - Vulnérabilité critique corrigée dans les produits TP-Link ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-corrigee-dans-les-produits-tp-link)| TP-Link a corrigé une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant distant non authentifié d'exécuter des…| 28 mai 2024|
- |[ 47632705/24 - Zero-day critique corrigée dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-critique-corrigee-dans-google-chrome-0)| Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2024-5274». L’exploitation de cette faille peut permettre à un attaquant…| 27 mai 2024|
- |[ 47622705/24 - Vulnérabilités critiques dans les plugins WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-plugins-wordpress)| Plusieurs vulnérabilités critiques ont été corrigées dans les plugins du CMS WordPress  susmentionnés. Un attaquant pourrait exploiter ces failles afin de télécharger des fichiers arbitraires sur un…| 27 mai 2024|
- |[ 47612305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 23 mai 2024|
- |[ 47602305/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 23 mai 2024|
- |[ 47592305/24 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter…| 23 mai 2024|
- |[ 47582205/24 - Vulnérabilités critiques dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-backup-enterprise-manager)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant Veeam Backup Enterprise Manager.  VBEM est une plateforme web qui permet aux administrateurs de gérer les installations de…| 22 mai 2024|
- |[ 47572205/24 - Vulnérabilité critique dans les produits GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-github-enterprise-server)| */GitHub a corrigé une vulnérabilité critique «CVE-2024-4985 » de contournement d'authentification qui affecte les instances de GitHub Enterprise Server (GHES) utilisant l'authentification unique…| 22 mai 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -168,6 +151,23 @@
  |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
  |[IBM security advisory (AV24-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-296)|Visit link for details|2024-05-27|
  |[Ubuntu security advisory (AV24-295)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-295)|Visit link for details|2024-05-27|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47663005/24 - Zero Day affectant des produits Check Point ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-des-produits-check-point)| Un zero-day critique affectant plusieurs produits de Check Point a été corrigé. Selon Check Point, cette vulnérabilité qui affecte particulièrement l’accès VPN à ses produits vulnérables est…| 30 mai 2024|
+ |[ 47652905/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge-0)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge.  L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de prendre le contrôle du…| 29 mai 2024|
+ |[ 47642805/24 - Vulnérabilités critiques dans Cacti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-cacti)| Des vulnérabilités critiques ont été corrigées dans Cacti. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges ou de…| 28 mai 2024|
+ |[ 47642805/24 - Vulnérabilité critique corrigée dans les produits TP-Link ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-corrigee-dans-les-produits-tp-link)| TP-Link a corrigé une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant distant non authentifié d'exécuter des…| 28 mai 2024|
+ |[ 47632705/24 - Zero-day critique corrigée dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-critique-corrigee-dans-google-chrome-0)| Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2024-5274». L’exploitation de cette faille peut permettre à un attaquant…| 27 mai 2024|
+ |[ 47622705/24 - Vulnérabilités critiques dans les plugins WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-plugins-wordpress)| Plusieurs vulnérabilités critiques ont été corrigées dans les plugins du CMS WordPress  susmentionnés. Un attaquant pourrait exploiter ces failles afin de télécharger des fichiers arbitraires sur un…| 27 mai 2024|
+ |[ 47612305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 23 mai 2024|
+ |[ 47602305/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 23 mai 2024|
+ |[ 47592305/24 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter…| 23 mai 2024|
+ |[ 47582205/24 - Vulnérabilités critiques dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-backup-enterprise-manager)| Veeam annonce la correction de plusieurs vulnérabilités critiques affectant Veeam Backup Enterprise Manager.  VBEM est une plateforme web qui permet aux administrateurs de gérer les installations de…| 22 mai 2024|
+ |[ 47572205/24 - Vulnérabilité critique dans les produits GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-github-enterprise-server)| */GitHub a corrigé une vulnérabilité critique «CVE-2024-4985 » de contournement d'authentification qui affecte les instances de GitHub Enterprise Server (GHES) utilisant l'authentification unique…| 22 mai 2024|
  
 
 # ZERODAYINITIATIVE
