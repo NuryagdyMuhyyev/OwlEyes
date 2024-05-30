@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/05/2024 12:17:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/05/2024 13:23:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Releases Seventeen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-releases-seventeen-industrial-control-systems-advisories)|Visit link for details.|May 16, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,12 +66,6 @@
  |[USN-6794-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6794-1-frr-vulnerabilities.50129/)|Visit link for details.|May 28, 2024|
  |[USN-6793-1: Git vulnerabilities](https://www.linux.org/threads/usn-6793-1-git-vulnerabilities.50128/)|Visit link for details.|May 28, 2024|
  |[USN-6787-1: Jinja2 vulnerability](https://www.linux.org/threads/usn-6787-1-jinja2-vulnerability.50127/)|Visit link for details.|May 28, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -100,20 +100,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[A10 Thunder ADC Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-525/)|Visit link for details|2024-05-29|
- |[A10 Thunder ADC CsrRequestView Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-524/)|Visit link for details|2024-05-29|
- |[Phoenix Contact CHARX SEC-3100 Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-523/)|Visit link for details|2024-05-29|
- |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Filename Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-522/)|Visit link for details|2024-05-29|
- |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 OCPP charx_pack_logs Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-521/)|Visit link for details|2024-05-29|
- |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Missing Encryption Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-520/)|Visit link for details|2024-05-29|
- |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Untrusted Search Path Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-519/)|Visit link for details|2024-05-29|
- |[Progress Software Telerik Reporting ValidateMetadaUri XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-518/)|Visit link for details|2024-05-29|
  
 
 # CERT-SANTE
@@ -182,4 +168,18 @@
  |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
  |[IBM security advisory (AV24-296)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-296)|Visit link for details|2024-05-27|
  |[Ubuntu security advisory (AV24-295)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-295)|Visit link for details|2024-05-27|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[A10 Thunder ADC Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-525/)|Visit link for details|2024-05-29|
+ |[A10 Thunder ADC CsrRequestView Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-524/)|Visit link for details|2024-05-29|
+ |[Phoenix Contact CHARX SEC-3100 Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-523/)|Visit link for details|2024-05-29|
+ |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Filename Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-522/)|Visit link for details|2024-05-29|
+ |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 OCPP charx_pack_logs Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-521/)|Visit link for details|2024-05-29|
+ |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Missing Encryption Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-520/)|Visit link for details|2024-05-29|
+ |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Untrusted Search Path Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-519/)|Visit link for details|2024-05-29|
+ |[Progress Software Telerik Reporting ValidateMetadaUri XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-518/)|Visit link for details|2024-05-29|
  
