@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/05/2024 21:22:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/05/2024 22:16:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6804-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6804-1-gnu-c-library-vulnerabilities.50168/)|Visit link for details.|May 31, 2024|
  |[USN-6803-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6803-1-ffmpeg-vulnerabilities.50158/)|Visit link for details.|May 30, 2024|
  |[USN-6802-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6802-1-postgresql-vulnerability.50155/)|Visit link for details.|May 30, 2024|
  |[USN-6801-1: PyMySQL vulnerability](https://www.linux.org/threads/usn-6801-1-pymysql-vulnerability.50154/)|Visit link for details.|May 30, 2024|
@@ -59,62 +60,12 @@
  |[USN-6796-1: TPM2 Software Stack vulnerabilities](https://www.linux.org/threads/usn-6796-1-tpm2-software-stack-vulnerabilities.50139/)|Visit link for details.|May 29, 2024|
  |[USN-6797-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-6797-1-intel-microcode-vulnerabilities.50138/)|Visit link for details.|May 29, 2024|
  |[USN-6779-2: Firefox regressions](https://www.linux.org/threads/usn-6779-2-firefox-regressions.50136/)|Visit link for details.|May 29, 2024|
- |[USN-6795-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6795-1-linux-kernel-intel-iotg-vulnerabilities.50131/)|Visit link for details.|May 28, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 31 May 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024...| Release Date: 2 May 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 5 Apr 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024...| Release Date: 2 Apr 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being exploited...| Release Date: 2 Apr 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 18 Mar 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being exploited...| Release Date: 1 Mar 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 8 Feb 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being...| Release Date: 7 Feb 2024 |
- |[Check Point Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/check-point-products-information-disclosure-vulnerability_20240530)|A vulnerability was identified in Check Point Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:The vulnerability CVE-2024-24919 is being used in scattered exploit. The vulnerability potentially allows an attacker to...|Release Date: 30 May 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome code execution (CVE-2024-5499)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
- |[Google Chrome code execution (CVE-2024-5498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
- |[Google Chrome code execution (CVE-2024-5497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
- |[Google Chrome code execution (CVE-2024-5496)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
- |[Google Chrome code execution (CVE-2024-5495)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
- |[Google Chrome buffer overflow (CVE-2024-5493)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Fuji Electric Alpha5 C5V File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-537/)|Visit link for details|2024-05-31|
- |[Fuji Electric Alpha5 C5V File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-536/)|Visit link for details|2024-05-31|
- |[Fuji Electric Monitouch V-SFT V9C File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-535/)|Visit link for details|2024-05-31|
- |[Fuji Electric Monitouch V-SFT V9C File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-534/)|Visit link for details|2024-05-31|
- |[Fuji Electric Monitouch V-SFT V9C File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-533/)|Visit link for details|2024-05-31|
- |[Fuji Electric Monitouch V-SFT V10 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-532/)|Visit link for details|2024-05-31|
- |[Fuji Electric Monitouch V-SFT V9C File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-531/)|Visit link for details|2024-05-31|
- |[Fuji Electric Monitouch V-SFT V9C File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-530/)|Visit link for details|2024-05-31|
  
 
 # CERT-SANTE
@@ -134,6 +85,12 @@
  |[Linux - CVE-2024-36016](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-36016-2024-05-30)|Visit link for details.|30/05/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -151,6 +108,35 @@
  |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome code execution (CVE-2024-5499)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
+ |[Google Chrome code execution (CVE-2024-5498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
+ |[Google Chrome code execution (CVE-2024-5497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
+ |[Google Chrome code execution (CVE-2024-5496)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
+ |[Google Chrome code execution (CVE-2024-5495)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
+ |[Google Chrome buffer overflow (CVE-2024-5493)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 31 May 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024...| Release Date: 2 May 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 5 Apr 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024...| Release Date: 2 Apr 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being exploited...| Release Date: 2 Apr 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 18 Mar 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240301)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being exploited...| Release Date: 1 Mar 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240208)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 8 Feb 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240207)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being...| Release Date: 7 Feb 2024 |
+ |[Check Point Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/check-point-products-information-disclosure-vulnerability_20240530)|A vulnerability was identified in Check Point Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:The vulnerability CVE-2024-24919 is being used in scattered exploit. The vulnerability potentially allows an attacker to...|Release Date: 30 May 2024 |
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -166,6 +152,20 @@
  |[ 47612305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 23 mai 2024|
  |[ 47602305/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 23 mai 2024|
  |[ 47592305/24 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter…| 23 mai 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Luxion KeyShot Viewer KSP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-541/)|Visit link for details|2024-05-31|
+ |[Luxion KeyShot BIP File Parsing Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-540/)|Visit link for details|2024-05-31|
+ |[Luxion KeyShot Viewer KSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-539/)|Visit link for details|2024-05-31|
+ |[Luxion KeyShot Viewer KSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-538/)|Visit link for details|2024-05-31|
+ |[Fuji Electric Alpha5 C5V File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-537/)|Visit link for details|2024-05-31|
+ |[Fuji Electric Alpha5 C5V File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-536/)|Visit link for details|2024-05-31|
+ |[Fuji Electric Monitouch V-SFT V9C File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-535/)|Visit link for details|2024-05-31|
+ |[Fuji Electric Monitouch V-SFT V9C File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-534/)|Visit link for details|2024-05-31|
  
 
 # CA-CCS
