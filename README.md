@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/05/2024 07:32:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/05/2024 08:20:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 21, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6803-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6803-1-ffmpeg-vulnerabilities.50158/)|Visit link for details.|May 30, 2024|
- |[USN-6802-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6802-1-postgresql-vulnerability.50155/)|Visit link for details.|May 30, 2024|
- |[USN-6801-1: PyMySQL vulnerability](https://www.linux.org/threads/usn-6801-1-pymysql-vulnerability.50154/)|Visit link for details.|May 30, 2024|
- |[USN-6800-1: browserify-sign vulnerability](https://www.linux.org/threads/usn-6800-1-browserify-sign-vulnerability.50153/)|Visit link for details.|May 30, 2024|
- |[USN-6799-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-6799-1-werkzeug-vulnerability.50144/)|Visit link for details.|May 29, 2024|
- |[USN-6798-1: GStreamer Base Plugins vulnerability](https://www.linux.org/threads/usn-6798-1-gstreamer-base-plugins-vulnerability.50143/)|Visit link for details.|May 29, 2024|
- |[DSA-5700-1 python-pymysql - security update](https://www.linux.org/threads/dsa-5700-1-python-pymysql-security-update.50142/)|Visit link for details.|May 29, 2024|
- |[USN-6796-1: TPM2 Software Stack vulnerabilities](https://www.linux.org/threads/usn-6796-1-tpm2-software-stack-vulnerabilities.50139/)|Visit link for details.|May 29, 2024|
- |[USN-6797-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-6797-1-intel-microcode-vulnerabilities.50138/)|Visit link for details.|May 29, 2024|
- |[USN-6779-2: Firefox regressions](https://www.linux.org/threads/usn-6779-2-firefox-regressions.50136/)|Visit link for details.|May 29, 2024|
- |[USN-6795-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6795-1-linux-kernel-intel-iotg-vulnerabilities.50131/)|Visit link for details.|May 28, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -85,6 +68,12 @@
  |[GitLab - CVE-2023-6371](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2023-6371-2024-03-28)|Visit link for details.|29/05/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -101,12 +90,6 @@
  |[Check Point Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/check-point-products-information-disclosure-vulnerability_20240530)|A vulnerability was identified in Check Point Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:The vulnerability CVE-2024-24919 is being used in scattered exploit. The vulnerability potentially allows an attacker to...|Release Date: 30 May 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -120,18 +103,21 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) VMware Workstation VBluetoothHCI_PacketOut Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-526/)|Visit link for details|2024-05-30|
- |[A10 Thunder ADC Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-525/)|Visit link for details|2024-05-29|
- |[A10 Thunder ADC CsrRequestView Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-524/)|Visit link for details|2024-05-29|
- |[Phoenix Contact CHARX SEC-3100 Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-523/)|Visit link for details|2024-05-29|
- |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Filename Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-522/)|Visit link for details|2024-05-29|
- |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 OCPP charx_pack_logs Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-521/)|Visit link for details|2024-05-29|
- |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Missing Encryption Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-520/)|Visit link for details|2024-05-29|
- |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Untrusted Search Path Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-519/)|Visit link for details|2024-05-29|
+ |[USN-6803-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6803-1-ffmpeg-vulnerabilities.50158/)|Visit link for details.|May 30, 2024|
+ |[USN-6802-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6802-1-postgresql-vulnerability.50155/)|Visit link for details.|May 30, 2024|
+ |[USN-6801-1: PyMySQL vulnerability](https://www.linux.org/threads/usn-6801-1-pymysql-vulnerability.50154/)|Visit link for details.|May 30, 2024|
+ |[USN-6800-1: browserify-sign vulnerability](https://www.linux.org/threads/usn-6800-1-browserify-sign-vulnerability.50153/)|Visit link for details.|May 30, 2024|
+ |[USN-6799-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-6799-1-werkzeug-vulnerability.50144/)|Visit link for details.|May 29, 2024|
+ |[USN-6798-1: GStreamer Base Plugins vulnerability](https://www.linux.org/threads/usn-6798-1-gstreamer-base-plugins-vulnerability.50143/)|Visit link for details.|May 29, 2024|
+ |[DSA-5700-1 python-pymysql - security update](https://www.linux.org/threads/dsa-5700-1-python-pymysql-security-update.50142/)|Visit link for details.|May 29, 2024|
+ |[USN-6796-1: TPM2 Software Stack vulnerabilities](https://www.linux.org/threads/usn-6796-1-tpm2-software-stack-vulnerabilities.50139/)|Visit link for details.|May 29, 2024|
+ |[USN-6797-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-6797-1-intel-microcode-vulnerabilities.50138/)|Visit link for details.|May 29, 2024|
+ |[USN-6779-2: Firefox regressions](https://www.linux.org/threads/usn-6779-2-firefox-regressions.50136/)|Visit link for details.|May 29, 2024|
+ |[USN-6795-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-6795-1-linux-kernel-intel-iotg-vulnerabilities.50131/)|Visit link for details.|May 28, 2024|
  
 
 # EU-CERT
@@ -149,6 +135,20 @@
  |[2024-045: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-045/)|On May 16, 2024, Microsoft addressed 61 vulnerabilities in its May 2024 Patch Tuesday update, including two actively exploited zero-days. This Patch Tuesday also fixes one critical vulnerability, a Microsoft SharePoint Server Remote Code Execution Vulnerability.|Thursday, May 16, 2024 04:06:48 PM CEST|
  |[2024-044: Zero-day Vulnerability in Chrome](https://cert.europa.eu/publications/security-advisories/2024-044/)|On May 15, 2024, Google has released an advisory addressing nine vulnerabilities, including a new zero-day bug identified as "CVE-2024-4947". It has been reported that this vulnerability is being actively exploited. This is the seventh zero-day vulnerability fixed by Google this year.|Thursday, May 16, 2024 01:23:40 PM CEST|
  |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) VMware Workstation VBluetoothHCI_PacketOut Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-526/)|Visit link for details|2024-05-30|
+ |[A10 Thunder ADC Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-525/)|Visit link for details|2024-05-29|
+ |[A10 Thunder ADC CsrRequestView Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-524/)|Visit link for details|2024-05-29|
+ |[Phoenix Contact CHARX SEC-3100 Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-523/)|Visit link for details|2024-05-29|
+ |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Filename Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-522/)|Visit link for details|2024-05-29|
+ |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 OCPP charx_pack_logs Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-521/)|Visit link for details|2024-05-29|
+ |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Missing Encryption Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-520/)|Visit link for details|2024-05-29|
+ |[(Pwn2Own) Phoenix Contact CHARX SEC-3100 Untrusted Search Path Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-519/)|Visit link for details|2024-05-29|
  
 
 # CA-CCS
