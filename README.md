@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/06/2024 10:18:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/06/2024 11:23:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5701-1 chromium - security update](https://www.linux.org/threads/dsa-5701-1-chromium-security-update.50171/)|Visit link for details.|May 31, 2024|
- |[USN-6804-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6804-1-gnu-c-library-vulnerabilities.50168/)|Visit link for details.|May 31, 2024|
- |[USN-6803-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6803-1-ffmpeg-vulnerabilities.50158/)|Visit link for details.|May 30, 2024|
- |[USN-6802-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6802-1-postgresql-vulnerability.50155/)|Visit link for details.|May 30, 2024|
- |[USN-6801-1: PyMySQL vulnerability](https://www.linux.org/threads/usn-6801-1-pymysql-vulnerability.50154/)|Visit link for details.|May 30, 2024|
- |[USN-6800-1: browserify-sign vulnerability](https://www.linux.org/threads/usn-6800-1-browserify-sign-vulnerability.50153/)|Visit link for details.|May 30, 2024|
- |[USN-6799-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-6799-1-werkzeug-vulnerability.50144/)|Visit link for details.|May 29, 2024|
- |[USN-6798-1: GStreamer Base Plugins vulnerability](https://www.linux.org/threads/usn-6798-1-gstreamer-base-plugins-vulnerability.50143/)|Visit link for details.|May 29, 2024|
- |[DSA-5700-1 python-pymysql - security update](https://www.linux.org/threads/dsa-5700-1-python-pymysql-security-update.50142/)|Visit link for details.|May 29, 2024|
- |[USN-6796-1: TPM2 Software Stack vulnerabilities](https://www.linux.org/threads/usn-6796-1-tpm2-software-stack-vulnerabilities.50139/)|Visit link for details.|May 29, 2024|
- |[USN-6797-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-6797-1-intel-microcode-vulnerabilities.50138/)|Visit link for details.|May 29, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,10 +45,21 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 21, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5701-1 chromium - security update](https://www.linux.org/threads/dsa-5701-1-chromium-security-update.50171/)|Visit link for details.|May 31, 2024|
+ |[USN-6804-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6804-1-gnu-c-library-vulnerabilities.50168/)|Visit link for details.|May 31, 2024|
+ |[USN-6803-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6803-1-ffmpeg-vulnerabilities.50158/)|Visit link for details.|May 30, 2024|
+ |[USN-6802-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6802-1-postgresql-vulnerability.50155/)|Visit link for details.|May 30, 2024|
+ |[USN-6801-1: PyMySQL vulnerability](https://www.linux.org/threads/usn-6801-1-pymysql-vulnerability.50154/)|Visit link for details.|May 30, 2024|
+ |[USN-6800-1: browserify-sign vulnerability](https://www.linux.org/threads/usn-6800-1-browserify-sign-vulnerability.50153/)|Visit link for details.|May 30, 2024|
+ |[USN-6799-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-6799-1-werkzeug-vulnerability.50144/)|Visit link for details.|May 29, 2024|
+ |[USN-6798-1: GStreamer Base Plugins vulnerability](https://www.linux.org/threads/usn-6798-1-gstreamer-base-plugins-vulnerability.50143/)|Visit link for details.|May 29, 2024|
+ |[DSA-5700-1 python-pymysql - security update](https://www.linux.org/threads/dsa-5700-1-python-pymysql-security-update.50142/)|Visit link for details.|May 29, 2024|
+ |[USN-6796-1: TPM2 Software Stack vulnerabilities](https://www.linux.org/threads/usn-6796-1-tpm2-software-stack-vulnerabilities.50139/)|Visit link for details.|May 29, 2024|
+ |[USN-6797-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-6797-1-intel-microcode-vulnerabilities.50138/)|Visit link for details.|May 29, 2024|
  
 
 # CERT-SANTE
@@ -91,17 +85,10 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Sonos Era 100 smart speakers code execution (CVE-2024-5269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Sonos Era 100 smart speakers information disclosure (CVE-2024-5268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Sonos Era 100 smart speakers information disclosure (CVE-2024-5256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Sonos Era 100 smart speakers code execution (CVE-2024-5267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Luxion KeyShot Viewer code execution (CVE-2024-5509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Luxion KeyShot Viewer code execution (CVE-2024-5508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -120,18 +107,17 @@
  |[Check Point Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/check-point-products-information-disclosure-vulnerability_20240530)|A vulnerability was identified in Check Point Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:The vulnerability CVE-2024-24919 is being used in scattered exploit. The vulnerability potentially allows an attacker to...|Release Date: 30 May 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Canon imageCLASS MF753Cdw setResource Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-562/)|Visit link for details|2024-05-31|
- |[Progress Software Telerik Reporting Register Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-561/)|Visit link for details|2024-05-31|
- |[Lexmark CX331adwe Firmware Downgrade Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-560/)|Visit link for details|2024-05-31|
- |[G DATA Total Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-559/)|Visit link for details|2024-05-31|
- |[G DATA Total Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-558/)|Visit link for details|2024-05-31|
- |[Kofax Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-557/)|Visit link for details|2024-05-31|
- |[Kofax Power PDF JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-556/)|Visit link for details|2024-05-31|
- |[Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-555/)|Visit link for details|2024-05-31|
+ |[Sonos Era 100 smart speakers code execution (CVE-2024-5269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[Sonos Era 100 smart speakers information disclosure (CVE-2024-5268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[Sonos Era 100 smart speakers information disclosure (CVE-2024-5256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[Sonos Era 100 smart speakers code execution (CVE-2024-5267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[Luxion KeyShot Viewer code execution (CVE-2024-5509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[Luxion KeyShot Viewer code execution (CVE-2024-5508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -151,21 +137,18 @@
  |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnerability impacting Check Point Network Security Gateways (CVE-2024-24919)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-check-point-network-security-gateways-cve-2024-24919)|Visit link for details|2024-05-31|
- |[Google Chrome security advisory (AV24-306)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-306)|Visit link for details|2024-05-31|
- |[Check Point security advisory (AV24-305)](https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av24-305)|Visit link for details|2024-05-29|
- |[Mitel security advisory (AV24-304)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-304)|Visit link for details|2024-05-29|
- |[Ivanti security advisory (AV24-303)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-303)|Visit link for details|2024-05-29|
- |[Citrix security advisory (AV24-302)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-302)|Visit link for details|2024-05-28|
- |[HPE security advisory (AV24-301)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-301)|Visit link for details|2024-05-28|
- |[Foxit security advisory (AV24-300)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-300)|Visit link for details|2024-05-28|
- |[Microsoft Edge security advisory (AV24-299)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-299)|Visit link for details|2024-05-28|
- |[[Control systems] CISA ICS security advisories (AV24-298)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-298)|Visit link for details|2024-05-27|
- |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
+ |[Canon imageCLASS MF753Cdw setResource Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-562/)|Visit link for details|2024-05-31|
+ |[Progress Software Telerik Reporting Register Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-561/)|Visit link for details|2024-05-31|
+ |[Lexmark CX331adwe Firmware Downgrade Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-560/)|Visit link for details|2024-05-31|
+ |[G DATA Total Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-559/)|Visit link for details|2024-05-31|
+ |[G DATA Total Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-558/)|Visit link for details|2024-05-31|
+ |[Kofax Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-557/)|Visit link for details|2024-05-31|
+ |[Kofax Power PDF JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-556/)|Visit link for details|2024-05-31|
+ |[Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-555/)|Visit link for details|2024-05-31|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[ 47612305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 23 mai 2024|
  |[ 47602305/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 23 mai 2024|
  |[ 47592305/24 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter…| 23 mai 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnerability impacting Check Point Network Security Gateways (CVE-2024-24919)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-check-point-network-security-gateways-cve-2024-24919)|Visit link for details|2024-05-31|
+ |[Google Chrome security advisory (AV24-306)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-306)|Visit link for details|2024-05-31|
+ |[Check Point security advisory (AV24-305)](https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av24-305)|Visit link for details|2024-05-29|
+ |[Mitel security advisory (AV24-304)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-304)|Visit link for details|2024-05-29|
+ |[Ivanti security advisory (AV24-303)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-303)|Visit link for details|2024-05-29|
+ |[Citrix security advisory (AV24-302)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-302)|Visit link for details|2024-05-28|
+ |[HPE security advisory (AV24-301)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-301)|Visit link for details|2024-05-28|
+ |[Foxit security advisory (AV24-300)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-300)|Visit link for details|2024-05-28|
+ |[Microsoft Edge security advisory (AV24-299)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-299)|Visit link for details|2024-05-28|
+ |[[Control systems] CISA ICS security advisories (AV24-298)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-298)|Visit link for details|2024-05-27|
+ |[Red Hat security advisory (AV24-297)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-297)|Visit link for details|2024-05-27|
  
