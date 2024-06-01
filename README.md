@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/06/2024 04:18:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/06/2024 06:22:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,52 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5701-1 chromium - security update](https://www.linux.org/threads/dsa-5701-1-chromium-security-update.50171/)|Visit link for details.|May 31, 2024|
+ |[USN-6804-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6804-1-gnu-c-library-vulnerabilities.50168/)|Visit link for details.|May 31, 2024|
+ |[USN-6803-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6803-1-ffmpeg-vulnerabilities.50158/)|Visit link for details.|May 30, 2024|
+ |[USN-6802-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6802-1-postgresql-vulnerability.50155/)|Visit link for details.|May 30, 2024|
+ |[USN-6801-1: PyMySQL vulnerability](https://www.linux.org/threads/usn-6801-1-pymysql-vulnerability.50154/)|Visit link for details.|May 30, 2024|
+ |[USN-6800-1: browserify-sign vulnerability](https://www.linux.org/threads/usn-6800-1-browserify-sign-vulnerability.50153/)|Visit link for details.|May 30, 2024|
+ |[USN-6799-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-6799-1-werkzeug-vulnerability.50144/)|Visit link for details.|May 29, 2024|
+ |[USN-6798-1: GStreamer Base Plugins vulnerability](https://www.linux.org/threads/usn-6798-1-gstreamer-base-plugins-vulnerability.50143/)|Visit link for details.|May 29, 2024|
+ |[DSA-5700-1 python-pymysql - security update](https://www.linux.org/threads/dsa-5700-1-python-pymysql-security-update.50142/)|Visit link for details.|May 29, 2024|
+ |[USN-6796-1: TPM2 Software Stack vulnerabilities](https://www.linux.org/threads/usn-6796-1-tpm2-software-stack-vulnerabilities.50139/)|Visit link for details.|May 29, 2024|
+ |[USN-6797-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-6797-1-intel-microcode-vulnerabilities.50138/)|Visit link for details.|May 29, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[MySQL2 pour Node.js - CVE-2024-21512](https://www.cyberveille-sante.gouv.fr/alertes/mysql2-pour-nodejs-cve-2024-21512-2024-05-31)|Visit link for details.|31/05/2024|
+ |[Google - CVE-2024-5493](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5493-2024-05-31)|Visit link for details.|31/05/2024|
+ |[Dell - CVE-2024-28974](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-28974-2024-05-31)|Visit link for details.|31/05/2024|
+ |[Baxter - CVE-2024-5176](https://www.cyberveille-sante.gouv.fr/alertes/baxter-cve-2024-5176-2024-05-31)|Visit link for details.|31/05/2024|
+ |[Baxter - CVE-2024-1275](https://www.cyberveille-sante.gouv.fr/alertes/baxter-cve-2024-1275-2024-05-31)|Visit link for details.|31/05/2024|
+ |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|31/05/2024|
+ |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|31/05/2024|
+ |[SourceCodester Online Hospital Management System - CVE-2024-5362](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-online-hospital-management-system-cve-2024-5362-2024-05-30)|Visit link for details.|30/05/2024|
+ |[OpenText - CVE-2024-2835](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-2835-2024-05-30)|Visit link for details.|30/05/2024|
+ |[OpenSSL - CVE-2024-4741](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2024-4741-2024-05-30)|Visit link for details.|30/05/2024|
+ |[Linux - CVE-2024-36016](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-36016-2024-05-30)|Visit link for details.|30/05/2024|
+ 
 
 # US-CERT
 
@@ -61,46 +107,17 @@
  |[Check Point Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/check-point-products-information-disclosure-vulnerability_20240530)|A vulnerability was identified in Check Point Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:The vulnerability CVE-2024-24919 is being used in scattered exploit. The vulnerability potentially allows an attacker to...|Release Date: 30 May 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5701-1 chromium - security update](https://www.linux.org/threads/dsa-5701-1-chromium-security-update.50171/)|Visit link for details.|May 31, 2024|
- |[USN-6804-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6804-1-gnu-c-library-vulnerabilities.50168/)|Visit link for details.|May 31, 2024|
- |[USN-6803-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6803-1-ffmpeg-vulnerabilities.50158/)|Visit link for details.|May 30, 2024|
- |[USN-6802-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6802-1-postgresql-vulnerability.50155/)|Visit link for details.|May 30, 2024|
- |[USN-6801-1: PyMySQL vulnerability](https://www.linux.org/threads/usn-6801-1-pymysql-vulnerability.50154/)|Visit link for details.|May 30, 2024|
- |[USN-6800-1: browserify-sign vulnerability](https://www.linux.org/threads/usn-6800-1-browserify-sign-vulnerability.50153/)|Visit link for details.|May 30, 2024|
- |[USN-6799-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-6799-1-werkzeug-vulnerability.50144/)|Visit link for details.|May 29, 2024|
- |[USN-6798-1: GStreamer Base Plugins vulnerability](https://www.linux.org/threads/usn-6798-1-gstreamer-base-plugins-vulnerability.50143/)|Visit link for details.|May 29, 2024|
- |[DSA-5700-1 python-pymysql - security update](https://www.linux.org/threads/dsa-5700-1-python-pymysql-security-update.50142/)|Visit link for details.|May 29, 2024|
- |[USN-6796-1: TPM2 Software Stack vulnerabilities](https://www.linux.org/threads/usn-6796-1-tpm2-software-stack-vulnerabilities.50139/)|Visit link for details.|May 29, 2024|
- |[USN-6797-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-6797-1-intel-microcode-vulnerabilities.50138/)|Visit link for details.|May 29, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Sonos Era 100 smart speakers code execution (CVE-2024-5269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[Sonos Era 100 smart speakers information disclosure (CVE-2024-5268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
  |[Sonos Era 100 smart speakers information disclosure (CVE-2024-5256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
  |[Sonos Era 100 smart speakers code execution (CVE-2024-5267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
  |[Luxion KeyShot Viewer code execution (CVE-2024-5509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
  |[Luxion KeyShot Viewer code execution (CVE-2024-5508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Luxion KeyShot Viewer code execution (CVE-2024-5506)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Luxion KeyShot Viewer buffer overflow (CVE-2024-5507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -115,23 +132,6 @@
  |[Kofax Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-557/)|Visit link for details|2024-05-31|
  |[Kofax Power PDF JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-556/)|Visit link for details|2024-05-31|
  |[Kofax Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-555/)|Visit link for details|2024-05-31|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[MySQL2 pour Node.js - CVE-2024-21512](https://www.cyberveille-sante.gouv.fr/alertes/mysql2-pour-nodejs-cve-2024-21512-2024-05-31)|Visit link for details.|31/05/2024|
- |[Google - CVE-2024-5493](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5493-2024-05-31)|Visit link for details.|31/05/2024|
- |[Dell - CVE-2024-28974](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-28974-2024-05-31)|Visit link for details.|31/05/2024|
- |[Baxter - CVE-2024-5176](https://www.cyberveille-sante.gouv.fr/alertes/baxter-cve-2024-5176-2024-05-31)|Visit link for details.|31/05/2024|
- |[Baxter - CVE-2024-1275](https://www.cyberveille-sante.gouv.fr/alertes/baxter-cve-2024-1275-2024-05-31)|Visit link for details.|31/05/2024|
- |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|31/05/2024|
- |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|31/05/2024|
- |[SourceCodester Online Hospital Management System - CVE-2024-5362](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-online-hospital-management-system-cve-2024-5362-2024-05-30)|Visit link for details.|30/05/2024|
- |[OpenText - CVE-2024-2835](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-2835-2024-05-30)|Visit link for details.|30/05/2024|
- |[OpenSSL - CVE-2024-4741](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2024-4741-2024-05-30)|Visit link for details.|30/05/2024|
- |[Linux - CVE-2024-36016](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-36016-2024-05-30)|Visit link for details.|30/05/2024|
  
 
 # EU-CERT
