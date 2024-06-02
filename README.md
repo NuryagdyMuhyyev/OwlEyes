@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/06/2024 00:13:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/06/2024 01:17:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,23 +68,6 @@
  |---|---|---|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[MySQL2 pour Node.js - CVE-2024-21512](https://www.cyberveille-sante.gouv.fr/alertes/mysql2-pour-nodejs-cve-2024-21512-2024-05-31)|Visit link for details.|31/05/2024|
- |[Google - CVE-2024-5493](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5493-2024-05-31)|Visit link for details.|31/05/2024|
- |[Dell - CVE-2024-28974](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-28974-2024-05-31)|Visit link for details.|31/05/2024|
- |[Baxter - CVE-2024-5176](https://www.cyberveille-sante.gouv.fr/alertes/baxter-cve-2024-5176-2024-05-31)|Visit link for details.|31/05/2024|
- |[Baxter - CVE-2024-1275](https://www.cyberveille-sante.gouv.fr/alertes/baxter-cve-2024-1275-2024-05-31)|Visit link for details.|31/05/2024|
- |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|31/05/2024|
- |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|31/05/2024|
- |[SourceCodester Online Hospital Management System - CVE-2024-5362](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-online-hospital-management-system-cve-2024-5362-2024-05-30)|Visit link for details.|30/05/2024|
- |[OpenText - CVE-2024-2835](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-2835-2024-05-30)|Visit link for details.|30/05/2024|
- |[OpenSSL - CVE-2024-4741](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2024-4741-2024-05-30)|Visit link for details.|30/05/2024|
- |[Linux - CVE-2024-36016](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-36016-2024-05-30)|Visit link for details.|30/05/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -112,6 +95,23 @@
  |[Luxion KeyShot Viewer code execution (CVE-2024-5509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
  |[Luxion KeyShot Viewer code execution (CVE-2024-5508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[MySQL2 pour Node.js - CVE-2024-21512](https://www.cyberveille-sante.gouv.fr/alertes/mysql2-pour-nodejs-cve-2024-21512-2024-05-31)|Visit link for details.|31/05/2024|
+ |[Google - CVE-2024-5493](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5493-2024-05-31)|Visit link for details.|31/05/2024|
+ |[Dell - CVE-2024-28974](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-28974-2024-05-31)|Visit link for details.|31/05/2024|
+ |[Baxter - CVE-2024-5176](https://www.cyberveille-sante.gouv.fr/alertes/baxter-cve-2024-5176-2024-05-31)|Visit link for details.|31/05/2024|
+ |[Baxter - CVE-2024-1275](https://www.cyberveille-sante.gouv.fr/alertes/baxter-cve-2024-1275-2024-05-31)|Visit link for details.|31/05/2024|
+ |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|31/05/2024|
+ |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|31/05/2024|
+ |[SourceCodester Online Hospital Management System - CVE-2024-5362](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-online-hospital-management-system-cve-2024-5362-2024-05-30)|Visit link for details.|30/05/2024|
+ |[OpenText - CVE-2024-2835](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-2835-2024-05-30)|Visit link for details.|30/05/2024|
+ |[OpenSSL - CVE-2024-4741](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2024-4741-2024-05-30)|Visit link for details.|30/05/2024|
+ |[Linux - CVE-2024-36016](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-36016-2024-05-30)|Visit link for details.|30/05/2024|
  
 
 # OBS-Vigilance
