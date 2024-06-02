@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/06/2024 20:17:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/06/2024 21:21:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,18 +62,6 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/21/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 21, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -89,6 +77,18 @@
  |[OpenText - CVE-2024-2835](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-2835-2024-05-30)|Visit link for details.|30/05/2024|
  |[OpenSSL - CVE-2024-4741](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2024-4741-2024-05-30)|Visit link for details.|30/05/2024|
  |[Linux - CVE-2024-36016](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-36016-2024-05-30)|Visit link for details.|30/05/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
