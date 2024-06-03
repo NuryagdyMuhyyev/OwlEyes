@@ -27,7 +27,7 @@ class CertFRSpider(scrapy.Spider):
     max_items = 10
     start_urls = ["https://www.cert.ssi.gouv.fr/avis/"]
 
-    block_selector = "article.cert-avis"
+    block_selector = "article[contains(@class, 'cert-avis')]"
     link_selector = (
         "descendant-or-self::/div[contains(@class,'item-title')]/h3/a//@href"
     )
