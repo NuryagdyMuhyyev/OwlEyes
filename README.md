@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/06/2024 20:19:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/06/2024 21:23:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6805-1: libarchive vulnerability](https://www.linux.org/threads/usn-6805-1-libarchive-vulnerability.50275/)|Visit link for details.|Jun 4, 2024|
  |[DSA-5703-1 linux - security update](https://www.linux.org/threads/dsa-5703-1-linux-security-update.50251/)|Visit link for details.|Jun 2, 2024|
  |[DSA-5702-1 gst-plugins-base1.0 - security update](https://www.linux.org/threads/dsa-5702-1-gst-plugins-base1-0-security-update.50180/)|Visit link for details.|Jun 1, 2024|
  |[DSA-5701-1 chromium - security update](https://www.linux.org/threads/dsa-5701-1-chromium-security-update.50171/)|Visit link for details.|May 31, 2024|
@@ -59,7 +60,48 @@
  |[USN-6800-1: browserify-sign vulnerability](https://www.linux.org/threads/usn-6800-1-browserify-sign-vulnerability.50153/)|Visit link for details.|May 30, 2024|
  |[USN-6799-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-6799-1-werkzeug-vulnerability.50144/)|Visit link for details.|May 29, 2024|
  |[USN-6798-1: GStreamer Base Plugins vulnerability](https://www.linux.org/threads/usn-6798-1-gstreamer-base-plugins-vulnerability.50143/)|Visit link for details.|May 29, 2024|
- |[DSA-5700-1 python-pymysql - security update](https://www.linux.org/threads/dsa-5700-1-python-pymysql-security-update.50142/)|Visit link for details.|May 29, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome - CVE-2024-5495](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5495-2024-06-04)|Visit link for details.|04/06/2024|
+ |[Red Hat Keycloak - CVE-2024-4540](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-keycloak-cve-2024-4540-2024-06-04)|Visit link for details.|04/06/2024|
+ |[Zyxel - CVE-2024-29972](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29972-2024-06-04)|Visit link for details.|04/06/2024|
+ |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|04/06/2024|
+ |[Zyxel - CVE-2024-29974](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29974-2024-06-04)|Visit link for details.|04/06/2024|
+ |[Google Chrome - CVE-2024-5494](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5494-2024-06-03)|Visit link for details.|04/06/2024|
+ |[Google Chrome - CVE-2024-5493](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5493-2024-05-31)|Visit link for details.|04/06/2024|
+ |[Trend Micro - CVE-2024-36302](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-36302-2024-06-03)|Visit link for details.|03/06/2024|
+ |[OpenSSH / Juniper - CVE-2020-12062](https://www.cyberveille-sante.gouv.fr/alertes/openssh-juniper-cve-2020-12062-2024-06-03)|Visit link for details.|03/06/2024|
+ |[Microsoft - CVE-2024-30056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30056-2024-06-03)|Visit link for details.|03/06/2024|
+ |[ go-git / IBM Db2 - CVE-2023-49569](https://www.cyberveille-sante.gouv.fr/alertes/go-git-ibm-db2-cve-2023-49569-2024-06-03)|Visit link for details.|03/06/2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Keycloak information disclosure (CVE-2024-4540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2024|
+ |[Apache OFBiz directory traversal (CVE-2024-36104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2024|
+ |[Node.js javascript-deobfuscator module code execution (CVE-2024-36120)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[Sentry information disclosure (CVE-2024-35196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[Sonos Era 100 smart speakers code execution (CVE-2024-5269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[Sonos Era 100 smart speakers information disclosure (CVE-2024-5268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -76,48 +118,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024...| Release Date: 2 Apr 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being exploited...| Release Date: 2 Apr 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 18 Mar 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Keycloak information disclosure (CVE-2024-4540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2024|
- |[Apache OFBiz directory traversal (CVE-2024-36104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2024|
- |[Node.js javascript-deobfuscator module code execution (CVE-2024-36120)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Sentry information disclosure (CVE-2024-35196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Sonos Era 100 smart speakers code execution (CVE-2024-5269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Sonos Era 100 smart speakers information disclosure (CVE-2024-5268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- |[Sonos Era 100 smart speakers information disclosure (CVE-2024-5256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome - CVE-2024-5494](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5494-2024-06-03)|Visit link for details.|04/06/2024|
- |[Google - CVE-2024-5493](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5493-2024-05-31)|Visit link for details.|04/06/2024|
- |[Trend Micro - CVE-2024-36302](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-36302-2024-06-03)|Visit link for details.|03/06/2024|
- |[OpenSSH / Juniper - CVE-2020-12062](https://www.cyberveille-sante.gouv.fr/alertes/openssh-juniper-cve-2020-12062-2024-06-03)|Visit link for details.|03/06/2024|
- |[Microsoft - CVE-2024-30056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30056-2024-06-03)|Visit link for details.|03/06/2024|
- |[ go-git / IBM Db2 - CVE-2023-49569](https://www.cyberveille-sante.gouv.fr/alertes/go-git-ibm-db2-cve-2023-49569-2024-06-03)|Visit link for details.|03/06/2024|
- |[MySQL2 pour Node.js - CVE-2024-21512](https://www.cyberveille-sante.gouv.fr/alertes/mysql2-pour-nodejs-cve-2024-21512-2024-05-31)|Visit link for details.|31/05/2024|
- |[Dell - CVE-2024-28974](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-28974-2024-05-31)|Visit link for details.|31/05/2024|
- |[Baxter - CVE-2024-5176](https://www.cyberveille-sante.gouv.fr/alertes/baxter-cve-2024-5176-2024-05-31)|Visit link for details.|31/05/2024|
- |[Baxter - CVE-2024-1275](https://www.cyberveille-sante.gouv.fr/alertes/baxter-cve-2024-1275-2024-05-31)|Visit link for details.|31/05/2024|
- |[Linux - CVE-2024-1086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-1086-2024-02-02)|Visit link for details.|31/05/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
