@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/06/2024 17:34:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/06/2024 18:21:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
+ |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 03, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|May 30, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 30, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 29, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 28, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 28, 2024|
+ |[Cisco Releases May 2024 Cisco ASA, FMC, and FTD Software Security Publication ](https://www.cisa.gov/news-events/alerts/2024/05/24/cisco-releases-may-2024-cisco-asa-fmc-and-ftd-software-security-publication)|Visit link for details.|May 24, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 23, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,45 +62,13 @@
  |[USN-6798-1: GStreamer Base Plugins vulnerability](https://www.linux.org/threads/usn-6798-1-gstreamer-base-plugins-vulnerability.50143/)|Visit link for details.|May 29, 2024|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
- |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 03, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|May 30, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 30, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 29, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 28, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 28, 2024|
- |[Cisco Releases May 2024 Cisco ASA, FMC, and FTD Software Security Publication ](https://www.cisa.gov/news-events/alerts/2024/05/24/cisco-releases-may-2024-cisco-asa-fmc-and-ftd-software-security-publication)|Visit link for details.|May 24, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 23, 2024|
  
 
 # OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jun 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. |Release Date: 3 Jun 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 31 May 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024...| Release Date: 2 May 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 5 Apr 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024...| Release Date: 2 Apr 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being exploited...| Release Date: 2 Apr 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 18 Mar 2024 |
- 
-
-# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -105,6 +89,22 @@
  |[OpenSSH / Juniper - CVE-2020-12062](https://www.cyberveille-sante.gouv.fr/alertes/openssh-juniper-cve-2020-12062-2024-06-03)|Visit link for details.|03/06/2024|
  |[Microsoft - CVE-2024-30056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30056-2024-06-03)|Visit link for details.|03/06/2024|
  |[ go-git / IBM Db2 - CVE-2023-49569](https://www.cyberveille-sante.gouv.fr/alertes/go-git-ibm-db2-cve-2023-49569-2024-06-03)|Visit link for details.|03/06/2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jun 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. |Release Date: 3 Jun 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 31 May 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024...| Release Date: 2 May 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 5 Apr 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024...| Release Date: 2 Apr 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being exploited...| Release Date: 2 Apr 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 18 Mar 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -141,6 +141,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Fuji Electric Monitouch V-SFT V9 File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-564/)|Visit link for details|2024-06-05|
  |[NETGEAR ProSAFE Network Management System UpLoadServlet Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-563/)|Visit link for details|2024-06-04|
  |[Canon imageCLASS MF753Cdw setResource Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-562/)|Visit link for details|2024-05-31|
  |[Progress Software Telerik Reporting Register Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-561/)|Visit link for details|2024-05-31|
@@ -148,24 +149,6 @@
  |[G DATA Total Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-559/)|Visit link for details|2024-05-31|
  |[G DATA Total Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-558/)|Visit link for details|2024-05-31|
  |[Kofax Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-557/)|Visit link for details|2024-05-31|
- |[Kofax Power PDF JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-556/)|Visit link for details|2024-05-31|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-314)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-314)|Visit link for details|2024-06-04|
- |[Android security advisory – June 2024 Monthly Rollup (AV24-313)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-june-2024-monthly-rollup-av24-313)|Visit link for details|2024-06-03|
- |[[Control systems] ABB security advisory (AV24-312)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-312)|Visit link for details|2024-06-03|
- |[Red Hat security advisory (AV24-311)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-311)|Visit link for details|2024-06-03|
- |[Ubuntu security advisory (AV24-310)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-310)|Visit link for details|2024-06-03|
- |[IBM security advisory (AV24-309)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-309)|Visit link for details|2024-06-03|
- |[Dell security advisory (AV24-308)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-308)|Visit link for details|2024-06-03|
- |[[Control systems] CISA ICS security advisories (AV24-307)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-307)|Visit link for details|2024-06-03|
- |[Vulnerability impacting Check Point Network Security Gateways (CVE-2024-24919)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-check-point-network-security-gateways-cve-2024-24919)|Visit link for details|2024-05-31|
- |[Google Chrome security advisory (AV24-306)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-306)|Visit link for details|2024-05-31|
- |[Check Point security advisory (AV24-305)](https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av24-305)|Visit link for details|2024-05-29|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[ 47612305/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-6)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 23 mai 2024|
  |[ 47602305/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service, de réussir une élévation de…| 23 mai 2024|
  |[ 47592305/24 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter…| 23 mai 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-314)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-314)|Visit link for details|2024-06-04|
+ |[Android security advisory – June 2024 Monthly Rollup (AV24-313)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-june-2024-monthly-rollup-av24-313)|Visit link for details|2024-06-03|
+ |[[Control systems] ABB security advisory (AV24-312)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-312)|Visit link for details|2024-06-03|
+ |[Red Hat security advisory (AV24-311)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-311)|Visit link for details|2024-06-03|
+ |[Ubuntu security advisory (AV24-310)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-310)|Visit link for details|2024-06-03|
+ |[IBM security advisory (AV24-309)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-309)|Visit link for details|2024-06-03|
+ |[Dell security advisory (AV24-308)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-308)|Visit link for details|2024-06-03|
+ |[[Control systems] CISA ICS security advisories (AV24-307)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-307)|Visit link for details|2024-06-03|
+ |[Vulnerability impacting Check Point Network Security Gateways (CVE-2024-24919)](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-check-point-network-security-gateways-cve-2024-24919)|Visit link for details|2024-05-31|
+ |[Google Chrome security advisory (AV24-306)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-306)|Visit link for details|2024-05-31|
+ |[Check Point security advisory (AV24-305)](https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av24-305)|Visit link for details|2024-05-29|
  
