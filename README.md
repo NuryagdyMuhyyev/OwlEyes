@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/06/2024 04:19:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/06/2024 06:18:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,10 +45,20 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/23/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 23, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6808-1: Atril vulnerability](https://www.linux.org/threads/usn-6808-1-atril-vulnerability.50297/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
+ |[DSA-5705-1 tinyproxy - security update](https://www.linux.org/threads/dsa-5705-1-tinyproxy-security-update.50295/)|Visit link for details.|Jun 6, 2024|
+ |[DSA-5704-1 pillow - security update](https://www.linux.org/threads/dsa-5704-1-pillow-security-update.50294/)|Visit link for details.|Jun 6, 2024|
  |[USN-6807-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6807-1-frr-vulnerabilities.50291/)|Visit link for details.|Jun 5, 2024|
  |[USN-6806-1: GDK-PixBuf vulnerability](https://www.linux.org/threads/usn-6806-1-gdk-pixbuf-vulnerability.50290/)|Visit link for details.|Jun 5, 2024|
  |[USN-6715-2: unixODBC vulnerability](https://www.linux.org/threads/usn-6715-2-unixodbc-vulnerability.50287/)|Visit link for details.|Jun 5, 2024|
@@ -56,16 +66,6 @@
  |[DSA-5703-1 linux - security update](https://www.linux.org/threads/dsa-5703-1-linux-security-update.50251/)|Visit link for details.|Jun 2, 2024|
  |[DSA-5702-1 gst-plugins-base1.0 - security update](https://www.linux.org/threads/dsa-5702-1-gst-plugins-base1-0-security-update.50180/)|Visit link for details.|Jun 1, 2024|
  |[DSA-5701-1 chromium - security update](https://www.linux.org/threads/dsa-5701-1-chromium-security-update.50171/)|Visit link for details.|May 31, 2024|
- |[USN-6804-1: GNU C Library vulnerabilities](https://www.linux.org/threads/usn-6804-1-gnu-c-library-vulnerabilities.50168/)|Visit link for details.|May 31, 2024|
- |[USN-6803-1: FFmpeg vulnerabilities](https://www.linux.org/threads/usn-6803-1-ffmpeg-vulnerabilities.50158/)|Visit link for details.|May 30, 2024|
- |[USN-6802-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6802-1-postgresql-vulnerability.50155/)|Visit link for details.|May 30, 2024|
- |[USN-6801-1: PyMySQL vulnerability](https://www.linux.org/threads/usn-6801-1-pymysql-vulnerability.50154/)|Visit link for details.|May 30, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -97,23 +97,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell - CVE-2024-29170](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-29170-2024-06-05)|Visit link for details.|05/06/2024|
- |[Google Chrome - CVE-2024-5496](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5496-2024-06-05)|Visit link for details.|05/06/2024|
- |[Netgear - CVE-2024-5505](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-5505-2024-06-05)|Visit link for details.|05/06/2024|
- |[SolarWinds - CVE-2024-28996](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28996-2024-06-05)|Visit link for details.|05/06/2024|
- |[Apple - CVE-2024-27822](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27822-2024-06-05)|Visit link for details.|05/06/2024|
- |[Google Chrome - CVE-2024-5495](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5495-2024-06-04)|Visit link for details.|04/06/2024|
- |[Red Hat Keycloak - CVE-2024-4540](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-keycloak-cve-2024-4540-2024-06-04)|Visit link for details.|04/06/2024|
- |[Zyxel - CVE-2024-29972](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29972-2024-06-04)|Visit link for details.|04/06/2024|
- |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|04/06/2024|
- |[Zyxel - CVE-2024-29974](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29974-2024-06-04)|Visit link for details.|04/06/2024|
- |[Google Chrome - CVE-2024-5494](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5494-2024-06-03)|Visit link for details.|04/06/2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -132,6 +115,23 @@
  |[Canon imageCLASS MF753Cdw setResource Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-562/)|Visit link for details|2024-05-31|
  |[Progress Software Telerik Reporting Register Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-561/)|Visit link for details|2024-05-31|
  |[Lexmark CX331adwe Firmware Downgrade Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-560/)|Visit link for details|2024-05-31|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell - CVE-2024-29170](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-29170-2024-06-05)|Visit link for details.|05/06/2024|
+ |[Google Chrome - CVE-2024-5496](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5496-2024-06-05)|Visit link for details.|05/06/2024|
+ |[Netgear - CVE-2024-5505](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-5505-2024-06-05)|Visit link for details.|05/06/2024|
+ |[SolarWinds - CVE-2024-28996](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28996-2024-06-05)|Visit link for details.|05/06/2024|
+ |[Apple - CVE-2024-27822](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27822-2024-06-05)|Visit link for details.|05/06/2024|
+ |[Google Chrome - CVE-2024-5495](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5495-2024-06-04)|Visit link for details.|04/06/2024|
+ |[Red Hat Keycloak - CVE-2024-4540](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-keycloak-cve-2024-4540-2024-06-04)|Visit link for details.|04/06/2024|
+ |[Zyxel - CVE-2024-29972](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29972-2024-06-04)|Visit link for details.|04/06/2024|
+ |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|04/06/2024|
+ |[Zyxel - CVE-2024-29974](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29974-2024-06-04)|Visit link for details.|04/06/2024|
+ |[Google Chrome - CVE-2024-5494](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5494-2024-06-03)|Visit link for details.|04/06/2024|
  
 
 # EU-CERT
