@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/06/2024 01:21:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/06/2024 02:18:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6815-1: AOM vulnerability](https://www.linux.org/threads/usn-6815-1-aom-vulnerability.50328/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6814-1: libvpx vulnerability](https://www.linux.org/threads/usn-6814-1-libvpx-vulnerability.50327/)|Visit link for details.|Jun 6, 2024|
  |[USN-6567-2: QEMU regression](https://www.linux.org/threads/usn-6567-2-qemu-regression.50322/)|Visit link for details.|Jun 6, 2024|
  |[USN-6813-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6813-1-openjdk-21-vulnerabilities.50310/)|Visit link for details.|Jun 6, 2024|
  |[USN-6812-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6812-1-openjdk-17-vulnerabilities.50309/)|Visit link for details.|Jun 6, 2024|
@@ -58,11 +60,15 @@
  |[USN-6808-1: Atril vulnerability](https://www.linux.org/threads/usn-6808-1-atril-vulnerability.50297/)|Visit link for details.|Jun 6, 2024|
  |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
  |[DSA-5705-1 tinyproxy - security update](https://www.linux.org/threads/dsa-5705-1-tinyproxy-security-update.50295/)|Visit link for details.|Jun 6, 2024|
- |[DSA-5704-1 pillow - security update](https://www.linux.org/threads/dsa-5704-1-pillow-security-update.50294/)|Visit link for details.|Jun 6, 2024|
- |[USN-6807-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6807-1-frr-vulnerabilities.50291/)|Visit link for details.|Jun 5, 2024|
  
 
 # CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -83,12 +89,6 @@
  |[Dell - CVE-2024-29170](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-29170-2024-06-05)|Visit link for details.|05/06/2024|
  |[Google Chrome - CVE-2024-5496](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5496-2024-06-05)|Visit link for details.|05/06/2024|
  |[Netgear - CVE-2024-5505](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-5505-2024-06-05)|Visit link for details.|05/06/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -120,6 +120,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SEW-EURODRIVE MOVITOOLS MotionStudio XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-582/)|Visit link for details|2024-06-06|
+ |[Microsoft Azure SQL Managed Instance Documentation SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-581/)|Visit link for details|2024-06-06|
+ |[Microsoft Artifact Registry Container Images Empty Password Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-580/)|Visit link for details|2024-06-06|
+ |[Apple macOS PPM Image Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-579/)|Visit link for details|2024-06-06|
+ |[Apple macOS CoreGraphics Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-578/)|Visit link for details|2024-06-06|
+ |[Trend Micro Apex One Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-577/)|Visit link for details|2024-06-06|
+ |[Trend Micro Maximum Security coreServiceShell Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-576/)|Visit link for details|2024-06-06|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-575/)|Visit link for details|2024-06-06|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -135,20 +149,6 @@
  |[2024-045: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-045/)|On May 16, 2024, Microsoft addressed 61 vulnerabilities in its May 2024 Patch Tuesday update, including two actively exploited zero-days. This Patch Tuesday also fixes one critical vulnerability, a Microsoft SharePoint Server Remote Code Execution Vulnerability.|Thursday, May 16, 2024 04:06:48 PM CEST|
  |[2024-044: Zero-day Vulnerability in Chrome](https://cert.europa.eu/publications/security-advisories/2024-044/)|On May 15, 2024, Google has released an advisory addressing nine vulnerabilities, including a new zero-day bug identified as "CVE-2024-4947". It has been reported that this vulnerability is being actively exploited. This is the seventh zero-day vulnerability fixed by Google this year.|Thursday, May 16, 2024 01:23:40 PM CEST|
  |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS PPM Image Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-579/)|Visit link for details|2024-06-06|
- |[Apple macOS CoreGraphics Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-578/)|Visit link for details|2024-06-06|
- |[Trend Micro Apex One Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-577/)|Visit link for details|2024-06-06|
- |[Trend Micro Maximum Security coreServiceShell Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-576/)|Visit link for details|2024-06-06|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-575/)|Visit link for details|2024-06-06|
- |[Trend Micro InterScan Web Security Virtual Appliance Cross-Site Scripting Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-574/)|Visit link for details|2024-06-06|
- |[Trend Micro Apex One Security Agent Link Following Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-573/)|Visit link for details|2024-06-06|
- |[Trend Micro Apex One Security Agent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-572/)|Visit link for details|2024-06-06|
  
 
 # MA-CERT
