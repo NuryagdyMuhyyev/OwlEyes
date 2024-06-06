@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/06/2024 12:17:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/06/2024 13:23:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6813-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6813-1-openjdk-21-vulnerabilities.50310/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6812-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6812-1-openjdk-17-vulnerabilities.50309/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6811-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6811-1-openjdk-11-vulnerabilities.50308/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6810-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6810-1-openjdk-8-vulnerabilities.50307/)|Visit link for details.|Jun 6, 2024|
  |[DSA-5706-1 libarchive - security update](https://www.linux.org/threads/dsa-5706-1-libarchive-security-update.50299/)|Visit link for details.|Jun 6, 2024|
  |[USN-6808-1: Atril vulnerability](https://www.linux.org/threads/usn-6808-1-atril-vulnerability.50297/)|Visit link for details.|Jun 6, 2024|
  |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
@@ -56,10 +60,6 @@
  |[DSA-5704-1 pillow - security update](https://www.linux.org/threads/dsa-5704-1-pillow-security-update.50294/)|Visit link for details.|Jun 6, 2024|
  |[USN-6807-1: FRR vulnerabilities](https://www.linux.org/threads/usn-6807-1-frr-vulnerabilities.50291/)|Visit link for details.|Jun 5, 2024|
  |[USN-6806-1: GDK-PixBuf vulnerability](https://www.linux.org/threads/usn-6806-1-gdk-pixbuf-vulnerability.50290/)|Visit link for details.|Jun 5, 2024|
- |[USN-6715-2: unixODBC vulnerability](https://www.linux.org/threads/usn-6715-2-unixodbc-vulnerability.50287/)|Visit link for details.|Jun 5, 2024|
- |[USN-6805-1: libarchive vulnerability](https://www.linux.org/threads/usn-6805-1-libarchive-vulnerability.50275/)|Visit link for details.|Jun 4, 2024|
- |[DSA-5703-1 linux - security update](https://www.linux.org/threads/dsa-5703-1-linux-security-update.50251/)|Visit link for details.|Jun 2, 2024|
- |[DSA-5702-1 gst-plugins-base1.0 - security update](https://www.linux.org/threads/dsa-5702-1-gst-plugins-base1-0-security-update.50180/)|Visit link for details.|Jun 1, 2024|
  
 
 # CERT-FR
@@ -120,6 +120,20 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 18 Mar 2024 |
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GStreamer AV1 Video Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-567/)|Visit link for details|2024-06-05|
+ |[Luxion KeyShot Viewer KSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-566/)|Visit link for details|2024-06-05|
+ |[Luxion KeyShot Viewer KSP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-565/)|Visit link for details|2024-06-05|
+ |[Fuji Electric Monitouch V-SFT V9 File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-564/)|Visit link for details|2024-06-05|
+ |[NETGEAR ProSAFE Network Management System UpLoadServlet Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-563/)|Visit link for details|2024-06-04|
+ |[Canon imageCLASS MF753Cdw setResource Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-562/)|Visit link for details|2024-05-31|
+ |[Progress Software Telerik Reporting Register Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-561/)|Visit link for details|2024-05-31|
+ |[Lexmark CX331adwe Firmware Downgrade Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-560/)|Visit link for details|2024-05-31|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -135,20 +149,6 @@
  |[2024-045: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-045/)|On May 16, 2024, Microsoft addressed 61 vulnerabilities in its May 2024 Patch Tuesday update, including two actively exploited zero-days. This Patch Tuesday also fixes one critical vulnerability, a Microsoft SharePoint Server Remote Code Execution Vulnerability.|Thursday, May 16, 2024 04:06:48 PM CEST|
  |[2024-044: Zero-day Vulnerability in Chrome](https://cert.europa.eu/publications/security-advisories/2024-044/)|On May 15, 2024, Google has released an advisory addressing nine vulnerabilities, including a new zero-day bug identified as "CVE-2024-4947". It has been reported that this vulnerability is being actively exploited. This is the seventh zero-day vulnerability fixed by Google this year.|Thursday, May 16, 2024 01:23:40 PM CEST|
  |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[GStreamer AV1 Video Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-567/)|Visit link for details|2024-06-05|
- |[Luxion KeyShot Viewer KSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-566/)|Visit link for details|2024-06-05|
- |[Luxion KeyShot Viewer KSP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-565/)|Visit link for details|2024-06-05|
- |[Fuji Electric Monitouch V-SFT V9 File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-564/)|Visit link for details|2024-06-05|
- |[NETGEAR ProSAFE Network Management System UpLoadServlet Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-563/)|Visit link for details|2024-06-04|
- |[Canon imageCLASS MF753Cdw setResource Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-562/)|Visit link for details|2024-05-31|
- |[Progress Software Telerik Reporting Register Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-561/)|Visit link for details|2024-05-31|
- |[Lexmark CX331adwe Firmware Downgrade Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-560/)|Visit link for details|2024-05-31|
  
 
 # CA-CCS
