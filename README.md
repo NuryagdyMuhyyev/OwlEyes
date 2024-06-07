@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/06/2024 07:35:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/06/2024 08:21:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[Cisco Releases May 2024 Cisco ASA, FMC, and FTD Software Security Publication ](https://www.cisa.gov/news-events/alerts/2024/05/24/cisco-releases-may-2024-cisco-asa-fmc-and-ftd-software-security-publication)|Visit link for details.|May 24, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,12 +68,6 @@
  |[DSA-5705-1 tinyproxy - security update](https://www.linux.org/threads/dsa-5705-1-tinyproxy-security-update.50295/)|Visit link for details.|Jun 6, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -83,6 +83,19 @@
  |[Dell - CVE-2024-29170](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-29170-2024-06-05)|Visit link for details.|05/06/2024|
  |[Google Chrome - CVE-2024-5496](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5496-2024-06-05)|Visit link for details.|05/06/2024|
  |[Netgear - CVE-2024-5505](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-5505-2024-06-05)|Visit link for details.|05/06/2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenTelemetry Collector denial of service (CVE-2024-36129)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 5, 2024|
+ |[IBM System Storage (CVE-2024-22326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 5, 2024|
+ |[IBM Engineering Requirements Management DOORS Next XML external entity injection (CVE-2023-45192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 5, 2024|
+ |[IBM Sterling Partner Engagement Manager information disclosure (CVE-2022-35718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 5, 2024|
+ |[Cacti cross-site scripting (CVE-2024-31444)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 4, 2024|
+ |[Ruby on Rails weak security (CVE-2024-28103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 4, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -107,19 +120,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[OpenTelemetry Collector denial of service (CVE-2024-36129)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 5, 2024|
- |[IBM System Storage (CVE-2024-22326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 5, 2024|
- |[IBM Engineering Requirements Management DOORS Next XML external entity injection (CVE-2023-45192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 5, 2024|
- |[IBM Sterling Partner Engagement Manager information disclosure (CVE-2022-35718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 5, 2024|
- |[Ruby on Rails weak security (CVE-2024-28103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 4, 2024|
- |[GamiPress  Link Plugin for WordPress cross-site scripting (CVE-2024-5536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 4, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -132,23 +132,6 @@
  |[Trend Micro Apex One Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-577/)|Visit link for details|2024-06-06|
  |[Trend Micro Maximum Security coreServiceShell Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-576/)|Visit link for details|2024-06-06|
  |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-575/)|Visit link for details|2024-06-06|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-053: Zero-day Vulnerability in Check Point Security Gateways](https://cert.europa.eu/publications/security-advisories/2024-053/)|On May 28, 2024, Check Point issued an advisory about a zero-day vulnerability, CVE-2024-24919, affecting Check Point Security Gateways. This high-severity information disclosure vulnerability can be exploited to gain unauthorised access to sensitive information on systems with remote Access VPN or Mobile Access Software Blades enabled.|Thursday, May 30, 2024 11:26:17 AM CEST|
- |[2024-052: Vulnerability in Cisco FMC Software](https://cert.europa.eu/publications/security-advisories/2024-052/)|On May 22, Cisco released an advisory regarding an SQL injection vulnerability affecting its Firepower Management Center (FMC) Software. If exploited, this vulnerability could allow an attacker to obtain any data from the database, execute arbitrary commands on the underlying operating system, and elevate privileges to root.|Tuesday, May 28, 2024 10:53:37 AM CEST|
- |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
- |[2024-050: Multiple Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-050/)|On May 15, 2024, Ivanti released a security advisory addressing multiple vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), formally known as MobileIron. An attacker could exploit these flaws to execute arbitrary commands on the appliance.|Wednesday, May 22, 2024 07:55:55 PM CEST|
- |[2024-049: Multiple Vulnerabilities in QNAP Products](https://cert.europa.eu/publications/security-advisories/2024-049/)|On May 21, 2024, QNAP released a security advisory addressing multiple flaws, including a zero-day vulnerability in the shared feature of QTS. These vulnerabilities could allow remote attackers to execute arbitrary code.|Wednesday, May 22, 2024 07:54:50 PM CEST|
- |[2024-048: Critical Vulnerability in Veeam Backup Enterprise Manager](https://cert.europa.eu/publications/security-advisories/2024-048/)|On May 21, 2024, Veeam issued fixes addressing multiple security flaws in Veeam Backup Enterprise Manager, including a critical vulnerability allowing unauthenticated attackers to bypass authentication and gain access to the web interface as any user.|Wednesday, May 22, 2024 07:54:05 PM CEST|
- |[2024-047: Critical Vulnerability in GitHub Enterprise Server](https://cert.europa.eu/publications/security-advisories/2024-047/)|On May 21, 2024, GitHub disclosed a critical vulnerability in GitHub Enterprise Server (GHES) impacting instances using SAML single sign-on (SSO) with encrypted assertions. This vulnerability allows attackers to forge SAML responses, granting unauthorised administrative access without authentication.|Wednesday, May 22, 2024 07:53:23 PM CEST|
- |[2024-046: Multiple Vulnerabilities in Git](https://cert.europa.eu/publications/security-advisories/2024-046/)|On May 14, 2024, GitHub announced the release of Git version 2.45.1, addressing three critical vulnerabilities impacting multiple platforms, including Windows, macOS, Linux, and BSD. These vulnerabilities could allow for remote code execution and unauthorised file modifications.|Wednesday, May 22, 2024 07:48:08 PM CEST|
- |[2024-045: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-045/)|On May 16, 2024, Microsoft addressed 61 vulnerabilities in its May 2024 Patch Tuesday update, including two actively exploited zero-days. This Patch Tuesday also fixes one critical vulnerability, a Microsoft SharePoint Server Remote Code Execution Vulnerability.|Thursday, May 16, 2024 04:06:48 PM CEST|
- |[2024-044: Zero-day Vulnerability in Chrome](https://cert.europa.eu/publications/security-advisories/2024-044/)|On May 15, 2024, Google has released an advisory addressing nine vulnerabilities, including a new zero-day bug identified as "CVE-2024-4947". It has been reported that this vulnerability is being actively exploited. This is the seventh zero-day vulnerability fixed by Google this year.|Thursday, May 16, 2024 01:23:40 PM CEST|
- |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
  
 
 # CA-CCS
@@ -166,6 +149,23 @@
  |[Ubuntu security advisory (AV24-310)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-310)|Visit link for details|2024-06-03|
  |[IBM security advisory (AV24-309)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-309)|Visit link for details|2024-06-03|
  |[Dell security advisory (AV24-308)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-308)|Visit link for details|2024-06-03|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-053: Zero-day Vulnerability in Check Point Security Gateways](https://cert.europa.eu/publications/security-advisories/2024-053/)|On May 28, 2024, Check Point issued an advisory about a zero-day vulnerability, CVE-2024-24919, affecting Check Point Security Gateways. This high-severity information disclosure vulnerability can be exploited to gain unauthorised access to sensitive information on systems with remote Access VPN or Mobile Access Software Blades enabled.|Thursday, May 30, 2024 11:26:17 AM CEST|
+ |[2024-052: Vulnerability in Cisco FMC Software](https://cert.europa.eu/publications/security-advisories/2024-052/)|On May 22, Cisco released an advisory regarding an SQL injection vulnerability affecting its Firepower Management Center (FMC) Software. If exploited, this vulnerability could allow an attacker to obtain any data from the database, execute arbitrary commands on the underlying operating system, and elevate privileges to root.|Tuesday, May 28, 2024 10:53:37 AM CEST|
+ |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
+ |[2024-050: Multiple Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-050/)|On May 15, 2024, Ivanti released a security advisory addressing multiple vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), formally known as MobileIron. An attacker could exploit these flaws to execute arbitrary commands on the appliance.|Wednesday, May 22, 2024 07:55:55 PM CEST|
+ |[2024-049: Multiple Vulnerabilities in QNAP Products](https://cert.europa.eu/publications/security-advisories/2024-049/)|On May 21, 2024, QNAP released a security advisory addressing multiple flaws, including a zero-day vulnerability in the shared feature of QTS. These vulnerabilities could allow remote attackers to execute arbitrary code.|Wednesday, May 22, 2024 07:54:50 PM CEST|
+ |[2024-048: Critical Vulnerability in Veeam Backup Enterprise Manager](https://cert.europa.eu/publications/security-advisories/2024-048/)|On May 21, 2024, Veeam issued fixes addressing multiple security flaws in Veeam Backup Enterprise Manager, including a critical vulnerability allowing unauthenticated attackers to bypass authentication and gain access to the web interface as any user.|Wednesday, May 22, 2024 07:54:05 PM CEST|
+ |[2024-047: Critical Vulnerability in GitHub Enterprise Server](https://cert.europa.eu/publications/security-advisories/2024-047/)|On May 21, 2024, GitHub disclosed a critical vulnerability in GitHub Enterprise Server (GHES) impacting instances using SAML single sign-on (SSO) with encrypted assertions. This vulnerability allows attackers to forge SAML responses, granting unauthorised administrative access without authentication.|Wednesday, May 22, 2024 07:53:23 PM CEST|
+ |[2024-046: Multiple Vulnerabilities in Git](https://cert.europa.eu/publications/security-advisories/2024-046/)|On May 14, 2024, GitHub announced the release of Git version 2.45.1, addressing three critical vulnerabilities impacting multiple platforms, including Windows, macOS, Linux, and BSD. These vulnerabilities could allow for remote code execution and unauthorised file modifications.|Wednesday, May 22, 2024 07:48:08 PM CEST|
+ |[2024-045: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-045/)|On May 16, 2024, Microsoft addressed 61 vulnerabilities in its May 2024 Patch Tuesday update, including two actively exploited zero-days. This Patch Tuesday also fixes one critical vulnerability, a Microsoft SharePoint Server Remote Code Execution Vulnerability.|Thursday, May 16, 2024 04:06:48 PM CEST|
+ |[2024-044: Zero-day Vulnerability in Chrome](https://cert.europa.eu/publications/security-advisories/2024-044/)|On May 15, 2024, Google has released an advisory addressing nine vulnerabilities, including a new zero-day bug identified as "CVE-2024-4947". It has been reported that this vulnerability is being actively exploited. This is the seventh zero-day vulnerability fixed by Google this year.|Thursday, May 16, 2024 01:23:40 PM CEST|
+ |[2024-043: Vulnerabilities in Cisco ASA and FTD Software](https://cert.europa.eu/publications/security-advisories/2024-043/)|On April 24, 2024, Cisco disclosed three vulnerabilities in its management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software product. |Wednesday, April 24, 2024 09:12:03 PM CEST|
  
 
 # MA-CERT
