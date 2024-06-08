@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/06/2024 15:18:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/06/2024 16:15:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,23 +62,6 @@
  |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SysAid - CVE-2024-36394](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36394-2024-06-07)|Visit link for details.|07/06/2024|
- |[SysAid - CVE-2024-36393](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36393-2024-06-07)|Visit link for details.|07/06/2024|
- |[BitDefender - CVE-2024-4177](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-4177-2024-06-07)|Visit link for details.|07/06/2024|
- |[Dell - CVE-2023-32475](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32475-2024-06-07)|Visit link for details.|07/06/2024|
- |[Apple - CVE-2024-23257](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23257-2024-06-07)|Visit link for details.|07/06/2024|
- |[Cisco - CVE-2024-20404](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20404-2024-06-06)|Visit link for details.|06/06/2024|
- |[Grafana - CVE-2024-5526](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-5526-2024-06-06)|Visit link for details.|06/06/2024|
- |[SolarWinds - CVE-2024-29004](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29004-2024-06-06)|Visit link for details.|06/06/2024|
- |[Trend Micro - CVE-2024-36303](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-36303-2024-06-06)|Visit link for details.|06/06/2024|
- |[WordPress Unlimited Elements For Elementor - CVE-2024-5329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-unlimited-elements-elementor-cve-2024-5329-2024-06-06)|Visit link for details.|06/06/2024|
- |[Zyxel - CVE-2024-29972](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29972-2024-06-04)|Visit link for details.|06/06/2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -114,12 +97,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -132,6 +109,29 @@
  |[Trend Micro Apex One Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-577/)|Visit link for details|2024-06-06|
  |[Trend Micro Maximum Security coreServiceShell Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-576/)|Visit link for details|2024-06-06|
  |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-575/)|Visit link for details|2024-06-06|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SysAid - CVE-2024-36394](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36394-2024-06-07)|Visit link for details.|07/06/2024|
+ |[SysAid - CVE-2024-36393](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36393-2024-06-07)|Visit link for details.|07/06/2024|
+ |[BitDefender - CVE-2024-4177](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-4177-2024-06-07)|Visit link for details.|07/06/2024|
+ |[Dell - CVE-2023-32475](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32475-2024-06-07)|Visit link for details.|07/06/2024|
+ |[Apple - CVE-2024-23257](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23257-2024-06-07)|Visit link for details.|07/06/2024|
+ |[Cisco - CVE-2024-20404](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20404-2024-06-06)|Visit link for details.|06/06/2024|
+ |[Grafana - CVE-2024-5526](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-5526-2024-06-06)|Visit link for details.|06/06/2024|
+ |[SolarWinds - CVE-2024-29004](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29004-2024-06-06)|Visit link for details.|06/06/2024|
+ |[Trend Micro - CVE-2024-36303](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-36303-2024-06-06)|Visit link for details.|06/06/2024|
+ |[WordPress Unlimited Elements For Elementor - CVE-2024-5329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-unlimited-elements-elementor-cve-2024-5329-2024-06-06)|Visit link for details.|06/06/2024|
+ |[Zyxel - CVE-2024-29972](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29972-2024-06-04)|Visit link for details.|06/06/2024|
  
 
 # EU-CERT
