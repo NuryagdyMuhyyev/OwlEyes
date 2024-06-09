@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/06/2024 02:17:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/06/2024 03:18:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,20 +62,30 @@
  |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[NETGEAR R8000 command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[FreeFrom - the nostr client App for Android information disclosure (CVE-2024-36289)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[FreeFrom - the nostr client App for Android security bypass (CVE-2024-36279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[FreeFrom - the nostr client App for Android security bypass (CVE-2024-36277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[Music Store - WordPress eCommerce Plugin for WordPress SQL injection (CVE-2024-36082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[IBM Engineering Lifecycle Optimization Publishing file upload (CVE-2023-45188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[SysAid - CVE-2024-36394](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36394-2024-06-07)|Visit link for details.|07/06/2024|
+ |[SysAid - CVE-2024-36393](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36393-2024-06-07)|Visit link for details.|07/06/2024|
+ |[BitDefender - CVE-2024-4177](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-4177-2024-06-07)|Visit link for details.|07/06/2024|
+ |[Dell - CVE-2023-32475](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32475-2024-06-07)|Visit link for details.|07/06/2024|
+ |[Apple - CVE-2024-23257](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23257-2024-06-07)|Visit link for details.|07/06/2024|
+ |[Cisco - CVE-2024-20404](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20404-2024-06-06)|Visit link for details.|06/06/2024|
+ |[Grafana - CVE-2024-5526](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-5526-2024-06-06)|Visit link for details.|06/06/2024|
+ |[SolarWinds - CVE-2024-29004](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29004-2024-06-06)|Visit link for details.|06/06/2024|
+ |[Trend Micro - CVE-2024-36303](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-36303-2024-06-06)|Visit link for details.|06/06/2024|
+ |[WordPress Unlimited Elements For Elementor - CVE-2024-5329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-unlimited-elements-elementor-cve-2024-5329-2024-06-06)|Visit link for details.|06/06/2024|
+ |[Zyxel - CVE-2024-29972](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29972-2024-06-04)|Visit link for details.|06/06/2024|
  
 
 # CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -97,41 +107,17 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 18 Mar 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[SEW-EURODRIVE MOVITOOLS MotionStudio XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-582/)|Visit link for details|2024-06-06|
- |[Microsoft Azure SQL Managed Instance Documentation SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-581/)|Visit link for details|2024-06-06|
- |[Microsoft Artifact Registry Container Images Empty Password Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-580/)|Visit link for details|2024-06-06|
- |[Apple macOS PPM Image Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-579/)|Visit link for details|2024-06-06|
- |[Apple macOS CoreGraphics Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-578/)|Visit link for details|2024-06-06|
- |[Trend Micro Apex One Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-577/)|Visit link for details|2024-06-06|
- |[Trend Micro Maximum Security coreServiceShell Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-576/)|Visit link for details|2024-06-06|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-575/)|Visit link for details|2024-06-06|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SysAid - CVE-2024-36394](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36394-2024-06-07)|Visit link for details.|07/06/2024|
- |[SysAid - CVE-2024-36393](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36393-2024-06-07)|Visit link for details.|07/06/2024|
- |[BitDefender - CVE-2024-4177](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-4177-2024-06-07)|Visit link for details.|07/06/2024|
- |[Dell - CVE-2023-32475](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32475-2024-06-07)|Visit link for details.|07/06/2024|
- |[Apple - CVE-2024-23257](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23257-2024-06-07)|Visit link for details.|07/06/2024|
- |[Cisco - CVE-2024-20404](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20404-2024-06-06)|Visit link for details.|06/06/2024|
- |[Grafana - CVE-2024-5526](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-5526-2024-06-06)|Visit link for details.|06/06/2024|
- |[SolarWinds - CVE-2024-29004](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29004-2024-06-06)|Visit link for details.|06/06/2024|
- |[Trend Micro - CVE-2024-36303](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-36303-2024-06-06)|Visit link for details.|06/06/2024|
- |[WordPress Unlimited Elements For Elementor - CVE-2024-5329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-unlimited-elements-elementor-cve-2024-5329-2024-06-06)|Visit link for details.|06/06/2024|
- |[Zyxel - CVE-2024-29972](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29972-2024-06-04)|Visit link for details.|06/06/2024|
+ |[NETGEAR R8000 command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[FreeFrom - the nostr client App for Android information disclosure (CVE-2024-36289)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[FreeFrom - the nostr client App for Android security bypass (CVE-2024-36279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[FreeFrom - the nostr client App for Android security bypass (CVE-2024-36277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[Music Store - WordPress eCommerce Plugin for WordPress SQL injection (CVE-2024-36082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[IBM Engineering Lifecycle Optimization Publishing file upload (CVE-2023-45188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -166,6 +152,20 @@
  |[ 47642805/24 - Vulnérabilité critique corrigée dans les produits TP-Link ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-corrigee-dans-les-produits-tp-link)| TP-Link a corrigé une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant distant non authentifié d'exécuter des…| 28 mai 2024|
  |[ 47632705/24 - Zero-day critique corrigée dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-critique-corrigee-dans-google-chrome-0)| Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2024-5274». L’exploitation de cette faille peut permettre à un attaquant…| 27 mai 2024|
  |[ 47622705/24 - Vulnérabilités critiques dans les plugins WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-plugins-wordpress)| Plusieurs vulnérabilités critiques ont été corrigées dans les plugins du CMS WordPress  susmentionnés. Un attaquant pourrait exploiter ces failles afin de télécharger des fichiers arbitraires sur un…| 27 mai 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SEW-EURODRIVE MOVITOOLS MotionStudio XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-582/)|Visit link for details|2024-06-06|
+ |[Microsoft Azure SQL Managed Instance Documentation SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-581/)|Visit link for details|2024-06-06|
+ |[Microsoft Artifact Registry Container Images Empty Password Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-580/)|Visit link for details|2024-06-06|
+ |[Apple macOS PPM Image Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-579/)|Visit link for details|2024-06-06|
+ |[Apple macOS CoreGraphics Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-578/)|Visit link for details|2024-06-06|
+ |[Trend Micro Apex One Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-577/)|Visit link for details|2024-06-06|
+ |[Trend Micro Maximum Security coreServiceShell Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-576/)|Visit link for details|2024-06-06|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-575/)|Visit link for details|2024-06-06|
  
 
 # CA-CCS
