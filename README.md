@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/06/2024 09:21:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/06/2024 10:16:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6816-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6816-1-linux-kernel-vulnerabilities.50347/)|Visit link for details.|Jun 8, 2024|
- |[USN-6815-1: AOM vulnerability](https://www.linux.org/threads/usn-6815-1-aom-vulnerability.50328/)|Visit link for details.|Jun 6, 2024|
- |[USN-6814-1: libvpx vulnerability](https://www.linux.org/threads/usn-6814-1-libvpx-vulnerability.50327/)|Visit link for details.|Jun 6, 2024|
- |[USN-6567-2: QEMU regression](https://www.linux.org/threads/usn-6567-2-qemu-regression.50322/)|Visit link for details.|Jun 6, 2024|
- |[USN-6813-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6813-1-openjdk-21-vulnerabilities.50310/)|Visit link for details.|Jun 6, 2024|
- |[USN-6812-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6812-1-openjdk-17-vulnerabilities.50309/)|Visit link for details.|Jun 6, 2024|
- |[USN-6811-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6811-1-openjdk-11-vulnerabilities.50308/)|Visit link for details.|Jun 6, 2024|
- |[USN-6810-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6810-1-openjdk-8-vulnerabilities.50307/)|Visit link for details.|Jun 6, 2024|
- |[DSA-5706-1 libarchive - security update](https://www.linux.org/threads/dsa-5706-1-libarchive-security-update.50299/)|Visit link for details.|Jun 6, 2024|
- |[USN-6808-1: Atril vulnerability](https://www.linux.org/threads/usn-6808-1-atril-vulnerability.50297/)|Visit link for details.|Jun 6, 2024|
- |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -68,27 +51,21 @@
  |---|---|---|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[SysAid - CVE-2024-36394](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36394-2024-06-07)|Visit link for details.|07/06/2024|
- |[SysAid - CVE-2024-36393](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36393-2024-06-07)|Visit link for details.|07/06/2024|
- |[BitDefender - CVE-2024-4177](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-4177-2024-06-07)|Visit link for details.|07/06/2024|
- |[Dell - CVE-2023-32475](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32475-2024-06-07)|Visit link for details.|07/06/2024|
- |[Apple - CVE-2024-23257](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23257-2024-06-07)|Visit link for details.|07/06/2024|
- |[Cisco - CVE-2024-20404](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20404-2024-06-06)|Visit link for details.|06/06/2024|
- |[Grafana - CVE-2024-5526](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-5526-2024-06-06)|Visit link for details.|06/06/2024|
- |[SolarWinds - CVE-2024-29004](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29004-2024-06-06)|Visit link for details.|06/06/2024|
- |[Trend Micro - CVE-2024-36303](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-36303-2024-06-06)|Visit link for details.|06/06/2024|
- |[WordPress Unlimited Elements For Elementor - CVE-2024-5329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-unlimited-elements-elementor-cve-2024-5329-2024-06-06)|Visit link for details.|06/06/2024|
- |[Zyxel - CVE-2024-29972](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29972-2024-06-04)|Visit link for details.|06/06/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[USN-6816-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6816-1-linux-kernel-vulnerabilities.50347/)|Visit link for details.|Jun 8, 2024|
+ |[USN-6815-1: AOM vulnerability](https://www.linux.org/threads/usn-6815-1-aom-vulnerability.50328/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6814-1: libvpx vulnerability](https://www.linux.org/threads/usn-6814-1-libvpx-vulnerability.50327/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6567-2: QEMU regression](https://www.linux.org/threads/usn-6567-2-qemu-regression.50322/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6813-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6813-1-openjdk-21-vulnerabilities.50310/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6812-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6812-1-openjdk-17-vulnerabilities.50309/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6811-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6811-1-openjdk-11-vulnerabilities.50308/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6810-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6810-1-openjdk-8-vulnerabilities.50307/)|Visit link for details.|Jun 6, 2024|
+ |[DSA-5706-1 libarchive - security update](https://www.linux.org/threads/dsa-5706-1-libarchive-security-update.50299/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6808-1: Atril vulnerability](https://www.linux.org/threads/usn-6808-1-atril-vulnerability.50297/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
  
 
 # HK-CERT
@@ -120,6 +97,43 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SysAid - CVE-2024-36394](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36394-2024-06-07)|Visit link for details.|07/06/2024|
+ |[SysAid - CVE-2024-36393](https://www.cyberveille-sante.gouv.fr/alertes/sysaid-cve-2024-36393-2024-06-07)|Visit link for details.|07/06/2024|
+ |[BitDefender - CVE-2024-4177](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-4177-2024-06-07)|Visit link for details.|07/06/2024|
+ |[Dell - CVE-2023-32475](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2023-32475-2024-06-07)|Visit link for details.|07/06/2024|
+ |[Apple - CVE-2024-23257](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23257-2024-06-07)|Visit link for details.|07/06/2024|
+ |[Cisco - CVE-2024-20404](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20404-2024-06-06)|Visit link for details.|06/06/2024|
+ |[Grafana - CVE-2024-5526](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-5526-2024-06-06)|Visit link for details.|06/06/2024|
+ |[SolarWinds - CVE-2024-29004](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29004-2024-06-06)|Visit link for details.|06/06/2024|
+ |[Trend Micro - CVE-2024-36303](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-36303-2024-06-06)|Visit link for details.|06/06/2024|
+ |[WordPress Unlimited Elements For Elementor - CVE-2024-5329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-unlimited-elements-elementor-cve-2024-5329-2024-06-06)|Visit link for details.|06/06/2024|
+ |[Zyxel - CVE-2024-29972](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29972-2024-06-04)|Visit link for details.|06/06/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SEW-EURODRIVE MOVITOOLS MotionStudio XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-582/)|Visit link for details|2024-06-06|
+ |[Microsoft Azure SQL Managed Instance Documentation SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-581/)|Visit link for details|2024-06-06|
+ |[Microsoft Artifact Registry Container Images Empty Password Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-580/)|Visit link for details|2024-06-06|
+ |[Apple macOS PPM Image Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-579/)|Visit link for details|2024-06-06|
+ |[Apple macOS CoreGraphics Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-578/)|Visit link for details|2024-06-06|
+ |[Trend Micro Apex One Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-577/)|Visit link for details|2024-06-06|
+ |[Trend Micro Maximum Security coreServiceShell Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-576/)|Visit link for details|2024-06-06|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-575/)|Visit link for details|2024-06-06|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -135,20 +149,6 @@
  |[2024-047: Critical Vulnerability in GitHub Enterprise Server](https://cert.europa.eu/publications/security-advisories/2024-047/)|On May 21, 2024, GitHub disclosed a critical vulnerability in GitHub Enterprise Server (GHES) impacting instances using SAML single sign-on (SSO) with encrypted assertions. This vulnerability allows attackers to forge SAML responses, granting unauthorised administrative access without authentication.|Wednesday, May 22, 2024 07:53:23 PM CEST|
  |[2024-046: Multiple Vulnerabilities in Git](https://cert.europa.eu/publications/security-advisories/2024-046/)|On May 14, 2024, GitHub announced the release of Git version 2.45.1, addressing three critical vulnerabilities impacting multiple platforms, including Windows, macOS, Linux, and BSD. These vulnerabilities could allow for remote code execution and unauthorised file modifications.|Wednesday, May 22, 2024 07:48:08 PM CEST|
  |[2024-045: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-045/)|On May 16, 2024, Microsoft addressed 61 vulnerabilities in its May 2024 Patch Tuesday update, including two actively exploited zero-days. This Patch Tuesday also fixes one critical vulnerability, a Microsoft SharePoint Server Remote Code Execution Vulnerability.|Thursday, May 16, 2024 04:06:48 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[SEW-EURODRIVE MOVITOOLS MotionStudio XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-582/)|Visit link for details|2024-06-06|
- |[Microsoft Azure SQL Managed Instance Documentation SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-581/)|Visit link for details|2024-06-06|
- |[Microsoft Artifact Registry Container Images Empty Password Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-580/)|Visit link for details|2024-06-06|
- |[Apple macOS PPM Image Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-579/)|Visit link for details|2024-06-06|
- |[Apple macOS CoreGraphics Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-578/)|Visit link for details|2024-06-06|
- |[Trend Micro Apex One Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-577/)|Visit link for details|2024-06-06|
- |[Trend Micro Maximum Security coreServiceShell Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-576/)|Visit link for details|2024-06-06|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-575/)|Visit link for details|2024-06-06|
  
 
 # CA-CCS
