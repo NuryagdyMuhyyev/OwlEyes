@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/06/2024 22:16:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/06/2024 23:24:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,28 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
+ |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 03, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|May 30, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 30, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 29, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 28, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 28, 2024|
+ |[Cisco Releases May 2024 Cisco ASA, FMC, and FTD Software Security Publication ](https://www.cisa.gov/news-events/alerts/2024/05/24/cisco-releases-may-2024-cisco-asa-fmc-and-ftd-software-security-publication)|Visit link for details.|May 24, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,69 +68,10 @@
  |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2024-06-06] Updated...| Release Date: 3 Jun 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jun 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 31 May 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024...| Release Date: 2 May 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 5 Apr 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024...| Release Date: 2 Apr 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being exploited...| Release Date: 2 Apr 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 18 Mar 2024 |
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
- |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 03, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|May 30, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 30, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 29, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 28, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 28, 2024|
- |[Cisco Releases May 2024 Cisco ASA, FMC, and FTD Software Security Publication ](https://www.cisa.gov/news-events/alerts/2024/05/24/cisco-releases-may-2024-cisco-asa-fmc-and-ftd-software-security-publication)|Visit link for details.|May 24, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[NETGEAR R8000 command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[FreeFrom - the nostr client App for Android information disclosure (CVE-2024-36289)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[FreeFrom - the nostr client App for Android security bypass (CVE-2024-36279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[FreeFrom - the nostr client App for Android security bypass (CVE-2024-36277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[Music Store - WordPress eCommerce Plugin for WordPress SQL injection (CVE-2024-36082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[IBM Engineering Lifecycle Optimization Publishing file upload (CVE-2023-45188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[SEW-EURODRIVE MOVITOOLS MotionStudio XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-582/)|Visit link for details|2024-06-06|
- |[Microsoft Azure SQL Managed Instance Documentation SAS Token Incorrect Permission Assignment Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-581/)|Visit link for details|2024-06-06|
- |[Microsoft Artifact Registry Container Images Empty Password Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-580/)|Visit link for details|2024-06-06|
- |[Apple macOS PPM Image Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-579/)|Visit link for details|2024-06-06|
- |[Apple macOS CoreGraphics Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-578/)|Visit link for details|2024-06-06|
- |[Trend Micro Apex One Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-577/)|Visit link for details|2024-06-06|
- |[Trend Micro Maximum Security coreServiceShell Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-576/)|Visit link for details|2024-06-06|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-575/)|Visit link for details|2024-06-06|
  
 
 # CERT-SANTE
@@ -128,10 +91,33 @@
  |[Cisco - CVE-2024-20404](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20404-2024-06-06)|Visit link for details.|06/06/2024|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[NETGEAR R8000 command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[FreeFrom - the nostr client App for Android information disclosure (CVE-2024-36289)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[FreeFrom - the nostr client App for Android security bypass (CVE-2024-36279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[FreeFrom - the nostr client App for Android security bypass (CVE-2024-36277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[Music Store - WordPress eCommerce Plugin for WordPress SQL injection (CVE-2024-36082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[IBM Engineering Lifecycle Optimization Publishing file upload (CVE-2023-45188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2024-06-06] Updated...| Release Date: 3 Jun 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jun 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 31 May 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024...| Release Date: 2 May 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 5 Apr 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024...| Release Date: 2 Apr 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being exploited...| Release Date: 2 Apr 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 18 Mar 2024 |
  
 
 # EU-CERT
@@ -151,21 +137,18 @@
  |[2024-045: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-045/)|On May 16, 2024, Microsoft addressed 61 vulnerabilities in its May 2024 Patch Tuesday update, including two actively exploited zero-days. This Patch Tuesday also fixes one critical vulnerability, a Microsoft SharePoint Server Remote Code Execution Vulnerability.|Thursday, May 16, 2024 04:06:48 PM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 47751006/24 - Vulnérabilités affectant le plugin «WooCommerce Amazon Affiliates (WZone)»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-plugin-woocommerce-amazon-affiliates-wzone-pour-wordpress)| Trois vulnérabilités affectant le plugin « WooCommerce Amazon Affiliates (WZone)» pour     WordPress ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant…| 10 juin 2024|
- |[ 47741006/24 - Vulnérabilité dans VMware Tanzu ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-tanzu)| VMware annonce la correction d’une vulnérabilité affectant les versions susmentionnées de VMware Tanzu. L’exploitation de cette faille peut  permettre  à un attaquant de causer un déni de service.| 10 juin 2024|
- |[ 47721006/24 - Vulnérabilité critique dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-php)| PHP a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-4577) affectant les installations où PHP est utilisé en mode CGI. La vulnérabilité a un score CVSSv3 (Common…| 10 juin 2024|
- |[ 47710706/24 - vulnérabilité dans MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-1)| Une vulnérabilité a été corrigée dans MongoDB. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité de données.| 07 juin 2024|
- |[ 47710706/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-8)|  Deux vulnérabilités ont été corrigées dans l'interface de gestion web de Cisco Finesse. Un attaquant pourrait exploiter ces failles afin de provoquer une injection de code indirecte à distance…| 07 juin 2024|
- |[ 47690606/24 - Vulnérabilité dans les produits SolarWinds Platform ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-solarwinds-platform)| Une vulnérabilité a été corrigée dans SolarWinds Platform. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de provoquer une…| 06 juin 2024|
- |[ 47683105/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-4)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 31 mai 2024|
- |[ 47673105/24 - Vulnérabilité critique affectant le plugin «HTML5 Video Player» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-html5-video-player-pour-wordpress)| Une vulnérabilité critique affectant le plugin « HTML5 Video Player» pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’injecter du code SQL…| 31 mai 2024|
- |[ 47663005/24 - Zero Day affectant des produits Check Point ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-des-produits-check-point)| Un zero-day critique affectant plusieurs produits de Check Point a été corrigé. Selon Check Point, cette vulnérabilité qui affecte particulièrement l’accès VPN à ses produits vulnérables est…| 30 mai 2024|
- |[ 47652905/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge-0)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge.  L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de prendre le contrôle du…| 29 mai 2024|
- |[ 47642805/24 - Vulnérabilités critiques dans Cacti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-cacti)| Des vulnérabilités critiques ont été corrigées dans Cacti. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges ou de…| 28 mai 2024|
+ |[Linux Kernel Net Scheduler Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-593/)|Visit link for details|2024-06-10|
+ |[Linux Kernel nftables Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-592/)|Visit link for details|2024-06-10|
+ |[Linux Kernel RSVP Filter Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-591/)|Visit link for details|2024-06-10|
+ |[Linux Kernel ksmbd smb2_open Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-590/)|Visit link for details|2024-06-10|
+ |[Linux Kernel ksmbd Read Request Memory Leak Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-589/)|Visit link for details|2024-06-10|
+ |[Linux Kernel ksmbd Read Request Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-588/)|Visit link for details|2024-06-10|
+ |[Linux Kernel ksmbd SetInfo Request Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-587/)|Visit link for details|2024-06-10|
+ |[Linux Kernel ksmbd Transform Header Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-586/)|Visit link for details|2024-06-10|
  
 
 # CA-CCS
@@ -183,4 +166,21 @@
  |[HPE security advisory (AV24-315)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-315)|Visit link for details|2024-06-05|
  |[Microsoft Edge security advisory (AV24-314)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-314)|Visit link for details|2024-06-04|
  |[Android security advisory – June 2024 Monthly Rollup (AV24-313)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-june-2024-monthly-rollup-av24-313)|Visit link for details|2024-06-03|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47751006/24 - Vulnérabilités affectant le plugin «WooCommerce Amazon Affiliates (WZone)»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-plugin-woocommerce-amazon-affiliates-wzone-pour-wordpress)| Trois vulnérabilités affectant le plugin « WooCommerce Amazon Affiliates (WZone)» pour     WordPress ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant…| 10 juin 2024|
+ |[ 47741006/24 - Vulnérabilité dans VMware Tanzu ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-tanzu)| VMware annonce la correction d’une vulnérabilité affectant les versions susmentionnées de VMware Tanzu. L’exploitation de cette faille peut  permettre  à un attaquant de causer un déni de service.| 10 juin 2024|
+ |[ 47721006/24 - Vulnérabilité critique dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-php)| PHP a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-4577) affectant les installations où PHP est utilisé en mode CGI. La vulnérabilité a un score CVSSv3 (Common…| 10 juin 2024|
+ |[ 47710706/24 - vulnérabilité dans MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-1)| Une vulnérabilité a été corrigée dans MongoDB. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité de données.| 07 juin 2024|
+ |[ 47710706/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-8)|  Deux vulnérabilités ont été corrigées dans l'interface de gestion web de Cisco Finesse. Un attaquant pourrait exploiter ces failles afin de provoquer une injection de code indirecte à distance…| 07 juin 2024|
+ |[ 47690606/24 - Vulnérabilité dans les produits SolarWinds Platform ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-solarwinds-platform)| Une vulnérabilité a été corrigée dans SolarWinds Platform. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de provoquer une…| 06 juin 2024|
+ |[ 47683105/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-4)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 31 mai 2024|
+ |[ 47673105/24 - Vulnérabilité critique affectant le plugin «HTML5 Video Player» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-html5-video-player-pour-wordpress)| Une vulnérabilité critique affectant le plugin « HTML5 Video Player» pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’injecter du code SQL…| 31 mai 2024|
+ |[ 47663005/24 - Zero Day affectant des produits Check Point ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-des-produits-check-point)| Un zero-day critique affectant plusieurs produits de Check Point a été corrigé. Selon Check Point, cette vulnérabilité qui affecte particulièrement l’accès VPN à ses produits vulnérables est…| 30 mai 2024|
+ |[ 47652905/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge-0)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge.  L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de prendre le contrôle du…| 29 mai 2024|
+ |[ 47642805/24 - Vulnérabilités critiques dans Cacti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-cacti)| Des vulnérabilités critiques ont été corrigées dans Cacti. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges ou de…| 28 mai 2024|
  
