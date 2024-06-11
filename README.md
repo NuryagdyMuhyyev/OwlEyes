@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/06/2024 20:19:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/06/2024 21:23:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
- |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 03, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|May 30, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 30, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 29, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 28, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 28, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +50,22 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
+ |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 03, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|May 30, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 30, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 29, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 28, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 28, 2024|
  
 
 # CERT-SANTE
@@ -128,6 +128,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mozilla security advisory (AV24-327)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-327)|Visit link for details|2024-06-11|
+ |[[Control systems] Schneider Electric security advisory (AV24-326)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-326)|Visit link for details|2024-06-11|
  |[SAP security advisory – June 2024 monthly rollup (AV24-325)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2024-monthly-rollup-av24-325)|Visit link for details|2024-06-11|
  |[HPE security advisory (AV24-324)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-324)|Visit link for details|2024-06-11|
  |[Red Hat security advisory (AV24-323)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-323)|Visit link for details|2024-06-10|
@@ -137,22 +139,19 @@
  |[[Control systems] CISA ICS security advisories (AV24-319)](https://www.cyber.gc.ca/en/alerts-advisories/cisa-ics-security-advisories-av24-319)|Visit link for details|2024-06-10|
  |[SolarWinds security advisory (AV24-318)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-318)|Visit link for details|2024-06-06|
  |[HPE security advisory (AV24-317)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-317)|Visit link for details|2024-06-06|
- |[[Control systems] ABB security advisory (AV24-316)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-316)|Visit link for details|2024-06-06|
- |[HPE security advisory (AV24-315)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-315)|Visit link for details|2024-06-05|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Centreon initCurveList SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-597/)|Visit link for details|2024-06-10|
- |[Centreon updateServiceHost_MC SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-596/)|Visit link for details|2024-06-10|
- |[Centreon updateServiceHost SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-595/)|Visit link for details|2024-06-10|
- |[Siemens Tecnomatix Plant Simulation MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-594/)|Visit link for details|2024-06-10|
- |[Linux Kernel Net Scheduler Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-593/)|Visit link for details|2024-06-10|
- |[Linux Kernel nftables Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-592/)|Visit link for details|2024-06-10|
- |[Linux Kernel RSVP Filter Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-591/)|Visit link for details|2024-06-10|
- |[Linux Kernel ksmbd smb2_open Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-590/)|Visit link for details|2024-06-10|
+ |[Mozilla Firefox information disclosure (CVE-2024-5690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Mozilla Firefox security bypass (CVE-2024-5691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Mozilla Firefox code execution (CVE-2024-5700)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Apple visionOS privilege escalation (CVE-2024-27811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[Apple visionOS privilege escalation (CVE-2024-27815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[Apple visionOS privilege escalation (CVE-2024-27828)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # MA-CERT
@@ -172,15 +171,16 @@
  |[ 47652905/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge-0)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge.  L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de prendre le contrôle du…| 29 mai 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple visionOS privilege escalation (CVE-2024-27811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[Apple visionOS privilege escalation (CVE-2024-27815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[Apple visionOS privilege escalation (CVE-2024-27828)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[Apple visionOS privilege escalation (CVE-2024-27801)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[Apple visionOS privilege escalation (CVE-2024-27832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[Apple visionOS code execution (CVE-2024-27820)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[(0Day) Microsoft Windows Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-598/)|Visit link for details|2024-06-11|
+ |[Centreon initCurveList SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-597/)|Visit link for details|2024-06-10|
+ |[Centreon updateServiceHost_MC SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-596/)|Visit link for details|2024-06-10|
+ |[Centreon updateServiceHost SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-595/)|Visit link for details|2024-06-10|
+ |[Siemens Tecnomatix Plant Simulation MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-594/)|Visit link for details|2024-06-10|
+ |[Linux Kernel Net Scheduler Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-593/)|Visit link for details|2024-06-10|
+ |[Linux Kernel nftables Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-592/)|Visit link for details|2024-06-10|
+ |[Linux Kernel RSVP Filter Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-591/)|Visit link for details|2024-06-10|
  
