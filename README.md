@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/06/2024 21:23:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/06/2024 22:17:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,16 +46,11 @@
  |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
@@ -65,7 +60,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 30, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 29, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 28, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 28, 2024|
  
 
 # CERT-SANTE
@@ -91,6 +85,12 @@
  |---|---|---|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -105,6 +105,33 @@
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jun 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 31 May 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024...| Release Date: 2 May 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla Firefox denial of service (CVE-2024-5695)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Mozilla Firefox information disclosure (CVE-2024-5690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Mozilla Firefox security bypass (CVE-2024-5691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Mozilla Firefox code execution (CVE-2024-5700)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Apple visionOS privilege escalation (CVE-2024-27811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[Apple visionOS privilege escalation (CVE-2024-27815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[Apple visionOS privilege escalation (CVE-2024-27828)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Microsoft Windows Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-598/)|Visit link for details|2024-06-11|
+ |[Centreon initCurveList SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-597/)|Visit link for details|2024-06-10|
+ |[Centreon updateServiceHost_MC SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-596/)|Visit link for details|2024-06-10|
+ |[Centreon updateServiceHost SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-595/)|Visit link for details|2024-06-10|
+ |[Siemens Tecnomatix Plant Simulation MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-594/)|Visit link for details|2024-06-10|
+ |[Linux Kernel Net Scheduler Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-593/)|Visit link for details|2024-06-10|
+ |[Linux Kernel nftables Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-592/)|Visit link for details|2024-06-10|
+ |[Linux Kernel RSVP Filter Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-591/)|Visit link for details|2024-06-10|
  
 
 # EU-CERT
@@ -141,19 +168,6 @@
  |[HPE security advisory (AV24-317)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-317)|Visit link for details|2024-06-06|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla Firefox information disclosure (CVE-2024-5690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
- |[Mozilla Firefox security bypass (CVE-2024-5691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
- |[Mozilla Firefox code execution (CVE-2024-5700)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
- |[Apple visionOS privilege escalation (CVE-2024-27811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[Apple visionOS privilege escalation (CVE-2024-27815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[Apple visionOS privilege escalation (CVE-2024-27828)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -169,18 +183,4 @@
  |[ 47673105/24 - Vulnérabilité critique affectant le plugin «HTML5 Video Player» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-html5-video-player-pour-wordpress)| Une vulnérabilité critique affectant le plugin « HTML5 Video Player» pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’injecter du code SQL…| 31 mai 2024|
  |[ 47663005/24 - Zero Day affectant des produits Check Point ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-des-produits-check-point)| Un zero-day critique affectant plusieurs produits de Check Point a été corrigé. Selon Check Point, cette vulnérabilité qui affecte particulièrement l’accès VPN à ses produits vulnérables est…| 30 mai 2024|
  |[ 47652905/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge-0)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge.  L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de prendre le contrôle du…| 29 mai 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Microsoft Windows Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-598/)|Visit link for details|2024-06-11|
- |[Centreon initCurveList SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-597/)|Visit link for details|2024-06-10|
- |[Centreon updateServiceHost_MC SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-596/)|Visit link for details|2024-06-10|
- |[Centreon updateServiceHost SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-595/)|Visit link for details|2024-06-10|
- |[Siemens Tecnomatix Plant Simulation MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-594/)|Visit link for details|2024-06-10|
- |[Linux Kernel Net Scheduler Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-593/)|Visit link for details|2024-06-10|
- |[Linux Kernel nftables Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-592/)|Visit link for details|2024-06-10|
- |[Linux Kernel RSVP Filter Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-591/)|Visit link for details|2024-06-10|
  
