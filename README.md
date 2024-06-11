@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/06/2024 23:25:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/06/2024 00:15:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,36 +49,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6826-1: mod_jk vulnerability](https://www.linux.org/threads/usn-6826-1-mod_jk-vulnerability.50393/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6823-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6823-1-mysql-vulnerabilities.50392/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6817-2: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6817-2-linux-kernel-oem-vulnerabilities.50391/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6827-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6827-1-libtiff-vulnerability.50390/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6825-1: ADOdb vulnerabilities](https://www.linux.org/threads/usn-6825-1-adodb-vulnerabilities.50389/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6821-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6821-2-linux-kernel-vulnerabilities.50388/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6818-2: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6818-2-linux-kernel-arm-laptop-vulnerabilities.50387/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6824-1: GIFLIB vulnerabilities](https://www.linux.org/threads/usn-6824-1-giflib-vulnerabilities.50386/)|Visit link for details.|Jun 11, 2024|
+ |[LSN-0104-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0104-1-kernel-live-patch-security-notice.50385/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6822-1: Node.js vulnerabilities](https://www.linux.org/threads/usn-6822-1-node-js-vulnerabilities.50384/)|Visit link for details.|Jun 11, 2024|
  |[USN-6816-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6816-1-linux-kernel-vulnerabilities.50347/)|Visit link for details.|Jun 8, 2024|
- |[USN-6815-1: AOM vulnerability](https://www.linux.org/threads/usn-6815-1-aom-vulnerability.50328/)|Visit link for details.|Jun 6, 2024|
- |[USN-6814-1: libvpx vulnerability](https://www.linux.org/threads/usn-6814-1-libvpx-vulnerability.50327/)|Visit link for details.|Jun 6, 2024|
- |[USN-6567-2: QEMU regression](https://www.linux.org/threads/usn-6567-2-qemu-regression.50322/)|Visit link for details.|Jun 6, 2024|
- |[USN-6813-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6813-1-openjdk-21-vulnerabilities.50310/)|Visit link for details.|Jun 6, 2024|
- |[USN-6812-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6812-1-openjdk-17-vulnerabilities.50309/)|Visit link for details.|Jun 6, 2024|
- |[USN-6811-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6811-1-openjdk-11-vulnerabilities.50308/)|Visit link for details.|Jun 6, 2024|
- |[USN-6810-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6810-1-openjdk-8-vulnerabilities.50307/)|Visit link for details.|Jun 6, 2024|
- |[DSA-5706-1 libarchive - security update](https://www.linux.org/threads/dsa-5706-1-libarchive-security-update.50299/)|Visit link for details.|Jun 6, 2024|
- |[USN-6808-1: Atril vulnerability](https://www.linux.org/threads/usn-6808-1-atril-vulnerability.50297/)|Visit link for details.|Jun 6, 2024|
- |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla Firefox information disclosure (CVE-2024-5694)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
- |[Mozilla Firefox information disclosure (CVE-2024-5693)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
- |[Mozilla Firefox code execution (CVE-2024-5701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
- |[Mozilla Firefox denial of service (CVE-2024-5702)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
- |[Mozilla Firefox denial of service (CVE-2024-5696)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
- |[Mozilla Firefox denial of service (CVE-2024-5695)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
- |[Mozilla Firefox information disclosure (CVE-2024-5690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
  
 
 # CERT-SANTE
@@ -104,21 +91,17 @@
  |---|---|---|
  
 
-# EU-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[2024-055: SolarWinds High-Severity Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-055/)| On the 4th and 5th of June 2024, SolarWinds published four separate security advisories related to high-severity vulnerabilities in multiple products. CERT-EU strongly recommends patching them as soon as possible. |Saturday, June 08, 2024 11:43:12 AM CEST|
- |[2024-054: Confluence Data Center and Server Remote Code Execution](https://cert.europa.eu/publications/security-advisories/2024-054/)|A critical remote code execution (RCE) vulnerability, CVE-2024-21683, has been discovered in Atlassian's Confluence Data Center and Server. This vulnerability allows authenticated attackers with privileges of adding new macro languages to execute arbitrary code. |Friday, June 07, 2024 04:29:06 PM CEST|
- |[2024-053: Zero-day Vulnerability in Check Point Security Gateways](https://cert.europa.eu/publications/security-advisories/2024-053/)|On May 28, 2024, Check Point issued an advisory about a zero-day vulnerability, CVE-2024-24919, affecting Check Point Security Gateways. This high-severity information disclosure vulnerability can be exploited to gain unauthorised access to sensitive information on systems with remote Access VPN or Mobile Access Software Blades enabled.|Thursday, May 30, 2024 11:26:17 AM CEST|
- |[2024-052: Vulnerability in Cisco FMC Software](https://cert.europa.eu/publications/security-advisories/2024-052/)|On May 22, Cisco released an advisory regarding an SQL injection vulnerability affecting its Firepower Management Center (FMC) Software. If exploited, this vulnerability could allow an attacker to obtain any data from the database, execute arbitrary commands on the underlying operating system, and elevate privileges to root.|Tuesday, May 28, 2024 10:53:37 AM CEST|
- |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
- |[2024-050: Multiple Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-050/)|On May 15, 2024, Ivanti released a security advisory addressing multiple vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), formally known as MobileIron. An attacker could exploit these flaws to execute arbitrary commands on the appliance.|Wednesday, May 22, 2024 07:55:55 PM CEST|
- |[2024-049: Multiple Vulnerabilities in QNAP Products](https://cert.europa.eu/publications/security-advisories/2024-049/)|On May 21, 2024, QNAP released a security advisory addressing multiple flaws, including a zero-day vulnerability in the shared feature of QTS. These vulnerabilities could allow remote attackers to execute arbitrary code.|Wednesday, May 22, 2024 07:54:50 PM CEST|
- |[2024-048: Critical Vulnerability in Veeam Backup Enterprise Manager](https://cert.europa.eu/publications/security-advisories/2024-048/)|On May 21, 2024, Veeam issued fixes addressing multiple security flaws in Veeam Backup Enterprise Manager, including a critical vulnerability allowing unauthenticated attackers to bypass authentication and gain access to the web interface as any user.|Wednesday, May 22, 2024 07:54:05 PM CEST|
- |[2024-047: Critical Vulnerability in GitHub Enterprise Server](https://cert.europa.eu/publications/security-advisories/2024-047/)|On May 21, 2024, GitHub disclosed a critical vulnerability in GitHub Enterprise Server (GHES) impacting instances using SAML single sign-on (SSO) with encrypted assertions. This vulnerability allows attackers to forge SAML responses, granting unauthorised administrative access without authentication.|Wednesday, May 22, 2024 07:53:23 PM CEST|
- |[2024-046: Multiple Vulnerabilities in Git](https://cert.europa.eu/publications/security-advisories/2024-046/)|On May 14, 2024, GitHub announced the release of Git version 2.45.1, addressing three critical vulnerabilities impacting multiple platforms, including Windows, macOS, Linux, and BSD. These vulnerabilities could allow for remote code execution and unauthorised file modifications.|Wednesday, May 22, 2024 07:48:08 PM CEST|
- |[2024-045: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-045/)|On May 16, 2024, Microsoft addressed 61 vulnerabilities in its May 2024 Patch Tuesday update, including two actively exploited zero-days. This Patch Tuesday also fixes one critical vulnerability, a Microsoft SharePoint Server Remote Code Execution Vulnerability.|Thursday, May 16, 2024 04:06:48 PM CEST|
+ |[Mozilla Firefox information disclosure (CVE-2024-5694)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Mozilla Firefox information disclosure (CVE-2024-5693)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Mozilla Firefox code execution (CVE-2024-5701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Mozilla Firefox denial of service (CVE-2024-5702)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Mozilla Firefox denial of service (CVE-2024-5696)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Mozilla Firefox denial of service (CVE-2024-5695)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -137,6 +120,54 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240502)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024...| Release Date: 2 May 2024 |
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Microsoft Windows Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-598/)|Visit link for details|2024-06-11|
+ |[Centreon initCurveList SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-597/)|Visit link for details|2024-06-10|
+ |[Centreon updateServiceHost_MC SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-596/)|Visit link for details|2024-06-10|
+ |[Centreon updateServiceHost SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-595/)|Visit link for details|2024-06-10|
+ |[Siemens Tecnomatix Plant Simulation MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-594/)|Visit link for details|2024-06-10|
+ |[Linux Kernel Net Scheduler Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-593/)|Visit link for details|2024-06-10|
+ |[Linux Kernel nftables Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-592/)|Visit link for details|2024-06-10|
+ |[Linux Kernel RSVP Filter Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-591/)|Visit link for details|2024-06-10|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-055: SolarWinds High-Severity Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-055/)| On the 4th and 5th of June 2024, SolarWinds published four separate security advisories related to high-severity vulnerabilities in multiple products. CERT-EU strongly recommends patching them as soon as possible. |Saturday, June 08, 2024 11:43:12 AM CEST|
+ |[2024-054: Confluence Data Center and Server Remote Code Execution](https://cert.europa.eu/publications/security-advisories/2024-054/)|A critical remote code execution (RCE) vulnerability, CVE-2024-21683, has been discovered in Atlassian's Confluence Data Center and Server. This vulnerability allows authenticated attackers with privileges of adding new macro languages to execute arbitrary code. |Friday, June 07, 2024 04:29:06 PM CEST|
+ |[2024-053: Zero-day Vulnerability in Check Point Security Gateways](https://cert.europa.eu/publications/security-advisories/2024-053/)|On May 28, 2024, Check Point issued an advisory about a zero-day vulnerability, CVE-2024-24919, affecting Check Point Security Gateways. This high-severity information disclosure vulnerability can be exploited to gain unauthorised access to sensitive information on systems with remote Access VPN or Mobile Access Software Blades enabled.|Thursday, May 30, 2024 11:26:17 AM CEST|
+ |[2024-052: Vulnerability in Cisco FMC Software](https://cert.europa.eu/publications/security-advisories/2024-052/)|On May 22, Cisco released an advisory regarding an SQL injection vulnerability affecting its Firepower Management Center (FMC) Software. If exploited, this vulnerability could allow an attacker to obtain any data from the database, execute arbitrary commands on the underlying operating system, and elevate privileges to root.|Tuesday, May 28, 2024 10:53:37 AM CEST|
+ |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
+ |[2024-050: Multiple Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-050/)|On May 15, 2024, Ivanti released a security advisory addressing multiple vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), formally known as MobileIron. An attacker could exploit these flaws to execute arbitrary commands on the appliance.|Wednesday, May 22, 2024 07:55:55 PM CEST|
+ |[2024-049: Multiple Vulnerabilities in QNAP Products](https://cert.europa.eu/publications/security-advisories/2024-049/)|On May 21, 2024, QNAP released a security advisory addressing multiple flaws, including a zero-day vulnerability in the shared feature of QTS. These vulnerabilities could allow remote attackers to execute arbitrary code.|Wednesday, May 22, 2024 07:54:50 PM CEST|
+ |[2024-048: Critical Vulnerability in Veeam Backup Enterprise Manager](https://cert.europa.eu/publications/security-advisories/2024-048/)|On May 21, 2024, Veeam issued fixes addressing multiple security flaws in Veeam Backup Enterprise Manager, including a critical vulnerability allowing unauthenticated attackers to bypass authentication and gain access to the web interface as any user.|Wednesday, May 22, 2024 07:54:05 PM CEST|
+ |[2024-047: Critical Vulnerability in GitHub Enterprise Server](https://cert.europa.eu/publications/security-advisories/2024-047/)|On May 21, 2024, GitHub disclosed a critical vulnerability in GitHub Enterprise Server (GHES) impacting instances using SAML single sign-on (SSO) with encrypted assertions. This vulnerability allows attackers to forge SAML responses, granting unauthorised administrative access without authentication.|Wednesday, May 22, 2024 07:53:23 PM CEST|
+ |[2024-046: Multiple Vulnerabilities in Git](https://cert.europa.eu/publications/security-advisories/2024-046/)|On May 14, 2024, GitHub announced the release of Git version 2.45.1, addressing three critical vulnerabilities impacting multiple platforms, including Windows, macOS, Linux, and BSD. These vulnerabilities could allow for remote code execution and unauthorised file modifications.|Wednesday, May 22, 2024 07:48:08 PM CEST|
+ |[2024-045: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-045/)|On May 16, 2024, Microsoft addressed 61 vulnerabilities in its May 2024 Patch Tuesday update, including two actively exploited zero-days. This Patch Tuesday also fixes one critical vulnerability, a Microsoft SharePoint Server Remote Code Execution Vulnerability.|Thursday, May 16, 2024 04:06:48 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft security advisory – June 2024 monthly rollup (AV24-330)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2024-monthly-rollup-av24-330)|Visit link for details|2024-06-11|
+ |[JetBrains security advisory (AV24-329)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-329)|Visit link for details|2024-06-11|
+ |[[Control systems] Siemens security advisory (AV24-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-328)|Visit link for details|2024-06-11|
+ |[Mozilla security advisory (AV24-327)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-327)|Visit link for details|2024-06-11|
+ |[[Control systems] Schneider Electric security advisory (AV24-326)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-326)|Visit link for details|2024-06-11|
+ |[SAP security advisory – June 2024 monthly rollup (AV24-325)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2024-monthly-rollup-av24-325)|Visit link for details|2024-06-11|
+ |[HPE security advisory (AV24-324)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-324)|Visit link for details|2024-06-11|
+ |[Red Hat security advisory (AV24-323)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-323)|Visit link for details|2024-06-10|
+ |[Ubuntu security advisory (AV24-322)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-322)|Visit link for details|2024-06-10|
+ |[IBM security advisory (AV24-321)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-321)|Visit link for details|2024-06-10|
+ |[Dell security advisory (AV24-320)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-320)|Visit link for details|2024-06-10|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -152,35 +183,4 @@
  |[ 47673105/24 - Vulnérabilité critique affectant le plugin «HTML5 Video Player» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-html5-video-player-pour-wordpress)| Une vulnérabilité critique affectant le plugin « HTML5 Video Player» pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’injecter du code SQL…| 31 mai 2024|
  |[ 47663005/24 - Zero Day affectant des produits Check Point ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-des-produits-check-point)| Un zero-day critique affectant plusieurs produits de Check Point a été corrigé. Selon Check Point, cette vulnérabilité qui affecte particulièrement l’accès VPN à ses produits vulnérables est…| 30 mai 2024|
  |[ 47652905/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge-0)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge.  L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de prendre le contrôle du…| 29 mai 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Siemens security advisory (AV24-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-328)|Visit link for details|2024-06-11|
- |[Mozilla security advisory (AV24-327)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-327)|Visit link for details|2024-06-11|
- |[[Control systems] Schneider Electric security advisory (AV24-326)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-326)|Visit link for details|2024-06-11|
- |[SAP security advisory – June 2024 monthly rollup (AV24-325)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2024-monthly-rollup-av24-325)|Visit link for details|2024-06-11|
- |[HPE security advisory (AV24-324)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-324)|Visit link for details|2024-06-11|
- |[Red Hat security advisory (AV24-323)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-323)|Visit link for details|2024-06-10|
- |[Ubuntu security advisory (AV24-322)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-322)|Visit link for details|2024-06-10|
- |[IBM security advisory (AV24-321)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-321)|Visit link for details|2024-06-10|
- |[Dell security advisory (AV24-320)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-320)|Visit link for details|2024-06-10|
- |[[Control systems] CISA ICS security advisories (AV24-319)](https://www.cyber.gc.ca/en/alerts-advisories/cisa-ics-security-advisories-av24-319)|Visit link for details|2024-06-10|
- |[SolarWinds security advisory (AV24-318)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-318)|Visit link for details|2024-06-06|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Microsoft Windows Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-598/)|Visit link for details|2024-06-11|
- |[Centreon initCurveList SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-597/)|Visit link for details|2024-06-10|
- |[Centreon updateServiceHost_MC SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-596/)|Visit link for details|2024-06-10|
- |[Centreon updateServiceHost SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-595/)|Visit link for details|2024-06-10|
- |[Siemens Tecnomatix Plant Simulation MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-594/)|Visit link for details|2024-06-10|
- |[Linux Kernel Net Scheduler Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-593/)|Visit link for details|2024-06-10|
- |[Linux Kernel nftables Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-592/)|Visit link for details|2024-06-10|
- |[Linux Kernel RSVP Filter Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-591/)|Visit link for details|2024-06-10|
  
