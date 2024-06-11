@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/06/2024 04:18:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/06/2024 06:19:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6816-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6816-1-linux-kernel-vulnerabilities.50347/)|Visit link for details.|Jun 8, 2024|
- |[USN-6815-1: AOM vulnerability](https://www.linux.org/threads/usn-6815-1-aom-vulnerability.50328/)|Visit link for details.|Jun 6, 2024|
- |[USN-6814-1: libvpx vulnerability](https://www.linux.org/threads/usn-6814-1-libvpx-vulnerability.50327/)|Visit link for details.|Jun 6, 2024|
- |[USN-6567-2: QEMU regression](https://www.linux.org/threads/usn-6567-2-qemu-regression.50322/)|Visit link for details.|Jun 6, 2024|
- |[USN-6813-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6813-1-openjdk-21-vulnerabilities.50310/)|Visit link for details.|Jun 6, 2024|
- |[USN-6812-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6812-1-openjdk-17-vulnerabilities.50309/)|Visit link for details.|Jun 6, 2024|
- |[USN-6811-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6811-1-openjdk-11-vulnerabilities.50308/)|Visit link for details.|Jun 6, 2024|
- |[USN-6810-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6810-1-openjdk-8-vulnerabilities.50307/)|Visit link for details.|Jun 6, 2024|
- |[DSA-5706-1 libarchive - security update](https://www.linux.org/threads/dsa-5706-1-libarchive-security-update.50299/)|Visit link for details.|Jun 6, 2024|
- |[USN-6808-1: Atril vulnerability](https://www.linux.org/threads/usn-6808-1-atril-vulnerability.50297/)|Visit link for details.|Jun 6, 2024|
- |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,16 +45,21 @@
  |[Cisco Releases May 2024 Cisco ASA, FMC, and FTD Software Security Publication ](https://www.cisa.gov/news-events/alerts/2024/05/24/cisco-releases-may-2024-cisco-asa-fmc-and-ftd-software-security-publication)|Visit link for details.|May 24, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[USN-6816-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6816-1-linux-kernel-vulnerabilities.50347/)|Visit link for details.|Jun 8, 2024|
+ |[USN-6815-1: AOM vulnerability](https://www.linux.org/threads/usn-6815-1-aom-vulnerability.50328/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6814-1: libvpx vulnerability](https://www.linux.org/threads/usn-6814-1-libvpx-vulnerability.50327/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6567-2: QEMU regression](https://www.linux.org/threads/usn-6567-2-qemu-regression.50322/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6813-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6813-1-openjdk-21-vulnerabilities.50310/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6812-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6812-1-openjdk-17-vulnerabilities.50309/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6811-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6811-1-openjdk-11-vulnerabilities.50308/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6810-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6810-1-openjdk-8-vulnerabilities.50307/)|Visit link for details.|Jun 6, 2024|
+ |[DSA-5706-1 libarchive - security update](https://www.linux.org/threads/dsa-5706-1-libarchive-security-update.50299/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6808-1: Atril vulnerability](https://www.linux.org/threads/usn-6808-1-atril-vulnerability.50297/)|Visit link for details.|Jun 6, 2024|
+ |[USN-6809-1: BlueZ vulnerabilities](https://www.linux.org/threads/usn-6809-1-bluez-vulnerabilities.50296/)|Visit link for details.|Jun 6, 2024|
  
 
 # CERT-SANTE
@@ -91,23 +79,23 @@
  |[Cisco - CVE-2024-20404](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20404-2024-06-06)|Visit link for details.|06/06/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple visionOS denial of service (CVE-2024-27800)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[Apple visionOS security bypass (CVE-2024-27840)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[Apple visionOS code execution (CVE-2024-27831)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
- |[NETGEAR R8000 command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[FreeFrom - the nostr client App for Android information disclosure (CVE-2024-36289)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[FreeFrom - the nostr client App for Android security bypass (CVE-2024-36279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 7, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild. The vulnerability is caused due...|Release Date: 11 Jun 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2024-06-06] Updated...| Release Date: 3 Jun 2024 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
@@ -117,7 +105,19 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240405)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 5 Apr 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024...| Release Date: 2 Apr 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240402)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-1086 is being exploited...| Release Date: 2 Apr 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240318)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Notes...| Release Date: 18 Mar 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple visionOS privilege escalation (CVE-2024-27811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[Apple visionOS privilege escalation (CVE-2024-27815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[Apple visionOS privilege escalation (CVE-2024-27828)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[Apple visionOS privilege escalation (CVE-2024-27801)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[Apple visionOS privilege escalation (CVE-2024-27832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[Apple visionOS code execution (CVE-2024-27820)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 10, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -151,23 +151,6 @@
  |[Linux Kernel ksmbd smb2_open Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-590/)|Visit link for details|2024-06-10|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Red Hat security advisory (AV24-323)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-323)|Visit link for details|2024-06-10|
- |[Ubuntu security advisory (AV24-322)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-322)|Visit link for details|2024-06-10|
- |[IBM security advisory (AV24-321)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-321)|Visit link for details|2024-06-10|
- |[Dell security advisory (AV24-320)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-320)|Visit link for details|2024-06-10|
- |[[Control systems] CISA ICS security advisories (AV24-319)](https://www.cyber.gc.ca/en/alerts-advisories/cisa-ics-security-advisories-av24-319)|Visit link for details|2024-06-10|
- |[SolarWinds security advisory (AV24-318)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-318)|Visit link for details|2024-06-06|
- |[HPE security advisory (AV24-317)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-317)|Visit link for details|2024-06-06|
- |[[Control systems] ABB security advisory (AV24-316)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-316)|Visit link for details|2024-06-06|
- |[HPE security advisory (AV24-315)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-315)|Visit link for details|2024-06-05|
- |[Microsoft Edge security advisory (AV24-314)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-314)|Visit link for details|2024-06-04|
- |[Android security advisory – June 2024 Monthly Rollup (AV24-313)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-june-2024-monthly-rollup-av24-313)|Visit link for details|2024-06-03|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 47663005/24 - Zero Day affectant des produits Check Point ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-des-produits-check-point)| Un zero-day critique affectant plusieurs produits de Check Point a été corrigé. Selon Check Point, cette vulnérabilité qui affecte particulièrement l’accès VPN à ses produits vulnérables est…| 30 mai 2024|
  |[ 47652905/24 - Vulnérabilités critiques dans Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-edge-0)| Plusieurs vulnérabilités critiques ont été corrigées dans Microsoft Edge.  L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de prendre le contrôle du…| 29 mai 2024|
  |[ 47642805/24 - Vulnérabilités critiques dans Cacti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-cacti)| Des vulnérabilités critiques ont été corrigées dans Cacti. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges ou de…| 28 mai 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Red Hat security advisory (AV24-323)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-323)|Visit link for details|2024-06-10|
+ |[Ubuntu security advisory (AV24-322)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-322)|Visit link for details|2024-06-10|
+ |[IBM security advisory (AV24-321)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-321)|Visit link for details|2024-06-10|
+ |[Dell security advisory (AV24-320)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-320)|Visit link for details|2024-06-10|
+ |[[Control systems] CISA ICS security advisories (AV24-319)](https://www.cyber.gc.ca/en/alerts-advisories/cisa-ics-security-advisories-av24-319)|Visit link for details|2024-06-10|
+ |[SolarWinds security advisory (AV24-318)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-318)|Visit link for details|2024-06-06|
+ |[HPE security advisory (AV24-317)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-317)|Visit link for details|2024-06-06|
+ |[[Control systems] ABB security advisory (AV24-316)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-316)|Visit link for details|2024-06-06|
+ |[HPE security advisory (AV24-315)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-315)|Visit link for details|2024-06-05|
+ |[Microsoft Edge security advisory (AV24-314)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-314)|Visit link for details|2024-06-04|
+ |[Android security advisory – June 2024 Monthly Rollup (AV24-313)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-june-2024-monthly-rollup-av24-313)|Visit link for details|2024-06-03|
  
