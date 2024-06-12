@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/06/2024 01:19:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/06/2024 02:17:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,29 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PHP - CVE-2024-1874](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-1874-2024-06-12)|Visit link for details.|12/06/2024|
+ |[Microsoft - CVE-2024-37325](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-37325-2024-06-12)|Visit link for details.|12/06/2024|
+ |[Microsoft - CVE-2024-30080](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30080-2024-06-12)|Visit link for details.|12/06/2024|
+ |[MicroDicom - CVE-2024-33606](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-33606-2024-06-12)|Visit link for details.|12/06/2024|
+ |[MicroDicom - CVE-2024-28877](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-28877-2024-06-12)|Visit link for details.|12/06/2024|
+ |[Microsoft - CVE-2024-26165](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26165-2024-03-18)|Visit link for details.|12/06/2024|
+ |[Microsoft Edge - CVE-2024-26192](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-26192-2024-02-27)|Visit link for details.|12/06/2024|
+ |[ISC BIND - CVE-2023-50868](https://www.cyberveille-sante.gouv.fr/alertes/isc-bind-cve-2023-50868-2024-06-10)|Visit link for details.|12/06/2024|
+ |[WordPress Unlimited Elements For Elementor - CVE-2024-5329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-unlimited-elements-elementor-cve-2024-5329-2024-06-06)|Visit link for details.|12/06/2024|
+ |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|12/06/2024|
+ |[Veeam - CVE-2024-29855](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29855-2024-06-11)|Visit link for details.|11/06/2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,30 +117,21 @@
  |[Microsoft Azure Monitor Agent privilege escalation (CVE-2024-35254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
  |[Mozilla Firefox code execution (CVE-2024-5688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
  |[Mozilla Firefox security bypass (CVE-2024-5699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
- |[Mozilla Firefox security bypass (CVE-2024-5697)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[PHP - CVE-2024-1874](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-1874-2024-06-12)|Visit link for details.|12/06/2024|
- |[Microsoft - CVE-2024-37325](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-37325-2024-06-12)|Visit link for details.|12/06/2024|
- |[Microsoft - CVE-2024-30080](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30080-2024-06-12)|Visit link for details.|12/06/2024|
- |[MicroDicom - CVE-2024-33606](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-33606-2024-06-12)|Visit link for details.|12/06/2024|
- |[MicroDicom - CVE-2024-28877](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-28877-2024-06-12)|Visit link for details.|12/06/2024|
- |[Microsoft - CVE-2024-26165](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26165-2024-03-18)|Visit link for details.|12/06/2024|
- |[Microsoft Edge - CVE-2024-26192](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-26192-2024-02-27)|Visit link for details.|12/06/2024|
- |[ISC BIND - CVE-2023-50868](https://www.cyberveille-sante.gouv.fr/alertes/isc-bind-cve-2023-50868-2024-06-10)|Visit link for details.|12/06/2024|
- |[WordPress Unlimited Elements For Elementor - CVE-2024-5329](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-unlimited-elements-elementor-cve-2024-5329-2024-06-06)|Visit link for details.|12/06/2024|
- |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|12/06/2024|
- |[Veeam - CVE-2024-29855](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29855-2024-06-11)|Visit link for details.|11/06/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-669/)|Visit link for details|2024-06-12|
+ |[IrfanView SHP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-668/)|Visit link for details|2024-06-12|
+ |[IrfanView PNT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-667/)|Visit link for details|2024-06-12|
+ |[IrfanView PIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-666/)|Visit link for details|2024-06-12|
+ |[(Pwn2Own) Mozilla Firefox Exposed Dangerous Function Sandbox Escape Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-665/)|Visit link for details|2024-06-12|
+ |[(Pwn2Own) Mozilla Firefox SpiderMonkey JIT Compiler Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-664/)|Visit link for details|2024-06-12|
+ |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-663/)|Visit link for details|2024-06-12|
+ |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-662/)|Visit link for details|2024-06-12|
  
 
 # EU-CERT
@@ -137,23 +151,6 @@
  |[2024-047: Critical Vulnerability in GitHub Enterprise Server](https://cert.europa.eu/publications/security-advisories/2024-047/)|On May 21, 2024, GitHub disclosed a critical vulnerability in GitHub Enterprise Server (GHES) impacting instances using SAML single sign-on (SSO) with encrypted assertions. This vulnerability allows attackers to forge SAML responses, granting unauthorised administrative access without authentication.|Wednesday, May 22, 2024 07:53:23 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47841206/24 - Vulnérabilités dans Apple visionOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apple-visionos)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
- |[ 47821206/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-12)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
- |[ 47811206/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-13)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
- |[ 47781206/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 12 juin 2024|
- |[ 47771206/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-juin-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de causer un déni de…| 12 juin 2024|
- |[ 47801206/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 12 juin 2024|
- |[ 47791206/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 12 juin 2024|
- |[ 47761106/24 - Vulnérabilités affectant les pilotes d’affichage de NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-pilotes-daffichage-de-nvidia)| Plusieurs vulnérabilités affectant certains pilotes d’affichage de NVIDIA  ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’élever ses privilèges,…| 11 juin 2024|
- |[ 47751006/24 - Vulnérabilités affectant le plugin «WooCommerce Amazon Affiliates (WZone)»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-plugin-woocommerce-amazon-affiliates-wzone-pour-wordpress)| Trois vulnérabilités affectant le plugin « WooCommerce Amazon Affiliates (WZone)» pour     WordPress ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant…| 10 juin 2024|
- |[ 47741006/24 - Vulnérabilité dans VMware Tanzu ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-tanzu)| VMware annonce la correction d’une vulnérabilité affectant les versions susmentionnées de VMware Tanzu. L’exploitation de cette faille peut  permettre  à un attaquant de causer un déni de service.| 10 juin 2024|
- |[ 47721006/24 - Vulnérabilité critique dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-php)| PHP a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-4577) affectant les installations où PHP est utilisé en mode CGI. La vulnérabilité a un score CVSSv3 (Common…| 10 juin 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -171,16 +168,19 @@
  |[SAP security advisory – June 2024 monthly rollup (AV24-325)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2024-monthly-rollup-av24-325)|Visit link for details|2024-06-11|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-663/)|Visit link for details|2024-06-12|
- |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-662/)|Visit link for details|2024-06-12|
- |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-661/)|Visit link for details|2024-06-12|
- |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-660/)|Visit link for details|2024-06-12|
- |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-659/)|Visit link for details|2024-06-12|
- |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-658/)|Visit link for details|2024-06-12|
- |[Delta Electronics CNCSoft-G2 DOPSoft ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-657/)|Visit link for details|2024-06-12|
- |[Delta Electronics CNCSoft-G2 DOPSoft ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-656/)|Visit link for details|2024-06-12|
+ |[ 47841206/24 - Vulnérabilités dans Apple visionOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apple-visionos)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
+ |[ 47821206/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-12)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
+ |[ 47811206/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-13)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
+ |[ 47781206/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 12 juin 2024|
+ |[ 47771206/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-juin-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de causer un déni de…| 12 juin 2024|
+ |[ 47801206/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 12 juin 2024|
+ |[ 47791206/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 12 juin 2024|
+ |[ 47761106/24 - Vulnérabilités affectant les pilotes d’affichage de NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-pilotes-daffichage-de-nvidia)| Plusieurs vulnérabilités affectant certains pilotes d’affichage de NVIDIA  ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’élever ses privilèges,…| 11 juin 2024|
+ |[ 47751006/24 - Vulnérabilités affectant le plugin «WooCommerce Amazon Affiliates (WZone)»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-plugin-woocommerce-amazon-affiliates-wzone-pour-wordpress)| Trois vulnérabilités affectant le plugin « WooCommerce Amazon Affiliates (WZone)» pour     WordPress ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant…| 10 juin 2024|
+ |[ 47741006/24 - Vulnérabilité dans VMware Tanzu ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-tanzu)| VMware annonce la correction d’une vulnérabilité affectant les versions susmentionnées de VMware Tanzu. L’exploitation de cette faille peut  permettre  à un attaquant de causer un déni de service.| 10 juin 2024|
+ |[ 47721006/24 - Vulnérabilité critique dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-php)| PHP a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-4577) affectant les installations où PHP est utilisé en mode CGI. La vulnérabilité a un score CVSSv3 (Common…| 10 juin 2024|
  
