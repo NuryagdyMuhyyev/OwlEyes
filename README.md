@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/06/2024 07:34:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/06/2024 08:20:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,45 +45,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|May 29, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240612)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, data manipulation, sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 12 Jun 2024 |
- |[Apple VisionOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-visionos-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in Apple VisionOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jun 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild. The vulnerability is caused due...|Release Date: 11 Jun 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Jun 2024 |
- |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:The CVE-2024-4577 vulnerability is being exploited in the wild. This vulnerability allows...|Release Date: 11 Jun 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2024-06-06] Updated...| Release Date: 3 Jun 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jun 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240531)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 31 May 2024 |
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Veeam - CVE-2024-29855](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29855-2024-06-11)|Visit link for details.|11/06/2024|
- |[Artica - CVE-2024-35307](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2024-35307-2024-06-11)|Visit link for details.|11/06/2024|
- |[Norton - CVE-2024-5102](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2024-5102-2024-06-11)|Visit link for details.|11/06/2024|
- |[Netgear - CVE-2024-51635](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-51635-2024-06-11)|Visit link for details.|11/06/2024|
- |[Apple - CVE-2024-27833](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27833-2024-06-11)|Visit link for details.|11/06/2024|
- |[Veeam - CVE-2024-29849](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29849-2024-05-22)|Visit link for details.|11/06/2024|
- |[Microsoft SharePoint - CVE-2023-24955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-24955-2024-03-27)|Visit link for details.|11/06/2024|
- |[SolarWinds - CVE-2024-28995](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28995-2024-06-10)|Visit link for details.|10/06/2024|
- |[PHP - CVE-2024-5585](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-5585-2024-06-10)|Visit link for details.|10/06/2024|
- |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|10/06/2024|
- |[Mitel - CVE-2024-37569](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-37569-2024-06-10)|Visit link for details.|10/06/2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -101,7 +62,7 @@
  |[LSN-0104-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0104-1-kernel-live-patch-security-notice.50385/)|Visit link for details.|Jun 11, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -120,6 +81,22 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...|Release Date: 12 Jun 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240612)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, data manipulation, sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 12 Jun 2024 |
+ |[Microsoft Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskRemote Code ExecutionDenial of ServiceElevation of PrivilegeInformation Disclosure Microsoft Office Medium RiskRemote Code Execution ...|Release Date: 12 Jun 2024 |
+ |[Apple VisionOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-visionos-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in Apple VisionOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jun 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild. The vulnerability is caused due...|Release Date: 11 Jun 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Jun 2024 |
+ |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:The CVE-2024-4577 vulnerability is being exploited in the wild. This vulnerability allows...|Release Date: 11 Jun 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2024-06-06] Updated...| Release Date: 3 Jun 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -132,6 +109,29 @@
  |[Centreon updateServiceHost SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-595/)|Visit link for details|2024-06-10|
  |[Siemens Tecnomatix Plant Simulation MODEL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-594/)|Visit link for details|2024-06-10|
  |[Linux Kernel Net Scheduler Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-593/)|Visit link for details|2024-06-10|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam - CVE-2024-29855](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29855-2024-06-11)|Visit link for details.|11/06/2024|
+ |[Artica - CVE-2024-35307](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2024-35307-2024-06-11)|Visit link for details.|11/06/2024|
+ |[Norton - CVE-2024-5102](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2024-5102-2024-06-11)|Visit link for details.|11/06/2024|
+ |[Netgear - CVE-2024-51635](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-51635-2024-06-11)|Visit link for details.|11/06/2024|
+ |[Apple - CVE-2024-27833](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27833-2024-06-11)|Visit link for details.|11/06/2024|
+ |[Veeam - CVE-2024-29849](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29849-2024-05-22)|Visit link for details.|11/06/2024|
+ |[Microsoft SharePoint - CVE-2023-24955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-24955-2024-03-27)|Visit link for details.|11/06/2024|
+ |[SolarWinds - CVE-2024-28995](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28995-2024-06-10)|Visit link for details.|10/06/2024|
+ |[PHP - CVE-2024-5585](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-5585-2024-06-10)|Visit link for details.|10/06/2024|
+ |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|10/06/2024|
+ |[Mitel - CVE-2024-37569](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-37569-2024-06-10)|Visit link for details.|10/06/2024|
  
 
 # EU-CERT
