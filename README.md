@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/06/2024 19:16:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/06/2024 20:18:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,10 +68,20 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft - CVE-2024-37325](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-37325-2024-06-12)|Visit link for details.|12/06/2024|
+ |[Microsoft - CVE-2024-30080](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30080-2024-06-12)|Visit link for details.|12/06/2024|
+ |[MicroDicom - CVE-2024-33606](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-33606-2024-06-12)|Visit link for details.|12/06/2024|
+ |[MicroDicom - CVE-2024-28877](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-28877-2024-06-12)|Visit link for details.|12/06/2024|
  |[Microsoft - CVE-2024-26165](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-26165-2024-03-18)|Visit link for details.|12/06/2024|
  |[Microsoft Edge - CVE-2024-26192](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-26192-2024-02-27)|Visit link for details.|12/06/2024|
  |[ISC BIND - CVE-2023-50868](https://www.cyberveille-sante.gouv.fr/alertes/isc-bind-cve-2023-50868-2024-06-10)|Visit link for details.|12/06/2024|
@@ -79,16 +89,6 @@
  |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|12/06/2024|
  |[Veeam - CVE-2024-29855](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29855-2024-06-11)|Visit link for details.|11/06/2024|
  |[Artica - CVE-2024-35307](https://www.cyberveille-sante.gouv.fr/alertes/artica-cve-2024-35307-2024-06-11)|Visit link for details.|11/06/2024|
- |[Norton - CVE-2024-5102](https://www.cyberveille-sante.gouv.fr/alertes/norton-cve-2024-5102-2024-06-11)|Visit link for details.|11/06/2024|
- |[Netgear - CVE-2024-51635](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-51635-2024-06-11)|Visit link for details.|11/06/2024|
- |[Apple - CVE-2024-27833](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27833-2024-06-11)|Visit link for details.|11/06/2024|
- |[Microsoft SharePoint - CVE-2023-24955](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-24955-2024-03-27)|Visit link for details.|11/06/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -137,6 +137,37 @@
  |[2024-047: Critical Vulnerability in GitHub Enterprise Server](https://cert.europa.eu/publications/security-advisories/2024-047/)|On May 21, 2024, GitHub disclosed a critical vulnerability in GitHub Enterprise Server (GHES) impacting instances using SAML single sign-on (SSO) with encrypted assertions. This vulnerability allows attackers to forge SAML responses, granting unauthorised administrative access without authentication.|Wednesday, May 22, 2024 07:53:23 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Luxion KeyShot Viewer JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-612/)|Visit link for details|2024-06-12|
+ |[Luxion KeyShot Viewer X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-611/)|Visit link for details|2024-06-12|
+ |[Advantech iView ConfigurationServlet SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-610/)|Visit link for details|2024-06-12|
+ |[Microsoft Windows Menu DC Pen Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-609/)|Visit link for details|2024-06-12|
+ |[Microsoft Windows Menu DC Brush Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-608/)|Visit link for details|2024-06-12|
+ |[(Pwn2Own) Microsoft Windows mskssrv Driver Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-607/)|Visit link for details|2024-06-12|
+ |[(Pwn2Own) Microsoft Windows NtQueryInformationToken Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-606/)|Visit link for details|2024-06-12|
+ |[(Pwn2Own) Microsoft Windows win32kfull Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-605/)|Visit link for details|2024-06-12|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam security advisory (AV24-333)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-333)|Visit link for details|2024-06-12|
+ |[Google Chrome security advisory (AV24-332)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-332)|Visit link for details|2024-06-12|
+ |[Adobe security advisory (AV24-331)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-331)|Visit link for details|2024-06-11|
+ |[Microsoft security advisory – June 2024 monthly rollup (AV24-330)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2024-monthly-rollup-av24-330)|Visit link for details|2024-06-11|
+ |[JetBrains security advisory (AV24-329)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-329)|Visit link for details|2024-06-11|
+ |[[Control systems] Siemens security advisory (AV24-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-328)|Visit link for details|2024-06-11|
+ |[Mozilla security advisory (AV24-327)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-327)|Visit link for details|2024-06-11|
+ |[[Control systems] Schneider Electric security advisory (AV24-326)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-326)|Visit link for details|2024-06-11|
+ |[SAP security advisory – June 2024 monthly rollup (AV24-325)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2024-monthly-rollup-av24-325)|Visit link for details|2024-06-11|
+ |[HPE security advisory (AV24-324)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-324)|Visit link for details|2024-06-11|
+ |[Red Hat security advisory (AV24-323)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-323)|Visit link for details|2024-06-10|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -152,35 +183,4 @@
  |[ 47751006/24 - Vulnérabilités affectant le plugin «WooCommerce Amazon Affiliates (WZone)»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-plugin-woocommerce-amazon-affiliates-wzone-pour-wordpress)| Trois vulnérabilités affectant le plugin « WooCommerce Amazon Affiliates (WZone)» pour     WordPress ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant…| 10 juin 2024|
  |[ 47741006/24 - Vulnérabilité dans VMware Tanzu ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-tanzu)| VMware annonce la correction d’une vulnérabilité affectant les versions susmentionnées de VMware Tanzu. L’exploitation de cette faille peut  permettre  à un attaquant de causer un déni de service.| 10 juin 2024|
  |[ 47721006/24 - Vulnérabilité critique dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-php)| PHP a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-4577) affectant les installations où PHP est utilisé en mode CGI. La vulnérabilité a un score CVSSv3 (Common…| 10 juin 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Advantech iView ConfigurationServlet SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-610/)|Visit link for details|2024-06-12|
- |[Microsoft Windows Menu DC Pen Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-609/)|Visit link for details|2024-06-12|
- |[Microsoft Windows Menu DC Brush Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-608/)|Visit link for details|2024-06-12|
- |[(Pwn2Own) Microsoft Windows mskssrv Driver Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-607/)|Visit link for details|2024-06-12|
- |[(Pwn2Own) Microsoft Windows NtQueryInformationToken Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-606/)|Visit link for details|2024-06-12|
- |[(Pwn2Own) Microsoft Windows win32kfull Improper Input Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-605/)|Visit link for details|2024-06-12|
- |[(Pwn2Own) Microsoft Windows UnserializePropertySet Privilege Context Switching Error Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-604/)|Visit link for details|2024-06-12|
- |[(Pwn2Own) Microsoft Windows UnserializePropertySet Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-603/)|Visit link for details|2024-06-12|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-332)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-332)|Visit link for details|2024-06-12|
- |[Adobe security advisory (AV24-331)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-331)|Visit link for details|2024-06-11|
- |[Microsoft security advisory – June 2024 monthly rollup (AV24-330)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2024-monthly-rollup-av24-330)|Visit link for details|2024-06-11|
- |[JetBrains security advisory (AV24-329)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-329)|Visit link for details|2024-06-11|
- |[[Control systems] Siemens security advisory (AV24-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-328)|Visit link for details|2024-06-11|
- |[Mozilla security advisory (AV24-327)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-327)|Visit link for details|2024-06-11|
- |[[Control systems] Schneider Electric security advisory (AV24-326)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-326)|Visit link for details|2024-06-11|
- |[SAP security advisory – June 2024 monthly rollup (AV24-325)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2024-monthly-rollup-av24-325)|Visit link for details|2024-06-11|
- |[HPE security advisory (AV24-324)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-324)|Visit link for details|2024-06-11|
- |[Red Hat security advisory (AV24-323)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-323)|Visit link for details|2024-06-10|
- |[Ubuntu security advisory (AV24-322)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-322)|Visit link for details|2024-06-10|
  
