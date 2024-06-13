@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/06/2024 17:34:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/06/2024 18:20:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,7 +51,24 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5709-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5709-1-firefox-esr-security-update.50410/)|Visit link for details.|Jun 13, 2024|
+ |[DSA-5708-1 cyrus-imapd - security update](https://www.linux.org/threads/dsa-5708-1-cyrus-imapd-security-update.50396/)|Visit link for details.|Jun 11, 2024|
+ |[DSA-5707-1 vlc - security update](https://www.linux.org/threads/dsa-5707-1-vlc-security-update.50395/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6826-1: mod_jk vulnerability](https://www.linux.org/threads/usn-6826-1-mod_jk-vulnerability.50393/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6823-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6823-1-mysql-vulnerabilities.50392/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6817-2: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6817-2-linux-kernel-oem-vulnerabilities.50391/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6827-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6827-1-libtiff-vulnerability.50390/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6825-1: ADOdb vulnerabilities](https://www.linux.org/threads/usn-6825-1-adodb-vulnerabilities.50389/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6821-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6821-2-linux-kernel-vulnerabilities.50388/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6818-2: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6818-2-linux-kernel-arm-laptop-vulnerabilities.50387/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6824-1: GIFLIB vulnerabilities](https://www.linux.org/threads/usn-6824-1-giflib-vulnerabilities.50386/)|Visit link for details.|Jun 11, 2024|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -74,23 +91,6 @@
  |[Veeam - CVE-2024-29855](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29855-2024-06-11)|Visit link for details.|11/06/2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5709-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5709-1-firefox-esr-security-update.50410/)|Visit link for details.|Jun 13, 2024|
- |[DSA-5708-1 cyrus-imapd - security update](https://www.linux.org/threads/dsa-5708-1-cyrus-imapd-security-update.50396/)|Visit link for details.|Jun 11, 2024|
- |[DSA-5707-1 vlc - security update](https://www.linux.org/threads/dsa-5707-1-vlc-security-update.50395/)|Visit link for details.|Jun 11, 2024|
- |[USN-6826-1: mod_jk vulnerability](https://www.linux.org/threads/usn-6826-1-mod_jk-vulnerability.50393/)|Visit link for details.|Jun 11, 2024|
- |[USN-6823-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6823-1-mysql-vulnerabilities.50392/)|Visit link for details.|Jun 11, 2024|
- |[USN-6817-2: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6817-2-linux-kernel-oem-vulnerabilities.50391/)|Visit link for details.|Jun 11, 2024|
- |[USN-6827-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6827-1-libtiff-vulnerability.50390/)|Visit link for details.|Jun 11, 2024|
- |[USN-6825-1: ADOdb vulnerabilities](https://www.linux.org/threads/usn-6825-1-adodb-vulnerabilities.50389/)|Visit link for details.|Jun 11, 2024|
- |[USN-6821-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6821-2-linux-kernel-vulnerabilities.50388/)|Visit link for details.|Jun 11, 2024|
- |[USN-6818-2: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6818-2-linux-kernel-arm-laptop-vulnerabilities.50387/)|Visit link for details.|Jun 11, 2024|
- |[USN-6824-1: GIFLIB vulnerabilities](https://www.linux.org/threads/usn-6824-1-giflib-vulnerabilities.50386/)|Visit link for details.|Jun 11, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -107,10 +107,17 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2024-06-06] Updated...| Release Date: 3 Jun 2024 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[IPCOM EX2 Series denial of service (CVE-2024-36454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[GitLab Community Edition and Enterprise Edition denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2024-1963)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2024-1736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[GitLab Community Edition and Enterprise Edition denial of service (CVE-2024-1495)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[Apache Submarine Server Core security bypass (CVE-2024-36265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
