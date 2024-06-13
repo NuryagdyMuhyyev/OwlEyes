@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/06/2024 06:19:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/06/2024 07:33:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
- |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
- |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
- |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 03, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|May 30, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,13 +46,23 @@
  |[USN-6824-1: GIFLIB vulnerabilities](https://www.linux.org/threads/usn-6824-1-giflib-vulnerabilities.50386/)|Visit link for details.|Jun 11, 2024|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
+ |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
+ |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
+ |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jun 03, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/05/30/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|May 30, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -91,6 +85,28 @@
  |[Veeam - CVE-2024-29855](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29855-2024-06-11)|Visit link for details.|11/06/2024|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. |Release Date: 13 Jun 2024 |
+ |[Mozilla Firefox Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20240613)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure,  spoofing and security restriction bypass on the targeted system.|Release Date: 13 Jun 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-06-13] Updated Solutions and Related Links.| Release Date: 11 Jun 2024 |
+ |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...|Release Date: 12 Jun 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240612)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, data manipulation, sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 12 Jun 2024 |
+ |[Microsoft Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskRemote Code ExecutionDenial of ServiceElevation of PrivilegeInformation Disclosure Microsoft Office Medium RiskRemote Code Execution ...|Release Date: 12 Jun 2024 |
+ |[Apple VisionOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-visionos-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in Apple VisionOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jun 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild. The vulnerability is caused due...|Release Date: 11 Jun 2024 |
+ |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:The CVE-2024-4577 vulnerability is being exploited in the wild. This vulnerability allows...|Release Date: 11 Jun 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2024-06-06] Updated...| Release Date: 3 Jun 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -104,20 +120,18 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# HK-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...|Release Date: 12 Jun 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240612)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, data manipulation, sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 12 Jun 2024 |
- |[Microsoft Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskRemote Code ExecutionDenial of ServiceElevation of PrivilegeInformation Disclosure Microsoft Office Medium RiskRemote Code Execution ...|Release Date: 12 Jun 2024 |
- |[Apple VisionOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-visionos-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in Apple VisionOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jun 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Notes:CVE-2024-5274 is being exploited in the wild. The vulnerability is caused due...|Release Date: 11 Jun 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Jun 2024 |
- |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. Note:The CVE-2024-4577 vulnerability is being exploited in the wild. This vulnerability allows...|Release Date: 11 Jun 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, information disclosure, remote code execution and elevation of privilege on the targeted system. [Updated on 2024-06-06] Updated...| Release Date: 3 Jun 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240604)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Jun 2024 |
+ |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-669/)|Visit link for details|2024-06-12|
+ |[IrfanView SHP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-668/)|Visit link for details|2024-06-12|
+ |[IrfanView PNT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-667/)|Visit link for details|2024-06-12|
+ |[IrfanView PIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-666/)|Visit link for details|2024-06-12|
+ |[(Pwn2Own) Mozilla Firefox Exposed Dangerous Function Sandbox Escape Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-665/)|Visit link for details|2024-06-12|
+ |[(Pwn2Own) Mozilla Firefox SpiderMonkey JIT Compiler Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-664/)|Visit link for details|2024-06-12|
+ |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-663/)|Visit link for details|2024-06-12|
+ |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-662/)|Visit link for details|2024-06-12|
  
 
 # EU-CERT
@@ -137,18 +151,21 @@
  |[2024-047: Critical Vulnerability in GitHub Enterprise Server](https://cert.europa.eu/publications/security-advisories/2024-047/)|On May 21, 2024, GitHub disclosed a critical vulnerability in GitHub Enterprise Server (GHES) impacting instances using SAML single sign-on (SSO) with encrypted assertions. This vulnerability allows attackers to forge SAML responses, granting unauthorised administrative access without authentication.|Wednesday, May 22, 2024 07:53:23 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-669/)|Visit link for details|2024-06-12|
- |[IrfanView SHP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-668/)|Visit link for details|2024-06-12|
- |[IrfanView PNT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-667/)|Visit link for details|2024-06-12|
- |[IrfanView PIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-666/)|Visit link for details|2024-06-12|
- |[(Pwn2Own) Mozilla Firefox Exposed Dangerous Function Sandbox Escape Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-665/)|Visit link for details|2024-06-12|
- |[(Pwn2Own) Mozilla Firefox SpiderMonkey JIT Compiler Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-664/)|Visit link for details|2024-06-12|
- |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-663/)|Visit link for details|2024-06-12|
- |[Delta Electronics CNCSoft-G2 DOPSoft DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-662/)|Visit link for details|2024-06-12|
+ |[[Control systems] ABB security advisory (AV24-334)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-334)|Visit link for details|2024-06-12|
+ |[Unauthorized user access to Snowflake customer accounts](https://www.cyber.gc.ca/en/alerts-advisories/unauthorized-user-access-snowflake-customer-accounts)|Visit link for details|2024-06-12|
+ |[Veeam security advisory (AV24-333)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-333)|Visit link for details|2024-06-12|
+ |[Google Chrome security advisory (AV24-332)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-332)|Visit link for details|2024-06-12|
+ |[Adobe security advisory (AV24-331)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-331)|Visit link for details|2024-06-11|
+ |[Microsoft security advisory – June 2024 monthly rollup (AV24-330)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2024-monthly-rollup-av24-330)|Visit link for details|2024-06-11|
+ |[JetBrains security advisory (AV24-329)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-329)|Visit link for details|2024-06-11|
+ |[[Control systems] Siemens security advisory (AV24-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-328)|Visit link for details|2024-06-11|
+ |[Mozilla security advisory (AV24-327)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-327)|Visit link for details|2024-06-11|
+ |[[Control systems] Schneider Electric security advisory (AV24-326)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-326)|Visit link for details|2024-06-11|
+ |[SAP security advisory – June 2024 monthly rollup (AV24-325)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2024-monthly-rollup-av24-325)|Visit link for details|2024-06-11|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[ 47751006/24 - Vulnérabilités affectant le plugin «WooCommerce Amazon Affiliates (WZone)»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-plugin-woocommerce-amazon-affiliates-wzone-pour-wordpress)| Trois vulnérabilités affectant le plugin « WooCommerce Amazon Affiliates (WZone)» pour     WordPress ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant…| 10 juin 2024|
  |[ 47741006/24 - Vulnérabilité dans VMware Tanzu ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-tanzu)| VMware annonce la correction d’une vulnérabilité affectant les versions susmentionnées de VMware Tanzu. L’exploitation de cette faille peut  permettre  à un attaquant de causer un déni de service.| 10 juin 2024|
  |[ 47721006/24 - Vulnérabilité critique dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-php)| PHP a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-4577) affectant les installations où PHP est utilisé en mode CGI. La vulnérabilité a un score CVSSv3 (Common…| 10 juin 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] ABB security advisory (AV24-334)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-334)|Visit link for details|2024-06-12|
- |[Unauthorized user access to Snowflake customer accounts](https://www.cyber.gc.ca/en/alerts-advisories/unauthorized-user-access-snowflake-customer-accounts)|Visit link for details|2024-06-12|
- |[Veeam security advisory (AV24-333)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-333)|Visit link for details|2024-06-12|
- |[Google Chrome security advisory (AV24-332)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-332)|Visit link for details|2024-06-12|
- |[Adobe security advisory (AV24-331)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-331)|Visit link for details|2024-06-11|
- |[Microsoft security advisory – June 2024 monthly rollup (AV24-330)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2024-monthly-rollup-av24-330)|Visit link for details|2024-06-11|
- |[JetBrains security advisory (AV24-329)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-329)|Visit link for details|2024-06-11|
- |[[Control systems] Siemens security advisory (AV24-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-328)|Visit link for details|2024-06-11|
- |[Mozilla security advisory (AV24-327)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-327)|Visit link for details|2024-06-11|
- |[[Control systems] Schneider Electric security advisory (AV24-326)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-326)|Visit link for details|2024-06-11|
- |[SAP security advisory – June 2024 monthly rollup (AV24-325)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2024-monthly-rollup-av24-325)|Visit link for details|2024-06-11|
  
