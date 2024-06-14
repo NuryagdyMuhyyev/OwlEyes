@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/06/2024 09:21:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/06/2024 10:17:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -84,6 +84,12 @@
  |[Microsoft Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskRemote Code ExecutionDenial of ServiceElevation of PrivilegeInformation Disclosure Microsoft Office Medium RiskRemote Code Execution ...|Release Date: 12 Jun 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -93,7 +99,7 @@
  |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-30058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
  |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-38083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
  |[Microsoft Edge for iOS spoofing (CVE-2024-30057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[Palo Alto Networks Cortex XDR Agent denial of service (CVE-2024-5905)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2024|
+ |[Apache Airflow information disclosure (CVE-2024-25142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 12, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
@@ -114,12 +120,6 @@
  |[MicroDicom - CVE-2024-28877](https://www.cyberveille-sante.gouv.fr/alertes/microdicom-cve-2024-28877-2024-06-12)|Visit link for details.|12/06/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -132,23 +132,6 @@
  |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-770/)|Visit link for details|2024-06-13|
  |[Autodesk AutoCAD SLDASM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-769/)|Visit link for details|2024-06-13|
  |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-768/)|Visit link for details|2024-06-13|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] ABB security advisory (AV24-334)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-334)|Visit link for details|2024-06-12|
- |[Unauthorized user access to Snowflake customer accounts](https://www.cyber.gc.ca/en/alerts-advisories/unauthorized-user-access-snowflake-customer-accounts)|Visit link for details|2024-06-12|
- |[Veeam security advisory (AV24-333)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-333)|Visit link for details|2024-06-12|
- |[Google Chrome security advisory (AV24-332)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-332)|Visit link for details|2024-06-12|
- |[Adobe security advisory (AV24-331)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-331)|Visit link for details|2024-06-11|
- |[Microsoft security advisory – June 2024 monthly rollup (AV24-330)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2024-monthly-rollup-av24-330)|Visit link for details|2024-06-11|
- |[JetBrains security advisory (AV24-329)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-329)|Visit link for details|2024-06-11|
- |[[Control systems] Siemens security advisory (AV24-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-328)|Visit link for details|2024-06-11|
- |[Mozilla security advisory (AV24-327)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-327)|Visit link for details|2024-06-11|
- |[[Control systems] Schneider Electric security advisory (AV24-326)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-326)|Visit link for details|2024-06-11|
- |[SAP security advisory – June 2024 monthly rollup (AV24-325)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2024-monthly-rollup-av24-325)|Visit link for details|2024-06-11|
  
 
 # EU-CERT
@@ -166,6 +149,23 @@
  |[2024-050: Multiple Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-050/)|On May 15, 2024, Ivanti released a security advisory addressing multiple vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), formally known as MobileIron. An attacker could exploit these flaws to execute arbitrary commands on the appliance.|Wednesday, May 22, 2024 07:55:55 PM CEST|
  |[2024-049: Multiple Vulnerabilities in QNAP Products](https://cert.europa.eu/publications/security-advisories/2024-049/)|On May 21, 2024, QNAP released a security advisory addressing multiple flaws, including a zero-day vulnerability in the shared feature of QTS. These vulnerabilities could allow remote attackers to execute arbitrary code.|Wednesday, May 22, 2024 07:54:50 PM CEST|
  |[2024-048: Critical Vulnerability in Veeam Backup Enterprise Manager](https://cert.europa.eu/publications/security-advisories/2024-048/)|On May 21, 2024, Veeam issued fixes addressing multiple security flaws in Veeam Backup Enterprise Manager, including a critical vulnerability allowing unauthenticated attackers to bypass authentication and gain access to the web interface as any user.|Wednesday, May 22, 2024 07:54:05 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] ABB security advisory (AV24-334)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-334)|Visit link for details|2024-06-12|
+ |[Unauthorized user access to Snowflake customer accounts](https://www.cyber.gc.ca/en/alerts-advisories/unauthorized-user-access-snowflake-customer-accounts)|Visit link for details|2024-06-12|
+ |[Veeam security advisory (AV24-333)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-333)|Visit link for details|2024-06-12|
+ |[Google Chrome security advisory (AV24-332)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-332)|Visit link for details|2024-06-12|
+ |[Adobe security advisory (AV24-331)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-331)|Visit link for details|2024-06-11|
+ |[Microsoft security advisory – June 2024 monthly rollup (AV24-330)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2024-monthly-rollup-av24-330)|Visit link for details|2024-06-11|
+ |[JetBrains security advisory (AV24-329)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-329)|Visit link for details|2024-06-11|
+ |[[Control systems] Siemens security advisory (AV24-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-328)|Visit link for details|2024-06-11|
+ |[Mozilla security advisory (AV24-327)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-327)|Visit link for details|2024-06-11|
+ |[[Control systems] Schneider Electric security advisory (AV24-326)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-326)|Visit link for details|2024-06-11|
+ |[SAP security advisory – June 2024 monthly rollup (AV24-325)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2024-monthly-rollup-av24-325)|Visit link for details|2024-06-11|
  
 
 # MA-CERT
