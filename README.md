@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/06/2024 23:25:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/06/2024 00:14:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5709-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5709-1-firefox-esr-security-update.50410/)|Visit link for details.|Jun 13, 2024|
- |[DSA-5708-1 cyrus-imapd - security update](https://www.linux.org/threads/dsa-5708-1-cyrus-imapd-security-update.50396/)|Visit link for details.|Jun 11, 2024|
- |[DSA-5707-1 vlc - security update](https://www.linux.org/threads/dsa-5707-1-vlc-security-update.50395/)|Visit link for details.|Jun 11, 2024|
- |[USN-6826-1: mod_jk vulnerability](https://www.linux.org/threads/usn-6826-1-mod_jk-vulnerability.50393/)|Visit link for details.|Jun 11, 2024|
- |[USN-6823-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6823-1-mysql-vulnerabilities.50392/)|Visit link for details.|Jun 11, 2024|
- |[USN-6817-2: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6817-2-linux-kernel-oem-vulnerabilities.50391/)|Visit link for details.|Jun 11, 2024|
- |[USN-6827-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6827-1-libtiff-vulnerability.50390/)|Visit link for details.|Jun 11, 2024|
- |[USN-6825-1: ADOdb vulnerabilities](https://www.linux.org/threads/usn-6825-1-adodb-vulnerabilities.50389/)|Visit link for details.|Jun 11, 2024|
- |[USN-6821-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6821-2-linux-kernel-vulnerabilities.50388/)|Visit link for details.|Jun 11, 2024|
- |[USN-6818-2: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6818-2-linux-kernel-arm-laptop-vulnerabilities.50387/)|Visit link for details.|Jun 11, 2024|
- |[USN-6824-1: GIFLIB vulnerabilities](https://www.linux.org/threads/usn-6824-1-giflib-vulnerabilities.50386/)|Visit link for details.|Jun 11, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
  |---|---|---|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5709-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5709-1-firefox-esr-security-update.50410/)|Visit link for details.|Jun 13, 2024|
+ |[DSA-5708-1 cyrus-imapd - security update](https://www.linux.org/threads/dsa-5708-1-cyrus-imapd-security-update.50396/)|Visit link for details.|Jun 11, 2024|
+ |[DSA-5707-1 vlc - security update](https://www.linux.org/threads/dsa-5707-1-vlc-security-update.50395/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6826-1: mod_jk vulnerability](https://www.linux.org/threads/usn-6826-1-mod_jk-vulnerability.50393/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6823-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6823-1-mysql-vulnerabilities.50392/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6817-2: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6817-2-linux-kernel-oem-vulnerabilities.50391/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6827-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6827-1-libtiff-vulnerability.50390/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6825-1: ADOdb vulnerabilities](https://www.linux.org/threads/usn-6825-1-adodb-vulnerabilities.50389/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6821-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6821-2-linux-kernel-vulnerabilities.50388/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6818-2: Linux kernel (ARM laptop) vulnerabilities](https://www.linux.org/threads/usn-6818-2-linux-kernel-arm-laptop-vulnerabilities.50387/)|Visit link for details.|Jun 11, 2024|
+ |[USN-6824-1: GIFLIB vulnerabilities](https://www.linux.org/threads/usn-6824-1-giflib-vulnerabilities.50386/)|Visit link for details.|Jun 11, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,37 +84,23 @@
  |[Microsoft Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskRemote Code ExecutionDenial of ServiceElevation of PrivilegeInformation Disclosure Microsoft Office Medium RiskRemote Code Execution ...|Release Date: 12 Jun 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[TRENDnet TEW-814DAP denial of service (CVE-2024-37641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[Mozilla Firefox for iOS security bypass (CVE-2024-38312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[Mozilla Firefox for iOS spoofing (CVE-2024-38313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-30058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-38083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[Microsoft Edge for iOS spoofing (CVE-2024-30057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Autodesk AutoCAD STEP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-775/)|Visit link for details|2024-06-13|
- |[(0Day) Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-774/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-773/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-772/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD X_B File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-771/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-770/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD SLDASM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-769/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-768/)|Visit link for details|2024-06-13|
+ |[TRENDnet TEW-814DAP default account (CVE-2024-37644)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
+ |[TRENDnet TEW-814DAP command execution (CVE-2024-37642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
+ |[TRENDnet TEW-814DAP denial of service (CVE-2024-37643)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
+ |[TRENDnet TEW-814DAP denial of service (CVE-2024-37645)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
+ |[TRENDnet TEW-814DAP denial of service (CVE-2024-37641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
+ |[Mozilla Firefox for iOS security bypass (CVE-2024-38312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # CERT-SANTE
@@ -132,6 +118,20 @@
  |[SolarWinds - CVE-2024-28995](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28995-2024-06-10)|Visit link for details.|14/06/2024|
  |[OpenText - CVE-2024-4190](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-4190-2024-06-13)|Visit link for details.|13/06/2024|
  |[Mozilla - CVE-2024-5688](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-5688-2024-06-13)|Visit link for details.|13/06/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Autodesk AutoCAD STEP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-775/)|Visit link for details|2024-06-13|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-774/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-773/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-772/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD X_B File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-771/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-770/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD SLDASM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-769/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-768/)|Visit link for details|2024-06-13|
  
 
 # EU-CERT
