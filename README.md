@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/06/2024 03:17:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/06/2024 04:20:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
- |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
- |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
- |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
- |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -68,12 +52,6 @@
  |[USN-6827-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6827-1-libtiff-vulnerability.50390/)|Visit link for details.|Jun 11, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -89,6 +67,22 @@
  |[SolarWinds - CVE-2024-28995](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28995-2024-06-10)|Visit link for details.|14/06/2024|
  |[OpenText - CVE-2024-4190](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-4190-2024-06-13)|Visit link for details.|13/06/2024|
  |[Mozilla - CVE-2024-5688](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-5688-2024-06-13)|Visit link for details.|13/06/2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
+ |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
+ |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
+ |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
+ |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
  
 
 # HK-CERT
@@ -107,6 +101,12 @@
  |[Microsoft Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskRemote Code ExecutionDenial of ServiceElevation of PrivilegeInformation Disclosure Microsoft Office Medium RiskRemote Code Execution ...|Release Date: 12 Jun 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,20 +118,6 @@
  |[Toshiba Tec and Oki Electric Industry MFPs (multifunction printers) security bypass (CVE-2024-27180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
  |[Toshiba Tec and Oki Electric Industry MFPs (multifunction printers) local file include (CVE-2024-27175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel USB Core Out-Of-Bounds Read Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-778/)|Visit link for details|2024-06-14|
- |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-777/)|Visit link for details|2024-06-14|
- |[(Pwn2Own) Oracle VirtualBox OHCI USB Controller Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-776/)|Visit link for details|2024-06-14|
- |[Autodesk AutoCAD STEP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-775/)|Visit link for details|2024-06-13|
- |[(0Day) Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-774/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-773/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-772/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD X_B File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-771/)|Visit link for details|2024-06-13|
  
 
 # EU-CERT
@@ -149,6 +135,20 @@
  |[2024-050: Multiple Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-050/)|On May 15, 2024, Ivanti released a security advisory addressing multiple vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), formally known as MobileIron. An attacker could exploit these flaws to execute arbitrary commands on the appliance.|Wednesday, May 22, 2024 07:55:55 PM CEST|
  |[2024-049: Multiple Vulnerabilities in QNAP Products](https://cert.europa.eu/publications/security-advisories/2024-049/)|On May 21, 2024, QNAP released a security advisory addressing multiple flaws, including a zero-day vulnerability in the shared feature of QTS. These vulnerabilities could allow remote attackers to execute arbitrary code.|Wednesday, May 22, 2024 07:54:50 PM CEST|
  |[2024-048: Critical Vulnerability in Veeam Backup Enterprise Manager](https://cert.europa.eu/publications/security-advisories/2024-048/)|On May 21, 2024, Veeam issued fixes addressing multiple security flaws in Veeam Backup Enterprise Manager, including a critical vulnerability allowing unauthenticated attackers to bypass authentication and gain access to the web interface as any user.|Wednesday, May 22, 2024 07:54:05 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel USB Core Out-Of-Bounds Read Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-778/)|Visit link for details|2024-06-14|
+ |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-777/)|Visit link for details|2024-06-14|
+ |[(Pwn2Own) Oracle VirtualBox OHCI USB Controller Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-776/)|Visit link for details|2024-06-14|
+ |[Autodesk AutoCAD STEP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-775/)|Visit link for details|2024-06-13|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-774/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-773/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-772/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD X_B File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-771/)|Visit link for details|2024-06-13|
  
 
 # CA-CCS
