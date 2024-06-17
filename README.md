@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/06/2024 04:20:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/06/2024 06:21:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
+ |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
+ |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
+ |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
+ |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
  
 
 # LINUX-SEC
@@ -52,37 +62,10 @@
  |[USN-6827-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6827-1-libtiff-vulnerability.50390/)|Visit link for details.|Jun 11, 2024|
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[PHP - CVE-2024-2757](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-2757-2024-06-14)|Visit link for details.|14/06/2024|
- |[Microsoft - CVE-2024-35249](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-35249-2024-06-14)|Visit link for details.|14/06/2024|
- |[D-Link - CVE-2024-37630](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37630-2024-06-14)|Visit link for details.|14/06/2024|
- |[Centreon - CVE-2024-5723](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5723-2024-06-14)|Visit link for details.|14/06/2024|
- |[Google - CVE-2024-32896](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-32896-2024-06-14)|Visit link for details.|14/06/2024|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|14/06/2024|
- |[runc - CVE-2024-21626](https://www.cyberveille-sante.gouv.fr/alertes/runc-cve-2024-21626-2024-02-05)|Visit link for details.|14/06/2024|
- |[Google - CVE-2024-5830](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5830-2024-06-13)|Visit link for details.|14/06/2024|
- |[SolarWinds - CVE-2024-28995](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28995-2024-06-10)|Visit link for details.|14/06/2024|
- |[OpenText - CVE-2024-4190](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-4190-2024-06-13)|Visit link for details.|13/06/2024|
- |[Mozilla - CVE-2024-5688](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-5688-2024-06-13)|Visit link for details.|13/06/2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
- |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
- |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
- |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/04/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 04, 2024|
- |[Snowflake Recommends Customers Take Steps to Prevent Unauthorized Access ](https://www.cisa.gov/news-events/alerts/2024/06/03/snowflake-recommends-customers-take-steps-prevent-unauthorized-access)|Visit link for details.|Jun 03, 2024|
  
 
 # HK-CERT
@@ -99,6 +82,23 @@
  |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...|Release Date: 12 Jun 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240612)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, data manipulation, sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 12 Jun 2024 |
  |[Microsoft Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows Medium RiskRemote Code ExecutionDenial of ServiceElevation of PrivilegeInformation Disclosure Microsoft Office Medium RiskRemote Code Execution ...|Release Date: 12 Jun 2024 |
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PHP - CVE-2024-2757](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-2757-2024-06-14)|Visit link for details.|14/06/2024|
+ |[Microsoft - CVE-2024-35249](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-35249-2024-06-14)|Visit link for details.|14/06/2024|
+ |[D-Link - CVE-2024-37630](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37630-2024-06-14)|Visit link for details.|14/06/2024|
+ |[Centreon - CVE-2024-5723](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5723-2024-06-14)|Visit link for details.|14/06/2024|
+ |[Google - CVE-2024-32896](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-32896-2024-06-14)|Visit link for details.|14/06/2024|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|14/06/2024|
+ |[runc - CVE-2024-21626](https://www.cyberveille-sante.gouv.fr/alertes/runc-cve-2024-21626-2024-02-05)|Visit link for details.|14/06/2024|
+ |[Google - CVE-2024-5830](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5830-2024-06-13)|Visit link for details.|14/06/2024|
+ |[SolarWinds - CVE-2024-28995](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28995-2024-06-10)|Visit link for details.|14/06/2024|
+ |[OpenText - CVE-2024-4190](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-4190-2024-06-13)|Visit link for details.|13/06/2024|
+ |[Mozilla - CVE-2024-5688](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-5688-2024-06-13)|Visit link for details.|13/06/2024|
  
 
 # OBS-Vigilance
