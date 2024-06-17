@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/06/2024 16:15:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/06/2024 17:35:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -85,6 +85,12 @@
  |[Mozilla - CVE-2024-5688](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-5688-2024-06-13)|Visit link for details.|13/06/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -101,12 +107,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240612)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, data manipulation, sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 12 Jun 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,20 +118,6 @@
  |[Toshiba Tec and Oki Electric Industry MFPs (multifunction printers) directory traversal (CVE-2024-3497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
  |[Toshiba Tec and Oki Electric Industry MFPs (multifunction printers) security bypass (CVE-2024-3496)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel USB Core Out-Of-Bounds Read Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-778/)|Visit link for details|2024-06-14|
- |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-777/)|Visit link for details|2024-06-14|
- |[(Pwn2Own) Oracle VirtualBox OHCI USB Controller Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-776/)|Visit link for details|2024-06-14|
- |[Autodesk AutoCAD STEP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-775/)|Visit link for details|2024-06-13|
- |[(0Day) Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-774/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-773/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-772/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD X_B File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-771/)|Visit link for details|2024-06-13|
  
 
 # EU-CERT
@@ -151,21 +137,18 @@
  |[2024-049: Multiple Vulnerabilities in QNAP Products](https://cert.europa.eu/publications/security-advisories/2024-049/)|On May 21, 2024, QNAP released a security advisory addressing multiple flaws, including a zero-day vulnerability in the shared feature of QTS. These vulnerabilities could allow remote attackers to execute arbitrary code.|Wednesday, May 22, 2024 07:54:50 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Mozilla security advisory (AV24-337)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-337)|Visit link for details|2024-06-14|
- |[Microsoft Edge security advisory (AV24-336)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-336)|Visit link for details|2024-06-14|
- |[Google Chrome security advisory (AV24-335)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-335)|Visit link for details|2024-06-14|
- |[[Control systems] ABB security advisory (AV24-334)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-334)|Visit link for details|2024-06-12|
- |[Unauthorized user access to Snowflake customer accounts](https://www.cyber.gc.ca/en/alerts-advisories/unauthorized-user-access-snowflake-customer-accounts)|Visit link for details|2024-06-12|
- |[Veeam security advisory (AV24-333)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-333)|Visit link for details|2024-06-12|
- |[Google Chrome security advisory (AV24-332)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-332)|Visit link for details|2024-06-12|
- |[Adobe security advisory (AV24-331)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-331)|Visit link for details|2024-06-11|
- |[Microsoft security advisory – June 2024 monthly rollup (AV24-330)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2024-monthly-rollup-av24-330)|Visit link for details|2024-06-11|
- |[JetBrains security advisory (AV24-329)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-329)|Visit link for details|2024-06-11|
- |[[Control systems] Siemens security advisory (AV24-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-328)|Visit link for details|2024-06-11|
+ |[Linux Kernel USB Core Out-Of-Bounds Read Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-778/)|Visit link for details|2024-06-14|
+ |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-777/)|Visit link for details|2024-06-14|
+ |[(Pwn2Own) Oracle VirtualBox OHCI USB Controller Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-776/)|Visit link for details|2024-06-14|
+ |[Autodesk AutoCAD STEP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-775/)|Visit link for details|2024-06-13|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-774/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-773/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-772/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD X_B File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-771/)|Visit link for details|2024-06-13|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[ 47811206/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-13)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
  |[ 47781206/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 12 juin 2024|
  |[ 47771206/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-juin-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de causer un déni de…| 12 juin 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla security advisory (AV24-337)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-337)|Visit link for details|2024-06-14|
+ |[Microsoft Edge security advisory (AV24-336)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-336)|Visit link for details|2024-06-14|
+ |[Google Chrome security advisory (AV24-335)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-335)|Visit link for details|2024-06-14|
+ |[[Control systems] ABB security advisory (AV24-334)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-334)|Visit link for details|2024-06-12|
+ |[Unauthorized user access to Snowflake customer accounts](https://www.cyber.gc.ca/en/alerts-advisories/unauthorized-user-access-snowflake-customer-accounts)|Visit link for details|2024-06-12|
+ |[Veeam security advisory (AV24-333)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-333)|Visit link for details|2024-06-12|
+ |[Google Chrome security advisory (AV24-332)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-332)|Visit link for details|2024-06-12|
+ |[Adobe security advisory (AV24-331)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-331)|Visit link for details|2024-06-11|
+ |[Microsoft security advisory – June 2024 monthly rollup (AV24-330)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2024-monthly-rollup-av24-330)|Visit link for details|2024-06-11|
+ |[JetBrains security advisory (AV24-329)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av24-329)|Visit link for details|2024-06-11|
+ |[[Control systems] Siemens security advisory (AV24-328)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-328)|Visit link for details|2024-06-11|
  
