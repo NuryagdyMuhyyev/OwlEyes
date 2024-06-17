@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/06/2024 13:24:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/06/2024 14:20:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,42 +62,6 @@
  |[USN-6827-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6827-1-libtiff-vulnerability.50390/)|Visit link for details.|Jun 11, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM i information disclosure (CVE-2024-31870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2024|
- |[IBM i privilege escalation (CVE-2024-27275)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2024|
- |[Toshiba Tec and Oki Electric Industry MFPs (multifunction printers) directory traversal (CVE-2024-3497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[Toshiba Tec and Oki Electric Industry MFPs (multifunction printers) security bypass (CVE-2024-3496)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[Toshiba Tec and Oki Electric Industry MFPs (multifunction printers) security bypass (CVE-2024-27180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[Toshiba Tec and Oki Electric Industry MFPs (multifunction printers) local file include (CVE-2024-27175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[PHP - CVE-2024-2757](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-2757-2024-06-14)|Visit link for details.|14/06/2024|
- |[Microsoft - CVE-2024-35249](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-35249-2024-06-14)|Visit link for details.|14/06/2024|
- |[D-Link - CVE-2024-37630](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37630-2024-06-14)|Visit link for details.|14/06/2024|
- |[Centreon - CVE-2024-5723](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5723-2024-06-14)|Visit link for details.|14/06/2024|
- |[Google - CVE-2024-32896](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-32896-2024-06-14)|Visit link for details.|14/06/2024|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|14/06/2024|
- |[runc - CVE-2024-21626](https://www.cyberveille-sante.gouv.fr/alertes/runc-cve-2024-21626-2024-02-05)|Visit link for details.|14/06/2024|
- |[Google - CVE-2024-5830](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5830-2024-06-13)|Visit link for details.|14/06/2024|
- |[SolarWinds - CVE-2024-28995](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28995-2024-06-10)|Visit link for details.|14/06/2024|
- |[OpenText - CVE-2024-4190](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-4190-2024-06-13)|Visit link for details.|13/06/2024|
- |[Mozilla - CVE-2024-5688](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-5688-2024-06-13)|Visit link for details.|13/06/2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -120,21 +84,40 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240612)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, data manipulation, sensitive information disclosure, remote code execution and denial of service condition on the targeted system. |Release Date: 12 Jun 2024 |
  
 
-# EU-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
- |[2024-058: Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2024-058/)|On June 6, 2024, a critical vulnerability was identified in certain versions of PHP that could allow the execution of arbitrary code or disclosure of sensitive information on Windows systems using Apache and PHP-CGI. The vulnerability is currently being actively exploited, and several proof of concepts are available.|Thursday, June 13, 2024 07:33:40 PM CEST|
- |[2024-057: Vulnerabilities in JetBrains Products](https://cert.europa.eu/publications/security-advisories/2024-057/)|On June 10, JetBrains released a fix for a vulnerability affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin. This vulnerability could lead to disclosure of access tokens to third-party sites.|Wednesday, June 12, 2024 04:09:19 PM CEST|
- |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability. This Patch Tuesday also fixes one critical vulnerability, a Microsoft Message Queuing (MSMQ) Remote Code Execution vulnerability.|Wednesday, June 12, 2024 03:57:51 PM CEST|
- |[2024-055: SolarWinds High-Severity Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-055/)| On the 4th and 5th of June 2024, SolarWinds published four separate security advisories related to high-severity vulnerabilities in multiple products. CERT-EU strongly recommends patching them as soon as possible. |Saturday, June 08, 2024 11:43:12 AM CEST|
- |[2024-054: Confluence Data Center and Server Remote Code Execution](https://cert.europa.eu/publications/security-advisories/2024-054/)|A critical remote code execution (RCE) vulnerability, CVE-2024-21683, has been discovered in Atlassian's Confluence Data Center and Server. This vulnerability allows authenticated attackers with privileges of adding new macro languages to execute arbitrary code. |Friday, June 07, 2024 04:29:06 PM CEST|
- |[2024-053: Zero-day Vulnerability in Check Point Security Gateways](https://cert.europa.eu/publications/security-advisories/2024-053/)|On May 28, 2024, Check Point issued an advisory about a zero-day vulnerability, CVE-2024-24919, affecting Check Point Security Gateways. This high-severity information disclosure vulnerability can be exploited to gain unauthorised access to sensitive information on systems with remote Access VPN or Mobile Access Software Blades enabled.|Thursday, May 30, 2024 11:26:17 AM CEST|
- |[2024-052: Vulnerability in Cisco FMC Software](https://cert.europa.eu/publications/security-advisories/2024-052/)|On May 22, Cisco released an advisory regarding an SQL injection vulnerability affecting its Firepower Management Center (FMC) Software. If exploited, this vulnerability could allow an attacker to obtain any data from the database, execute arbitrary commands on the underlying operating system, and elevate privileges to root.|Tuesday, May 28, 2024 10:53:37 AM CEST|
- |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
- |[2024-050: Multiple Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-050/)|On May 15, 2024, Ivanti released a security advisory addressing multiple vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), formally known as MobileIron. An attacker could exploit these flaws to execute arbitrary commands on the appliance.|Wednesday, May 22, 2024 07:55:55 PM CEST|
- |[2024-049: Multiple Vulnerabilities in QNAP Products](https://cert.europa.eu/publications/security-advisories/2024-049/)|On May 21, 2024, QNAP released a security advisory addressing multiple flaws, including a zero-day vulnerability in the shared feature of QTS. These vulnerabilities could allow remote attackers to execute arbitrary code.|Wednesday, May 22, 2024 07:54:50 PM CEST|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM i information disclosure (CVE-2024-31870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2024|
+ |[IBM i privilege escalation (CVE-2024-27275)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2024|
+ |[Linux Kernel ksmbd information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
+ |[Linux Kernel USB Core privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
+ |[Toshiba Tec and Oki Electric Industry MFPs (multifunction printers) directory traversal (CVE-2024-3497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
+ |[Toshiba Tec and Oki Electric Industry MFPs (multifunction printers) security bypass (CVE-2024-3496)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 13, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PHP - CVE-2024-2757](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-2757-2024-06-14)|Visit link for details.|14/06/2024|
+ |[Microsoft - CVE-2024-35249](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-35249-2024-06-14)|Visit link for details.|14/06/2024|
+ |[D-Link - CVE-2024-37630](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37630-2024-06-14)|Visit link for details.|14/06/2024|
+ |[Centreon - CVE-2024-5723](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5723-2024-06-14)|Visit link for details.|14/06/2024|
+ |[Google - CVE-2024-32896](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-32896-2024-06-14)|Visit link for details.|14/06/2024|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|14/06/2024|
+ |[runc - CVE-2024-21626](https://www.cyberveille-sante.gouv.fr/alertes/runc-cve-2024-21626-2024-02-05)|Visit link for details.|14/06/2024|
+ |[Google - CVE-2024-5830](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-5830-2024-06-13)|Visit link for details.|14/06/2024|
+ |[SolarWinds - CVE-2024-28995](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28995-2024-06-10)|Visit link for details.|14/06/2024|
+ |[OpenText - CVE-2024-4190](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-4190-2024-06-13)|Visit link for details.|13/06/2024|
+ |[Mozilla - CVE-2024-5688](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-5688-2024-06-13)|Visit link for details.|13/06/2024|
  
 
 # ZERODAYINITIATIVE
@@ -149,6 +132,23 @@
  |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-773/)|Visit link for details|2024-06-13|
  |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-772/)|Visit link for details|2024-06-13|
  |[Autodesk AutoCAD X_B File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-771/)|Visit link for details|2024-06-13|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
+ |[2024-058: Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2024-058/)|On June 6, 2024, a critical vulnerability was identified in certain versions of PHP that could allow the execution of arbitrary code or disclosure of sensitive information on Windows systems using Apache and PHP-CGI. The vulnerability is currently being actively exploited, and several proof of concepts are available.|Thursday, June 13, 2024 07:33:40 PM CEST|
+ |[2024-057: Vulnerabilities in JetBrains Products](https://cert.europa.eu/publications/security-advisories/2024-057/)|On June 10, JetBrains released a fix for a vulnerability affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin. This vulnerability could lead to disclosure of access tokens to third-party sites.|Wednesday, June 12, 2024 04:09:19 PM CEST|
+ |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) Remote Code Execution vulnerability. Finally, worth a mention is also a remote code execution vulnerability in Microsoft Outlook (CVE-2024-30103).|Monday, June 17, 2024 10:47:05 AM CEST|
+ |[2024-055: SolarWinds High-Severity Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-055/)| On the 4th and 5th of June 2024, SolarWinds published four separate security advisories related to high-severity vulnerabilities in multiple products. CERT-EU strongly recommends patching them as soon as possible. |Saturday, June 08, 2024 11:43:12 AM CEST|
+ |[2024-054: Confluence Data Center and Server Remote Code Execution](https://cert.europa.eu/publications/security-advisories/2024-054/)|A critical remote code execution (RCE) vulnerability, CVE-2024-21683, has been discovered in Atlassian's Confluence Data Center and Server. This vulnerability allows authenticated attackers with privileges of adding new macro languages to execute arbitrary code. |Friday, June 07, 2024 04:29:06 PM CEST|
+ |[2024-053: Zero-day Vulnerability in Check Point Security Gateways](https://cert.europa.eu/publications/security-advisories/2024-053/)|On May 28, 2024, Check Point issued an advisory about a zero-day vulnerability, CVE-2024-24919, affecting Check Point Security Gateways. This high-severity information disclosure vulnerability can be exploited to gain unauthorised access to sensitive information on systems with remote Access VPN or Mobile Access Software Blades enabled.|Thursday, May 30, 2024 11:26:17 AM CEST|
+ |[2024-052: Vulnerability in Cisco FMC Software](https://cert.europa.eu/publications/security-advisories/2024-052/)|On May 22, Cisco released an advisory regarding an SQL injection vulnerability affecting its Firepower Management Center (FMC) Software. If exploited, this vulnerability could allow an attacker to obtain any data from the database, execute arbitrary commands on the underlying operating system, and elevate privileges to root.|Tuesday, May 28, 2024 10:53:37 AM CEST|
+ |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
+ |[2024-050: Multiple Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-050/)|On May 15, 2024, Ivanti released a security advisory addressing multiple vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), formally known as MobileIron. An attacker could exploit these flaws to execute arbitrary commands on the appliance.|Wednesday, May 22, 2024 07:55:55 PM CEST|
+ |[2024-049: Multiple Vulnerabilities in QNAP Products](https://cert.europa.eu/publications/security-advisories/2024-049/)|On May 21, 2024, QNAP released a security advisory addressing multiple flaws, including a zero-day vulnerability in the shared feature of QTS. These vulnerabilities could allow remote attackers to execute arbitrary code.|Wednesday, May 22, 2024 07:54:50 PM CEST|
  
 
 # CA-CCS
