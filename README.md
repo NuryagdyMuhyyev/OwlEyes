@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/06/2024 10:18:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/06/2024 11:25:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,29 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2024-30103](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30103-2024-06-17)|Visit link for details.|17/06/2024|
+ |[Microsoft - CVE-2024-30078](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30078-2024-06-17)|Visit link for details.|17/06/2024|
+ |[Google Chrome - CVE-2024-5831](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5831-2024-06-17)|Visit link for details.|17/06/2024|
+ |[D-Link - CVE-2024-6045](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-6045-2024-06-17)|Visit link for details.|17/06/2024|
+ |[Centreon - CVE-2024-5725](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5725-2024-06-17)|Visit link for details.|17/06/2024|
+ |[PHP - CVE-2024-2757](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-2757-2024-06-14)|Visit link for details.|14/06/2024|
+ |[Microsoft - CVE-2024-35249](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-35249-2024-06-14)|Visit link for details.|14/06/2024|
+ |[D-Link - CVE-2024-37630](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37630-2024-06-14)|Visit link for details.|14/06/2024|
+ |[Centreon - CVE-2024-5723](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5723-2024-06-14)|Visit link for details.|14/06/2024|
+ |[Google - CVE-2024-32896](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-32896-2024-06-14)|Visit link for details.|14/06/2024|
+ |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|14/06/2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,47 +117,21 @@
  |[iTerm2 code execution (CVE-2024-38396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2024|
  |[iTerm2 code execution (CVE-2024-38395)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2024|
  |[ASUS Download Master cross-site scripting (CVE-2024-31159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2024|
- |[ASUS Download Master cross-site scripting (CVE-2024-31160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 14, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft - CVE-2024-30103](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30103-2024-06-17)|Visit link for details.|17/06/2024|
- |[Microsoft - CVE-2024-30078](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30078-2024-06-17)|Visit link for details.|17/06/2024|
- |[Google Chrome - CVE-2024-5831](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5831-2024-06-17)|Visit link for details.|17/06/2024|
- |[D-Link - CVE-2024-6045](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-6045-2024-06-17)|Visit link for details.|17/06/2024|
- |[Centreon - CVE-2024-5725](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5725-2024-06-17)|Visit link for details.|17/06/2024|
- |[PHP - CVE-2024-2757](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-2757-2024-06-14)|Visit link for details.|14/06/2024|
- |[Microsoft - CVE-2024-35249](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-35249-2024-06-14)|Visit link for details.|14/06/2024|
- |[D-Link - CVE-2024-37630](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37630-2024-06-14)|Visit link for details.|14/06/2024|
- |[Centreon - CVE-2024-5723](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5723-2024-06-14)|Visit link for details.|14/06/2024|
- |[Google - CVE-2024-32896](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-32896-2024-06-14)|Visit link for details.|14/06/2024|
- |[cURL - CVE-2023-38545](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2023-38545-2023-10-12)|Visit link for details.|14/06/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47891406/24 - Vulnérabilité critique dans Veeam Recovery Orchestrator ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-recovery-orchestrator)| Veeam annonce la correction d’une vulnérabilité critique affectant Veeam Recovery Orchestrator (VRO). L’exploitation de cette faille peut permettre à un attaquant d'accéder à l'interface web de VRO…| 14 juin 2024|
- |[ 47881206/24 - Vulnérabilités dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-networks)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Palo Alto Networks. L'exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges,…| 13 juin 2024|
- |[ 47851306/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-9)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 13 juin 2024|
- |[ 47871206/24 - Vulnérabilités dans Google Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques y compris un zero-day « CVE-2024-32896 » affectant Google Pixel.…| 13 juin 2024|
- |[ 47861206/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 13 juin 2024|
- |[ 47831306/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-7)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 juin 2024|
- |[ 47841206/24 - Vulnérabilités dans Apple visionOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apple-visionos)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
- |[ 47821206/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-12)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
- |[ 47811206/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-13)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
- |[ 47781206/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 12 juin 2024|
- |[ 47771206/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-juin-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de causer un déni de…| 12 juin 2024|
+ |[Linux Kernel USB Core Out-Of-Bounds Read Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-778/)|Visit link for details|2024-06-14|
+ |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-777/)|Visit link for details|2024-06-14|
+ |[(Pwn2Own) Oracle VirtualBox OHCI USB Controller Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-776/)|Visit link for details|2024-06-14|
+ |[Autodesk AutoCAD STEP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-775/)|Visit link for details|2024-06-13|
+ |[(0Day) Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-774/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-773/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-772/)|Visit link for details|2024-06-13|
+ |[Autodesk AutoCAD X_B File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-771/)|Visit link for details|2024-06-13|
  
 
 # EU-CERT
@@ -154,20 +151,6 @@
  |[2024-049: Multiple Vulnerabilities in QNAP Products](https://cert.europa.eu/publications/security-advisories/2024-049/)|On May 21, 2024, QNAP released a security advisory addressing multiple flaws, including a zero-day vulnerability in the shared feature of QTS. These vulnerabilities could allow remote attackers to execute arbitrary code.|Wednesday, May 22, 2024 07:54:50 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel USB Core Out-Of-Bounds Read Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-778/)|Visit link for details|2024-06-14|
- |[Linux Kernel ksmbd Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-777/)|Visit link for details|2024-06-14|
- |[(Pwn2Own) Oracle VirtualBox OHCI USB Controller Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-776/)|Visit link for details|2024-06-14|
- |[Autodesk AutoCAD STEP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-775/)|Visit link for details|2024-06-13|
- |[(0Day) Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-774/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD STP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-773/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-772/)|Visit link for details|2024-06-13|
- |[Autodesk AutoCAD X_B File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-771/)|Visit link for details|2024-06-13|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[Veeam security advisory (AV24-333)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-333)|Visit link for details|2024-06-12|
  |[Google Chrome security advisory (AV24-332)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-332)|Visit link for details|2024-06-12|
  |[Adobe security advisory (AV24-331)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-331)|Visit link for details|2024-06-11|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47891406/24 - Vulnérabilité critique dans Veeam Recovery Orchestrator ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-recovery-orchestrator)| Veeam annonce la correction d’une vulnérabilité critique affectant Veeam Recovery Orchestrator (VRO). L’exploitation de cette faille peut permettre à un attaquant d'accéder à l'interface web de VRO…| 14 juin 2024|
+ |[ 47881206/24 - Vulnérabilités dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-networks)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Palo Alto Networks. L'exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges,…| 13 juin 2024|
+ |[ 47851306/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-9)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 13 juin 2024|
+ |[ 47871206/24 - Vulnérabilités dans Google Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques y compris un zero-day « CVE-2024-32896 » affectant Google Pixel.…| 13 juin 2024|
+ |[ 47861206/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 13 juin 2024|
+ |[ 47831306/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-7)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 juin 2024|
+ |[ 47841206/24 - Vulnérabilités dans Apple visionOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apple-visionos)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
+ |[ 47821206/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-12)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
+ |[ 47811206/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-13)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
+ |[ 47781206/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 12 juin 2024|
+ |[ 47771206/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-juin-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de causer un déni de…| 12 juin 2024|
  
