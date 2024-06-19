@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/06/2024 10:18:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/06/2024 11:25:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,12 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -78,10 +84,17 @@
  |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...|Release Date: 12 Jun 2024 |
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome code execution (CVE-2024-6103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
+ |[Google Chrome code execution (CVE-2024-6102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
+ |[Google Chrome security bypass (CVE-2024-6101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
+ |[Google Chrome code execution (CVE-2024-6100)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
+ |[Broadcom VMware vCenter Server buffer overflow (CVE-2024-37080)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
+ |[Broadcom VMware vCenter Server privilege escalation (CVE-2024-37081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
@@ -107,17 +120,18 @@
  |[Centreon - CVE-2024-5725](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5725-2024-06-17)|Visit link for details.|17/06/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome code execution (CVE-2024-6103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
- |[Google Chrome code execution (CVE-2024-6102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
- |[Google Chrome security bypass (CVE-2024-6101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
- |[Google Chrome code execution (CVE-2024-6100)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
- |[Broadcom VMware vCenter Server buffer overflow (CVE-2024-37080)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
- |[Broadcom VMware vCenter Server privilege escalation (CVE-2024-37081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Toshiba e-STUDIO2518A vsftpd Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-815/)|Visit link for details|2024-06-18|
+ |[Toshiba e-STUDIO2518A unzip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-814/)|Visit link for details|2024-06-18|
+ |[Toshiba e-STUDIO2518A Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-813/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView Apache Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-812/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView clusterService Authentication Bypass Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-811/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView startUpgradeCommon Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-810/)|Visit link for details|2024-06-18|
+ |[(0Day) Actiontec WCB6200Q uh_get_postdata_withupload Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-809/)|Visit link for details|2024-06-18|
+ |[(0Day) Actiontec WCB6200Q Cookie Format String Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-808/)|Visit link for details|2024-06-18|
  
 
 # EU-CERT
@@ -135,20 +149,6 @@
  |[2024-053: Zero-day Vulnerability in Check Point Security Gateways](https://cert.europa.eu/publications/security-advisories/2024-053/)|On May 28, 2024, Check Point issued an advisory about a zero-day vulnerability, CVE-2024-24919, affecting Check Point Security Gateways. This high-severity information disclosure vulnerability can be exploited to gain unauthorised access to sensitive information on systems with remote Access VPN or Mobile Access Software Blades enabled.|Thursday, May 30, 2024 11:26:17 AM CEST|
  |[2024-052: Vulnerability in Cisco FMC Software](https://cert.europa.eu/publications/security-advisories/2024-052/)|On May 22, Cisco released an advisory regarding an SQL injection vulnerability affecting its Firepower Management Center (FMC) Software. If exploited, this vulnerability could allow an attacker to obtain any data from the database, execute arbitrary commands on the underlying operating system, and elevate privileges to root.|Tuesday, May 28, 2024 10:53:37 AM CEST|
  |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Toshiba e-STUDIO2518A vsftpd Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-815/)|Visit link for details|2024-06-18|
- |[Toshiba e-STUDIO2518A unzip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-814/)|Visit link for details|2024-06-18|
- |[Toshiba e-STUDIO2518A Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-813/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView Apache Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-812/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView clusterService Authentication Bypass Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-811/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView startUpgradeCommon Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-810/)|Visit link for details|2024-06-18|
- |[(0Day) Actiontec WCB6200Q uh_get_postdata_withupload Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-809/)|Visit link for details|2024-06-18|
- |[(0Day) Actiontec WCB6200Q Cookie Format String Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-808/)|Visit link for details|2024-06-18|
  
 
 # CA-CCS
