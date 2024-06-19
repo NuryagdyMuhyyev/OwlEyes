@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/06/2024 17:35:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/06/2024 18:20:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
- |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
- |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
- |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
- |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,6 +46,28 @@
  |[USN-6823-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6823-1-mysql-vulnerabilities.50392/)|Visit link for details.|Jun 11, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
+ |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
+ |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
+ |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
+ |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -73,23 +79,6 @@
  |[Broadcom VMware vCenter Server buffer overflow (CVE-2024-37080)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
  |[Broadcom VMware vCenter Server privilege escalation (CVE-2024-37081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware - CVE-2024-37080](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37080-2024-06-18)|Visit link for details.|18/06/2024|
- |[VMware - CVE-2024-37079](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37079-2024-06-18)|Visit link for details.|18/06/2024|
- |[Microsoft - CVE-2024-30097](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30097-2024-06-18)|Visit link for details.|18/06/2024|
- |[Dell - CVE-2024-32859](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-32859-2024-06-18)|Visit link for details.|18/06/2024|
- |[Dropbox - CVE-2024-5924](https://www.cyberveille-sante.gouv.fr/alertes/dropbox-cve-2024-5924-2024-06-18)|Visit link for details.|18/06/2024|
- |[Microsoft - CVE-2024-30080](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30080-2024-06-12)|Visit link for details.|18/06/2024|
- |[Microsoft - CVE-2024-30103](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30103-2024-06-17)|Visit link for details.|17/06/2024|
- |[Microsoft - CVE-2024-30078](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30078-2024-06-17)|Visit link for details.|17/06/2024|
- |[Google Chrome - CVE-2024-5831](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5831-2024-06-17)|Visit link for details.|17/06/2024|
- |[D-Link - CVE-2024-6045](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-6045-2024-06-17)|Visit link for details.|17/06/2024|
- |[Centreon - CVE-2024-5725](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5725-2024-06-17)|Visit link for details.|17/06/2024|
  
 
 # HK-CERT
@@ -128,10 +117,21 @@
  |[(0Day) Actiontec WCB6200Q Cookie Format String Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-808/)|Visit link for details|2024-06-18|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[VMware - CVE-2024-37080](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37080-2024-06-18)|Visit link for details.|18/06/2024|
+ |[VMware - CVE-2024-37079](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37079-2024-06-18)|Visit link for details.|18/06/2024|
+ |[Microsoft - CVE-2024-30097](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30097-2024-06-18)|Visit link for details.|18/06/2024|
+ |[Dell - CVE-2024-32859](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-32859-2024-06-18)|Visit link for details.|18/06/2024|
+ |[Dropbox - CVE-2024-5924](https://www.cyberveille-sante.gouv.fr/alertes/dropbox-cve-2024-5924-2024-06-18)|Visit link for details.|18/06/2024|
+ |[Microsoft - CVE-2024-30080](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30080-2024-06-12)|Visit link for details.|18/06/2024|
+ |[Microsoft - CVE-2024-30103](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30103-2024-06-17)|Visit link for details.|17/06/2024|
+ |[Microsoft - CVE-2024-30078](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30078-2024-06-17)|Visit link for details.|17/06/2024|
+ |[Google Chrome - CVE-2024-5831](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5831-2024-06-17)|Visit link for details.|17/06/2024|
+ |[D-Link - CVE-2024-6045](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-6045-2024-06-17)|Visit link for details.|17/06/2024|
+ |[Centreon - CVE-2024-5725](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5725-2024-06-17)|Visit link for details.|17/06/2024|
  
 
 # EU-CERT
