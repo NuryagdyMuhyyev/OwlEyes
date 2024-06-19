@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/06/2024 20:20:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/06/2024 21:22:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
- |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
- |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
- |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
- |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,30 +46,40 @@
  |[USN-6823-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6823-1-mysql-vulnerabilities.50392/)|Visit link for details.|Jun 11, 2024|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
+ |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
+ |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
+ |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
+ |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[VMware - CVE-2024-37081](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37081-2024-06-19)|Visit link for details.|19/06/2024|
+ |[Microsoft - CVE-2024-30064](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30064-2024-06-19)|Visit link for details.|19/06/2024|
+ |[Intel/Juniper - CVE-2023-25775](https://www.cyberveille-sante.gouv.fr/alertes/inteljuniper-cve-2023-25775-2024-06-19)|Visit link for details.|19/06/2024|
+ |[Google Chrome - CVE-2024-6102](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6102-2024-06-19)|Visit link for details.|19/06/2024|
+ |[Google Chrome - CVE-2024-6100](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6100-2024-06-19)|Visit link for details.|19/06/2024|
+ |[SolarWinds - CVE-2024-28995](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28995-2024-06-10)|Visit link for details.|19/06/2024|
+ |[Linux - CVE-2023-5178](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-5178-2023-10-17)|Visit link for details.|19/06/2024|
+ |[Cisco - CVE-2023-20273](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20273-2023-10-23)|Visit link for details.|19/06/2024|
  |[VMware - CVE-2024-37080](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37080-2024-06-18)|Visit link for details.|18/06/2024|
  |[VMware - CVE-2024-37079](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37079-2024-06-18)|Visit link for details.|18/06/2024|
  |[Microsoft - CVE-2024-30097](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30097-2024-06-18)|Visit link for details.|18/06/2024|
- |[Dell - CVE-2024-32859](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-32859-2024-06-18)|Visit link for details.|18/06/2024|
- |[Dropbox - CVE-2024-5924](https://www.cyberveille-sante.gouv.fr/alertes/dropbox-cve-2024-5924-2024-06-18)|Visit link for details.|18/06/2024|
- |[Microsoft - CVE-2024-30080](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30080-2024-06-12)|Visit link for details.|18/06/2024|
- |[Microsoft - CVE-2024-30103](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30103-2024-06-17)|Visit link for details.|17/06/2024|
- |[Microsoft - CVE-2024-30078](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30078-2024-06-17)|Visit link for details.|17/06/2024|
- |[Google Chrome - CVE-2024-5831](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5831-2024-06-17)|Visit link for details.|17/06/2024|
- |[D-Link - CVE-2024-6045](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-6045-2024-06-17)|Visit link for details.|17/06/2024|
- |[Centreon - CVE-2024-5725](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-5725-2024-06-17)|Visit link for details.|17/06/2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -107,6 +101,12 @@
  |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...|Release Date: 12 Jun 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,6 +118,20 @@
  |[Broadcom VMware vCenter Server buffer overflow (CVE-2024-37080)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
  |[Broadcom VMware vCenter Server privilege escalation (CVE-2024-37081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Toshiba e-STUDIO2518A vsftpd Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-815/)|Visit link for details|2024-06-18|
+ |[Toshiba e-STUDIO2518A unzip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-814/)|Visit link for details|2024-06-18|
+ |[Toshiba e-STUDIO2518A Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-813/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView Apache Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-812/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView clusterService Authentication Bypass Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-811/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView startUpgradeCommon Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-810/)|Visit link for details|2024-06-18|
+ |[(0Day) Actiontec WCB6200Q uh_get_postdata_withupload Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-809/)|Visit link for details|2024-06-18|
+ |[(0Day) Actiontec WCB6200Q Cookie Format String Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-808/)|Visit link for details|2024-06-18|
  
 
 # EU-CERT
@@ -135,20 +149,6 @@
  |[2024-053: Zero-day Vulnerability in Check Point Security Gateways](https://cert.europa.eu/publications/security-advisories/2024-053/)|On May 28, 2024, Check Point issued an advisory about a zero-day vulnerability, CVE-2024-24919, affecting Check Point Security Gateways. This high-severity information disclosure vulnerability can be exploited to gain unauthorised access to sensitive information on systems with remote Access VPN or Mobile Access Software Blades enabled.|Thursday, May 30, 2024 11:26:17 AM CEST|
  |[2024-052: Vulnerability in Cisco FMC Software](https://cert.europa.eu/publications/security-advisories/2024-052/)|On May 22, Cisco released an advisory regarding an SQL injection vulnerability affecting its Firepower Management Center (FMC) Software. If exploited, this vulnerability could allow an attacker to obtain any data from the database, execute arbitrary commands on the underlying operating system, and elevate privileges to root.|Tuesday, May 28, 2024 10:53:37 AM CEST|
  |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Toshiba e-STUDIO2518A vsftpd Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-815/)|Visit link for details|2024-06-18|
- |[Toshiba e-STUDIO2518A unzip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-814/)|Visit link for details|2024-06-18|
- |[Toshiba e-STUDIO2518A Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-813/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView Apache Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-812/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView clusterService Authentication Bypass Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-811/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView startUpgradeCommon Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-810/)|Visit link for details|2024-06-18|
- |[(0Day) Actiontec WCB6200Q uh_get_postdata_withupload Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-809/)|Visit link for details|2024-06-18|
- |[(0Day) Actiontec WCB6200Q Cookie Format String Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-808/)|Visit link for details|2024-06-18|
  
 
 # CA-CCS
