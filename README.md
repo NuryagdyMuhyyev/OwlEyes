@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/06/2024 00:15:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/06/2024 01:18:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,18 +62,6 @@
  |[USN-6823-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-6823-1-mysql-vulnerabilities.50392/)|Visit link for details.|Jun 11, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -89,6 +77,18 @@
  |[VMware - CVE-2024-37080](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37080-2024-06-18)|Visit link for details.|18/06/2024|
  |[VMware - CVE-2024-37079](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37079-2024-06-18)|Visit link for details.|18/06/2024|
  |[Microsoft - CVE-2024-30097](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30097-2024-06-18)|Visit link for details.|18/06/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -120,20 +120,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Toshiba e-STUDIO2518A vsftpd Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-815/)|Visit link for details|2024-06-18|
- |[Toshiba e-STUDIO2518A unzip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-814/)|Visit link for details|2024-06-18|
- |[Toshiba e-STUDIO2518A Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-813/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView Apache Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-812/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView clusterService Authentication Bypass Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-811/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView startUpgradeCommon Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-810/)|Visit link for details|2024-06-18|
- |[(0Day) Actiontec WCB6200Q uh_get_postdata_withupload Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-809/)|Visit link for details|2024-06-18|
- |[(0Day) Actiontec WCB6200Q Cookie Format String Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-808/)|Visit link for details|2024-06-18|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -151,21 +137,18 @@
  |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 47901906/24 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter-0)| VMware annonce la correction de trois  vulnérabilités critiques affectant son produit VMware vCenter. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 19 juin 2024|
- |[ 47891406/24 - Vulnérabilité critique dans Veeam Recovery Orchestrator ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-recovery-orchestrator)| Veeam annonce la correction d’une vulnérabilité critique affectant Veeam Recovery Orchestrator (VRO). L’exploitation de cette faille peut permettre à un attaquant d'accéder à l'interface web de VRO…| 14 juin 2024|
- |[ 47881206/24 - Vulnérabilités dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-networks)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Palo Alto Networks. L'exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges,…| 13 juin 2024|
- |[ 47851306/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-9)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 13 juin 2024|
- |[ 47871206/24 - Vulnérabilités dans Google Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques y compris un zero-day « CVE-2024-32896 » affectant Google Pixel.…| 13 juin 2024|
- |[ 47861206/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 13 juin 2024|
- |[ 47831306/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-7)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 juin 2024|
- |[ 47841206/24 - Vulnérabilités dans Apple visionOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apple-visionos)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
- |[ 47821206/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-12)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
- |[ 47811206/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-13)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
- |[ 47781206/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 12 juin 2024|
+ |[Toshiba e-STUDIO2518A vsftpd Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-815/)|Visit link for details|2024-06-18|
+ |[Toshiba e-STUDIO2518A unzip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-814/)|Visit link for details|2024-06-18|
+ |[Toshiba e-STUDIO2518A Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-813/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView Apache Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-812/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView clusterService Authentication Bypass Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-811/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView startUpgradeCommon Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-810/)|Visit link for details|2024-06-18|
+ |[(0Day) Actiontec WCB6200Q uh_get_postdata_withupload Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-809/)|Visit link for details|2024-06-18|
+ |[(0Day) Actiontec WCB6200Q Cookie Format String Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-808/)|Visit link for details|2024-06-18|
  
 
 # CA-CCS
@@ -183,4 +166,21 @@
  |[Mozilla security advisory (AV24-337)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-337)|Visit link for details|2024-06-14|
  |[Microsoft Edge security advisory (AV24-336)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-336)|Visit link for details|2024-06-14|
  |[Google Chrome security advisory (AV24-335)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-335)|Visit link for details|2024-06-14|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47901906/24 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter-0)| VMware annonce la correction de trois  vulnérabilités critiques affectant son produit VMware vCenter. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 19 juin 2024|
+ |[ 47891406/24 - Vulnérabilité critique dans Veeam Recovery Orchestrator ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-recovery-orchestrator)| Veeam annonce la correction d’une vulnérabilité critique affectant Veeam Recovery Orchestrator (VRO). L’exploitation de cette faille peut permettre à un attaquant d'accéder à l'interface web de VRO…| 14 juin 2024|
+ |[ 47881206/24 - Vulnérabilités dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-networks)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Palo Alto Networks. L'exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges,…| 13 juin 2024|
+ |[ 47851306/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-9)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 13 juin 2024|
+ |[ 47871206/24 - Vulnérabilités dans Google Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques y compris un zero-day « CVE-2024-32896 » affectant Google Pixel.…| 13 juin 2024|
+ |[ 47861206/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 13 juin 2024|
+ |[ 47831306/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-7)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 juin 2024|
+ |[ 47841206/24 - Vulnérabilités dans Apple visionOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-apple-visionos)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
+ |[ 47821206/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-12)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
+ |[ 47811206/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-13)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 12 juin 2024|
+ |[ 47781206/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juin 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juin-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de…| 12 juin 2024|
  
