@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/06/2024 02:18:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/06/2024 03:16:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,28 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2024|
- |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
- |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
- |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
- |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
- |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +44,22 @@
  |[DSA-5708-1 cyrus-imapd - security update](https://www.linux.org/threads/dsa-5708-1-cyrus-imapd-security-update.50396/)|Visit link for details.|Jun 11, 2024|
  |[DSA-5707-1 vlc - security update](https://www.linux.org/threads/dsa-5707-1-vlc-security-update.50395/)|Visit link for details.|Jun 11, 2024|
  |[USN-6826-1: mod_jk vulnerability](https://www.linux.org/threads/usn-6826-1-mod_jk-vulnerability.50393/)|Visit link for details.|Jun 11, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2024|
+ |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
+ |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
+ |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
+ |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
+ |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
  
 
 # CERT-SANTE
@@ -85,17 +79,10 @@
  |[Google Chrome - CVE-2024-6102](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6102-2024-06-19)|Visit link for details.|19/06/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[SonicWall SonicOS HTTP server denial of service (CVE-2024-29012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2024|
- |[SonicWall SonicOS SSLVPN denial of service (CVE-2024-29013)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2024|
- |[Apache Superset information disclosure (CVE-2024-34693)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2024|
- |[Socket.IO denial of service (CVE-2024-38355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2024|
- |[IBM WebSphere Application Server identity spoofing (CVE-2024-37532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2024|
- |[SiteGuard WP Plugin for WordPress information disclosure (CVE-2024-37881)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -118,6 +105,19 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall SonicOS HTTP server denial of service (CVE-2024-29012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2024|
+ |[SonicWall SonicOS SSLVPN denial of service (CVE-2024-29013)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2024|
+ |[Apache Superset information disclosure (CVE-2024-34693)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2024|
+ |[Socket.IO denial of service (CVE-2024-38355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2024|
+ |[IBM WebSphere Application Server identity spoofing (CVE-2024-37532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2024|
+ |[SiteGuard WP Plugin for WordPress information disclosure (CVE-2024-37881)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
