@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/06/2024 03:16:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/06/2024 04:20:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5716-1 chromium - security update](https://www.linux.org/threads/dsa-5716-1-chromium-security-update.50528/)|Visit link for details.|Jun 19, 2024|
- |[DSA-5715-1 composer - security update](https://www.linux.org/threads/dsa-5715-1-composer-security-update.50518/)|Visit link for details.|Jun 19, 2024|
- |[DSA-5714-1 roundcube - security update](https://www.linux.org/threads/dsa-5714-1-roundcube-security-update.50515/)|Visit link for details.|Jun 18, 2024|
- |[DSA-5713-1 libndp - security update](https://www.linux.org/threads/dsa-5713-1-libndp-security-update.50490/)|Visit link for details.|Jun 16, 2024|
- |[DSA-5712-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5712-1-ffmpeg-security-update.50486/)|Visit link for details.|Jun 16, 2024|
- |[DSA-5711-1 thunderbird - security update](https://www.linux.org/threads/dsa-5711-1-thunderbird-security-update.50473/)|Visit link for details.|Jun 15, 2024|
- |[DSA-5710-1 chromium - security update](https://www.linux.org/threads/dsa-5710-1-chromium-security-update.50451/)|Visit link for details.|Jun 14, 2024|
- |[DSA-5709-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5709-1-firefox-esr-security-update.50410/)|Visit link for details.|Jun 13, 2024|
- |[DSA-5708-1 cyrus-imapd - security update](https://www.linux.org/threads/dsa-5708-1-cyrus-imapd-security-update.50396/)|Visit link for details.|Jun 11, 2024|
- |[DSA-5707-1 vlc - security update](https://www.linux.org/threads/dsa-5707-1-vlc-security-update.50395/)|Visit link for details.|Jun 11, 2024|
- |[USN-6826-1: mod_jk vulnerability](https://www.linux.org/threads/usn-6826-1-mod_jk-vulnerability.50393/)|Visit link for details.|Jun 11, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,21 +45,21 @@
  |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress ElementsKit - CVE-2024-4404](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-cve-2024-4404-2024-06-20)|Visit link for details.|20/06/2024|
- |[Spring - CVE-2024-22263](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22263-2024-06-20)|Visit link for details.|20/06/2024|
- |[Oniguruma/Juniper - CVE-2019-13224](https://www.cyberveille-sante.gouv.fr/alertes/onigurumajuniper-cve-2019-13224-2024-06-20)|Visit link for details.|20/06/2024|
- |[Google Chrome - CVE-2024-6103](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6103-2024-06-20)|Visit link for details.|20/06/2024|
- |[Dell - CVE-2024-30472](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-30472-2024-06-20)|Visit link for details.|20/06/2024|
- |[Microsoft - CVE-2024-30078](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30078-2024-06-17)|Visit link for details.|20/06/2024|
- |[WordPress Avada Theme - CVE-2023-39312](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-avada-theme-cve-2023-39312-2023-08-14)|Visit link for details.|20/06/2024|
- |[VMware - CVE-2024-37081](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37081-2024-06-19)|Visit link for details.|19/06/2024|
- |[Microsoft - CVE-2024-30064](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30064-2024-06-19)|Visit link for details.|19/06/2024|
- |[Intel/Juniper - CVE-2023-25775](https://www.cyberveille-sante.gouv.fr/alertes/inteljuniper-cve-2023-25775-2024-06-19)|Visit link for details.|19/06/2024|
- |[Google Chrome - CVE-2024-6102](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6102-2024-06-19)|Visit link for details.|19/06/2024|
+ |[DSA-5717-1 php8.2 - security update](https://www.linux.org/threads/dsa-5717-1-php8-2-security-update.50544/)|Visit link for details.|Jun 21, 2024|
+ |[DSA-5716-1 chromium - security update](https://www.linux.org/threads/dsa-5716-1-chromium-security-update.50528/)|Visit link for details.|Jun 19, 2024|
+ |[DSA-5715-1 composer - security update](https://www.linux.org/threads/dsa-5715-1-composer-security-update.50518/)|Visit link for details.|Jun 19, 2024|
+ |[DSA-5714-1 roundcube - security update](https://www.linux.org/threads/dsa-5714-1-roundcube-security-update.50515/)|Visit link for details.|Jun 18, 2024|
+ |[DSA-5713-1 libndp - security update](https://www.linux.org/threads/dsa-5713-1-libndp-security-update.50490/)|Visit link for details.|Jun 16, 2024|
+ |[DSA-5712-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5712-1-ffmpeg-security-update.50486/)|Visit link for details.|Jun 16, 2024|
+ |[DSA-5711-1 thunderbird - security update](https://www.linux.org/threads/dsa-5711-1-thunderbird-security-update.50473/)|Visit link for details.|Jun 15, 2024|
+ |[DSA-5710-1 chromium - security update](https://www.linux.org/threads/dsa-5710-1-chromium-security-update.50451/)|Visit link for details.|Jun 14, 2024|
+ |[DSA-5709-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5709-1-firefox-esr-security-update.50410/)|Visit link for details.|Jun 13, 2024|
+ |[DSA-5708-1 cyrus-imapd - security update](https://www.linux.org/threads/dsa-5708-1-cyrus-imapd-security-update.50396/)|Visit link for details.|Jun 11, 2024|
+ |[DSA-5707-1 vlc - security update](https://www.linux.org/threads/dsa-5707-1-vlc-security-update.50395/)|Visit link for details.|Jun 11, 2024|
  
 
 # CERT-FR
@@ -101,12 +84,6 @@
  |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...|Release Date: 12 Jun 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,6 +95,29 @@
  |[IBM WebSphere Application Server identity spoofing (CVE-2024-37532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2024|
  |[SiteGuard WP Plugin for WordPress information disclosure (CVE-2024-37881)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress ElementsKit - CVE-2024-4404](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-cve-2024-4404-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Spring - CVE-2024-22263](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22263-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Oniguruma/Juniper - CVE-2019-13224](https://www.cyberveille-sante.gouv.fr/alertes/onigurumajuniper-cve-2019-13224-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Google Chrome - CVE-2024-6103](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6103-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Dell - CVE-2024-30472](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-30472-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Microsoft - CVE-2024-30078](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30078-2024-06-17)|Visit link for details.|20/06/2024|
+ |[WordPress Avada Theme - CVE-2023-39312](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-avada-theme-cve-2023-39312-2023-08-14)|Visit link for details.|20/06/2024|
+ |[VMware - CVE-2024-37081](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37081-2024-06-19)|Visit link for details.|19/06/2024|
+ |[Microsoft - CVE-2024-30064](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30064-2024-06-19)|Visit link for details.|19/06/2024|
+ |[Intel/Juniper - CVE-2023-25775](https://www.cyberveille-sante.gouv.fr/alertes/inteljuniper-cve-2023-25775-2024-06-19)|Visit link for details.|19/06/2024|
+ |[Google Chrome - CVE-2024-6102](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6102-2024-06-19)|Visit link for details.|19/06/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -151,23 +151,6 @@
  |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
- |[Juniper Networks security advisory (AV24-344)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-344)|Visit link for details|2024-06-19|
- |[Atlassian security advisory (AV24-343)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-343)|Visit link for details|2024-06-19|
- |[Google Chrome security advisory (AV24-342)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-342)|Visit link for details|2024-06-19|
- |[Red Hat security advisory (AV24-341)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-341)|Visit link for details|2024-06-18|
- |[[Control systems] CISA ICS security advisories (AV24-340)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-340)|Visit link for details|2024-06-17|
- |[IBM security advisory (AV24-339)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-339)|Visit link for details|2024-06-17|
- |[Dell security advisory (AV24-338)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-338)|Visit link for details|2024-06-17|
- |[Mozilla security advisory (AV24-337)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-337)|Visit link for details|2024-06-14|
- |[Microsoft Edge security advisory (AV24-336)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-336)|Visit link for details|2024-06-14|
- |[Google Chrome security advisory (AV24-335)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-335)|Visit link for details|2024-06-14|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 47851306/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-9)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 13 juin 2024|
  |[ 47871206/24 - Vulnérabilités dans Google Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques y compris un zero-day « CVE-2024-32896 » affectant Google Pixel.…| 13 juin 2024|
  |[ 47861206/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 13 juin 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
+ |[Juniper Networks security advisory (AV24-344)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-344)|Visit link for details|2024-06-19|
+ |[Atlassian security advisory (AV24-343)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-343)|Visit link for details|2024-06-19|
+ |[Google Chrome security advisory (AV24-342)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-342)|Visit link for details|2024-06-19|
+ |[Red Hat security advisory (AV24-341)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-341)|Visit link for details|2024-06-18|
+ |[[Control systems] CISA ICS security advisories (AV24-340)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-340)|Visit link for details|2024-06-17|
+ |[IBM security advisory (AV24-339)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-339)|Visit link for details|2024-06-17|
+ |[Dell security advisory (AV24-338)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-338)|Visit link for details|2024-06-17|
+ |[Mozilla security advisory (AV24-337)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-337)|Visit link for details|2024-06-14|
+ |[Microsoft Edge security advisory (AV24-336)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-336)|Visit link for details|2024-06-14|
+ |[Google Chrome security advisory (AV24-335)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-335)|Visit link for details|2024-06-14|
  
