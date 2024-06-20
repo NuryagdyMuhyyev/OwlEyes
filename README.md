@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/06/2024 19:16:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/06/2024 20:20:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2024|
  |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
  |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
@@ -42,7 +43,6 @@
  |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
  |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Jun 11, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/06/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jun 06, 2024|
  
 
 # LINUX-SEC
@@ -66,26 +66,20 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[WordPress ElementsKit - CVE-2024-4404](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-cve-2024-4404-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Spring - CVE-2024-22263](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22263-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Oniguruma/Juniper - CVE-2019-13224](https://www.cyberveille-sante.gouv.fr/alertes/onigurumajuniper-cve-2019-13224-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Google Chrome - CVE-2024-6103](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6103-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Dell - CVE-2024-30472](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-30472-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Microsoft - CVE-2024-30078](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30078-2024-06-17)|Visit link for details.|20/06/2024|
+ |[WordPress Avada Theme - CVE-2023-39312](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-avada-theme-cve-2023-39312-2023-08-14)|Visit link for details.|20/06/2024|
  |[VMware - CVE-2024-37081](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37081-2024-06-19)|Visit link for details.|19/06/2024|
  |[Microsoft - CVE-2024-30064](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30064-2024-06-19)|Visit link for details.|19/06/2024|
  |[Intel/Juniper - CVE-2023-25775](https://www.cyberveille-sante.gouv.fr/alertes/inteljuniper-cve-2023-25775-2024-06-19)|Visit link for details.|19/06/2024|
  |[Google Chrome - CVE-2024-6102](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6102-2024-06-19)|Visit link for details.|19/06/2024|
- |[Google Chrome - CVE-2024-6100](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6100-2024-06-19)|Visit link for details.|19/06/2024|
- |[SolarWinds - CVE-2024-28995](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28995-2024-06-10)|Visit link for details.|19/06/2024|
- |[Linux - CVE-2023-5178](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-5178-2023-10-17)|Visit link for details.|19/06/2024|
- |[Cisco - CVE-2023-20273](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20273-2023-10-23)|Visit link for details.|19/06/2024|
- |[VMware - CVE-2024-37080](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37080-2024-06-18)|Visit link for details.|18/06/2024|
- |[VMware - CVE-2024-37079](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37079-2024-06-18)|Visit link for details.|18/06/2024|
- |[Microsoft - CVE-2024-30097](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30097-2024-06-18)|Visit link for details.|18/06/2024|
  
 
 # CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -107,6 +101,12 @@
  |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...|Release Date: 12 Jun 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,6 +118,20 @@
  |[Huawei HarmonyOS AILife Solution directory traversal (CVE-2023-7263)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
  |[Actiontec WCB6200Q buffer overflow (CVE-2024-6142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Toshiba e-STUDIO2518A vsftpd Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-815/)|Visit link for details|2024-06-18|
+ |[Toshiba e-STUDIO2518A unzip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-814/)|Visit link for details|2024-06-18|
+ |[Toshiba e-STUDIO2518A Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-813/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView Apache Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-812/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView clusterService Authentication Bypass Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-811/)|Visit link for details|2024-06-18|
+ |[Hewlett Packard Enterprise OneView startUpgradeCommon Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-810/)|Visit link for details|2024-06-18|
+ |[(0Day) Actiontec WCB6200Q uh_get_postdata_withupload Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-809/)|Visit link for details|2024-06-18|
+ |[(0Day) Actiontec WCB6200Q Cookie Format String Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-808/)|Visit link for details|2024-06-18|
  
 
 # EU-CERT
@@ -137,24 +151,11 @@
  |[2024-051: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-051/)|On May 22, GitLab has released several versions for GitLab Community Edition (CE) and Enterprise Edition (EE) containing important bug and security fixes. These fixes notably address a vulnerability that would allow an attacker to take accounts over via an XSS vulnerability.|Monday, May 27, 2024 11:32:50 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Toshiba e-STUDIO2518A vsftpd Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-815/)|Visit link for details|2024-06-18|
- |[Toshiba e-STUDIO2518A unzip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-814/)|Visit link for details|2024-06-18|
- |[Toshiba e-STUDIO2518A Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-813/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView Apache Server-Side Request Forgery Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-812/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView clusterService Authentication Bypass Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-811/)|Visit link for details|2024-06-18|
- |[Hewlett Packard Enterprise OneView startUpgradeCommon Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-810/)|Visit link for details|2024-06-18|
- |[(0Day) Actiontec WCB6200Q uh_get_postdata_withupload Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-809/)|Visit link for details|2024-06-18|
- |[(0Day) Actiontec WCB6200Q Cookie Format String Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-808/)|Visit link for details|2024-06-18|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 47952006/24 - Vulnérabilités critiques dans les routeurs ASUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-asus)| ASUS a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-3080 et CVE-2024-3912) dans leurs routeurs. Les vulnérabilités sont les suivantes :CVE-2024-3080 :…| 20 juin 2024|
  |[ 47942006/24 - Vulnérabilités dans SonicWall SonicOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-sonicos)| Deux vulnérabilités ont été corrigées dans SonicWall SonicOS. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance.| 20 juin 2024|
  |[ 47932006/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-7)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 20 juin 2024|
  |[ 47922006/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-0)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 20 juin 2024|
@@ -165,7 +166,6 @@
  |[ 47851306/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-9)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 13 juin 2024|
  |[ 47871206/24 - Vulnérabilités dans Google Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques y compris un zero-day « CVE-2024-32896 » affectant Google Pixel.…| 13 juin 2024|
  |[ 47861206/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 13 juin 2024|
- |[ 47831306/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-7)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 13 juin 2024|
  
 
 # CA-CCS
