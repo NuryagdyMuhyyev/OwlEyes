@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/06/2024 17:34:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/06/2024 18:20:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[Fortinet Releases Security Updates for FortiOS ](https://www.cisa.gov/news-events/alerts/2024/06/11/fortinet-releases-security-updates-fortios)|Visit link for details.|Jun 11, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,7 +62,7 @@
  |[DSA-5707-1 vlc - security update](https://www.linux.org/threads/dsa-5707-1-vlc-security-update.50395/)|Visit link for details.|Jun 11, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -118,6 +112,12 @@
  |[Themify Ultra theme for WordPress security bypass (CVE-2023-46148)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2024|
  |[VIPRE Advanced Security privilege escalation (CVE-2024-5930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
