@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/06/2024 03:18:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/06/2024 04:20:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,7 +68,7 @@
  |[DSA-5708-1 cyrus-imapd - security update](https://www.linux.org/threads/dsa-5708-1-cyrus-imapd-security-update.50396/)|Visit link for details.|Jun 11, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -83,12 +89,6 @@
  |[Linux/Juniper - CVE-2019-15505](https://www.cyberveille-sante.gouv.fr/alertes/linuxjuniper-cve-2019-15505-2024-06-21)|Visit link for details.|21/06/2024|
  |[IBM i - CVE-2024-27275](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-27275-2024-06-21)|Visit link for details.|21/06/2024|
  |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|21/06/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
