@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/06/2024 18:19:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/06/2024 19:17:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,23 +62,6 @@
  |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress Download Manager - CVE-2024-2098](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-download-manager-cve-2024-2098-2024-06-21)|Visit link for details.|21/06/2024|
- |[VIPRE - CVE-2024-5930](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5930-2024-06-21)|Visit link for details.|21/06/2024|
- |[VIPRE - CVE-2024-5929](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5929-2024-06-21)|Visit link for details.|21/06/2024|
- |[Linux/Juniper - CVE-2019-15505](https://www.cyberveille-sante.gouv.fr/alertes/linuxjuniper-cve-2019-15505-2024-06-21)|Visit link for details.|21/06/2024|
- |[IBM i - CVE-2024-27275](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-27275-2024-06-21)|Visit link for details.|21/06/2024|
- |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|21/06/2024|
- |[WordPress ElementsKit - CVE-2024-4404](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-cve-2024-4404-2024-06-20)|Visit link for details.|20/06/2024|
- |[Spring - CVE-2024-22263](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22263-2024-06-20)|Visit link for details.|20/06/2024|
- |[Oniguruma/Juniper - CVE-2019-13224](https://www.cyberveille-sante.gouv.fr/alertes/onigurumajuniper-cve-2019-13224-2024-06-20)|Visit link for details.|20/06/2024|
- |[Google Chrome - CVE-2024-6103](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6103-2024-06-20)|Visit link for details.|20/06/2024|
- |[Dell - CVE-2024-30472](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-30472-2024-06-20)|Visit link for details.|20/06/2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -118,6 +101,23 @@
  |[Synology BC500 devices privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2024|
  |[Synology BC500 devices buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2024|
  |[Synology RT6600ax routers security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 20, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress Download Manager - CVE-2024-2098](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-download-manager-cve-2024-2098-2024-06-21)|Visit link for details.|21/06/2024|
+ |[VIPRE - CVE-2024-5930](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5930-2024-06-21)|Visit link for details.|21/06/2024|
+ |[VIPRE - CVE-2024-5929](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5929-2024-06-21)|Visit link for details.|21/06/2024|
+ |[Linux/Juniper - CVE-2019-15505](https://www.cyberveille-sante.gouv.fr/alertes/linuxjuniper-cve-2019-15505-2024-06-21)|Visit link for details.|21/06/2024|
+ |[IBM i - CVE-2024-27275](https://www.cyberveille-sante.gouv.fr/alertes/ibm-i-cve-2024-27275-2024-06-21)|Visit link for details.|21/06/2024|
+ |[Veeam - CVE-2024-29212](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29212-2024-05-13)|Visit link for details.|21/06/2024|
+ |[WordPress ElementsKit - CVE-2024-4404](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-elementskit-cve-2024-4404-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Spring - CVE-2024-22263](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22263-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Oniguruma/Juniper - CVE-2019-13224](https://www.cyberveille-sante.gouv.fr/alertes/onigurumajuniper-cve-2019-13224-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Google Chrome - CVE-2024-6103](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6103-2024-06-20)|Visit link for details.|20/06/2024|
+ |[Dell - CVE-2024-30472](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-30472-2024-06-20)|Visit link for details.|20/06/2024|
  
 
 # ZERODAYINITIATIVE
