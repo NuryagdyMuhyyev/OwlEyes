@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/06/2024 03:16:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/06/2024 04:17:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
- |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
- |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2024|
- |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
- |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
- |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,27 +46,20 @@
  |[DSA-5708-1 cyrus-imapd - security update](https://www.linux.org/threads/dsa-5708-1-cyrus-imapd-security-update.50396/)|Visit link for details.|Jun 11, 2024|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2024-28999](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28999-2024-06-25)|Visit link for details.|25/06/2024|
- |[Phoenix SecureCore - CVE-2024-0762](https://www.cyberveille-sante.gouv.fr/alertes/phoenix-securecore-cve-2024-0762-2024-06-25)|Visit link for details.|25/06/2024|
- |[Google Chrome - CVE-2024-6290](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6290-2024-06-25)|Visit link for details.|25/06/2024|
- |[Avaya - CVE-2024-4197](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2024-4197-2024-06-25)|Visit link for details.|25/06/2024|
- |[Avaya - CVE-2024-4196](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2024-4196-2024-06-25)|Visit link for details.|25/06/2024|
- |[WordPress JupiterX Core - CVE-2023-38389](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-jupiterx-core-cve-2023-38389-2023-08-25)|Visit link for details.|25/06/2024|
- |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|25/06/2024|
- |[Snapd - CVE-2020-27352](https://www.cyberveille-sante.gouv.fr/alertes/snapd-cve-2020-27352-2024-06-24)|Visit link for details.|24/06/2024|
- |[Oniguruma/Juniper - CVE-2019-19012](https://www.cyberveille-sante.gouv.fr/alertes/onigurumajuniper-cve-2019-19012-2024-06-24)|Visit link for details.|24/06/2024|
- |[Linux - CVE-2024-27022](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-27022-2024-06-24)|Visit link for details.|24/06/2024|
- |[GitHub - CVE-2024-5746](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-5746-2024-06-24)|Visit link for details.|24/06/2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
+ |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
+ |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2024|
+ |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
+ |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
+ |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
  
 
 # HK-CERT
@@ -120,6 +97,29 @@
  |[Renesas arm-trusted-firmware security bypass (CVE-2024-6285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 23, 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2024-28999](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28999-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Phoenix SecureCore - CVE-2024-0762](https://www.cyberveille-sante.gouv.fr/alertes/phoenix-securecore-cve-2024-0762-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Google Chrome - CVE-2024-6290](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6290-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Avaya - CVE-2024-4197](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2024-4197-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Avaya - CVE-2024-4196](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2024-4196-2024-06-25)|Visit link for details.|25/06/2024|
+ |[WordPress JupiterX Core - CVE-2023-38389](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-jupiterx-core-cve-2023-38389-2023-08-25)|Visit link for details.|25/06/2024|
+ |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|25/06/2024|
+ |[Snapd - CVE-2020-27352](https://www.cyberveille-sante.gouv.fr/alertes/snapd-cve-2020-27352-2024-06-24)|Visit link for details.|24/06/2024|
+ |[Oniguruma/Juniper - CVE-2019-19012](https://www.cyberveille-sante.gouv.fr/alertes/onigurumajuniper-cve-2019-19012-2024-06-24)|Visit link for details.|24/06/2024|
+ |[Linux - CVE-2024-27022](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-27022-2024-06-24)|Visit link for details.|24/06/2024|
+ |[GitHub - CVE-2024-5746](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-5746-2024-06-24)|Visit link for details.|24/06/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -151,23 +151,6 @@
  |[2024-052: Vulnerability in Cisco FMC Software](https://cert.europa.eu/publications/security-advisories/2024-052/)|On May 22, Cisco released an advisory regarding an SQL injection vulnerability affecting its Firepower Management Center (FMC) Software. If exploited, this vulnerability could allow an attacker to obtain any data from the database, execute arbitrary commands on the underlying operating system, and elevate privileges to root.|Tuesday, May 28, 2024 10:53:37 AM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress security advisory (AV24-354)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-354)|Visit link for details|2024-06-25|
- |[[Control systems] ABB security advisory (AV24-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-353)|Visit link for details|2024-06-25|
- |[Citrix security advisory (AV24-352)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-352)|Visit link for details|2024-06-25|
- |[Google Chrome security advisory (AV24-351)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-351)|Visit link for details|2024-06-25|
- |[[Control systems] CISA ICS security advisories (AV24-350)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-350)|Visit link for details|2024-06-24|
- |[Ubuntu security advisory (AV24-349)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-349)|Visit link for details|2024-06-24|
- |[IBM security advisory (AV24-348)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-348)|Visit link for details|2024-06-24|
- |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
- |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
- |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
- |[Juniper Networks security advisory (AV24-344)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-344)|Visit link for details|2024-06-19|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 47891406/24 - Vulnérabilité critique dans Veeam Recovery Orchestrator ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-recovery-orchestrator)| Veeam annonce la correction d’une vulnérabilité critique affectant Veeam Recovery Orchestrator (VRO). L’exploitation de cette faille peut permettre à un attaquant d'accéder à l'interface web de VRO…| 14 juin 2024|
  |[ 47881206/24 - Vulnérabilités dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-networks)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Palo Alto Networks. L'exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges,…| 13 juin 2024|
  |[ 47851306/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-9)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 13 juin 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress security advisory (AV24-354)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-354)|Visit link for details|2024-06-25|
+ |[[Control systems] ABB security advisory (AV24-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-353)|Visit link for details|2024-06-25|
+ |[Citrix security advisory (AV24-352)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-352)|Visit link for details|2024-06-25|
+ |[Google Chrome security advisory (AV24-351)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-351)|Visit link for details|2024-06-25|
+ |[[Control systems] CISA ICS security advisories (AV24-350)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-350)|Visit link for details|2024-06-24|
+ |[Ubuntu security advisory (AV24-349)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-349)|Visit link for details|2024-06-24|
+ |[IBM security advisory (AV24-348)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-348)|Visit link for details|2024-06-24|
+ |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
+ |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
+ |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
+ |[Juniper Networks security advisory (AV24-344)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-344)|Visit link for details|2024-06-19|
  
