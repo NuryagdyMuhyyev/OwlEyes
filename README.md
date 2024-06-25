@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/06/2024 19:18:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/06/2024 20:19:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
  |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
  |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2024|
@@ -42,7 +43,6 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
  |[Phone Scammers Impersonating CISA Employees](https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees)|Visit link for details.|Jun 12, 2024|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 12, 2024|
- |[Microsoft Releases June 2024 Security Updates ](https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates)|Visit link for details.|Jun 11, 2024|
  
 
 # LINUX-SEC
@@ -62,13 +62,13 @@
  |[DSA-5708-1 cyrus-imapd - security update](https://www.linux.org/threads/dsa-5708-1-cyrus-imapd-security-update.50396/)|Visit link for details.|Jun 11, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -94,17 +94,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SolarWinds - CVE-2024-28999](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28999-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Phoenix SecureCore - CVE-2024-0762](https://www.cyberveille-sante.gouv.fr/alertes/phoenix-securecore-cve-2024-0762-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Google Chrome - CVE-2024-6290](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6290-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Avaya - CVE-2024-4197](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2024-4197-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Avaya - CVE-2024-4196](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2024-4196-2024-06-25)|Visit link for details.|25/06/2024|
  |[WordPress JupiterX Core - CVE-2023-38389](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-jupiterx-core-cve-2023-38389-2023-08-25)|Visit link for details.|25/06/2024|
  |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|25/06/2024|
  |[Snapd - CVE-2020-27352](https://www.cyberveille-sante.gouv.fr/alertes/snapd-cve-2020-27352-2024-06-24)|Visit link for details.|24/06/2024|
  |[Oniguruma/Juniper - CVE-2019-19012](https://www.cyberveille-sante.gouv.fr/alertes/onigurumajuniper-cve-2019-19012-2024-06-24)|Visit link for details.|24/06/2024|
  |[Linux - CVE-2024-27022](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-27022-2024-06-24)|Visit link for details.|24/06/2024|
  |[GitHub - CVE-2024-5746](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-5746-2024-06-24)|Visit link for details.|24/06/2024|
- |[ESET - CVE-2024-2003](https://www.cyberveille-sante.gouv.fr/alertes/eset-cve-2024-2003-2024-06-24)|Visit link for details.|24/06/2024|
- |[WordPress Download Manager - CVE-2024-2098](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-download-manager-cve-2024-2098-2024-06-21)|Visit link for details.|21/06/2024|
- |[VIPRE - CVE-2024-5930](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5930-2024-06-21)|Visit link for details.|21/06/2024|
- |[VIPRE - CVE-2024-5929](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5929-2024-06-21)|Visit link for details.|21/06/2024|
- |[Linux/Juniper - CVE-2019-15505](https://www.cyberveille-sante.gouv.fr/alertes/linuxjuniper-cve-2019-15505-2024-06-21)|Visit link for details.|21/06/2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -116,8 +116,8 @@
  |[FreeRTOS-Plus-TCP Library information disclosure (CVE-2024-38373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 23, 2024|
  |[Renesas arm-trusted-firmware security bypass (CVE-2024-6285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 23, 2024|
  |[Renesas arm-trusted-firmware code execution (CVE-2024-6287)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 23, 2024|
- |[Apache JSPWiki cross-site scripting (CVE-2024-27136)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2024|
- |[Apache StreamPipes information disclosure (CVE-2024-29868)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 21, 2024|
+ |[BBS e-Popup Plugin for WordPress security bypass (CVE-2023-36504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2024|
+ |[AutomateWoo Plugin for WordPress security bypass (CVE-2023-36512)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2024|
  
 
 # EU-CERT
@@ -151,27 +151,11 @@
  |[(Pwn2Own) Sony XAV-AX5500 Insufficient Firmware Update Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-874/)|Visit link for details|2024-06-21|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-351)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-351)|Visit link for details|2024-06-25|
- |[[Control systems] CISA ICS security advisories (AV24-350)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-350)|Visit link for details|2024-06-24|
- |[Ubuntu security advisory (AV24-349)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-349)|Visit link for details|2024-06-24|
- |[IBM security advisory (AV24-348)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-348)|Visit link for details|2024-06-24|
- |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
- |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
- |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
- |[Juniper Networks security advisory (AV24-344)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-344)|Visit link for details|2024-06-19|
- |[Atlassian security advisory (AV24-343)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-343)|Visit link for details|2024-06-19|
- |[Google Chrome security advisory (AV24-342)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-342)|Visit link for details|2024-06-19|
- |[Red Hat security advisory (AV24-341)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-341)|Visit link for details|2024-06-18|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 47972506/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-1)| Veuillez se référer au bulletin de sécurité WordPress du 24 Juin 2024 afin d’installer les nouvelles mises à jour.| 25 juin 2024|
  |[ 47962106/24 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-eset-1)| Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges.| 21 juin 2024|
  |[ 47952006/24 - Vulnérabilités critiques dans les routeurs ASUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-asus)| ASUS a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-3080 et CVE-2024-3912) dans leurs routeurs. Les vulnérabilités sont les suivantes :CVE-2024-3080 :…| 20 juin 2024|
  |[ 47942006/24 - Vulnérabilités dans SonicWall SonicOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-sonicos)| Deux vulnérabilités ont été corrigées dans SonicWall SonicOS. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance.| 20 juin 2024|
@@ -182,5 +166,21 @@
  |[ 47891406/24 - Vulnérabilité critique dans Veeam Recovery Orchestrator ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-recovery-orchestrator)| Veeam annonce la correction d’une vulnérabilité critique affectant Veeam Recovery Orchestrator (VRO). L’exploitation de cette faille peut permettre à un attaquant d'accéder à l'interface web de VRO…| 14 juin 2024|
  |[ 47881206/24 - Vulnérabilités dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-networks)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Palo Alto Networks. L'exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges,…| 13 juin 2024|
  |[ 47851306/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-9)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 13 juin 2024|
- |[ 47871206/24 - Vulnérabilités dans Google Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-pixel)| Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités critiques y compris un zero-day « CVE-2024-32896 » affectant Google Pixel.…| 13 juin 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Citrix security advisory (AV24-352)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-352)|Visit link for details|2024-06-25|
+ |[Google Chrome security advisory (AV24-351)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-351)|Visit link for details|2024-06-25|
+ |[[Control systems] CISA ICS security advisories (AV24-350)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-350)|Visit link for details|2024-06-24|
+ |[Ubuntu security advisory (AV24-349)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-349)|Visit link for details|2024-06-24|
+ |[IBM security advisory (AV24-348)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-348)|Visit link for details|2024-06-24|
+ |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
+ |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
+ |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
+ |[Juniper Networks security advisory (AV24-344)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-344)|Visit link for details|2024-06-19|
+ |[Atlassian security advisory (AV24-343)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-343)|Visit link for details|2024-06-19|
+ |[Google Chrome security advisory (AV24-342)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-342)|Visit link for details|2024-06-19|
  
