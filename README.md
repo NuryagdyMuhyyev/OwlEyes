@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/06/2024 16:16:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/06/2024 17:36:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,12 @@
  |[DSA-5720-1 chromium - security update](https://www.linux.org/threads/dsa-5720-1-chromium-security-update.50611/)|Visit link for details.|Jun 26, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,12 +83,6 @@
  |[Oniguruma/Juniper - CVE-2019-19012](https://www.cyberveille-sante.gouv.fr/alertes/onigurumajuniper-cve-2019-19012-2024-06-24)|Visit link for details.|24/06/2024|
  |[Linux - CVE-2024-27022](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-27022-2024-06-24)|Visit link for details.|24/06/2024|
  |[GitHub - CVE-2024-5746](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-5746-2024-06-24)|Visit link for details.|24/06/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
@@ -151,23 +151,6 @@
  |[(Pwn2Own) Sony XAV-AX5500 WMV/ASF Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-875/)|Visit link for details|2024-06-21|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress security advisory (AV24-354)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-354)|Visit link for details|2024-06-25|
- |[[Control systems] ABB security advisory (AV24-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-353)|Visit link for details|2024-06-25|
- |[Citrix security advisory (AV24-352)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-352)|Visit link for details|2024-06-25|
- |[Google Chrome security advisory (AV24-351)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-351)|Visit link for details|2024-06-25|
- |[[Control systems] CISA ICS security advisories (AV24-350)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-350)|Visit link for details|2024-06-24|
- |[Ubuntu security advisory (AV24-349)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-349)|Visit link for details|2024-06-24|
- |[IBM security advisory (AV24-348)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-348)|Visit link for details|2024-06-24|
- |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
- |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
- |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
- |[Juniper Networks security advisory (AV24-344)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-344)|Visit link for details|2024-06-19|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 47912006/24 - Vulnérabilités dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-secure-analytics-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Juniper Secure Analytics. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 20 juin 2024|
  |[ 47901906/24 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter-0)| VMware annonce la correction de trois  vulnérabilités critiques affectant son produit VMware vCenter. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 19 juin 2024|
  |[ 47891406/24 - Vulnérabilité critique dans Veeam Recovery Orchestrator ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-recovery-orchestrator)| Veeam annonce la correction d’une vulnérabilité critique affectant Veeam Recovery Orchestrator (VRO). L’exploitation de cette faille peut permettre à un attaquant d'accéder à l'interface web de VRO…| 14 juin 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress security advisory (AV24-354)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-354)|Visit link for details|2024-06-25|
+ |[[Control systems] ABB security advisory (AV24-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-353)|Visit link for details|2024-06-25|
+ |[Citrix security advisory (AV24-352)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-352)|Visit link for details|2024-06-25|
+ |[Google Chrome security advisory (AV24-351)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-351)|Visit link for details|2024-06-25|
+ |[[Control systems] CISA ICS security advisories (AV24-350)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-350)|Visit link for details|2024-06-24|
+ |[Ubuntu security advisory (AV24-349)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-349)|Visit link for details|2024-06-24|
+ |[IBM security advisory (AV24-348)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-348)|Visit link for details|2024-06-24|
+ |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
+ |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
+ |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
+ |[Juniper Networks security advisory (AV24-344)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-344)|Visit link for details|2024-06-19|
  
