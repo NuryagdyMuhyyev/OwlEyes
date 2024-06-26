@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/06/2024 14:21:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/06/2024 15:18:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5719-1 emacs - security update](https://www.linux.org/threads/dsa-5719-1-emacs-security-update.50607/)|Visit link for details.|Jun 26, 2024|
- |[DSA-5718-1 org-mode - security update](https://www.linux.org/threads/dsa-5718-1-org-mode-security-update.50606/)|Visit link for details.|Jun 26, 2024|
- |[DSA-5715-2 composer - regression update](https://www.linux.org/threads/dsa-5715-2-composer-regression-update.50580/)|Visit link for details.|Jun 24, 2024|
- |[DSA-5717-1 php8.2 - security update](https://www.linux.org/threads/dsa-5717-1-php8-2-security-update.50544/)|Visit link for details.|Jun 21, 2024|
- |[DSA-5716-1 chromium - security update](https://www.linux.org/threads/dsa-5716-1-chromium-security-update.50528/)|Visit link for details.|Jun 19, 2024|
- |[DSA-5715-1 composer - security update](https://www.linux.org/threads/dsa-5715-1-composer-security-update.50518/)|Visit link for details.|Jun 19, 2024|
- |[DSA-5714-1 roundcube - security update](https://www.linux.org/threads/dsa-5714-1-roundcube-security-update.50515/)|Visit link for details.|Jun 18, 2024|
- |[DSA-5713-1 libndp - security update](https://www.linux.org/threads/dsa-5713-1-libndp-security-update.50490/)|Visit link for details.|Jun 16, 2024|
- |[DSA-5712-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5712-1-ffmpeg-security-update.50486/)|Visit link for details.|Jun 16, 2024|
- |[DSA-5711-1 thunderbird - security update](https://www.linux.org/threads/dsa-5711-1-thunderbird-security-update.50473/)|Visit link for details.|Jun 15, 2024|
- |[DSA-5710-1 chromium - security update](https://www.linux.org/threads/dsa-5710-1-chromium-security-update.50451/)|Visit link for details.|Jun 14, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -68,39 +51,21 @@
  |---|---|---|
  
 
-# HK-CERT
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-06...| Release Date: 14 Jun 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-06-13] Updated Solutions and Related Links. [Updated on...| Release Date: 11 Jun 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-...| Release Date: 3 Jun 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240625)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 25 Jun 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240621)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and spoofing on the targeted system.|Release Date: 21 Jun 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240619)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 19 Jun 2024 |
- |[ASUS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-multiple-vulnerabilities_20240617)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker could exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 17 Jun 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, data manipulation, sensitive information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 14 Jun 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Jun 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. |Release Date: 13 Jun 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware vCenter Server denial of service (CVE-2024-37087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[VMware ESXi security bypass (CVE-2024-37085)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[VMware ESXi denial of service (CVE-2024-37086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[PTC Creo Elements/Direct License Server command execution (CVE-2024-6071)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
- |[ABB Ability System 800xA denial of service (CVE-2024-3036)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
- |[udn News Android APP information disclosure (CVE-2024-6295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
- |[udn News Android APP information disclosure (CVE-2024-6294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[USN-6850-1: OpenVPN vulnerability](https://www.linux.org/threads/usn-6850-1-openvpn-vulnerability.50621/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6849-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6849-1-salt-vulnerabilities.50620/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6746-2: Google Guest Agent and Google OS Config Agent vulnerability](https://www.linux.org/threads/usn-6746-2-google-guest-agent-and-google-os-config-agent-vulnerability.50619/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6848-1: Roundcube vulnerabilities](https://www.linux.org/threads/usn-6848-1-roundcube-vulnerabilities.50618/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6847-1: libheif vulnerabilities](https://www.linux.org/threads/usn-6847-1-libheif-vulnerabilities.50617/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6846-1: Ansible vulnerabilities](https://www.linux.org/threads/usn-6846-1-ansible-vulnerabilities.50616/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6844-1: CUPS vulnerability](https://www.linux.org/threads/usn-6844-1-cups-vulnerability.50615/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6845-1: Hibernate vulnerability](https://www.linux.org/threads/usn-6845-1-hibernate-vulnerability.50614/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6842-1: gdb vulnerabilities](https://www.linux.org/threads/usn-6842-1-gdb-vulnerabilities.50613/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6841-1: PHP vulnerability](https://www.linux.org/threads/usn-6841-1-php-vulnerability.50612/)|Visit link for details.|Jun 26, 2024|
+ |[DSA-5720-1 chromium - security update](https://www.linux.org/threads/dsa-5720-1-chromium-security-update.50611/)|Visit link for details.|Jun 26, 2024|
  
 
 # CERT-SANTE
@@ -118,6 +83,41 @@
  |[Oniguruma/Juniper - CVE-2019-19012](https://www.cyberveille-sante.gouv.fr/alertes/onigurumajuniper-cve-2019-19012-2024-06-24)|Visit link for details.|24/06/2024|
  |[Linux - CVE-2024-27022](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-27022-2024-06-24)|Visit link for details.|24/06/2024|
  |[GitHub - CVE-2024-5746](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-5746-2024-06-24)|Visit link for details.|24/06/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server denial of service (CVE-2024-37087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[VMware ESXi security bypass (CVE-2024-37085)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[VMware ESXi denial of service (CVE-2024-37086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[PTC Creo Elements/Direct License Server command execution (CVE-2024-6071)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
+ |[ABB Ability System 800xA denial of service (CVE-2024-3036)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
+ |[udn News Android APP information disclosure (CVE-2024-6295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
+ |[udn News Android APP information disclosure (CVE-2024-6294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-06...| Release Date: 14 Jun 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240611)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-06-13] Updated Solutions and Related Links. [Updated on...| Release Date: 11 Jun 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-...| Release Date: 3 Jun 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240625)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 25 Jun 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240621)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and spoofing on the targeted system.|Release Date: 21 Jun 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240619)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 19 Jun 2024 |
+ |[ASUS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-multiple-vulnerabilities_20240617)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker could exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 17 Jun 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, data manipulation, sensitive information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 14 Jun 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Jun 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. |Release Date: 13 Jun 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -172,6 +172,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 47982606/24 - Vulnérabilité critique affectant MOVEit Transfer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-moveit-transfer)| Progress Software annonce la correction d’une vulnérabilité critique   affectant son produit MOVEit Transfer. Cette vulnérabilité est activement exploitée et elle  peut  permettre  à un attaquant…| 26 juin 2024|
+ |[ 47992606/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 26 juin 2024|
  |[ 47972506/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-1)| Veuillez se référer au bulletin de sécurité WordPress du 24 Juin 2024 afin d’installer les nouvelles mises à jour.| 25 juin 2024|
  |[ 47962106/24 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-eset-1)| Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges.| 21 juin 2024|
  |[ 47952006/24 - Vulnérabilités critiques dans les routeurs ASUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-asus)| ASUS a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-3080 et CVE-2024-3912) dans leurs routeurs. Les vulnérabilités sont les suivantes :CVE-2024-3080 :…| 20 juin 2024|
@@ -181,6 +183,4 @@
  |[ 47912006/24 - Vulnérabilités dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-secure-analytics-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Juniper Secure Analytics. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 20 juin 2024|
  |[ 47901906/24 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter-0)| VMware annonce la correction de trois  vulnérabilités critiques affectant son produit VMware vCenter. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 19 juin 2024|
  |[ 47891406/24 - Vulnérabilité critique dans Veeam Recovery Orchestrator ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-recovery-orchestrator)| Veeam annonce la correction d’une vulnérabilité critique affectant Veeam Recovery Orchestrator (VRO). L’exploitation de cette faille peut permettre à un attaquant d'accéder à l'interface web de VRO…| 14 juin 2024|
- |[ 47881206/24 - Vulnérabilités dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-palo-alto-networks)| Plusieurs vulnérabilités ont été corrigées dans les produits susmentionnés de Palo Alto Networks. L'exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges,…| 13 juin 2024|
- |[ 47851306/24 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-9)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de ces…| 13 juin 2024|
  
