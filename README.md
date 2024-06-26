@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/06/2024 01:21:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/06/2024 02:19:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,13 +62,13 @@
  |[USN-6846-1: Ansible vulnerabilities](https://www.linux.org/threads/usn-6846-1-ansible-vulnerabilities.50616/)|Visit link for details.|Jun 26, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -91,19 +91,6 @@
  |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|25/06/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware vCenter Server denial of service (CVE-2024-37087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[VMware ESXi security bypass (CVE-2024-37085)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[VMware ESXi denial of service (CVE-2024-37086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Tp-Link ER7206 Omada Gigabit VPN Router code execution (CVE-2024-21827)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
- |[PTC Creo Elements/Direct License Server command execution (CVE-2024-6071)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
- |[ABB Ability System 800xA denial of service (CVE-2024-3036)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
- |[udn News Android APP information disclosure (CVE-2024-6295)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -118,6 +105,19 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, data manipulation, sensitive information disclosure, remote code execution and denial of service condition on the targeted system.|Release Date: 14 Jun 2024 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Jun 2024 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240613)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system. |Release Date: 13 Jun 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware vCenter Server denial of service (CVE-2024-37087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[VMware ESXi security bypass (CVE-2024-37085)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[VMware ESXi denial of service (CVE-2024-37086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[IBM Security Verify Access denial of service (CVE-2024-31883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[IBM Security Verify Access information disclosure (CVE-2023-30430)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[Tp-Link ER7206 Omada Gigabit VPN Router code execution (CVE-2024-21827)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
+ |[PTC Creo Elements/Direct License Server command execution (CVE-2024-6071)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
  
 
 # EU-CERT
@@ -141,6 +141,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Zen Cart findPluginAdminPage Local File Inclusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-883/)|Visit link for details|2024-06-26|
  |[VMware vCenter Server Appliance License Server Uncontrolled Memory Allocation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-882/)|Visit link for details|2024-06-25|
  |[(Pwn2Own) Ubiquiti Networks EV Station setDebugPortEnabled Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-881/)|Visit link for details|2024-06-21|
  |[(Pwn2Own) Ubiquiti Networks EV Station EVCLauncher Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-880/)|Visit link for details|2024-06-21|
@@ -148,7 +149,6 @@
  |[Sony XAV-AX5500 Insufficient Verification of Data Authenticity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-878/)|Visit link for details|2024-06-21|
  |[(Pwn2Own) Sony XAV-AX5500 CarPlay TLV Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-877/)|Visit link for details|2024-06-21|
  |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Sony XAV-AX5500 WMV/ASF Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-875/)|Visit link for details|2024-06-21|
  
 
 # MA-CERT
