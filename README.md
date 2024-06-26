@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/06/2024 03:18:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/06/2024 04:18:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,35 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6851-1: Netplan vulnerabilities](https://www.linux.org/threads/usn-6851-1-netplan-vulnerabilities.50641/)|Visit link for details.|Jun 26, 2024|
- |[USN-6853-1: Ruby vulnerability](https://www.linux.org/threads/usn-6853-1-ruby-vulnerability.50640/)|Visit link for details.|Jun 26, 2024|
- |[USN-6852-1: Wget vulnerability](https://www.linux.org/threads/usn-6852-1-wget-vulnerability.50639/)|Visit link for details.|Jun 26, 2024|
- |[USN-6843-1: Plasma Workspace vulnerability](https://www.linux.org/threads/usn-6843-1-plasma-workspace-vulnerability.50638/)|Visit link for details.|Jun 26, 2024|
- |[USN-6819-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6819-4-linux-kernel-oracle-vulnerabilities.50635/)|Visit link for details.|Jun 26, 2024|
- |[USN-6850-1: OpenVPN vulnerability](https://www.linux.org/threads/usn-6850-1-openvpn-vulnerability.50621/)|Visit link for details.|Jun 26, 2024|
- |[USN-6849-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6849-1-salt-vulnerabilities.50620/)|Visit link for details.|Jun 26, 2024|
- |[USN-6746-2: Google Guest Agent and Google OS Config Agent vulnerability](https://www.linux.org/threads/usn-6746-2-google-guest-agent-and-google-os-config-agent-vulnerability.50619/)|Visit link for details.|Jun 26, 2024|
- |[USN-6848-1: Roundcube vulnerabilities](https://www.linux.org/threads/usn-6848-1-roundcube-vulnerabilities.50618/)|Visit link for details.|Jun 26, 2024|
- |[USN-6847-1: libheif vulnerabilities](https://www.linux.org/threads/usn-6847-1-libheif-vulnerabilities.50617/)|Visit link for details.|Jun 26, 2024|
- |[USN-6846-1: Ansible vulnerabilities](https://www.linux.org/threads/usn-6846-1-ansible-vulnerabilities.50616/)|Visit link for details.|Jun 26, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -72,6 +43,35 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
  |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6566-2: SQLite vulnerability](https://www.linux.org/threads/usn-6566-2-sqlite-vulnerability.50647/)|Visit link for details.|Jun 26, 2024|
+ |[DSA-5722-1 libvpx - security update](https://www.linux.org/threads/dsa-5722-1-libvpx-security-update.50646/)|Visit link for details.|Jun 26, 2024|
+ |[DSA-5721-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5721-1-ffmpeg-security-update.50645/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6851-1: Netplan vulnerabilities](https://www.linux.org/threads/usn-6851-1-netplan-vulnerabilities.50641/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6853-1: Ruby vulnerability](https://www.linux.org/threads/usn-6853-1-ruby-vulnerability.50640/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6852-1: Wget vulnerability](https://www.linux.org/threads/usn-6852-1-wget-vulnerability.50639/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6843-1: Plasma Workspace vulnerability](https://www.linux.org/threads/usn-6843-1-plasma-workspace-vulnerability.50638/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6819-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6819-4-linux-kernel-oracle-vulnerabilities.50635/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6850-1: OpenVPN vulnerability](https://www.linux.org/threads/usn-6850-1-openvpn-vulnerability.50621/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6849-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6849-1-salt-vulnerabilities.50620/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6746-2: Google Guest Agent and Google OS Config Agent vulnerability](https://www.linux.org/threads/usn-6746-2-google-guest-agent-and-google-os-config-agent-vulnerability.50619/)|Visit link for details.|Jun 26, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
@@ -128,13 +128,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Progress MOVEit Gateway security bypass (CVE-2024-5805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[Progress MOVEit Transfer security bypass (CVE-2024-5806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  |[Apple AirPods spoofing (CVE-2024-27867)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  |[VMware vCenter Server denial of service (CVE-2024-37087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  |[VMware ESXi security bypass (CVE-2024-37085)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  |[VMware ESXi denial of service (CVE-2024-37086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  |[IBM Security Verify Access denial of service (CVE-2024-31883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[IBM Security Verify Access information disclosure (CVE-2023-30430)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Tp-Link ER7206 Omada Gigabit VPN Router code execution (CVE-2024-21827)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 24, 2024|
  
 
 # ZERODAYINITIATIVE
@@ -149,23 +149,6 @@
  |[Sony XAV-AX5500 Insufficient Verification of Data Authenticity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-878/)|Visit link for details|2024-06-21|
  |[(Pwn2Own) Sony XAV-AX5500 CarPlay TLV Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-877/)|Visit link for details|2024-06-21|
  |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 47982606/24 - Vulnérabilité critique affectant MOVEit Transfer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-moveit-transfer)| Progress Software annonce la correction d’une vulnérabilité critique   affectant son produit MOVEit Transfer. Cette vulnérabilité est activement exploitée et elle  peut  permettre  à un attaquant…| 26 juin 2024|
- |[ 47992606/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 26 juin 2024|
- |[ 47972506/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-1)| Veuillez se référer au bulletin de sécurité WordPress du 24 Juin 2024 afin d’installer les nouvelles mises à jour.| 25 juin 2024|
- |[ 47962106/24 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-eset-1)| Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges.| 21 juin 2024|
- |[ 47952006/24 - Vulnérabilités critiques dans les routeurs ASUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-asus)| ASUS a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-3080 et CVE-2024-3912) dans leurs routeurs. Les vulnérabilités sont les suivantes :CVE-2024-3080 :…| 20 juin 2024|
- |[ 47942006/24 - Vulnérabilités dans SonicWall SonicOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-sonicos)| Deux vulnérabilités ont été corrigées dans SonicWall SonicOS. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance.| 20 juin 2024|
- |[ 47932006/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-7)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 20 juin 2024|
- |[ 47922006/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-0)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 20 juin 2024|
- |[ 47912006/24 - Vulnérabilités dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-secure-analytics-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Juniper Secure Analytics. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 20 juin 2024|
- |[ 47901906/24 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter-0)| VMware annonce la correction de trois  vulnérabilités critiques affectant son produit VMware vCenter. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 19 juin 2024|
- |[ 47891406/24 - Vulnérabilité critique dans Veeam Recovery Orchestrator ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-recovery-orchestrator)| Veeam annonce la correction d’une vulnérabilité critique affectant Veeam Recovery Orchestrator (VRO). L’exploitation de cette faille peut permettre à un attaquant d'accéder à l'interface web de VRO…| 14 juin 2024|
  
 
 # CA-CCS
@@ -183,4 +166,21 @@
  |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
  |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
  |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 47982606/24 - Vulnérabilité critique affectant MOVEit Transfer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-moveit-transfer)| Progress Software annonce la correction d’une vulnérabilité critique   affectant son produit MOVEit Transfer. Cette vulnérabilité est activement exploitée et elle  peut  permettre  à un attaquant…| 26 juin 2024|
+ |[ 47992606/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 26 juin 2024|
+ |[ 47972506/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-1)| Veuillez se référer au bulletin de sécurité WordPress du 24 Juin 2024 afin d’installer les nouvelles mises à jour.| 25 juin 2024|
+ |[ 47962106/24 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-eset-1)| Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges.| 21 juin 2024|
+ |[ 47952006/24 - Vulnérabilités critiques dans les routeurs ASUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-asus)| ASUS a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-3080 et CVE-2024-3912) dans leurs routeurs. Les vulnérabilités sont les suivantes :CVE-2024-3080 :…| 20 juin 2024|
+ |[ 47942006/24 - Vulnérabilités dans SonicWall SonicOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-sonicos)| Deux vulnérabilités ont été corrigées dans SonicWall SonicOS. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance.| 20 juin 2024|
+ |[ 47932006/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-7)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 20 juin 2024|
+ |[ 47922006/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-0)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 20 juin 2024|
+ |[ 47912006/24 - Vulnérabilités dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-juniper-secure-analytics-0)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Juniper Secure Analytics. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 20 juin 2024|
+ |[ 47901906/24 - Vulnérabilités critiques affectant VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vmware-vcenter-0)| VMware annonce la correction de trois  vulnérabilités critiques affectant son produit VMware vCenter. L'exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 19 juin 2024|
+ |[ 47891406/24 - Vulnérabilité critique dans Veeam Recovery Orchestrator ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-veeam-recovery-orchestrator)| Veeam annonce la correction d’une vulnérabilité critique affectant Veeam Recovery Orchestrator (VRO). L’exploitation de cette faille peut permettre à un attaquant d'accéder à l'interface web de VRO…| 14 juin 2024|
  
