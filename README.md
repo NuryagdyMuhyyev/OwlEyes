@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/06/2024 18:20:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/06/2024 19:17:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,30 +62,7 @@
  |[USN-6849-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6849-1-salt-vulnerabilities.50620/)|Visit link for details.|Jun 26, 2024|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[TP-Link - CVE-2024-21827](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-21827-2024-06-26)|Visit link for details.|26/06/2024|
- |[LibreOffice - CVE-2024-5261](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2024-5261-2024-06-26)|Visit link for details.|26/06/2024|
- |[Progress WhatsUp Gold - CVE-2024-4883](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4883-2024-06-26)|Visit link for details.|26/06/2024|
- |[Progress MOVEit Transfer - CVE-2024-5806](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-5806-2024-06-26)|Visit link for details.|26/06/2024|
- |[Roundcube - CVE-2024-37383](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2024-37383-2024-06-26)|Visit link for details.|26/06/2024|
- |[SolarWinds - CVE-2024-28999](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28999-2024-06-25)|Visit link for details.|25/06/2024|
- |[Phoenix SecureCore - CVE-2024-0762](https://www.cyberveille-sante.gouv.fr/alertes/phoenix-securecore-cve-2024-0762-2024-06-25)|Visit link for details.|25/06/2024|
- |[Google Chrome - CVE-2024-6290](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6290-2024-06-25)|Visit link for details.|25/06/2024|
- |[Avaya - CVE-2024-4197](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2024-4197-2024-06-25)|Visit link for details.|25/06/2024|
- |[Avaya - CVE-2024-4196](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2024-4196-2024-06-25)|Visit link for details.|25/06/2024|
- |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|25/06/2024|
- 
-
 # CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -111,13 +88,36 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[TP-Link Archer products command execution (CVE-2024-38471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2024|
+ |[Sola Testimonials/Super Testimonials Plugin for WordPress cross-site request forgery (CVE-2024-38345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[WP Tweet Walls Plugin for WordPress cross-site request forgery (CVE-2024-38344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  |[Progress Software Corporation WhatsUp Gold denial of service (CVE-2024-5013)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  |[Progress Software Corporation WhatsUp Gold privilege escalation (CVE-2024-5009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  |[Progress Software Corporation WhatsUp Gold directory traversal (CVE-2024-5019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  |[Progress Software Corporation WhatsUp Gold directory traversal (CVE-2024-5018)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Progress Software Corporation WhatsUp Gold server-side request forgery (CVE-2024-5015)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Progress Software Corporation WhatsUp Gold server-side request forgery (CVE-2024-5014)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Progress Software Corporation WhatsUp Gold information disclosure (CVE-2024-5012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-Link - CVE-2024-21827](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-21827-2024-06-26)|Visit link for details.|26/06/2024|
+ |[LibreOffice - CVE-2024-5261](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2024-5261-2024-06-26)|Visit link for details.|26/06/2024|
+ |[Progress WhatsUp Gold - CVE-2024-4883](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4883-2024-06-26)|Visit link for details.|26/06/2024|
+ |[Progress MOVEit Transfer - CVE-2024-5806](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-5806-2024-06-26)|Visit link for details.|26/06/2024|
+ |[Roundcube - CVE-2024-37383](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2024-37383-2024-06-26)|Visit link for details.|26/06/2024|
+ |[SolarWinds - CVE-2024-28999](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28999-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Phoenix SecureCore - CVE-2024-0762](https://www.cyberveille-sante.gouv.fr/alertes/phoenix-securecore-cve-2024-0762-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Google Chrome - CVE-2024-6290](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6290-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Avaya - CVE-2024-4197](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2024-4197-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Avaya - CVE-2024-4196](https://www.cyberveille-sante.gouv.fr/alertes/avaya-cve-2024-4196-2024-06-25)|Visit link for details.|25/06/2024|
+ |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|25/06/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -137,20 +137,6 @@
  |[2024-052: Vulnerability in Cisco FMC Software](https://cert.europa.eu/publications/security-advisories/2024-052/)|On May 22, Cisco released an advisory regarding an SQL injection vulnerability affecting its Firepower Management Center (FMC) Software. If exploited, this vulnerability could allow an attacker to obtain any data from the database, execute arbitrary commands on the underlying operating system, and elevate privileges to root.|Tuesday, May 28, 2024 10:53:37 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zen Cart findPluginAdminPage Local File Inclusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-883/)|Visit link for details|2024-06-26|
- |[VMware vCenter Server Appliance License Server Uncontrolled Memory Allocation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-882/)|Visit link for details|2024-06-25|
- |[(Pwn2Own) Ubiquiti Networks EV Station setDebugPortEnabled Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-881/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Ubiquiti Networks EV Station EVCLauncher Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-880/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Ubiquiti Networks EV Station changeUserPassword Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-879/)|Visit link for details|2024-06-21|
- |[Sony XAV-AX5500 Insufficient Verification of Data Authenticity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-878/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Sony XAV-AX5500 CarPlay TLV Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-877/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -166,6 +152,20 @@
  |[ 47942006/24 - Vulnérabilités dans SonicWall SonicOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-sonicos)| Deux vulnérabilités ont été corrigées dans SonicWall SonicOS. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance.| 20 juin 2024|
  |[ 47932006/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-7)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 20 juin 2024|
  |[ 47922006/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-0)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 20 juin 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zen Cart findPluginAdminPage Local File Inclusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-883/)|Visit link for details|2024-06-26|
+ |[VMware vCenter Server Appliance License Server Uncontrolled Memory Allocation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-882/)|Visit link for details|2024-06-25|
+ |[(Pwn2Own) Ubiquiti Networks EV Station setDebugPortEnabled Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-881/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Ubiquiti Networks EV Station EVCLauncher Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-880/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Ubiquiti Networks EV Station changeUserPassword Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-879/)|Visit link for details|2024-06-21|
+ |[Sony XAV-AX5500 Insufficient Verification of Data Authenticity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-878/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Sony XAV-AX5500 CarPlay TLV Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-877/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
  
 
 # CA-CCS
