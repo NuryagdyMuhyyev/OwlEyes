@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/06/2024 17:35:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/06/2024 18:20:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6854-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6854-1-openssl-vulnerability.50650/)|Visit link for details.|Jun 27, 2024|
- |[USN-6566-2: SQLite vulnerability](https://www.linux.org/threads/usn-6566-2-sqlite-vulnerability.50647/)|Visit link for details.|Jun 26, 2024|
- |[DSA-5722-1 libvpx - security update](https://www.linux.org/threads/dsa-5722-1-libvpx-security-update.50646/)|Visit link for details.|Jun 26, 2024|
- |[DSA-5721-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5721-1-ffmpeg-security-update.50645/)|Visit link for details.|Jun 26, 2024|
- |[USN-6851-1: Netplan vulnerabilities](https://www.linux.org/threads/usn-6851-1-netplan-vulnerabilities.50641/)|Visit link for details.|Jun 26, 2024|
- |[USN-6853-1: Ruby vulnerability](https://www.linux.org/threads/usn-6853-1-ruby-vulnerability.50640/)|Visit link for details.|Jun 26, 2024|
- |[USN-6852-1: Wget vulnerability](https://www.linux.org/threads/usn-6852-1-wget-vulnerability.50639/)|Visit link for details.|Jun 26, 2024|
- |[USN-6843-1: Plasma Workspace vulnerability](https://www.linux.org/threads/usn-6843-1-plasma-workspace-vulnerability.50638/)|Visit link for details.|Jun 26, 2024|
- |[USN-6819-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6819-4-linux-kernel-oracle-vulnerabilities.50635/)|Visit link for details.|Jun 26, 2024|
- |[USN-6850-1: OpenVPN vulnerability](https://www.linux.org/threads/usn-6850-1-openvpn-vulnerability.50621/)|Visit link for details.|Jun 26, 2024|
- |[USN-6849-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6849-1-salt-vulnerabilities.50620/)|Visit link for details.|Jun 26, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,10 +45,21 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6854-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6854-1-openssl-vulnerability.50650/)|Visit link for details.|Jun 27, 2024|
+ |[USN-6566-2: SQLite vulnerability](https://www.linux.org/threads/usn-6566-2-sqlite-vulnerability.50647/)|Visit link for details.|Jun 26, 2024|
+ |[DSA-5722-1 libvpx - security update](https://www.linux.org/threads/dsa-5722-1-libvpx-security-update.50646/)|Visit link for details.|Jun 26, 2024|
+ |[DSA-5721-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5721-1-ffmpeg-security-update.50645/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6851-1: Netplan vulnerabilities](https://www.linux.org/threads/usn-6851-1-netplan-vulnerabilities.50641/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6853-1: Ruby vulnerability](https://www.linux.org/threads/usn-6853-1-ruby-vulnerability.50640/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6852-1: Wget vulnerability](https://www.linux.org/threads/usn-6852-1-wget-vulnerability.50639/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6843-1: Plasma Workspace vulnerability](https://www.linux.org/threads/usn-6843-1-plasma-workspace-vulnerability.50638/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6819-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6819-4-linux-kernel-oracle-vulnerabilities.50635/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6850-1: OpenVPN vulnerability](https://www.linux.org/threads/usn-6850-1-openvpn-vulnerability.50621/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6849-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6849-1-salt-vulnerabilities.50620/)|Visit link for details.|Jun 26, 2024|
  
 
 # CERT-SANTE
@@ -85,23 +79,16 @@
  |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|25/06/2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Progress Software Corporation WhatsUp Gold denial of service (CVE-2024-5013)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Progress Software Corporation WhatsUp Gold privilege escalation (CVE-2024-5009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Progress Software Corporation WhatsUp Gold directory traversal (CVE-2024-5019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Progress Software Corporation WhatsUp Gold directory traversal (CVE-2024-5018)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Progress Software Corporation WhatsUp Gold server-side request forgery (CVE-2024-5015)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Progress Software Corporation WhatsUp Gold server-side request forgery (CVE-2024-5014)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
- |[Progress Software Corporation WhatsUp Gold information disclosure (CVE-2024-5012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  
 
 # HK-CERT
@@ -118,6 +105,19 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240621)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and spoofing on the targeted system.|Release Date: 21 Jun 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240619)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 19 Jun 2024 |
  |[ASUS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-multiple-vulnerabilities_20240617)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker could exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 17 Jun 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress Software Corporation WhatsUp Gold denial of service (CVE-2024-5013)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[Progress Software Corporation WhatsUp Gold privilege escalation (CVE-2024-5009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[Progress Software Corporation WhatsUp Gold directory traversal (CVE-2024-5019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[Progress Software Corporation WhatsUp Gold directory traversal (CVE-2024-5018)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[Progress Software Corporation WhatsUp Gold server-side request forgery (CVE-2024-5015)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[Progress Software Corporation WhatsUp Gold server-side request forgery (CVE-2024-5014)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
+ |[Progress Software Corporation WhatsUp Gold information disclosure (CVE-2024-5012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 25, 2024|
  
 
 # EU-CERT
@@ -151,23 +151,6 @@
  |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab security advisory (AV24-355)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-355)|Visit link for details|2024-06-26|
- |[Progress security advisory (AV24-354)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-354)|Visit link for details|2024-06-25|
- |[[Control systems] ABB security advisory (AV24-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-353)|Visit link for details|2024-06-25|
- |[Citrix security advisory (AV24-352)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-352)|Visit link for details|2024-06-25|
- |[Google Chrome security advisory (AV24-351)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-351)|Visit link for details|2024-06-25|
- |[[Control systems] CISA ICS security advisories (AV24-350)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-350)|Visit link for details|2024-06-24|
- |[Ubuntu security advisory (AV24-349)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-349)|Visit link for details|2024-06-24|
- |[IBM security advisory (AV24-348)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-348)|Visit link for details|2024-06-24|
- |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
- |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
- |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 47942006/24 - Vulnérabilités dans SonicWall SonicOS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sonicwall-sonicos)| Deux vulnérabilités ont été corrigées dans SonicWall SonicOS. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance.| 20 juin 2024|
  |[ 47932006/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-7)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 20 juin 2024|
  |[ 47922006/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-0)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la…| 20 juin 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab security advisory (AV24-355)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-355)|Visit link for details|2024-06-26|
+ |[Progress security advisory (AV24-354)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-354)|Visit link for details|2024-06-25|
+ |[[Control systems] ABB security advisory (AV24-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-353)|Visit link for details|2024-06-25|
+ |[Citrix security advisory (AV24-352)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-352)|Visit link for details|2024-06-25|
+ |[Google Chrome security advisory (AV24-351)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-351)|Visit link for details|2024-06-25|
+ |[[Control systems] CISA ICS security advisories (AV24-350)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-350)|Visit link for details|2024-06-24|
+ |[Ubuntu security advisory (AV24-349)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-349)|Visit link for details|2024-06-24|
+ |[IBM security advisory (AV24-348)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-348)|Visit link for details|2024-06-24|
+ |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
+ |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
+ |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
  
