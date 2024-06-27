@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/06/2024 10:19:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/06/2024 11:25:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,10 +45,21 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 13, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6566-2: SQLite vulnerability](https://www.linux.org/threads/usn-6566-2-sqlite-vulnerability.50647/)|Visit link for details.|Jun 26, 2024|
+ |[DSA-5722-1 libvpx - security update](https://www.linux.org/threads/dsa-5722-1-libvpx-security-update.50646/)|Visit link for details.|Jun 26, 2024|
+ |[DSA-5721-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5721-1-ffmpeg-security-update.50645/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6851-1: Netplan vulnerabilities](https://www.linux.org/threads/usn-6851-1-netplan-vulnerabilities.50641/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6853-1: Ruby vulnerability](https://www.linux.org/threads/usn-6853-1-ruby-vulnerability.50640/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6852-1: Wget vulnerability](https://www.linux.org/threads/usn-6852-1-wget-vulnerability.50639/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6843-1: Plasma Workspace vulnerability](https://www.linux.org/threads/usn-6843-1-plasma-workspace-vulnerability.50638/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6819-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6819-4-linux-kernel-oracle-vulnerabilities.50635/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6850-1: OpenVPN vulnerability](https://www.linux.org/threads/usn-6850-1-openvpn-vulnerability.50621/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6849-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6849-1-salt-vulnerabilities.50620/)|Visit link for details.|Jun 26, 2024|
+ |[USN-6746-2: Google Guest Agent and Google OS Config Agent vulnerability](https://www.linux.org/threads/usn-6746-2-google-guest-agent-and-google-os-config-agent-vulnerability.50619/)|Visit link for details.|Jun 26, 2024|
  
 
 # HK-CERT
@@ -67,21 +78,10 @@
  |[ASUS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/asus-multiple-vulnerabilities_20240617)|Multiple vulnerabilities were identified in ASUS Router. A remote attacker could exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 17 Jun 2024 |
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6566-2: SQLite vulnerability](https://www.linux.org/threads/usn-6566-2-sqlite-vulnerability.50647/)|Visit link for details.|Jun 26, 2024|
- |[DSA-5722-1 libvpx - security update](https://www.linux.org/threads/dsa-5722-1-libvpx-security-update.50646/)|Visit link for details.|Jun 26, 2024|
- |[DSA-5721-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5721-1-ffmpeg-security-update.50645/)|Visit link for details.|Jun 26, 2024|
- |[USN-6851-1: Netplan vulnerabilities](https://www.linux.org/threads/usn-6851-1-netplan-vulnerabilities.50641/)|Visit link for details.|Jun 26, 2024|
- |[USN-6853-1: Ruby vulnerability](https://www.linux.org/threads/usn-6853-1-ruby-vulnerability.50640/)|Visit link for details.|Jun 26, 2024|
- |[USN-6852-1: Wget vulnerability](https://www.linux.org/threads/usn-6852-1-wget-vulnerability.50639/)|Visit link for details.|Jun 26, 2024|
- |[USN-6843-1: Plasma Workspace vulnerability](https://www.linux.org/threads/usn-6843-1-plasma-workspace-vulnerability.50638/)|Visit link for details.|Jun 26, 2024|
- |[USN-6819-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6819-4-linux-kernel-oracle-vulnerabilities.50635/)|Visit link for details.|Jun 26, 2024|
- |[USN-6850-1: OpenVPN vulnerability](https://www.linux.org/threads/usn-6850-1-openvpn-vulnerability.50621/)|Visit link for details.|Jun 26, 2024|
- |[USN-6849-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6849-1-salt-vulnerabilities.50620/)|Visit link for details.|Jun 26, 2024|
- |[USN-6746-2: Google Guest Agent and Google OS Config Agent vulnerability](https://www.linux.org/threads/usn-6746-2-google-guest-agent-and-google-os-config-agent-vulnerability.50619/)|Visit link for details.|Jun 26, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -114,24 +114,10 @@
  |[Zyxel - CVE-2024-29973](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-29973-2024-06-04)|Visit link for details.|25/06/2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zen Cart findPluginAdminPage Local File Inclusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-883/)|Visit link for details|2024-06-26|
- |[VMware vCenter Server Appliance License Server Uncontrolled Memory Allocation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-882/)|Visit link for details|2024-06-25|
- |[(Pwn2Own) Ubiquiti Networks EV Station setDebugPortEnabled Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-881/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Ubiquiti Networks EV Station EVCLauncher Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-880/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Ubiquiti Networks EV Station changeUserPassword Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-879/)|Visit link for details|2024-06-21|
- |[Sony XAV-AX5500 Insufficient Verification of Data Authenticity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-878/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Sony XAV-AX5500 CarPlay TLV Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-877/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
  
 
 # EU-CERT
@@ -183,4 +169,18 @@
  |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
  |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
  |[VMware security advisory (AV24-345)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-345)|Visit link for details|2024-06-19|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zen Cart findPluginAdminPage Local File Inclusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-883/)|Visit link for details|2024-06-26|
+ |[VMware vCenter Server Appliance License Server Uncontrolled Memory Allocation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-882/)|Visit link for details|2024-06-25|
+ |[(Pwn2Own) Ubiquiti Networks EV Station setDebugPortEnabled Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-881/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Ubiquiti Networks EV Station EVCLauncher Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-880/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Ubiquiti Networks EV Station changeUserPassword Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-879/)|Visit link for details|2024-06-21|
+ |[Sony XAV-AX5500 Insufficient Verification of Data Authenticity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-878/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Sony XAV-AX5500 CarPlay TLV Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-877/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
  
