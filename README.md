@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/06/2024 07:35:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/06/2024 08:21:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,33 +62,10 @@
  |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories)|Visit link for details.|Jun 13, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[DHCP/Citrix - CVE-2024-3661](https://www.cyberveille-sante.gouv.fr/alertes/dhcpcitrix-cve-2024-3661-2024-06-27)|Visit link for details.|27/06/2024|
- |[Progress WhatsUp Gold - CVE-2024-4884](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4884-2024-06-27)|Visit link for details.|27/06/2024|
- |[Dell - CVE-2024-29176](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-29176-2024-06-27)|Visit link for details.|27/06/2024|
- |[GitLab - CVE-2024-5655](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-5655-2024-06-27)|Visit link for details.|27/06/2024|
- |[Progress MOVEit Gateway - CVE-2024-5805](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-gateway-cve-2024-5805-2024-06-27)|Visit link for details.|27/06/2024|
- |[Progress MOVEit Transfer - CVE-2024-5806](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-5806-2024-06-26)|Visit link for details.|27/06/2024|
- |[TP-Link - CVE-2024-21827](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-21827-2024-06-26)|Visit link for details.|26/06/2024|
- |[LibreOffice - CVE-2024-5261](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2024-5261-2024-06-26)|Visit link for details.|26/06/2024|
- |[Progress WhatsUp Gold - CVE-2024-4883](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4883-2024-06-26)|Visit link for details.|26/06/2024|
- |[Roundcube - CVE-2024-37383](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2024-37383-2024-06-26)|Visit link for details.|26/06/2024|
- |[SolarWinds - CVE-2024-28999](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28999-2024-06-25)|Visit link for details.|25/06/2024|
  
 
 # HK-CERT
@@ -107,6 +84,12 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240621)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and spoofing on the targeted system.|Release Date: 21 Jun 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -120,21 +103,21 @@
  |[Juniper Networks Session Smart Router security bypass (CVE-2024-2973)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 26, 2024|
  
 
-# EU-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
- |[2024-062: Vulnerabilities in Chrome and Chromium based Browsers](https://cert.europa.eu/publications/security-advisories/2024-062/)|Google has released a critical security update for its Chrome Browser, addressing six high-severity vulnerabilities that could lead to serious security issues. Chromium-based browsers are also impacted. |Friday, June 21, 2024 03:27:05 PM CEST|
- |[2024-061: Vulnerabilities in Nextcloud Products](https://cert.europa.eu/publications/security-advisories/2024-061/)|On June 14, 2024, Nextcloud released patches for Nextcloud Server and Enterprise Server. A vulnerability was disclosed in Nextcloud server products that allows the bypassing of the second factor of two-factor authentication (2FA).|Tuesday, June 18, 2024 06:47:33 PM CEST|
- |[2024-060: Vulnerabilities in VMware Products](https://cert.europa.eu/publications/security-advisories/2024-060/)|On June 17, 2024, VMware released fixes for three vulnerabilities affecting VMware vCenter Server and VMware Cloud Foundation. Two of these vulnerabilities are critical. Exploitation these vulnerabilities could allow a malicious actor to execute remote code or escalate privileges on the affected systems.|Tuesday, June 18, 2024 06:44:15 PM CEST|
- |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
- |[2024-058: Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2024-058/)|On June 6, 2024, a critical vulnerability was identified in certain versions of PHP that could allow the execution of arbitrary code or disclosure of sensitive information on Windows systems using Apache and PHP-CGI. The vulnerability is currently being actively exploited, and several proof of concepts are available.|Thursday, June 13, 2024 07:33:40 PM CEST|
- |[2024-057: Vulnerabilities in JetBrains Products](https://cert.europa.eu/publications/security-advisories/2024-057/)|On June 10, JetBrains released a fix for a vulnerability affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin. This vulnerability could lead to disclosure of access tokens to third-party sites.|Wednesday, June 12, 2024 04:09:19 PM CEST|
- |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
- |[2024-055: SolarWinds High-Severity Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-055/)| On the 4th and 5th of June 2024, SolarWinds published four separate security advisories related to high-severity vulnerabilities in multiple products. CERT-EU strongly recommends patching them as soon as possible. |Saturday, June 08, 2024 11:43:12 AM CEST|
- |[2024-054: Confluence Data Center and Server Remote Code Execution](https://cert.europa.eu/publications/security-advisories/2024-054/)|A critical remote code execution (RCE) vulnerability, CVE-2024-21683, has been discovered in Atlassian's Confluence Data Center and Server. This vulnerability allows authenticated attackers with privileges of adding new macro languages to execute arbitrary code. |Friday, June 07, 2024 04:29:06 PM CEST|
- |[2024-053: Zero-day Vulnerability in Check Point Security Gateways](https://cert.europa.eu/publications/security-advisories/2024-053/)|On May 28, 2024, Check Point issued an advisory about a zero-day vulnerability, CVE-2024-24919, affecting Check Point Security Gateways. This high-severity information disclosure vulnerability can be exploited to gain unauthorised access to sensitive information on systems with remote Access VPN or Mobile Access Software Blades enabled.|Thursday, May 30, 2024 11:26:17 AM CEST|
+ |[DHCP/Citrix - CVE-2024-3661](https://www.cyberveille-sante.gouv.fr/alertes/dhcpcitrix-cve-2024-3661-2024-06-27)|Visit link for details.|27/06/2024|
+ |[Progress WhatsUp Gold - CVE-2024-4884](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4884-2024-06-27)|Visit link for details.|27/06/2024|
+ |[Dell - CVE-2024-29176](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-29176-2024-06-27)|Visit link for details.|27/06/2024|
+ |[GitLab - CVE-2024-5655](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-5655-2024-06-27)|Visit link for details.|27/06/2024|
+ |[Progress MOVEit Gateway - CVE-2024-5805](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-gateway-cve-2024-5805-2024-06-27)|Visit link for details.|27/06/2024|
+ |[Progress MOVEit Transfer - CVE-2024-5806](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-transfer-cve-2024-5806-2024-06-26)|Visit link for details.|27/06/2024|
+ |[TP-Link - CVE-2024-21827](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-21827-2024-06-26)|Visit link for details.|26/06/2024|
+ |[LibreOffice - CVE-2024-5261](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2024-5261-2024-06-26)|Visit link for details.|26/06/2024|
+ |[Progress WhatsUp Gold - CVE-2024-4883](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4883-2024-06-26)|Visit link for details.|26/06/2024|
+ |[Roundcube - CVE-2024-37383](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2024-37383-2024-06-26)|Visit link for details.|26/06/2024|
+ |[SolarWinds - CVE-2024-28999](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28999-2024-06-25)|Visit link for details.|25/06/2024|
  
 
 # ZERODAYINITIATIVE
@@ -166,6 +149,23 @@
  |[IBM security advisory (AV24-348)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-348)|Visit link for details|2024-06-24|
  |[Dell security advisory (AV24-347)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-347)|Visit link for details|2024-06-24|
  |[Microsoft Edge security advisory (AV24-346)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-346)|Visit link for details|2024-06-21|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
+ |[2024-062: Vulnerabilities in Chrome and Chromium based Browsers](https://cert.europa.eu/publications/security-advisories/2024-062/)|Google has released a critical security update for its Chrome Browser, addressing six high-severity vulnerabilities that could lead to serious security issues. Chromium-based browsers are also impacted. |Friday, June 21, 2024 03:27:05 PM CEST|
+ |[2024-061: Vulnerabilities in Nextcloud Products](https://cert.europa.eu/publications/security-advisories/2024-061/)|On June 14, 2024, Nextcloud released patches for Nextcloud Server and Enterprise Server. A vulnerability was disclosed in Nextcloud server products that allows the bypassing of the second factor of two-factor authentication (2FA).|Tuesday, June 18, 2024 06:47:33 PM CEST|
+ |[2024-060: Vulnerabilities in VMware Products](https://cert.europa.eu/publications/security-advisories/2024-060/)|On June 17, 2024, VMware released fixes for three vulnerabilities affecting VMware vCenter Server and VMware Cloud Foundation. Two of these vulnerabilities are critical. Exploitation these vulnerabilities could allow a malicious actor to execute remote code or escalate privileges on the affected systems.|Tuesday, June 18, 2024 06:44:15 PM CEST|
+ |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
+ |[2024-058: Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2024-058/)|On June 6, 2024, a critical vulnerability was identified in certain versions of PHP that could allow the execution of arbitrary code or disclosure of sensitive information on Windows systems using Apache and PHP-CGI. The vulnerability is currently being actively exploited, and several proof of concepts are available.|Thursday, June 13, 2024 07:33:40 PM CEST|
+ |[2024-057: Vulnerabilities in JetBrains Products](https://cert.europa.eu/publications/security-advisories/2024-057/)|On June 10, JetBrains released a fix for a vulnerability affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin. This vulnerability could lead to disclosure of access tokens to third-party sites.|Wednesday, June 12, 2024 04:09:19 PM CEST|
+ |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
+ |[2024-055: SolarWinds High-Severity Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-055/)| On the 4th and 5th of June 2024, SolarWinds published four separate security advisories related to high-severity vulnerabilities in multiple products. CERT-EU strongly recommends patching them as soon as possible. |Saturday, June 08, 2024 11:43:12 AM CEST|
+ |[2024-054: Confluence Data Center and Server Remote Code Execution](https://cert.europa.eu/publications/security-advisories/2024-054/)|A critical remote code execution (RCE) vulnerability, CVE-2024-21683, has been discovered in Atlassian's Confluence Data Center and Server. This vulnerability allows authenticated attackers with privileges of adding new macro languages to execute arbitrary code. |Friday, June 07, 2024 04:29:06 PM CEST|
+ |[2024-053: Zero-day Vulnerability in Check Point Security Gateways](https://cert.europa.eu/publications/security-advisories/2024-053/)|On May 28, 2024, Check Point issued an advisory about a zero-day vulnerability, CVE-2024-24919, affecting Check Point Security Gateways. This high-severity information disclosure vulnerability can be exploited to gain unauthorised access to sensitive information on systems with remote Access VPN or Mobile Access Software Blades enabled.|Thursday, May 30, 2024 11:26:17 AM CEST|
  
 
 # MA-CERT
