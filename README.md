@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/06/2024 06:18:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/06/2024 07:32:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -85,6 +85,12 @@
  |[Progress MOVEit Gateway - CVE-2024-5805](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-gateway-cve-2024-5805-2024-06-27)|Visit link for details.|27/06/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -101,23 +107,17 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240621)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and spoofing on the targeted system.|Release Date: 21 Jun 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Artifex Ghostscript information disclosure (CVE-2024-29510)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript directory traversal (CVE-2024-33869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript directory traversal (CVE-2024-33870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript privilege escalation (CVE-2024-33871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
  |[Artifex Ghostscript security bypass (CVE-2023-52722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
  |[VMware Cloud Director Object Storage Extension information disclosure (CVE-2024-22276)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2024|
  |[VMware Cloud Director denial of service (CVE-2024-22272)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2024|
- |[IBM Storage Defender information disclosure (CVE-2024-38322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2024|
- |[IBM MQ information disclosure (CVE-2024-35156)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2024|
- |[IBM MQ information disclosure (CVE-2024-35155)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2024|
- |[IBM MQ denial of service (CVE-2024-35116)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 27, 2024|
  
 
 # EU-CERT
