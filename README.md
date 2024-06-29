@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/06/2024 13:22:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/06/2024 14:19:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,7 +68,7 @@
  |[DSA-5721-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5721-1-ffmpeg-security-update.50645/)|Visit link for details.|Jun 26, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -99,12 +105,6 @@
  |[Dell - CVE-2024-29176](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-29176-2024-06-27)|Visit link for details.|27/06/2024|
  |[GitLab - CVE-2024-5655](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-5655-2024-06-27)|Visit link for details.|27/06/2024|
  |[Progress MOVEit Gateway - CVE-2024-5805](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-gateway-cve-2024-5805-2024-06-27)|Visit link for details.|27/06/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
