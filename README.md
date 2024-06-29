@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/06/2024 14:19:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/06/2024 15:17:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,7 +62,7 @@
  |[DSA-5721-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5721-1-ffmpeg-security-update.50645/)|Visit link for details.|Jun 26, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -88,6 +82,12 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-06...| Release Date: 14 Jun 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240625)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 25 Jun 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240621)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and spoofing on the targeted system.|Release Date: 21 Jun 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
