@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/07/2024 19:16:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/07/2024 20:19:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,28 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
- |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
- |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
- |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
- |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2024|
- |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,27 +46,26 @@
  |[USN-6856-1: FontForge vulnerabilities](https://www.linux.org/threads/usn-6856-1-fontforge-vulnerabilities.50654/)|Visit link for details.|Jun 27, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
+ |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
+ |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
+ |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
+ |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2024|
+ |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware Salt Project - CVE-2024-22232](https://www.cyberveille-sante.gouv.fr/alertes/vmware-salt-project-cve-2024-22232-2024-06-28)|Visit link for details.|28/06/2024|
- |[Proges Plus Plug&Track - CVE-2024-31202](https://www.cyberveille-sante.gouv.fr/alertes/proges-plus-plugtrack-cve-2024-31202-2024-06-28)|Visit link for details.|28/06/2024|
- |[Microsoft Edge - CVE-2024-34122](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-34122-2024-06-28)|Visit link for details.|28/06/2024|
- |[OpenEMR - CVE-2024-37534](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2024-37534-2024-06-28)|Visit link for details.|28/06/2024|
- |[Juniper - CVE-2024-2973](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-2973-2024-06-28)|Visit link for details.|28/06/2024|
- |[Microsoft - CVE-2023-36884](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36884-2023-07-12)|Visit link for details.|28/06/2024|
- |[DHCP/Citrix - CVE-2024-3661](https://www.cyberveille-sante.gouv.fr/alertes/dhcpcitrix-cve-2024-3661-2024-06-27)|Visit link for details.|27/06/2024|
- |[Progress WhatsUp Gold - CVE-2024-4884](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4884-2024-06-27)|Visit link for details.|27/06/2024|
- |[Dell - CVE-2024-29176](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-29176-2024-06-27)|Visit link for details.|27/06/2024|
- |[GitLab - CVE-2024-5655](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-5655-2024-06-27)|Visit link for details.|27/06/2024|
- |[Progress MOVEit Gateway - CVE-2024-5805](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-gateway-cve-2024-5805-2024-06-27)|Visit link for details.|27/06/2024|
  
 
 # HK-CERT
@@ -107,17 +84,27 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240621)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and spoofing on the targeted system.|Release Date: 21 Jun 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenSSH code execution (CVE-2024-6387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
- |[Kavita cross-site scripting (CVE-2024-39307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
- |[Artifex Ghostscript information disclosure (CVE-2024-29510)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
- |[Artifex Ghostscript directory traversal (CVE-2024-33869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
- |[Artifex Ghostscript directory traversal (CVE-2024-33870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
- |[Artifex Ghostscript privilege escalation (CVE-2024-33871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
- |[Artifex Ghostscript security bypass (CVE-2023-52722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[D-Link - CVE-2024-0769](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-0769-2024-01-22)|Visit link for details.|01/07/2024|
+ |[VMware Salt Project - CVE-2024-22232](https://www.cyberveille-sante.gouv.fr/alertes/vmware-salt-project-cve-2024-22232-2024-06-28)|Visit link for details.|28/06/2024|
+ |[Proges Plus Plug&Track - CVE-2024-31202](https://www.cyberveille-sante.gouv.fr/alertes/proges-plus-plugtrack-cve-2024-31202-2024-06-28)|Visit link for details.|28/06/2024|
+ |[Microsoft Edge - CVE-2024-34122](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-34122-2024-06-28)|Visit link for details.|28/06/2024|
+ |[OpenEMR - CVE-2024-37534](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2024-37534-2024-06-28)|Visit link for details.|28/06/2024|
+ |[Juniper - CVE-2024-2973](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-2973-2024-06-28)|Visit link for details.|28/06/2024|
+ |[Microsoft - CVE-2023-36884](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36884-2023-07-12)|Visit link for details.|28/06/2024|
+ |[DHCP/Citrix - CVE-2024-3661](https://www.cyberveille-sante.gouv.fr/alertes/dhcpcitrix-cve-2024-3661-2024-06-27)|Visit link for details.|27/06/2024|
+ |[Progress WhatsUp Gold - CVE-2024-4884](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4884-2024-06-27)|Visit link for details.|27/06/2024|
+ |[Dell - CVE-2024-29176](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-29176-2024-06-27)|Visit link for details.|27/06/2024|
+ |[GitLab - CVE-2024-5655](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-5655-2024-06-27)|Visit link for details.|27/06/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -135,6 +122,19 @@
  |[2024-057: Vulnerabilities in JetBrains Products](https://cert.europa.eu/publications/security-advisories/2024-057/)|On June 10, JetBrains released a fix for a vulnerability affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin. This vulnerability could lead to disclosure of access tokens to third-party sites.|Wednesday, June 12, 2024 04:09:19 PM CEST|
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  |[2024-055: SolarWinds High-Severity Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-055/)| On the 4th and 5th of June 2024, SolarWinds published four separate security advisories related to high-severity vulnerabilities in multiple products. CERT-EU strongly recommends patching them as soon as possible. |Saturday, June 08, 2024 11:43:12 AM CEST|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenSSH code execution (CVE-2024-6387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
+ |[Kavita cross-site scripting (CVE-2024-39307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript information disclosure (CVE-2024-29510)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript directory traversal (CVE-2024-33869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript directory traversal (CVE-2024-33870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript privilege escalation (CVE-2024-33871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript security bypass (CVE-2023-52722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
  
 
 # ZERODAYINITIATIVE
