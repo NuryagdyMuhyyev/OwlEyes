@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/07/2024 17:37:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/07/2024 18:21:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -49,6 +55,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6859-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6859-1-openssh-vulnerability.50714/)|Visit link for details.|Jul 1, 2024|
+ |[DSA-5724-1 openssh - security update](https://www.linux.org/threads/dsa-5724-1-openssh-security-update.50713/)|Visit link for details.|Jul 1, 2024|
  |[USN-6858-1: eSpeak NG vulnerabilities](https://www.linux.org/threads/usn-6858-1-espeak-ng-vulnerabilities.50708/)|Visit link for details.|Jul 1, 2024|
  |[USN-6855-1: libcdio vulnerability](https://www.linux.org/threads/usn-6855-1-libcdio-vulnerability.50703/)|Visit link for details.|Jul 1, 2024|
  |[USN-6851-2: Netplan regression](https://www.linux.org/threads/usn-6851-2-netplan-regression.50679/)|Visit link for details.|Jun 29, 2024|
@@ -58,14 +66,6 @@
  |[USN-6857-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6857-1-squid-vulnerabilities.50664/)|Visit link for details.|Jun 27, 2024|
  |[USN-6852-2: Wget vulnerability](https://www.linux.org/threads/usn-6852-2-wget-vulnerability.50655/)|Visit link for details.|Jun 27, 2024|
  |[USN-6856-1: FontForge vulnerabilities](https://www.linux.org/threads/usn-6856-1-fontforge-vulnerabilities.50654/)|Visit link for details.|Jun 27, 2024|
- |[USN-6854-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6854-1-openssl-vulnerability.50650/)|Visit link for details.|Jun 27, 2024|
- |[USN-6566-2: SQLite vulnerability](https://www.linux.org/threads/usn-6566-2-sqlite-vulnerability.50647/)|Visit link for details.|Jun 26, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -134,23 +134,6 @@
  |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
- |[HPE security advisory (AV24-358)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-358)|Visit link for details|2024-06-28|
- |[Microsoft Edge security advisory (AV24-357)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-357)|Visit link for details|2024-06-28|
- |[Fortra security advisory (AV24-356)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-356)|Visit link for details|2024-06-27|
- |[GitLab security advisory (AV24-355)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-355)|Visit link for details|2024-06-26|
- |[Progress security advisory (AV24-354)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-354)|Visit link for details|2024-06-25|
- |[[Control systems] ABB security advisory (AV24-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-353)|Visit link for details|2024-06-25|
- |[Citrix security advisory (AV24-352)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-352)|Visit link for details|2024-06-25|
- |[Google Chrome security advisory (AV24-351)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-351)|Visit link for details|2024-06-25|
- |[[Control systems] CISA ICS security advisories (AV24-350)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-350)|Visit link for details|2024-06-24|
- |[Ubuntu security advisory (AV24-349)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-349)|Visit link for details|2024-06-24|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -166,6 +149,23 @@
  |[2024-057: Vulnerabilities in JetBrains Products](https://cert.europa.eu/publications/security-advisories/2024-057/)|On June 10, JetBrains released a fix for a vulnerability affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin. This vulnerability could lead to disclosure of access tokens to third-party sites.|Wednesday, June 12, 2024 04:09:19 PM CEST|
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  |[2024-055: SolarWinds High-Severity Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-055/)| On the 4th and 5th of June 2024, SolarWinds published four separate security advisories related to high-severity vulnerabilities in multiple products. CERT-EU strongly recommends patching them as soon as possible. |Saturday, June 08, 2024 11:43:12 AM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
+ |[HPE security advisory (AV24-358)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-358)|Visit link for details|2024-06-28|
+ |[Microsoft Edge security advisory (AV24-357)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-357)|Visit link for details|2024-06-28|
+ |[Fortra security advisory (AV24-356)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-356)|Visit link for details|2024-06-27|
+ |[GitLab security advisory (AV24-355)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-355)|Visit link for details|2024-06-26|
+ |[Progress security advisory (AV24-354)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-354)|Visit link for details|2024-06-25|
+ |[[Control systems] ABB security advisory (AV24-353)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-353)|Visit link for details|2024-06-25|
+ |[Citrix security advisory (AV24-352)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-352)|Visit link for details|2024-06-25|
+ |[Google Chrome security advisory (AV24-351)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-351)|Visit link for details|2024-06-25|
+ |[[Control systems] CISA ICS security advisories (AV24-350)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-350)|Visit link for details|2024-06-24|
+ |[Ubuntu security advisory (AV24-349)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-349)|Visit link for details|2024-06-24|
  
 
 # MA-CERT
