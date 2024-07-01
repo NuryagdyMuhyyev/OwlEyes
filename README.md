@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/07/2024 10:18:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/07/2024 11:28:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
+ |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
+ |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
+ |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
+ |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2024|
+ |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,20 +68,10 @@
  |---|---|---|
  
 
-# US-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
- |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
- |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
- |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
- |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jun 20, 2024|
- |[CISA and Partners Release Guidance for Modern Approaches to Network Access Security ](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-and-partners-release-guidance-modern-approaches-network-access-security)|Visit link for details.|Jun 18, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
  
 
 # CERT-SANTE
@@ -99,12 +105,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-06...| Release Date: 14 Jun 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240625)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 25 Jun 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240621)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and spoofing on the targeted system.|Release Date: 21 Jun 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
