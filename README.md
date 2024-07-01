@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/07/2024 00:16:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/07/2024 01:19:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6859-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6859-1-openssh-vulnerability.50714/)|Visit link for details.|Jul 1, 2024|
- |[DSA-5724-1 openssh - security update](https://www.linux.org/threads/dsa-5724-1-openssh-security-update.50713/)|Visit link for details.|Jul 1, 2024|
- |[USN-6858-1: eSpeak NG vulnerabilities](https://www.linux.org/threads/usn-6858-1-espeak-ng-vulnerabilities.50708/)|Visit link for details.|Jul 1, 2024|
- |[USN-6855-1: libcdio vulnerability](https://www.linux.org/threads/usn-6855-1-libcdio-vulnerability.50703/)|Visit link for details.|Jul 1, 2024|
- |[USN-6851-2: Netplan regression](https://www.linux.org/threads/usn-6851-2-netplan-regression.50679/)|Visit link for details.|Jun 29, 2024|
- |[USN-6844-2: CUPS regression](https://www.linux.org/threads/usn-6844-2-cups-regression.50677/)|Visit link for details.|Jun 28, 2024|
- |[DSA-5723-1 plasma-workspace - security update](https://www.linux.org/threads/dsa-5723-1-plasma-workspace-security-update.50670/)|Visit link for details.|Jun 28, 2024|
- |[USN-5615-3: SQLite vulnerability](https://www.linux.org/threads/usn-5615-3-sqlite-vulnerability.50665/)|Visit link for details.|Jun 27, 2024|
- |[USN-6857-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6857-1-squid-vulnerabilities.50664/)|Visit link for details.|Jun 27, 2024|
- |[USN-6852-2: Wget vulnerability](https://www.linux.org/threads/usn-6852-2-wget-vulnerability.50655/)|Visit link for details.|Jun 27, 2024|
- |[USN-6856-1: FontForge vulnerabilities](https://www.linux.org/threads/usn-6856-1-fontforge-vulnerabilities.50654/)|Visit link for details.|Jun 27, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,10 +45,21 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6859-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6859-1-openssh-vulnerability.50714/)|Visit link for details.|Jul 1, 2024|
+ |[DSA-5724-1 openssh - security update](https://www.linux.org/threads/dsa-5724-1-openssh-security-update.50713/)|Visit link for details.|Jul 1, 2024|
+ |[USN-6858-1: eSpeak NG vulnerabilities](https://www.linux.org/threads/usn-6858-1-espeak-ng-vulnerabilities.50708/)|Visit link for details.|Jul 1, 2024|
+ |[USN-6855-1: libcdio vulnerability](https://www.linux.org/threads/usn-6855-1-libcdio-vulnerability.50703/)|Visit link for details.|Jul 1, 2024|
+ |[USN-6851-2: Netplan regression](https://www.linux.org/threads/usn-6851-2-netplan-regression.50679/)|Visit link for details.|Jun 29, 2024|
+ |[USN-6844-2: CUPS regression](https://www.linux.org/threads/usn-6844-2-cups-regression.50677/)|Visit link for details.|Jun 28, 2024|
+ |[DSA-5723-1 plasma-workspace - security update](https://www.linux.org/threads/dsa-5723-1-plasma-workspace-security-update.50670/)|Visit link for details.|Jun 28, 2024|
+ |[USN-5615-3: SQLite vulnerability](https://www.linux.org/threads/usn-5615-3-sqlite-vulnerability.50665/)|Visit link for details.|Jun 27, 2024|
+ |[USN-6857-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6857-1-squid-vulnerabilities.50664/)|Visit link for details.|Jun 27, 2024|
+ |[USN-6852-2: Wget vulnerability](https://www.linux.org/threads/usn-6852-2-wget-vulnerability.50655/)|Visit link for details.|Jun 27, 2024|
+ |[USN-6856-1: FontForge vulnerabilities](https://www.linux.org/threads/usn-6856-1-fontforge-vulnerabilities.50654/)|Visit link for details.|Jun 27, 2024|
  
 
 # OBS-Vigilance
@@ -91,17 +85,10 @@
  |[GitLab - CVE-2024-5655](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-5655-2024-06-27)|Visit link for details.|27/06/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenSSH code execution (CVE-2024-6387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
- |[Kavita cross-site scripting (CVE-2024-39307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
- |[Artifex Ghostscript information disclosure (CVE-2024-29510)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
- |[Artifex Ghostscript directory traversal (CVE-2024-33869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
- |[Artifex Ghostscript directory traversal (CVE-2024-33870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
- |[Artifex Ghostscript privilege escalation (CVE-2024-33871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
- |[Artifex Ghostscript security bypass (CVE-2023-52722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
  
 
 # HK-CERT
@@ -118,6 +105,19 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240614)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-06...| Release Date: 14 Jun 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240625)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 25 Jun 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240621)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and spoofing on the targeted system.|Release Date: 21 Jun 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenSSH code execution (CVE-2024-6387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
+ |[Kavita cross-site scripting (CVE-2024-39307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript information disclosure (CVE-2024-29510)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript directory traversal (CVE-2024-33869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript directory traversal (CVE-2024-33870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript privilege escalation (CVE-2024-33871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
+ |[Artifex Ghostscript security bypass (CVE-2023-52722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
  
 
 # EU-CERT
