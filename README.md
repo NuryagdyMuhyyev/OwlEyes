@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/07/2024 17:34:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/07/2024 18:20:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/06/18/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jun 18, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,18 +66,6 @@
  |[USN-6857-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6857-1-squid-vulnerabilities.50664/)|Visit link for details.|Jun 27, 2024|
  |[USN-6852-2: Wget vulnerability](https://www.linux.org/threads/usn-6852-2-wget-vulnerability.50655/)|Visit link for details.|Jun 27, 2024|
  |[USN-6856-1: FontForge vulnerabilities](https://www.linux.org/threads/usn-6856-1-fontforge-vulnerabilities.50654/)|Visit link for details.|Jun 27, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -91,6 +85,25 @@
  |[Juniper - CVE-2024-2973](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-2973-2024-06-28)|Visit link for details.|28/06/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CocoaPods security bypass (CVE-2024-38368)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
+ |[CocoaPods session hijacking (CVE-2024-38367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
+ |[CocoaPods code execution (CVE-2024-38366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
+ |[Apache HTTP Server denial of service (CVE-2024-36387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
+ |[Apache HTTP Server server-side request forgery (CVE-2024-38472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
+ |[Apache HTTP Server security bypass (CVE-2024-38473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
+ |[Apache HTTP Server code execution (CVE-2024-38474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -105,19 +118,6 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240627)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 27 Jun 2024 |
  |[MOVEit Products Security Restriction Bypass Vulnerabilities](https://www.hkcert.org/security-bulletin/moveit-products-security-restriction-bypass-vulnerabilities_20240627)|Multiple vulnerabilities were identified in MOVEit Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system. Note:Proof of concept exploit for CVE-2024-5806 exists on the internet.To exploit the vulnerability...|Release Date: 27 Jun 2024 |
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-06-27] Updated Solutions, ...| Release Date: 3 Jun 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[CocoaPods security bypass (CVE-2024-38368)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
- |[CocoaPods session hijacking (CVE-2024-38367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
- |[CocoaPods code execution (CVE-2024-38366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
- |[Apache HTTP Server denial of service (CVE-2024-36387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
- |[Apache HTTP Server server-side request forgery (CVE-2024-38472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
- |[Apache HTTP Server security bypass (CVE-2024-38473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
- |[Apache HTTP Server code execution (CVE-2024-38474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
  
 
 # EU-CERT
