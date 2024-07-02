@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/07/2024 10:18:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/07/2024 11:27:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,16 +62,33 @@
  |[USN-6856-1: FontForge vulnerabilities](https://www.linux.org/threads/usn-6856-1-fontforge-vulnerabilities.50654/)|Visit link for details.|Jun 27, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Synology - CVE-2024-39349](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39349-2024-07-01)|Visit link for details.|01/07/2024|
+ |[Plug&Track - CVE-2024-31199](https://www.cyberveille-sante.gouv.fr/alertes/plugtrack-cve-2024-31199-2024-07-01)|Visit link for details.|01/07/2024|
+ |[Fortra FileCatalyst - CVE-2024-5276](https://www.cyberveille-sante.gouv.fr/alertes/fortra-filecatalyst-cve-2024-5276-2024-07-01)|Visit link for details.|01/07/2024|
+ |[D-Link - CVE-2024-36755](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36755-2024-07-01)|Visit link for details.|01/07/2024|
+ |[Dell - CVE-2024-25943](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25943-2024-07-01)|Visit link for details.|01/07/2024|
+ |[D-Link - CVE-2024-0769](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-0769-2024-01-22)|Visit link for details.|01/07/2024|
+ |[VMware Salt Project - CVE-2024-22232](https://www.cyberveille-sante.gouv.fr/alertes/vmware-salt-project-cve-2024-22232-2024-06-28)|Visit link for details.|28/06/2024|
+ |[Proges Plus Plug&Track - CVE-2024-31202](https://www.cyberveille-sante.gouv.fr/alertes/proges-plus-plugtrack-cve-2024-31202-2024-06-28)|Visit link for details.|28/06/2024|
+ |[Microsoft Edge - CVE-2024-34122](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-34122-2024-06-28)|Visit link for details.|28/06/2024|
+ |[OpenEMR - CVE-2024-37534](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2024-37534-2024-06-28)|Visit link for details.|28/06/2024|
+ |[Juniper - CVE-2024-2973](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-2973-2024-06-28)|Visit link for details.|28/06/2024|
  
 
 # HK-CERT
@@ -103,21 +120,18 @@
  |[Artifex Ghostscript directory traversal (CVE-2024-33870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 28, 2024|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Synology - CVE-2024-39349](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39349-2024-07-01)|Visit link for details.|01/07/2024|
- |[Plug&Track - CVE-2024-31199](https://www.cyberveille-sante.gouv.fr/alertes/plugtrack-cve-2024-31199-2024-07-01)|Visit link for details.|01/07/2024|
- |[Fortra FileCatalyst - CVE-2024-5276](https://www.cyberveille-sante.gouv.fr/alertes/fortra-filecatalyst-cve-2024-5276-2024-07-01)|Visit link for details.|01/07/2024|
- |[D-Link - CVE-2024-36755](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36755-2024-07-01)|Visit link for details.|01/07/2024|
- |[Dell - CVE-2024-25943](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25943-2024-07-01)|Visit link for details.|01/07/2024|
- |[D-Link - CVE-2024-0769](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-0769-2024-01-22)|Visit link for details.|01/07/2024|
- |[VMware Salt Project - CVE-2024-22232](https://www.cyberveille-sante.gouv.fr/alertes/vmware-salt-project-cve-2024-22232-2024-06-28)|Visit link for details.|28/06/2024|
- |[Proges Plus Plug&Track - CVE-2024-31202](https://www.cyberveille-sante.gouv.fr/alertes/proges-plus-plugtrack-cve-2024-31202-2024-06-28)|Visit link for details.|28/06/2024|
- |[Microsoft Edge - CVE-2024-34122](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-34122-2024-06-28)|Visit link for details.|28/06/2024|
- |[OpenEMR - CVE-2024-37534](https://www.cyberveille-sante.gouv.fr/alertes/openemr-cve-2024-37534-2024-06-28)|Visit link for details.|28/06/2024|
- |[Juniper - CVE-2024-2973](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-2973-2024-06-28)|Visit link for details.|28/06/2024|
+ |[Zen Cart findPluginAdminPage Local File Inclusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-883/)|Visit link for details|2024-06-26|
+ |[VMware vCenter Server Appliance License Server Uncontrolled Memory Allocation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-882/)|Visit link for details|2024-06-25|
+ |[(Pwn2Own) Ubiquiti Networks EV Station setDebugPortEnabled Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-881/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Ubiquiti Networks EV Station EVCLauncher Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-880/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Ubiquiti Networks EV Station changeUserPassword Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-879/)|Visit link for details|2024-06-21|
+ |[Sony XAV-AX5500 Insufficient Verification of Data Authenticity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-878/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Sony XAV-AX5500 CarPlay TLV Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-877/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
  
 
 # EU-CERT
@@ -135,20 +149,6 @@
  |[2024-058: Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2024-058/)|On June 6, 2024, a critical vulnerability was identified in certain versions of PHP that could allow the execution of arbitrary code or disclosure of sensitive information on Windows systems using Apache and PHP-CGI. The vulnerability is currently being actively exploited, and several proof of concepts are available.|Thursday, June 13, 2024 07:33:40 PM CEST|
  |[2024-057: Vulnerabilities in JetBrains Products](https://cert.europa.eu/publications/security-advisories/2024-057/)|On June 10, JetBrains released a fix for a vulnerability affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin. This vulnerability could lead to disclosure of access tokens to third-party sites.|Wednesday, June 12, 2024 04:09:19 PM CEST|
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zen Cart findPluginAdminPage Local File Inclusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-883/)|Visit link for details|2024-06-26|
- |[VMware vCenter Server Appliance License Server Uncontrolled Memory Allocation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-882/)|Visit link for details|2024-06-25|
- |[(Pwn2Own) Ubiquiti Networks EV Station setDebugPortEnabled Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-881/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Ubiquiti Networks EV Station EVCLauncher Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-880/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Ubiquiti Networks EV Station changeUserPassword Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-879/)|Visit link for details|2024-06-21|
- |[Sony XAV-AX5500 Insufficient Verification of Data Authenticity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-878/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Sony XAV-AX5500 CarPlay TLV Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-877/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
  
 
 # CA-CCS
