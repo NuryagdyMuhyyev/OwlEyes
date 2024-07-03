@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/07/2024 14:20:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/07/2024 15:21:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,10 +45,17 @@
  |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6862-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6862-1-firefox-vulnerabilities.50740/)|Visit link for details.|Jul 3, 2024|
  |[USN-6860-1: OpenVPN vulnerabilities](https://www.linux.org/threads/usn-6860-1-openvpn-vulnerabilities.50732/)|Visit link for details.|Jul 3, 2024|
  |[USN-6859-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6859-1-openssh-vulnerability.50714/)|Visit link for details.|Jul 1, 2024|
  |[DSA-5724-1 openssh - security update](https://www.linux.org/threads/dsa-5724-1-openssh-security-update.50713/)|Visit link for details.|Jul 1, 2024|
@@ -59,13 +66,6 @@
  |[DSA-5723-1 plasma-workspace - security update](https://www.linux.org/threads/dsa-5723-1-plasma-workspace-security-update.50670/)|Visit link for details.|Jun 28, 2024|
  |[USN-5615-3: SQLite vulnerability](https://www.linux.org/threads/usn-5615-3-sqlite-vulnerability.50665/)|Visit link for details.|Jun 27, 2024|
  |[USN-6857-1: Squid vulnerabilities](https://www.linux.org/threads/usn-6857-1-squid-vulnerabilities.50664/)|Visit link for details.|Jun 27, 2024|
- |[USN-6852-2: Wget vulnerability](https://www.linux.org/threads/usn-6852-2-wget-vulnerability.50655/)|Visit link for details.|Jun 27, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # OBS-Vigilance
@@ -151,23 +151,6 @@
  |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
- |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
- |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
- |[ 48032706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-6)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
- |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
- |[ 48022706/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-2)| VMware annonce la correction de trois vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de service et…| 27 juin 2024|
- |[ 48012706/24 - Vulnérabilités critiques affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-gitlab)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à…| 27 juin 2024|
- |[ 48002706/24 - Vulnérabilité dans LibreOffice ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-libreoffice-1)| Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 juin 2024|
- |[ 47982606/24 - Vulnérabilité critique affectant MOVEit Transfer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-moveit-transfer)| Progress Software annonce la correction d’une vulnérabilité critique   affectant son produit MOVEit Transfer. Cette vulnérabilité est activement exploitée et elle  peut  permettre  à un attaquant…| 26 juin 2024|
- |[ 47992606/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 26 juin 2024|
- |[ 47972506/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-1)| Veuillez se référer au bulletin de sécurité WordPress du 24 Juin 2024 afin d’installer les nouvelles mises à jour.| 25 juin 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[HPE security advisory (AV24-358)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-358)|Visit link for details|2024-06-28|
  |[Microsoft Edge security advisory (AV24-357)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-357)|Visit link for details|2024-06-28|
  |[Fortra security advisory (AV24-356)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-356)|Visit link for details|2024-06-27|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48080307/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-8)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android . L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 03 juillet 2024|
+ |[ 48070307/24 - Vulnérabilité affectant Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-juniper-junos-os)| Juniper annonce la correction d’une vulnérabilité   affectant  les versions susmentionnées  son     système d’exploitation Junos OS.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour…| 03 juillet 2024|
+ |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
+ |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
+ |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
+ |[ 48032706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-6)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
+ |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
+ |[ 48022706/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-2)| VMware annonce la correction de trois vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de service et…| 27 juin 2024|
+ |[ 48012706/24 - Vulnérabilités critiques affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-gitlab)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à…| 27 juin 2024|
+ |[ 48002706/24 - Vulnérabilité dans LibreOffice ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-libreoffice-1)| Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 juin 2024|
+ |[ 47982606/24 - Vulnérabilité critique affectant MOVEit Transfer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-moveit-transfer)| Progress Software annonce la correction d’une vulnérabilité critique   affectant son produit MOVEit Transfer. Cette vulnérabilité est activement exploitée et elle  peut  permettre  à un attaquant…| 26 juin 2024|
  
