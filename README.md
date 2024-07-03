@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/07/2024 09:21:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/07/2024 10:18:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,29 +68,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Synology - CVE-2024-39348](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39348-2024-07-02)|Visit link for details.|02/07/2024|
- |[Juniper - CVE-2024-21586](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21586-2024-07-02)|Visit link for details.|02/07/2024|
- |[Gitlab - CVE-2024-4901](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-4901-2024-07-02)|Visit link for details.|02/07/2024|
- |[Apache HTTP - CVE-2024-36387](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-36387-2024-07-02)|Visit link for details.|02/07/2024|
- |[OpenSSH - CVE-2024-6387](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6387-2024-07-02)|Visit link for details.|02/07/2024|
- |[Synology - CVE-2024-39349](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39349-2024-07-01)|Visit link for details.|01/07/2024|
- |[Plug&Track - CVE-2024-31199](https://www.cyberveille-sante.gouv.fr/alertes/plugtrack-cve-2024-31199-2024-07-01)|Visit link for details.|01/07/2024|
- |[Fortra FileCatalyst - CVE-2024-5276](https://www.cyberveille-sante.gouv.fr/alertes/fortra-filecatalyst-cve-2024-5276-2024-07-01)|Visit link for details.|01/07/2024|
- |[D-Link - CVE-2024-36755](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36755-2024-07-01)|Visit link for details.|01/07/2024|
- |[Dell - CVE-2024-25943](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25943-2024-07-01)|Visit link for details.|01/07/2024|
- |[D-Link - CVE-2024-0769](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-0769-2024-01-22)|Visit link for details.|01/07/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -120,6 +97,43 @@
  |[Apache HTTP Server code execution (CVE-2024-38474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 30, 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Synology - CVE-2024-39348](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39348-2024-07-02)|Visit link for details.|02/07/2024|
+ |[Juniper - CVE-2024-21586](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21586-2024-07-02)|Visit link for details.|02/07/2024|
+ |[Gitlab - CVE-2024-4901](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-4901-2024-07-02)|Visit link for details.|02/07/2024|
+ |[Apache HTTP - CVE-2024-36387](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-36387-2024-07-02)|Visit link for details.|02/07/2024|
+ |[OpenSSH - CVE-2024-6387](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6387-2024-07-02)|Visit link for details.|02/07/2024|
+ |[Synology - CVE-2024-39349](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39349-2024-07-01)|Visit link for details.|01/07/2024|
+ |[Plug&Track - CVE-2024-31199](https://www.cyberveille-sante.gouv.fr/alertes/plugtrack-cve-2024-31199-2024-07-01)|Visit link for details.|01/07/2024|
+ |[Fortra FileCatalyst - CVE-2024-5276](https://www.cyberveille-sante.gouv.fr/alertes/fortra-filecatalyst-cve-2024-5276-2024-07-01)|Visit link for details.|01/07/2024|
+ |[D-Link - CVE-2024-36755](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36755-2024-07-01)|Visit link for details.|01/07/2024|
+ |[Dell - CVE-2024-25943](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-25943-2024-07-01)|Visit link for details.|01/07/2024|
+ |[D-Link - CVE-2024-0769](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-0769-2024-01-22)|Visit link for details.|01/07/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zen Cart findPluginAdminPage Local File Inclusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-883/)|Visit link for details|2024-06-26|
+ |[VMware vCenter Server Appliance License Server Uncontrolled Memory Allocation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-882/)|Visit link for details|2024-06-25|
+ |[(Pwn2Own) Ubiquiti Networks EV Station setDebugPortEnabled Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-881/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Ubiquiti Networks EV Station EVCLauncher Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-880/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Ubiquiti Networks EV Station changeUserPassword Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-879/)|Visit link for details|2024-06-21|
+ |[Sony XAV-AX5500 Insufficient Verification of Data Authenticity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-878/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Sony XAV-AX5500 CarPlay TLV Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-877/)|Visit link for details|2024-06-21|
+ |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -137,18 +151,21 @@
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Zen Cart findPluginAdminPage Local File Inclusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-883/)|Visit link for details|2024-06-26|
- |[VMware vCenter Server Appliance License Server Uncontrolled Memory Allocation Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-882/)|Visit link for details|2024-06-25|
- |[(Pwn2Own) Ubiquiti Networks EV Station setDebugPortEnabled Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-881/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Ubiquiti Networks EV Station EVCLauncher Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-880/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Ubiquiti Networks EV Station changeUserPassword Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-879/)|Visit link for details|2024-06-21|
- |[Sony XAV-AX5500 Insufficient Verification of Data Authenticity Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-878/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Sony XAV-AX5500 CarPlay TLV Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-877/)|Visit link for details|2024-06-21|
- |[(Pwn2Own) Sony XAV-AX5500 USB Configuration Descriptor Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-876/)|Visit link for details|2024-06-21|
+ |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
+ |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
+ |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
+ |[ 48032706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-6)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
+ |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
+ |[ 48022706/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-2)| VMware annonce la correction de trois vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de service et…| 27 juin 2024|
+ |[ 48012706/24 - Vulnérabilités critiques affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-gitlab)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à…| 27 juin 2024|
+ |[ 48002706/24 - Vulnérabilité dans LibreOffice ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-libreoffice-1)| Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 juin 2024|
+ |[ 47982606/24 - Vulnérabilité critique affectant MOVEit Transfer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-moveit-transfer)| Progress Software annonce la correction d’une vulnérabilité critique   affectant son produit MOVEit Transfer. Cette vulnérabilité est activement exploitée et elle  peut  permettre  à un attaquant…| 26 juin 2024|
+ |[ 47992606/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 26 juin 2024|
+ |[ 47972506/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-1)| Veuillez se référer au bulletin de sécurité WordPress du 24 Juin 2024 afin d’installer les nouvelles mises à jour.| 25 juin 2024|
  
 
 # CA-CCS
@@ -166,21 +183,4 @@
  |[HPE security advisory (AV24-358)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-358)|Visit link for details|2024-06-28|
  |[Microsoft Edge security advisory (AV24-357)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-357)|Visit link for details|2024-06-28|
  |[Fortra security advisory (AV24-356)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-356)|Visit link for details|2024-06-27|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
- |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
- |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
- |[ 48032706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-6)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
- |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
- |[ 48022706/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-2)| VMware annonce la correction de trois vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de service et…| 27 juin 2024|
- |[ 48012706/24 - Vulnérabilités critiques affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-gitlab)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à…| 27 juin 2024|
- |[ 48002706/24 - Vulnérabilité dans LibreOffice ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-libreoffice-1)| Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 27 juin 2024|
- |[ 47982606/24 - Vulnérabilité critique affectant MOVEit Transfer ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-moveit-transfer)| Progress Software annonce la correction d’une vulnérabilité critique   affectant son produit MOVEit Transfer. Cette vulnérabilité est activement exploitée et elle  peut  permettre  à un attaquant…| 26 juin 2024|
- |[ 47992606/24 - Vulnérabilités critiques dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-8)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le…| 26 juin 2024|
- |[ 47972506/24 - Vulnérabilités dans le CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-wordpress-1)| Veuillez se référer au bulletin de sécurité WordPress du 24 Juin 2024 afin d’installer les nouvelles mises à jour.| 25 juin 2024|
  
