@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/07/2024 15:19:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/07/2024 16:19:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,23 +68,6 @@
  |---|---|---|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|03/07/2024|
- |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|03/07/2024|
- |[Microsoft Office - CVE-2024-30104](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-office-cve-2024-30104-2024-07-03)|Visit link for details.|03/07/2024|
- |[PostgreSQL - CVE-2024-6238](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-6238-2024-07-03)|Visit link for details.|03/07/2024|
- |[QEMU - CVE-2024-4467](https://www.cyberveille-sante.gouv.fr/alertes/qemu-cve-2024-4467-2024-07-03)|Visit link for details.|03/07/2024|
- |[Ivanti - CVE-2024-29204](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29204-2024-04-18)|Visit link for details.|03/07/2024|
- |[VMware - CVE-2024-37081](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37081-2024-06-19)|Visit link for details.|03/07/2024|
- |[Spring - CVE-2024-22263](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22263-2024-06-20)|Visit link for details.|03/07/2024|
- |[Synology - CVE-2024-39348](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39348-2024-07-02)|Visit link for details.|02/07/2024|
- |[Juniper - CVE-2024-21586](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21586-2024-07-02)|Visit link for details.|02/07/2024|
- |[Gitlab - CVE-2024-4901](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-4901-2024-07-02)|Visit link for details.|02/07/2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -105,6 +88,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|03/07/2024|
+ |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|03/07/2024|
+ |[Microsoft Office - CVE-2024-30104](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-office-cve-2024-30104-2024-07-03)|Visit link for details.|03/07/2024|
+ |[PostgreSQL - CVE-2024-6238](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-6238-2024-07-03)|Visit link for details.|03/07/2024|
+ |[QEMU - CVE-2024-4467](https://www.cyberveille-sante.gouv.fr/alertes/qemu-cve-2024-4467-2024-07-03)|Visit link for details.|03/07/2024|
+ |[Ivanti - CVE-2024-29204](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29204-2024-04-18)|Visit link for details.|03/07/2024|
+ |[VMware - CVE-2024-37081](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37081-2024-06-19)|Visit link for details.|03/07/2024|
+ |[Spring - CVE-2024-22263](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22263-2024-06-20)|Visit link for details.|03/07/2024|
+ |[Synology - CVE-2024-39348](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39348-2024-07-02)|Visit link for details.|02/07/2024|
+ |[Juniper - CVE-2024-21586](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-21586-2024-07-02)|Visit link for details.|02/07/2024|
+ |[Gitlab - CVE-2024-4901](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-4901-2024-07-02)|Visit link for details.|02/07/2024|
  
 
 # IBM-X-FORCE-EXCHANGE
