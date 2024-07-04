@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/07/2024 13:23:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/07/2024 14:22:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
- |[Juniper Networks Releases Security Bulletin for Junos OS: SRX Series](https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series)|Visit link for details.|Jul 02, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
- |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
- |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
- |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
- |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
- |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,6 +52,28 @@
  |---|---|---|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
+ |[Juniper Networks Releases Security Bulletin for Junos OS: SRX Series](https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series)|Visit link for details.|Jul 02, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
+ |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
+ |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
+ |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
+ |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
+ |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -85,10 +91,17 @@
  |[Gitlab - CVE-2024-4901](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-4901-2024-07-02)|Visit link for details.|02/07/2024|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Samsung Mobile Devices information disclosure (CVE-2024-20896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[Samsung Mobile Devices security bypass (CVE-2024-20895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[Samsung Mobile Devices security bypass (CVE-2024-20894)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[Samsung Mobile Devices denial of service (CVE-2024-20893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[Samsung Mobile Devices privilege escalation (CVE-2024-20892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[Samsung Mobile Devices privilege escalation (CVE-2024-20891)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[Samsung Mobile Devices denial of service (CVE-2024-20890)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
  
 
 # HK-CERT
@@ -107,17 +120,18 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240603)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-...| Release Date: 3 Jun 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Hitachi JP1/Extensible SNMP Agent security bypass (CVE-2024-4679)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- |[Artifex Ghostscript directory traversal (CVE-2024-29511)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- |[Artifex Ghostscript information disclosure (CVE-2024-29508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- |[Artifex Ghostscript buffer overflow (CVE-2024-29507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- |[Artifex Ghostscript buffer overflow (CVE-2024-29506)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- |[Artifex Ghostscript buffer overflow (CVE-2024-29509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- |[OpenStack Cinder, Glance and Nova unauthorized access (CVE-2024-32498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold SessionControler Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-890/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold InstallController Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-889/)|Visit link for details|2024-07-03|
  
 
 # EU-CERT
@@ -137,18 +151,21 @@
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold SessionControler Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-890/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold InstallController Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-889/)|Visit link for details|2024-07-03|
+ |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
+ |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
+ |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
+ |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
+ |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
+ |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
+ |[Ubuntu security advisory (AV24-362)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-362)|Visit link for details|2024-07-02|
+ |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
+ |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
+ |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
+ |[HPE security advisory (AV24-358)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-358)|Visit link for details|2024-06-28|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[ 48032706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-6)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
  |[ 48022706/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-2)| VMware annonce la correction de trois vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de service et…| 27 juin 2024|
  |[ 48012706/24 - Vulnérabilités critiques affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-gitlab)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à…| 27 juin 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
- |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
- |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
- |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
- |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
- |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
- |[Ubuntu security advisory (AV24-362)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-362)|Visit link for details|2024-07-02|
- |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
- |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
- |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
- |[HPE security advisory (AV24-358)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-358)|Visit link for details|2024-06-28|
  
