@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/07/2024 19:16:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/07/2024 20:19:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6877-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6877-1-libreoffice-vulnerability.50792/)|Visit link for details.|Jul 4, 2024|
+ |[USN-6875-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6875-1-linux-kernel-azure-vulnerabilities.50775/)|Visit link for details.|Jul 4, 2024|
+ |[USN-6864-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6864-1-linux-kernel-vulnerabilities.50774/)|Visit link for details.|Jul 4, 2024|
+ |[USN-6863-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6863-1-linux-kernel-vulnerability.50773/)|Visit link for details.|Jul 4, 2024|
+ |[USN-6874-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6874-1-linux-kernel-azure-vulnerabilities.50772/)|Visit link for details.|Jul 4, 2024|
+ |[USN-6873-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6873-1-linux-kernel-vulnerabilities.50771/)|Visit link for details.|Jul 4, 2024|
+ |[USN-6872-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6872-1-linux-kernel-vulnerabilities.50770/)|Visit link for details.|Jul 4, 2024|
+ |[USN-6871-1: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6871-1-linux-kernel-hwe-vulnerabilities.50769/)|Visit link for details.|Jul 4, 2024|
+ |[USN-6870-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6870-1-linux-kernel-vulnerabilities.50768/)|Visit link for details.|Jul 4, 2024|
+ |[USN-6869-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6869-1-linux-kernel-vulnerabilities.50767/)|Visit link for details.|Jul 4, 2024|
+ |[USN-6868-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6868-1-linux-kernel-vulnerabilities.50766/)|Visit link for details.|Jul 4, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,50 +62,33 @@
  |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6875-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6875-1-linux-kernel-azure-vulnerabilities.50775/)|Visit link for details.|Jul 4, 2024|
- |[USN-6864-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6864-1-linux-kernel-vulnerabilities.50774/)|Visit link for details.|Jul 4, 2024|
- |[USN-6863-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6863-1-linux-kernel-vulnerability.50773/)|Visit link for details.|Jul 4, 2024|
- |[USN-6874-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6874-1-linux-kernel-azure-vulnerabilities.50772/)|Visit link for details.|Jul 4, 2024|
- |[USN-6873-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6873-1-linux-kernel-vulnerabilities.50771/)|Visit link for details.|Jul 4, 2024|
- |[USN-6872-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6872-1-linux-kernel-vulnerabilities.50770/)|Visit link for details.|Jul 4, 2024|
- |[USN-6871-1: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6871-1-linux-kernel-hwe-vulnerabilities.50769/)|Visit link for details.|Jul 4, 2024|
- |[USN-6870-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6870-1-linux-kernel-vulnerabilities.50768/)|Visit link for details.|Jul 4, 2024|
- |[USN-6869-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6869-1-linux-kernel-vulnerabilities.50767/)|Visit link for details.|Jul 4, 2024|
- |[USN-6868-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6868-1-linux-kernel-vulnerabilities.50766/)|Visit link for details.|Jul 4, 2024|
- |[DSA-5725-1 znc - security update](https://www.linux.org/threads/dsa-5725-1-znc-security-update.50765/)|Visit link for details.|Jul 4, 2024|
  
 
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
+ |[Apache Tomcat - CVE-2024-34750](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-34750-2024-07-04)|Visit link for details.|04/07/2024|
+ |[Apache HTTP - CVE-2024-38477](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38477-2024-07-04)|Visit link for details.|04/07/2024|
+ |[CocoaPods - CVE-2024-38366](https://www.cyberveille-sante.gouv.fr/alertes/cocoapods-cve-2024-38366-2024-07-04)|Visit link for details.|04/07/2024|
+ |[MongoDB - CVE-2024-6376](https://www.cyberveille-sante.gouv.fr/alertes/mongodb-cve-2024-6376-2024-07-04)|Visit link for details.|04/07/2024|
  |[OpenSSH - CVE-2024-6387](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6387-2024-07-02)|Visit link for details.|04/07/2024|
  |[Apple - CVE-2024-27822](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27822-2024-06-05)|Visit link for details.|04/07/2024|
  |[Ivanti - CVE-2024-29823](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29823-2024-05-23)|Visit link for details.|04/07/2024|
  |[Ivanti - CVE-2024-29824](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29824-2024-05-24)|Visit link for details.|04/07/2024|
+ |[Google - CVE-2024-32896](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-32896-2024-06-14)|Visit link for details.|04/07/2024|
  |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|03/07/2024|
- |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|03/07/2024|
- |[Microsoft Office - CVE-2024-30104](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-office-cve-2024-30104-2024-07-03)|Visit link for details.|03/07/2024|
- |[PostgreSQL - CVE-2024-6238](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-6238-2024-07-03)|Visit link for details.|03/07/2024|
- |[QEMU - CVE-2024-4467](https://www.cyberveille-sante.gouv.fr/alertes/qemu-cve-2024-4467-2024-07-03)|Visit link for details.|03/07/2024|
- |[VMware - CVE-2024-37081](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37081-2024-06-19)|Visit link for details.|03/07/2024|
- |[Spring - CVE-2024-22263](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22263-2024-06-20)|Visit link for details.|03/07/2024|
  
 
 # HK-CERT
@@ -137,23 +137,6 @@
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
- |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
- |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
- |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
- |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
- |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
- |[Ubuntu security advisory (AV24-362)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-362)|Visit link for details|2024-07-02|
- |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
- |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
- |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
- |[HPE security advisory (AV24-358)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-358)|Visit link for details|2024-06-28|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -172,6 +155,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 48110407/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco)| Une vulnérabilité critique a été corrigée dans les produits Cisco susmentionnés utilisant des versions vulnérables de OpenSSH. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du…| 04 juillet 2024|
  |[ 48100307/24 - Vulnérabilités dans les produits MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mongodb)| Plusieurs vulnérabilités ont été corrigées dans les produits MongoDB. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité de données, d’exécuter du code arbitraire…| 03 juillet 2024|
  |[ 48090307/24 - Vulnérabilités affectant Apache HTTP Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-http-server)| Apache annonce la correction de plusieurs vulnérabilités critiques affectant  les versions susmentionnées de son produit Apache HTTP Server. L’exploitation de ces vulnérabilités peut permettre à un…| 03 juillet 2024|
  |[ 48080307/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-8)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android . L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 03 juillet 2024|
@@ -179,8 +163,24 @@
  |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
  |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
  |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
- |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
  |[ 48032706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-6)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
+ |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
  |[ 48022706/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-2)| VMware annonce la correction de trois vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de service et…| 27 juin 2024|
- |[ 48012706/24 - Vulnérabilités critiques affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-gitlab)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à…| 27 juin 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
+ |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
+ |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
+ |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
+ |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
+ |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
+ |[Ubuntu security advisory (AV24-362)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-362)|Visit link for details|2024-07-02|
+ |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
+ |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
+ |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
+ |[HPE security advisory (AV24-358)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-358)|Visit link for details|2024-06-28|
  
