@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/07/2024 17:34:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/07/2024 18:20:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -72,6 +66,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ivanti - CVE-2024-29822](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29822-2024-05-22)|Visit link for details.|05/07/2024|
+ |[Veeam - CVE-2024-29849](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29849-2024-05-22)|Visit link for details.|05/07/2024|
  |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
  |[Apache Tomcat - CVE-2024-34750](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-34750-2024-07-04)|Visit link for details.|04/07/2024|
  |[Apache HTTP - CVE-2024-38477](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38477-2024-07-04)|Visit link for details.|04/07/2024|
@@ -81,8 +77,12 @@
  |[Apple - CVE-2024-27822](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27822-2024-06-05)|Visit link for details.|04/07/2024|
  |[Ivanti - CVE-2024-29823](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29823-2024-05-23)|Visit link for details.|04/07/2024|
  |[Ivanti - CVE-2024-29824](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29824-2024-05-24)|Visit link for details.|04/07/2024|
- |[Google - CVE-2024-32896](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-32896-2024-06-14)|Visit link for details.|04/07/2024|
- |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|03/07/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
@@ -124,6 +124,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
  |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
  |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
  |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
@@ -131,7 +132,6 @@
  |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
  |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
  |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold SessionControler Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-890/)|Visit link for details|2024-07-03|
  
 
 # EU-CERT
@@ -151,23 +151,6 @@
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
- |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
- |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
- |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
- |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
- |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
- |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
- |[Ubuntu security advisory (AV24-362)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-362)|Visit link for details|2024-07-02|
- |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
- |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
- |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
  |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
  |[ 48032706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-6)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
+ |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
+ |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
+ |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
+ |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
+ |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
+ |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
+ |[Ubuntu security advisory (AV24-362)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-362)|Visit link for details|2024-07-02|
+ |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
+ |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
+ |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
  
