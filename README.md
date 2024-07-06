@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/07/2024 09:22:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/07/2024 10:17:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
+ |[Juniper Networks Releases Security Bulletin for Junos OS: SRX Series](https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series)|Visit link for details.|Jul 02, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
+ |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
+ |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
+ |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
+ |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
+ |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,10 @@
  |[USN-6877-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6877-1-libreoffice-vulnerability.50792/)|Visit link for details.|Jul 4, 2024|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
- |[Juniper Networks Releases Security Bulletin for Junos OS: SRX Series](https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series)|Visit link for details.|Jul 02, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
- |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
- |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
- |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
- |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
- |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
  
 
 # HK-CERT
@@ -76,12 +82,6 @@
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. |Release Date: 2 Jul 2024 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 2 Jul 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240628)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system...|Release Date: 28 Jun 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -101,7 +101,7 @@
  |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -151,23 +151,6 @@
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
- |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
- |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
- |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
- |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
- |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
- |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
- |[Ubuntu security advisory (AV24-362)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-362)|Visit link for details|2024-07-02|
- |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
- |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
- |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
  |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
  |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
+ |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
+ |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
+ |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
+ |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
+ |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
+ |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
+ |[Ubuntu security advisory (AV24-362)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-362)|Visit link for details|2024-07-02|
+ |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
+ |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
+ |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
  
