@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/07/2024 13:23:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/07/2024 14:21:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,35 @@
  |---|---|---|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Tomcat Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20240705)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jul 2024 |
+ |[Cisco NX-OS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-nx-os-denial-of-service-vulnerabilities_20240705)|A vulnerability has been identified in Cisco NX-OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition. Note:The CVE-2024-20399 vulnerability is being exploited in the wild. This vulnerability could allow an authenticated user...|Release Date: 5 Jul 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Jul 2024 |
+ |[OpenSSH Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/openssh-remote-code-execution-vulnerability_20240702)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2024-6387 affected sshd(8) was present in Portable OpenSSH versions between 8.5p1 and 9.7p1...| Release Date: 2 Jul 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
+ |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted...|Release Date: 3 Jul 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. |Release Date: 2 Jul 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 2 Jul 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240628)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system...|Release Date: 28 Jun 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Atlona AT-OME-MS42 Matrix Switcher command execution (CVE-2024-30167)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2024|
+ |[VMware Cloud Director Availability cross-site scripting (CVE-2024-22277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 3, 2024|
+ |[Parse Server SQL injection (CVE-2024-39309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[7-Zip information disclosure (CVE-2023-52169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[7-Zip buffer overflow (CVE-2023-52168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[ZNC code execution (CVE-2024-39844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[Samsung Mobile Devices security bypass (CVE-2024-20901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -85,39 +114,24 @@
  |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Tomcat Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20240705)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jul 2024 |
- |[Cisco NX-OS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-nx-os-denial-of-service-vulnerabilities_20240705)|A vulnerability has been identified in Cisco NX-OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition. Note:The CVE-2024-20399 vulnerability is being exploited in the wild. This vulnerability could allow an authenticated user...|Release Date: 5 Jul 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Jul 2024 |
- |[OpenSSH Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/openssh-remote-code-execution-vulnerability_20240702)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2024-6387 affected sshd(8) was present in Portable OpenSSH versions between 8.5p1 and 9.7p1...| Release Date: 2 Jul 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
- |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted...|Release Date: 3 Jul 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. |Release Date: 2 Jul 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 2 Jul 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240628)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system...|Release Date: 28 Jun 2024 |
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Atlona AT-OME-MS42 Matrix Switcher command execution (CVE-2024-30167)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2024|
- |[VMware Cloud Director Availability cross-site scripting (CVE-2024-22277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 3, 2024|
- |[Parse Server SQL injection (CVE-2024-39309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- |[7-Zip information disclosure (CVE-2023-52169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- |[7-Zip buffer overflow (CVE-2023-52168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- |[ZNC code execution (CVE-2024-39844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- |[Samsung Mobile Devices security bypass (CVE-2024-20901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
 # EU-CERT
@@ -137,18 +151,21 @@
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
+ |[ 48130507/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-2)| Splunk a publié une mise à jour de sécurité pour corriger deux vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service…| 05 juillet 2024|
+ |[ 48120507/24 - Vulnérabilités dans Python ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-python)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Python. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.| 05 juillet 2024|
+ |[ 48110407/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco)| Une vulnérabilité critique a été corrigée dans les produits Cisco susmentionnés utilisant des versions vulnérables de OpenSSH. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du…| 04 juillet 2024|
+ |[ 48100307/24 - Vulnérabilités dans les produits MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mongodb)| Plusieurs vulnérabilités ont été corrigées dans les produits MongoDB. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité de données, d’exécuter du code arbitraire…| 03 juillet 2024|
+ |[ 48090307/24 - Vulnérabilités affectant Apache HTTP Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-http-server)| Apache annonce la correction de plusieurs vulnérabilités critiques affectant  les versions susmentionnées de son produit Apache HTTP Server. L’exploitation de ces vulnérabilités peut permettre à un…| 03 juillet 2024|
+ |[ 48080307/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-8)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android . L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 03 juillet 2024|
+ |[ 48070307/24 - Vulnérabilité affectant Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-juniper-junos-os)| Juniper annonce la correction d’une vulnérabilité   affectant  les versions susmentionnées  son     système d’exploitation Junos OS.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour…| 03 juillet 2024|
+ |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
+ |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
+ |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
+ |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
  
 
 # CA-CCS
@@ -166,21 +183,4 @@
  |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
  |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
  |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48130507/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-2)| Splunk a publié une mise à jour de sécurité pour corriger deux vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service…| 05 juillet 2024|
- |[ 48120507/24 - Vulnérabilités dans Python ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-python)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Python. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.| 05 juillet 2024|
- |[ 48110407/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco)| Une vulnérabilité critique a été corrigée dans les produits Cisco susmentionnés utilisant des versions vulnérables de OpenSSH. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du…| 04 juillet 2024|
- |[ 48100307/24 - Vulnérabilités dans les produits MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mongodb)| Plusieurs vulnérabilités ont été corrigées dans les produits MongoDB. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité de données, d’exécuter du code arbitraire…| 03 juillet 2024|
- |[ 48090307/24 - Vulnérabilités affectant Apache HTTP Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-http-server)| Apache annonce la correction de plusieurs vulnérabilités critiques affectant  les versions susmentionnées de son produit Apache HTTP Server. L’exploitation de ces vulnérabilités peut permettre à un…| 03 juillet 2024|
- |[ 48080307/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-8)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android . L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 03 juillet 2024|
- |[ 48070307/24 - Vulnérabilité affectant Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-juniper-junos-os)| Juniper annonce la correction d’une vulnérabilité   affectant  les versions susmentionnées  son     système d’exploitation Junos OS.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour…| 03 juillet 2024|
- |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
- |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
- |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
- |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
  
