@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/07/2024 06:18:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/07/2024 07:31:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,12 +68,6 @@
  |[USN-6875-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6875-1-linux-kernel-azure-vulnerabilities.50775/)|Visit link for details.|Jul 4, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -89,6 +83,12 @@
  |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|05/07/2024|
  |[Nagios - CVE-2024-33775](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2024-33775-2024-05-02)|Visit link for details.|05/07/2024|
  |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
