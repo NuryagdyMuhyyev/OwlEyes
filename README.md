@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/07/2024 02:18:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/07/2024 03:17:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5726-1 krb5 - security update](https://www.linux.org/threads/dsa-5726-1-krb5-security-update.50823/)|Visit link for details.|Jul 6, 2024|
- |[USN-6879-1: Virtuoso Open-Source Edition vulnerabilities](https://www.linux.org/threads/usn-6879-1-virtuoso-open-source-edition-vulnerabilities.50805/)|Visit link for details.|Jul 5, 2024|
- |[USN-6866-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6866-2-linux-kernel-azure-vulnerabilities.50804/)|Visit link for details.|Jul 5, 2024|
- |[USN-6865-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6865-2-linux-kernel-azure-vulnerabilities.50802/)|Visit link for details.|Jul 4, 2024|
- |[USN-6870-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6870-2-linux-kernel-aws-vulnerabilities.50801/)|Visit link for details.|Jul 4, 2024|
- |[USN-6873-2: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6873-2-linux-kernel-starfive-vulnerabilities.50800/)|Visit link for details.|Jul 4, 2024|
- |[USN-6864-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6864-2-linux-kernel-vulnerabilities.50799/)|Visit link for details.|Jul 4, 2024|
- |[USN-6872-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6872-2-linux-kernel-vulnerabilities.50798/)|Visit link for details.|Jul 4, 2024|
- |[USN-6876-1: Kopano Core vulnerabilities](https://www.linux.org/threads/usn-6876-1-kopano-core-vulnerabilities.50797/)|Visit link for details.|Jul 4, 2024|
- |[USN-6878-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6878-1-linux-kernel-oracle-vulnerabilities.50796/)|Visit link for details.|Jul 4, 2024|
- |[USN-6877-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6877-1-libreoffice-vulnerability.50792/)|Visit link for details.|Jul 4, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,12 +43,6 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
  |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
  |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # OBS-Vigilance
@@ -89,6 +66,12 @@
  |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|05/07/2024|
  |[Nagios - CVE-2024-33775](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2024-33775-2024-05-02)|Visit link for details.|05/07/2024|
  |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -118,6 +101,23 @@
  |[7-Zip information disclosure (CVE-2023-52169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
  |[7-Zip buffer overflow (CVE-2023-52168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
  |[ZNC code execution (CVE-2024-39844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5665-1 tomcat10 - security update](https://www.linux.org/threads/dsa-5665-1-tomcat10-security-update.49564/)|Visit link for details.|Apr 18, 2024|
+ |[DSA-5664-1 jetty9 - security update](https://www.linux.org/threads/dsa-5664-1-jetty9-security-update.49563/)|Visit link for details.|Apr 18, 2024|
+ |[DSA-5663-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5663-1-firefox-esr-security-update.49562/)|Visit link for details.|Apr 17, 2024|
+ |[USN-6729-2: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6729-2-apache-http-server-vulnerabilities.49560/)|Visit link for details.|Apr 17, 2024|
+ |[USN-6726-3: Linux kernel (Xilinx ZynqMP) vulnerabilities](https://www.linux.org/threads/usn-6726-3-linux-kernel-xilinx-zynqmp-vulnerabilities.49559/)|Visit link for details.|Apr 17, 2024|
+ |[USN-6726-2: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-6726-2-linux-kernel-iot-vulnerabilities.49556/)|Visit link for details.|Apr 17, 2024|
+ |[USN-6725-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6725-2-linux-kernel-aws-vulnerabilities.49555/)|Visit link for details.|Apr 17, 2024|
+ |[USN-6724-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6724-2-linux-kernel-vulnerabilities.49554/)|Visit link for details.|Apr 17, 2024|
+ |[DSA-5655-2 cockpit - regression update](https://www.linux.org/threads/dsa-5655-2-cockpit-regression-update.49552/)|Visit link for details.|Apr 17, 2024|
+ |[DSA-5662-1 apache2 - security update](https://www.linux.org/threads/dsa-5662-1-apache2-security-update.49551/)|Visit link for details.|Apr 16, 2024|
+ |[USN-6736-1: klibc vulnerabilities](https://www.linux.org/threads/usn-6736-1-klibc-vulnerabilities.49547/)|Visit link for details.|Apr 16, 2024|
  
 
 # EU-CERT
