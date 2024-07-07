@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/07/2024 21:21:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/07/2024 22:17:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
- |[Juniper Networks Releases Security Bulletin for Junos OS: SRX Series](https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series)|Visit link for details.|Jul 02, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
- |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
- |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
- |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
- |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
- |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,27 +46,32 @@
  |[USN-6877-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6877-1-libreoffice-vulnerability.50792/)|Visit link for details.|Jul 4, 2024|
  
 
-# OBS-Vigilance
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
+ |[Juniper Networks Releases Security Bulletin for Junos OS: SRX Series](https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series)|Visit link for details.|Jul 02, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
+ |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
+ |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
+ |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
+ |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
+ |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-SANTE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress Nested Pages - CVE-2024-5943](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-nested-pages-cve-2024-5943-2024-07-05)|Visit link for details.|05/07/2024|
- |[Synology - CVE-2024-39350](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39350-2024-07-05)|Visit link for details.|05/07/2024|
- |[Linux - CVE-2024-39480](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-39480-2024-07-05)|Visit link for details.|05/07/2024|
- |[CocoaPods - CVE-2024-38368](https://www.cyberveille-sante.gouv.fr/alertes/cocoapods-cve-2024-38368-2024-07-05)|Visit link for details.|05/07/2024|
- |[7-Zip - CVE-2023-52169](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52169-2024-07-05)|Visit link for details.|05/07/2024|
- |[Veeam - CVE-2024-29849](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29849-2024-05-22)|Visit link for details.|05/07/2024|
- |[Qlik - CVE-2024-36077](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-36077-2024-05-21)|Visit link for details.|05/07/2024|
- |[Ivanti - CVE-2024-29822](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29822-2024-05-22)|Visit link for details.|05/07/2024|
- |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|05/07/2024|
- |[Nagios - CVE-2024-33775](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2024-33775-2024-05-02)|Visit link for details.|05/07/2024|
- |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
  
 
 # HK-CERT
@@ -114,10 +103,35 @@
  |[ZNC code execution (CVE-2024-39844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[WordPress Nested Pages - CVE-2024-5943](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-nested-pages-cve-2024-5943-2024-07-05)|Visit link for details.|05/07/2024|
+ |[Synology - CVE-2024-39350](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39350-2024-07-05)|Visit link for details.|05/07/2024|
+ |[Linux - CVE-2024-39480](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-39480-2024-07-05)|Visit link for details.|05/07/2024|
+ |[CocoaPods - CVE-2024-38368](https://www.cyberveille-sante.gouv.fr/alertes/cocoapods-cve-2024-38368-2024-07-05)|Visit link for details.|05/07/2024|
+ |[7-Zip - CVE-2023-52169](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52169-2024-07-05)|Visit link for details.|05/07/2024|
+ |[Veeam - CVE-2024-29849](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29849-2024-05-22)|Visit link for details.|05/07/2024|
+ |[Qlik - CVE-2024-36077](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-36077-2024-05-21)|Visit link for details.|05/07/2024|
+ |[Ivanti - CVE-2024-29822](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29822-2024-05-22)|Visit link for details.|05/07/2024|
+ |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|05/07/2024|
+ |[Nagios - CVE-2024-33775](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2024-33775-2024-05-02)|Visit link for details.|05/07/2024|
+ |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
 # EU-CERT
@@ -137,18 +151,21 @@
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
+ |[ 48130507/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-2)| Splunk a publié une mise à jour de sécurité pour corriger deux vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service…| 05 juillet 2024|
+ |[ 48120507/24 - Vulnérabilités dans Python ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-python)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Python. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.| 05 juillet 2024|
+ |[ 48110407/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco)| Une vulnérabilité critique a été corrigée dans les produits Cisco susmentionnés utilisant des versions vulnérables de OpenSSH. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du…| 04 juillet 2024|
+ |[ 48100307/24 - Vulnérabilités dans les produits MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mongodb)| Plusieurs vulnérabilités ont été corrigées dans les produits MongoDB. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité de données, d’exécuter du code arbitraire…| 03 juillet 2024|
+ |[ 48090307/24 - Vulnérabilités affectant Apache HTTP Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-http-server)| Apache annonce la correction de plusieurs vulnérabilités critiques affectant  les versions susmentionnées de son produit Apache HTTP Server. L’exploitation de ces vulnérabilités peut permettre à un…| 03 juillet 2024|
+ |[ 48080307/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-8)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android . L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 03 juillet 2024|
+ |[ 48070307/24 - Vulnérabilité affectant Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-juniper-junos-os)| Juniper annonce la correction d’une vulnérabilité   affectant  les versions susmentionnées  son     système d’exploitation Junos OS.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour…| 03 juillet 2024|
+ |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
+ |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
+ |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
+ |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
  
 
 # CA-CCS
@@ -166,21 +183,4 @@
  |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
  |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
  |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48130507/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-2)| Splunk a publié une mise à jour de sécurité pour corriger deux vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service…| 05 juillet 2024|
- |[ 48120507/24 - Vulnérabilités dans Python ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-python)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Python. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.| 05 juillet 2024|
- |[ 48110407/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco)| Une vulnérabilité critique a été corrigée dans les produits Cisco susmentionnés utilisant des versions vulnérables de OpenSSH. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du…| 04 juillet 2024|
- |[ 48100307/24 - Vulnérabilités dans les produits MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mongodb)| Plusieurs vulnérabilités ont été corrigées dans les produits MongoDB. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité de données, d’exécuter du code arbitraire…| 03 juillet 2024|
- |[ 48090307/24 - Vulnérabilités affectant Apache HTTP Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-http-server)| Apache annonce la correction de plusieurs vulnérabilités critiques affectant  les versions susmentionnées de son produit Apache HTTP Server. L’exploitation de ces vulnérabilités peut permettre à un…| 03 juillet 2024|
- |[ 48080307/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-8)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android . L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 03 juillet 2024|
- |[ 48070307/24 - Vulnérabilité affectant Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-juniper-junos-os)| Juniper annonce la correction d’une vulnérabilité   affectant  les versions susmentionnées  son     système d’exploitation Junos OS.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour…| 03 juillet 2024|
- |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
- |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
- |[ 48040107/24 - Vulnérabilité critique dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité critique dans les produits susmentionnés. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code…| 01 juillet 2024|
- |[ 48023706/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-5)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 27 juin 2024|
  
