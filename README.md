@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/07/2024 18:18:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/07/2024 19:15:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -84,6 +84,23 @@
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240628)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system...|Release Date: 28 Jun 2024 |
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress Nested Pages - CVE-2024-5943](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-nested-pages-cve-2024-5943-2024-07-05)|Visit link for details.|05/07/2024|
+ |[Synology - CVE-2024-39350](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39350-2024-07-05)|Visit link for details.|05/07/2024|
+ |[Linux - CVE-2024-39480](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-39480-2024-07-05)|Visit link for details.|05/07/2024|
+ |[CocoaPods - CVE-2024-38368](https://www.cyberveille-sante.gouv.fr/alertes/cocoapods-cve-2024-38368-2024-07-05)|Visit link for details.|05/07/2024|
+ |[7-Zip - CVE-2023-52169](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52169-2024-07-05)|Visit link for details.|05/07/2024|
+ |[Veeam - CVE-2024-29849](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29849-2024-05-22)|Visit link for details.|05/07/2024|
+ |[Qlik - CVE-2024-36077](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-36077-2024-05-21)|Visit link for details.|05/07/2024|
+ |[Ivanti - CVE-2024-29822](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29822-2024-05-22)|Visit link for details.|05/07/2024|
+ |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|05/07/2024|
+ |[Nagios - CVE-2024-33775](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2024-33775-2024-05-02)|Visit link for details.|05/07/2024|
+ |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -101,23 +118,6 @@
  |[7-Zip information disclosure (CVE-2023-52169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
  |[7-Zip buffer overflow (CVE-2023-52168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
  |[ZNC code execution (CVE-2024-39844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress Nested Pages - CVE-2024-5943](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-nested-pages-cve-2024-5943-2024-07-05)|Visit link for details.|05/07/2024|
- |[Synology - CVE-2024-39350](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39350-2024-07-05)|Visit link for details.|05/07/2024|
- |[Linux - CVE-2024-39480](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-39480-2024-07-05)|Visit link for details.|05/07/2024|
- |[CocoaPods - CVE-2024-38368](https://www.cyberveille-sante.gouv.fr/alertes/cocoapods-cve-2024-38368-2024-07-05)|Visit link for details.|05/07/2024|
- |[7-Zip - CVE-2023-52169](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52169-2024-07-05)|Visit link for details.|05/07/2024|
- |[Veeam - CVE-2024-29849](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-29849-2024-05-22)|Visit link for details.|05/07/2024|
- |[Qlik - CVE-2024-36077](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-36077-2024-05-21)|Visit link for details.|05/07/2024|
- |[Ivanti - CVE-2024-29822](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29822-2024-05-22)|Visit link for details.|05/07/2024|
- |[Apple - CVE-2024-27796](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27796-2024-05-14)|Visit link for details.|05/07/2024|
- |[Nagios - CVE-2024-33775](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2024-33775-2024-05-02)|Visit link for details.|05/07/2024|
- |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
  
 
 # ZERODAYINITIATIVE
