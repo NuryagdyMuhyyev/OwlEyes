@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/07/2024 07:36:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/07/2024 08:22:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,28 @@
  |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-remote-code-execution-vulnerability_20240708)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger security restriction bypass and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-29510 exists on the internet.To exploit the vulnerability, ...|Release Date: 8 Jul 2024 |
+ |[Apache Tomcat Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20240705)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jul 2024 |
+ |[Cisco NX-OS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-nx-os-denial-of-service-vulnerabilities_20240705)|A vulnerability has been identified in Cisco NX-OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition. Note:The CVE-2024-20399 vulnerability is being exploited in the wild. This vulnerability could allow an authenticated user...|Release Date: 5 Jul 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Jul 2024 |
+ |[OpenSSH Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/openssh-remote-code-execution-vulnerability_20240702)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2024-6387 affected sshd(8) was present in Portable OpenSSH versions between 8.5p1 and 9.7p1...| Release Date: 2 Jul 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
+ |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted...|Release Date: 3 Jul 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. |Release Date: 2 Jul 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 2 Jul 2024 |
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,10 +84,31 @@
  |[USN-6877-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6877-1-libreoffice-vulnerability.50792/)|Visit link for details.|Jul 4, 2024|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Atlona AT-OME-MS42 Matrix Switcher command execution (CVE-2024-30167)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2024|
+ |[Trend Micro Apex One code execution (CVE-2024-39753)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
+ |[IBM Cloud Pak for Business Automation cross-site scripting (CVE-2024-37528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
+ |[IBM Cloud Pak for Business Automation server-side request forgery (CVE-2024-31897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
+ |[Apache Tomcat denial of service (CVE-2024-34750)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 3, 2024|
+ |[VMware Cloud Director Availability cross-site scripting (CVE-2024-22277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 3, 2024|
+ |[IBM i privilege escalation (CVE-2024-38330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 3, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
 # CERT-SANTE
@@ -85,53 +128,10 @@
  |[7-Zip - CVE-2023-52168](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52168-2024-07-04)|Visit link for details.|04/07/2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-remote-code-execution-vulnerability_20240708)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger security restriction bypass and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-29510 exists on the internet.To exploit the vulnerability, ...|Release Date: 8 Jul 2024 |
- |[Apache Tomcat Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20240705)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jul 2024 |
- |[Cisco NX-OS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-nx-os-denial-of-service-vulnerabilities_20240705)|A vulnerability has been identified in Cisco NX-OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition. Note:The CVE-2024-20399 vulnerability is being exploited in the wild. This vulnerability could allow an authenticated user...|Release Date: 5 Jul 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Jul 2024 |
- |[OpenSSH Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/openssh-remote-code-execution-vulnerability_20240702)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2024-6387 affected sshd(8) was present in Portable OpenSSH versions between 8.5p1 and 9.7p1...| Release Date: 2 Jul 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
- |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted...|Release Date: 3 Jul 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. |Release Date: 2 Jul 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 2 Jul 2024 |
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Atlona AT-OME-MS42 Matrix Switcher command execution (CVE-2024-30167)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 5, 2024|
- |[Trend Micro Apex One code execution (CVE-2024-39753)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
- |[IBM Cloud Pak for Business Automation server-side request forgery (CVE-2024-31897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
- |[Apache Tomcat denial of service (CVE-2024-34750)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 3, 2024|
- |[VMware Cloud Director Availability cross-site scripting (CVE-2024-22277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 3, 2024|
- |[IBM i privilege escalation (CVE-2024-38330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 3, 2024|
- |[Parse Server SQL injection (CVE-2024-39309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 2, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
 # EU-CERT
