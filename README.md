@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/07/2024 19:18:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/07/2024 20:20:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,35 +66,6 @@
  |[USN-6876-1: Kopano Core vulnerabilities](https://www.linux.org/threads/usn-6876-1-kopano-core-vulnerabilities.50797/)|Visit link for details.|Jul 4, 2024|
  |[USN-6878-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6878-1-linux-kernel-oracle-vulnerabilities.50796/)|Visit link for details.|Jul 4, 2024|
  |[USN-6877-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6877-1-libreoffice-vulnerability.50792/)|Visit link for details.|Jul 4, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft – Patch Tuesday – CVE-2023-21543](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21543-2023-01-11)|Visit link for details.|08/07/2024|
- |[Microsoft – Patch Tuesday – CVE-2023-21556](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21556-2023-01-12)|Visit link for details.|08/07/2024|
- |[Microsoft – Patch Tuesday – CVE-2023-21555](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21555-2023-01-11)|Visit link for details.|08/07/2024|
- |[Microsoft – Patch Tuesday – CVE-2023-21674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21674-2023-01-11)|Visit link for details.|08/07/2024|
- |[Microsoft – Patch Tuesday – CVE-2023-21752](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21752-2023-01-12)|Visit link for details.|08/07/2024|
- |[Microsoft Word - CVE-2023-21716](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-word-cve-2023-21716-2023-02-15)|Visit link for details.|08/07/2024|
- |[WordPress Nested Pages - CVE-2024-5943](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-nested-pages-cve-2024-5943-2024-07-05)|Visit link for details.|05/07/2024|
- |[Synology - CVE-2024-39350](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39350-2024-07-05)|Visit link for details.|05/07/2024|
- |[Linux - CVE-2024-39480](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-39480-2024-07-05)|Visit link for details.|05/07/2024|
- |[CocoaPods - CVE-2024-38368](https://www.cyberveille-sante.gouv.fr/alertes/cocoapods-cve-2024-38368-2024-07-05)|Visit link for details.|05/07/2024|
- |[7-Zip - CVE-2023-52169](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52169-2024-07-05)|Visit link for details.|05/07/2024|
  
 
 # HK-CERT
@@ -107,6 +84,12 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 2 Jul 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,6 +101,23 @@
  |[Mastodon information disclosure (CVE-2024-37903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
  |[Fedify server-side request forgery (CVE-2024-39687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
  |[Evmos security bypass (CVE-2024-39696)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft – Patch Tuesday – CVE-2023-21543](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21543-2023-01-11)|Visit link for details.|08/07/2024|
+ |[Microsoft – Patch Tuesday – CVE-2023-21556](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21556-2023-01-12)|Visit link for details.|08/07/2024|
+ |[Microsoft – Patch Tuesday – CVE-2023-21555](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21555-2023-01-11)|Visit link for details.|08/07/2024|
+ |[Microsoft – Patch Tuesday – CVE-2023-21674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21674-2023-01-11)|Visit link for details.|08/07/2024|
+ |[Microsoft – Patch Tuesday – CVE-2023-21752](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21752-2023-01-12)|Visit link for details.|08/07/2024|
+ |[Microsoft Word - CVE-2023-21716](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-word-cve-2023-21716-2023-02-15)|Visit link for details.|08/07/2024|
+ |[WordPress Nested Pages - CVE-2024-5943](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-nested-pages-cve-2024-5943-2024-07-05)|Visit link for details.|05/07/2024|
+ |[Synology - CVE-2024-39350](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-39350-2024-07-05)|Visit link for details.|05/07/2024|
+ |[Linux - CVE-2024-39480](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-39480-2024-07-05)|Visit link for details.|05/07/2024|
+ |[CocoaPods - CVE-2024-38368](https://www.cyberveille-sante.gouv.fr/alertes/cocoapods-cve-2024-38368-2024-07-05)|Visit link for details.|05/07/2024|
+ |[7-Zip - CVE-2023-52169](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2023-52169-2024-07-05)|Visit link for details.|05/07/2024|
  
 
 # ZERODAYINITIATIVE
