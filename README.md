@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/07/2024 22:17:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/07/2024 23:25:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Releases Guidance on Single Sign-On (SSO) Adoption for Small and Medium-Sized Businesses: (SMBs)](https://www.cisa.gov/news-events/alerts/2024/06/20/cisa-releases-guidance-single-sign-sso-adoption-small-and-medium-sized-businesses-smbs)|Visit link for details.|Jun 20, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -62,12 +68,6 @@
  |[Microsoft Word - CVE-2023-21716](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-word-cve-2023-21716-2023-02-15)|Visit link for details.|08/07/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -82,12 +82,6 @@
  |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted...|Release Date: 3 Jul 2024 |
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. |Release Date: 2 Jul 2024 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 2 Jul 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # LINUX-SEC
@@ -107,6 +101,12 @@
  |[USN-6872-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6872-2-linux-kernel-vulnerabilities.50798/)|Visit link for details.|Jul 4, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,6 +118,20 @@
  |[Mastodon information disclosure (CVE-2024-37903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
  |[Fedify server-side request forgery (CVE-2024-39687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
  |[Evmos security bypass (CVE-2024-39696)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 4, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
 # EU-CERT
@@ -137,37 +151,6 @@
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
- |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
- |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
- |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
- |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
- |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
- |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
- |[Ubuntu security advisory (AV24-362)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-362)|Visit link for details|2024-07-02|
- |[IBM security advisory (AV24-361)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-361)|Visit link for details|2024-07-02|
- |[Dell security advisory (AV24-360)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-360)|Visit link for details|2024-07-02|
- |[Juniper Networks security advisory (AV24-359)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-359)|Visit link for details|2024-06-28|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 48070307/24 - Vulnérabilité affectant Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-juniper-junos-os)| Juniper annonce la correction d’une vulnérabilité   affectant  les versions susmentionnées  son     système d’exploitation Junos OS.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour…| 03 juillet 2024|
  |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
  |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM security advisory (AV24-372)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-372)|Visit link for details|2024-07-08|
+ |[Ubuntu security advisory (AV24-371)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-371)|Visit link for details|2024-07-08|
+ |[Dell security advisory (AV24-370)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-370)|Visit link for details|2024-07-08|
+ |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
+ |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
+ |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
+ |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
+ |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
+ |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
+ |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
+ |[Ubuntu security advisory (AV24-362)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-362)|Visit link for details|2024-07-02|
  
