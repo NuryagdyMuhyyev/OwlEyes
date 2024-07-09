@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/07/2024 12:17:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/07/2024 13:23:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -91,19 +91,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Node.js security bypass (CVE-2024-37372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Node.js information disclosure (CVE-2024-22018)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Node.js security bypass (CVE-2024-36137)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Node.js code execution (CVE-2024-22020)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Node.js command execution (CVE-2024-36138)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Realtek rtl819x Jungle SDK buffer overflow (CVE-2023-41251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2024|
- |[Realtek rtl819x Jungle SDK buffer overflow (CVE-2023-45215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -120,18 +107,17 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
+ |[Node.js security bypass (CVE-2024-37372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Node.js information disclosure (CVE-2024-22018)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Node.js security bypass (CVE-2024-36137)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Node.js code execution (CVE-2024-22020)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Node.js command execution (CVE-2024-36138)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Realtek rtl819x Jungle SDK buffer overflow (CVE-2023-41251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2024|
+ |[Realtek rtl819x Jungle SDK buffer overflow (CVE-2023-45215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2024|
  
 
 # EU-CERT
@@ -151,21 +137,18 @@
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[GeoServer security advisory (AV24-373)](https://www.cyber.gc.ca/en/alerts-advisories/geoserver-security-advisory-av24-373)|Visit link for details|2024-07-08|
- |[IBM security advisory (AV24-372)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-372)|Visit link for details|2024-07-08|
- |[Ubuntu security advisory (AV24-371)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-371)|Visit link for details|2024-07-08|
- |[Dell security advisory (AV24-370)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-370)|Visit link for details|2024-07-08|
- |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
- |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
- |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
- |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
- |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
- |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
- |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[ 48070307/24 - Vulnérabilité affectant Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-juniper-junos-os)| Juniper annonce la correction d’une vulnérabilité   affectant  les versions susmentionnées  son     système d’exploitation Junos OS.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour…| 03 juillet 2024|
  |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
  |[ 48050207/24 - Vulnérabilité critique affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-openssh)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au    niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 02 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GeoServer security advisory (AV24-373)](https://www.cyber.gc.ca/en/alerts-advisories/geoserver-security-advisory-av24-373)|Visit link for details|2024-07-08|
+ |[IBM security advisory (AV24-372)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-372)|Visit link for details|2024-07-08|
+ |[Ubuntu security advisory (AV24-371)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-371)|Visit link for details|2024-07-08|
+ |[Dell security advisory (AV24-370)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-370)|Visit link for details|2024-07-08|
+ |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
+ |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
+ |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
+ |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
+ |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
+ |[Android security advisory – July 2024 Monthly Rollup (AV24-364)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2024-monthly-rollup-av24-364)|Visit link for details|2024-07-02|
+ |[[Control systems] CISA ICS security advisories (AV24-363)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-363)|Visit link for details|2024-07-02|
  
