@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/07/2024 00:15:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/07/2024 01:19:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
+ |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/citrix-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
+ |[Microsoft Releases July 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/07/09/microsoft-releases-july-2024-security-updates)|Visit link for details.|Jul 09, 2024|
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 09, 2024|
  |[CISA and Partners join ASD’S ACSC to Release Advisory on PRC State-Sponsored Group, APT 40](https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40)|Visit link for details.|Jul 08, 2024|
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
@@ -40,21 +43,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
  |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
- |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
- |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # LINUX-SEC
@@ -74,22 +62,6 @@
  |[USN-6865-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6865-2-linux-kernel-azure-vulnerabilities.50802/)|Visit link for details.|Jul 4, 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-denial-of-service-vulnerability_20240709)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-4741 of the affected products.|Release Date: 9 Jul 2024 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240709)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 9 Jul 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240513)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-07-09]Updated Vulnerability...| Release Date: 13 May 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240709)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Jul 2024 |
- |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-remote-code-execution-vulnerability_20240708)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger security restriction bypass and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-29510 exists on the internet.To exploit the vulnerability, ...|Release Date: 8 Jul 2024 |
- |[Apache Tomcat Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20240705)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jul 2024 |
- |[Cisco NX-OS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-nx-os-denial-of-service-vulnerabilities_20240705)|A vulnerability has been identified in Cisco NX-OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition. Note:The CVE-2024-20399 vulnerability is being exploited in the wild. This vulnerability could allow an authenticated user...|Release Date: 5 Jul 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Jul 2024 |
- |[OpenSSH Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/openssh-remote-code-execution-vulnerability_20240702)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2024-6387 affected sshd(8) was present in Portable OpenSSH versions between 8.5p1 and 9.7p1...| Release Date: 2 Jul 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -105,6 +77,34 @@
  |[Microsoft Windows - CVE-2023-23376](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-23376-2023-02-15)|Visit link for details.|09/07/2024|
  |[Microsoft SQL ODBC Driver - CVE-2023-21718](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sql-odbc-driver-cve-2023-21718-2023-02-21)|Visit link for details.|09/07/2024|
  |[Windows - CVE-2023-21768](https://www.cyberveille-sante.gouv.fr/alertes/windows-cve-2023-21768-2023-03-09)|Visit link for details.|09/07/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-denial-of-service-vulnerability_20240709)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-4741 of the affected products.|Release Date: 9 Jul 2024 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240709)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 9 Jul 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240513)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-07-09]Updated Vulnerability...| Release Date: 13 May 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240709)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Jul 2024 |
+ |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-remote-code-execution-vulnerability_20240708)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger security restriction bypass and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-29510 exists on the internet.To exploit the vulnerability, ...|Release Date: 8 Jul 2024 |
+ |[Apache Tomcat Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20240705)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 5 Jul 2024 |
+ |[Cisco NX-OS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/cisco-nx-os-denial-of-service-vulnerabilities_20240705)|A vulnerability has been identified in Cisco NX-OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition. Note:The CVE-2024-20399 vulnerability is being exploited in the wild. This vulnerability could allow an authenticated user...|Release Date: 5 Jul 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Jul 2024 |
+ |[OpenSSH Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/openssh-remote-code-execution-vulnerability_20240702)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2024-6387 affected sshd(8) was present in Portable OpenSSH versions between 8.5p1 and 9.7p1...| Release Date: 2 Jul 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -151,23 +151,6 @@
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] CISA ICS security advisories (AV24-374)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-374)|Visit link for details|2024-07-09|
- |[GeoServer security advisory (AV24-373)](https://www.cyber.gc.ca/en/alerts-advisories/geoserver-security-advisory-av24-373)|Visit link for details|2024-07-08|
- |[IBM security advisory (AV24-372)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-372)|Visit link for details|2024-07-08|
- |[Ubuntu security advisory (AV24-371)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-371)|Visit link for details|2024-07-08|
- |[Dell security advisory (AV24-370)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-370)|Visit link for details|2024-07-08|
- |[RADIUS Protocol Susceptible to Forgery Attacks](https://www.cyber.gc.ca/en/alerts-advisories/radius-protocol-susceptible-forgery-attacks)|Visit link for details|2024-07-05|
- |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
- |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
- |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
- |[OpenSSH security advisory (AV24-366)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av24-366)|Visit link for details|2024-07-02|
- |[[Control systems] ABB security advisory (AV24-365)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-365)|Visit link for details|2024-07-02|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 48080307/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-8)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android . L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 03 juillet 2024|
  |[ 48070307/24 - Vulnérabilité affectant Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-juniper-junos-os)| Juniper annonce la correction d’une vulnérabilité   affectant  les versions susmentionnées  son     système d’exploitation Junos OS.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour…| 03 juillet 2024|
  |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft security advisory – July 2024 monthly rollup (AV24-376)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2024-monthly-rollup-av24-376)|Visit link for details|2024-07-09|
+ |[Citrix security advisory (AV24-375)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-375)|Visit link for details|2024-07-09|
+ |[[Control systems] CISA ICS security advisories (AV24-374)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-374)|Visit link for details|2024-07-09|
+ |[GeoServer security advisory (AV24-373)](https://www.cyber.gc.ca/en/alerts-advisories/geoserver-security-advisory-av24-373)|Visit link for details|2024-07-08|
+ |[IBM security advisory (AV24-372)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-372)|Visit link for details|2024-07-08|
+ |[Ubuntu security advisory (AV24-371)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-371)|Visit link for details|2024-07-08|
+ |[Dell security advisory (AV24-370)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-370)|Visit link for details|2024-07-08|
+ |[RADIUS Protocol Susceptible to Forgery Attacks](https://www.cyber.gc.ca/en/alerts-advisories/radius-protocol-susceptible-forgery-attacks)|Visit link for details|2024-07-05|
+ |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
+ |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
+ |[Red Hat security advisory (AV24-367)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-367)|Visit link for details|2024-07-03|
  
