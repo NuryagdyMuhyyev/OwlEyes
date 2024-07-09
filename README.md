@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/07/2024 14:19:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/07/2024 15:19:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and Partners join ASD’S ACSC to Release Advisory on PRC State-Sponsored Group, APT 40](https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40)|Visit link for details.|Jul 08, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
+ |[Juniper Networks Releases Security Bulletin for Junos OS: SRX Series](https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series)|Visit link for details.|Jul 02, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
+ |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
+ |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
+ |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
+ |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,21 @@
  |[USN-6873-2: Linux kernel (StarFive) vulnerabilities](https://www.linux.org/threads/usn-6873-2-linux-kernel-starfive-vulnerabilities.50800/)|Visit link for details.|Jul 4, 2024|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA and Partners join ASD’S ACSC to Release Advisory on PRC State-Sponsored Group, APT 40](https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40)|Visit link for details.|Jul 08, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
- |[Juniper Networks Releases Security Bulletin for Junos OS: SRX Series](https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series)|Visit link for details.|Jul 02, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
- |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/27/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jun 27, 2024|
- |[CISA and Partners Release Guidance for Exploring Memory Safety in Critical Open Source Projects](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-and-partners-release-guidance-exploring-memory-safety-critical-open-source-projects)|Visit link for details.|Jun 26, 2024|
- |[ CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/06/26/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jun 26, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/06/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jun 25, 2024|
- |[Juniper Networks Releases Security Bulletin for Juniper Secure Analytics](https://www.cisa.gov/news-events/alerts/2024/06/21/juniper-networks-releases-security-bulletin-juniper-secure-analytics)|Visit link for details.|Jun 21, 2024|
+ |[Microsoft Windows - CVE-2023-21823](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-21823-2023-02-15)|Visit link for details.|09/07/2024|
+ |[OpenSSL - CVE-2024-4741](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2024-4741-2024-05-30)|Visit link for details.|09/07/2024|
+ |[Progress WhatsUp Gold - CVE-2024-4883](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4883-2024-06-26)|Visit link for details.|09/07/2024|
+ |[Microsoft Windows - CVE-2023-23376](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-23376-2023-02-15)|Visit link for details.|09/07/2024|
+ |[Microsoft SQL ODBC Driver - CVE-2023-21718](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sql-odbc-driver-cve-2023-21718-2023-02-21)|Visit link for details.|09/07/2024|
+ |[Microsoft Visual Studio - CVE-2023-23381](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-visual-studio-cve-2023-23381-2023-02-21)|Visit link for details.|09/07/2024|
+ |[Windows - CVE-2023-21768](https://www.cyberveille-sante.gouv.fr/alertes/windows-cve-2023-21768-2023-03-09)|Visit link for details.|09/07/2024|
+ |[jose4j - CVE-2023-51775](https://www.cyberveille-sante.gouv.fr/alertes/jose4j-cve-2023-51775-2024-07-08)|Visit link for details.|08/07/2024|
+ |[Trend Micro - CVE-2024-39753](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-39753-2024-07-08)|Visit link for details.|08/07/2024|
+ |[Rejetto - CVE-2024-39943](https://www.cyberveille-sante.gouv.fr/alertes/rejetto-cve-2024-39943-2024-07-08)|Visit link for details.|08/07/2024|
+ |[Linux - CVE-2024-39478](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-39478-2024-07-08)|Visit link for details.|08/07/2024|
  
 
 # CERT-FR
@@ -74,21 +91,17 @@
  |---|---|---|
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenSSL - CVE-2024-4741](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2024-4741-2024-05-30)|Visit link for details.|09/07/2024|
- |[Progress WhatsUp Gold - CVE-2024-4883](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4883-2024-06-26)|Visit link for details.|09/07/2024|
- |[jose4j - CVE-2023-51775](https://www.cyberveille-sante.gouv.fr/alertes/jose4j-cve-2023-51775-2024-07-08)|Visit link for details.|08/07/2024|
- |[Trend Micro - CVE-2024-39753](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-39753-2024-07-08)|Visit link for details.|08/07/2024|
- |[Rejetto - CVE-2024-39943](https://www.cyberveille-sante.gouv.fr/alertes/rejetto-cve-2024-39943-2024-07-08)|Visit link for details.|08/07/2024|
- |[Linux - CVE-2024-39478](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-39478-2024-07-08)|Visit link for details.|08/07/2024|
- |[Apache - CVE-2024-38474](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-38474-2024-07-08)|Visit link for details.|08/07/2024|
- |[Microsoft – Patch Tuesday – CVE-2023-21543](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21543-2023-01-11)|Visit link for details.|08/07/2024|
- |[Microsoft – Patch Tuesday – CVE-2023-21556](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21556-2023-01-12)|Visit link for details.|08/07/2024|
- |[Microsoft – Patch Tuesday – CVE-2023-21555](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21555-2023-01-11)|Visit link for details.|08/07/2024|
- |[Microsoft – Patch Tuesday – CVE-2023-21674](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-patch-tuesday-cve-2023-21674-2023-01-11)|Visit link for details.|08/07/2024|
+ |[Node.js security bypass (CVE-2024-37372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Node.js information disclosure (CVE-2024-22018)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Node.js security bypass (CVE-2024-36137)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Node.js code execution (CVE-2024-22020)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Node.js command execution (CVE-2024-36138)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Realtek rtl819x Jungle SDK buffer overflow (CVE-2023-41251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2024|
+ |[Realtek rtl819x Jungle SDK buffer overflow (CVE-2023-49073)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2024|
  
 
 # HK-CERT
@@ -105,19 +118,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 5 Jul 2024 |
  |[OpenSSH Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/openssh-remote-code-execution-vulnerability_20240702)|A vulnerability was identified in OpenSSH. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2024-6387 affected sshd(8) was present in Portable OpenSSH versions between 8.5p1 and 9.7p1...| Release Date: 2 Jul 2024 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240703)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 3 Jul 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Node.js security bypass (CVE-2024-37372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Node.js information disclosure (CVE-2024-22018)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Node.js security bypass (CVE-2024-36137)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Node.js code execution (CVE-2024-22020)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Node.js command execution (CVE-2024-36138)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Realtek rtl819x Jungle SDK buffer overflow (CVE-2023-41251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2024|
- |[Realtek rtl819x Jungle SDK buffer overflow (CVE-2023-49073)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 7, 2024|
  
 
 # ZERODAYINITIATIVE
