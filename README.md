@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/07/2024 07:35:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/07/2024 08:21:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,45 +68,10 @@
  |[USN-6866-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6866-2-linux-kernel-azure-vulnerabilities.50804/)|Visit link for details.|Jul 5, 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Premiere Pro Medium RiskRemote Code Execution APSB24-46Adobe InDesign Medium RiskRemote Code Execution ...|Release Date: 10 Jul 2024 |
- |[Microsoft Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesMicrosoft Dynamics Medium RiskInformation Disclosure Windows High RiskElevation of PrivilegeSecurity Restriction BypassSpoofingDenial of ServiceInformation Disclosure...|Release Date: 10 Jul 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 10 Jul 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system.|Release Date: 10 Jul 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Jul 2024 |
- |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-denial-of-service-vulnerability_20240709)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-4741 of the affected products.|Release Date: 9 Jul 2024 |
- |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240709)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 9 Jul 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240513)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-07-09]Updated Vulnerability...| Release Date: 13 May 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240709)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Jul 2024 |
- |[Ghostscript Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ghostscript-remote-code-execution-vulnerability_20240708)|A vulnerability was identified in Ghostscript. A remote attacker could exploit this vulnerability to trigger security restriction bypass and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-29510 exists on the internet.To exploit the vulnerability, ...|Release Date: 8 Jul 2024 |
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Windows MSHTML Platform spoofing (CVE-2024-38112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows fax Service code execution (CVE-2024-38104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Citrix NetScaler Console, Agent and SVM denial of service (CVE-2024-6236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Citrix NetScaler Console information disclosure (CVE-2024-6235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
  
 
 # CERT-SANTE
@@ -120,18 +91,33 @@
  |[Windows - CVE-2023-21768](https://www.cyberveille-sante.gouv.fr/alertes/windows-cve-2023-21768-2023-03-09)|Visit link for details.|09/07/2024|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
+ |[Microsoft Windows MSHTML Platform spoofing (CVE-2024-38112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows fax Service code execution (CVE-2024-38104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Citrix Workspace app for HTML5 open redirect (CVE-2024-6148)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Citrix NetScaler Console, Agent and SVM denial of service (CVE-2024-6236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Premiere Pro Medium RiskRemote Code Execution APSB24-46Adobe InDesign Medium RiskRemote Code Execution ...|Release Date: 10 Jul 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 10 Jul 2024 |
+ |[Microsoft Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesMicrosoft Dynamics Medium RiskInformation Disclosure Windows High RiskElevation of PrivilegeSecurity Restriction BypassSpoofingDenial of ServiceInformation Disclosure...|Release Date: 10 Jul 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 10 Jul 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system.|Release Date: 10 Jul 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 10 Jul 2024 |
+ |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-denial-of-service-vulnerability_20240709)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-4741 of the affected products.|Release Date: 9 Jul 2024 |
+ |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240709)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 9 Jul 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240513)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-07-09]Updated Vulnerability...| Release Date: 13 May 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240709)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Jul 2024 |
  
 
 # EU-CERT
@@ -149,6 +135,20 @@
  |[2024-058: Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2024-058/)|On June 6, 2024, a critical vulnerability was identified in certain versions of PHP that could allow the execution of arbitrary code or disclosure of sensitive information on Windows systems using Apache and PHP-CGI. The vulnerability is currently being actively exploited, and several proof of concepts are available.|Thursday, June 13, 2024 07:33:40 PM CEST|
  |[2024-057: Vulnerabilities in JetBrains Products](https://cert.europa.eu/publications/security-advisories/2024-057/)|On June 10, JetBrains released a fix for a vulnerability affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin. This vulnerability could lead to disclosure of access tokens to third-party sites.|Wednesday, June 12, 2024 04:09:19 PM CEST|
  |[2024-056: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-056/)|On June 11, 2024, Microsoft addressed 58 vulnerabilities in its June 2024 Patch Tuesday update, including one zero-day vulnerability (CVE-2023-50868). This Patch Tuesday also fixes one critical vulnerability (CVE-2024-30080), a Microsoft Message Queuing (MSMQ) remote code execution vulnerability. Finally, worth a mention are a couple of remote code execution vulnerabilities in Microsoft Outlook (CVE-2024-30103) and Windows Wi-Fi Driver (CVE-2024-30078).|Wednesday, June 19, 2024 03:49:19 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
 # MA-CERT
