@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/07/2024 03:17:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/07/2024 04:18:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6866-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6866-3-linux-kernel-azure-vulnerabilities.50888/)|Visit link for details.|Jul 10, 2024|
- |[USN-6868-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6868-2-linux-kernel-aws-vulnerabilities.50887/)|Visit link for details.|Jul 10, 2024|
- |[USN-6892-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6892-1-linux-kernel-ibm-vulnerabilities.50886/)|Visit link for details.|Jul 10, 2024|
- |[USN-6889-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6889-1-net-vulnerabilities.50879/)|Visit link for details.|Jul 10, 2024|
- |[USN-6890-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6890-1-firefox-vulnerabilities.50878/)|Visit link for details.|Jul 10, 2024|
- |[USN-6881-1: Exim vulnerability](https://www.linux.org/threads/usn-6881-1-exim-vulnerability.50875/)|Visit link for details.|Jul 10, 2024|
- |[USN-6888-1: Django vulnerabilities](https://www.linux.org/threads/usn-6888-1-django-vulnerabilities.50874/)|Visit link for details.|Jul 9, 2024|
- |[USN-6887-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6887-1-openssh-vulnerability.50869/)|Visit link for details.|Jul 9, 2024|
- |[USN-6886-1: Go vulnerabilities](https://www.linux.org/threads/usn-6886-1-go-vulnerabilities.50868/)|Visit link for details.|Jul 9, 2024|
- |[USN-6880-1: Tomcat vulnerability](https://www.linux.org/threads/usn-6880-1-tomcat-vulnerability.50860/)|Visit link for details.|Jul 9, 2024|
- |[USN-6885-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6885-1-apache-http-server-vulnerabilities.50855/)|Visit link for details.|Jul 8, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -68,27 +51,21 @@
  |---|---|---|
  
 
-# CERT-SANTE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft - CVE-2024-38112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38112-2024-07-10)|Visit link for details.|10/07/2024|
- |[Microsoft - CVE-2024-38080](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38080-2024-07-10)|Visit link for details.|10/07/2024|
- |[Microsoft - CVE-2024-35264](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-35264-2024-07-10)|Visit link for details.|10/07/2024|
- |[Fortinet - CVE-2024-23663](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23663-2024-07-10)|Visit link for details.|10/07/2024|
- |[Citrix - CVE-2024-6235](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-6235-2024-07-10)|Visit link for details.|10/07/2024|
- |[Microsoft Protocole HTTP – CVE-2023-23392](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-protocole-http-cve-2023-23392-2023-03-15)|Visit link for details.|10/07/2024|
- |[Microsoft Internet Control Message Protocol – CVE-2023-23415](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-internet-control-message-protocol-cve-2023-23415-2023-03-15)|Visit link for details.|10/07/2024|
- |[Microsoft - CVE-2023-23399](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-23399-2023-03-20)|Visit link for details.|10/07/2024|
- |[Microsoft - CVE-2023-23416](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-23416-2023-03-20)|Visit link for details.|10/07/2024|
- |[Microsoft - CVE-2023-21800](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21800-2023-03-22)|Visit link for details.|10/07/2024|
- |[WatchGuard - CVE-2024-4944](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-4944-2024-07-09)|Visit link for details.|09/07/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[USN-6866-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6866-3-linux-kernel-azure-vulnerabilities.50888/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6868-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6868-2-linux-kernel-aws-vulnerabilities.50887/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6892-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6892-1-linux-kernel-ibm-vulnerabilities.50886/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6889-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6889-1-net-vulnerabilities.50879/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6890-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6890-1-firefox-vulnerabilities.50878/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6881-1: Exim vulnerability](https://www.linux.org/threads/usn-6881-1-exim-vulnerability.50875/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6888-1: Django vulnerabilities](https://www.linux.org/threads/usn-6888-1-django-vulnerabilities.50874/)|Visit link for details.|Jul 9, 2024|
+ |[USN-6887-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6887-1-openssh-vulnerability.50869/)|Visit link for details.|Jul 9, 2024|
+ |[USN-6886-1: Go vulnerabilities](https://www.linux.org/threads/usn-6886-1-go-vulnerabilities.50868/)|Visit link for details.|Jul 9, 2024|
+ |[USN-6880-1: Tomcat vulnerability](https://www.linux.org/threads/usn-6880-1-tomcat-vulnerability.50860/)|Visit link for details.|Jul 9, 2024|
+ |[USN-6885-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6885-1-apache-http-server-vulnerabilities.50855/)|Visit link for details.|Jul 8, 2024|
  
 
 # HK-CERT
@@ -118,6 +95,29 @@
  |[Adobe InDesign code execution (CVE-2024-20782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
  |[Adobe InDesign buffer overflow (CVE-2024-20781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
  |[Adobe Premiere Pro code execution (CVE-2024-34123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2024-38112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38112-2024-07-10)|Visit link for details.|10/07/2024|
+ |[Microsoft - CVE-2024-38080](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38080-2024-07-10)|Visit link for details.|10/07/2024|
+ |[Microsoft - CVE-2024-35264](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-35264-2024-07-10)|Visit link for details.|10/07/2024|
+ |[Fortinet - CVE-2024-23663](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23663-2024-07-10)|Visit link for details.|10/07/2024|
+ |[Citrix - CVE-2024-6235](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-6235-2024-07-10)|Visit link for details.|10/07/2024|
+ |[Microsoft Protocole HTTP – CVE-2023-23392](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-protocole-http-cve-2023-23392-2023-03-15)|Visit link for details.|10/07/2024|
+ |[Microsoft Internet Control Message Protocol – CVE-2023-23415](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-internet-control-message-protocol-cve-2023-23415-2023-03-15)|Visit link for details.|10/07/2024|
+ |[Microsoft - CVE-2023-23399](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-23399-2023-03-20)|Visit link for details.|10/07/2024|
+ |[Microsoft - CVE-2023-23416](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-23416-2023-03-20)|Visit link for details.|10/07/2024|
+ |[Microsoft - CVE-2023-21800](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21800-2023-03-22)|Visit link for details.|10/07/2024|
+ |[WatchGuard - CVE-2024-4944](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-4944-2024-07-09)|Visit link for details.|09/07/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
