@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/07/2024 23:27:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/07/2024 00:18:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,18 +46,6 @@
  |[USN-6882-1: Cinder vulnerability](https://www.linux.org/threads/usn-6882-1-cinder-vulnerability.50850/)|Visit link for details.|Jul 8, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -72,6 +60,12 @@
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
  |[Juniper Networks Releases Security Bulletin for Junos OS: SRX Series](https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series)|Visit link for details.|Jul 02, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
@@ -91,17 +85,10 @@
  |[WatchGuard - CVE-2024-4944](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-4944-2024-07-09)|Visit link for details.|09/07/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe InDesign buffer overflow (CVE-2024-20781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Adobe Premiere Pro code execution (CVE-2024-34123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows MSHTML Platform spoofing (CVE-2024-38112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows fax Service code execution (CVE-2024-38104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
  
 
 # HK-CERT
@@ -118,6 +105,19 @@
  |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240709)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 9 Jul 2024 |
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240513)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-07-09]Updated Vulnerability...| Release Date: 13 May 2024 |
  |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240709)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Jul 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Bridge information disclosure (CVE-2024-34140)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe Bridge overflow (CVE-2024-34139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe InDesign buffer overflow (CVE-2024-20785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe InDesign buffer overflow (CVE-2024-20783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe InDesign code execution (CVE-2024-20782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe InDesign buffer overflow (CVE-2024-20781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe Premiere Pro code execution (CVE-2024-34123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
  
 
 # EU-CERT
@@ -155,6 +155,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Red Hat security advisory (AV24-380)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-380)|Visit link for details|2024-07-10|
  |[Adobe security advisory (AV24-379)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-379)|Visit link for details|2024-07-10|
  |[Mozilla security advisory (AV24-378)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-378)|Visit link for details|2024-07-10|
  |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
@@ -165,7 +166,6 @@
  |[IBM security advisory (AV24-372)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-372)|Visit link for details|2024-07-08|
  |[Ubuntu security advisory (AV24-371)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-371)|Visit link for details|2024-07-08|
  |[Dell security advisory (AV24-370)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-370)|Visit link for details|2024-07-08|
- |[RADIUS Protocol Susceptible to Forgery Attacks](https://www.cyber.gc.ca/en/alerts-advisories/radius-protocol-susceptible-forgery-attacks)|Visit link for details|2024-07-05|
  
 
 # MA-CERT
