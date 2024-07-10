@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/07/2024 15:20:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/07/2024 16:16:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,18 @@
  |[USN-6882-1: Cinder vulnerability](https://www.linux.org/threads/usn-6882-1-cinder-vulnerability.50850/)|Visit link for details.|Jul 8, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -77,12 +89,6 @@
  |[Microsoft Windows - CVE-2023-23376](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-23376-2023-02-15)|Visit link for details.|09/07/2024|
  |[Microsoft SQL ODBC Driver - CVE-2023-21718](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sql-odbc-driver-cve-2023-21718-2023-02-21)|Visit link for details.|09/07/2024|
  |[Windows - CVE-2023-21768](https://www.cyberveille-sante.gouv.fr/alertes/windows-cve-2023-21768-2023-03-09)|Visit link for details.|09/07/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -101,12 +107,6 @@
  |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240709)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Jul 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -116,8 +116,8 @@
  |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
  |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
  |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Fortinet FortiADC security bypass (CVE-2023-50181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Fortinet FortiADC man-in-the-middle (CVE-2023-50179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Django denial of service (CVE-2024-39614)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Django directory traversal (CVE-2024-39330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
  
 
 # EU-CERT
@@ -151,6 +151,23 @@
  |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48251007/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juillet… ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2024)| Microsoft annonce la correction de deux vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de…| 10 juillet 2024|
+ |[ 48211007/24 - Vulnérabilités critiques dans les produits de développement Microsoft … ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilites-critiques-dans-les-produits-de-developpement-microsoft-patch-tuesday)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits de développement Microsoft  susmentionnés y compris le zero-day « CVE-2024-35264”. L’exploitation de ces failles permet à un…| 10 juillet 2024|
+ |[ 48201007/24 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-juillet-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft SQL Server susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 10 juillet 2024|
+ |[ 48191007/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Juillet… ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-juillet-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code…| 10 juillet 2024|
+ |[ 48181007/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet… ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés y compris trois zero_day. Les zeo_day corrigés dans les systèmes…| 10 juillet 2024|
+ |[ 48171007/24 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juillet 2024) ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juillet-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 10 juillet 2024|
+ |[ 48231007/24 - Vulnérabilité critique affectant le plugin «Modern Events Calendar» pour… ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-modern-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.…| 10 juillet 2024|
+ |[ 48221007/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-14)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 juillet 2024|
+ |[ 48160907/24 - Vulnérabilités critiques dans Gogs Open-Source Git ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilites-critiques-dans-gogs-open-source-git)| Plusieurs vulnérabilités critiques ont été corrigées dans le service Gogs Open-Source Git. L'exploitation réussie de ces failles pourrait permettre à un attaquant authentifié d'injecter des arguments…| 09 juillet 2024|
+ |[ 48150807/24 - Vulnérabilité dans Apache HTTP Server ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilite-dans-apache-http-server)| Apache annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit Apache HTTP Server. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 08 juillet 2024|
+ |[ 48140807/24 - Vulnérabilité dans VMware Cloud Director Availability ](https://www.dgssi.gov.ma/index.php/fr/bulletins/vulnerabilite-dans-vmware-cloud-director-availability)| VMware annonce la correction d’une vulnérabilité affectant VMware Cloud Director Availability. L’exploitation de cette faille peut  permettre  à un attaquant d’exécuter du code arbitraire.| 08 juillet 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -166,21 +183,4 @@
  |[RADIUS Protocol Susceptible to Forgery Attacks](https://www.cyber.gc.ca/en/alerts-advisories/radius-protocol-susceptible-forgery-attacks)|Visit link for details|2024-07-05|
  |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
  |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48221007/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-14)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 juillet 2024|
- |[ 48160907/24 - Vulnérabilités critiques dans Gogs Open-Source Git ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gogs-open-source-git)| Plusieurs vulnérabilités critiques ont été corrigées dans le service Gogs Open-Source Git. L'exploitation réussie de ces failles pourrait permettre à un attaquant authentifié d'injecter des arguments…| 09 juillet 2024|
- |[ 48150807/24 - Vulnérabilité dans Apache HTTP Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-http-server)| Apache annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit Apache HTTP Server. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 08 juillet 2024|
- |[ 48140807/24 - Vulnérabilité dans VMware Cloud Director Availability ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-cloud-director-availability)| VMware annonce la correction d’une vulnérabilité affectant VMware Cloud Director Availability. L’exploitation de cette faille peut  permettre  à un attaquant d’exécuter du code arbitraire.| 08 juillet 2024|
- |[ 48130507/24 - Vulnérabilités dans les produits Splunk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-2)| Splunk a publié une mise à jour de sécurité pour corriger deux vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service…| 05 juillet 2024|
- |[ 48120507/24 - Vulnérabilités dans Python ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-python)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Python. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.| 05 juillet 2024|
- |[ 48110407/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco)| Une vulnérabilité critique a été corrigée dans les produits Cisco susmentionnés utilisant des versions vulnérables de OpenSSH. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du…| 04 juillet 2024|
- |[ 48100307/24 - Vulnérabilités dans les produits MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mongodb)| Plusieurs vulnérabilités ont été corrigées dans les produits MongoDB. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité de données, d’exécuter du code arbitraire…| 03 juillet 2024|
- |[ 48090307/24 - Vulnérabilités affectant Apache HTTP Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-http-server)| Apache annonce la correction de plusieurs vulnérabilités critiques affectant  les versions susmentionnées de son produit Apache HTTP Server. L’exploitation de ces vulnérabilités peut permettre à un…| 03 juillet 2024|
- |[ 48080307/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-8)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android . L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 03 juillet 2024|
- |[ 48070307/24 - Vulnérabilité affectant Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-juniper-junos-os)| Juniper annonce la correction d’une vulnérabilité   affectant  les versions susmentionnées  son     système d’exploitation Junos OS.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour…| 03 juillet 2024|
  
