@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/07/2024 19:17:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/07/2024 20:20:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,10 +68,40 @@
  |[USN-6882-1: Cinder vulnerability](https://www.linux.org/threads/usn-6882-1-cinder-vulnerability.50850/)|Visit link for details.|Jul 8, 2024|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft - CVE-2024-35264](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-35264-2024-07-10)|Visit link for details.|10/07/2024|
+ |[Fortinet - CVE-2024-23663](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23663-2024-07-10)|Visit link for details.|10/07/2024|
+ |[Citrix - CVE-2024-6235](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-6235-2024-07-10)|Visit link for details.|10/07/2024|
+ |[WatchGuard - CVE-2024-4944](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-4944-2024-07-09)|Visit link for details.|09/07/2024|
+ |[Siemens Medicalis - CVE-2024-37999](https://www.cyberveille-sante.gouv.fr/alertes/siemens-medicalis-cve-2024-37999-2024-07-09)|Visit link for details.|09/07/2024|
+ |[Rejetto HFS 2 - CVE-2024-23692](https://www.cyberveille-sante.gouv.fr/alertes/rejetto-hfs-2-cve-2024-23692-2024-07-09)|Visit link for details.|09/07/2024|
+ |[OpenSSH - CVE-2024-6409](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6409-2024-07-09)|Visit link for details.|09/07/2024|
+ |[D-Link - CVE-2024-39202](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-39202-2024-07-09)|Visit link for details.|09/07/2024|
+ |[Microsoft Windows - CVE-2023-21823](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-21823-2023-02-15)|Visit link for details.|09/07/2024|
+ |[OpenSSL - CVE-2024-4741](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2024-4741-2024-05-30)|Visit link for details.|09/07/2024|
+ |[Progress WhatsUp Gold - CVE-2024-4883](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4883-2024-06-26)|Visit link for details.|09/07/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Windows MSHTML Platform spoofing (CVE-2024-38112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows fax Service code execution (CVE-2024-38104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Johnson Controls Tyco Illustra cameras weak security (CVE-2024-32753)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
+ |[Fortinet FortiPortal security bypass (CVE-2024-21759)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
  
 
 # HK-CERT
@@ -84,40 +120,35 @@
  |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240709)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Jul 2024 |
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[WatchGuard - CVE-2024-4944](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-4944-2024-07-09)|Visit link for details.|09/07/2024|
- |[Siemens Medicalis - CVE-2024-37999](https://www.cyberveille-sante.gouv.fr/alertes/siemens-medicalis-cve-2024-37999-2024-07-09)|Visit link for details.|09/07/2024|
- |[Rejetto HFS 2 - CVE-2024-23692](https://www.cyberveille-sante.gouv.fr/alertes/rejetto-hfs-2-cve-2024-23692-2024-07-09)|Visit link for details.|09/07/2024|
- |[OpenSSH - CVE-2024-6409](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6409-2024-07-09)|Visit link for details.|09/07/2024|
- |[D-Link - CVE-2024-39202](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-39202-2024-07-09)|Visit link for details.|09/07/2024|
- |[Microsoft Windows - CVE-2023-21823](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-21823-2023-02-15)|Visit link for details.|09/07/2024|
- |[OpenSSL - CVE-2024-4741](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2024-4741-2024-05-30)|Visit link for details.|09/07/2024|
- |[Progress WhatsUp Gold - CVE-2024-4883](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4883-2024-06-26)|Visit link for details.|09/07/2024|
- |[Microsoft Windows - CVE-2023-23376](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-23376-2023-02-15)|Visit link for details.|09/07/2024|
- |[Microsoft SQL ODBC Driver - CVE-2023-21718](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sql-odbc-driver-cve-2023-21718-2023-02-21)|Visit link for details.|09/07/2024|
- |[Windows - CVE-2023-21768](https://www.cyberveille-sante.gouv.fr/alertes/windows-cve-2023-21768-2023-03-09)|Visit link for details.|09/07/2024|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Windows MSHTML Platform spoofing (CVE-2024-38112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows fax Service code execution (CVE-2024-38104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Fortinet FortiPortal security bypass (CVE-2024-21759)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Zoom Workplace App for Windows and Rooms App for Windows denial of service (CVE-2024-39821)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
+ |[Microsoft security advisory – July 2024 monthly rollup (AV24-376)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2024-monthly-rollup-av24-376)|Visit link for details|2024-07-09|
+ |[Citrix security advisory (AV24-375)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-375)|Visit link for details|2024-07-09|
+ |[[Control systems] CISA ICS security advisories (AV24-374)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-374)|Visit link for details|2024-07-09|
+ |[GeoServer security advisory (AV24-373)](https://www.cyber.gc.ca/en/alerts-advisories/geoserver-security-advisory-av24-373)|Visit link for details|2024-07-08|
+ |[IBM security advisory (AV24-372)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-372)|Visit link for details|2024-07-08|
+ |[Ubuntu security advisory (AV24-371)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-371)|Visit link for details|2024-07-08|
+ |[Dell security advisory (AV24-370)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-370)|Visit link for details|2024-07-08|
+ |[RADIUS Protocol Susceptible to Forgery Attacks](https://www.cyber.gc.ca/en/alerts-advisories/radius-protocol-susceptible-forgery-attacks)|Visit link for details|2024-07-05|
+ |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
+ |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
  
 
 # EU-CERT
@@ -152,35 +183,4 @@
  |[ 48231007/24 - Vulnérabilité critique affectant le plugin «Modern Events Calendar» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-modern-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.…| 10 juillet 2024|
  |[ 48221007/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-14)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 juillet 2024|
  |[ 48160907/24 - Vulnérabilités critiques dans Gogs Open-Source Git ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gogs-open-source-git)| Plusieurs vulnérabilités critiques ont été corrigées dans le service Gogs Open-Source Git. L'exploitation réussie de ces failles pourrait permettre à un attaquant authentifié d'injecter des arguments…| 09 juillet 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
- |[Microsoft security advisory – July 2024 monthly rollup (AV24-376)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2024-monthly-rollup-av24-376)|Visit link for details|2024-07-09|
- |[Citrix security advisory (AV24-375)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-375)|Visit link for details|2024-07-09|
- |[[Control systems] CISA ICS security advisories (AV24-374)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-374)|Visit link for details|2024-07-09|
- |[GeoServer security advisory (AV24-373)](https://www.cyber.gc.ca/en/alerts-advisories/geoserver-security-advisory-av24-373)|Visit link for details|2024-07-08|
- |[IBM security advisory (AV24-372)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-372)|Visit link for details|2024-07-08|
- |[Ubuntu security advisory (AV24-371)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-371)|Visit link for details|2024-07-08|
- |[Dell security advisory (AV24-370)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-370)|Visit link for details|2024-07-08|
- |[RADIUS Protocol Susceptible to Forgery Attacks](https://www.cyber.gc.ca/en/alerts-advisories/radius-protocol-susceptible-forgery-attacks)|Visit link for details|2024-07-05|
- |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
- |[HPE security advisory (AV24-368)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-368)|Visit link for details|2024-07-03|
  
