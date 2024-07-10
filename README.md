@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/07/2024 22:16:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/07/2024 23:27:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,40 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6889-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6889-1-net-vulnerabilities.50879/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6890-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6890-1-firefox-vulnerabilities.50878/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6881-1: Exim vulnerability](https://www.linux.org/threads/usn-6881-1-exim-vulnerability.50875/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6888-1: Django vulnerabilities](https://www.linux.org/threads/usn-6888-1-django-vulnerabilities.50874/)|Visit link for details.|Jul 9, 2024|
+ |[USN-6887-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6887-1-openssh-vulnerability.50869/)|Visit link for details.|Jul 9, 2024|
+ |[USN-6886-1: Go vulnerabilities](https://www.linux.org/threads/usn-6886-1-go-vulnerabilities.50868/)|Visit link for details.|Jul 9, 2024|
+ |[USN-6880-1: Tomcat vulnerability](https://www.linux.org/threads/usn-6880-1-tomcat-vulnerability.50860/)|Visit link for details.|Jul 9, 2024|
+ |[USN-6885-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6885-1-apache-http-server-vulnerabilities.50855/)|Visit link for details.|Jul 8, 2024|
+ |[USN-6884-1: Nova vulnerability](https://www.linux.org/threads/usn-6884-1-nova-vulnerability.50852/)|Visit link for details.|Jul 8, 2024|
+ |[USN-6883-1: OpenStack Glance vulnerability](https://www.linux.org/threads/usn-6883-1-openstack-glance-vulnerability.50851/)|Visit link for details.|Jul 8, 2024|
+ |[USN-6882-1: Cinder vulnerability](https://www.linux.org/threads/usn-6882-1-cinder-vulnerability.50850/)|Visit link for details.|Jul 8, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA and FBI Release Secure by Design Alert on Eliminating OS Command Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/07/10/cisa-and-fbi-release-secure-design-alert-eliminating-os-command-injection-vulnerabilities)|Visit link for details.|Jul 10, 2024|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
  |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/citrix-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
  |[Microsoft Releases July 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/07/09/microsoft-releases-july-2024-security-updates)|Visit link for details.|Jul 09, 2024|
@@ -42,13 +72,6 @@
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
  |[Juniper Networks Releases Security Bulletin for Junos OS: SRX Series](https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series)|Visit link for details.|Jul 02, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 02, 2024|
- |[Progress Software Releases Security Bulletin for MOVEit Transfer](https://www.cisa.gov/news-events/alerts/2024/06/28/progress-software-releases-security-bulletin-moveit-transfer)|Visit link for details.|Jun 28, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -68,10 +91,17 @@
  |[WatchGuard - CVE-2024-4944](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-4944-2024-07-09)|Visit link for details.|09/07/2024|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Adobe InDesign buffer overflow (CVE-2024-20781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe Premiere Pro code execution (CVE-2024-34123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows MSHTML Platform spoofing (CVE-2024-38112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows fax Service code execution (CVE-2024-38104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
  
 
 # HK-CERT
@@ -90,19 +120,6 @@
  |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240709)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Jul 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Windows MSHTML Platform spoofing (CVE-2024-38112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows fax Service code execution (CVE-2024-38104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Microsoft Windows Layer-2 Bridge Network Driver (CVE-2024-38102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Johnson Controls Software House C CURE 9000 information disclosure (CVE-2024-32861)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- |[Johnson Controls Software House C CURE 9000 security bypass (CVE-2024-32759)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 8, 2024|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -118,23 +135,6 @@
  |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
  |[2024-058: Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2024-058/)|On June 6, 2024, a critical vulnerability was identified in certain versions of PHP that could allow the execution of arbitrary code or disclosure of sensitive information on Windows systems using Apache and PHP-CGI. The vulnerability is currently being actively exploited, and several proof of concepts are available.|Thursday, June 13, 2024 07:33:40 PM CEST|
  |[2024-057: Vulnerabilities in JetBrains Products](https://cert.europa.eu/publications/security-advisories/2024-057/)|On June 10, JetBrains released a fix for a vulnerability affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin. This vulnerability could lead to disclosure of access tokens to third-party sites.|Wednesday, June 12, 2024 04:09:19 PM CEST|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6889-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6889-1-net-vulnerabilities.50879/)|Visit link for details.|Jul 10, 2024|
- |[USN-6890-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6890-1-firefox-vulnerabilities.50878/)|Visit link for details.|Jul 10, 2024|
- |[USN-6881-1: Exim vulnerability](https://www.linux.org/threads/usn-6881-1-exim-vulnerability.50875/)|Visit link for details.|Jul 10, 2024|
- |[USN-6888-1: Django vulnerabilities](https://www.linux.org/threads/usn-6888-1-django-vulnerabilities.50874/)|Visit link for details.|Jul 9, 2024|
- |[USN-6887-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6887-1-openssh-vulnerability.50869/)|Visit link for details.|Jul 9, 2024|
- |[USN-6886-1: Go vulnerabilities](https://www.linux.org/threads/usn-6886-1-go-vulnerabilities.50868/)|Visit link for details.|Jul 9, 2024|
- |[USN-6880-1: Tomcat vulnerability](https://www.linux.org/threads/usn-6880-1-tomcat-vulnerability.50860/)|Visit link for details.|Jul 9, 2024|
- |[USN-6885-1: Apache HTTP Server vulnerabilities](https://www.linux.org/threads/usn-6885-1-apache-http-server-vulnerabilities.50855/)|Visit link for details.|Jul 8, 2024|
- |[USN-6884-1: Nova vulnerability](https://www.linux.org/threads/usn-6884-1-nova-vulnerability.50852/)|Visit link for details.|Jul 8, 2024|
- |[USN-6883-1: OpenStack Glance vulnerability](https://www.linux.org/threads/usn-6883-1-openstack-glance-vulnerability.50851/)|Visit link for details.|Jul 8, 2024|
- |[USN-6882-1: Cinder vulnerability](https://www.linux.org/threads/usn-6882-1-cinder-vulnerability.50850/)|Visit link for details.|Jul 8, 2024|
  
 
 # ZERODAYINITIATIVE
@@ -155,6 +155,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Adobe security advisory (AV24-379)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-379)|Visit link for details|2024-07-10|
  |[Mozilla security advisory (AV24-378)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-378)|Visit link for details|2024-07-10|
  |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
  |[Microsoft security advisory – July 2024 monthly rollup (AV24-376)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2024-monthly-rollup-av24-376)|Visit link for details|2024-07-09|
@@ -165,7 +166,6 @@
  |[Ubuntu security advisory (AV24-371)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-371)|Visit link for details|2024-07-08|
  |[Dell security advisory (AV24-370)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-370)|Visit link for details|2024-07-08|
  |[RADIUS Protocol Susceptible to Forgery Attacks](https://www.cyber.gc.ca/en/alerts-advisories/radius-protocol-susceptible-forgery-attacks)|Visit link for details|2024-07-05|
- |[[Control systems] ABB security advisory (AV24-369)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-369)|Visit link for details|2024-07-04|
  
 
 # MA-CERT
