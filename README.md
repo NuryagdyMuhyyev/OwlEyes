@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/07/2024 14:19:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/07/2024 15:20:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6889-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6889-1-net-vulnerabilities.50879/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6890-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6890-1-firefox-vulnerabilities.50878/)|Visit link for details.|Jul 10, 2024|
  |[USN-6881-1: Exim vulnerability](https://www.linux.org/threads/usn-6881-1-exim-vulnerability.50875/)|Visit link for details.|Jul 10, 2024|
  |[USN-6888-1: Django vulnerabilities](https://www.linux.org/threads/usn-6888-1-django-vulnerabilities.50874/)|Visit link for details.|Jul 9, 2024|
  |[USN-6887-1: OpenSSH vulnerability](https://www.linux.org/threads/usn-6887-1-openssh-vulnerability.50869/)|Visit link for details.|Jul 9, 2024|
@@ -58,20 +60,6 @@
  |[USN-6884-1: Nova vulnerability](https://www.linux.org/threads/usn-6884-1-nova-vulnerability.50852/)|Visit link for details.|Jul 8, 2024|
  |[USN-6883-1: OpenStack Glance vulnerability](https://www.linux.org/threads/usn-6883-1-openstack-glance-vulnerability.50851/)|Visit link for details.|Jul 8, 2024|
  |[USN-6882-1: Cinder vulnerability](https://www.linux.org/threads/usn-6882-1-cinder-vulnerability.50850/)|Visit link for details.|Jul 8, 2024|
- |[DSA-5726-1 krb5 - security update](https://www.linux.org/threads/dsa-5726-1-krb5-security-update.50823/)|Visit link for details.|Jul 6, 2024|
- |[USN-6879-1: Virtuoso Open-Source Edition vulnerabilities](https://www.linux.org/threads/usn-6879-1-virtuoso-open-source-edition-vulnerabilities.50805/)|Visit link for details.|Jul 5, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -91,6 +79,12 @@
  |[Windows - CVE-2023-21768](https://www.cyberveille-sante.gouv.fr/alertes/windows-cve-2023-21768-2023-03-09)|Visit link for details.|09/07/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -105,6 +99,12 @@
  |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240709)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 9 Jul 2024 |
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240513)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-07-09]Updated Vulnerability...| Release Date: 13 May 2024 |
  |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240709)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Jul 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -172,6 +172,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 48221007/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-14)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 juillet 2024|
  |[ 48160907/24 - Vulnérabilités critiques dans Gogs Open-Source Git ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gogs-open-source-git)| Plusieurs vulnérabilités critiques ont été corrigées dans le service Gogs Open-Source Git. L'exploitation réussie de ces failles pourrait permettre à un attaquant authentifié d'injecter des arguments…| 09 juillet 2024|
  |[ 48150807/24 - Vulnérabilité dans Apache HTTP Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-http-server)| Apache annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit Apache HTTP Server. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 08 juillet 2024|
  |[ 48140807/24 - Vulnérabilité dans VMware Cloud Director Availability ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-cloud-director-availability)| VMware annonce la correction d’une vulnérabilité affectant VMware Cloud Director Availability. L’exploitation de cette faille peut  permettre  à un attaquant d’exécuter du code arbitraire.| 08 juillet 2024|
@@ -182,5 +183,4 @@
  |[ 48090307/24 - Vulnérabilités affectant Apache HTTP Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-http-server)| Apache annonce la correction de plusieurs vulnérabilités critiques affectant  les versions susmentionnées de son produit Apache HTTP Server. L’exploitation de ces vulnérabilités peut permettre à un…| 03 juillet 2024|
  |[ 48080307/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-8)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android . L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 03 juillet 2024|
  |[ 48070307/24 - Vulnérabilité affectant Juniper Junos OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-juniper-junos-os)| Juniper annonce la correction d’une vulnérabilité   affectant  les versions susmentionnées  son     système d’exploitation Junos OS.   Un attaquant distant  pourrait exploiter cette vulnérabilité pour…| 03 juillet 2024|
- |[ 48060207/24 - Vulnérabilité critique dans les produits Cisco NX-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-nx-os)| Cisco a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-20399) dans son logiciel Cisco NX-OS. Une exploitation réussie de cette faille pourrait permettre à un…| 02 juillet 2024|
  
