@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/07/2024 10:18:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/07/2024 11:25:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,12 +68,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -88,19 +82,6 @@
  |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-denial-of-service-vulnerability_20240709)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-4741 of the affected products.|Release Date: 9 Jul 2024 |
  |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240709)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 9 Jul 2024 |
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240513)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-07-09]Updated Vulnerability...| Release Date: 13 May 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware Aria Automation SQL injection (CVE-2024-22280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
- |[Cisco IOS XR security bypass (CVE-2024-20456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
- |[Adobe Bridge information disclosure (CVE-2024-34140)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Adobe Bridge overflow (CVE-2024-34139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Adobe InDesign buffer overflow (CVE-2024-20785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Adobe InDesign buffer overflow (CVE-2024-20783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
- |[Adobe InDesign code execution (CVE-2024-20782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
  
 
 # CERT-SANTE
@@ -120,6 +101,12 @@
  |[WatchGuard - CVE-2024-4944](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-4944-2024-07-09)|Visit link for details.|09/07/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -135,6 +122,23 @@
  |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
  |[2024-058: Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2024-058/)|On June 6, 2024, a critical vulnerability was identified in certain versions of PHP that could allow the execution of arbitrary code or disclosure of sensitive information on Windows systems using Apache and PHP-CGI. The vulnerability is currently being actively exploited, and several proof of concepts are available.|Thursday, June 13, 2024 07:33:40 PM CEST|
  |[2024-057: Vulnerabilities in JetBrains Products](https://cert.europa.eu/publications/security-advisories/2024-057/)|On June 10, JetBrains released a fix for a vulnerability affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin. This vulnerability could lead to disclosure of access tokens to third-party sites.|Wednesday, June 12, 2024 04:09:19 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48271007/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-13)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 juillet 2024|
+ |[ 48241007/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-4)| Citrix annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire,…| 10 juillet 2024|
+ |[ 48251007/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juillet… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2024)| Microsoft annonce la correction de deux vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de…| 10 juillet 2024|
+ |[ 48211007/24 - Vulnérabilités critiques dans les produits de développement Microsoft … ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-de-developpement-microsoft-patch-tuesday)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits de développement Microsoft  susmentionnés y compris le zero-day « CVE-2024-35264”. L’exploitation de ces failles permet à un…| 10 juillet 2024|
+ |[ 48201007/24 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-juillet-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft SQL Server susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 10 juillet 2024|
+ |[ 48191007/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Juillet… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-juillet-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code…| 10 juillet 2024|
+ |[ 48181007/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés y compris trois zero_day. Les zeo_day corrigés dans les systèmes…| 10 juillet 2024|
+ |[ 48171007/24 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juillet 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juillet-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 10 juillet 2024|
+ |[ 48231007/24 - Vulnérabilité critique affectant le plugin «Modern Events Calendar» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-modern-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.…| 10 juillet 2024|
+ |[ 48221007/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-14)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 juillet 2024|
+ |[ 48160907/24 - Vulnérabilités critiques dans Gogs Open-Source Git ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gogs-open-source-git)| Plusieurs vulnérabilités critiques ont été corrigées dans le service Gogs Open-Source Git. L'exploitation réussie de ces failles pourrait permettre à un attaquant authentifié d'injecter des arguments…| 09 juillet 2024|
  
 
 # ZERODAYINITIATIVE
@@ -168,19 +172,15 @@
  |[GeoServer security advisory (AV24-373)](https://www.cyber.gc.ca/en/alerts-advisories/geoserver-security-advisory-av24-373)|Visit link for details|2024-07-08|
  
 
-# MA-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 48271007/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-13)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 juillet 2024|
- |[ 48241007/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-4)| Citrix annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire,…| 10 juillet 2024|
- |[ 48251007/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juillet… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2024)| Microsoft annonce la correction de deux vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de…| 10 juillet 2024|
- |[ 48211007/24 - Vulnérabilités critiques dans les produits de développement Microsoft … ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-de-developpement-microsoft-patch-tuesday)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits de développement Microsoft  susmentionnés y compris le zero-day « CVE-2024-35264”. L’exploitation de ces failles permet à un…| 10 juillet 2024|
- |[ 48201007/24 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-juillet-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft SQL Server susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 10 juillet 2024|
- |[ 48191007/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Juillet… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-juillet-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code…| 10 juillet 2024|
- |[ 48181007/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés y compris trois zero_day. Les zeo_day corrigés dans les systèmes…| 10 juillet 2024|
- |[ 48171007/24 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Juillet 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-juillet-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 10 juillet 2024|
- |[ 48231007/24 - Vulnérabilité critique affectant le plugin «Modern Events Calendar» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-modern-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.…| 10 juillet 2024|
- |[ 48221007/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-14)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 juillet 2024|
- |[ 48160907/24 - Vulnérabilités critiques dans Gogs Open-Source Git ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gogs-open-source-git)| Plusieurs vulnérabilités critiques ont été corrigées dans le service Gogs Open-Source Git. L'exploitation réussie de ces failles pourrait permettre à un attaquant authentifié d'injecter des arguments…| 09 juillet 2024|
+ |[VMware Aria Automation SQL injection (CVE-2024-22280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
+ |[Cisco IOS XR security bypass (CVE-2024-20456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
+ |[Adobe Bridge information disclosure (CVE-2024-34140)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe Bridge overflow (CVE-2024-34139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe InDesign buffer overflow (CVE-2024-20785)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe InDesign buffer overflow (CVE-2024-20783)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
+ |[Adobe InDesign code execution (CVE-2024-20782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 9, 2024|
  
