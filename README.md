@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/07/2024 22:17:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/07/2024 23:24:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,29 +45,6 @@
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6891-1: Python vulnerabilities](https://www.linux.org/threads/usn-6891-1-python-vulnerabilities.50902/)|Visit link for details.|Jul 11, 2024|
- |[USN-6888-2: Django vulnerabilities](https://www.linux.org/threads/usn-6888-2-django-vulnerabilities.50901/)|Visit link for details.|Jul 11, 2024|
- |[DSA-5728-1 exim4 - security update](https://www.linux.org/threads/dsa-5728-1-exim4-security-update.50891/)|Visit link for details.|Jul 11, 2024|
- |[DSA-5727-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5727-1-firefox-esr-security-update.50890/)|Visit link for details.|Jul 11, 2024|
- |[USN-6866-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6866-3-linux-kernel-azure-vulnerabilities.50888/)|Visit link for details.|Jul 10, 2024|
- |[USN-6868-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6868-2-linux-kernel-aws-vulnerabilities.50887/)|Visit link for details.|Jul 10, 2024|
- |[USN-6892-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6892-1-linux-kernel-ibm-vulnerabilities.50886/)|Visit link for details.|Jul 10, 2024|
- |[USN-6889-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6889-1-net-vulnerabilities.50879/)|Visit link for details.|Jul 10, 2024|
- |[USN-6890-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6890-1-firefox-vulnerabilities.50878/)|Visit link for details.|Jul 10, 2024|
- |[USN-6881-1: Exim vulnerability](https://www.linux.org/threads/usn-6881-1-exim-vulnerability.50875/)|Visit link for details.|Jul 10, 2024|
- |[USN-6888-1: Django vulnerabilities](https://www.linux.org/threads/usn-6888-1-django-vulnerabilities.50874/)|Visit link for details.|Jul 9, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -85,7 +62,7 @@
  |[Microsoft - CVE-2024-38112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38112-2024-07-10)|Visit link for details.|10/07/2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -105,6 +82,29 @@
  |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-denial-of-service-vulnerability_20240709)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-4741 of the affected products.|Release Date: 9 Jul 2024 |
  |[Node.js Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20240709)|Multiple vulnerabilities have been identified in Node.js. A remote attacker can exploit these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 9 Jul 2024 |
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240513)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-07-09]Updated Vulnerability...| Release Date: 13 May 2024 |
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6891-1: Python vulnerabilities](https://www.linux.org/threads/usn-6891-1-python-vulnerabilities.50902/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6888-2: Django vulnerabilities](https://www.linux.org/threads/usn-6888-2-django-vulnerabilities.50901/)|Visit link for details.|Jul 11, 2024|
+ |[DSA-5728-1 exim4 - security update](https://www.linux.org/threads/dsa-5728-1-exim4-security-update.50891/)|Visit link for details.|Jul 11, 2024|
+ |[DSA-5727-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5727-1-firefox-esr-security-update.50890/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6866-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6866-3-linux-kernel-azure-vulnerabilities.50888/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6868-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6868-2-linux-kernel-aws-vulnerabilities.50887/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6892-1: Linux kernel (IBM) vulnerabilities](https://www.linux.org/threads/usn-6892-1-linux-kernel-ibm-vulnerabilities.50886/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6889-1: .NET vulnerabilities](https://www.linux.org/threads/usn-6889-1-net-vulnerabilities.50879/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6890-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6890-1-firefox-vulnerabilities.50878/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6881-1: Exim vulnerability](https://www.linux.org/threads/usn-6881-1-exim-vulnerability.50875/)|Visit link for details.|Jul 10, 2024|
+ |[USN-6888-1: Django vulnerabilities](https://www.linux.org/threads/usn-6888-1-django-vulnerabilities.50874/)|Visit link for details.|Jul 9, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -151,6 +151,23 @@
  |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab security advisory (AV24-386)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-386)|Visit link for details|2024-07-11|
+ |[[Control systems] Siemens security advisory (AV24-385)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-385)|Visit link for details|2024-07-11|
+ |[VMware security advisory (AV24-384)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-384)|Visit link for details|2024-07-11|
+ |[Palo Alto Networks security advisory (AV24-383)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-383)|Visit link for details|2024-07-10|
+ |[SAP security advisory – July 2024 monthly rollup (AV24-382)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-july-2024-monthly-rollup-av24-382)|Visit link for details|2024-07-10|
+ |[[Control systems] Schneider Electric security advisory (AV24-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-381)|Visit link for details|2024-07-10|
+ |[Red Hat security advisory (AV24-380)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-380)|Visit link for details|2024-07-10|
+ |[Adobe security advisory (AV24-379)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-379)|Visit link for details|2024-07-10|
+ |[Mozilla security advisory (AV24-378)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-378)|Visit link for details|2024-07-10|
+ |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
+ |[Microsoft security advisory – July 2024 monthly rollup (AV24-376)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2024-monthly-rollup-av24-376)|Visit link for details|2024-07-09|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -166,21 +183,4 @@
  |[ 48251007/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Juillet… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2024)| Microsoft annonce la correction de deux vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de…| 10 juillet 2024|
  |[ 48211007/24 - Vulnérabilités critiques dans les produits de développement Microsoft … ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-de-developpement-microsoft-patch-tuesday)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits de développement Microsoft  susmentionnés y compris le zero-day « CVE-2024-35264”. L’exploitation de ces failles permet à un…| 10 juillet 2024|
  |[ 48201007/24 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-juillet-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft SQL Server susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance. | 10 juillet 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto Networks security advisory (AV24-383)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-383)|Visit link for details|2024-07-10|
- |[SAP security advisory – July 2024 monthly rollup (AV24-382)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-july-2024-monthly-rollup-av24-382)|Visit link for details|2024-07-10|
- |[[Control systems] Schneider Electric security advisory (AV24-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-381)|Visit link for details|2024-07-10|
- |[Red Hat security advisory (AV24-380)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-380)|Visit link for details|2024-07-10|
- |[Adobe security advisory (AV24-379)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-379)|Visit link for details|2024-07-10|
- |[Mozilla security advisory (AV24-378)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-378)|Visit link for details|2024-07-10|
- |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
- |[Microsoft security advisory – July 2024 monthly rollup (AV24-376)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2024-monthly-rollup-av24-376)|Visit link for details|2024-07-09|
- |[Citrix security advisory (AV24-375)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-375)|Visit link for details|2024-07-09|
- |[[Control systems] CISA ICS security advisories (AV24-374)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-374)|Visit link for details|2024-07-09|
- |[GeoServer security advisory (AV24-373)](https://www.cyber.gc.ca/en/alerts-advisories/geoserver-security-advisory-av24-373)|Visit link for details|2024-07-08|
  
