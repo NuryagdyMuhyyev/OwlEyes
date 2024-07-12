@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/07/2024 13:24:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/07/2024 14:20:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
- |[CISA Releases Twenty-one Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2024|
- |[CISA and FBI Release Secure by Design Alert on Eliminating OS Command Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/07/10/cisa-and-fbi-release-secure-design-alert-eliminating-os-command-injection-vulnerabilities)|Visit link for details.|Jul 10, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
- |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/citrix-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
- |[Microsoft Releases July 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/07/09/microsoft-releases-july-2024-security-updates)|Visit link for details.|Jul 09, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 09, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 09, 2024|
- |[CISA and Partners join ASD’S ACSC to Release Advisory on PRC State-Sponsored Group, APT 40](https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40)|Visit link for details.|Jul 08, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +50,39 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ServiceNow - CVE-2024-4879](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-4879-2024-07-11)|Visit link for details.|11/07/2024|
+ |[FreeRadius - CVE-2024-3596](https://www.cyberveille-sante.gouv.fr/alertes/freeradius-cve-2024-3596-2024-07-11)|Visit link for details.|11/07/2024|
+ |[Palo Alto - CVE-2024-5910](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-5910-2024-07-11)|Visit link for details.|11/07/2024|
+ |[Mozilla - CVE-2024-6605](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-6605-2024-07-11)|Visit link for details.|11/07/2024|
+ |[GitLab - CVE-2024-6385](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6385-2024-07-11)|Visit link for details.|11/07/2024|
+ |[Microsoft - CVE-2023-21554](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21554-2023-04-14)|Visit link for details.|11/07/2024|
+ |[Microsoft Windows - CVE-2023-24941](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24941-2023-05-10)|Visit link for details.|11/07/2024|
+ |[Microsoft - CVE-2023-28250](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-28250-2023-04-14)|Visit link for details.|11/07/2024|
+ |[Microsoft Windows - CVE-2023-29336](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-29336-2023-05-11)|Visit link for details.|11/07/2024|
+ |[Microsoft - CVE-2023-24947](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24947-2023-05-12)|Visit link for details.|11/07/2024|
+ |[Microsoft - CVE-2024-38112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38112-2024-07-10)|Visit link for details.|10/07/2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
+ |[CISA Releases Twenty-one Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2024|
+ |[CISA and FBI Release Secure by Design Alert on Eliminating OS Command Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/07/10/cisa-and-fbi-release-secure-design-alert-eliminating-os-command-injection-vulnerabilities)|Visit link for details.|Jul 10, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
+ |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/citrix-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
+ |[Microsoft Releases July 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/07/09/microsoft-releases-july-2024-security-updates)|Visit link for details.|Jul 09, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 09, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 09, 2024|
+ |[CISA and Partners join ASD’S ACSC to Release Advisory on PRC State-Sponsored Group, APT 40](https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40)|Visit link for details.|Jul 08, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/02/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 02, 2024|
  
 
 # HK-CERT
@@ -101,23 +118,6 @@
  |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2024-39549)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
  |[NETGEAR RAX security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
  |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2024-39552)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[ServiceNow - CVE-2024-4879](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-4879-2024-07-11)|Visit link for details.|11/07/2024|
- |[FreeRadius - CVE-2024-3596](https://www.cyberveille-sante.gouv.fr/alertes/freeradius-cve-2024-3596-2024-07-11)|Visit link for details.|11/07/2024|
- |[Palo Alto - CVE-2024-5910](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-5910-2024-07-11)|Visit link for details.|11/07/2024|
- |[Mozilla - CVE-2024-6605](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-6605-2024-07-11)|Visit link for details.|11/07/2024|
- |[GitLab - CVE-2024-6385](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6385-2024-07-11)|Visit link for details.|11/07/2024|
- |[Microsoft - CVE-2023-21554](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-21554-2023-04-14)|Visit link for details.|11/07/2024|
- |[Microsoft Windows - CVE-2023-24941](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24941-2023-05-10)|Visit link for details.|11/07/2024|
- |[Microsoft - CVE-2023-28250](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-28250-2023-04-14)|Visit link for details.|11/07/2024|
- |[Microsoft Windows - CVE-2023-29336](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-29336-2023-05-11)|Visit link for details.|11/07/2024|
- |[Microsoft - CVE-2023-24947](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24947-2023-05-12)|Visit link for details.|11/07/2024|
- |[Microsoft - CVE-2024-38112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38112-2024-07-10)|Visit link for details.|10/07/2024|
  
 
 # ZERODAYINITIATIVE
