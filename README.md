@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/07/2024 00:14:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/07/2024 01:18:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,29 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38076](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38076-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38060](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38060-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38023](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38023-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft Windows - CVE-2023-28283](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-28283-2023-05-16)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2023-24949](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24949-2023-05-12)|Visit link for details.|12/07/2024|
- |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|12/07/2024|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2023-24950](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24950-2023-05-15)|Visit link for details.|12/07/2024|
- |[Cisco - CVE-2023-20105](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20105-2023-06-08)|Visit link for details.|12/07/2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -66,22 +43,6 @@
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 09, 2024|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 09, 2024|
  |[CISA and Partners join ASD’S ACSC to Release Advisory on PRC State-Sponsored Group, APT 40](https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40)|Visit link for details.|Jul 08, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240712)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Jul 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-...| Release Date: 10 Jul 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240711)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and data manipulation on the targeted system.|Release Date: 11 Jul 2024 |
- |[Adobe Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Premiere Pro Medium RiskRemote Code Execution APSB24-46Adobe InDesign Medium RiskRemote Code Execution ...|Release Date: 10 Jul 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 10 Jul 2024 |
- |[Microsoft Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesMicrosoft Dynamics Medium RiskInformation Disclosure Windows High RiskElevation of PrivilegeSecurity Restriction BypassSpoofingDenial of ServiceInformation Disclosure...|Release Date: 10 Jul 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 10 Jul 2024 |
- |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-denial-of-service-vulnerability_20240709)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-4741 of the affected products.|Release Date: 9 Jul 2024 |
  
 
 # LINUX-SEC
@@ -101,6 +62,51 @@
  |[DSA-5727-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5727-1-firefox-esr-security-update.50890/)|Visit link for details.|Jul 11, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240712)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Jul 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-...| Release Date: 10 Jul 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240711)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and data manipulation on the targeted system.|Release Date: 11 Jul 2024 |
+ |[Adobe Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Premiere Pro Medium RiskRemote Code Execution APSB24-46Adobe InDesign Medium RiskRemote Code Execution ...|Release Date: 10 Jul 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. |Release Date: 10 Jul 2024 |
+ |[Microsoft Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesMicrosoft Dynamics Medium RiskInformation Disclosure Windows High RiskElevation of PrivilegeSecurity Restriction BypassSpoofingDenial of ServiceInformation Disclosure...|Release Date: 10 Jul 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 10 Jul 2024 |
+ |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-denial-of-service-vulnerability_20240709)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-4741 of the affected products.|Release Date: 9 Jul 2024 |
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38076](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38076-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38060](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38060-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38023](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38023-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft Windows - CVE-2023-28283](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-28283-2023-05-16)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2023-24949](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24949-2023-05-12)|Visit link for details.|12/07/2024|
+ |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|12/07/2024|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2023-24950](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24950-2023-05-15)|Visit link for details.|12/07/2024|
+ |[Cisco - CVE-2023-20105](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20105-2023-06-08)|Visit link for details.|12/07/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -112,12 +118,6 @@
  |[Juniper Networks Junos OS Evolved denial of service (CVE-2024-39519)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
  |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2024-39536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
  |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2024-39541)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -132,23 +132,6 @@
  |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
  |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
  |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Mitel security advisory (AV24-387)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-387)|Visit link for details|2024-07-11|
- |[GitLab security advisory (AV24-386)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-386)|Visit link for details|2024-07-11|
- |[[Control systems] Siemens security advisory (AV24-385)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-385)|Visit link for details|2024-07-11|
- |[VMware security advisory (AV24-384)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-384)|Visit link for details|2024-07-11|
- |[Palo Alto Networks security advisory (AV24-383)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-383)|Visit link for details|2024-07-10|
- |[SAP security advisory – July 2024 monthly rollup (AV24-382)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-july-2024-monthly-rollup-av24-382)|Visit link for details|2024-07-10|
- |[[Control systems] Schneider Electric security advisory (AV24-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-381)|Visit link for details|2024-07-10|
- |[Red Hat security advisory (AV24-380)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-380)|Visit link for details|2024-07-10|
- |[Adobe security advisory (AV24-379)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-379)|Visit link for details|2024-07-10|
- |[Mozilla security advisory (AV24-378)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-378)|Visit link for details|2024-07-10|
- |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
  
 
 # EU-CERT
@@ -166,6 +149,23 @@
  |[2024-060: Vulnerabilities in VMware Products](https://cert.europa.eu/publications/security-advisories/2024-060/)|On June 17, 2024, VMware released fixes for three vulnerabilities affecting VMware vCenter Server and VMware Cloud Foundation. Two of these vulnerabilities are critical. Exploitation these vulnerabilities could allow a malicious actor to execute remote code or escalate privileges on the affected systems.|Tuesday, June 18, 2024 06:44:15 PM CEST|
  |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
  |[2024-058: Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2024-058/)|On June 6, 2024, a critical vulnerability was identified in certain versions of PHP that could allow the execution of arbitrary code or disclosure of sensitive information on Windows systems using Apache and PHP-CGI. The vulnerability is currently being actively exploited, and several proof of concepts are available.|Thursday, June 13, 2024 07:33:40 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitel security advisory (AV24-387)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-387)|Visit link for details|2024-07-11|
+ |[GitLab security advisory (AV24-386)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-386)|Visit link for details|2024-07-11|
+ |[[Control systems] Siemens security advisory (AV24-385)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-385)|Visit link for details|2024-07-11|
+ |[VMware security advisory (AV24-384)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-384)|Visit link for details|2024-07-11|
+ |[Palo Alto Networks security advisory (AV24-383)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-383)|Visit link for details|2024-07-10|
+ |[SAP security advisory – July 2024 monthly rollup (AV24-382)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-july-2024-monthly-rollup-av24-382)|Visit link for details|2024-07-10|
+ |[[Control systems] Schneider Electric security advisory (AV24-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-381)|Visit link for details|2024-07-10|
+ |[Red Hat security advisory (AV24-380)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-380)|Visit link for details|2024-07-10|
+ |[Adobe security advisory (AV24-379)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-379)|Visit link for details|2024-07-10|
+ |[Mozilla security advisory (AV24-378)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-378)|Visit link for details|2024-07-10|
+ |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
  
 
 # MA-CERT
