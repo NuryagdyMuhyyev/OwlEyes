@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/07/2024 01:18:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/07/2024 02:17:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,7 +62,30 @@
  |[DSA-5727-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5727-1-firefox-esr-security-update.50890/)|Visit link for details.|Jul 11, 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38076](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38076-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38060](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38060-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38023](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38023-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft Windows - CVE-2023-28283](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-28283-2023-05-16)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2023-24949](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24949-2023-05-12)|Visit link for details.|12/07/2024|
+ |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|12/07/2024|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2023-24950](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24950-2023-05-15)|Visit link for details.|12/07/2024|
+ |[Cisco - CVE-2023-20105](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20105-2023-06-08)|Visit link for details.|12/07/2024|
+ 
+
 # CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -84,29 +107,6 @@
  |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-denial-of-service-vulnerability_20240709)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-4741 of the affected products.|Release Date: 9 Jul 2024 |
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38076](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38076-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38060](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38060-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38023](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38023-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft Windows - CVE-2023-28283](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-28283-2023-05-16)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2023-24949](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24949-2023-05-12)|Visit link for details.|12/07/2024|
- |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|12/07/2024|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2023-24950](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24950-2023-05-15)|Visit link for details.|12/07/2024|
- |[Cisco - CVE-2023-20105](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20105-2023-06-08)|Visit link for details.|12/07/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,20 +118,6 @@
  |[Juniper Networks Junos OS Evolved denial of service (CVE-2024-39519)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
  |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2024-39536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
  |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2024-39541)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
 # EU-CERT
@@ -151,21 +137,18 @@
  |[2024-058: Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2024-058/)|On June 6, 2024, a critical vulnerability was identified in certain versions of PHP that could allow the execution of arbitrary code or disclosure of sensitive information on Windows systems using Apache and PHP-CGI. The vulnerability is currently being actively exploited, and several proof of concepts are available.|Thursday, June 13, 2024 07:33:40 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Mitel security advisory (AV24-387)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-387)|Visit link for details|2024-07-11|
- |[GitLab security advisory (AV24-386)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-386)|Visit link for details|2024-07-11|
- |[[Control systems] Siemens security advisory (AV24-385)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-385)|Visit link for details|2024-07-11|
- |[VMware security advisory (AV24-384)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-384)|Visit link for details|2024-07-11|
- |[Palo Alto Networks security advisory (AV24-383)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-383)|Visit link for details|2024-07-10|
- |[SAP security advisory – July 2024 monthly rollup (AV24-382)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-july-2024-monthly-rollup-av24-382)|Visit link for details|2024-07-10|
- |[[Control systems] Schneider Electric security advisory (AV24-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-381)|Visit link for details|2024-07-10|
- |[Red Hat security advisory (AV24-380)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-380)|Visit link for details|2024-07-10|
- |[Adobe security advisory (AV24-379)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-379)|Visit link for details|2024-07-10|
- |[Mozilla security advisory (AV24-378)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-378)|Visit link for details|2024-07-10|
- |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold OnMessage Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-891/)|Visit link for details|2024-07-03|
  
 
 # MA-CERT
@@ -182,4 +165,21 @@
  |[ 48291107/24 - Vulnérabilité affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssh-0)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité au niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  d’exécuter…| 11 juillet 2024|
  |[ 48301107/24 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla-0)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données et de réussir une injection de…| 11 juillet 2024|
  |[ 48281107/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-8)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction   de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut…| 11 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitel security advisory (AV24-387)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-387)|Visit link for details|2024-07-11|
+ |[GitLab security advisory (AV24-386)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-386)|Visit link for details|2024-07-11|
+ |[[Control systems] Siemens security advisory (AV24-385)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-385)|Visit link for details|2024-07-11|
+ |[VMware security advisory (AV24-384)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-384)|Visit link for details|2024-07-11|
+ |[Palo Alto Networks security advisory (AV24-383)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-383)|Visit link for details|2024-07-10|
+ |[SAP security advisory – July 2024 monthly rollup (AV24-382)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-july-2024-monthly-rollup-av24-382)|Visit link for details|2024-07-10|
+ |[[Control systems] Schneider Electric security advisory (AV24-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-381)|Visit link for details|2024-07-10|
+ |[Red Hat security advisory (AV24-380)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-380)|Visit link for details|2024-07-10|
+ |[Adobe security advisory (AV24-379)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-379)|Visit link for details|2024-07-10|
+ |[Mozilla security advisory (AV24-378)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-378)|Visit link for details|2024-07-10|
+ |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
  
