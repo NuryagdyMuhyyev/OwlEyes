@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/07/2024 10:18:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/07/2024 11:28:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[CISA and Partners join ASD’S ACSC to Release Advisory on PRC State-Sponsored Group, APT 40](https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40)|Visit link for details.|Jul 08, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6896-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-1-linux-kernel-vulnerabilities.50922/)|Visit link for details.|Jul 12, 2024|
- |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
- |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
- |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
- |[USN-6894-1: Apport vulnerabilities](https://www.linux.org/threads/usn-6894-1-apport-vulnerabilities.50909/)|Visit link for details.|Jul 11, 2024|
- |[USN-6893-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-1-linux-kernel-vulnerabilities.50908/)|Visit link for details.|Jul 11, 2024|
- |[USN-6885-2: Apache HTTP Server regression](https://www.linux.org/threads/usn-6885-2-apache-http-server-regression.50907/)|Visit link for details.|Jul 11, 2024|
- |[USN-6891-1: Python vulnerabilities](https://www.linux.org/threads/usn-6891-1-python-vulnerabilities.50902/)|Visit link for details.|Jul 11, 2024|
- |[USN-6888-2: Django vulnerabilities](https://www.linux.org/threads/usn-6888-2-django-vulnerabilities.50901/)|Visit link for details.|Jul 11, 2024|
- |[DSA-5728-1 exim4 - security update](https://www.linux.org/threads/dsa-5728-1-exim4-security-update.50891/)|Visit link for details.|Jul 11, 2024|
- |[DSA-5727-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5727-1-firefox-esr-security-update.50890/)|Visit link for details.|Jul 11, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -84,6 +67,23 @@
  |[Adobe Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Premiere Pro Medium RiskRemote Code Execution APSB24-46Adobe InDesign Medium RiskRemote Code Execution ...|Release Date: 10 Jul 2024 |
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38076](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38076-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38060](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38060-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38023](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38023-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft Windows - CVE-2023-28283](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-28283-2023-05-16)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2023-24949](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24949-2023-05-12)|Visit link for details.|12/07/2024|
+ |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|12/07/2024|
+ |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2023-24950](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24950-2023-05-15)|Visit link for details.|12/07/2024|
+ |[Cisco - CVE-2023-20105](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20105-2023-06-08)|Visit link for details.|12/07/2024|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -101,23 +101,6 @@
  |[IBM Datacap Navigator directory traversal (CVE-2024-39741)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2024|
  |[IBM Datacap Navigator information disclosure (CVE-2024-39740)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2024|
  |[IBM Datacap Navigator server-side request forgery (CVE-2024-39739)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38076](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38076-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38060](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38060-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38023](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38023-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft Windows - CVE-2023-28283](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-28283-2023-05-16)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2023-24949](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24949-2023-05-12)|Visit link for details.|12/07/2024|
- |[PHP - CVE-2024-4577](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-4577-2024-06-10)|Visit link for details.|12/07/2024|
- |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2023-24950](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24950-2023-05-15)|Visit link for details.|12/07/2024|
- |[Cisco - CVE-2023-20105](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20105-2023-06-08)|Visit link for details.|12/07/2024|
  
 
 # ZERODAYINITIATIVE
@@ -182,4 +165,21 @@
  |[Adobe security advisory (AV24-379)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-379)|Visit link for details|2024-07-10|
  |[Mozilla security advisory (AV24-378)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-378)|Visit link for details|2024-07-10|
  |[Fortinet security advisory (AV24-377)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-377)|Visit link for details|2024-07-09|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6896-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-1-linux-kernel-vulnerabilities.50922/)|Visit link for details.|Jul 12, 2024|
+ |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
+ |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
+ |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6894-1: Apport vulnerabilities](https://www.linux.org/threads/usn-6894-1-apport-vulnerabilities.50909/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6893-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-1-linux-kernel-vulnerabilities.50908/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6885-2: Apache HTTP Server regression](https://www.linux.org/threads/usn-6885-2-apache-http-server-regression.50907/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6891-1: Python vulnerabilities](https://www.linux.org/threads/usn-6891-1-python-vulnerabilities.50902/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6888-2: Django vulnerabilities](https://www.linux.org/threads/usn-6888-2-django-vulnerabilities.50901/)|Visit link for details.|Jul 11, 2024|
+ |[DSA-5728-1 exim4 - security update](https://www.linux.org/threads/dsa-5728-1-exim4-security-update.50891/)|Visit link for details.|Jul 11, 2024|
+ |[DSA-5727-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5727-1-firefox-esr-security-update.50890/)|Visit link for details.|Jul 11, 2024|
  
