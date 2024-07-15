@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/07/2024 04:18:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/07/2024 06:23:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6896-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-1-linux-kernel-vulnerabilities.50922/)|Visit link for details.|Jul 12, 2024|
+ |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
+ |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
+ |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6894-1: Apport vulnerabilities](https://www.linux.org/threads/usn-6894-1-apport-vulnerabilities.50909/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6893-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-1-linux-kernel-vulnerabilities.50908/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6885-2: Apache HTTP Server regression](https://www.linux.org/threads/usn-6885-2-apache-http-server-regression.50907/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6891-1: Python vulnerabilities](https://www.linux.org/threads/usn-6891-1-python-vulnerabilities.50902/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6888-2: Django vulnerabilities](https://www.linux.org/threads/usn-6888-2-django-vulnerabilities.50901/)|Visit link for details.|Jul 11, 2024|
+ |[DSA-5728-1 exim4 - security update](https://www.linux.org/threads/dsa-5728-1-exim4-security-update.50891/)|Visit link for details.|Jul 11, 2024|
+ |[DSA-5727-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5727-1-firefox-esr-security-update.50890/)|Visit link for details.|Jul 11, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,10 @@
  |[CISA and Partners join ASD’S ACSC to Release Advisory on PRC State-Sponsored Group, APT 40](https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40)|Visit link for details.|Jul 08, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6896-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-1-linux-kernel-vulnerabilities.50922/)|Visit link for details.|Jul 12, 2024|
- |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
- |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
- |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
- |[USN-6894-1: Apport vulnerabilities](https://www.linux.org/threads/usn-6894-1-apport-vulnerabilities.50909/)|Visit link for details.|Jul 11, 2024|
- |[USN-6893-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-1-linux-kernel-vulnerabilities.50908/)|Visit link for details.|Jul 11, 2024|
- |[USN-6885-2: Apache HTTP Server regression](https://www.linux.org/threads/usn-6885-2-apache-http-server-regression.50907/)|Visit link for details.|Jul 11, 2024|
- |[USN-6891-1: Python vulnerabilities](https://www.linux.org/threads/usn-6891-1-python-vulnerabilities.50902/)|Visit link for details.|Jul 11, 2024|
- |[USN-6888-2: Django vulnerabilities](https://www.linux.org/threads/usn-6888-2-django-vulnerabilities.50901/)|Visit link for details.|Jul 11, 2024|
- |[DSA-5728-1 exim4 - security update](https://www.linux.org/threads/dsa-5728-1-exim4-security-update.50891/)|Visit link for details.|Jul 11, 2024|
- |[DSA-5727-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5727-1-firefox-esr-security-update.50890/)|Visit link for details.|Jul 11, 2024|
  
 
 # HK-CERT
@@ -78,12 +84,6 @@
  |[F5 Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-denial-of-service-vulnerability_20240709)|A vulnerability was identified in F5 Products. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-4741 of the affected products.|Release Date: 9 Jul 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -95,6 +95,12 @@
  |[Citrix uberAgent privilege escalation (CVE-2024-6677)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2024|
  |[IBM InfoSphere Server cross-site scripting (CVE-2024-40690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 11, 2024|
  |[HMS Networks Anybus-CompactCom 30 cross-site scripting, (CVE-2024-6558)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 10, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
@@ -112,12 +118,6 @@
  |[Microsoft SharePoint - CVE-2023-29357](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-sharepoint-cve-2023-29357-2023-06-14)|Visit link for details.|12/07/2024|
  |[Microsoft - CVE-2023-24950](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-24950-2023-05-15)|Visit link for details.|12/07/2024|
  |[Cisco - CVE-2023-20105](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20105-2023-06-08)|Visit link for details.|12/07/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
