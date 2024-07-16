@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/07/2024 23:25:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/07/2024 00:15:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 09, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,12 @@
  |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
  |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
  |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
@@ -91,6 +91,19 @@
  |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|15/07/2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linkerd server-side request forgery (CVE-2024-40632)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 15, 2024|
+ |[Udecode Plate cross-site scripting (CVE-2024-40631)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 15, 2024|
+ |[Multiple Supermicro motherboards code execution (CVE-2024-36434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
+ |[Multiple Supermicro motherboards code execution (CVE-2024-36433)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
+ |[Multiple Supermicro motherboards code execution (CVE-2024-36432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
+ |[Academy Software Foundation OpenImageIO information disclosure (CVE-2024-40630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
+ |[fastapi-opa information disclosure (CVE-2024-40627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -105,33 +118,6 @@
  |[Palo Alto Cortex XDR Agent Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-cortex-xdr-agent-security-restriction-bypass-vulnerability_20240715)|A vulnerability has been identified in Palo Alto Cortex XDR Agent. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 15 Jul 2024 |
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240712)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Jul 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240711)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and data manipulation on the targeted system.|Release Date: 11 Jul 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linkerd server-side request forgery (CVE-2024-40632)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 15, 2024|
- |[Udecode Plate cross-site scripting (CVE-2024-40631)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 15, 2024|
- |[Multiple Supermicro motherboards code execution (CVE-2024-36434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
- |[Multiple Supermicro motherboards code execution (CVE-2024-36433)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
- |[Multiple Supermicro motherboards code execution (CVE-2024-36432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
- |[Academy Software Foundation OpenImageIO information disclosure (CVE-2024-40630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
- |[fastapi-opa information disclosure (CVE-2024-40627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Centreon testServiceExistence SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-899/)|Visit link for details|2024-07-15|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
  
 
 # EU-CERT
@@ -151,21 +137,18 @@
  |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[HPE security advisory (AV24-395)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-395)|Visit link for details|2024-07-16|
- |[Juniper security advisory (AV24-394)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-394)|Visit link for details|2024-07-16|
- |[HPE security advisory (AV24-393)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-393)|Visit link for details|2024-07-16|
- |[Exim security advisory (AV23-392)](https://www.cyber.gc.ca/en/alerts-advisories/exim-security-advisory-av23-392)|Visit link for details|2024-07-16|
- |[[Control systems] CISA ICS security advisories (AV24-391)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-391)|Visit link for details|2024-07-16|
- |[IBM security advisory (AV24-390)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-390)|Visit link for details|2024-07-15|
- |[Ubuntu security advisory (AV24-389)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-389)|Visit link for details|2024-07-15|
- |[Dell security advisory (AV24-388)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-388)|Visit link for details|2024-07-15|
- |[Mitel security advisory (AV24-387)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-387)|Visit link for details|2024-07-11|
- |[GitLab security advisory (AV24-386)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-386)|Visit link for details|2024-07-11|
- |[[Control systems] Siemens security advisory (AV24-385)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-385)|Visit link for details|2024-07-11|
+ |[Centreon testServiceExistence SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-899/)|Visit link for details|2024-07-15|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-892/)|Visit link for details|2024-07-03|
  
 
 # MA-CERT
@@ -182,4 +165,21 @@
  |[ 48311107/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-2)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 11 juillet 2024|
  |[ 48291107/24 - Vulnérabilité affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssh-0)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité au niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  d’exécuter…| 11 juillet 2024|
  |[ 48301107/24 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla-0)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données et de réussir une injection de…| 11 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti security advisory (AV24-398)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-398)|Visit link for details|2024-07-16|
+ |[Atlassian security advisory (AV24-397)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-397)|Visit link for details|2024-07-16|
+ |[Red Hat security advisory (AV24-396)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-396)|Visit link for details|2024-07-16|
+ |[HPE security advisory (AV24-395)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-395)|Visit link for details|2024-07-16|
+ |[Juniper security advisory (AV24-394)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-394)|Visit link for details|2024-07-16|
+ |[HPE security advisory (AV24-393)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-393)|Visit link for details|2024-07-16|
+ |[Exim security advisory (AV23-392)](https://www.cyber.gc.ca/en/alerts-advisories/exim-security-advisory-av23-392)|Visit link for details|2024-07-16|
+ |[[Control systems] CISA ICS security advisories (AV24-391)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-391)|Visit link for details|2024-07-16|
+ |[IBM security advisory (AV24-390)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-390)|Visit link for details|2024-07-15|
+ |[Ubuntu security advisory (AV24-389)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-389)|Visit link for details|2024-07-15|
+ |[Dell security advisory (AV24-388)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-388)|Visit link for details|2024-07-15|
  
