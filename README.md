@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/07/2024 03:19:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/07/2024 04:21:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,12 @@
  |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -83,12 +89,6 @@
  |[Exim - CVE-2024-39929](https://www.cyberveille-sante.gouv.fr/alertes/exim-cve-2024-39929-2024-07-15)|Visit link for details.|15/07/2024|
  |[Citrix - CVE-2024-5491](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-5491-2024-07-15)|Visit link for details.|15/07/2024|
  |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|15/07/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
