@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/07/2024 17:34:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/07/2024 18:16:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,21 +45,10 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 09, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5730-1 linux - security update](https://www.linux.org/threads/dsa-5730-1-linux-security-update.50954/)|Visit link for details.|Jul 16, 2024|
- |[USN-6898-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-1-linux-kernel-vulnerabilities.50950/)|Visit link for details.|Jul 15, 2024|
- |[USN-6897-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6897-1-ghostscript-vulnerabilities.50949/)|Visit link for details.|Jul 15, 2024|
- |[USN-6896-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-1-linux-kernel-vulnerabilities.50922/)|Visit link for details.|Jul 12, 2024|
- |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
- |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
- |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
- |[USN-6894-1: Apport vulnerabilities](https://www.linux.org/threads/usn-6894-1-apport-vulnerabilities.50909/)|Visit link for details.|Jul 11, 2024|
- |[USN-6893-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-1-linux-kernel-vulnerabilities.50908/)|Visit link for details.|Jul 11, 2024|
- |[USN-6885-2: Apache HTTP Server regression](https://www.linux.org/threads/usn-6885-2-apache-http-server-regression.50907/)|Visit link for details.|Jul 11, 2024|
- |[USN-6891-1: Python vulnerabilities](https://www.linux.org/threads/usn-6891-1-python-vulnerabilities.50902/)|Visit link for details.|Jul 11, 2024|
  
 
 # OBS-Vigilance
@@ -68,10 +57,37 @@
  |---|---|---|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6896-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-2-linux-kernel-vulnerabilities.50960/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6895-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-2-linux-kernel-vulnerabilities.50959/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6893-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-2-linux-kernel-vulnerabilities.50958/)|Visit link for details.|Jul 16, 2024|
+ |[DSA-5730-1 linux - security update](https://www.linux.org/threads/dsa-5730-1-linux-security-update.50954/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6898-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-1-linux-kernel-vulnerabilities.50950/)|Visit link for details.|Jul 15, 2024|
+ |[USN-6897-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6897-1-ghostscript-vulnerabilities.50949/)|Visit link for details.|Jul 15, 2024|
+ |[USN-6896-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-1-linux-kernel-vulnerabilities.50922/)|Visit link for details.|Jul 12, 2024|
+ |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
+ |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
+ |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6894-1: Apport vulnerabilities](https://www.linux.org/threads/usn-6894-1-apport-vulnerabilities.50909/)|Visit link for details.|Jul 11, 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-...| Release Date: 10 Jul 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-07-16]Updated System / ...| Release Date: 2 Jul 2024 |
+ |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240715)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, elevation of privilege, denial of service condition and remote code execution on the targeted system. |Release Date: 15 Jul 2024 |
+ |[Exim Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/exim-security-restriction-bypass-vulnerability_20240715)|A vulnerability was identified in Exim, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:Proof of concept exploit for CVE-2024-39929 exists on the internet.|Release Date: 15 Jul 2024 |
+ |[Netgear Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netgear-products-multiple-vulnerabilities_20240715)|Multiple vulnerabilities were identified in Netgear Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and security restriction bypass on the targeted system. |Release Date: 15 Jul 2024 |
+ |[Palo Alto Cortex XDR Agent Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-cortex-xdr-agent-security-restriction-bypass-vulnerability_20240715)|A vulnerability has been identified in Palo Alto Cortex XDR Agent. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 15 Jul 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240712)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Jul 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240711)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and data manipulation on the targeted system.|Release Date: 11 Jul 2024 |
  
 
 # CERT-SANTE
@@ -89,22 +105,6 @@
  |[Pilote Microsoft ODBC- CVE-2023-29356](https://www.cyberveille-sante.gouv.fr/alertes/pilote-microsoft-odbc-cve-2023-29356-2023-06-16)|Visit link for details.|15/07/2024|
  |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|12/07/2024|
  |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|12/07/2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-...| Release Date: 10 Jul 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-07-16]Updated System / ...| Release Date: 2 Jul 2024 |
- |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240715)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, elevation of privilege, denial of service condition and remote code execution on the targeted system. |Release Date: 15 Jul 2024 |
- |[Exim Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/exim-security-restriction-bypass-vulnerability_20240715)|A vulnerability was identified in Exim, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:Proof of concept exploit for CVE-2024-39929 exists on the internet.|Release Date: 15 Jul 2024 |
- |[Netgear Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netgear-products-multiple-vulnerabilities_20240715)|Multiple vulnerabilities were identified in Netgear Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and security restriction bypass on the targeted system. |Release Date: 15 Jul 2024 |
- |[Palo Alto Cortex XDR Agent Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-cortex-xdr-agent-security-restriction-bypass-vulnerability_20240715)|A vulnerability has been identified in Palo Alto Cortex XDR Agent. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 15 Jul 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240712)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Jul 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240711)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and data manipulation on the targeted system.|Release Date: 11 Jul 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -151,22 +151,6 @@
  |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48381507/24 - Vulnérabilités affectant des routeurs de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-routeurs-de-netgear)| Netgear annonce la correction de trois vulnérabilités affectant ses routeurs susmentionnés.  L'exploitation de ces vulnérabilités  peut  permettre  à un attaquant de contourner l’authentification,…| 15 juillet 2024|
- |[ 48381207/24 - Vulnérabilité critique affectant les serveurs de messagerie Exim ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-serveurs-de-messagerie-exim)| Exim annonce la correction  d’une vulnérabilité critique affectant les versions susmentionnées de son produit Exim transfer agent.  L'exploitation de cette vulnérabilité peut  permettre  à un…| 12 juillet 2024|
- |[ 48341207/24 - Vulnérabilité affectant deux produits de VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-deux-produits-de-vmware)| VMware annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code arbitraire.| 12 juillet 2024|
- |[ 48361207/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 12 juillet 2024|
- |[ 48351207/24 - Vulnérabilités critiques dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-palo-alto)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Palo Alto susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 12 juillet 2024|
- |[ 48331107/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-9)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de contourner la…| 11 juillet 2024|
- |[ 48321107/24 - Vulnérabilité dans le protocole RADIUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-protocole-radius)| Une vulnérabilité a été corrigée dans le protocole RADIUS. Une exploitation réussie de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 11 juillet 2024|
- |[ 48311107/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-2)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 11 juillet 2024|
- |[ 48291107/24 - Vulnérabilité affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssh-0)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité au niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  d’exécuter…| 11 juillet 2024|
- |[ 48301107/24 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla-0)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données et de réussir une injection de…| 11 juillet 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -182,4 +166,20 @@
  |[SAP security advisory – July 2024 monthly rollup (AV24-382)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-july-2024-monthly-rollup-av24-382)|Visit link for details|2024-07-10|
  |[[Control systems] Schneider Electric security advisory (AV24-381)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-381)|Visit link for details|2024-07-10|
  |[Red Hat security advisory (AV24-380)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-380)|Visit link for details|2024-07-10|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48381507/24 - Vulnérabilités affectant des routeurs de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-routeurs-de-netgear)| Netgear annonce la correction de trois vulnérabilités affectant ses routeurs susmentionnés.  L'exploitation de ces vulnérabilités  peut  permettre  à un attaquant de contourner l’authentification,…| 15 juillet 2024|
+ |[ 48381207/24 - Vulnérabilité critique affectant les serveurs de messagerie Exim ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-serveurs-de-messagerie-exim)| Exim annonce la correction  d’une vulnérabilité critique affectant les versions susmentionnées de son produit Exim transfer agent.  L'exploitation de cette vulnérabilité peut  permettre  à un…| 12 juillet 2024|
+ |[ 48341207/24 - Vulnérabilité affectant deux produits de VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-deux-produits-de-vmware)| VMware annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code arbitraire.| 12 juillet 2024|
+ |[ 48361207/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 12 juillet 2024|
+ |[ 48351207/24 - Vulnérabilités critiques dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-palo-alto)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Palo Alto susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 12 juillet 2024|
+ |[ 48331107/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-9)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de contourner la…| 11 juillet 2024|
+ |[ 48321107/24 - Vulnérabilité dans le protocole RADIUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-protocole-radius)| Une vulnérabilité a été corrigée dans le protocole RADIUS. Une exploitation réussie de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 11 juillet 2024|
+ |[ 48311107/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-2)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 11 juillet 2024|
+ |[ 48291107/24 - Vulnérabilité affectant OpenSSH ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openssh-0)| OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité au niveau  d’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant  d’exécuter…| 11 juillet 2024|
+ |[ 48301107/24 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla-0)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données et de réussir une injection de…| 11 juillet 2024|
  
