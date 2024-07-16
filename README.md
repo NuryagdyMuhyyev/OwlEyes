@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/07/2024 04:19:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/07/2024 06:23:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,29 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5730-1 linux - security update](https://www.linux.org/threads/dsa-5730-1-linux-security-update.50954/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6898-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-1-linux-kernel-vulnerabilities.50950/)|Visit link for details.|Jul 15, 2024|
+ |[USN-6897-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6897-1-ghostscript-vulnerabilities.50949/)|Visit link for details.|Jul 15, 2024|
+ |[USN-6896-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-1-linux-kernel-vulnerabilities.50922/)|Visit link for details.|Jul 12, 2024|
+ |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
+ |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
+ |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6894-1: Apport vulnerabilities](https://www.linux.org/threads/usn-6894-1-apport-vulnerabilities.50909/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6893-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-1-linux-kernel-vulnerabilities.50908/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6885-2: Apache HTTP Server regression](https://www.linux.org/threads/usn-6885-2-apache-http-server-regression.50907/)|Visit link for details.|Jul 11, 2024|
+ |[USN-6891-1: Python vulnerabilities](https://www.linux.org/threads/usn-6891-1-python-vulnerabilities.50902/)|Visit link for details.|Jul 11, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,29 +66,6 @@
  |[Microsoft Releases July 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/07/09/microsoft-releases-july-2024-security-updates)|Visit link for details.|Jul 09, 2024|
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 09, 2024|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 09, 2024|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6898-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-1-linux-kernel-vulnerabilities.50950/)|Visit link for details.|Jul 15, 2024|
- |[USN-6897-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6897-1-ghostscript-vulnerabilities.50949/)|Visit link for details.|Jul 15, 2024|
- |[USN-6896-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-1-linux-kernel-vulnerabilities.50922/)|Visit link for details.|Jul 12, 2024|
- |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
- |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
- |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
- |[USN-6894-1: Apport vulnerabilities](https://www.linux.org/threads/usn-6894-1-apport-vulnerabilities.50909/)|Visit link for details.|Jul 11, 2024|
- |[USN-6893-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-1-linux-kernel-vulnerabilities.50908/)|Visit link for details.|Jul 11, 2024|
- |[USN-6885-2: Apache HTTP Server regression](https://www.linux.org/threads/usn-6885-2-apache-http-server-regression.50907/)|Visit link for details.|Jul 11, 2024|
- |[USN-6891-1: Python vulnerabilities](https://www.linux.org/threads/usn-6891-1-python-vulnerabilities.50902/)|Visit link for details.|Jul 11, 2024|
- |[USN-6888-2: Django vulnerabilities](https://www.linux.org/threads/usn-6888-2-django-vulnerabilities.50901/)|Visit link for details.|Jul 11, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -85,6 +85,12 @@
  |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|12/07/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -99,12 +105,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240711)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and data manipulation on the targeted system.|Release Date: 11 Jul 2024 |
  |[Adobe Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-july-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Premiere Pro Medium RiskRemote Code Execution APSB24-46Adobe InDesign Medium RiskRemote Code Execution ...|Release Date: 10 Jul 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
