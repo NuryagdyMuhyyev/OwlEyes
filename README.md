@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/07/2024 09:22:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/07/2024 10:17:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,33 +62,10 @@
  |[USN-6891-1: Python vulnerabilities](https://www.linux.org/threads/usn-6891-1-python-vulnerabilities.50902/)|Visit link for details.|Jul 11, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware - CVE-2024-22280](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22280-2024-07-15)|Visit link for details.|15/07/2024|
- |[Palo Alto - CVE-2024-5911](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-5911-2024-07-15)|Visit link for details.|15/07/2024|
- |[Microsoft - CVE-2024-38024](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38024-2024-07-15)|Visit link for details.|15/07/2024|
- |[Exim - CVE-2024-39929](https://www.cyberveille-sante.gouv.fr/alertes/exim-cve-2024-39929-2024-07-15)|Visit link for details.|15/07/2024|
- |[Citrix - CVE-2024-5491](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-5491-2024-07-15)|Visit link for details.|15/07/2024|
- |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|15/07/2024|
- |[Microsoft - CVE-2023-32014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32014-2023-06-15)|Visit link for details.|15/07/2024|
- |[Microsoft - CVE-2023-32015](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32015-2023-06-15)|Visit link for details.|15/07/2024|
- |[Pilote Microsoft ODBC- CVE-2023-29356](https://www.cyberveille-sante.gouv.fr/alertes/pilote-microsoft-odbc-cve-2023-29356-2023-06-16)|Visit link for details.|15/07/2024|
- |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|12/07/2024|
- |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|12/07/2024|
  
 
 # HK-CERT
@@ -107,17 +84,40 @@
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240711)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and data manipulation on the targeted system.|Release Date: 11 Jul 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[OTRS information disclosure (CVE-2024-6540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
  |[Openfind MailGates and MailAudit security bypass (CVE-2024-6741)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
  |[Cellopoint Secure Email Gateway buffer overflow (CVE-2024-6744)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
  |[Openfind Mail2000 cross-site scripting (CVE-2024-6740)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
  |[Openfind MailGates and MailAudit cross-site scripting (CVE-2024-6739)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
  |[WisdomGarden Tronclass information disclosure (CVE-2024-6738)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
  |[2100 TECHNOLOGY Electronic Official Document Management System privilege escalation (CVE-2024-6737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 14, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 12, 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware - CVE-2024-22280](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22280-2024-07-15)|Visit link for details.|15/07/2024|
+ |[Palo Alto - CVE-2024-5911](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-5911-2024-07-15)|Visit link for details.|15/07/2024|
+ |[Microsoft - CVE-2024-38024](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38024-2024-07-15)|Visit link for details.|15/07/2024|
+ |[Exim - CVE-2024-39929](https://www.cyberveille-sante.gouv.fr/alertes/exim-cve-2024-39929-2024-07-15)|Visit link for details.|15/07/2024|
+ |[Citrix - CVE-2024-5491](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-5491-2024-07-15)|Visit link for details.|15/07/2024|
+ |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|15/07/2024|
+ |[Microsoft - CVE-2023-32014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32014-2023-06-15)|Visit link for details.|15/07/2024|
+ |[Microsoft - CVE-2023-32015](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32015-2023-06-15)|Visit link for details.|15/07/2024|
+ |[Pilote Microsoft ODBC- CVE-2023-29356](https://www.cyberveille-sante.gouv.fr/alertes/pilote-microsoft-odbc-cve-2023-29356-2023-06-16)|Visit link for details.|15/07/2024|
+ |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|12/07/2024|
+ |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|12/07/2024|
  
 
 # ZERODAYINITIATIVE
