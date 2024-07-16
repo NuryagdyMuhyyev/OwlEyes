@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/07/2024 15:17:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/07/2024 16:15:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,12 +68,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -105,6 +99,12 @@
  |[Palo Alto Cortex XDR Agent Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-cortex-xdr-agent-security-restriction-bypass-vulnerability_20240715)|A vulnerability has been identified in Palo Alto Cortex XDR Agent. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 15 Jul 2024 |
  |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20240712)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 12 Jul 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240711)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and data manipulation on the targeted system.|Release Date: 11 Jul 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
