@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/07/2024 06:22:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/07/2024 07:36:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6899-1: GTK vulnerability](https://www.linux.org/threads/usn-6899-1-gtk-vulnerability.50963/)|Visit link for details.|Jul 16, 2024|
- |[USN-6896-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-2-linux-kernel-vulnerabilities.50960/)|Visit link for details.|Jul 16, 2024|
- |[USN-6895-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-2-linux-kernel-vulnerabilities.50959/)|Visit link for details.|Jul 16, 2024|
- |[USN-6893-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-2-linux-kernel-vulnerabilities.50958/)|Visit link for details.|Jul 16, 2024|
- |[DSA-5730-1 linux - security update](https://www.linux.org/threads/dsa-5730-1-linux-security-update.50954/)|Visit link for details.|Jul 16, 2024|
- |[USN-6898-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-1-linux-kernel-vulnerabilities.50950/)|Visit link for details.|Jul 15, 2024|
- |[USN-6897-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6897-1-ghostscript-vulnerabilities.50949/)|Visit link for details.|Jul 15, 2024|
- |[USN-6896-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-1-linux-kernel-vulnerabilities.50922/)|Visit link for details.|Jul 12, 2024|
- |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
- |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
- |[USN-6864-3: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-6864-3-linux-kernel-gke-vulnerabilities.50910/)|Visit link for details.|Jul 11, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,10 +45,21 @@
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/09/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Jul 09, 2024|
  
 
-# OBS-Vigilance
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5731-1 linux - security update](https://www.linux.org/threads/dsa-5731-1-linux-security-update.50968/)|Visit link for details.|Jul 17, 2024|
+ |[USN-6899-1: GTK vulnerability](https://www.linux.org/threads/usn-6899-1-gtk-vulnerability.50963/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6896-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-2-linux-kernel-vulnerabilities.50960/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6895-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-2-linux-kernel-vulnerabilities.50959/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6893-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-2-linux-kernel-vulnerabilities.50958/)|Visit link for details.|Jul 16, 2024|
+ |[DSA-5730-1 linux - security update](https://www.linux.org/threads/dsa-5730-1-linux-security-update.50954/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6898-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-1-linux-kernel-vulnerabilities.50950/)|Visit link for details.|Jul 15, 2024|
+ |[USN-6897-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6897-1-ghostscript-vulnerabilities.50949/)|Visit link for details.|Jul 15, 2024|
+ |[USN-6896-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-1-linux-kernel-vulnerabilities.50922/)|Visit link for details.|Jul 12, 2024|
+ |[USN-6895-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-1-linux-kernel-vulnerabilities.50921/)|Visit link for details.|Jul 12, 2024|
+ |[DSA-5729-1 apache2 - security update](https://www.linux.org/threads/dsa-5729-1-apache2-security-update.50913/)|Visit link for details.|Jul 12, 2024|
  
 
 # CERT-FR
@@ -78,30 +72,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[VMware Spring - CVE-2024-22271](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-22271-2024-07-16)|Visit link for details.|16/07/2024|
+ |[Symantec - CVE-2024-38492](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-38492-2024-07-16)|Visit link for details.|16/07/2024|
+ |[Symantec - CVE-2024-36456](https://www.cyberveille-sante.gouv.fr/alertes/symantec-cve-2024-36456-2024-07-16)|Visit link for details.|16/07/2024|
+ |[Juniper - CVE-2024-39565](https://www.cyberveille-sante.gouv.fr/alertes/juniper-cve-2024-39565-2024-07-16)|Visit link for details.|16/07/2024|
+ |[Centreon - CVE-2024-39841](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-39841-2024-07-16)|Visit link for details.|16/07/2024|
  |[Microsoft - CVE-2023-35365](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35365-2023-07-13)|Visit link for details.|16/07/2024|
  |[Microsoft Rapport d’erreurs Windows- CVE-2023-36874](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-rapport-derreurs-windows-cve-2023-36874-2023-07-12)|Visit link for details.|16/07/2024|
  |[Microsoft - CVE-2023-32057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-32057-2023-07-17)|Visit link for details.|16/07/2024|
  |[Microsoft - CVE-2023-35366](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35366-2023-07-17)|Visit link for details.|16/07/2024|
  |[Microsoft - CVE-2023-35367](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35367-2023-07-18)|Visit link for details.|16/07/2024|
  |[VMware - CVE-2024-22280](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-22280-2024-07-15)|Visit link for details.|15/07/2024|
- |[Palo Alto - CVE-2024-5911](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-5911-2024-07-15)|Visit link for details.|15/07/2024|
- |[Microsoft - CVE-2024-38024](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38024-2024-07-15)|Visit link for details.|15/07/2024|
- |[Exim - CVE-2024-39929](https://www.cyberveille-sante.gouv.fr/alertes/exim-cve-2024-39929-2024-07-15)|Visit link for details.|15/07/2024|
- |[Citrix - CVE-2024-5491](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-5491-2024-07-15)|Visit link for details.|15/07/2024|
- |[Microsoft - CVE-2023-29363](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29363-2023-06-14)|Visit link for details.|15/07/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Oracle Solaris unspecified (CVE-2024-21151)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Oracle ZFS Storage Appliance Kit (CVE-2024-21155)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Google Chrome code execution (CVE-2024-6779)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Google Chrome code execution (CVE-2024-6778)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Google Chrome security bypass (CVE-2024-6772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Google Chrome code execution (CVE-2024-6777)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Google Chrome code execution (CVE-2024-6776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
  
 
 # HK-CERT
@@ -182,4 +169,17 @@
  |[IBM security advisory (AV24-390)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-390)|Visit link for details|2024-07-15|
  |[Ubuntu security advisory (AV24-389)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-389)|Visit link for details|2024-07-15|
  |[Dell security advisory (AV24-388)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-388)|Visit link for details|2024-07-15|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[XenServer API weak security (CVE-2024-31144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
+ |[XenSource Xen denial of service (CVE-2024-31143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
+ |[Oracle Solaris unspecified (CVE-2024-21151)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
+ |[Oracle ZFS Storage Appliance Kit (CVE-2024-21155)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
+ |[Google Chrome code execution (CVE-2024-6779)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
+ |[Google Chrome code execution (CVE-2024-6778)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
+ |[Google Chrome security bypass (CVE-2024-6772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
  
