@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/07/2024 03:18:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/07/2024 04:19:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
+ |[AT&T Discloses Breach of Customer Data](https://www.cisa.gov/news-events/alerts/2024/07/12/att-discloses-breach-customer-data)|Visit link for details.|Jul 12, 2024|
+ |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
+ |[CISA Releases Twenty-one Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2024|
+ |[CISA and FBI Release Secure by Design Alert on Eliminating OS Command Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/07/10/cisa-and-fbi-release-secure-design-alert-eliminating-os-command-injection-vulnerabilities)|Visit link for details.|Jul 10, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
+ |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/citrix-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
+ |[Microsoft Releases July 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/07/09/microsoft-releases-july-2024-security-updates)|Visit link for details.|Jul 09, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,6 +60,18 @@
  |[DSA-5730-1 linux - security update](https://www.linux.org/threads/dsa-5730-1-linux-security-update.50954/)|Visit link for details.|Jul 16, 2024|
  |[USN-6898-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-1-linux-kernel-vulnerabilities.50950/)|Visit link for details.|Jul 15, 2024|
  |[USN-6897-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6897-1-ghostscript-vulnerabilities.50949/)|Visit link for details.|Jul 15, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
@@ -63,41 +91,6 @@
  |[ClamAV - CVE-2023-20212](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20212-2023-08-17)|Visit link for details.|17/07/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
- |[AT&T Discloses Breach of Customer Data](https://www.cisa.gov/news-events/alerts/2024/07/12/att-discloses-breach-customer-data)|Visit link for details.|Jul 12, 2024|
- |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
- |[CISA Releases Twenty-one Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2024|
- |[CISA and FBI Release Secure by Design Alert on Eliminating OS Command Injection Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/07/10/cisa-and-fbi-release-secure-design-alert-eliminating-os-command-injection-vulnerabilities)|Visit link for details.|Jul 10, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/adobe-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
- |[Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/09/citrix-releases-security-updates-multiple-products)|Visit link for details.|Jul 09, 2024|
- |[Microsoft Releases July 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/07/09/microsoft-releases-july-2024-security-updates)|Visit link for details.|Jul 09, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Secure Email Gateway code execution (CVE-2024-20401)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Cisco Smart Software Manager On-Prem privilege escalation (CVE-2024-20419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Oracle MySQL Server unspecified (CVE-2024-21127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Oracle MySQL Server unspecified (CVE-2024-21134)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Oracle MySQL Server unspecified (CVE-2024-21142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Oracle MySQL Server unspecified (CVE-2024-21159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Oracle MySQL Server unspecified (CVE-2024-21160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -114,24 +107,17 @@
  |[Exim Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/exim-security-restriction-bypass-vulnerability_20240715)|A vulnerability was identified in Exim, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:Proof of concept exploit for CVE-2024-39929 exists on the internet.|Release Date: 15 Jul 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Parse Server literalizeRegexPart SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-900/)|Visit link for details|2024-07-16|
- |[Centreon testServiceExistence SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-899/)|Visit link for details|2024-07-15|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[Apache HTTP Server information disclosure (CVE-2024-40725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache HTTP Server server-side request forgery (CVE-2024-40898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Cisco Secure Email Gateway code execution (CVE-2024-20401)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Cisco Smart Software Manager On-Prem privilege escalation (CVE-2024-20419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Oracle MySQL Server unspecified (CVE-2024-21127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
+ |[Oracle MySQL Server unspecified (CVE-2024-21134)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
+ |[Oracle MySQL Server unspecified (CVE-2024-21142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
  
 
 # EU-CERT
@@ -151,20 +137,18 @@
  |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
- |[ 48391707/24 - Vulnérabilité critique affectant Rockwell Automation Pavilion 8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-pavilion-8)| Rockwell Automation  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit Pavilion 8.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 17 juillet 2024|
- |[ 48381507/24 - Vulnérabilités affectant des routeurs de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-routeurs-de-netgear)| Netgear annonce la correction de trois vulnérabilités affectant ses routeurs susmentionnés.  L'exploitation de ces vulnérabilités  peut  permettre  à un attaquant de contourner l’authentification,…| 15 juillet 2024|
- |[ 48381207/24 - Vulnérabilité critique affectant les serveurs de messagerie Exim ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-serveurs-de-messagerie-exim)| Exim annonce la correction  d’une vulnérabilité critique affectant les versions susmentionnées de son produit Exim transfer agent.  L'exploitation de cette vulnérabilité peut  permettre  à un…| 12 juillet 2024|
- |[ 48341207/24 - Vulnérabilité affectant deux produits de VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-deux-produits-de-vmware)| VMware annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code arbitraire.| 12 juillet 2024|
- |[ 48361207/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 12 juillet 2024|
- |[ 48351207/24 - Vulnérabilités critiques dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-palo-alto)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Palo Alto susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 12 juillet 2024|
- |[ 48331107/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-9)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de contourner la…| 11 juillet 2024|
- |[ 48321107/24 - Vulnérabilité dans le protocole RADIUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-protocole-radius)| Une vulnérabilité a été corrigée dans le protocole RADIUS. Une exploitation réussie de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 11 juillet 2024|
- |[ 48311107/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-2)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 11 juillet 2024|
+ |[Parse Server literalizeRegexPart SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-900/)|Visit link for details|2024-07-16|
+ |[Centreon testServiceExistence SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-899/)|Visit link for details|2024-07-15|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
  
 
 # CA-CCS
@@ -182,4 +166,20 @@
  |[Red Hat security advisory (AV24-396)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-396)|Visit link for details|2024-07-16|
  |[HPE security advisory (AV24-395)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-395)|Visit link for details|2024-07-16|
  |[Juniper security advisory (AV24-394)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-security-advisory-av24-394)|Visit link for details|2024-07-16|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
+ |[ 48391707/24 - Vulnérabilité critique affectant Rockwell Automation Pavilion 8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-pavilion-8)| Rockwell Automation  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit Pavilion 8.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 17 juillet 2024|
+ |[ 48381507/24 - Vulnérabilités affectant des routeurs de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-routeurs-de-netgear)| Netgear annonce la correction de trois vulnérabilités affectant ses routeurs susmentionnés.  L'exploitation de ces vulnérabilités  peut  permettre  à un attaquant de contourner l’authentification,…| 15 juillet 2024|
+ |[ 48381207/24 - Vulnérabilité critique affectant les serveurs de messagerie Exim ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-serveurs-de-messagerie-exim)| Exim annonce la correction  d’une vulnérabilité critique affectant les versions susmentionnées de son produit Exim transfer agent.  L'exploitation de cette vulnérabilité peut  permettre  à un…| 12 juillet 2024|
+ |[ 48341207/24 - Vulnérabilité affectant deux produits de VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-deux-produits-de-vmware)| VMware annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code arbitraire.| 12 juillet 2024|
+ |[ 48361207/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 12 juillet 2024|
+ |[ 48351207/24 - Vulnérabilités critiques dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-palo-alto)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Palo Alto susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 12 juillet 2024|
+ |[ 48331107/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-9)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de contourner la…| 11 juillet 2024|
+ |[ 48321107/24 - Vulnérabilité dans le protocole RADIUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-protocole-radius)| Une vulnérabilité a été corrigée dans le protocole RADIUS. Une exploitation réussie de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 11 juillet 2024|
+ |[ 48311107/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-2)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 11 juillet 2024|
  
