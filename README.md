@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/07/2024 07:35:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/07/2024 08:23:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,7 +45,24 @@
  |[Microsoft Releases July 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/07/09/microsoft-releases-july-2024-security-updates)|Visit link for details.|Jul 09, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6896-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-3-linux-kernel-vulnerabilities.50977/)|Visit link for details.|Jul 17, 2024|
+ |[USN-6900-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6900-1-linux-kernel-vulnerabilities.50976/)|Visit link for details.|Jul 17, 2024|
+ |[USN-6898-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-2-linux-kernel-vulnerabilities.50975/)|Visit link for details.|Jul 17, 2024|
+ |[DSA-5731-1 linux - security update](https://www.linux.org/threads/dsa-5731-1-linux-security-update.50968/)|Visit link for details.|Jul 17, 2024|
+ |[USN-6899-1: GTK vulnerability](https://www.linux.org/threads/usn-6899-1-gtk-vulnerability.50963/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6896-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-2-linux-kernel-vulnerabilities.50960/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6895-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-2-linux-kernel-vulnerabilities.50959/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6893-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-2-linux-kernel-vulnerabilities.50958/)|Visit link for details.|Jul 16, 2024|
+ |[DSA-5730-1 linux - security update](https://www.linux.org/threads/dsa-5730-1-linux-security-update.50954/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6898-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-1-linux-kernel-vulnerabilities.50950/)|Visit link for details.|Jul 15, 2024|
+ |[USN-6897-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6897-1-ghostscript-vulnerabilities.50949/)|Visit link for details.|Jul 15, 2024|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -68,43 +85,26 @@
  |[ClamAV - CVE-2023-20212](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20212-2023-08-17)|Visit link for details.|17/07/2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6896-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-3-linux-kernel-vulnerabilities.50977/)|Visit link for details.|Jul 17, 2024|
- |[USN-6900-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6900-1-linux-kernel-vulnerabilities.50976/)|Visit link for details.|Jul 17, 2024|
- |[USN-6898-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-2-linux-kernel-vulnerabilities.50975/)|Visit link for details.|Jul 17, 2024|
- |[DSA-5731-1 linux - security update](https://www.linux.org/threads/dsa-5731-1-linux-security-update.50968/)|Visit link for details.|Jul 17, 2024|
- |[USN-6899-1: GTK vulnerability](https://www.linux.org/threads/usn-6899-1-gtk-vulnerability.50963/)|Visit link for details.|Jul 16, 2024|
- |[USN-6896-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-2-linux-kernel-vulnerabilities.50960/)|Visit link for details.|Jul 16, 2024|
- |[USN-6895-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-2-linux-kernel-vulnerabilities.50959/)|Visit link for details.|Jul 16, 2024|
- |[USN-6893-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-2-linux-kernel-vulnerabilities.50958/)|Visit link for details.|Jul 16, 2024|
- |[DSA-5730-1 linux - security update](https://www.linux.org/threads/dsa-5730-1-linux-security-update.50954/)|Visit link for details.|Jul 16, 2024|
- |[USN-6898-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-1-linux-kernel-vulnerabilities.50950/)|Visit link for details.|Jul 15, 2024|
- |[USN-6897-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6897-1-ghostscript-vulnerabilities.50949/)|Visit link for details.|Jul 15, 2024|
  
 
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240718)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, cross-site scripting and information disclosure on the targeted system.|Release Date: 18 Jul 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
+ |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...| Release Date: 12 Jun 2024 |
+ |[VMWare Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/vmware-products-information-disclosure-vulnerability_20220401)|A vulnerability was identified in VMware products. An attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:CVE-2022-22948 is being exploited in the wild. A malicious actor with non-administrative...| Release Date: 1 Apr 2022 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 17 Jul 2024 |
  |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
  |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20240717)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure and spoofing on the targeted system.|Release Date: 17 Jul 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-...| Release Date: 10 Jul 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2024-07-16]Updated System / ...| Release Date: 2 Jul 2024 |
- |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240715)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, elevation of privilege, denial of service condition and remote code execution on the targeted system. |Release Date: 15 Jul 2024 |
- |[Exim Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/exim-security-restriction-bypass-vulnerability_20240715)|A vulnerability was identified in Exim, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:Proof of concept exploit for CVE-2024-39929 exists on the internet.|Release Date: 15 Jul 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -118,20 +118,6 @@
  |[Cisco Firepower Threat Defense Software security bypass (CVE-2024-20261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
  |[Cisco RV340 and RV345 Dual WAN Gigabit VPN Routers buffer overflow (CVE-2024-20416)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
  |[Cisco Expressway Series open redirect (CVE-2024-20400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Parse Server literalizeRegexPart SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-900/)|Visit link for details|2024-07-16|
- |[Centreon testServiceExistence SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-899/)|Visit link for details|2024-07-15|
- |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
- |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
- |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
- |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
  
 
 # EU-CERT
@@ -165,6 +151,20 @@
  |[ 48331107/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-9)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de contourner la…| 11 juillet 2024|
  |[ 48321107/24 - Vulnérabilité dans le protocole RADIUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-protocole-radius)| Une vulnérabilité a été corrigée dans le protocole RADIUS. Une exploitation réussie de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 11 juillet 2024|
  |[ 48311107/24 - Vulnérabilités dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-siemens-2)| Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir…| 11 juillet 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Parse Server literalizeRegexPart SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-900/)|Visit link for details|2024-07-16|
+ |[Centreon testServiceExistence SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-899/)|Visit link for details|2024-07-15|
+ |[ESET Smart Security Premium Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-898/)|Visit link for details|2024-06-22|
+ |[Trend Micro Apex One modOSCE SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-897/)|Visit link for details|2024-07-05|
+ |[Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-896/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
+ |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
  
 
 # CA-CCS
