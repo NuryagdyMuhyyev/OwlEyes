@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/07/2024 10:18:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/07/2024 11:26:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[USN-6897-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-6897-1-ghostscript-vulnerabilities.50949/)|Visit link for details.|Jul 15, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -85,33 +79,10 @@
  |[ClamAV - CVE-2023-20212](https://www.cyberveille-sante.gouv.fr/alertes/clamav-cve-2023-20212-2023-08-17)|Visit link for details.|17/07/2024|
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240718)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, elevation of privilege and data manipulation on the targeted system.|Release Date: 18 Jul 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
- |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...| Release Date: 12 Jun 2024 |
- |[VMWare Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/vmware-products-information-disclosure-vulnerability_20220401)|A vulnerability was identified in VMware products. An attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:CVE-2022-22948 is being exploited in the wild. A malicious actor with non-administrative...| Release Date: 1 Apr 2022 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 17 Jul 2024 |
- |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
- |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20240717)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure and spoofing on the targeted system.|Release Date: 17 Jul 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-...| Release Date: 10 Jul 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache HTTP Server information disclosure (CVE-2024-40725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache HTTP Server server-side request forgery (CVE-2024-40898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Cisco Secure Email Gateway code execution (CVE-2024-20401)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Cisco Smart Software Manager On-Prem privilege escalation (CVE-2024-20419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache StreamPark information disclosure (CVE-2024-29120)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Apache StreamPark command execution (CVE-2024-29737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
- |[Apache StreamPark command execution (CVE-2023-52291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
  
 
 # OBS-Vigilance
@@ -135,6 +106,22 @@
  |[2024-061: Vulnerabilities in Nextcloud Products](https://cert.europa.eu/publications/security-advisories/2024-061/)|On June 14, 2024, Nextcloud released patches for Nextcloud Server and Enterprise Server. A vulnerability was disclosed in Nextcloud server products that allows the bypassing of the second factor of two-factor authentication (2FA).|Tuesday, June 18, 2024 06:47:33 PM CEST|
  |[2024-060: Vulnerabilities in VMware Products](https://cert.europa.eu/publications/security-advisories/2024-060/)|On June 17, 2024, VMware released fixes for three vulnerabilities affecting VMware vCenter Server and VMware Cloud Foundation. Two of these vulnerabilities are critical. Exploitation these vulnerabilities could allow a malicious actor to execute remote code or escalate privileges on the affected systems.|Tuesday, June 18, 2024 06:44:15 PM CEST|
  |[2024-059: Vulnerability in FortiOS](https://cert.europa.eu/publications/security-advisories/2024-059/)|On June 12, 2024, Fortinet disclosed a high-severity vulnerability identified as CVE-2024-23110 affecting FortiOS. This vulnerability allows an authenticated attacker to execute unauthorised code or commands via specially crafted command line arguments. The issue arises from multiple stack-based buffer overflow security defects in the command line interpreter.|Monday, June 17, 2024 09:37:54 AM CEST|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240718)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, elevation of privilege and data manipulation on the targeted system.|Release Date: 18 Jul 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
+ |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...| Release Date: 12 Jun 2024 |
+ |[VMWare Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/vmware-products-information-disclosure-vulnerability_20220401)|A vulnerability was identified in VMware products. An attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:CVE-2022-22948 is being exploited in the wild. A malicious actor with non-administrative...| Release Date: 1 Apr 2022 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 17 Jul 2024 |
+ |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
+ |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20240717)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure and spoofing on the targeted system.|Release Date: 17 Jul 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-...| Release Date: 10 Jul 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
  
 
 # MA-CERT
@@ -182,4 +169,17 @@
  |[Progress Software WhatsUp Gold APM Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-895/)|Visit link for details|2024-07-03|
  |[Progress Software WhatsUp Gold CommunityController Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-894/)|Visit link for details|2024-07-03|
  |[Progress Software WhatsUp Gold GetFileWithoutZip Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-893/)|Visit link for details|2024-07-03|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache HTTP Server information disclosure (CVE-2024-40725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache HTTP Server server-side request forgery (CVE-2024-40898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Cisco Secure Email Gateway code execution (CVE-2024-20401)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Cisco Smart Software Manager On-Prem privilege escalation (CVE-2024-20419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache StreamPark information disclosure (CVE-2024-29120)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
+ |[Apache StreamPark command execution (CVE-2024-29737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
+ |[Apache StreamPark command execution (CVE-2023-52291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 16, 2024|
  
