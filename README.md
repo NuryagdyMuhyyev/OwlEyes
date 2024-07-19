@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/07/2024 19:18:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/07/2024 20:21:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6896-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-4-linux-kernel-vulnerabilities.51004/)|Visit link for details.|Jul 19, 2024|
  |[USN-6898-3: Linux kernel kernel vulnerabilities](https://www.linux.org/threads/usn-6898-3-linux-kernel-kernel-vulnerabilities.51001/)|Visit link for details.|Jul 19, 2024|
  |[USN-6895-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-3-linux-kernel-vulnerabilities.51000/)|Visit link for details.|Jul 19, 2024|
  |[DSA-5733-1 thunderbird - security update](https://www.linux.org/threads/dsa-5733-1-thunderbird-security-update.50994/)|Visit link for details.|Jul 19, 2024|
@@ -59,16 +60,15 @@
  |[USN-6900-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6900-1-linux-kernel-vulnerabilities.50976/)|Visit link for details.|Jul 17, 2024|
  |[USN-6898-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-2-linux-kernel-vulnerabilities.50975/)|Visit link for details.|Jul 17, 2024|
  |[DSA-5731-1 linux - security update](https://www.linux.org/threads/dsa-5731-1-linux-security-update.50968/)|Visit link for details.|Jul 17, 2024|
- |[USN-6899-1: GTK vulnerability](https://www.linux.org/threads/usn-6899-1-gtk-vulnerability.50963/)|Visit link for details.|Jul 16, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -78,23 +78,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SolarWinds - CVE-2024-28074](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28074-2024-07-19)|Visit link for details.|19/07/2024|
+ |[SolarWinds - CVE-2024-23472](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23472-2024-07-19)|Visit link for details.|19/07/2024|
+ |[Philips Vue PACS - CVE-2023-40159](https://www.cyberveille-sante.gouv.fr/alertes/philips-vue-pacs-cve-2023-40159-2024-07-19)|Visit link for details.|19/07/2024|
+ |[FasterXML/Philips Vue PACS - CVE-2017-17485](https://www.cyberveille-sante.gouv.fr/alertes/fasterxmlphilips-vue-pacs-cve-2017-17485-2024-07-19)|Visit link for details.|19/07/2024|
+ |[Cisco - CVE-2024-20435](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20435-2024-07-19)|Visit link for details.|19/07/2024|
+ |[Microsoft Edge - CVE-2023-36735](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36735-2023-09-18)|Visit link for details.|19/07/2024|
+ |[Microsoft Edge - CVE-2023-36562](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36562-2023-09-19)|Visit link for details.|19/07/2024|
+ |[Microsoft - CVE-2023-36804](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36804-2023-10-09)|Visit link for details.|19/07/2024|
+ |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|19/07/2024|
+ |[Cisco - CVE-2023-20227](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20227-2023-10-02)|Visit link for details.|19/07/2024|
  |[Ivanti - CVE-2024-36131](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-36131-2024-07-18)|Visit link for details.|18/07/2024|
- |[Ivanti - CVE-2024-36130](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-36130-2024-07-18)|Visit link for details.|18/07/2024|
- |[Google Chrome - CVE-2024-6774](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6774-2024-07-18)|Visit link for details.|18/07/2024|
- |[Cisco - CVE-2024-20419](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20419-2024-07-18)|Visit link for details.|18/07/2024|
- |[Cisco - CVE-2024-20401](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20401-2024-07-18)|Visit link for details.|18/07/2024|
- |[Microsoft - CVE-2023-38148](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-38148-2023-09-13)|Visit link for details.|18/07/2024|
- |[Cisco - CVE-2023-20238](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20238-2023-09-07)|Visit link for details.|18/07/2024|
- |[RARLAB WinRAR - CVE-2023-38831](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-38831-2023-08-24)|Visit link for details.|18/07/2024|
- |[Microsoft - CVE-2023-36741](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36741-2023-08-28)|Visit link for details.|18/07/2024|
- |[Microsoft Edge - CVE-2023-36787](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-36787-2023-08-18)|Visit link for details.|18/07/2024|
- |[XEN - CVE-2024-31143](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2024-31143-2024-07-17)|Visit link for details.|17/07/2024|
  
 
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CrowdStrike Denial of Service vulnerability](https://www.hkcert.org/security-bulletin/crowdstrike-denial-of-service-vulnerability_20240719)|On 19 Jul 2024, CrowdStrike Falcon Sensor caused crashes on Windows hosts. Windows hosts running on cloud such as Azure, AWS, etc. are also affected. The symptoms include hosts experiencing a bugcheck\blue screen error. CrowdStrike Engineering has identified a content deployment...|Release Date: 19 Jul 2024 |
  |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20240719)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 19 Jul 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240719)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Jul 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
@@ -104,7 +105,6 @@
  |[VMWare Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/vmware-products-information-disclosure-vulnerability_20220401)|A vulnerability was identified in VMware products. An attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:CVE-2022-22948 is being exploited in the wild. A malicious actor with non-administrative...| Release Date: 1 Apr 2022 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 17 Jul 2024 |
  |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -118,20 +118,6 @@
  |[Apache CXF server-side request forgery (CVE-2024-29736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  |[Apache StreamPark code execution (CVE-2024-29178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-916/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-915/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-914/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-913/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-912/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
  
 
 # EU-CERT
@@ -151,10 +137,25 @@
  |[2024-060: Vulnerabilities in VMware Products](https://cert.europa.eu/publications/security-advisories/2024-060/)|On June 17, 2024, VMware released fixes for three vulnerabilities affecting VMware vCenter Server and VMware Cloud Foundation. Two of these vulnerabilities are critical. Exploitation these vulnerabilities could allow a malicious actor to execute remote code or escalate privileges on the affected systems.|Tuesday, June 18, 2024 06:44:15 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-916/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-915/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-914/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-913/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-912/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
  |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
  |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
  |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
@@ -165,13 +166,13 @@
  |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
  |[ 48391707/24 - Vulnérabilité critique affectant Rockwell Automation Pavilion 8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-pavilion-8)| Rockwell Automation  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit Pavilion 8.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 17 juillet 2024|
  |[ 48381507/24 - Vulnérabilités affectant des routeurs de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-routeurs-de-netgear)| Netgear annonce la correction de trois vulnérabilités affectant ses routeurs susmentionnés.  L'exploitation de ces vulnérabilités  peut  permettre  à un attaquant de contourner l’authentification,…| 15 juillet 2024|
- |[ 48381207/24 - Vulnérabilité critique affectant les serveurs de messagerie Exim ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-serveurs-de-messagerie-exim)| Exim annonce la correction  d’une vulnérabilité critique affectant les versions susmentionnées de son produit Exim transfer agent.  L'exploitation de cette vulnérabilité peut  permettre  à un…| 12 juillet 2024|
  
 
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Issue impacting CrowdStrike Falcon EDR](https://www.cyber.gc.ca/en/alerts-advisories/issue-impacting-crowdstrike-falcon-edr)|Visit link for details|2024-07-19|
  |[Ivanti security advisory (AV24-408)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-408)|Visit link for details|2024-07-18|
  |[ServiceNow security advisory (AV24-407)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-407)|Visit link for details|2024-07-18|
  |[SolarWinds security advisory (AV24-406)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-406)|Visit link for details|2024-07-18|
@@ -182,5 +183,4 @@
  |[Oracle security advisory – July 2024 quarterly rollup (AV24-401)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2024-quarterly-rollup-av24-401)|Visit link for details|2024-07-17|
  |[Cisco security advisory (AV24-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-400)|Visit link for details|2024-07-17|
  |[HPE security advisory (AV24-399)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-399)|Visit link for details|2024-07-17|
- |[Ivanti security advisory (AV24-398)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-398)|Visit link for details|2024-07-16|
  
