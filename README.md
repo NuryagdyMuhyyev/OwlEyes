@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/07/2024 00:16:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/07/2024 01:20:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
+ |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
+ |[AT&T Discloses Breach of Customer Data](https://www.cisa.gov/news-events/alerts/2024/07/12/att-discloses-breach-customer-data)|Visit link for details.|Jul 12, 2024|
+ |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,34 +62,6 @@
  |[DSA-5731-1 linux - security update](https://www.linux.org/threads/dsa-5731-1-linux-security-update.50968/)|Visit link for details.|Jul 17, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
- |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
- |[AT&T Discloses Breach of Customer Data](https://www.cisa.gov/news-events/alerts/2024/07/12/att-discloses-breach-customer-data)|Visit link for details.|Jul 12, 2024|
- |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -89,6 +77,12 @@
  |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|19/07/2024|
  |[Cisco - CVE-2023-20227](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20227-2023-10-02)|Visit link for details.|19/07/2024|
  |[Ivanti - CVE-2024-36131](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-36131-2024-07-18)|Visit link for details.|18/07/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -120,18 +114,10 @@
  |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-916/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-915/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-914/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-913/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-912/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
  
 
 # EU-CERT
@@ -166,6 +152,20 @@
  |[Google Chrome security advisory (AV24-402)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-402)|Visit link for details|2024-07-17|
  |[Oracle security advisory – July 2024 quarterly rollup (AV24-401)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2024-quarterly-rollup-av24-401)|Visit link for details|2024-07-17|
  |[Cisco security advisory (AV24-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-400)|Visit link for details|2024-07-17|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-916/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-915/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-914/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-913/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-912/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
  
 
 # MA-CERT
