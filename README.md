@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/07/2024 11:26:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/07/2024 12:18:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,23 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5733-1 thunderbird - security update](https://www.linux.org/threads/dsa-5733-1-thunderbird-security-update.50994/)|Visit link for details.|Jul 19, 2024|
+ |[USN-6902-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6902-1-apache-http-server-vulnerability.50992/)|Visit link for details.|Jul 18, 2024|
+ |[USN-6901-1: stunnel vulnerability](https://www.linux.org/threads/usn-6901-1-stunnel-vulnerability.50988/)|Visit link for details.|Jul 18, 2024|
+ |[DSA-5732-1 chromium - security update](https://www.linux.org/threads/dsa-5732-1-chromium-security-update.50987/)|Visit link for details.|Jul 18, 2024|
+ |[USN-6896-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-3-linux-kernel-vulnerabilities.50977/)|Visit link for details.|Jul 17, 2024|
+ |[USN-6900-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6900-1-linux-kernel-vulnerabilities.50976/)|Visit link for details.|Jul 17, 2024|
+ |[USN-6898-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-2-linux-kernel-vulnerabilities.50975/)|Visit link for details.|Jul 17, 2024|
+ |[DSA-5731-1 linux - security update](https://www.linux.org/threads/dsa-5731-1-linux-security-update.50968/)|Visit link for details.|Jul 17, 2024|
+ |[USN-6899-1: GTK vulnerability](https://www.linux.org/threads/usn-6899-1-gtk-vulnerability.50963/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6896-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-2-linux-kernel-vulnerabilities.50960/)|Visit link for details.|Jul 16, 2024|
+ |[USN-6895-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-2-linux-kernel-vulnerabilities.50959/)|Visit link for details.|Jul 16, 2024|
+ 
 
 # US-CERT
 
@@ -67,29 +84,6 @@
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5733-1 thunderbird - security update](https://www.linux.org/threads/dsa-5733-1-thunderbird-security-update.50994/)|Visit link for details.|Jul 19, 2024|
- |[USN-6902-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6902-1-apache-http-server-vulnerability.50992/)|Visit link for details.|Jul 18, 2024|
- |[USN-6901-1: stunnel vulnerability](https://www.linux.org/threads/usn-6901-1-stunnel-vulnerability.50988/)|Visit link for details.|Jul 18, 2024|
- |[DSA-5732-1 chromium - security update](https://www.linux.org/threads/dsa-5732-1-chromium-security-update.50987/)|Visit link for details.|Jul 18, 2024|
- |[USN-6896-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-3-linux-kernel-vulnerabilities.50977/)|Visit link for details.|Jul 17, 2024|
- |[USN-6900-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6900-1-linux-kernel-vulnerabilities.50976/)|Visit link for details.|Jul 17, 2024|
- |[USN-6898-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-2-linux-kernel-vulnerabilities.50975/)|Visit link for details.|Jul 17, 2024|
- |[DSA-5731-1 linux - security update](https://www.linux.org/threads/dsa-5731-1-linux-security-update.50968/)|Visit link for details.|Jul 17, 2024|
- |[USN-6899-1: GTK vulnerability](https://www.linux.org/threads/usn-6899-1-gtk-vulnerability.50963/)|Visit link for details.|Jul 16, 2024|
- |[USN-6896-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-2-linux-kernel-vulnerabilities.50960/)|Visit link for details.|Jul 16, 2024|
- |[USN-6895-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-2-linux-kernel-vulnerabilities.50959/)|Visit link for details.|Jul 16, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,6 +112,12 @@
  |[RARLAB WinRAR - CVE-2023-38831](https://www.cyberveille-sante.gouv.fr/alertes/rarlab-winrar-cve-2023-38831-2023-08-24)|Visit link for details.|18/07/2024|
  |[Cisco - CVE-2023-20238](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20238-2023-09-07)|Visit link for details.|18/07/2024|
  |[XEN - CVE-2024-31143](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2024-31143-2024-07-17)|Visit link for details.|17/07/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
