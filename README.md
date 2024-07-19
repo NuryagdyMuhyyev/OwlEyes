@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/07/2024 20:21:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/07/2024 21:23:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[DSA-5731-1 linux - security update](https://www.linux.org/threads/dsa-5731-1-linux-security-update.50968/)|Visit link for details.|Jul 17, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -89,6 +83,12 @@
  |[ Microsoft - CVE-2023-35349](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35349-2023-10-11)|Visit link for details.|19/07/2024|
  |[Cisco - CVE-2023-20227](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20227-2023-10-02)|Visit link for details.|19/07/2024|
  |[Ivanti - CVE-2024-36131](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-36131-2024-07-18)|Visit link for details.|18/07/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -120,6 +120,20 @@
  |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-916/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-915/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-914/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-913/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-912/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -137,18 +151,21 @@
  |[2024-060: Vulnerabilities in VMware Products](https://cert.europa.eu/publications/security-advisories/2024-060/)|On June 17, 2024, VMware released fixes for three vulnerabilities affecting VMware vCenter Server and VMware Cloud Foundation. Two of these vulnerabilities are critical. Exploitation these vulnerabilities could allow a malicious actor to execute remote code or escalate privileges on the affected systems.|Tuesday, June 18, 2024 06:44:15 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-916/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-915/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-914/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-913/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-912/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
+ |[Issue impacting CrowdStrike Falcon EDR](https://www.cyber.gc.ca/en/alerts-advisories/issue-impacting-crowdstrike-falcon-edr)|Visit link for details|2024-07-19|
+ |[Ivanti security advisory (AV24-408)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-408)|Visit link for details|2024-07-18|
+ |[ServiceNow security advisory (AV24-407)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-407)|Visit link for details|2024-07-18|
+ |[SolarWinds security advisory (AV24-406)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-406)|Visit link for details|2024-07-18|
+ |[Mitel security advisory (AV24-405)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-405)|Visit link for details|2024-07-18|
+ |[Cisco security advisory (AV24-404)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-404)|Visit link for details|2024-07-17|
+ |[Cisco security advisory (AV24-403)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-403)|Visit link for details|2024-07-17|
+ |[Google Chrome security advisory (AV24-402)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-402)|Visit link for details|2024-07-17|
+ |[Oracle security advisory – July 2024 quarterly rollup (AV24-401)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2024-quarterly-rollup-av24-401)|Visit link for details|2024-07-17|
+ |[Cisco security advisory (AV24-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-400)|Visit link for details|2024-07-17|
+ |[HPE security advisory (AV24-399)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-399)|Visit link for details|2024-07-17|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
  |[ 48391707/24 - Vulnérabilité critique affectant Rockwell Automation Pavilion 8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-pavilion-8)| Rockwell Automation  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit Pavilion 8.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 17 juillet 2024|
  |[ 48381507/24 - Vulnérabilités affectant des routeurs de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-routeurs-de-netgear)| Netgear annonce la correction de trois vulnérabilités affectant ses routeurs susmentionnés.  L'exploitation de ces vulnérabilités  peut  permettre  à un attaquant de contourner l’authentification,…| 15 juillet 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Issue impacting CrowdStrike Falcon EDR](https://www.cyber.gc.ca/en/alerts-advisories/issue-impacting-crowdstrike-falcon-edr)|Visit link for details|2024-07-19|
- |[Ivanti security advisory (AV24-408)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-408)|Visit link for details|2024-07-18|
- |[ServiceNow security advisory (AV24-407)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-407)|Visit link for details|2024-07-18|
- |[SolarWinds security advisory (AV24-406)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-406)|Visit link for details|2024-07-18|
- |[Mitel security advisory (AV24-405)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-405)|Visit link for details|2024-07-18|
- |[Cisco security advisory (AV24-404)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-404)|Visit link for details|2024-07-17|
- |[Cisco security advisory (AV24-403)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-403)|Visit link for details|2024-07-17|
- |[Google Chrome security advisory (AV24-402)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-402)|Visit link for details|2024-07-17|
- |[Oracle security advisory – July 2024 quarterly rollup (AV24-401)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2024-quarterly-rollup-av24-401)|Visit link for details|2024-07-17|
- |[Cisco security advisory (AV24-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-400)|Visit link for details|2024-07-17|
- |[HPE security advisory (AV24-399)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-399)|Visit link for details|2024-07-17|
  
