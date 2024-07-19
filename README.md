@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/07/2024 09:24:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/07/2024 10:19:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,28 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
- |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
- |[AT&T Discloses Breach of Customer Data](https://www.cisa.gov/news-events/alerts/2024/07/12/att-discloses-breach-customer-data)|Visit link for details.|Jul 12, 2024|
- |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
- |[CISA Releases Twenty-one Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,7 +46,29 @@
  |[USN-6895-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-2-linux-kernel-vulnerabilities.50959/)|Visit link for details.|Jul 16, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
+ |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
+ |[AT&T Discloses Breach of Customer Data](https://www.cisa.gov/news-events/alerts/2024/07/12/att-discloses-breach-customer-data)|Visit link for details.|Jul 12, 2024|
+ |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
+ |[CISA Releases Twenty-one Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2024|
+ 
+
 # OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -111,13 +111,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Tenda AX2pro code execution (CVE-2024-40515)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  |[SolarWinds Access Rights Manager code execution (CVE-2024-28074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  |[Apache CXF denial of service (CVE-2024-41172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  |[Apache CXF denial of service (CVE-2024-32007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  |[Apache CXF server-side request forgery (CVE-2024-29736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  |[Apache StreamPark code execution (CVE-2024-29178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  
 
 # ZERODAYINITIATIVE
@@ -132,23 +132,6 @@
  |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
  |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
  |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti security advisory (AV24-408)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-408)|Visit link for details|2024-07-18|
- |[ServiceNow security advisory (AV24-407)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-407)|Visit link for details|2024-07-18|
- |[SolarWinds security advisory (AV24-406)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-406)|Visit link for details|2024-07-18|
- |[Mitel security advisory (AV24-405)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-405)|Visit link for details|2024-07-18|
- |[Cisco security advisory (AV24-404)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-404)|Visit link for details|2024-07-17|
- |[Cisco security advisory (AV24-403)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-403)|Visit link for details|2024-07-17|
- |[Google Chrome security advisory (AV24-402)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-402)|Visit link for details|2024-07-17|
- |[Oracle security advisory – July 2024 quarterly rollup (AV24-401)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2024-quarterly-rollup-av24-401)|Visit link for details|2024-07-17|
- |[Cisco security advisory (AV24-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-400)|Visit link for details|2024-07-17|
- |[HPE security advisory (AV24-399)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-399)|Visit link for details|2024-07-17|
- |[Ivanti security advisory (AV24-398)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-398)|Visit link for details|2024-07-16|
  
 
 # EU-CERT
@@ -166,6 +149,23 @@
  |[2024-062: Vulnerabilities in Chrome and Chromium based Browsers](https://cert.europa.eu/publications/security-advisories/2024-062/)|Google has released a critical security update for its Chrome Browser, addressing six high-severity vulnerabilities that could lead to serious security issues. Chromium-based browsers are also impacted. |Friday, June 21, 2024 03:27:05 PM CEST|
  |[2024-061: Vulnerabilities in Nextcloud Products](https://cert.europa.eu/publications/security-advisories/2024-061/)|On June 14, 2024, Nextcloud released patches for Nextcloud Server and Enterprise Server. A vulnerability was disclosed in Nextcloud server products that allows the bypassing of the second factor of two-factor authentication (2FA).|Tuesday, June 18, 2024 06:47:33 PM CEST|
  |[2024-060: Vulnerabilities in VMware Products](https://cert.europa.eu/publications/security-advisories/2024-060/)|On June 17, 2024, VMware released fixes for three vulnerabilities affecting VMware vCenter Server and VMware Cloud Foundation. Two of these vulnerabilities are critical. Exploitation these vulnerabilities could allow a malicious actor to execute remote code or escalate privileges on the affected systems.|Tuesday, June 18, 2024 06:44:15 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti security advisory (AV24-408)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-408)|Visit link for details|2024-07-18|
+ |[ServiceNow security advisory (AV24-407)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-407)|Visit link for details|2024-07-18|
+ |[SolarWinds security advisory (AV24-406)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-406)|Visit link for details|2024-07-18|
+ |[Mitel security advisory (AV24-405)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-405)|Visit link for details|2024-07-18|
+ |[Cisco security advisory (AV24-404)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-404)|Visit link for details|2024-07-17|
+ |[Cisco security advisory (AV24-403)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-403)|Visit link for details|2024-07-17|
+ |[Google Chrome security advisory (AV24-402)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-402)|Visit link for details|2024-07-17|
+ |[Oracle security advisory – July 2024 quarterly rollup (AV24-401)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2024-quarterly-rollup-av24-401)|Visit link for details|2024-07-17|
+ |[Cisco security advisory (AV24-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-400)|Visit link for details|2024-07-17|
+ |[HPE security advisory (AV24-399)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-399)|Visit link for details|2024-07-17|
+ |[Ivanti security advisory (AV24-398)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-398)|Visit link for details|2024-07-16|
  
 
 # MA-CERT
