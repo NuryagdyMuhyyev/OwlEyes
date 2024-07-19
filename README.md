@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/07/2024 07:36:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/07/2024 08:23:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,19 +44,6 @@
  |[USN-6899-1: GTK vulnerability](https://www.linux.org/threads/usn-6899-1-gtk-vulnerability.50963/)|Visit link for details.|Jul 16, 2024|
  |[USN-6896-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-2-linux-kernel-vulnerabilities.50960/)|Visit link for details.|Jul 16, 2024|
  |[USN-6895-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-2-linux-kernel-vulnerabilities.50959/)|Visit link for details.|Jul 16, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[SonicWall SonicOS IPSec VPN denial of service (CVE-2024-40764)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[SonicWall NetExtender Windows client code execution (CVE-2024-29014)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache HTTP Server information disclosure (CVE-2024-40725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache HTTP Server server-side request forgery (CVE-2024-40898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Cisco Secure Email Gateway code execution (CVE-2024-20401)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Cisco Smart Software Manager On-Prem privilege escalation (CVE-2024-20419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  
 
 # US-CERT
@@ -81,7 +62,7 @@
  |[CISA Releases Twenty-one Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Jul 11, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -104,10 +85,32 @@
  |[XEN - CVE-2024-31143](https://www.cyberveille-sante.gouv.fr/alertes/xen-cve-2024-31143-2024-07-17)|Visit link for details.|17/07/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache CXF server-side request forgery (CVE-2024-29736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache StreamPark code execution (CVE-2024-29178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[SonicWall SonicOS IPSec VPN denial of service (CVE-2024-40764)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[SonicWall NetExtender Windows client code execution (CVE-2024-29014)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache HTTP Server information disclosure (CVE-2024-40725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20240719)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 19 Jul 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240719)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Jul 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240718)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, elevation of privilege and data manipulation on the targeted system.|Release Date: 18 Jul 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
  |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...| Release Date: 12 Jun 2024 |
@@ -115,9 +118,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 17 Jul 2024 |
  |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
- |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20240717)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure and spoofing on the targeted system.|Release Date: 17 Jul 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2024-...| Release Date: 10 Jul 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
  
 
 # EU-CERT
@@ -135,22 +135,6 @@
  |[2024-062: Vulnerabilities in Chrome and Chromium based Browsers](https://cert.europa.eu/publications/security-advisories/2024-062/)|Google has released a critical security update for its Chrome Browser, addressing six high-severity vulnerabilities that could lead to serious security issues. Chromium-based browsers are also impacted. |Friday, June 21, 2024 03:27:05 PM CEST|
  |[2024-061: Vulnerabilities in Nextcloud Products](https://cert.europa.eu/publications/security-advisories/2024-061/)|On June 14, 2024, Nextcloud released patches for Nextcloud Server and Enterprise Server. A vulnerability was disclosed in Nextcloud server products that allows the bypassing of the second factor of two-factor authentication (2FA).|Tuesday, June 18, 2024 06:47:33 PM CEST|
  |[2024-060: Vulnerabilities in VMware Products](https://cert.europa.eu/publications/security-advisories/2024-060/)|On June 17, 2024, VMware released fixes for three vulnerabilities affecting VMware vCenter Server and VMware Cloud Foundation. Two of these vulnerabilities are critical. Exploitation these vulnerabilities could allow a malicious actor to execute remote code or escalate privileges on the affected systems.|Tuesday, June 18, 2024 06:44:15 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
- |[ 48431807/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-1)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 18 juillet 2024|
- |[ 48421807/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-21)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 juillet 2024|
- |[ 48411807/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-0)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 18 juillet 2024|
- |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
- |[ 48391707/24 - Vulnérabilité critique affectant Rockwell Automation Pavilion 8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-pavilion-8)| Rockwell Automation  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit Pavilion 8.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 17 juillet 2024|
- |[ 48381507/24 - Vulnérabilités affectant des routeurs de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-routeurs-de-netgear)| Netgear annonce la correction de trois vulnérabilités affectant ses routeurs susmentionnés.  L'exploitation de ces vulnérabilités  peut  permettre  à un attaquant de contourner l’authentification,…| 15 juillet 2024|
- |[ 48381207/24 - Vulnérabilité critique affectant les serveurs de messagerie Exim ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-serveurs-de-messagerie-exim)| Exim annonce la correction  d’une vulnérabilité critique affectant les versions susmentionnées de son produit Exim transfer agent.  L'exploitation de cette vulnérabilité peut  permettre  à un…| 12 juillet 2024|
- |[ 48341207/24 - Vulnérabilité affectant deux produits de VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-deux-produits-de-vmware)| VMware annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code arbitraire.| 12 juillet 2024|
- |[ 48361207/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 12 juillet 2024|
  
 
 # ZERODAYINITIATIVE
@@ -182,4 +166,20 @@
  |[Cisco security advisory (AV24-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-400)|Visit link for details|2024-07-17|
  |[HPE security advisory (AV24-399)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-399)|Visit link for details|2024-07-17|
  |[Ivanti security advisory (AV24-398)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-398)|Visit link for details|2024-07-16|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
+ |[ 48431807/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-1)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 18 juillet 2024|
+ |[ 48421807/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-21)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 juillet 2024|
+ |[ 48411807/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-0)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 18 juillet 2024|
+ |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
+ |[ 48391707/24 - Vulnérabilité critique affectant Rockwell Automation Pavilion 8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-pavilion-8)| Rockwell Automation  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit Pavilion 8.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 17 juillet 2024|
+ |[ 48381507/24 - Vulnérabilités affectant des routeurs de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-routeurs-de-netgear)| Netgear annonce la correction de trois vulnérabilités affectant ses routeurs susmentionnés.  L'exploitation de ces vulnérabilités  peut  permettre  à un attaquant de contourner l’authentification,…| 15 juillet 2024|
+ |[ 48381207/24 - Vulnérabilité critique affectant les serveurs de messagerie Exim ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-serveurs-de-messagerie-exim)| Exim annonce la correction  d’une vulnérabilité critique affectant les versions susmentionnées de son produit Exim transfer agent.  L'exploitation de cette vulnérabilité peut  permettre  à un…| 12 juillet 2024|
+ |[ 48341207/24 - Vulnérabilité affectant deux produits de VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-deux-produits-de-vmware)| VMware annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code arbitraire.| 12 juillet 2024|
+ |[ 48361207/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 12 juillet 2024|
  
