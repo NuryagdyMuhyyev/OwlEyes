@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/07/2024 20:18:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/07/2024 21:23:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,13 +62,13 @@
  |[DSA-5731-1 linux - security update](https://www.linux.org/threads/dsa-5731-1-linux-security-update.50968/)|Visit link for details.|Jul 17, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -107,6 +107,19 @@
  |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20240717)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 17 Jul 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Tenda AX2pro code execution (CVE-2024-40515)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[SolarWinds Access Rights Manager code execution (CVE-2024-28074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache CXF denial of service (CVE-2024-41172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache CXF denial of service (CVE-2024-32007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache CXF server-side request forgery (CVE-2024-29736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache StreamPark code execution (CVE-2024-29178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -124,6 +137,20 @@
  |[2024-061: Vulnerabilities in Nextcloud Products](https://cert.europa.eu/publications/security-advisories/2024-061/)|On June 14, 2024, Nextcloud released patches for Nextcloud Server and Enterprise Server. A vulnerability was disclosed in Nextcloud server products that allows the bypassing of the second factor of two-factor authentication (2FA).|Tuesday, June 18, 2024 06:47:33 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-916/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-915/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-914/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-913/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-912/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -139,33 +166,6 @@
  |[Google Chrome security advisory (AV24-402)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-402)|Visit link for details|2024-07-17|
  |[Oracle security advisory – July 2024 quarterly rollup (AV24-401)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2024-quarterly-rollup-av24-401)|Visit link for details|2024-07-17|
  |[Cisco security advisory (AV24-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-400)|Visit link for details|2024-07-17|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tenda AX2pro code execution (CVE-2024-40515)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[SolarWinds Access Rights Manager code execution (CVE-2024-28074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache CXF denial of service (CVE-2024-41172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache CXF denial of service (CVE-2024-32007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache CXF server-side request forgery (CVE-2024-29736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache StreamPark code execution (CVE-2024-29178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-916/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-915/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-914/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-913/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-912/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
  
 
 # MA-CERT
