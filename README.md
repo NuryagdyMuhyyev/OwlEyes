@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/07/2024 02:16:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/07/2024 03:17:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,12 @@
  |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,10 +90,17 @@
  |---|---|---|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Tenda AX2pro code execution (CVE-2024-40515)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[SolarWinds Access Rights Manager code execution (CVE-2024-28074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache CXF denial of service (CVE-2024-41172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache CXF denial of service (CVE-2024-32007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache CXF server-side request forgery (CVE-2024-29736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache StreamPark code execution (CVE-2024-29178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  
 
 # CERT-SANTE
@@ -107,19 +120,6 @@
  |[Ivanti - CVE-2024-36131](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-36131-2024-07-18)|Visit link for details.|18/07/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tenda AX2pro code execution (CVE-2024-40515)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[SolarWinds Access Rights Manager code execution (CVE-2024-28074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache CXF denial of service (CVE-2024-41172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache CXF denial of service (CVE-2024-32007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache CXF server-side request forgery (CVE-2024-29736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache StreamPark code execution (CVE-2024-29178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -135,6 +135,23 @@
  |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
  |[2024-062: Vulnerabilities in Chrome and Chromium based Browsers](https://cert.europa.eu/publications/security-advisories/2024-062/)|Google has released a critical security update for its Chrome Browser, addressing six high-severity vulnerabilities that could lead to serious security issues. Chromium-based browsers are also impacted. |Friday, June 21, 2024 03:27:05 PM CEST|
  |[2024-061: Vulnerabilities in Nextcloud Products](https://cert.europa.eu/publications/security-advisories/2024-061/)|On June 14, 2024, Nextcloud released patches for Nextcloud Server and Enterprise Server. A vulnerability was disclosed in Nextcloud server products that allows the bypassing of the second factor of two-factor authentication (2FA).|Tuesday, June 18, 2024 06:47:33 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
+ |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
+ |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
+ |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
+ |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
+ |[ 48431807/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-1)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 18 juillet 2024|
+ |[ 48421807/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-21)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 juillet 2024|
+ |[ 48411807/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-0)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 18 juillet 2024|
+ |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
+ |[ 48391707/24 - Vulnérabilité critique affectant Rockwell Automation Pavilion 8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-pavilion-8)| Rockwell Automation  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit Pavilion 8.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 17 juillet 2024|
+ |[ 48381507/24 - Vulnérabilités affectant des routeurs de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-routeurs-de-netgear)| Netgear annonce la correction de trois vulnérabilités affectant ses routeurs susmentionnés.  L'exploitation de ces vulnérabilités  peut  permettre  à un attaquant de contourner l’authentification,…| 15 juillet 2024|
  
 
 # CA-CCS
@@ -166,21 +183,4 @@
  |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
  |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
  |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
- |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
- |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
- |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
- |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
- |[ 48431807/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-1)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 18 juillet 2024|
- |[ 48421807/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-21)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 juillet 2024|
- |[ 48411807/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-0)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 18 juillet 2024|
- |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
- |[ 48391707/24 - Vulnérabilité critique affectant Rockwell Automation Pavilion 8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-pavilion-8)| Rockwell Automation  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit Pavilion 8.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 17 juillet 2024|
- |[ 48381507/24 - Vulnérabilités affectant des routeurs de Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-routeurs-de-netgear)| Netgear annonce la correction de trois vulnérabilités affectant ses routeurs susmentionnés.  L'exploitation de ces vulnérabilités  peut  permettre  à un attaquant de contourner l’authentification,…| 15 juillet 2024|
  
