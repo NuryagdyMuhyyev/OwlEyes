@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/07/2024 12:18:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/07/2024 13:25:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -123,6 +123,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 12, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 09:48:00 AM CEST|
  |[2024-071: Critical Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-071/)|On July 18, 2024, SolarWinds issued an advisory addressing multiple critical vulnerabilities in its Access Rights Manager (ARM) software. These vulnerabilities could lead to remote code execution, arbitrary file deletion and sensitive information leakage.|Friday, July 19, 2024 07:30:40 PM CEST|
  |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
  |[2024-069: Vulnerabilities in Citrix Netscaler](https://cert.europa.eu/publications/security-advisories/2024-069/)|On July 9, 2024, Citrix released a security advisory addressing two vulnerabilities in Citrix NetScaler Console, Agent, and SDX (SVM). The vulnerabilities "CVE-2024-6235" and "CVE-2024-6236" can result in sensitive information disclosure and denial of service.|Monday, July 15, 2024 05:41:57 PM CEST|
@@ -133,7 +134,6 @@
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
  |[2024-062: Vulnerabilities in Chrome and Chromium based Browsers](https://cert.europa.eu/publications/security-advisories/2024-062/)|Google has released a critical security update for its Chrome Browser, addressing six high-severity vulnerabilities that could lead to serious security issues. Chromium-based browsers are also impacted. |Friday, June 21, 2024 03:27:05 PM CEST|
- |[2024-061: Vulnerabilities in Nextcloud Products](https://cert.europa.eu/publications/security-advisories/2024-061/)|On June 14, 2024, Nextcloud released patches for Nextcloud Server and Enterprise Server. A vulnerability was disclosed in Nextcloud server products that allows the bypassing of the second factor of two-factor authentication (2FA).|Tuesday, June 18, 2024 06:47:33 PM CEST|
  
 
 # ZERODAYINITIATIVE
