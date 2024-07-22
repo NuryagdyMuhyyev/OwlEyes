@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/07/2024 14:23:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/07/2024 15:20:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6896-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-4-linux-kernel-vulnerabilities.51004/)|Visit link for details.|Jul 19, 2024|
- |[USN-6898-3: Linux kernel kernel vulnerabilities](https://www.linux.org/threads/usn-6898-3-linux-kernel-kernel-vulnerabilities.51001/)|Visit link for details.|Jul 19, 2024|
- |[USN-6895-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-3-linux-kernel-vulnerabilities.51000/)|Visit link for details.|Jul 19, 2024|
- |[DSA-5733-1 thunderbird - security update](https://www.linux.org/threads/dsa-5733-1-thunderbird-security-update.50994/)|Visit link for details.|Jul 19, 2024|
- |[USN-6902-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6902-1-apache-http-server-vulnerability.50992/)|Visit link for details.|Jul 18, 2024|
- |[USN-6901-1: stunnel vulnerability](https://www.linux.org/threads/usn-6901-1-stunnel-vulnerability.50988/)|Visit link for details.|Jul 18, 2024|
- |[DSA-5732-1 chromium - security update](https://www.linux.org/threads/dsa-5732-1-chromium-security-update.50987/)|Visit link for details.|Jul 18, 2024|
- |[USN-6896-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-3-linux-kernel-vulnerabilities.50977/)|Visit link for details.|Jul 17, 2024|
- |[USN-6900-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6900-1-linux-kernel-vulnerabilities.50976/)|Visit link for details.|Jul 17, 2024|
- |[USN-6898-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-2-linux-kernel-vulnerabilities.50975/)|Visit link for details.|Jul 17, 2024|
- |[DSA-5731-1 linux - security update](https://www.linux.org/threads/dsa-5731-1-linux-security-update.50968/)|Visit link for details.|Jul 17, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,23 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
  |[AT&T Discloses Breach of Customer Data](https://www.cisa.gov/news-events/alerts/2024/07/12/att-discloses-breach-customer-data)|Visit link for details.|Jul 12, 2024|
  |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6903-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6903-1-thunderbird-vulnerabilities.51024/)|Visit link for details.|Jul 22, 2024|
+ |[USN-6896-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-4-linux-kernel-vulnerabilities.51004/)|Visit link for details.|Jul 19, 2024|
+ |[USN-6898-3: Linux kernel kernel vulnerabilities](https://www.linux.org/threads/usn-6898-3-linux-kernel-kernel-vulnerabilities.51001/)|Visit link for details.|Jul 19, 2024|
+ |[USN-6895-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-3-linux-kernel-vulnerabilities.51000/)|Visit link for details.|Jul 19, 2024|
+ |[DSA-5733-1 thunderbird - security update](https://www.linux.org/threads/dsa-5733-1-thunderbird-security-update.50994/)|Visit link for details.|Jul 19, 2024|
+ |[USN-6902-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6902-1-apache-http-server-vulnerability.50992/)|Visit link for details.|Jul 18, 2024|
+ |[USN-6901-1: stunnel vulnerability](https://www.linux.org/threads/usn-6901-1-stunnel-vulnerability.50988/)|Visit link for details.|Jul 18, 2024|
+ |[DSA-5732-1 chromium - security update](https://www.linux.org/threads/dsa-5732-1-chromium-security-update.50987/)|Visit link for details.|Jul 18, 2024|
+ |[USN-6896-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-3-linux-kernel-vulnerabilities.50977/)|Visit link for details.|Jul 17, 2024|
+ |[USN-6900-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6900-1-linux-kernel-vulnerabilities.50976/)|Visit link for details.|Jul 17, 2024|
+ |[USN-6898-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-2-linux-kernel-vulnerabilities.50975/)|Visit link for details.|Jul 17, 2024|
  
 
 # CERT-FR
@@ -85,12 +85,6 @@
  |[Ivanti - CVE-2024-36131](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-36131-2024-07-18)|Visit link for details.|18/07/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -104,6 +98,12 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
  |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...| Release Date: 12 Jun 2024 |
  |[VMWare Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/vmware-products-information-disclosure-vulnerability_20220401)|A vulnerability was identified in VMware products. An attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:CVE-2022-22948 is being exploited in the wild. A malicious actor with non-administrative...| Release Date: 1 Apr 2022 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -134,20 +134,6 @@
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
  |[2024-062: Vulnerabilities in Chrome and Chromium based Browsers](https://cert.europa.eu/publications/security-advisories/2024-062/)|Google has released a critical security update for its Chrome Browser, addressing six high-severity vulnerabilities that could lead to serious security issues. Chromium-based browsers are also impacted. |Friday, June 21, 2024 03:27:05 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-916/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-915/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-914/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-913/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-912/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
- |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
  
 
 # MA-CERT
@@ -182,4 +168,18 @@
  |[Google Chrome security advisory (AV24-402)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-402)|Visit link for details|2024-07-17|
  |[Oracle security advisory – July 2024 quarterly rollup (AV24-401)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2024-quarterly-rollup-av24-401)|Visit link for details|2024-07-17|
  |[Cisco security advisory (AV24-400)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-400)|Visit link for details|2024-07-17|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-916/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-915/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-914/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-913/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-912/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager UserScriptHumster Exposed Dangerous Method Remote Command Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-911/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager CreateFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-910/)|Visit link for details|2024-07-18|
+ |[SolarWinds Access Rights Manager ExpandZipFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-909/)|Visit link for details|2024-07-18|
  
