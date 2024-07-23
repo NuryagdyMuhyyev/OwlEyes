@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/07/2024 03:17:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/07/2024 04:21:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6910-1: Apache ActiveMQ vulnerabilities](https://www.linux.org/threads/usn-6910-1-apache-activemq-vulnerabilities.51064/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6530-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6530-2-haproxy-vulnerability.51063/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6911-1: Nova vulnerability](https://www.linux.org/threads/usn-6911-1-nova-vulnerability.51062/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6907-1: Squid vulnerability](https://www.linux.org/threads/usn-6907-1-squid-vulnerability.51058/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6909-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-1-bind-vulnerabilities.51057/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6908-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6908-1-tomcat-vulnerabilities.51056/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6898-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-4-linux-kernel-vulnerabilities.51047/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6893-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-3-linux-kernel-vulnerabilities.51046/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6896-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-5-linux-kernel-vulnerabilities.51045/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6905-1: Rack vulnerabilities](https://www.linux.org/threads/usn-6905-1-rack-vulnerabilities.51039/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6904-1: PyMongo vulnerability](https://www.linux.org/threads/usn-6904-1-pymongo-vulnerability.51034/)|Visit link for details.|Jul 22, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,35 +60,6 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6907-1: Squid vulnerability](https://www.linux.org/threads/usn-6907-1-squid-vulnerability.51058/)|Visit link for details.|Jul 23, 2024|
- |[USN-6909-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-1-bind-vulnerabilities.51057/)|Visit link for details.|Jul 23, 2024|
- |[USN-6908-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6908-1-tomcat-vulnerabilities.51056/)|Visit link for details.|Jul 23, 2024|
- |[USN-6898-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-4-linux-kernel-vulnerabilities.51047/)|Visit link for details.|Jul 23, 2024|
- |[USN-6893-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-3-linux-kernel-vulnerabilities.51046/)|Visit link for details.|Jul 23, 2024|
- |[USN-6896-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-5-linux-kernel-vulnerabilities.51045/)|Visit link for details.|Jul 23, 2024|
- |[USN-6905-1: Rack vulnerabilities](https://www.linux.org/threads/usn-6905-1-rack-vulnerabilities.51039/)|Visit link for details.|Jul 23, 2024|
- |[USN-6904-1: PyMongo vulnerability](https://www.linux.org/threads/usn-6904-1-pymongo-vulnerability.51034/)|Visit link for details.|Jul 22, 2024|
- |[USN-6903-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6903-1-thunderbird-vulnerabilities.51024/)|Visit link for details.|Jul 22, 2024|
- |[USN-6896-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-4-linux-kernel-vulnerabilities.51004/)|Visit link for details.|Jul 19, 2024|
- |[USN-6898-3: Linux kernel kernel vulnerabilities](https://www.linux.org/threads/usn-6898-3-linux-kernel-kernel-vulnerabilities.51001/)|Visit link for details.|Jul 19, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -89,6 +77,18 @@
  |[Microsoft - CVE-2023-36033](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36033-2023-11-15)|Visit link for details.|23/07/2024|
  |[Cisco - CVE-2023-20244](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20244-2023-11-03)|Visit link for details.|23/07/2024|
  |[SolarWinds- CVE-2024-23470](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23470-2024-07-22)|Visit link for details.|22/07/2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -114,9 +114,9 @@
  |[ISC BIND denial of service (CVE-2024-1975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
  |[ISC BIND denial of service (CVE-2024-1737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
  |[ISC BIND denial of service (CVE-2024-0760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
- |[Apache Syncope HTML injection (CVE-2024-38503)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- |[Apache StreamPark security bypass (CVE-2024-29070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- |[Apache StreamPark information disclosure (CVE-2024-34457)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
+ |[Adobe Experience Manager code execution (CVE-2024-41839)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
+ |[Adobe Experience Manager cross-site scripting (CVE-2024-34128)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
+ |[Adobe InDesign denial of service (CVE-2024-41836)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
  
 
 # EU-CERT
