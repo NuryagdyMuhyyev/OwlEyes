@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/07/2024 09:22:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/07/2024 10:18:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6905-1: Rack vulnerabilities](https://www.linux.org/threads/usn-6905-1-rack-vulnerabilities.51039/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6904-1: PyMongo vulnerability](https://www.linux.org/threads/usn-6904-1-pymongo-vulnerability.51034/)|Visit link for details.|Jul 22, 2024|
+ |[USN-6903-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6903-1-thunderbird-vulnerabilities.51024/)|Visit link for details.|Jul 22, 2024|
+ |[USN-6896-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-4-linux-kernel-vulnerabilities.51004/)|Visit link for details.|Jul 19, 2024|
+ |[USN-6898-3: Linux kernel kernel vulnerabilities](https://www.linux.org/threads/usn-6898-3-linux-kernel-kernel-vulnerabilities.51001/)|Visit link for details.|Jul 19, 2024|
+ |[USN-6895-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-3-linux-kernel-vulnerabilities.51000/)|Visit link for details.|Jul 19, 2024|
+ |[DSA-5733-1 thunderbird - security update](https://www.linux.org/threads/dsa-5733-1-thunderbird-security-update.50994/)|Visit link for details.|Jul 19, 2024|
+ |[USN-6902-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6902-1-apache-http-server-vulnerability.50992/)|Visit link for details.|Jul 18, 2024|
+ |[USN-6901-1: stunnel vulnerability](https://www.linux.org/threads/usn-6901-1-stunnel-vulnerability.50988/)|Visit link for details.|Jul 18, 2024|
+ |[DSA-5732-1 chromium - security update](https://www.linux.org/threads/dsa-5732-1-chromium-security-update.50987/)|Visit link for details.|Jul 18, 2024|
+ |[USN-6896-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-3-linux-kernel-vulnerabilities.50977/)|Visit link for details.|Jul 17, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
  |---|---|---|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6905-1: Rack vulnerabilities](https://www.linux.org/threads/usn-6905-1-rack-vulnerabilities.51039/)|Visit link for details.|Jul 23, 2024|
- |[USN-6904-1: PyMongo vulnerability](https://www.linux.org/threads/usn-6904-1-pymongo-vulnerability.51034/)|Visit link for details.|Jul 22, 2024|
- |[USN-6903-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6903-1-thunderbird-vulnerabilities.51024/)|Visit link for details.|Jul 22, 2024|
- |[USN-6896-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-4-linux-kernel-vulnerabilities.51004/)|Visit link for details.|Jul 19, 2024|
- |[USN-6898-3: Linux kernel kernel vulnerabilities](https://www.linux.org/threads/usn-6898-3-linux-kernel-kernel-vulnerabilities.51001/)|Visit link for details.|Jul 19, 2024|
- |[USN-6895-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-3-linux-kernel-vulnerabilities.51000/)|Visit link for details.|Jul 19, 2024|
- |[DSA-5733-1 thunderbird - security update](https://www.linux.org/threads/dsa-5733-1-thunderbird-security-update.50994/)|Visit link for details.|Jul 19, 2024|
- |[USN-6902-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6902-1-apache-http-server-vulnerability.50992/)|Visit link for details.|Jul 18, 2024|
- |[USN-6901-1: stunnel vulnerability](https://www.linux.org/threads/usn-6901-1-stunnel-vulnerability.50988/)|Visit link for details.|Jul 18, 2024|
- |[DSA-5732-1 chromium - security update](https://www.linux.org/threads/dsa-5732-1-chromium-security-update.50987/)|Visit link for details.|Jul 18, 2024|
- |[USN-6896-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-3-linux-kernel-vulnerabilities.50977/)|Visit link for details.|Jul 17, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -83,6 +83,12 @@
  |[VMWare Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/vmware-products-information-disclosure-vulnerability_20220401)|A vulnerability was identified in VMware products. An attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:CVE-2022-22948 is being exploited in the wild. A malicious actor with non-administrative...| Release Date: 1 Apr 2022 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -94,12 +100,6 @@
  |[Apache CXF server-side request forgery (CVE-2024-29736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  |[Apache StreamPark code execution (CVE-2024-29178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
