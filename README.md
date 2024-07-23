@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/07/2024 15:19:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/07/2024 16:17:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,10 +45,19 @@
  |[CISA Releases Advisory Detailing Red Team Activity During Assessment of US FCEB Organization, Highlighting Necessity of Defense-in-Depth ](https://www.cisa.gov/news-events/alerts/2024/07/11/cisa-releases-advisory-detailing-red-team-activity-during-assessment-us-fceb-organization)|Visit link for details.|Jul 11, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6898-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-4-linux-kernel-vulnerabilities.51047/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6893-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-3-linux-kernel-vulnerabilities.51046/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6896-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-5-linux-kernel-vulnerabilities.51045/)|Visit link for details.|Jul 23, 2024|
  |[USN-6905-1: Rack vulnerabilities](https://www.linux.org/threads/usn-6905-1-rack-vulnerabilities.51039/)|Visit link for details.|Jul 23, 2024|
  |[USN-6904-1: PyMongo vulnerability](https://www.linux.org/threads/usn-6904-1-pymongo-vulnerability.51034/)|Visit link for details.|Jul 22, 2024|
  |[USN-6903-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6903-1-thunderbird-vulnerabilities.51024/)|Visit link for details.|Jul 22, 2024|
@@ -57,9 +66,6 @@
  |[USN-6895-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-3-linux-kernel-vulnerabilities.51000/)|Visit link for details.|Jul 19, 2024|
  |[DSA-5733-1 thunderbird - security update](https://www.linux.org/threads/dsa-5733-1-thunderbird-security-update.50994/)|Visit link for details.|Jul 19, 2024|
  |[USN-6902-1: Apache HTTP Server vulnerability](https://www.linux.org/threads/usn-6902-1-apache-http-server-vulnerability.50992/)|Visit link for details.|Jul 18, 2024|
- |[USN-6901-1: stunnel vulnerability](https://www.linux.org/threads/usn-6901-1-stunnel-vulnerability.50988/)|Visit link for details.|Jul 18, 2024|
- |[DSA-5732-1 chromium - security update](https://www.linux.org/threads/dsa-5732-1-chromium-security-update.50987/)|Visit link for details.|Jul 18, 2024|
- |[USN-6896-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-3-linux-kernel-vulnerabilities.50977/)|Visit link for details.|Jul 17, 2024|
  
 
 # CERT-SANTE
@@ -79,18 +85,6 @@
  |[Mirth Connect - CVE-2023-43208](https://www.cyberveille-sante.gouv.fr/alertes/mirth-connect-cve-2023-43208-2023-10-27)|Visit link for details.|22/07/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -104,6 +98,39 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
  |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...| Release Date: 12 Jun 2024 |
  |[VMWare Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/vmware-products-information-disclosure-vulnerability_20220401)|A vulnerability was identified in VMware products. An attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:CVE-2022-22948 is being exploited in the wild. A malicious actor with non-administrative...| Release Date: 1 Apr 2022 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Tenda AX2pro code execution (CVE-2024-40515)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[SolarWinds Access Rights Manager code execution (CVE-2024-28074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache CXF denial of service (CVE-2024-41172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache CXF denial of service (CVE-2024-32007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache CXF server-side request forgery (CVE-2024-29736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Apache StreamPark code execution (CVE-2024-29178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-952/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-951/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-950/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-949/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-948/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-947/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-946/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-945/)|Visit link for details|2024-07-22|
  
 
 # EU-CERT
@@ -121,20 +148,6 @@
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
  |[2024-062: Vulnerabilities in Chrome and Chromium based Browsers](https://cert.europa.eu/publications/security-advisories/2024-062/)|Google has released a critical security update for its Chrome Browser, addressing six high-severity vulnerabilities that could lead to serious security issues. Chromium-based browsers are also impacted. |Friday, June 21, 2024 03:27:05 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-952/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-951/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-950/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-949/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-948/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-947/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-946/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-945/)|Visit link for details|2024-07-22|
  
 
 # MA-CERT
@@ -169,17 +182,4 @@
  |[ServiceNow security advisory (AV24-407)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-407)|Visit link for details|2024-07-18|
  |[SolarWinds security advisory (AV24-406)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-406)|Visit link for details|2024-07-18|
  |[Mitel security advisory (AV24-405)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-405)|Visit link for details|2024-07-18|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tenda AX2pro code execution (CVE-2024-40515)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[SolarWinds Access Rights Manager code execution (CVE-2024-28074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache CXF denial of service (CVE-2024-41172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache CXF denial of service (CVE-2024-32007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache CXF server-side request forgery (CVE-2024-29736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Apache StreamPark code execution (CVE-2024-29178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
- |[Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP and OpManager Enterprise Edition cross-site scripting (CVE-2024-38870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 17, 2024|
  
