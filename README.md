@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/07/2024 02:20:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/07/2024 03:17:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
+ |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
+ |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,6 +60,12 @@
  |[USN-6903-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6903-1-thunderbird-vulnerabilities.51024/)|Visit link for details.|Jul 22, 2024|
  |[USN-6896-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-4-linux-kernel-vulnerabilities.51004/)|Visit link for details.|Jul 19, 2024|
  |[USN-6898-3: Linux kernel kernel vulnerabilities](https://www.linux.org/threads/usn-6898-3-linux-kernel-kernel-vulnerabilities.51001/)|Visit link for details.|Jul 19, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
@@ -69,41 +91,6 @@
  |[SolarWinds- CVE-2024-23470](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23470-2024-07-22)|Visit link for details.|22/07/2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
- |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
- |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[ISC BIND denial of service (CVE-2024-0760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
- |[Apache Syncope HTML injection (CVE-2024-38503)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- |[Apache StreamPark security bypass (CVE-2024-29070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- |[Apache StreamPark information disclosure (CVE-2024-34457)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- |[Apache RocketMQ information disclosure (CVE-2024-23321)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- |[Ankitects Anki security bypass (CVE-2024-32152)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2024|
- |[Ankitects Anki cross-site scripting (CVE-2024-32484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 21, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -117,6 +104,19 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
  |[Adobe Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-june-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Photoshop Medium RiskRemote Code Execution APSB24-27Adobe Experience Manager Medium RiskRemote Code Execution...| Release Date: 12 Jun 2024 |
  |[VMWare Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/vmware-products-information-disclosure-vulnerability_20220401)|A vulnerability was identified in VMware products. An attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:CVE-2022-22948 is being exploited in the wild. A malicious actor with non-administrative...| Release Date: 1 Apr 2022 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ISC BIND denial of service (CVE-2024-4076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
+ |[ISC BIND denial of service (CVE-2024-1975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
+ |[ISC BIND denial of service (CVE-2024-1737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
+ |[ISC BIND denial of service (CVE-2024-0760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
+ |[Apache Syncope HTML injection (CVE-2024-38503)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
+ |[Apache StreamPark security bypass (CVE-2024-29070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
+ |[Apache StreamPark information disclosure (CVE-2024-34457)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
  
 
 # EU-CERT
@@ -140,14 +140,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-957/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-956/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-955/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Firewall Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-954/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Internet Security Pro Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-953/)|Visit link for details|2024-07-23|
  |[Delta Electronics CNCSoft-G2 DPAX File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-952/)|Visit link for details|2024-07-22|
  |[Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-951/)|Visit link for details|2024-07-22|
  |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-950/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-949/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-948/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-947/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-946/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-945/)|Visit link for details|2024-07-22|
  
 
 # MA-CERT
