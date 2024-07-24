@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/07/2024 22:16:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/07/2024 23:26:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,6 +44,18 @@
  |[USN-6898-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-4-linux-kernel-vulnerabilities.51047/)|Visit link for details.|Jul 23, 2024|
  |[USN-6893-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-3-linux-kernel-vulnerabilities.51046/)|Visit link for details.|Jul 23, 2024|
  |[USN-6896-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-5-linux-kernel-vulnerabilities.51045/)|Visit link for details.|Jul 23, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -84,39 +90,17 @@
  |[SonicWall - CVE-2024-40764](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-40764-2024-07-23)|Visit link for details.|23/07/2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome code execution (CVE-2024-6988)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
  |[ISC BIND denial of service (CVE-2024-4076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
  |[ISC BIND denial of service (CVE-2024-1975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
  |[ISC BIND denial of service (CVE-2024-1737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
  |[ISC BIND denial of service (CVE-2024-0760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
+ |[IBM InfoSphere Information Server information disclosure (CVE-2024-37533)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
  |[OpenStack Nova information disclosure (CVE-2024-40767)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- |[Apache Arrow Rust Object Store information disclosure (CVE-2024-41178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- |[National Instruments IO Trace buffer overflow (CVE-2024-5602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
- |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
- |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
  
 
 # ZERODAYINITIATIVE
@@ -133,21 +117,37 @@
  |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-950/)|Visit link for details|2024-07-22|
  
 
-# CA-CCS
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Red Hat security advisory (AV24-416)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-416)|Visit link for details|2024-07-23|
- |[HPE advisory (AV24-415)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-advisory-av24-415)|Visit link for details|2024-07-23|
- |[Sonicwall advisory (AV24-414)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-advisory-av24-414)|Visit link for details|2024-07-22|
- |[[Control systems] CISA ICS security advisories (AV24-413)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-413)|Visit link for details|2024-07-22|
- |[Dell security advisory (AV24-412)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-412)|Visit link for details|2024-07-22|
- |[IBM security advisory (AV24-411)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-411)|Visit link for details|2024-07-22|
- |[Ubuntu security advisory (AV24-410)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-410)|Visit link for details|2024-07-22|
- |[Microsoft Edge security advisory (AV24-409)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-409)|Visit link for details|2024-07-19|
- |[Issue impacting CrowdStrike Falcon EDR](https://www.cyber.gc.ca/en/alerts-advisories/issue-impacting-crowdstrike-falcon-edr)|Visit link for details|2024-07-19|
- |[Ivanti security advisory (AV24-408)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-408)|Visit link for details|2024-07-18|
- |[ServiceNow security advisory (AV24-407)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-407)|Visit link for details|2024-07-18|
+ |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
+ |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
+ |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
+ |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
+ |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
+ |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
+ |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
+ |[ 48431807/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-1)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 18 juillet 2024|
+ |[ 48421807/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-21)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 juillet 2024|
+ |[ 48411807/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-0)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 18 juillet 2024|
+ |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
+ |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
+ |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
  
 
 # EU-CERT
@@ -167,19 +167,19 @@
  |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
  
 
-# MA-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
- |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
- |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
- |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
- |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
- |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
- |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
- |[ 48431807/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-1)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 18 juillet 2024|
- |[ 48421807/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-21)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 juillet 2024|
- |[ 48411807/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-0)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 18 juillet 2024|
- |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
+ |[Red Hat security advisory (AV24-416)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-416)|Visit link for details|2024-07-23|
+ |[HPE advisory (AV24-415)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-advisory-av24-415)|Visit link for details|2024-07-23|
+ |[Sonicwall advisory (AV24-414)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-advisory-av24-414)|Visit link for details|2024-07-22|
+ |[[Control systems] CISA ICS security advisories (AV24-413)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-413)|Visit link for details|2024-07-22|
+ |[Dell security advisory (AV24-412)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-412)|Visit link for details|2024-07-22|
+ |[IBM security advisory (AV24-411)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-411)|Visit link for details|2024-07-22|
+ |[Ubuntu security advisory (AV24-410)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-410)|Visit link for details|2024-07-22|
+ |[Microsoft Edge security advisory (AV24-409)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-409)|Visit link for details|2024-07-19|
+ |[Issue impacting CrowdStrike Falcon EDR](https://www.cyber.gc.ca/en/alerts-advisories/issue-impacting-crowdstrike-falcon-edr)|Visit link for details|2024-07-19|
+ |[Ivanti security advisory (AV24-408)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-408)|Visit link for details|2024-07-18|
+ |[ServiceNow security advisory (AV24-407)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-407)|Visit link for details|2024-07-18|
  
