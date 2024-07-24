@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/07/2024 13:23:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/07/2024 14:19:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6906-1: python-zipp vulnerability](https://www.linux.org/threads/usn-6906-1-python-zipp-vulnerability.51069/)|Visit link for details.|Jul 24, 2024|
- |[USN-6910-1: Apache ActiveMQ vulnerabilities](https://www.linux.org/threads/usn-6910-1-apache-activemq-vulnerabilities.51064/)|Visit link for details.|Jul 23, 2024|
- |[USN-6530-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6530-2-haproxy-vulnerability.51063/)|Visit link for details.|Jul 23, 2024|
- |[USN-6911-1: Nova vulnerability](https://www.linux.org/threads/usn-6911-1-nova-vulnerability.51062/)|Visit link for details.|Jul 23, 2024|
- |[USN-6907-1: Squid vulnerability](https://www.linux.org/threads/usn-6907-1-squid-vulnerability.51058/)|Visit link for details.|Jul 23, 2024|
- |[USN-6909-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-1-bind-vulnerabilities.51057/)|Visit link for details.|Jul 23, 2024|
- |[USN-6908-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6908-1-tomcat-vulnerabilities.51056/)|Visit link for details.|Jul 23, 2024|
- |[USN-6898-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-4-linux-kernel-vulnerabilities.51047/)|Visit link for details.|Jul 23, 2024|
- |[USN-6893-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-3-linux-kernel-vulnerabilities.51046/)|Visit link for details.|Jul 23, 2024|
- |[USN-6896-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-5-linux-kernel-vulnerabilities.51045/)|Visit link for details.|Jul 23, 2024|
- |[USN-6905-1: Rack vulnerabilities](https://www.linux.org/threads/usn-6905-1-rack-vulnerabilities.51039/)|Visit link for details.|Jul 23, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -81,6 +64,23 @@
  |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20240719)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 19 Jul 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240719)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 19 Jul 2024 |
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240718)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, elevation of privilege and data manipulation on the targeted system.|Release Date: 18 Jul 2024 |
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6906-1: python-zipp vulnerability](https://www.linux.org/threads/usn-6906-1-python-zipp-vulnerability.51069/)|Visit link for details.|Jul 24, 2024|
+ |[USN-6910-1: Apache ActiveMQ vulnerabilities](https://www.linux.org/threads/usn-6910-1-apache-activemq-vulnerabilities.51064/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6530-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6530-2-haproxy-vulnerability.51063/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6911-1: Nova vulnerability](https://www.linux.org/threads/usn-6911-1-nova-vulnerability.51062/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6907-1: Squid vulnerability](https://www.linux.org/threads/usn-6907-1-squid-vulnerability.51058/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6909-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-1-bind-vulnerabilities.51057/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6908-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6908-1-tomcat-vulnerabilities.51056/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6898-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6898-4-linux-kernel-vulnerabilities.51047/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6893-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6893-3-linux-kernel-vulnerabilities.51046/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6896-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6896-5-linux-kernel-vulnerabilities.51045/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6905-1: Rack vulnerabilities](https://www.linux.org/threads/usn-6905-1-rack-vulnerabilities.51039/)|Visit link for details.|Jul 23, 2024|
  
 
 # OBS-Vigilance
@@ -117,20 +117,6 @@
  |[Microsoft - CVE-2023-36033](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36033-2023-11-15)|Visit link for details.|23/07/2024|
  |[Cisco - CVE-2023-20244](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20244-2023-11-03)|Visit link for details.|23/07/2024|
  |[SolarWinds- CVE-2024-23470](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23470-2024-07-22)|Visit link for details.|22/07/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-957/)|Visit link for details|2024-07-23|
- |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-956/)|Visit link for details|2024-07-23|
- |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-955/)|Visit link for details|2024-07-23|
- |[(0Day) Comodo Firewall Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-954/)|Visit link for details|2024-07-23|
- |[(0Day) Comodo Internet Security Pro Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-953/)|Visit link for details|2024-07-23|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-952/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-951/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-950/)|Visit link for details|2024-07-22|
  
 
 # EU-CERT
@@ -182,4 +168,18 @@
  |[Issue impacting CrowdStrike Falcon EDR](https://www.cyber.gc.ca/en/alerts-advisories/issue-impacting-crowdstrike-falcon-edr)|Visit link for details|2024-07-19|
  |[Ivanti security advisory (AV24-408)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-408)|Visit link for details|2024-07-18|
  |[ServiceNow security advisory (AV24-407)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-407)|Visit link for details|2024-07-18|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-957/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-956/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-955/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Firewall Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-954/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Internet Security Pro Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-953/)|Visit link for details|2024-07-23|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-952/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-951/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-950/)|Visit link for details|2024-07-22|
  
