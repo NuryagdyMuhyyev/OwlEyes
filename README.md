@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/07/2024 20:20:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/07/2024 21:23:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
  |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
@@ -42,7 +43,6 @@
  |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 17, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/07/16/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Jul 16, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 15, 2024|
  
 
 # LINUX-SEC
@@ -72,17 +72,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome - CVE-2024-6988](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6988-2024-07-24)|Visit link for details.|24/07/2024|
+ |[Docker - CVE-2024-41110](https://www.cyberveille-sante.gouv.fr/alertes/docker-cve-2024-41110-2024-07-24)|Visit link for details.|24/07/2024|
+ |[cBioPortal - CVE-2024-41668](https://www.cyberveille-sante.gouv.fr/alertes/cbioportal-cve-2024-41668-2024-07-24)|Visit link for details.|24/07/2024|
+ |[Apache HTTP Server - CVE-2024-40898](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-server-cve-2024-40898-2024-07-24)|Visit link for details.|24/07/2024|
+ |[ISC BIND - CVE-2024-4076](https://www.cyberveille-sante.gouv.fr/alertes/isc-bind-cve-2024-4076-2024-07-24)|Visit link for details.|24/07/2024|
  |[Microsoft - CVE-2023-36397](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36397-2023-11-16)|Visit link for details.|24/07/2024|
  |[Microsoft - CVE-2023-36400](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36400-2023-11-17)|Visit link for details.|24/07/2024|
  |[Microsoft - CVE-2023-36036](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36036-2023-11-15)|Visit link for details.|24/07/2024|
  |[Microsoft Edge - CVE-2023-35618](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2023-35618-2023-12-08)|Visit link for details.|24/07/2024|
  |[Microsoft - CVE-2023-36052](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36052-2023-11-16)|Visit link for details.|24/07/2024|
  |[SonicWall - CVE-2024-40764](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-40764-2024-07-23)|Visit link for details.|23/07/2024|
- |[SolarWinds - CVE-2024-23475](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-23475-2024-07-23)|Visit link for details.|23/07/2024|
- |[Netgear - CVE-2024-6813](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-6813-2024-07-23)|Visit link for details.|23/07/2024|
- |[Hospital Management System - CVE-2024-40502](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2024-40502-2024-07-23)|Visit link for details.|23/07/2024|
- |[D-Link - CVE-2024-38438](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-38438-2024-07-23)|Visit link for details.|23/07/2024|
- |[FreeRadius - CVE-2024-3596](https://www.cyberveille-sante.gouv.fr/alertes/freeradius-cve-2024-3596-2024-07-11)|Visit link for details.|23/07/2024|
  
 
 # OBS-Vigilance
@@ -106,6 +106,19 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240718)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution, elevation of privilege and data manipulation on the targeted system.|Release Date: 18 Jul 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ISC BIND denial of service (CVE-2024-4076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
+ |[ISC BIND denial of service (CVE-2024-1975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
+ |[ISC BIND denial of service (CVE-2024-1737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
+ |[ISC BIND denial of service (CVE-2024-0760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
+ |[OpenStack Nova information disclosure (CVE-2024-40767)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
+ |[Apache Arrow Rust Object Store information disclosure (CVE-2024-41178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
+ |[National Instruments IO Trace buffer overflow (CVE-2024-5602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -123,17 +136,18 @@
  |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ISC BIND denial of service (CVE-2024-4076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
- |[ISC BIND denial of service (CVE-2024-1975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
- |[ISC BIND denial of service (CVE-2024-1737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
- |[ISC BIND denial of service (CVE-2024-0760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
- |[OpenStack Nova information disclosure (CVE-2024-40767)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- |[Apache Arrow Rust Object Store information disclosure (CVE-2024-41178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
- |[National Instruments IO Trace buffer overflow (CVE-2024-5602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 22, 2024|
+ |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-957/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-956/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-955/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Firewall Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-954/)|Visit link for details|2024-07-23|
+ |[(0Day) Comodo Internet Security Pro Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-953/)|Visit link for details|2024-07-23|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-952/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-951/)|Visit link for details|2024-07-22|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-950/)|Visit link for details|2024-07-22|
  
 
 # MA-CERT
@@ -151,20 +165,6 @@
  |[ 48421807/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-21)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 18 juillet 2024|
  |[ 48411807/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-0)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 18 juillet 2024|
  |[ 48401707/24 - Vulnérabilité critique affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-1)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2024-6385 » est…| 17 juillet 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-957/)|Visit link for details|2024-07-23|
- |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-956/)|Visit link for details|2024-07-23|
- |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-955/)|Visit link for details|2024-07-23|
- |[(0Day) Comodo Firewall Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-954/)|Visit link for details|2024-07-23|
- |[(0Day) Comodo Internet Security Pro Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-953/)|Visit link for details|2024-07-23|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-952/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-951/)|Visit link for details|2024-07-22|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-950/)|Visit link for details|2024-07-22|
  
 
 # CA-CCS
