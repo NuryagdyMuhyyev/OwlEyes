@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/07/2024 21:24:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/07/2024 22:17:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,33 +62,16 @@
  |[USN-6908-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6908-1-tomcat-vulnerabilities.51056/)|Visit link for details.|Jul 23, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[GitLab - CVE-2024-7047](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-7047-2024-07-25)|Visit link for details.|25/07/2024|
- |[cURL - CVE-2024-6197](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-6197-2024-07-25)|Visit link for details.|25/07/2024|
- |[Aruba - CVE-2024-41914](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-41914-2024-07-25)|Visit link for details.|25/07/2024|
- |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|25/07/2024|
- |[Microsoft - CVE-2024-38164](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38164-2024-07-25)|Visit link for details.|25/07/2024|
- |[Microsoft - CVE-2023-35641](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35641-2023-12-14)|Visit link for details.|25/07/2024|
- |[Microsoft - CVE-2023-36006](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36006-2023-12-15)|Visit link for details.|25/07/2024|
- |[Microsoft - CVE-2023-35639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35639-2023-12-13)|Visit link for details.|25/07/2024|
- |[Microsoft - CVE-2023-35630](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35630-2023-12-13)|Visit link for details.|25/07/2024|
- |[Microsoft - CVE-2023-36019](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36019-2023-12-13)|Visit link for details.|25/07/2024|
- |[Google Chrome - CVE-2024-6988](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6988-2024-07-24)|Visit link for details.|24/07/2024|
  
 
 # HK-CERT
@@ -118,6 +101,37 @@
  |[GitLab Community and Enterprise Edition information disclosure (CVE-2024-7057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 23, 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab - CVE-2024-7047](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-7047-2024-07-25)|Visit link for details.|25/07/2024|
+ |[cURL - CVE-2024-6197](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-6197-2024-07-25)|Visit link for details.|25/07/2024|
+ |[Aruba - CVE-2024-41914](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-41914-2024-07-25)|Visit link for details.|25/07/2024|
+ |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|25/07/2024|
+ |[Microsoft - CVE-2024-38164](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38164-2024-07-25)|Visit link for details.|25/07/2024|
+ |[Microsoft - CVE-2023-35641](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35641-2023-12-14)|Visit link for details.|25/07/2024|
+ |[Microsoft - CVE-2023-36006](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36006-2023-12-15)|Visit link for details.|25/07/2024|
+ |[Microsoft - CVE-2023-35639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35639-2023-12-13)|Visit link for details.|25/07/2024|
+ |[Microsoft - CVE-2023-35630](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-35630-2023-12-13)|Visit link for details.|25/07/2024|
+ |[Microsoft - CVE-2023-36019](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36019-2023-12-13)|Visit link for details.|25/07/2024|
+ |[Google Chrome - CVE-2024-6988](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6988-2024-07-24)|Visit link for details.|24/07/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Autodesk AutoCAD STEP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-964/)|Visit link for details|2024-07-25|
+ |[Autodesk AutoCAD X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-963/)|Visit link for details|2024-07-25|
+ |[Autodesk AutoCAD X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-962/)|Visit link for details|2024-07-25|
+ |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-961/)|Visit link for details|2024-07-25|
+ |[Autodesk AutoCAD 3DM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-960/)|Visit link for details|2024-07-25|
+ |[Autodesk AutoCAD X_T File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-959/)|Visit link for details|2024-07-25|
+ |[Autodesk AutoCAD X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-958/)|Visit link for details|2024-07-25|
+ |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-957/)|Visit link for details|2024-07-23|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -133,20 +147,6 @@
  |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Autodesk AutoCAD STEP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-964/)|Visit link for details|2024-07-25|
- |[Autodesk AutoCAD X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-963/)|Visit link for details|2024-07-25|
- |[Autodesk AutoCAD X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-962/)|Visit link for details|2024-07-25|
- |[Autodesk AutoCAD X_B File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-961/)|Visit link for details|2024-07-25|
- |[Autodesk AutoCAD 3DM File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-960/)|Visit link for details|2024-07-25|
- |[Autodesk AutoCAD X_T File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-959/)|Visit link for details|2024-07-25|
- |[Autodesk AutoCAD X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-958/)|Visit link for details|2024-07-25|
- |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-957/)|Visit link for details|2024-07-23|
  
 
 # CA-CCS
