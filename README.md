@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/07/2024 20:20:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/07/2024 21:25:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6919-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6919-1-linux-kernel-vulnerabilities.51102/)|Visit link for details.|Jul 26, 2024|
+ |[USN-6918-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6918-1-linux-kernel-vulnerabilities.51101/)|Visit link for details.|Jul 26, 2024|
+ |[USN-6917-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6917-1-linux-kernel-vulnerabilities.51100/)|Visit link for details.|Jul 26, 2024|
+ |[DSA-5734-1 bind9 - security update](https://www.linux.org/threads/dsa-5734-1-bind9-security-update.51095/)|Visit link for details.|Jul 26, 2024|
+ |[USN-6915-1: poppler vulnerability](https://www.linux.org/threads/usn-6915-1-poppler-vulnerability.51083/)|Visit link for details.|Jul 25, 2024|
+ |[USN-6914-1: OCS Inventory vulnerability](https://www.linux.org/threads/usn-6914-1-ocs-inventory-vulnerability.51082/)|Visit link for details.|Jul 25, 2024|
+ |[USN-6913-1: phpCAS vulnerability](https://www.linux.org/threads/usn-6913-1-phpcas-vulnerability.51081/)|Visit link for details.|Jul 25, 2024|
+ |[USN-6912-1: provd vulnerability](https://www.linux.org/threads/usn-6912-1-provd-vulnerability.51072/)|Visit link for details.|Jul 24, 2024|
+ |[USN-6906-1: python-zipp vulnerability](https://www.linux.org/threads/usn-6906-1-python-zipp-vulnerability.51069/)|Visit link for details.|Jul 24, 2024|
+ |[USN-6910-1: Apache ActiveMQ vulnerabilities](https://www.linux.org/threads/usn-6910-1-apache-activemq-vulnerabilities.51064/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6530-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6530-2-haproxy-vulnerability.51063/)|Visit link for details.|Jul 23, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -51,54 +68,10 @@
  |---|---|---|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5734-1 bind9 - security update](https://www.linux.org/threads/dsa-5734-1-bind9-security-update.51095/)|Visit link for details.|Jul 26, 2024|
- |[USN-6915-1: poppler vulnerability](https://www.linux.org/threads/usn-6915-1-poppler-vulnerability.51083/)|Visit link for details.|Jul 25, 2024|
- |[USN-6914-1: OCS Inventory vulnerability](https://www.linux.org/threads/usn-6914-1-ocs-inventory-vulnerability.51082/)|Visit link for details.|Jul 25, 2024|
- |[USN-6913-1: phpCAS vulnerability](https://www.linux.org/threads/usn-6913-1-phpcas-vulnerability.51081/)|Visit link for details.|Jul 25, 2024|
- |[USN-6912-1: provd vulnerability](https://www.linux.org/threads/usn-6912-1-provd-vulnerability.51072/)|Visit link for details.|Jul 24, 2024|
- |[USN-6906-1: python-zipp vulnerability](https://www.linux.org/threads/usn-6906-1-python-zipp-vulnerability.51069/)|Visit link for details.|Jul 24, 2024|
- |[USN-6910-1: Apache ActiveMQ vulnerabilities](https://www.linux.org/threads/usn-6910-1-apache-activemq-vulnerabilities.51064/)|Visit link for details.|Jul 23, 2024|
- |[USN-6530-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6530-2-haproxy-vulnerability.51063/)|Visit link for details.|Jul 23, 2024|
- |[USN-6911-1: Nova vulnerability](https://www.linux.org/threads/usn-6911-1-nova-vulnerability.51062/)|Visit link for details.|Jul 23, 2024|
- |[USN-6907-1: Squid vulnerability](https://www.linux.org/threads/usn-6907-1-squid-vulnerability.51058/)|Visit link for details.|Jul 23, 2024|
- |[USN-6909-1: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-1-bind-vulnerabilities.51057/)|Visit link for details.|Jul 23, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240726)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
- |[ISC BIND Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/isc-bind-denial-of-service-vulnerabilities_20240725)|Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 25 Jul 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
- |[Microsoft Internet Explorer "CDwnBindInfo" Use-After-Free Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-internet-explorer-cdwnbindinfo-use-after-free-vulnerability)|A vulnerability has been identified in Microsoft Internet Explorer, which can be exploited by malicious people to compromise a user's system. The vulnerability is caused due to a use-after-free error when handling the "CDwnBindInfo" object and can be exploited to...| Release Date: 31 Dec 2012 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240724)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 24 Jul 2024 |
- |[CrowdStrike Denial of Service Alert](https://www.hkcert.org/security-bulletin/crowdstrike-denial-of-service-vulnerability_20240719)|On 19 Jul 2024, CrowdStrike Falcon Sensor caused crashes on Windows hosts. Windows hosts running on cloud such as Azure, AWS, etc. are also affected. The symptoms include hosts experiencing a bugcheck\blue screen error. Threat actors has been observed taking advantage...| Release Date: 19 Jul 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[1Panel-dev KubePi security bypass (CVE-2024-36111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[IBM InfoSphere Information Server SQL injection (CVE-2024-40689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[Positron Broadcast Signal Processor security bypass (CVE-2024-7007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Siemens SICAM Products security bypass (CVE-2024-39601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Siemens SICAM Products security bypass (CVE-2024-37998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Apache Traffic Server denial of service (CVE-2024-35296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Apache Traffic Server HTTP request smuggling (CVE-2024-35161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
  
 
 # CERT-SANTE
@@ -118,6 +91,33 @@
  |[GitLab - CVE-2024-7047](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-7047-2024-07-25)|Visit link for details.|25/07/2024|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240726)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
+ |[ISC BIND Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/isc-bind-denial-of-service-vulnerabilities_20240725)|Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 25 Jul 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
+ |[Microsoft Internet Explorer "CDwnBindInfo" Use-After-Free Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-internet-explorer-cdwnbindinfo-use-after-free-vulnerability)|A vulnerability has been identified in Microsoft Internet Explorer, which can be exploited by malicious people to compromise a user's system. The vulnerability is caused due to a use-after-free error when handling the "CDwnBindInfo" object and can be exploited to...| Release Date: 31 Dec 2012 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240724)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 24 Jul 2024 |
+ |[CrowdStrike Denial of Service Alert](https://www.hkcert.org/security-bulletin/crowdstrike-denial-of-service-vulnerability_20240719)|On 19 Jul 2024, CrowdStrike Falcon Sensor caused crashes on Windows hosts. Windows hosts running on cloud such as Azure, AWS, etc. are also affected. The symptoms include hosts experiencing a bugcheck\blue screen error. Threat actors has been observed taking advantage...| Release Date: 19 Jul 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[1Panel-dev KubePi security bypass (CVE-2024-36111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[IBM InfoSphere Information Server SQL injection (CVE-2024-40689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[Positron Broadcast Signal Processor security bypass (CVE-2024-7007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Siemens SICAM Products security bypass (CVE-2024-39601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Siemens SICAM Products security bypass (CVE-2024-37998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Apache Traffic Server denial of service (CVE-2024-35296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Apache Traffic Server HTTP request smuggling (CVE-2024-35161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -130,23 +130,6 @@
  |[Autodesk AutoCAD X_T File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-959/)|Visit link for details|2024-07-25|
  |[Autodesk AutoCAD X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-958/)|Visit link for details|2024-07-25|
  |[(0Day) Comodo Internet Security Pro cmdagent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-957/)|Visit link for details|2024-07-23|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
- |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
- |[ISC BIND security advisory (AV24-419)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-419)|Visit link for details|2024-07-25|
- |[Mitel security advisory (AV24-418)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-418)|Visit link for details|2024-07-25|
- |[[Control systems] Siemens security advisory (AV24-417)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-417)|Visit link for details|2024-07-25|
- |[Red Hat security advisory (AV24-416)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-416)|Visit link for details|2024-07-23|
- |[HPE advisory (AV24-415)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-advisory-av24-415)|Visit link for details|2024-07-23|
- |[Sonicwall advisory (AV24-414)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-advisory-av24-414)|Visit link for details|2024-07-22|
- |[[Control systems] CISA ICS security advisories (AV24-413)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-413)|Visit link for details|2024-07-22|
- |[Dell security advisory (AV24-412)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-412)|Visit link for details|2024-07-22|
- |[IBM security advisory (AV24-411)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-411)|Visit link for details|2024-07-22|
  
 
 # EU-CERT
@@ -181,4 +164,21 @@
  |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
  |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
  |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
+ |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
+ |[ISC BIND security advisory (AV24-419)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-419)|Visit link for details|2024-07-25|
+ |[Mitel security advisory (AV24-418)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-418)|Visit link for details|2024-07-25|
+ |[[Control systems] Siemens security advisory (AV24-417)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-417)|Visit link for details|2024-07-25|
+ |[Red Hat security advisory (AV24-416)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-416)|Visit link for details|2024-07-23|
+ |[HPE advisory (AV24-415)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-advisory-av24-415)|Visit link for details|2024-07-23|
+ |[Sonicwall advisory (AV24-414)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-advisory-av24-414)|Visit link for details|2024-07-22|
+ |[[Control systems] CISA ICS security advisories (AV24-413)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-413)|Visit link for details|2024-07-22|
+ |[Dell security advisory (AV24-412)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-412)|Visit link for details|2024-07-22|
+ |[IBM security advisory (AV24-411)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-411)|Visit link for details|2024-07-22|
  
