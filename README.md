@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/07/2024 01:18:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/07/2024 02:16:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6919-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6919-1-linux-kernel-vulnerabilities.51102/)|Visit link for details.|Jul 26, 2024|
+ |[USN-6918-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6918-1-linux-kernel-vulnerabilities.51101/)|Visit link for details.|Jul 26, 2024|
+ |[USN-6917-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6917-1-linux-kernel-vulnerabilities.51100/)|Visit link for details.|Jul 26, 2024|
+ |[DSA-5734-1 bind9 - security update](https://www.linux.org/threads/dsa-5734-1-bind9-security-update.51095/)|Visit link for details.|Jul 26, 2024|
+ |[USN-6915-1: poppler vulnerability](https://www.linux.org/threads/usn-6915-1-poppler-vulnerability.51083/)|Visit link for details.|Jul 25, 2024|
+ |[USN-6914-1: OCS Inventory vulnerability](https://www.linux.org/threads/usn-6914-1-ocs-inventory-vulnerability.51082/)|Visit link for details.|Jul 25, 2024|
+ |[USN-6913-1: phpCAS vulnerability](https://www.linux.org/threads/usn-6913-1-phpcas-vulnerability.51081/)|Visit link for details.|Jul 25, 2024|
+ |[USN-6912-1: provd vulnerability](https://www.linux.org/threads/usn-6912-1-provd-vulnerability.51072/)|Visit link for details.|Jul 24, 2024|
+ |[USN-6906-1: python-zipp vulnerability](https://www.linux.org/threads/usn-6906-1-python-zipp-vulnerability.51069/)|Visit link for details.|Jul 24, 2024|
+ |[USN-6910-1: Apache ActiveMQ vulnerabilities](https://www.linux.org/threads/usn-6910-1-apache-activemq-vulnerabilities.51064/)|Visit link for details.|Jul 23, 2024|
+ |[USN-6530-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6530-2-haproxy-vulnerability.51063/)|Visit link for details.|Jul 23, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,10 @@
  |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6919-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6919-1-linux-kernel-vulnerabilities.51102/)|Visit link for details.|Jul 26, 2024|
- |[USN-6918-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6918-1-linux-kernel-vulnerabilities.51101/)|Visit link for details.|Jul 26, 2024|
- |[USN-6917-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6917-1-linux-kernel-vulnerabilities.51100/)|Visit link for details.|Jul 26, 2024|
- |[DSA-5734-1 bind9 - security update](https://www.linux.org/threads/dsa-5734-1-bind9-security-update.51095/)|Visit link for details.|Jul 26, 2024|
- |[USN-6915-1: poppler vulnerability](https://www.linux.org/threads/usn-6915-1-poppler-vulnerability.51083/)|Visit link for details.|Jul 25, 2024|
- |[USN-6914-1: OCS Inventory vulnerability](https://www.linux.org/threads/usn-6914-1-ocs-inventory-vulnerability.51082/)|Visit link for details.|Jul 25, 2024|
- |[USN-6913-1: phpCAS vulnerability](https://www.linux.org/threads/usn-6913-1-phpcas-vulnerability.51081/)|Visit link for details.|Jul 25, 2024|
- |[USN-6912-1: provd vulnerability](https://www.linux.org/threads/usn-6912-1-provd-vulnerability.51072/)|Visit link for details.|Jul 24, 2024|
- |[USN-6906-1: python-zipp vulnerability](https://www.linux.org/threads/usn-6906-1-python-zipp-vulnerability.51069/)|Visit link for details.|Jul 24, 2024|
- |[USN-6910-1: Apache ActiveMQ vulnerabilities](https://www.linux.org/threads/usn-6910-1-apache-activemq-vulnerabilities.51064/)|Visit link for details.|Jul 23, 2024|
- |[USN-6530-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6530-2-haproxy-vulnerability.51063/)|Visit link for details.|Jul 23, 2024|
  
 
 # HK-CERT
@@ -82,10 +88,17 @@
  |---|---|---|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[1Panel-dev KubePi security bypass (CVE-2024-36111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[IBM InfoSphere Information Server SQL injection (CVE-2024-40689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[Positron Broadcast Signal Processor security bypass (CVE-2024-7007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Siemens SICAM Products security bypass (CVE-2024-39601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Siemens SICAM Products security bypass (CVE-2024-37998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Apache Traffic Server denial of service (CVE-2024-35296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Apache Traffic Server HTTP request smuggling (CVE-2024-35161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
  
 
 # CERT-SANTE
@@ -105,17 +118,18 @@
  |[GitLab - CVE-2024-7047](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-7047-2024-07-25)|Visit link for details.|25/07/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[1Panel-dev KubePi security bypass (CVE-2024-36111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[IBM InfoSphere Information Server SQL injection (CVE-2024-40689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[Positron Broadcast Signal Processor security bypass (CVE-2024-7007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Siemens SICAM Products security bypass (CVE-2024-39601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Siemens SICAM Products security bypass (CVE-2024-37998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Apache Traffic Server denial of service (CVE-2024-35296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Apache Traffic Server HTTP request smuggling (CVE-2024-35161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-974/)|Visit link for details|2024-07-26|
+ |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-973/)|Visit link for details|2024-07-26|
+ |[IrfanView AWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-972/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-971/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-970/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-969/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-968/)|Visit link for details|2024-07-26|
+ |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
  
 
 # EU-CERT
@@ -133,20 +147,6 @@
  |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-974/)|Visit link for details|2024-07-26|
- |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-973/)|Visit link for details|2024-07-26|
- |[IrfanView AWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-972/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-971/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-970/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-969/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-968/)|Visit link for details|2024-07-26|
- |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
  
 
 # MA-CERT
