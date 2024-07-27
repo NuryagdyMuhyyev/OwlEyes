@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/07/2024 18:18:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/07/2024 19:16:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,7 +62,7 @@
  |[USN-6530-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6530-2-haproxy-vulnerability.51063/)|Visit link for details.|Jul 23, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -85,6 +85,12 @@
  |[GitLab - CVE-2024-7047](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-7047-2024-07-25)|Visit link for details.|25/07/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -97,12 +103,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240724)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 24 Jul 2024 |
  |[CrowdStrike Denial of Service Alert](https://www.hkcert.org/security-bulletin/crowdstrike-denial-of-service-vulnerability_20240719)|On 19 Jul 2024, CrowdStrike Falcon Sensor caused crashes on Windows hosts. Windows hosts running on cloud such as Azure, AWS, etc. are also affected. The symptoms include hosts experiencing a bugcheck\blue screen error. Threat actors has been observed taking advantage...| Release Date: 19 Jul 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -132,23 +132,6 @@
  |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
- |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
- |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
- |[ISC BIND security advisory (AV24-419)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-419)|Visit link for details|2024-07-25|
- |[Mitel security advisory (AV24-418)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-418)|Visit link for details|2024-07-25|
- |[[Control systems] Siemens security advisory (AV24-417)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-417)|Visit link for details|2024-07-25|
- |[Red Hat security advisory (AV24-416)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-416)|Visit link for details|2024-07-23|
- |[HPE advisory (AV24-415)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-advisory-av24-415)|Visit link for details|2024-07-23|
- |[Sonicwall advisory (AV24-414)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-advisory-av24-414)|Visit link for details|2024-07-22|
- |[[Control systems] CISA ICS security advisories (AV24-413)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-413)|Visit link for details|2024-07-22|
- |[Dell security advisory (AV24-412)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-412)|Visit link for details|2024-07-22|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -164,6 +147,23 @@
  |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
+ |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
+ |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
+ |[ISC BIND security advisory (AV24-419)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-419)|Visit link for details|2024-07-25|
+ |[Mitel security advisory (AV24-418)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-418)|Visit link for details|2024-07-25|
+ |[[Control systems] Siemens security advisory (AV24-417)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-417)|Visit link for details|2024-07-25|
+ |[Red Hat security advisory (AV24-416)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-416)|Visit link for details|2024-07-23|
+ |[HPE advisory (AV24-415)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-advisory-av24-415)|Visit link for details|2024-07-23|
+ |[Sonicwall advisory (AV24-414)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-advisory-av24-414)|Visit link for details|2024-07-22|
+ |[[Control systems] CISA ICS security advisories (AV24-413)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-413)|Visit link for details|2024-07-22|
+ |[Dell security advisory (AV24-412)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-412)|Visit link for details|2024-07-22|
  
 
 # MA-CERT
