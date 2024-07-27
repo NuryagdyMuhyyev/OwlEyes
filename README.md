@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/07/2024 09:22:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/07/2024 10:17:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
- |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
- |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
- |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,23 +46,20 @@
  |[USN-6530-2: HAProxy vulnerability](https://www.linux.org/threads/usn-6530-2-haproxy-vulnerability.51063/)|Visit link for details.|Jul 23, 2024|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[1Panel-dev KubePi security bypass (CVE-2024-36111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[IBM InfoSphere Information Server SQL injection (CVE-2024-40689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[Positron Broadcast Signal Processor security bypass (CVE-2024-7007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Siemens SICAM Products security bypass (CVE-2024-39601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Siemens SICAM Products security bypass (CVE-2024-37998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Apache Traffic Server denial of service (CVE-2024-35296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- |[Apache Traffic Server HTTP request smuggling (CVE-2024-35161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
+ |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
+ |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
+ |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
+ |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
  
 
 # HK-CERT
@@ -101,18 +82,23 @@
  |---|---|---|
  
 
-# ZERODAYINITIATIVE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-974/)|Visit link for details|2024-07-26|
- |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-973/)|Visit link for details|2024-07-26|
- |[IrfanView AWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-972/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-971/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-970/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-969/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-968/)|Visit link for details|2024-07-26|
- |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[1Panel-dev KubePi security bypass (CVE-2024-36111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[IBM InfoSphere Information Server SQL injection (CVE-2024-40689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[Positron Broadcast Signal Processor security bypass (CVE-2024-7007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Siemens SICAM Products security bypass (CVE-2024-39601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Siemens SICAM Products security bypass (CVE-2024-37998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Apache Traffic Server denial of service (CVE-2024-35296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
+ |[Apache Traffic Server HTTP request smuggling (CVE-2024-35161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
  
 
 # CERT-SANTE
@@ -130,6 +116,20 @@
  |[Zoho ManageEngine - CVE-2024-0252](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-0252-2024-01-12)|Visit link for details.|26/07/2024|
  |[Microsoft - CVE-2024-21326](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21326-2024-01-29)|Visit link for details.|26/07/2024|
  |[GitLab - CVE-2024-7047](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-7047-2024-07-25)|Visit link for details.|25/07/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-974/)|Visit link for details|2024-07-26|
+ |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-973/)|Visit link for details|2024-07-26|
+ |[IrfanView AWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-972/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-971/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-970/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-969/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-968/)|Visit link for details|2024-07-26|
+ |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
  
 
 # EU-CERT
