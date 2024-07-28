@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/07/2024 18:19:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/07/2024 19:15:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5734-2 bind9 - regression update](https://www.linux.org/threads/dsa-5734-2-bind9-regression-update.51116/)|Visit link for details.|Jul 28, 2024|
+ |[USN-6919-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6919-1-linux-kernel-vulnerabilities.51102/)|Visit link for details.|Jul 26, 2024|
+ |[USN-6918-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6918-1-linux-kernel-vulnerabilities.51101/)|Visit link for details.|Jul 26, 2024|
+ |[USN-6917-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6917-1-linux-kernel-vulnerabilities.51100/)|Visit link for details.|Jul 26, 2024|
+ |[DSA-5734-1 bind9 - security update](https://www.linux.org/threads/dsa-5734-1-bind9-security-update.51095/)|Visit link for details.|Jul 26, 2024|
+ |[USN-6915-1: poppler vulnerability](https://www.linux.org/threads/usn-6915-1-poppler-vulnerability.51083/)|Visit link for details.|Jul 25, 2024|
+ |[USN-6914-1: OCS Inventory vulnerability](https://www.linux.org/threads/usn-6914-1-ocs-inventory-vulnerability.51082/)|Visit link for details.|Jul 25, 2024|
+ |[USN-6913-1: phpCAS vulnerability](https://www.linux.org/threads/usn-6913-1-phpcas-vulnerability.51081/)|Visit link for details.|Jul 25, 2024|
+ |[USN-6912-1: provd vulnerability](https://www.linux.org/threads/usn-6912-1-provd-vulnerability.51072/)|Visit link for details.|Jul 24, 2024|
+ |[USN-6906-1: python-zipp vulnerability](https://www.linux.org/threads/usn-6906-1-python-zipp-vulnerability.51069/)|Visit link for details.|Jul 24, 2024|
+ |[USN-6910-1: Apache ActiveMQ vulnerabilities](https://www.linux.org/threads/usn-6910-1-apache-activemq-vulnerabilities.51064/)|Visit link for details.|Jul 23, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,16 @@
  |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5734-2 bind9 - regression update](https://www.linux.org/threads/dsa-5734-2-bind9-regression-update.51116/)|Visit link for details.|Jul 28, 2024|
- |[USN-6919-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6919-1-linux-kernel-vulnerabilities.51102/)|Visit link for details.|Jul 26, 2024|
- |[USN-6918-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6918-1-linux-kernel-vulnerabilities.51101/)|Visit link for details.|Jul 26, 2024|
- |[USN-6917-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6917-1-linux-kernel-vulnerabilities.51100/)|Visit link for details.|Jul 26, 2024|
- |[DSA-5734-1 bind9 - security update](https://www.linux.org/threads/dsa-5734-1-bind9-security-update.51095/)|Visit link for details.|Jul 26, 2024|
- |[USN-6915-1: poppler vulnerability](https://www.linux.org/threads/usn-6915-1-poppler-vulnerability.51083/)|Visit link for details.|Jul 25, 2024|
- |[USN-6914-1: OCS Inventory vulnerability](https://www.linux.org/threads/usn-6914-1-ocs-inventory-vulnerability.51082/)|Visit link for details.|Jul 25, 2024|
- |[USN-6913-1: phpCAS vulnerability](https://www.linux.org/threads/usn-6913-1-phpcas-vulnerability.51081/)|Visit link for details.|Jul 25, 2024|
- |[USN-6912-1: provd vulnerability](https://www.linux.org/threads/usn-6912-1-provd-vulnerability.51072/)|Visit link for details.|Jul 24, 2024|
- |[USN-6906-1: python-zipp vulnerability](https://www.linux.org/threads/usn-6906-1-python-zipp-vulnerability.51069/)|Visit link for details.|Jul 24, 2024|
- |[USN-6910-1: Apache ActiveMQ vulnerabilities](https://www.linux.org/threads/usn-6910-1-apache-activemq-vulnerabilities.51064/)|Visit link for details.|Jul 23, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
@@ -93,12 +105,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -110,12 +116,6 @@
  |[Siemens SICAM Products security bypass (CVE-2024-37998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
  |[Apache Traffic Server denial of service (CVE-2024-35296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
  |[Apache Traffic Server HTTP request smuggling (CVE-2024-35161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 24, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
