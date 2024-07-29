@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/07/2024 23:25:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/07/2024 00:15:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,12 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
 
 # LINUX-SEC
 
@@ -69,6 +63,12 @@
  
 
 # OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -135,37 +135,6 @@
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-974/)|Visit link for details|2024-07-26|
- |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-973/)|Visit link for details|2024-07-26|
- |[IrfanView AWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-972/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-971/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-970/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-969/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-968/)|Visit link for details|2024-07-26|
- |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] CISA ICS security advisories (AV24-426)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-426)|Visit link for details|2024-07-29|
- |[Ubuntu security advisory (AV24-425)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-425)|Visit link for details|2024-07-29|
- |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
- |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
- |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
- |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
- |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
- |[ISC BIND security advisory (AV24-419)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-419)|Visit link for details|2024-07-25|
- |[Mitel security advisory (AV24-418)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-418)|Visit link for details|2024-07-25|
- |[[Control systems] Siemens security advisory (AV24-417)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-417)|Visit link for details|2024-07-25|
- |[Red Hat security advisory (AV24-416)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-416)|Visit link for details|2024-07-23|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -181,4 +150,35 @@
  |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
  |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
  |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Red Hat security advisory (AV24-427)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-427)|Visit link for details|2024-07-29|
+ |[[Control systems] CISA ICS security advisories (AV24-426)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-426)|Visit link for details|2024-07-29|
+ |[Ubuntu security advisory (AV24-425)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-425)|Visit link for details|2024-07-29|
+ |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
+ |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
+ |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
+ |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
+ |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
+ |[ISC BIND security advisory (AV24-419)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-419)|Visit link for details|2024-07-25|
+ |[Mitel security advisory (AV24-418)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-418)|Visit link for details|2024-07-25|
+ |[[Control systems] Siemens security advisory (AV24-417)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-417)|Visit link for details|2024-07-25|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-974/)|Visit link for details|2024-07-26|
+ |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-973/)|Visit link for details|2024-07-26|
+ |[IrfanView AWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-972/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-971/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-970/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-969/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-968/)|Visit link for details|2024-07-26|
+ |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
  
