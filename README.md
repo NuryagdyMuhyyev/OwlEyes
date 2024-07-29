@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/07/2024 01:19:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/07/2024 02:20:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -85,6 +85,12 @@
  |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|26/07/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -99,12 +105,6 @@
  |[CrowdStrike Denial of Service Alert](https://www.hkcert.org/security-bulletin/crowdstrike-denial-of-service-vulnerability_20240719)|On 19 Jul 2024, CrowdStrike Falcon Sensor caused crashes on Windows hosts. Windows hosts running on cloud such as Azure, AWS, etc. are also affected. The symptoms include hosts experiencing a bugcheck\blue screen error. Threat actors has been observed taking advantage...| Release Date: 19 Jul 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -116,6 +116,20 @@
  |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Branch_viewmore.php SQL injection (CVE-2024-7116)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Designation_viewmore.php SQL injection (CVE-2024-7115)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-974/)|Visit link for details|2024-07-26|
+ |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-973/)|Visit link for details|2024-07-26|
+ |[IrfanView AWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-972/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-971/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-970/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-969/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-968/)|Visit link for details|2024-07-26|
+ |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
  
 
 # EU-CERT
@@ -133,20 +147,6 @@
  |[2024-066: Critical Vulnerability in OpenSSH](https://cert.europa.eu/publications/security-advisories/2024-066/)|On July 1, 2024, a new OpenSSH unauthenticated remote code execution (RCE) vulnerability dubbed regreSSHion was reported, affecting glibc-based Linux systems. This vulnerability, identified as CVE-2024-6387, allows remote attackers to execute arbitrary code as root due to a signal handler race condition in sshd.|Tuesday, July 09, 2024 05:35:08 PM CEST|
  |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-974/)|Visit link for details|2024-07-26|
- |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-973/)|Visit link for details|2024-07-26|
- |[IrfanView AWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-972/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-971/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-970/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-969/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-968/)|Visit link for details|2024-07-26|
- |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
  
 
 # CA-CCS
