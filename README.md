@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/07/2024 20:20:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/07/2024 21:24:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
  |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
  |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
@@ -42,7 +43,12 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
  |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
  |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
- |[Oracle Releases Critical Patch Update Advisory for July 2024](https://www.cisa.gov/news-events/alerts/2024/07/18/oracle-releases-critical-patch-update-advisory-july-2024)|Visit link for details.|Jul 18, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # LINUX-SEC
@@ -62,10 +68,27 @@
  |[USN-6915-1: poppler vulnerability](https://www.linux.org/threads/usn-6915-1-poppler-vulnerability.51083/)|Visit link for details.|Jul 25, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress Redux - CVE-2024-6828](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-redux-cve-2024-6828-2024-07-29)|Visit link for details.|29/07/2024|
+ |[OpenText - CVE-2024-7050](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-7050-2024-07-29)|Visit link for details.|29/07/2024|
+ |[ManageEngine - CVE-2024-38871](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38871-2024-07-29)|Visit link for details.|29/07/2024|
+ |[Google Chrome - CVE-2024-6989](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6989-2024-07-29)|Visit link for details.|29/07/2024|
+ |[Binutils/VMware - CVE-2022-47695](https://www.cyberveille-sante.gouv.fr/alertes/binutilsvmware-cve-2022-47695-2024-07-29)|Visit link for details.|29/07/2024|
+ |[VMware Spring - CVE-2024-37084](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-37084-2024-07-26)|Visit link for details.|26/07/2024|
+ |[Microsoft - CVE-2024-39379](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-39379-2024-07-26)|Visit link for details.|26/07/2024|
+ |[Mitel - CVE-2024-35287](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35287-2024-07-26)|Visit link for details.|26/07/2024|
+ |[Linux - CVE-2024-39494](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-39494-2024-07-26)|Visit link for details.|26/07/2024|
+ |[Mitel - CVE-2024-41714](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41714-2024-07-26)|Visit link for details.|26/07/2024|
+ |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|26/07/2024|
  
 
 # HK-CERT
@@ -82,12 +105,6 @@
  |[CrowdStrike Denial of Service Alert](https://www.hkcert.org/security-bulletin/crowdstrike-denial-of-service-vulnerability_20240719)|On 19 Jul 2024, CrowdStrike Falcon Sensor caused crashes on Windows hosts. Windows hosts running on cloud such as Azure, AWS, etc. are also affected. The symptoms include hosts experiencing a bugcheck\blue screen error. Threat actors has been observed taking advantage...| Release Date: 19 Jul 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -99,37 +116,6 @@
  |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Designation_viewmore.php SQL injection (CVE-2024-7115)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  |[GStreamer ORC buffer overflow (CVE-2024-40897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware Spring - CVE-2024-37084](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-37084-2024-07-26)|Visit link for details.|26/07/2024|
- |[Microsoft - CVE-2024-39379](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-39379-2024-07-26)|Visit link for details.|26/07/2024|
- |[Mitel - CVE-2024-35287](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35287-2024-07-26)|Visit link for details.|26/07/2024|
- |[Linux - CVE-2024-39494](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-39494-2024-07-26)|Visit link for details.|26/07/2024|
- |[Mitel - CVE-2024-41714](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41714-2024-07-26)|Visit link for details.|26/07/2024|
- |[Microsoft - CVE-2024-0056](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0056-2024-01-16)|Visit link for details.|26/07/2024|
- |[Microsoft - CVE-2024-0057](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-0057-2024-01-17)|Visit link for details.|26/07/2024|
- |[Microsoft - CVE-2024-21318](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21318-2024-01-15)|Visit link for details.|26/07/2024|
- |[Zoho ManageEngine - CVE-2024-0252](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-0252-2024-01-12)|Visit link for details.|26/07/2024|
- |[Microsoft - CVE-2024-21326](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21326-2024-01-29)|Visit link for details.|26/07/2024|
- |[GitLab - CVE-2024-7047](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-7047-2024-07-25)|Visit link for details.|25/07/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-974/)|Visit link for details|2024-07-26|
- |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-973/)|Visit link for details|2024-07-26|
- |[IrfanView AWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-972/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-971/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-970/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-969/)|Visit link for details|2024-07-26|
- |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-968/)|Visit link for details|2024-07-26|
- |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
  
 
 # EU-CERT
@@ -147,6 +133,20 @@
  |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  |[2024-063: Critical Vulnerability in MOVEit Transfer](https://cert.europa.eu/publications/security-advisories/2024-063/)|On June 25, 2024, Progress Software disclosed a critical vulnerability in Progress MOVEit Transfer. This vulnerability allows attackers to bypass authentication and access sensitive data. The vulnerability is actively being exploited, and there is an available proof of concept (PoC).|Thursday, June 27, 2024 07:19:13 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-974/)|Visit link for details|2024-07-26|
+ |[IrfanView CIN File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-973/)|Visit link for details|2024-07-26|
+ |[IrfanView AWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-972/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-971/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-970/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-969/)|Visit link for details|2024-07-26|
+ |[IrfanView PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-968/)|Visit link for details|2024-07-26|
+ |[IrfanView RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-967/)|Visit link for details|2024-07-26|
  
 
 # MA-CERT
@@ -170,6 +170,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
+ |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
  |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
  |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
  |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
@@ -179,6 +181,4 @@
  |[Red Hat security advisory (AV24-416)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-416)|Visit link for details|2024-07-23|
  |[HPE advisory (AV24-415)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-advisory-av24-415)|Visit link for details|2024-07-23|
  |[Sonicwall advisory (AV24-414)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-advisory-av24-414)|Visit link for details|2024-07-22|
- |[[Control systems] CISA ICS security advisories (AV24-413)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-413)|Visit link for details|2024-07-22|
- |[Dell security advisory (AV24-412)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-412)|Visit link for details|2024-07-22|
  
