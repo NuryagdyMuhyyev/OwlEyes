@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/07/2024 21:25:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/07/2024 22:16:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6924-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-2-linux-kernel-vulnerabilities.51154/)|Visit link for details.|Jul 30, 2024|
- |[USN-6927-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6927-1-linux-kernel-vulnerabilities.51153/)|Visit link for details.|Jul 30, 2024|
- |[USN-6923-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-2-linux-kernel-vulnerabilities.51152/)|Visit link for details.|Jul 30, 2024|
- |[USN-6921-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-2-linux-kernel-vulnerabilities.51151/)|Visit link for details.|Jul 30, 2024|
- |[USN-6926-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-1-linux-kernel-vulnerabilities.51146/)|Visit link for details.|Jul 29, 2024|
- |[USN-6925-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6925-1-linux-kernel-vulnerability.51145/)|Visit link for details.|Jul 29, 2024|
- |[USN-6924-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-1-linux-kernel-vulnerabilities.51144/)|Visit link for details.|Jul 29, 2024|
- |[USN-6921-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-1-linux-kernel-vulnerabilities.51141/)|Visit link for details.|Jul 29, 2024|
- |[USN-6923-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-1-linux-kernel-vulnerabilities.51140/)|Visit link for details.|Jul 29, 2024|
- |[USN-6922-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-1-linux-kernel-vulnerabilities.51139/)|Visit link for details.|Jul 29, 2024|
- |[USN-6916-1: Lua vulnerabilities](https://www.linux.org/threads/usn-6916-1-lua-vulnerabilities.51135/)|Visit link for details.|Jul 29, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,16 +45,27 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6924-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-2-linux-kernel-vulnerabilities.51154/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6927-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6927-1-linux-kernel-vulnerabilities.51153/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6923-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-2-linux-kernel-vulnerabilities.51152/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6921-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-2-linux-kernel-vulnerabilities.51151/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6926-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-1-linux-kernel-vulnerabilities.51146/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6925-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6925-1-linux-kernel-vulnerability.51145/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6924-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-1-linux-kernel-vulnerabilities.51144/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6921-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-1-linux-kernel-vulnerabilities.51141/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6923-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-1-linux-kernel-vulnerabilities.51140/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6922-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-1-linux-kernel-vulnerabilities.51139/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6916-1: Lua vulnerabilities](https://www.linux.org/threads/usn-6916-1-lua-vulnerabilities.51135/)|Visit link for details.|Jul 29, 2024|
  
 
 # CERT-SANTE
@@ -118,6 +112,26 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1020/)|Visit link for details|2024-07-29|
+ |[(Pwn2Own) Docker Desktop extension-manager Exposed Dangerous Function Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1019/)|Visit link for details|2024-07-29|
+ |[(Pwn2Own) Linux Kernel io_uring Buffer List Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1018/)|Visit link for details|2024-07-29|
+ |[(0Day) Panda Security Dome Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1017/)|Visit link for details|2024-07-29|
+ |[(0Day) Panda Security Dome Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1016/)|Visit link for details|2024-07-29|
+ |[(0Day) Panda Security Dome VPN Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1015/)|Visit link for details|2024-07-29|
+ |[(0Day) Panda Security Dome VPN DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1014/)|Visit link for details|2024-07-29|
+ |[(0Day) Panda Security Dome Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1013/)|Visit link for details|2024-07-29|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -133,20 +147,6 @@
  |[2024-066: Critical Vulnerability in OpenSSH](https://cert.europa.eu/publications/security-advisories/2024-066/)|On July 1, 2024, a new OpenSSH unauthenticated remote code execution (RCE) vulnerability dubbed regreSSHion was reported, affecting glibc-based Linux systems. This vulnerability, identified as CVE-2024-6387, allows remote attackers to execute arbitrary code as root due to a signal handler race condition in sshd.|Tuesday, July 09, 2024 05:35:08 PM CEST|
  |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1020/)|Visit link for details|2024-07-29|
- |[(Pwn2Own) Docker Desktop extension-manager Exposed Dangerous Function Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1019/)|Visit link for details|2024-07-29|
- |[(Pwn2Own) Linux Kernel io_uring Buffer List Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1018/)|Visit link for details|2024-07-29|
- |[(0Day) Panda Security Dome Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1017/)|Visit link for details|2024-07-29|
- |[(0Day) Panda Security Dome Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1016/)|Visit link for details|2024-07-29|
- |[(0Day) Panda Security Dome VPN Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1015/)|Visit link for details|2024-07-29|
- |[(0Day) Panda Security Dome VPN DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1014/)|Visit link for details|2024-07-29|
- |[(0Day) Panda Security Dome Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1013/)|Visit link for details|2024-07-29|
  
 
 # MA-CERT
