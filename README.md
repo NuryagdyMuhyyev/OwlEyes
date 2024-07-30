@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/07/2024 19:17:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/07/2024 20:20:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
+ |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
+ |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
+ |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,21 @@
  |[USN-6916-1: Lua vulnerabilities](https://www.linux.org/threads/usn-6916-1-lua-vulnerabilities.51135/)|Visit link for details.|Jul 29, 2024|
  
 
-# US-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
- |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
- |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products)|Visit link for details.|Jul 18, 2024|
- |[Ivanti Releases Security Updates for Endpoint Manager](https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager)|Visit link for details.|Jul 18, 2024|
+ |[ISC BIND - CVE-2023-50868](https://www.cyberveille-sante.gouv.fr/alertes/isc-bind-cve-2023-50868-2024-06-10)|Visit link for details.|30/07/2024|
+ |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|30/07/2024|
+ |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|30/07/2024|
+ |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|30/07/2024|
+ |[WordPress Redux - CVE-2024-6828](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-redux-cve-2024-6828-2024-07-29)|Visit link for details.|29/07/2024|
+ |[OpenText - CVE-2024-7050](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-7050-2024-07-29)|Visit link for details.|29/07/2024|
+ |[ManageEngine - CVE-2024-38871](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38871-2024-07-29)|Visit link for details.|29/07/2024|
+ |[Google Chrome - CVE-2024-6989](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6989-2024-07-29)|Visit link for details.|29/07/2024|
+ |[Binutils/VMware - CVE-2022-47695](https://www.cyberveille-sante.gouv.fr/alertes/binutilsvmware-cve-2022-47695-2024-07-29)|Visit link for details.|29/07/2024|
+ |[VMware Spring - CVE-2024-37084](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-37084-2024-07-26)|Visit link for details.|26/07/2024|
+ |[Microsoft - CVE-2024-39379](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-39379-2024-07-26)|Visit link for details.|26/07/2024|
  
 
 # CERT-FR
@@ -86,36 +103,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
  |[Microsoft Internet Explorer "CDwnBindInfo" Use-After-Free Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-internet-explorer-cdwnbindinfo-use-after-free-vulnerability)|A vulnerability has been identified in Microsoft Internet Explorer, which can be exploited by malicious people to compromise a user's system. The vulnerability is caused due to a use-after-free error when handling the "CDwnBindInfo" object and can be exploited to...| Release Date: 31 Dec 2012 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240724)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system. |Release Date: 24 Jul 2024 |
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|30/07/2024|
- |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|30/07/2024|
- |[ISC BIND - CVE-2023-50868](https://www.cyberveille-sante.gouv.fr/alertes/isc-bind-cve-2023-50868-2024-06-10)|Visit link for details.|30/07/2024|
- |[WordPress Redux - CVE-2024-6828](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-redux-cve-2024-6828-2024-07-29)|Visit link for details.|29/07/2024|
- |[OpenText - CVE-2024-7050](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-7050-2024-07-29)|Visit link for details.|29/07/2024|
- |[ManageEngine - CVE-2024-38871](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38871-2024-07-29)|Visit link for details.|29/07/2024|
- |[Google Chrome - CVE-2024-6989](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6989-2024-07-29)|Visit link for details.|29/07/2024|
- |[Binutils/VMware - CVE-2022-47695](https://www.cyberveille-sante.gouv.fr/alertes/binutilsvmware-cve-2022-47695-2024-07-29)|Visit link for details.|29/07/2024|
- |[VMware Spring - CVE-2024-37084](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-37084-2024-07-26)|Visit link for details.|26/07/2024|
- |[Microsoft - CVE-2024-39379](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-39379-2024-07-26)|Visit link for details.|26/07/2024|
- |[Mitel - CVE-2024-35287](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35287-2024-07-26)|Visit link for details.|26/07/2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[itsourcecode Tailoring Management System Expcatadd.php SQL injection (CVE-2024-7081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Employee_viewmore.php SQL injection (CVE-2024-7119)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Department_viewmore.php SQL injection (CVE-2024-7118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Shift_viewmore.php SQL injection (CVE-2024-7117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Branch_viewmore.php SQL injection (CVE-2024-7116)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Designation_viewmore.php SQL injection (CVE-2024-7115)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  
 
 # EU-CERT
@@ -181,4 +168,17 @@
  |[(0Day) Panda Security Dome VPN Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1015/)|Visit link for details|2024-07-29|
  |[(0Day) Panda Security Dome VPN DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1014/)|Visit link for details|2024-07-29|
  |[(0Day) Panda Security Dome Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1013/)|Visit link for details|2024-07-29|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[itsourcecode Tailoring Management System Expcatadd.php SQL injection (CVE-2024-7081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Employee_viewmore.php SQL injection (CVE-2024-7119)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Department_viewmore.php SQL injection (CVE-2024-7118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Shift_viewmore.php SQL injection (CVE-2024-7117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Branch_viewmore.php SQL injection (CVE-2024-7116)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Designation_viewmore.php SQL injection (CVE-2024-7115)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  
