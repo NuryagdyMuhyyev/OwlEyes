@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/07/2024 02:18:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/07/2024 03:15:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6928-1: Python vulnerabilities](https://www.linux.org/threads/usn-6928-1-python-vulnerabilities.51156/)|Visit link for details.|Jul 30, 2024|
- |[USN-6924-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-2-linux-kernel-vulnerabilities.51154/)|Visit link for details.|Jul 30, 2024|
- |[USN-6927-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6927-1-linux-kernel-vulnerabilities.51153/)|Visit link for details.|Jul 30, 2024|
- |[USN-6923-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-2-linux-kernel-vulnerabilities.51152/)|Visit link for details.|Jul 30, 2024|
- |[USN-6921-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-2-linux-kernel-vulnerabilities.51151/)|Visit link for details.|Jul 30, 2024|
- |[USN-6926-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-1-linux-kernel-vulnerabilities.51146/)|Visit link for details.|Jul 29, 2024|
- |[USN-6925-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6925-1-linux-kernel-vulnerability.51145/)|Visit link for details.|Jul 29, 2024|
- |[USN-6924-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-1-linux-kernel-vulnerabilities.51144/)|Visit link for details.|Jul 29, 2024|
- |[USN-6921-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-1-linux-kernel-vulnerabilities.51141/)|Visit link for details.|Jul 29, 2024|
- |[USN-6923-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-1-linux-kernel-vulnerabilities.51140/)|Visit link for details.|Jul 29, 2024|
- |[USN-6922-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-1-linux-kernel-vulnerabilities.51139/)|Visit link for details.|Jul 29, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,33 +45,21 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/18/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Jul 18, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[ISC BIND - CVE-2023-50868](https://www.cyberveille-sante.gouv.fr/alertes/isc-bind-cve-2023-50868-2024-06-10)|Visit link for details.|30/07/2024|
- |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|30/07/2024|
- |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|30/07/2024|
- |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|30/07/2024|
- |[Microsoft - CVE-2024-21412](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21412-2024-02-14)|Visit link for details.|30/07/2024|
- |[Microsoft - CVE-2024-21351](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21351-2024-02-14)|Visit link for details.|30/07/2024|
- |[WordPress Redux - CVE-2024-6828](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-redux-cve-2024-6828-2024-07-29)|Visit link for details.|29/07/2024|
- |[OpenText - CVE-2024-7050](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-7050-2024-07-29)|Visit link for details.|29/07/2024|
- |[ManageEngine - CVE-2024-38871](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38871-2024-07-29)|Visit link for details.|29/07/2024|
- |[Google Chrome - CVE-2024-6989](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6989-2024-07-29)|Visit link for details.|29/07/2024|
- |[Binutils/VMware - CVE-2022-47695](https://www.cyberveille-sante.gouv.fr/alertes/binutilsvmware-cve-2022-47695-2024-07-29)|Visit link for details.|29/07/2024|
+ |[USN-6928-1: Python vulnerabilities](https://www.linux.org/threads/usn-6928-1-python-vulnerabilities.51156/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6924-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-2-linux-kernel-vulnerabilities.51154/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6927-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6927-1-linux-kernel-vulnerabilities.51153/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6923-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-2-linux-kernel-vulnerabilities.51152/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6921-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-2-linux-kernel-vulnerabilities.51151/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6926-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-1-linux-kernel-vulnerabilities.51146/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6925-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6925-1-linux-kernel-vulnerability.51145/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6924-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-1-linux-kernel-vulnerabilities.51144/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6921-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-1-linux-kernel-vulnerabilities.51141/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6923-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-1-linux-kernel-vulnerabilities.51140/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6922-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-1-linux-kernel-vulnerabilities.51139/)|Visit link for details.|Jul 29, 2024|
  
 
 # HK-CERT
@@ -118,18 +89,33 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
- |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
- |[NI FlexLogger Redis Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1032/)|Visit link for details|2024-07-30|
- |[NI VeriStand NIVSPRJ File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1031/)|Visit link for details|2024-07-30|
- |[NI VeriStand VSMODEL File Parsing Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1030/)|Visit link for details|2024-07-30|
- |[NI VeriStand DataLoggingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1029/)|Visit link for details|2024-07-30|
- |[NI VeriStand WaveformStreamingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1028/)|Visit link for details|2024-07-30|
- |[NI VeriStand ProjectServer OpenTool Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1027/)|Visit link for details|2024-07-30|
+ |[ISC BIND - CVE-2023-50868](https://www.cyberveille-sante.gouv.fr/alertes/isc-bind-cve-2023-50868-2024-06-10)|Visit link for details.|30/07/2024|
+ |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|30/07/2024|
+ |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|30/07/2024|
+ |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|30/07/2024|
+ |[Microsoft - CVE-2024-21412](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21412-2024-02-14)|Visit link for details.|30/07/2024|
+ |[Microsoft - CVE-2024-21351](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21351-2024-02-14)|Visit link for details.|30/07/2024|
+ |[WordPress Redux - CVE-2024-6828](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-redux-cve-2024-6828-2024-07-29)|Visit link for details.|29/07/2024|
+ |[OpenText - CVE-2024-7050](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-7050-2024-07-29)|Visit link for details.|29/07/2024|
+ |[ManageEngine - CVE-2024-38871](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38871-2024-07-29)|Visit link for details.|29/07/2024|
+ |[Google Chrome - CVE-2024-6989](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6989-2024-07-29)|Visit link for details.|29/07/2024|
+ |[Binutils/VMware - CVE-2022-47695](https://www.cyberveille-sante.gouv.fr/alertes/binutilsvmware-cve-2022-47695-2024-07-29)|Visit link for details.|29/07/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -149,6 +135,23 @@
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48542607/24 - Vulnérabilités critiques affectant des produits de Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-siemens)| Siemens annonce la correction de deux vulnérabilités affectant  ses produits susmentionnés.           L'exploitation de ces vulnérabilités peut  permettre  à un attaquant de contourner les mesures de…| 26 juillet 2024|
+ |[ 48532507/24 - Vulnérabilité critique affectant le Plugin AuthZ de Docker ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-authz-de-docker)| Docker annonce la correction d’une vulnérabilité critique affectant le plugin AuthZ. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 25 juillet 2024|
+ |[ 48522507/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind-0)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 25 juillet 2024|
+ |[ 48512507/24 - Vulnérabilités affectant le framework AI LangChain ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-framework-ai-langchain)| Veuillez se référer à l’éditeur afin d’installer les nouvelles mises à jour.| 25 juillet 2024|
+ |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
+ |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
+ |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
+ |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
+ |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
+ |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
+ |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -166,19 +169,16 @@
  |[ISC BIND security advisory (AV24-419)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-419)|Visit link for details|2024-07-25|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 48542607/24 - Vulnérabilités critiques affectant des produits de Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-siemens)| Siemens annonce la correction de deux vulnérabilités affectant  ses produits susmentionnés.           L'exploitation de ces vulnérabilités peut  permettre  à un attaquant de contourner les mesures de…| 26 juillet 2024|
- |[ 48532507/24 - Vulnérabilité critique affectant le Plugin AuthZ de Docker ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-authz-de-docker)| Docker annonce la correction d’une vulnérabilité critique affectant le plugin AuthZ. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 25 juillet 2024|
- |[ 48522507/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind-0)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 25 juillet 2024|
- |[ 48512507/24 - Vulnérabilités affectant le framework AI LangChain ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-framework-ai-langchain)| Veuillez se référer à l’éditeur afin d’installer les nouvelles mises à jour.| 25 juillet 2024|
- |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
- |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
- |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
- |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
- |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
- |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
- |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
+ |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
+ |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
+ |[NI FlexLogger Redis Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1032/)|Visit link for details|2024-07-30|
+ |[NI VeriStand NIVSPRJ File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1031/)|Visit link for details|2024-07-30|
+ |[NI VeriStand VSMODEL File Parsing Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1030/)|Visit link for details|2024-07-30|
+ |[NI VeriStand DataLoggingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1029/)|Visit link for details|2024-07-30|
+ |[NI VeriStand WaveformStreamingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1028/)|Visit link for details|2024-07-30|
+ |[NI VeriStand ProjectServer OpenTool Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1027/)|Visit link for details|2024-07-30|
  
