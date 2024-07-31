@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/07/2024 13:21:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/07/2024 14:20:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6932-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6932-1-openjdk-21-vulnerabilities.51160/)|Visit link for details.|Jul 31, 2024|
- |[USN-6931-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6931-1-openjdk-17-vulnerabilities.51159/)|Visit link for details.|Jul 31, 2024|
- |[USN-6930-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6930-1-openjdk-11-vulnerabilities.51158/)|Visit link for details.|Jul 31, 2024|
- |[USN-6929-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6929-1-openjdk-8-vulnerabilities.51157/)|Visit link for details.|Jul 31, 2024|
- |[USN-6928-1: Python vulnerabilities](https://www.linux.org/threads/usn-6928-1-python-vulnerabilities.51156/)|Visit link for details.|Jul 30, 2024|
- |[USN-6924-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-2-linux-kernel-vulnerabilities.51154/)|Visit link for details.|Jul 30, 2024|
- |[USN-6927-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6927-1-linux-kernel-vulnerabilities.51153/)|Visit link for details.|Jul 30, 2024|
- |[USN-6923-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-2-linux-kernel-vulnerabilities.51152/)|Visit link for details.|Jul 30, 2024|
- |[USN-6921-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-2-linux-kernel-vulnerabilities.51151/)|Visit link for details.|Jul 30, 2024|
- |[USN-6926-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-1-linux-kernel-vulnerabilities.51146/)|Visit link for details.|Jul 29, 2024|
- |[USN-6925-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6925-1-linux-kernel-vulnerability.51145/)|Visit link for details.|Jul 29, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,10 +45,21 @@
  |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
  
 
-# OBS-Vigilance
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6932-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6932-1-openjdk-21-vulnerabilities.51160/)|Visit link for details.|Jul 31, 2024|
+ |[USN-6931-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6931-1-openjdk-17-vulnerabilities.51159/)|Visit link for details.|Jul 31, 2024|
+ |[USN-6930-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6930-1-openjdk-11-vulnerabilities.51158/)|Visit link for details.|Jul 31, 2024|
+ |[USN-6929-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6929-1-openjdk-8-vulnerabilities.51157/)|Visit link for details.|Jul 31, 2024|
+ |[USN-6928-1: Python vulnerabilities](https://www.linux.org/threads/usn-6928-1-python-vulnerabilities.51156/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6924-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-2-linux-kernel-vulnerabilities.51154/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6927-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6927-1-linux-kernel-vulnerabilities.51153/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6923-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-2-linux-kernel-vulnerabilities.51152/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6921-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-2-linux-kernel-vulnerabilities.51151/)|Visit link for details.|Jul 30, 2024|
+ |[USN-6926-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-1-linux-kernel-vulnerabilities.51146/)|Visit link for details.|Jul 29, 2024|
+ |[USN-6925-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6925-1-linux-kernel-vulnerability.51145/)|Visit link for details.|Jul 29, 2024|
  
 
 # CERT-FR
@@ -104,6 +98,12 @@
  |[ISC BIND Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/isc-bind-denial-of-service-vulnerabilities_20240725)|Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 25 Jul 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
  |[Microsoft Internet Explorer "CDwnBindInfo" Use-After-Free Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-internet-explorer-cdwnbindinfo-use-after-free-vulnerability)|A vulnerability has been identified in Microsoft Internet Explorer, which can be exploited by malicious people to compromise a user's system. The vulnerability is caused due to a use-after-free error when handling the "CDwnBindInfo" object and can be exploited to...| Release Date: 31 Dec 2012 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -150,23 +150,6 @@
  |[NI VeriStand ProjectServer OpenTool Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1027/)|Visit link for details|2024-07-30|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE security advisory (AV24-429)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-429)|Visit link for details|2024-07-30|
- |[Apple security advisory (AV24-428)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-428)|Visit link for details|2024-07-30|
- |[Red Hat security advisory (AV24-427)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-427)|Visit link for details|2024-07-29|
- |[[Control systems] CISA ICS security advisories (AV24-426)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-426)|Visit link for details|2024-07-29|
- |[Ubuntu security advisory (AV24-425)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-425)|Visit link for details|2024-07-29|
- |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
- |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
- |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
- |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
- |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
- |[ISC BIND security advisory (AV24-419)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-419)|Visit link for details|2024-07-25|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -182,4 +165,21 @@
  |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
  |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
  |[ 48441807/24 - Vulnérabilités affectant des produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-atlassian)| Atlassian  annonce la correction de plusieurs vulnérabilités affectant ses produits  susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du contenu…| 18 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE security advisory (AV24-429)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-429)|Visit link for details|2024-07-30|
+ |[Apple security advisory (AV24-428)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-428)|Visit link for details|2024-07-30|
+ |[Red Hat security advisory (AV24-427)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-427)|Visit link for details|2024-07-29|
+ |[[Control systems] CISA ICS security advisories (AV24-426)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-426)|Visit link for details|2024-07-29|
+ |[Ubuntu security advisory (AV24-425)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-425)|Visit link for details|2024-07-29|
+ |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
+ |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
+ |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
+ |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
+ |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
+ |[ISC BIND security advisory (AV24-419)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-419)|Visit link for details|2024-07-25|
  
