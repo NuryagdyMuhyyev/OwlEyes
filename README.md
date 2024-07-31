@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/07/2024 11:22:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/07/2024 12:15:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6932-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-6932-1-openjdk-21-vulnerabilities.51160/)|Visit link for details.|Jul 31, 2024|
+ |[USN-6931-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6931-1-openjdk-17-vulnerabilities.51159/)|Visit link for details.|Jul 31, 2024|
+ |[USN-6930-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-6930-1-openjdk-11-vulnerabilities.51158/)|Visit link for details.|Jul 31, 2024|
+ |[USN-6929-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6929-1-openjdk-8-vulnerabilities.51157/)|Visit link for details.|Jul 31, 2024|
  |[USN-6928-1: Python vulnerabilities](https://www.linux.org/threads/usn-6928-1-python-vulnerabilities.51156/)|Visit link for details.|Jul 30, 2024|
  |[USN-6924-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-2-linux-kernel-vulnerabilities.51154/)|Visit link for details.|Jul 30, 2024|
  |[USN-6927-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6927-1-linux-kernel-vulnerabilities.51153/)|Visit link for details.|Jul 30, 2024|
@@ -40,16 +44,6 @@
  |[USN-6921-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-2-linux-kernel-vulnerabilities.51151/)|Visit link for details.|Jul 30, 2024|
  |[USN-6926-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-1-linux-kernel-vulnerabilities.51146/)|Visit link for details.|Jul 29, 2024|
  |[USN-6925-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-6925-1-linux-kernel-vulnerability.51145/)|Visit link for details.|Jul 29, 2024|
- |[USN-6924-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6924-1-linux-kernel-vulnerabilities.51144/)|Visit link for details.|Jul 29, 2024|
- |[USN-6921-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6921-1-linux-kernel-vulnerabilities.51141/)|Visit link for details.|Jul 29, 2024|
- |[USN-6923-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6923-1-linux-kernel-vulnerabilities.51140/)|Visit link for details.|Jul 29, 2024|
- |[USN-6922-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-1-linux-kernel-vulnerabilities.51139/)|Visit link for details.|Jul 29, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # US-CERT
@@ -68,24 +62,20 @@
  |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Progress MOVEit - CVE-2024-6576](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2024-6576-2024-07-30)|Visit link for details.|30/07/2024|
- |[M-Files - CVE-2024-6124](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6124-2024-07-30)|Visit link for details.|30/07/2024|
- |[Linux - CVE-2023-52755](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52755-2024-07-30)|Visit link for details.|30/07/2024|
- |[Docker - CVE-2024-6222](https://www.cyberveille-sante.gouv.fr/alertes/docker-cve-2024-6222-2024-07-30)|Visit link for details.|30/07/2024|
- |[Apple - CVE-2024-40777](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40777-2024-07-30)|Visit link for details.|30/07/2024|
- |[ISC BIND - CVE-2023-50868](https://www.cyberveille-sante.gouv.fr/alertes/isc-bind-cve-2023-50868-2024-06-10)|Visit link for details.|30/07/2024|
- |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|30/07/2024|
- |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|30/07/2024|
- |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|30/07/2024|
- |[Microsoft - CVE-2024-21412](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21412-2024-02-14)|Visit link for details.|30/07/2024|
- |[Microsoft - CVE-2024-21351](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21351-2024-02-14)|Visit link for details.|30/07/2024|
+ |[itsourcecode Tailoring Management System Expcatadd.php SQL injection (CVE-2024-7081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Employee_viewmore.php SQL injection (CVE-2024-7119)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Department_viewmore.php SQL injection (CVE-2024-7118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Shift_viewmore.php SQL injection (CVE-2024-7117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Branch_viewmore.php SQL injection (CVE-2024-7116)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Designation_viewmore.php SQL injection (CVE-2024-7115)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -106,17 +96,41 @@
  |[Microsoft Internet Explorer "CDwnBindInfo" Use-After-Free Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-internet-explorer-cdwnbindinfo-use-after-free-vulnerability)|A vulnerability has been identified in Microsoft Internet Explorer, which can be exploited by malicious people to compromise a user's system. The vulnerability is caused due to a use-after-free error when handling the "CDwnBindInfo" object and can be exploited to...| Release Date: 31 Dec 2012 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[itsourcecode Tailoring Management System Expcatadd.php SQL injection (CVE-2024-7081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Employee_viewmore.php SQL injection (CVE-2024-7119)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Department_viewmore.php SQL injection (CVE-2024-7118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Shift_viewmore.php SQL injection (CVE-2024-7117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Branch_viewmore.php SQL injection (CVE-2024-7116)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Designation_viewmore.php SQL injection (CVE-2024-7115)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
+ |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
+ |[NI FlexLogger Redis Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1032/)|Visit link for details|2024-07-30|
+ |[NI VeriStand NIVSPRJ File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1031/)|Visit link for details|2024-07-30|
+ |[NI VeriStand VSMODEL File Parsing Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1030/)|Visit link for details|2024-07-30|
+ |[NI VeriStand DataLoggingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1029/)|Visit link for details|2024-07-30|
+ |[NI VeriStand WaveformStreamingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1028/)|Visit link for details|2024-07-30|
+ |[NI VeriStand ProjectServer OpenTool Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1027/)|Visit link for details|2024-07-30|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress MOVEit - CVE-2024-6576](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2024-6576-2024-07-30)|Visit link for details.|30/07/2024|
+ |[M-Files - CVE-2024-6124](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6124-2024-07-30)|Visit link for details.|30/07/2024|
+ |[Linux - CVE-2023-52755](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52755-2024-07-30)|Visit link for details.|30/07/2024|
+ |[Docker - CVE-2024-6222](https://www.cyberveille-sante.gouv.fr/alertes/docker-cve-2024-6222-2024-07-30)|Visit link for details.|30/07/2024|
+ |[Apple - CVE-2024-40777](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40777-2024-07-30)|Visit link for details.|30/07/2024|
+ |[ISC BIND - CVE-2023-50868](https://www.cyberveille-sante.gouv.fr/alertes/isc-bind-cve-2023-50868-2024-06-10)|Visit link for details.|30/07/2024|
+ |[PostgreSQL - CVE-2024-0985](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-0985-2024-02-12)|Visit link for details.|30/07/2024|
+ |[ServiceNow - CVE-2024-5217](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-5217-2024-07-12)|Visit link for details.|30/07/2024|
+ |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|30/07/2024|
+ |[Microsoft - CVE-2024-21412](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21412-2024-02-14)|Visit link for details.|30/07/2024|
+ |[Microsoft - CVE-2024-21351](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21351-2024-02-14)|Visit link for details.|30/07/2024|
  
 
 # EU-CERT
@@ -134,20 +148,6 @@
  |[2024-066: Critical Vulnerability in OpenSSH](https://cert.europa.eu/publications/security-advisories/2024-066/)|On July 1, 2024, a new OpenSSH unauthenticated remote code execution (RCE) vulnerability dubbed regreSSHion was reported, affecting glibc-based Linux systems. This vulnerability, identified as CVE-2024-6387, allows remote attackers to execute arbitrary code as root due to a signal handler race condition in sshd.|Tuesday, July 09, 2024 05:35:08 PM CEST|
  |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
- |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
- |[NI FlexLogger Redis Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1032/)|Visit link for details|2024-07-30|
- |[NI VeriStand NIVSPRJ File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1031/)|Visit link for details|2024-07-30|
- |[NI VeriStand VSMODEL File Parsing Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1030/)|Visit link for details|2024-07-30|
- |[NI VeriStand DataLoggingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1029/)|Visit link for details|2024-07-30|
- |[NI VeriStand WaveformStreamingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1028/)|Visit link for details|2024-07-30|
- |[NI VeriStand ProjectServer OpenTool Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1027/)|Visit link for details|2024-07-30|
  
 
 # MA-CERT
