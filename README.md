@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/07/2024 22:18:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/07/2024 23:24:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,27 +68,6 @@
  |---|---|---|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted...|Release Date: 31 Jul 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. |Release Date: 31 Jul 2024 |
- |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240730)|Multiple vulnerabilities were identified in VMware products. An attacker could exploit some of these vulnerabilities to trigger denial of service and  security restriction bypass. Note:CVE-2024-37085 is being exploited in the wild, therefore, the risk level is rated as...|Release Date: 30 Jul 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240729)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Jul 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240726)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2024 |
- |[ISC BIND Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/isc-bind-denial-of-service-vulnerabilities_20240725)|Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 25 Jul 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
- |[Microsoft Internet Explorer "CDwnBindInfo" Use-After-Free Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-internet-explorer-cdwnbindinfo-use-after-free-vulnerability)|A vulnerability has been identified in Microsoft Internet Explorer, which can be exploited by malicious people to compromise a user's system. The vulnerability is caused due to a use-after-free error when handling the "CDwnBindInfo" object and can be exploited to...| Release Date: 31 Dec 2012 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -106,6 +85,27 @@
  |[M-Files - CVE-2024-6124](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6124-2024-07-30)|Visit link for details.|30/07/2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted...|Release Date: 31 Jul 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. |Release Date: 31 Jul 2024 |
+ |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240730)|Multiple vulnerabilities were identified in VMware products. An attacker could exploit some of these vulnerabilities to trigger denial of service and  security restriction bypass. Note:CVE-2024-37085 is being exploited in the wild, therefore, the risk level is rated as...|Release Date: 30 Jul 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240729)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Jul 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240726)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2024 |
+ |[ISC BIND Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/isc-bind-denial-of-service-vulnerabilities_20240725)|Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 25 Jul 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
+ |[Microsoft Internet Explorer "CDwnBindInfo" Use-After-Free Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-internet-explorer-cdwnbindinfo-use-after-free-vulnerability)|A vulnerability has been identified in Microsoft Internet Explorer, which can be exploited by malicious people to compromise a user's system. The vulnerability is caused due to a use-after-free error when handling the "CDwnBindInfo" object and can be exploited to...| Release Date: 31 Dec 2012 |
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -116,7 +116,7 @@
  |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Branch_viewmore.php SQL injection (CVE-2024-7116)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  |[MD-MAFUJUL-HASAN Online-Payroll-Management-System Designation_viewmore.php SQL injection (CVE-2024-7115)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  |[GStreamer ORC buffer overflow (CVE-2024-40897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
- |[1Panel-dev KubePi security bypass (CVE-2024-36111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 25, 2024|
  
 
 # EU-CERT
@@ -134,6 +134,20 @@
  |[2024-066: Critical Vulnerability in OpenSSH](https://cert.europa.eu/publications/security-advisories/2024-066/)|On July 1, 2024, a new OpenSSH unauthenticated remote code execution (RCE) vulnerability dubbed regreSSHion was reported, affecting glibc-based Linux systems. This vulnerability, identified as CVE-2024-6387, allows remote attackers to execute arbitrary code as root due to a signal handler race condition in sshd.|Tuesday, July 09, 2024 05:35:08 PM CEST|
  |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
+ |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
+ |[NI FlexLogger Redis Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1032/)|Visit link for details|2024-07-30|
+ |[NI VeriStand NIVSPRJ File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1031/)|Visit link for details|2024-07-30|
+ |[NI VeriStand VSMODEL File Parsing Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1030/)|Visit link for details|2024-07-30|
+ |[NI VeriStand DataLoggingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1029/)|Visit link for details|2024-07-30|
+ |[NI VeriStand WaveformStreamingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1028/)|Visit link for details|2024-07-30|
+ |[NI VeriStand ProjectServer OpenTool Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1027/)|Visit link for details|2024-07-30|
  
 
 # MA-CERT
@@ -168,18 +182,4 @@
  |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
  |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
  |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
- |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
- |[NI FlexLogger Redis Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1032/)|Visit link for details|2024-07-30|
- |[NI VeriStand NIVSPRJ File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1031/)|Visit link for details|2024-07-30|
- |[NI VeriStand VSMODEL File Parsing Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1030/)|Visit link for details|2024-07-30|
- |[NI VeriStand DataLoggingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1029/)|Visit link for details|2024-07-30|
- |[NI VeriStand WaveformStreamingServer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1028/)|Visit link for details|2024-07-30|
- |[NI VeriStand ProjectServer OpenTool Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1027/)|Visit link for details|2024-07-30|
  
