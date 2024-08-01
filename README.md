@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/08/2024 23:25:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/08/2024 00:14:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,7 +62,7 @@
  |[USN-6935-1: Prometheus Alertmanager vulnerability](https://www.linux.org/threads/usn-6935-1-prometheus-alertmanager-vulnerability.51166/)|Visit link for details.|Jul 31, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -85,7 +85,7 @@
  |[D-Link - CVE-2024-41610](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41610-2024-07-31)|Visit link for details.|31/07/2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -119,6 +119,20 @@
  |[Oracle VirtualBox information disclosure (CVE-2024-21164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 30, 2024|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1040/)|Visit link for details|2024-07-31|
+ |[PaperCut NG web-print-hot-folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1039/)|Visit link for details|2024-07-31|
+ |[PaperCut NG pc-web-print Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1038/)|Visit link for details|2024-07-31|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1037/)|Visit link for details|2024-07-31|
+ |[Check Point ZoneAlarm Extreme Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1036/)|Visit link for details|2024-07-31|
+ |[Microsoft Windows NTFS Junction Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1035/)|Visit link for details|2024-07-31|
+ |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
+ |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -136,18 +150,21 @@
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1040/)|Visit link for details|2024-07-31|
- |[PaperCut NG web-print-hot-folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1039/)|Visit link for details|2024-07-31|
- |[PaperCut NG pc-web-print Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1038/)|Visit link for details|2024-07-31|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1037/)|Visit link for details|2024-07-31|
- |[Check Point ZoneAlarm Extreme Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1036/)|Visit link for details|2024-07-31|
- |[Microsoft Windows NTFS Junction Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1035/)|Visit link for details|2024-07-31|
- |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
- |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
+ |[HPE security advisory (AV24-431)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-431)|Visit link for details|2024-08-01|
+ |[Google Chrome security advisory (AV24-430)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-430)|Visit link for details|2024-07-31|
+ |[HPE security advisory (AV24-429)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-429)|Visit link for details|2024-07-30|
+ |[Apple security advisory (AV24-428)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-428)|Visit link for details|2024-07-30|
+ |[Red Hat security advisory (AV24-427)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-427)|Visit link for details|2024-07-29|
+ |[[Control systems] CISA ICS security advisories (AV24-426)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-426)|Visit link for details|2024-07-29|
+ |[Ubuntu security advisory (AV24-425)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-425)|Visit link for details|2024-07-29|
+ |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
+ |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
+ |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
+ |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
  
 
 # MA-CERT
@@ -165,21 +182,4 @@
  |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
  |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
  |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE security advisory (AV24-431)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-431)|Visit link for details|2024-08-01|
- |[Google Chrome security advisory (AV24-430)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-430)|Visit link for details|2024-07-31|
- |[HPE security advisory (AV24-429)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-429)|Visit link for details|2024-07-30|
- |[Apple security advisory (AV24-428)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-428)|Visit link for details|2024-07-30|
- |[Red Hat security advisory (AV24-427)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-427)|Visit link for details|2024-07-29|
- |[[Control systems] CISA ICS security advisories (AV24-426)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-426)|Visit link for details|2024-07-29|
- |[Ubuntu security advisory (AV24-425)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-425)|Visit link for details|2024-07-29|
- |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
- |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
- |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
- |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
  
