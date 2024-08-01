@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/08/2024 13:24:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/08/2024 14:19:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,28 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 30, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
+ |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
+ |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
+ |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,22 +68,6 @@
  |[USN-6931-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-6931-1-openjdk-17-vulnerabilities.51159/)|Visit link for details.|Jul 31, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 30, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
- |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
- |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
- |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -77,6 +83,12 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on...| Release Date: 10 Jul 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -88,12 +100,6 @@
  |[Dell Peripheral Manager directory traversal (CVE-2024-37142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2024|
  |[CVE-2024-37127 (CVE-2024-37127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2024|
  |[Oracle VirtualBox information disclosure (CVE-2024-21164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 30, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -113,10 +119,18 @@
  |[M-Files - CVE-2024-6124](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6124-2024-07-30)|Visit link for details.|30/07/2024|
  
 
-# CERT-FR
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1040/)|Visit link for details|2024-07-31|
+ |[PaperCut NG web-print-hot-folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1039/)|Visit link for details|2024-07-31|
+ |[PaperCut NG pc-web-print Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1038/)|Visit link for details|2024-07-31|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1037/)|Visit link for details|2024-07-31|
+ |[Check Point ZoneAlarm Extreme Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1036/)|Visit link for details|2024-07-31|
+ |[Microsoft Windows NTFS Junction Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1035/)|Visit link for details|2024-07-31|
+ |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
+ |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
  
 
 # EU-CERT
@@ -151,20 +165,6 @@
  |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
  |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
  |[ 48461907/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses  produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 19 juillet 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1040/)|Visit link for details|2024-07-31|
- |[PaperCut NG web-print-hot-folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1039/)|Visit link for details|2024-07-31|
- |[PaperCut NG pc-web-print Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1038/)|Visit link for details|2024-07-31|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1037/)|Visit link for details|2024-07-31|
- |[Check Point ZoneAlarm Extreme Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1036/)|Visit link for details|2024-07-31|
- |[Microsoft Windows NTFS Junction Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1035/)|Visit link for details|2024-07-31|
- |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
- |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
  
 
 # CA-CCS
