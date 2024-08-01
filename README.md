@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/08/2024 04:18:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/08/2024 06:35:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,12 +46,6 @@
  |[USN-6929-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-6929-1-openjdk-8-vulnerabilities.51157/)|Visit link for details.|Jul 31, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -66,6 +60,35 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
  |[Widespread IT Outage Due to CrowdStrike Update](https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update)|Visit link for details.|Jul 19, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro - CVE-2024-41183](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-41183-2024-07-31)|Visit link for details.|31/07/2024|
+ |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|31/07/2024|
+ |[F-Secure - CVE-2024-7240](https://www.cyberveille-sante.gouv.fr/alertes/f-secure-cve-2024-7240-2024-07-31)|Visit link for details.|31/07/2024|
+ |[D-Link - CVE-2024-41610](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41610-2024-07-31)|Visit link for details.|31/07/2024|
+ |[Apple - CVE-2024-23296](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23296-2024-07-31)|Visit link for details.|31/07/2024|
+ |[Microsoft - CVE-2023-29360](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29360-2024-03-01)|Visit link for details.|31/07/2024|
+ |[Microsoft - CVE-2024-21338](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21338-2024-03-01)|Visit link for details.|31/07/2024|
+ |[Microsoft - CVE-2023-36049](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36049-2024-03-11)|Visit link for details.|31/07/2024|
+ |[Microsoft - CVE-2024-21407](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21407-2024-03-13)|Visit link for details.|31/07/2024|
+ |[Progress MOVEit - CVE-2024-6576](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2024-6576-2024-07-30)|Visit link for details.|30/07/2024|
+ |[M-Files - CVE-2024-6124](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6124-2024-07-30)|Visit link for details.|30/07/2024|
  
 
 # HK-CERT
@@ -87,53 +110,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[cURL libcurl denial of service (CVE-2024-7264)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2024|
  |[Dell Peripheral Manager directory traversal (CVE-2024-32857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2024|
  |[Dell Peripheral Manager directory traversal (CVE-2024-37142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2024|
  |[CVE-2024-37127 (CVE-2024-37127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 31, 2024|
+ |[Oracle VirtualBox information disclosure (CVE-2024-21164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 30, 2024|
  |[GraphQL Java denial of service (CVE-2024-40094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 30, 2024|
  |[FFRI AMC OS command execution (CVE-2024-40895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 30, 2024|
- |[EC-CUBE Web API Plugin cross-site scripting (CVE-2024-41141)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 30, 2024|
- |[HostGator spoofing (CVE-2024-7208)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jul 30, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro - CVE-2024-41183](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-41183-2024-07-31)|Visit link for details.|31/07/2024|
- |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|31/07/2024|
- |[F-Secure - CVE-2024-7240](https://www.cyberveille-sante.gouv.fr/alertes/f-secure-cve-2024-7240-2024-07-31)|Visit link for details.|31/07/2024|
- |[D-Link - CVE-2024-41610](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41610-2024-07-31)|Visit link for details.|31/07/2024|
- |[Apple - CVE-2024-23296](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-23296-2024-07-31)|Visit link for details.|31/07/2024|
- |[Microsoft - CVE-2023-29360](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-29360-2024-03-01)|Visit link for details.|31/07/2024|
- |[Microsoft - CVE-2024-21338](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21338-2024-03-01)|Visit link for details.|31/07/2024|
- |[Microsoft - CVE-2023-36049](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2023-36049-2024-03-11)|Visit link for details.|31/07/2024|
- |[Microsoft - CVE-2024-21407](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-21407-2024-03-13)|Visit link for details.|31/07/2024|
- |[Progress MOVEit - CVE-2024-6576](https://www.cyberveille-sante.gouv.fr/alertes/progress-moveit-cve-2024-6576-2024-07-30)|Visit link for details.|30/07/2024|
- |[M-Files - CVE-2024-6124](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6124-2024-07-30)|Visit link for details.|30/07/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-430)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-430)|Visit link for details|2024-07-31|
- |[HPE security advisory (AV24-429)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-429)|Visit link for details|2024-07-30|
- |[Apple security advisory (AV24-428)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-428)|Visit link for details|2024-07-30|
- |[Red Hat security advisory (AV24-427)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-427)|Visit link for details|2024-07-29|
- |[[Control systems] CISA ICS security advisories (AV24-426)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-426)|Visit link for details|2024-07-29|
- |[Ubuntu security advisory (AV24-425)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-425)|Visit link for details|2024-07-29|
- |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
- |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
- |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
- |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
- |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
  
 
 # EU-CERT
@@ -182,4 +165,21 @@
  |[Microsoft Windows NTFS Junction Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1035/)|Visit link for details|2024-07-31|
  |[Oracle VirtualBox EHCI USB Controller Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1034/)|Visit link for details|2024-07-30|
  |[NI FlexLogger Redis Server Incorrect Permission Assignment Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1033/)|Visit link for details|2024-07-30|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-430)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-430)|Visit link for details|2024-07-31|
+ |[HPE security advisory (AV24-429)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-429)|Visit link for details|2024-07-30|
+ |[Apple security advisory (AV24-428)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-428)|Visit link for details|2024-07-30|
+ |[Red Hat security advisory (AV24-427)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-427)|Visit link for details|2024-07-29|
+ |[[Control systems] CISA ICS security advisories (AV24-426)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-426)|Visit link for details|2024-07-29|
+ |[Ubuntu security advisory (AV24-425)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-425)|Visit link for details|2024-07-29|
+ |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
+ |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
+ |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
+ |[HPE security advisory (AV24-421)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-421)|Visit link for details|2024-07-25|
+ |[Google Chrome security advisory (AV24-420)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-420)|Visit link for details|2024-07-25|
  
