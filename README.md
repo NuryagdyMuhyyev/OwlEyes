@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/08/2024 09:23:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/08/2024 10:19:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,12 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -83,12 +89,6 @@
  |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|31/07/2024|
  |[F-Secure - CVE-2024-7240](https://www.cyberveille-sante.gouv.fr/alertes/f-secure-cve-2024-7240-2024-07-31)|Visit link for details.|31/07/2024|
  |[D-Link - CVE-2024-41610](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41610-2024-07-31)|Visit link for details.|31/07/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
