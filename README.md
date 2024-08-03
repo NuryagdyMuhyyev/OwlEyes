@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/08/2024 00:14:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/08/2024 01:18:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,7 +68,7 @@
  |[USN-6936-1: Apache Commons Collections vulnerability](https://www.linux.org/threads/usn-6936-1-apache-commons-collections-vulnerability.51172/)|Visit link for details.|Jul 31, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -83,12 +89,6 @@
  |[Dell - CVE-2024-37127](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37127-2024-08-01)|Visit link for details.|01/08/2024|
  |[CheckPoint Security - CVE-2024-6233](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-6233-2024-08-01)|Visit link for details.|01/08/2024|
  |[Bitdefender - CVE-2024-6980](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-6980-2024-08-01)|Visit link for details.|01/08/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
