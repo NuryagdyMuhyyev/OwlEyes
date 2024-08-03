@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/08/2024 08:20:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/08/2024 09:21:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6943-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6943-1-tomcat-vulnerabilities.51190/)|Visit link for details.|Aug 2, 2024|
+ |[USN-6909-2: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-2-bind-vulnerabilities.51186/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6926-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-2-linux-kernel-vulnerabilities.51185/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6942-1: Gross vulnerability](https://www.linux.org/threads/usn-6942-1-gross-vulnerability.51184/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6922-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-2-linux-kernel-vulnerabilities.51183/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6941-1: Python vulnerability](https://www.linux.org/threads/usn-6941-1-python-vulnerability.51182/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6940-1: snapd vulnerabilities](https://www.linux.org/threads/usn-6940-1-snapd-vulnerabilities.51178/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6933-1: ClickHouse vulnerabilities](https://www.linux.org/threads/usn-6933-1-clickhouse-vulnerabilities.51177/)|Visit link for details.|Aug 1, 2024|
+ |[DSA-5735-1 chromium - security update](https://www.linux.org/threads/dsa-5735-1-chromium-security-update.51174/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6939-1: Exim vulnerability](https://www.linux.org/threads/usn-6939-1-exim-vulnerability.51173/)|Visit link for details.|Jul 31, 2024|
+ |[USN-6936-1: Apache Commons Collections vulnerability](https://www.linux.org/threads/usn-6936-1-apache-commons-collections-vulnerability.51172/)|Visit link for details.|Jul 31, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -51,27 +68,21 @@
  |---|---|---|
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6943-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6943-1-tomcat-vulnerabilities.51190/)|Visit link for details.|Aug 2, 2024|
- |[USN-6909-2: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-2-bind-vulnerabilities.51186/)|Visit link for details.|Aug 1, 2024|
- |[USN-6926-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-2-linux-kernel-vulnerabilities.51185/)|Visit link for details.|Aug 1, 2024|
- |[USN-6942-1: Gross vulnerability](https://www.linux.org/threads/usn-6942-1-gross-vulnerability.51184/)|Visit link for details.|Aug 1, 2024|
- |[USN-6922-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-2-linux-kernel-vulnerabilities.51183/)|Visit link for details.|Aug 1, 2024|
- |[USN-6941-1: Python vulnerability](https://www.linux.org/threads/usn-6941-1-python-vulnerability.51182/)|Visit link for details.|Aug 1, 2024|
- |[USN-6940-1: snapd vulnerabilities](https://www.linux.org/threads/usn-6940-1-snapd-vulnerabilities.51178/)|Visit link for details.|Aug 1, 2024|
- |[USN-6933-1: ClickHouse vulnerabilities](https://www.linux.org/threads/usn-6933-1-clickhouse-vulnerabilities.51177/)|Visit link for details.|Aug 1, 2024|
- |[DSA-5735-1 chromium - security update](https://www.linux.org/threads/dsa-5735-1-chromium-security-update.51174/)|Visit link for details.|Aug 1, 2024|
- |[USN-6939-1: Exim vulnerability](https://www.linux.org/threads/usn-6939-1-exim-vulnerability.51173/)|Visit link for details.|Jul 31, 2024|
- |[USN-6936-1: Apache Commons Collections vulnerability](https://www.linux.org/threads/usn-6936-1-apache-commons-collections-vulnerability.51172/)|Visit link for details.|Jul 31, 2024|
+ |[VMware - CVE-2024-37085](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37085-2024-08-02)|Visit link for details.|02/08/2024|
+ |[VIPRE - CVE-2024-7238](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7238-2024-08-02)|Visit link for details.|02/08/2024|
+ |[ManageEngine- CVE-2024-38872](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38872-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Avast - CVE-2024-7233](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2024-7233-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Apple - CVE-2024-40834](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40834-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Google Chrome - CVE-2024-7256](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7256-2024-08-01)|Visit link for details.|02/08/2024|
+ |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|02/08/2024|
+ |[D-Link - CVE-2024-41611](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41611-2024-08-01)|Visit link for details.|01/08/2024|
+ |[Dell - CVE-2024-37127](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37127-2024-08-01)|Visit link for details.|01/08/2024|
+ |[CheckPoint Security - CVE-2024-6233](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-6233-2024-08-01)|Visit link for details.|01/08/2024|
+ |[Bitdefender - CVE-2024-6980](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-6980-2024-08-01)|Visit link for details.|01/08/2024|
  
 
 # HK-CERT
@@ -90,34 +101,23 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240726)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ruby REXML denial of service (CVE-2024-41123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
+ |[Ruby REXML denial of service (CVE-2024-41946)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
  |[Adobe InDesign information disclosure (CVE-2024-39396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
  |[Adobe InDesign buffer overflow (CVE-2024-39392)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
  |[Vonets Industrial WiFi Bridge Relays and WiFi Bridge Repeaters security bypass (CVE-2024-42001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
  |[Vonets Industrial WiFi Bridge Relays and WiFi Bridge Repeaters buffer overflow (CVE-2024-39791)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
  |[Vonets Industrial WiFi Bridge Relays and WiFi Bridge Repeaters denial of service (CVE-2024-39815)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
- |[Vonets Industrial WiFi Bridge Relays and WiFi Bridge Repeaters command execution (CVE-2024-37023)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
- |[Vonets Industrial WiFi Bridge Relays and WiFi Bridge Repeaters directory traversal (CVE-2024-41936)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware - CVE-2024-37085](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37085-2024-08-02)|Visit link for details.|02/08/2024|
- |[VIPRE - CVE-2024-7238](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7238-2024-08-02)|Visit link for details.|02/08/2024|
- |[ManageEngine- CVE-2024-38872](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38872-2024-08-02)|Visit link for details.|02/08/2024|
- |[Avast - CVE-2024-7233](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2024-7233-2024-08-02)|Visit link for details.|02/08/2024|
- |[Apple - CVE-2024-40834](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40834-2024-08-02)|Visit link for details.|02/08/2024|
- |[Google Chrome - CVE-2024-7256](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7256-2024-08-01)|Visit link for details.|02/08/2024|
- |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|02/08/2024|
- |[D-Link - CVE-2024-41611](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41611-2024-08-01)|Visit link for details.|01/08/2024|
- |[Dell - CVE-2024-37127](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37127-2024-08-01)|Visit link for details.|01/08/2024|
- |[CheckPoint Security - CVE-2024-6233](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-6233-2024-08-01)|Visit link for details.|01/08/2024|
- |[Bitdefender - CVE-2024-6980](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-6980-2024-08-01)|Visit link for details.|01/08/2024|
  
 
 # ZERODAYINITIATIVE
