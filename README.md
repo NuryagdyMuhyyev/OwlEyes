@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/08/2024 17:33:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/08/2024 18:18:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,19 @@
  |---|---|---|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache InLong code execution (CVE-2024-36268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2024|
+ |[Apache Linkis security bypass (CVE-2024-27182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2024|
+ |[Apache Linkis privilege escalation (CVE-2024-27181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2024|
+ |[Vim denial of service (CVE-2024-41965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
+ |[Vim denial of service (CVE-2024-41957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
+ |[Ruby REXML denial of service (CVE-2024-41123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
+ |[Ruby REXML denial of service (CVE-2024-41946)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -82,6 +95,20 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240729)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Jul 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240726)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2024 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex OCPP bswitch Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1053/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1052/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanchnllst Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1051/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex SrvrToSmSetAutoChnlListMsg Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1050/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanapp Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1049/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex onboardee Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1048/)|Visit link for details|2024-08-01|
+ |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1047/)|Visit link for details|2024-08-01|
+ |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1046/)|Visit link for details|2024-08-01|
  
 
 # CERT-SANTE
@@ -105,33 +132,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache InLong code execution (CVE-2024-36268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2024|
- |[Apache Linkis security bypass (CVE-2024-27182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2024|
- |[Apache Linkis privilege escalation (CVE-2024-27181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2024|
- |[Vim denial of service (CVE-2024-41965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
- |[Vim denial of service (CVE-2024-41957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
- |[Ruby REXML denial of service (CVE-2024-41123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
- |[Ruby REXML denial of service (CVE-2024-41946)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex OCPP bswitch Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1053/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1052/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanchnllst Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1051/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex SrvrToSmSetAutoChnlListMsg Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1050/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanapp Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1049/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex onboardee Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1048/)|Visit link for details|2024-08-01|
- |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1047/)|Visit link for details|2024-08-01|
- |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1046/)|Visit link for details|2024-08-01|
  
 
 # EU-CERT
