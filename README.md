@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/08/2024 20:19:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/08/2024 21:24:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,29 @@
  |[DSA-5735-1 chromium - security update](https://www.linux.org/threads/dsa-5735-1-chromium-security-update.51174/)|Visit link for details.|Aug 1, 2024|
  |[USN-6939-1: Exim vulnerability](https://www.linux.org/threads/usn-6939-1-exim-vulnerability.51173/)|Visit link for details.|Jul 31, 2024|
  |[USN-6936-1: Apache Commons Collections vulnerability](https://www.linux.org/threads/usn-6936-1-apache-commons-collections-vulnerability.51172/)|Visit link for details.|Jul 31, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware - CVE-2024-37085](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37085-2024-08-02)|Visit link for details.|02/08/2024|
+ |[VIPRE - CVE-2024-7238](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7238-2024-08-02)|Visit link for details.|02/08/2024|
+ |[ManageEngine- CVE-2024-38872](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38872-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Avast - CVE-2024-7233](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2024-7233-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Apple - CVE-2024-40834](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40834-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Google Chrome - CVE-2024-7256](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7256-2024-08-01)|Visit link for details.|02/08/2024|
+ |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|02/08/2024|
+ |[D-Link - CVE-2024-41611](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41611-2024-08-01)|Visit link for details.|01/08/2024|
+ |[Dell - CVE-2024-37127](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37127-2024-08-01)|Visit link for details.|01/08/2024|
+ |[CheckPoint Security - CVE-2024-6233](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-6233-2024-08-01)|Visit link for details.|01/08/2024|
+ |[Bitdefender - CVE-2024-6980](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-6980-2024-08-01)|Visit link for details.|01/08/2024|
  
 
 # HK-CERT
@@ -101,23 +118,6 @@
  |[Vim denial of service (CVE-2024-41957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
  |[Ruby REXML denial of service (CVE-2024-41123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
  |[Ruby REXML denial of service (CVE-2024-41946)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware - CVE-2024-37085](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37085-2024-08-02)|Visit link for details.|02/08/2024|
- |[VIPRE - CVE-2024-7238](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7238-2024-08-02)|Visit link for details.|02/08/2024|
- |[ManageEngine- CVE-2024-38872](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38872-2024-08-02)|Visit link for details.|02/08/2024|
- |[Avast - CVE-2024-7233](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2024-7233-2024-08-02)|Visit link for details.|02/08/2024|
- |[Apple - CVE-2024-40834](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40834-2024-08-02)|Visit link for details.|02/08/2024|
- |[Google Chrome - CVE-2024-7256](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7256-2024-08-01)|Visit link for details.|02/08/2024|
- |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|02/08/2024|
- |[D-Link - CVE-2024-41611](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41611-2024-08-01)|Visit link for details.|01/08/2024|
- |[Dell - CVE-2024-37127](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37127-2024-08-01)|Visit link for details.|01/08/2024|
- |[CheckPoint Security - CVE-2024-6233](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-6233-2024-08-01)|Visit link for details.|01/08/2024|
- |[Bitdefender - CVE-2024-6980](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-6980-2024-08-01)|Visit link for details.|01/08/2024|
  
 
 # ZERODAYINITIATIVE
