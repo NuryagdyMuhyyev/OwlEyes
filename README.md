@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/08/2024 15:18:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/08/2024 16:15:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,35 @@
  |[USN-6936-1: Apache Commons Collections vulnerability](https://www.linux.org/threads/usn-6936-1-apache-commons-collections-vulnerability.51172/)|Visit link for details.|Jul 31, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware - CVE-2024-37085](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37085-2024-08-02)|Visit link for details.|02/08/2024|
+ |[VIPRE - CVE-2024-7238](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7238-2024-08-02)|Visit link for details.|02/08/2024|
+ |[ManageEngine- CVE-2024-38872](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38872-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Avast - CVE-2024-7233](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2024-7233-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Apple - CVE-2024-40834](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40834-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Google Chrome - CVE-2024-7256](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7256-2024-08-01)|Visit link for details.|02/08/2024|
+ |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|02/08/2024|
+ |[D-Link - CVE-2024-41611](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41611-2024-08-01)|Visit link for details.|01/08/2024|
+ |[Dell - CVE-2024-37127](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37127-2024-08-01)|Visit link for details.|01/08/2024|
+ |[CheckPoint Security - CVE-2024-6233](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-6233-2024-08-01)|Visit link for details.|01/08/2024|
+ |[Bitdefender - CVE-2024-6980](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-6980-2024-08-01)|Visit link for details.|01/08/2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -91,33 +120,35 @@
  |[Ruby REXML denial of service (CVE-2024-41123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
  
 
-# OBS-Vigilance
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
+ |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
+ |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
+ |[2024-071: Critical Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-071/)|On July 18, 2024, SolarWinds issued an advisory addressing multiple critical vulnerabilities in its Access Rights Manager (ARM) software. These vulnerabilities could lead to remote code execution, arbitrary file deletion and sensitive information leakage.|Friday, July 19, 2024 07:30:40 PM CEST|
+ |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
+ |[2024-069: Vulnerabilities in Citrix Netscaler](https://cert.europa.eu/publications/security-advisories/2024-069/)|On July 9, 2024, Citrix released a security advisory addressing two vulnerabilities in Citrix NetScaler Console, Agent, and SDX (SVM). The vulnerabilities "CVE-2024-6235" and "CVE-2024-6236" can result in sensitive information disclosure and denial of service.|Monday, July 15, 2024 05:41:57 PM CEST|
+ |[2024-068: Critical Vulnerabilities in GeoServer and GeoTools](https://cert.europa.eu/publications/security-advisories/2024-068/)|On July 2, 2024, several critical vulnerabilities were addressed in GeoServer and GeoTools. These vulnerabilities can result in arbitrary code execution through the unsafe evaluation of user-supplied "XPath" expressions.|Thursday, July 11, 2024 03:14:25 PM CEST|
+ |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
+ |[2024-066: Critical Vulnerability in OpenSSH](https://cert.europa.eu/publications/security-advisories/2024-066/)|On July 1, 2024, a new OpenSSH unauthenticated remote code execution (RCE) vulnerability dubbed regreSSHion was reported, affecting glibc-based Linux systems. This vulnerability, identified as CVE-2024-6387, allows remote attackers to execute arbitrary code as root due to a signal handler race condition in sshd.|Tuesday, July 09, 2024 05:35:08 PM CEST|
+ |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
+ |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  
 
-# CERT-FR
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware - CVE-2024-37085](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37085-2024-08-02)|Visit link for details.|02/08/2024|
- |[VIPRE - CVE-2024-7238](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7238-2024-08-02)|Visit link for details.|02/08/2024|
- |[ManageEngine- CVE-2024-38872](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38872-2024-08-02)|Visit link for details.|02/08/2024|
- |[Avast - CVE-2024-7233](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2024-7233-2024-08-02)|Visit link for details.|02/08/2024|
- |[Apple - CVE-2024-40834](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40834-2024-08-02)|Visit link for details.|02/08/2024|
- |[Google Chrome - CVE-2024-7256](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7256-2024-08-01)|Visit link for details.|02/08/2024|
- |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|02/08/2024|
- |[D-Link - CVE-2024-41611](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41611-2024-08-01)|Visit link for details.|01/08/2024|
- |[Dell - CVE-2024-37127](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37127-2024-08-01)|Visit link for details.|01/08/2024|
- |[CheckPoint Security - CVE-2024-6233](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-6233-2024-08-01)|Visit link for details.|01/08/2024|
- |[Bitdefender - CVE-2024-6980](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-6980-2024-08-01)|Visit link for details.|01/08/2024|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex OCPP bswitch Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1053/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1052/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanchnllst Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1051/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex SrvrToSmSetAutoChnlListMsg Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1050/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanapp Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1049/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex onboardee Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1048/)|Visit link for details|2024-08-01|
+ |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1047/)|Visit link for details|2024-08-01|
+ |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1046/)|Visit link for details|2024-08-01|
  
 
 # MA-CERT
@@ -137,23 +168,6 @@
  |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
- |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
- |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
- |[2024-071: Critical Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-071/)|On July 18, 2024, SolarWinds issued an advisory addressing multiple critical vulnerabilities in its Access Rights Manager (ARM) software. These vulnerabilities could lead to remote code execution, arbitrary file deletion and sensitive information leakage.|Friday, July 19, 2024 07:30:40 PM CEST|
- |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
- |[2024-069: Vulnerabilities in Citrix Netscaler](https://cert.europa.eu/publications/security-advisories/2024-069/)|On July 9, 2024, Citrix released a security advisory addressing two vulnerabilities in Citrix NetScaler Console, Agent, and SDX (SVM). The vulnerabilities "CVE-2024-6235" and "CVE-2024-6236" can result in sensitive information disclosure and denial of service.|Monday, July 15, 2024 05:41:57 PM CEST|
- |[2024-068: Critical Vulnerabilities in GeoServer and GeoTools](https://cert.europa.eu/publications/security-advisories/2024-068/)|On July 2, 2024, several critical vulnerabilities were addressed in GeoServer and GeoTools. These vulnerabilities can result in arbitrary code execution through the unsafe evaluation of user-supplied "XPath" expressions.|Thursday, July 11, 2024 03:14:25 PM CEST|
- |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
- |[2024-066: Critical Vulnerability in OpenSSH](https://cert.europa.eu/publications/security-advisories/2024-066/)|On July 1, 2024, a new OpenSSH unauthenticated remote code execution (RCE) vulnerability dubbed regreSSHion was reported, affecting glibc-based Linux systems. This vulnerability, identified as CVE-2024-6387, allows remote attackers to execute arbitrary code as root due to a signal handler race condition in sshd.|Tuesday, July 09, 2024 05:35:08 PM CEST|
- |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
- |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -169,18 +183,4 @@
  |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
  |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
  |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex OCPP bswitch Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1053/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1052/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanchnllst Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1051/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex SrvrToSmSetAutoChnlListMsg Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1050/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanapp Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1049/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex onboardee Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1048/)|Visit link for details|2024-08-01|
- |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1047/)|Visit link for details|2024-08-01|
- |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1046/)|Visit link for details|2024-08-01|
  
