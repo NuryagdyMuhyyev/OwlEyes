@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/08/2024 02:18:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/08/2024 03:17:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,10 +68,27 @@
  |[USN-6936-1: Apache Commons Collections vulnerability](https://www.linux.org/threads/usn-6936-1-apache-commons-collections-vulnerability.51172/)|Visit link for details.|Jul 31, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware - CVE-2024-37085](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37085-2024-08-02)|Visit link for details.|02/08/2024|
+ |[VIPRE - CVE-2024-7238](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7238-2024-08-02)|Visit link for details.|02/08/2024|
+ |[ManageEngine- CVE-2024-38872](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38872-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Avast - CVE-2024-7233](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2024-7233-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Apple - CVE-2024-40834](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40834-2024-08-02)|Visit link for details.|02/08/2024|
+ |[Google Chrome - CVE-2024-7256](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7256-2024-08-01)|Visit link for details.|02/08/2024|
+ |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|02/08/2024|
+ |[D-Link - CVE-2024-41611](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41611-2024-08-01)|Visit link for details.|01/08/2024|
+ |[Dell - CVE-2024-37127](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37127-2024-08-01)|Visit link for details.|01/08/2024|
+ |[CheckPoint Security - CVE-2024-6233](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-6233-2024-08-01)|Visit link for details.|01/08/2024|
+ |[Bitdefender - CVE-2024-6980](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-6980-2024-08-01)|Visit link for details.|01/08/2024|
  
 
 # HK-CERT
@@ -95,43 +118,6 @@
  |[IBM Planning Analytics Local missing authentication (CVE-2024-35143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
  |[Vim denial of service (CVE-2024-41965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
  |[Vim denial of service (CVE-2024-41957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware - CVE-2024-37085](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37085-2024-08-02)|Visit link for details.|02/08/2024|
- |[VIPRE - CVE-2024-7238](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7238-2024-08-02)|Visit link for details.|02/08/2024|
- |[ManageEngine- CVE-2024-38872](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-38872-2024-08-02)|Visit link for details.|02/08/2024|
- |[Avast - CVE-2024-7233](https://www.cyberveille-sante.gouv.fr/alertes/avast-cve-2024-7233-2024-08-02)|Visit link for details.|02/08/2024|
- |[Apple - CVE-2024-40834](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40834-2024-08-02)|Visit link for details.|02/08/2024|
- |[Google Chrome - CVE-2024-7256](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7256-2024-08-01)|Visit link for details.|02/08/2024|
- |[Google Chrome - CVE-2024-6990](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-6990-2024-07-31)|Visit link for details.|02/08/2024|
- |[D-Link - CVE-2024-41611](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41611-2024-08-01)|Visit link for details.|01/08/2024|
- |[Dell - CVE-2024-37127](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37127-2024-08-01)|Visit link for details.|01/08/2024|
- |[CheckPoint Security - CVE-2024-6233](https://www.cyberveille-sante.gouv.fr/alertes/checkpoint-security-cve-2024-6233-2024-08-01)|Visit link for details.|01/08/2024|
- |[Bitdefender - CVE-2024-6980](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-6980-2024-08-01)|Visit link for details.|01/08/2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex OCPP bswitch Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1053/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1052/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanchnllst Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1051/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex SrvrToSmSetAutoChnlListMsg Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1050/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanapp Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1049/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex onboardee Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1048/)|Visit link for details|2024-08-01|
- |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1047/)|Visit link for details|2024-08-01|
- |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1046/)|Visit link for details|2024-08-01|
  
 
 # EU-CERT
@@ -183,4 +169,18 @@
  |[IBM security advisory (AV24-424)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424)|Visit link for details|2024-07-29|
  |[Dell security advisory (AV24-423)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423)|Visit link for details|2024-07-29|
  |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex OCPP bswitch Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1053/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1052/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanchnllst Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1051/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex SrvrToSmSetAutoChnlListMsg Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1050/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanapp Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1049/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex onboardee Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1048/)|Visit link for details|2024-08-01|
+ |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1047/)|Visit link for details|2024-08-01|
+ |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1046/)|Visit link for details|2024-08-01|
  
