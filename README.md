@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/08/2024 14:20:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/08/2024 15:20:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6943-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6943-1-tomcat-vulnerabilities.51190/)|Visit link for details.|Aug 2, 2024|
- |[USN-6909-2: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-2-bind-vulnerabilities.51186/)|Visit link for details.|Aug 1, 2024|
- |[USN-6926-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-2-linux-kernel-vulnerabilities.51185/)|Visit link for details.|Aug 1, 2024|
- |[USN-6942-1: Gross vulnerability](https://www.linux.org/threads/usn-6942-1-gross-vulnerability.51184/)|Visit link for details.|Aug 1, 2024|
- |[USN-6922-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-2-linux-kernel-vulnerabilities.51183/)|Visit link for details.|Aug 1, 2024|
- |[USN-6941-1: Python vulnerability](https://www.linux.org/threads/usn-6941-1-python-vulnerability.51182/)|Visit link for details.|Aug 1, 2024|
- |[USN-6940-1: snapd vulnerabilities](https://www.linux.org/threads/usn-6940-1-snapd-vulnerabilities.51178/)|Visit link for details.|Aug 1, 2024|
- |[USN-6933-1: ClickHouse vulnerabilities](https://www.linux.org/threads/usn-6933-1-clickhouse-vulnerabilities.51177/)|Visit link for details.|Aug 1, 2024|
- |[DSA-5735-1 chromium - security update](https://www.linux.org/threads/dsa-5735-1-chromium-security-update.51174/)|Visit link for details.|Aug 1, 2024|
- |[USN-6939-1: Exim vulnerability](https://www.linux.org/threads/usn-6939-1-exim-vulnerability.51173/)|Visit link for details.|Jul 31, 2024|
- |[USN-6936-1: Apache Commons Collections vulnerability](https://www.linux.org/threads/usn-6936-1-apache-commons-collections-vulnerability.51172/)|Visit link for details.|Jul 31, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,6 +45,29 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 23, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6895-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-4-linux-kernel-vulnerabilities.51228/)|Visit link for details.|Aug 5, 2024|
+ |[USN-6943-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6943-1-tomcat-vulnerabilities.51190/)|Visit link for details.|Aug 2, 2024|
+ |[USN-6909-2: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-2-bind-vulnerabilities.51186/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6926-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-2-linux-kernel-vulnerabilities.51185/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6942-1: Gross vulnerability](https://www.linux.org/threads/usn-6942-1-gross-vulnerability.51184/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6922-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-2-linux-kernel-vulnerabilities.51183/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6941-1: Python vulnerability](https://www.linux.org/threads/usn-6941-1-python-vulnerability.51182/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6940-1: snapd vulnerabilities](https://www.linux.org/threads/usn-6940-1-snapd-vulnerabilities.51178/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6933-1: ClickHouse vulnerabilities](https://www.linux.org/threads/usn-6933-1-clickhouse-vulnerabilities.51177/)|Visit link for details.|Aug 1, 2024|
+ |[DSA-5735-1 chromium - security update](https://www.linux.org/threads/dsa-5735-1-chromium-security-update.51174/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6939-1: Exim vulnerability](https://www.linux.org/threads/usn-6939-1-exim-vulnerability.51173/)|Visit link for details.|Jul 31, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -76,25 +82,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240729)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Jul 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240726)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache OFBiz security bypass (CVE-2024-38856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2024|
- |[Apache Airflow Providers FAB security bypass (CVE-2024-42447)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2024|
- |[IBM Business Automation Workflow information disclosure (CVE-2024-38321)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2024|
- |[Apache InLong code execution (CVE-2024-36268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2024|
- |[Apache Linkis security bypass (CVE-2024-27182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2024|
- |[Apache Linkis privilege escalation (CVE-2024-27181)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 2, 2024|
- |[IBM Planning Analytics Local missing authentication (CVE-2024-35143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 1, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -114,24 +101,23 @@
  |[Bitdefender - CVE-2024-6980](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-6980-2024-08-01)|Visit link for details.|01/08/2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Pimax Play and PiTool code execution (CVE-2024-41889)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
+ |[ZWX-2000CSW2-HN security bypass (CVE-2024-41720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
+ |[ZWX-2000CSW2-HN default account (CVE-2024-39838)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
+ |[Rocket.Chat's Twilio server-side request forgery (CVE-2024-39713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2024|
+ |[Apache OFBiz security bypass (CVE-2024-38856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2024|
+ |[Apache Airflow Providers FAB security bypass (CVE-2024-42447)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2024|
+ |[IBM Business Automation Workflow information disclosure (CVE-2024-38321)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 3, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex OCPP bswitch Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1053/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1052/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanchnllst Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1051/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex SrvrToSmSetAutoChnlListMsg Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1050/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanapp Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1049/)|Visit link for details|2024-08-01|
- |[(0Day) (Pwn2Own) ChargePoint Home Flex onboardee Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1048/)|Visit link for details|2024-08-01|
- |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1047/)|Visit link for details|2024-08-01|
- |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1046/)|Visit link for details|2024-08-01|
  
 
 # EU-CERT
@@ -151,6 +137,23 @@
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48550108/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-23)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 01 août 2024|
+ |[ 48553107/24 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits        susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant d’exécuter du code…| 31 juillet 2024|
+ |[ 48542607/24 - Vulnérabilités critiques affectant des produits de Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-siemens)| Siemens annonce la correction de deux vulnérabilités affectant  ses produits susmentionnés.           L'exploitation de ces vulnérabilités peut  permettre  à un attaquant de contourner les mesures de…| 26 juillet 2024|
+ |[ 48532507/24 - Vulnérabilité critique affectant le Plugin AuthZ de Docker ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-authz-de-docker)| Docker annonce la correction d’une vulnérabilité critique affectant le plugin AuthZ. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 25 juillet 2024|
+ |[ 48522507/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind-0)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 25 juillet 2024|
+ |[ 48512507/24 - Vulnérabilités affectant le framework AI LangChain ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-framework-ai-langchain)| Veuillez se référer à l’éditeur afin d’installer les nouvelles mises à jour.| 25 juillet 2024|
+ |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
+ |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
+ |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
+ |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
+ |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -168,19 +171,16 @@
  |[Microsoft Edge security advisory (AV24-422)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-422)|Visit link for details|2024-07-26|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 48550108/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-23)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 01 août 2024|
- |[ 48553107/24 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits        susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant d’exécuter du code…| 31 juillet 2024|
- |[ 48542607/24 - Vulnérabilités critiques affectant des produits de Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-siemens)| Siemens annonce la correction de deux vulnérabilités affectant  ses produits susmentionnés.           L'exploitation de ces vulnérabilités peut  permettre  à un attaquant de contourner les mesures de…| 26 juillet 2024|
- |[ 48532507/24 - Vulnérabilité critique affectant le Plugin AuthZ de Docker ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-authz-de-docker)| Docker annonce la correction d’une vulnérabilité critique affectant le plugin AuthZ. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 25 juillet 2024|
- |[ 48522507/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind-0)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 25 juillet 2024|
- |[ 48512507/24 - Vulnérabilités affectant le framework AI LangChain ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-framework-ai-langchain)| Veuillez se référer à l’éditeur afin d’installer les nouvelles mises à jour.| 25 juillet 2024|
- |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
- |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
- |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
- |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
- |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex OCPP bswitch Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1053/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex Improper Certificate Validation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1052/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanchnllst Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1051/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex SrvrToSmSetAutoChnlListMsg Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1050/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex wlanapp Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1049/)|Visit link for details|2024-08-01|
+ |[(0Day) (Pwn2Own) ChargePoint Home Flex onboardee Improper Access Control Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1048/)|Visit link for details|2024-08-01|
+ |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1047/)|Visit link for details|2024-08-01|
+ |[(0Day) ChargePoint Home Flex Bluetooth Low Energy Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1046/)|Visit link for details|2024-08-01|
  
