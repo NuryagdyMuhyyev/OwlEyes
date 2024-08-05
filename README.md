@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/08/2024 00:18:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/08/2024 01:19:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,22 +51,6 @@
  |---|---|---|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...|Release Date: 1 Aug 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted...|Release Date: 31 Jul 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. |Release Date: 31 Jul 2024 |
- |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240730)|Multiple vulnerabilities were identified in VMware products. An attacker could exploit some of these vulnerabilities to trigger denial of service and  security restriction bypass. Note:CVE-2024-37085 is being exploited in the wild, therefore, the risk level is rated as...|Release Date: 30 Jul 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240729)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Jul 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240726)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2024 |
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -84,6 +68,22 @@
  |[USN-6940-1: snapd vulnerabilities](https://www.linux.org/threads/usn-6940-1-snapd-vulnerabilities.51178/)|Visit link for details.|Aug 1, 2024|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...|Release Date: 1 Aug 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted...|Release Date: 31 Jul 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. |Release Date: 31 Jul 2024 |
+ |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240730)|Multiple vulnerabilities were identified in VMware products. An attacker could exploit some of these vulnerabilities to trigger denial of service and  security restriction bypass. Note:CVE-2024-37085 is being exploited in the wild, therefore, the risk level is rated as...|Release Date: 30 Jul 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240705)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-07-12] Updated System / Technologies affected...| Release Date: 5 Jul 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240729)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Jul 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240726)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jul 2024 |
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -94,13 +94,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Buffer Over-read in Multi Mode Call Processor (CVE-2024-23353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
- |[Use After Free in Graphics Linux (CVE-2024-23381)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
- |[Buffer Over-read in Audio (CVE-2024-21479)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
- |[Buffer Over-read in WLAN Host Communication (CVE-2024-21467)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
- |[Use After Free in Graphics Linux (CVE-2024-23383)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
- |[TOTOLINK N350RT buffer overflow (CVE-2024-7462)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
- |[TOTOLINK CP900 Telnet Service setTelnetCfg command injection (CVE-2024-7464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
+ |[Improper Restriction of Operations within the Bounds of a Memory Buffer in Hypervisor (CVE-2024-21481)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
+ |[Buffer Over-read in WLAN Host (CVE-2024-33011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
+ |[Use After Free in Graphics Linux (CVE-2024-23382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
+ |[Loop with Unreachable Exit Condition (`Infinite Loop`) in Multi Mode Call Processor (CVE-2024-23352)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
+ |[Buffer Over-read in WLAN Host (CVE-2024-33015)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
+ |[Use After Free in Graphics Linux (CVE-2024-33034)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 5, 2024|
  
 
 # CERT-SANTE
