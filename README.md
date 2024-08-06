@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/08/2024 02:18:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/08/2024 03:18:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6944-1: curl vulnerability](https://www.linux.org/threads/usn-6944-1-curl-vulnerability.51235/)|Visit link for details.|Aug 5, 2024|
- |[DSA-5737-1 libreoffice - security update](https://www.linux.org/threads/dsa-5737-1-libreoffice-security-update.51234/)|Visit link for details.|Aug 5, 2024|
- |[DSA-5736-1 openjdk-11 - security update](https://www.linux.org/threads/dsa-5736-1-openjdk-11-security-update.51233/)|Visit link for details.|Aug 5, 2024|
- |[USN-6895-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-4-linux-kernel-vulnerabilities.51228/)|Visit link for details.|Aug 5, 2024|
- |[USN-6943-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6943-1-tomcat-vulnerabilities.51190/)|Visit link for details.|Aug 2, 2024|
- |[USN-6909-2: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-2-bind-vulnerabilities.51186/)|Visit link for details.|Aug 1, 2024|
- |[USN-6926-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-2-linux-kernel-vulnerabilities.51185/)|Visit link for details.|Aug 1, 2024|
- |[USN-6942-1: Gross vulnerability](https://www.linux.org/threads/usn-6942-1-gross-vulnerability.51184/)|Visit link for details.|Aug 1, 2024|
- |[USN-6922-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-2-linux-kernel-vulnerabilities.51183/)|Visit link for details.|Aug 1, 2024|
- |[USN-6941-1: Python vulnerability](https://www.linux.org/threads/usn-6941-1-python-vulnerability.51182/)|Visit link for details.|Aug 1, 2024|
- |[USN-6940-1: snapd vulnerabilities](https://www.linux.org/threads/usn-6940-1-snapd-vulnerabilities.51178/)|Visit link for details.|Aug 1, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,26 +45,27 @@
  |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6946-1: Django vulnerabilities](https://www.linux.org/threads/usn-6946-1-django-vulnerabilities.51248/)|Visit link for details.|Aug 6, 2024|
+ |[USN-6945-1: wpa_supplicant and hostapd vulnerability](https://www.linux.org/threads/usn-6945-1-wpa_supplicant-and-hostapd-vulnerability.51247/)|Visit link for details.|Aug 6, 2024|
+ |[USN-6944-1: curl vulnerability](https://www.linux.org/threads/usn-6944-1-curl-vulnerability.51235/)|Visit link for details.|Aug 5, 2024|
+ |[DSA-5737-1 libreoffice - security update](https://www.linux.org/threads/dsa-5737-1-libreoffice-security-update.51234/)|Visit link for details.|Aug 5, 2024|
+ |[DSA-5736-1 openjdk-11 - security update](https://www.linux.org/threads/dsa-5736-1-openjdk-11-security-update.51233/)|Visit link for details.|Aug 5, 2024|
+ |[USN-6895-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-4-linux-kernel-vulnerabilities.51228/)|Visit link for details.|Aug 5, 2024|
+ |[USN-6943-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6943-1-tomcat-vulnerabilities.51190/)|Visit link for details.|Aug 2, 2024|
+ |[USN-6909-2: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-2-bind-vulnerabilities.51186/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6926-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-2-linux-kernel-vulnerabilities.51185/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6942-1: Gross vulnerability](https://www.linux.org/threads/usn-6942-1-gross-vulnerability.51184/)|Visit link for details.|Aug 1, 2024|
+ |[USN-6922-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-2-linux-kernel-vulnerabilities.51183/)|Visit link for details.|Aug 1, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 6 Aug 2024 |
- |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 6 Aug 2024 |
- |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...|Release Date: 1 Aug 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted...|Release Date: 31 Jul 2024 |
  
 
 # OBS-Vigilance
@@ -120,6 +104,22 @@
  |[D-Link - CVE-2023-24330](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24330-2024-02-27)|Visit link for details.|05/08/2024|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 6 Aug 2024 |
+ |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 6 Aug 2024 |
+ |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...|Release Date: 1 Aug 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted...|Release Date: 31 Jul 2024 |
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -132,23 +132,6 @@
  |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
  |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
  |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-441)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-441)|Visit link for details|2024-08-06|
- |[HPE security advisory (AV24-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-440)|Visit link for details|2024-08-06|
- |[Mozilla security advisory (AV24-439)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-439)|Visit link for details|2024-08-06|
- |[Red Hat security advisory (AV24-438)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-438)|Visit link for details|2024-08-06|
- |[[Control systems] CISA ICS security advisories (AV24-437)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-437)|Visit link for details|2024-08-06|
- |[Android security advisory – August 2024 Monthly Rollup (AV24-436)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-august-2024-monthly-rollup-av24-436)|Visit link for details|2024-08-06|
- |[Ubuntu security advisory (AV24-435)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-435)|Visit link for details|2024-08-06|
- |[IBM security advisory (AV24-434)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-434)|Visit link for details|2024-08-06|
- |[Dell security advisory (AV24-433)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-433)|Visit link for details|2024-08-06|
- |[Microsoft Edge security advisory (AV24-432)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-432)|Visit link for details|2024-08-02|
- |[HPE security advisory (AV24-431)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-431)|Visit link for details|2024-08-01|
  
 
 # EU-CERT
@@ -166,6 +149,23 @@
  |[2024-066: Critical Vulnerability in OpenSSH](https://cert.europa.eu/publications/security-advisories/2024-066/)|On July 1, 2024, a new OpenSSH unauthenticated remote code execution (RCE) vulnerability dubbed regreSSHion was reported, affecting glibc-based Linux systems. This vulnerability, identified as CVE-2024-6387, allows remote attackers to execute arbitrary code as root due to a signal handler race condition in sshd.|Tuesday, July 09, 2024 05:35:08 PM CEST|
  |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-441)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-441)|Visit link for details|2024-08-06|
+ |[HPE security advisory (AV24-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-440)|Visit link for details|2024-08-06|
+ |[Mozilla security advisory (AV24-439)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-439)|Visit link for details|2024-08-06|
+ |[Red Hat security advisory (AV24-438)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-438)|Visit link for details|2024-08-06|
+ |[[Control systems] CISA ICS security advisories (AV24-437)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-437)|Visit link for details|2024-08-06|
+ |[Android security advisory – August 2024 Monthly Rollup (AV24-436)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-august-2024-monthly-rollup-av24-436)|Visit link for details|2024-08-06|
+ |[Ubuntu security advisory (AV24-435)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-435)|Visit link for details|2024-08-06|
+ |[IBM security advisory (AV24-434)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-434)|Visit link for details|2024-08-06|
+ |[Dell security advisory (AV24-433)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-433)|Visit link for details|2024-08-06|
+ |[Microsoft Edge security advisory (AV24-432)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-432)|Visit link for details|2024-08-02|
+ |[HPE security advisory (AV24-431)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-431)|Visit link for details|2024-08-01|
  
 
 # MA-CERT
