@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/08/2024 03:18:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/08/2024 04:19:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,23 +68,26 @@
  |---|---|---|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 6 Aug 2024 |
+ |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 6 Aug 2024 |
+ |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...|Release Date: 1 Aug 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted...|Release Date: 31 Jul 2024 |
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Calibre SQL Injection (CVE-2024-7009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Calibre remote code execution (CVE-2024-6782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Calibre cross-site scripting (CVE-2024-7008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[FFmpeg pnmdec.c pnm_decode_frame heap-based overflow (CVE-2024-7055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[HaloITSM security bypass (CVE-2024-6203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[HaloITSM SAML XML Signature Wrapping (XSW) spoofing (CVE-2024-6202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[HaloITSM information disclosure (CVE-2024-6201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
  
 
 # CERT-SANTE
@@ -104,34 +107,17 @@
  |[D-Link - CVE-2023-24330](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24330-2024-02-27)|Visit link for details.|05/08/2024|
  
 
-# HK-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 6 Aug 2024 |
- |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 6 Aug 2024 |
- |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...|Release Date: 1 Aug 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted...|Release Date: 31 Jul 2024 |
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
- |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
- |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
+ |[Calibre SQL Injection (CVE-2024-7009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Calibre remote code execution (CVE-2024-6782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Calibre cross-site scripting (CVE-2024-7008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[FFmpeg pnmdec.c pnm_decode_frame heap-based overflow (CVE-2024-7055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[HaloITSM security bypass (CVE-2024-6203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[HaloITSM SAML XML Signature Wrapping (XSW) spoofing (CVE-2024-6202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[HaloITSM information disclosure (CVE-2024-6201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
  
 
 # EU-CERT
@@ -166,6 +152,20 @@
  |[Dell security advisory (AV24-433)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-433)|Visit link for details|2024-08-06|
  |[Microsoft Edge security advisory (AV24-432)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-432)|Visit link for details|2024-08-02|
  |[HPE security advisory (AV24-431)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-431)|Visit link for details|2024-08-01|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
+ |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
+ |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
  
 
 # MA-CERT
