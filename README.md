@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/08/2024 18:22:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/08/2024 19:17:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 05, 2024|
  |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/01/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Aug 01, 2024|
  |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
@@ -42,7 +43,6 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
  |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
  |[ISC Releases Security Advisories for BIND 9](https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9)|Visit link for details.|Jul 24, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/23/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Jul 23, 2024|
  
 
 # LINUX-SEC
@@ -78,10 +78,17 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240731)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted...|Release Date: 31 Jul 2024 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Calibre SQL Injection (CVE-2024-7009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Calibre remote code execution (CVE-2024-6782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Calibre cross-site scripting (CVE-2024-7008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[FFmpeg pnmdec.c pnm_decode_frame heap-based overflow (CVE-2024-7055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[HaloITSM security bypass (CVE-2024-6203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[HaloITSM SAML XML Signature Wrapping (XSW) spoofing (CVE-2024-6202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[HaloITSM information disclosure (CVE-2024-6201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
  
 
 # CERT-FR
@@ -107,17 +114,27 @@
  |[OpenSSL - CVE-2024-4741](https://www.cyberveille-sante.gouv.fr/alertes/openssl-cve-2024-4741-2024-05-30)|Visit link for details.|05/08/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Calibre SQL Injection (CVE-2024-7009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Calibre remote code execution (CVE-2024-6782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Calibre cross-site scripting (CVE-2024-7008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[FFmpeg pnmdec.c pnm_decode_frame heap-based overflow (CVE-2024-7055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[HaloITSM security bypass (CVE-2024-6203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[HaloITSM SAML XML Signature Wrapping (XSW) spoofing (CVE-2024-6202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[HaloITSM information disclosure (CVE-2024-6201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
+ |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
+ |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
+ |[2024-071: Critical Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-071/)|On July 18, 2024, SolarWinds issued an advisory addressing multiple critical vulnerabilities in its Access Rights Manager (ARM) software. These vulnerabilities could lead to remote code execution, arbitrary file deletion and sensitive information leakage.|Friday, July 19, 2024 07:30:40 PM CEST|
+ |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
+ |[2024-069: Vulnerabilities in Citrix Netscaler](https://cert.europa.eu/publications/security-advisories/2024-069/)|On July 9, 2024, Citrix released a security advisory addressing two vulnerabilities in Citrix NetScaler Console, Agent, and SDX (SVM). The vulnerabilities "CVE-2024-6235" and "CVE-2024-6236" can result in sensitive information disclosure and denial of service.|Monday, July 15, 2024 05:41:57 PM CEST|
+ |[2024-068: Critical Vulnerabilities in GeoServer and GeoTools](https://cert.europa.eu/publications/security-advisories/2024-068/)|On July 2, 2024, several critical vulnerabilities were addressed in GeoServer and GeoTools. These vulnerabilities can result in arbitrary code execution through the unsafe evaluation of user-supplied "XPath" expressions.|Thursday, July 11, 2024 03:14:25 PM CEST|
+ |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
+ |[2024-066: Critical Vulnerability in OpenSSH](https://cert.europa.eu/publications/security-advisories/2024-066/)|On July 1, 2024, a new OpenSSH unauthenticated remote code execution (RCE) vulnerability dubbed regreSSHion was reported, affecting glibc-based Linux systems. This vulnerability, identified as CVE-2024-6387, allows remote attackers to execute arbitrary code as root due to a signal handler race condition in sshd.|Tuesday, July 09, 2024 05:35:08 PM CEST|
+ |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
+ |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[(0Day) (Pwn2Own) oFono AT CMGR Command Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1082/)|Visit link for details|2024-08-05|
  |[(0Day) (Pwn2Own) oFono AT CMT Command Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1081/)|Visit link for details|2024-08-05|
  |[(0Day) (Pwn2Own) oFono AT CMGL Command Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1080/)|Visit link for details|2024-08-05|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
- |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
- |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
- |[2024-071: Critical Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-071/)|On July 18, 2024, SolarWinds issued an advisory addressing multiple critical vulnerabilities in its Access Rights Manager (ARM) software. These vulnerabilities could lead to remote code execution, arbitrary file deletion and sensitive information leakage.|Friday, July 19, 2024 07:30:40 PM CEST|
- |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
- |[2024-069: Vulnerabilities in Citrix Netscaler](https://cert.europa.eu/publications/security-advisories/2024-069/)|On July 9, 2024, Citrix released a security advisory addressing two vulnerabilities in Citrix NetScaler Console, Agent, and SDX (SVM). The vulnerabilities "CVE-2024-6235" and "CVE-2024-6236" can result in sensitive information disclosure and denial of service.|Monday, July 15, 2024 05:41:57 PM CEST|
- |[2024-068: Critical Vulnerabilities in GeoServer and GeoTools](https://cert.europa.eu/publications/security-advisories/2024-068/)|On July 2, 2024, several critical vulnerabilities were addressed in GeoServer and GeoTools. These vulnerabilities can result in arbitrary code execution through the unsafe evaluation of user-supplied "XPath" expressions.|Thursday, July 11, 2024 03:14:25 PM CEST|
- |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
- |[2024-066: Critical Vulnerability in OpenSSH](https://cert.europa.eu/publications/security-advisories/2024-066/)|On July 1, 2024, a new OpenSSH unauthenticated remote code execution (RCE) vulnerability dubbed regreSSHion was reported, affecting glibc-based Linux systems. This vulnerability, identified as CVE-2024-6387, allows remote attackers to execute arbitrary code as root due to a signal handler race condition in sshd.|Tuesday, July 09, 2024 05:35:08 PM CEST|
- |[2024-065: Critical Vulnerability in Juniper Networks Products](https://cert.europa.eu/publications/security-advisories/2024-065/)|On June 27, 2024, Juniper Networks issued an advisory about a critical vulnerability, CVE-2024-2973, affecting Session Smart Router (SSR), Session Smart Conductor, and WAN Assurance Router products. This vulnerability allows an attacker to bypass authentication and gain full control of the device, primarily affecting high-availability redundant configurations.|Monday, July 01, 2024 11:49:52 AM CEST|
- |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  
