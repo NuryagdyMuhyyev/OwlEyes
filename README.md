@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/08/2024 10:18:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/08/2024 11:26:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Secure by Demand Guidance](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance)|Visit link for details.|Aug 06, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 05, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/01/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Aug 01, 2024|
+ |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 30, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
+ |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,29 +62,7 @@
  |[USN-6926-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-2-linux-kernel-vulnerabilities.51185/)|Visit link for details.|Aug 1, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Secure by Demand Guidance](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance)|Visit link for details.|Aug 06, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 05, 2024|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/01/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Aug 01, 2024|
- |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 30, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
- |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
- 
-
 # OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -91,6 +85,12 @@
  |[D-Link - CVE-2023-24330](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24330-2024-02-27)|Visit link for details.|05/08/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -105,33 +105,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
  |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Calibre SQL Injection (CVE-2024-7009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Calibre remote code execution (CVE-2024-6782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Calibre cross-site scripting (CVE-2024-7008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[FFmpeg pnmdec.c pnm_decode_frame heap-based overflow (CVE-2024-7055)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[HaloITSM security bypass (CVE-2024-6203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[HaloITSM SAML XML Signature Wrapping (XSW) spoofing (CVE-2024-6202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[HaloITSM information disclosure (CVE-2024-6201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
- |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
- |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
  
 
 # EU-CERT
@@ -151,6 +124,23 @@
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48550108/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-23)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 01 août 2024|
+ |[ 48553107/24 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits        susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant d’exécuter du code…| 31 juillet 2024|
+ |[ 48542607/24 - Vulnérabilités critiques affectant des produits de Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-siemens)| Siemens annonce la correction de deux vulnérabilités affectant  ses produits susmentionnés.           L'exploitation de ces vulnérabilités peut  permettre  à un attaquant de contourner les mesures de…| 26 juillet 2024|
+ |[ 48532507/24 - Vulnérabilité critique affectant le Plugin AuthZ de Docker ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-authz-de-docker)| Docker annonce la correction d’une vulnérabilité critique affectant le plugin AuthZ. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 25 juillet 2024|
+ |[ 48522507/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind-0)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 25 juillet 2024|
+ |[ 48512507/24 - Vulnérabilités affectant le framework AI LangChain ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-framework-ai-langchain)| Veuillez se référer à l’éditeur afin d’installer les nouvelles mises à jour.| 25 juillet 2024|
+ |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
+ |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
+ |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
+ |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
+ |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -168,19 +158,29 @@
  |[HPE security advisory (AV24-431)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-431)|Visit link for details|2024-08-01|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 48550108/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-23)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 01 août 2024|
- |[ 48553107/24 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits        susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant d’exécuter du code…| 31 juillet 2024|
- |[ 48542607/24 - Vulnérabilités critiques affectant des produits de Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-siemens)| Siemens annonce la correction de deux vulnérabilités affectant  ses produits susmentionnés.           L'exploitation de ces vulnérabilités peut  permettre  à un attaquant de contourner les mesures de…| 26 juillet 2024|
- |[ 48532507/24 - Vulnérabilité critique affectant le Plugin AuthZ de Docker ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-authz-de-docker)| Docker annonce la correction d’une vulnérabilité critique affectant le plugin AuthZ. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 25 juillet 2024|
- |[ 48522507/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind-0)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 25 juillet 2024|
- |[ 48512507/24 - Vulnérabilités affectant le framework AI LangChain ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-framework-ai-langchain)| Veuillez se référer à l’éditeur afin d’installer les nouvelles mises à jour.| 25 juillet 2024|
- |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
- |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
- |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
- |[ 48451907/24 - Panne informatique mondiale affectant les systèmes Microsoft Windows… ](https://www.dgssi.gov.ma/fr/bulletins/panne-informatique-mondiale-affectant-les-systemes-microsoft-windows-utilisant)| Le 19 juillet 2024, CrowdStrike a connu une importante panne mondiale affectant de nombreux utilisateurs et services vitaux (aéroports, compagnies aériennes, banques, chaines de télévision, ….).Les…| 19 juillet 2024|
- |[ 48471907/24 - Vulnérabilité affectant SonicWall SONICOS IPSEC VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-sonicwall-sonicos-ipsec-vpn)| SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger une vulnérabilité affectant les versions susmentionnées de son produit SonicWall SONICOS IPSEC VPN.…| 19 juillet 2024|
+ |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
+ |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
+ |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla Firefox for iOS universal cross-site scripting (CVE-2024-43112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Mozilla Firefox for iOS universal cross-site scripting (CVE-2024-43113)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Mozilla Firefox for iOS security bypass (CVE-2024-43111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Cybozu Office information disclosure (CVE-2024-39817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Ricoh JavaTM Platform weak security (CVE-2024-41995)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Google Chrome code execution (CVE-2024-7532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Google Chrome code execution (CVE-2024-7550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
  
