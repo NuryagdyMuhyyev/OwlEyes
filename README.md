@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2024 01:19:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2024 02:19:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 07, 2024|
+ |[CISA Releases Secure by Demand Guidance](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance)|Visit link for details.|Aug 06, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 05, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/01/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Aug 01, 2024|
+ |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 30, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,20 +62,17 @@
  |[USN-6909-2: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-2-bind-vulnerabilities.51186/)|Visit link for details.|Aug 1, 2024|
  
 
-# US-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 07, 2024|
- |[CISA Releases Secure by Demand Guidance](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance)|Visit link for details.|Aug 06, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 05, 2024|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/01/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Aug 01, 2024|
- |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 30, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
+ |[Samsung Notes information disclosure (CVE-2024-34630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Samsung Notes information disclosure (CVE-2024-34635)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Samsung mobile devices bypass security (CVE-2024-34617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Samsung mobile devices code execution (CVE-2024-34623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Samsung Notes information disclosure (CVE-2024-34621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Naukowa i Akademicka Siec Komputerowa - Panstwowy Instytut Badawczy EZD RP information disclosure (CVE-2024-7267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  
 
 # CERT-FR
@@ -90,17 +103,18 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Samsung Notes information disclosure (CVE-2024-34630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Samsung Notes information disclosure (CVE-2024-34635)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Samsung mobile devices bypass security (CVE-2024-34617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Samsung mobile devices code execution (CVE-2024-34623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Samsung Notes information disclosure (CVE-2024-34621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Naukowa i Akademicka Siec Komputerowa - Panstwowy Instytut Badawczy EZD RP information disclosure (CVE-2024-7267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
+ |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
+ |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
  
 
 # CERT-SANTE
@@ -118,20 +132,6 @@
  |[ManageEngine - CVE-2024-6748](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-6748-2024-08-05)|Visit link for details.|05/08/2024|
  |[M-Files - CVE-2024-6881](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6881-2024-08-05)|Visit link for details.|05/08/2024|
  |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|05/08/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
- |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
- |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
  
 
 # EU-CERT
