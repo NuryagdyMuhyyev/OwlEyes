@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/08/2024 11:26:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/08/2024 12:17:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240807)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Aug 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240807)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass, spoofing and data manipulation on the targeted system.|Release Date: 7 Aug 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. Note:The vulnerability CVE-2024-36971 is...| Release Date: 6 Aug 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 6 Aug 2024 |
+ |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
+ |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +76,25 @@
  |[USN-6943-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6943-1-tomcat-vulnerabilities.51190/)|Visit link for details.|Aug 2, 2024|
  |[USN-6909-2: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-2-bind-vulnerabilities.51186/)|Visit link for details.|Aug 1, 2024|
  |[USN-6926-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-2-linux-kernel-vulnerabilities.51185/)|Visit link for details.|Aug 1, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla Firefox for iOS universal cross-site scripting (CVE-2024-43112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Mozilla Firefox for iOS universal cross-site scripting (CVE-2024-43113)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Mozilla Firefox for iOS security bypass (CVE-2024-43111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Cybozu Office information disclosure (CVE-2024-39817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Ricoh JavaTM Platform weak security (CVE-2024-41995)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Google Chrome code execution (CVE-2024-7532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Google Chrome code execution (CVE-2024-7550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
@@ -83,28 +118,6 @@
  |[VIPRE - CVE-2024-7239](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7239-2024-08-05)|Visit link for details.|05/08/2024|
  |[D-Link - CVE-2024-36755](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36755-2024-07-01)|Visit link for details.|05/08/2024|
  |[D-Link - CVE-2023-24330](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24330-2024-02-27)|Visit link for details.|05/08/2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240807)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Aug 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240807)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass, spoofing and data manipulation on the targeted system.|Release Date: 7 Aug 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. Note:The vulnerability CVE-2024-36971 is...| Release Date: 6 Aug 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 6 Aug 2024 |
- |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
- |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
  
 
 # EU-CERT
@@ -170,17 +183,4 @@
  |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
  |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
  |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla Firefox for iOS universal cross-site scripting (CVE-2024-43112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Mozilla Firefox for iOS universal cross-site scripting (CVE-2024-43113)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Mozilla Firefox for iOS security bypass (CVE-2024-43111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Cybozu Office information disclosure (CVE-2024-39817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Ricoh JavaTM Platform weak security (CVE-2024-41995)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Google Chrome code execution (CVE-2024-7532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Google Chrome code execution (CVE-2024-7550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
  
