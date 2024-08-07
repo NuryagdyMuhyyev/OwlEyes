@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/08/2024 16:15:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/08/2024 17:37:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,46 +62,16 @@
  |[USN-6926-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6926-2-linux-kernel-vulnerabilities.51185/)|Visit link for details.|Aug 1, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti EPMM security bypass (CVE-2024-34788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Mozilla Firefox for iOS universal cross-site scripting (CVE-2024-43112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Mozilla Firefox for iOS universal cross-site scripting (CVE-2024-43113)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Mozilla Firefox for iOS security bypass (CVE-2024-43111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Cybozu Office information disclosure (CVE-2024-39817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Ricoh JavaTM Platform weak security (CVE-2024-41995)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- |[Google Chrome code execution (CVE-2024-7532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-SANTE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress WPBakery - CVE-2024-5709](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpbakery-cve-2024-5709-2024-08-06)|Visit link for details.|06/08/2024|
- |[LibreOffice - CVE-2024-6472](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2024-6472-2024-08-06)|Visit link for details.|06/08/2024|
- |[Apple - CVE-2024-40782](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40782-2024-08-06)|Visit link for details.|06/08/2024|
- |[Apple - CVE-2023-42918](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42918-2024-08-06)|Visit link for details.|06/08/2024|
- |[ManageEngine - CVE-2024-6748](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-6748-2024-08-05)|Visit link for details.|05/08/2024|
- |[M-Files - CVE-2024-6881](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6881-2024-08-05)|Visit link for details.|05/08/2024|
- |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|05/08/2024|
- |[Red Hat - CVE-2024-7319](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-7319-2024-08-05)|Visit link for details.|05/08/2024|
- |[VIPRE - CVE-2024-7239](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7239-2024-08-05)|Visit link for details.|05/08/2024|
- |[D-Link - CVE-2024-36755](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36755-2024-07-01)|Visit link for details.|05/08/2024|
- |[D-Link - CVE-2023-24330](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24330-2024-02-27)|Visit link for details.|05/08/2024|
  
 
 # HK-CERT
@@ -120,6 +90,36 @@
  |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress WPBakery - CVE-2024-5709](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpbakery-cve-2024-5709-2024-08-06)|Visit link for details.|06/08/2024|
+ |[LibreOffice - CVE-2024-6472](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2024-6472-2024-08-06)|Visit link for details.|06/08/2024|
+ |[Apple - CVE-2024-40782](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40782-2024-08-06)|Visit link for details.|06/08/2024|
+ |[Apple - CVE-2023-42918](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42918-2024-08-06)|Visit link for details.|06/08/2024|
+ |[Linux - CVE-2024-36971](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-36971-2024-08-06)|Visit link for details.|06/08/2024|
+ |[ManageEngine - CVE-2024-6748](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-6748-2024-08-05)|Visit link for details.|05/08/2024|
+ |[M-Files - CVE-2024-6881](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6881-2024-08-05)|Visit link for details.|05/08/2024|
+ |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|05/08/2024|
+ |[Red Hat - CVE-2024-7319](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-7319-2024-08-05)|Visit link for details.|05/08/2024|
+ |[VIPRE - CVE-2024-7239](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7239-2024-08-05)|Visit link for details.|05/08/2024|
+ |[D-Link - CVE-2024-36755](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36755-2024-07-01)|Visit link for details.|05/08/2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti EPMM security bypass (CVE-2024-34788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Samsung Notes information disclosure (CVE-2024-34631)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Samsung Mobile bypass security restrictions (CVE-2024-34608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Mozilla Firefox for iOS universal cross-site scripting (CVE-2024-43112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Mozilla Firefox for iOS universal cross-site scripting (CVE-2024-43113)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Mozilla Firefox for iOS security bypass (CVE-2024-43111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ |[Cybozu Office information disclosure (CVE-2024-39817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -132,23 +132,6 @@
  |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
  |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
  |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-441)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-441)|Visit link for details|2024-08-06|
- |[HPE security advisory (AV24-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-440)|Visit link for details|2024-08-06|
- |[Mozilla security advisory (AV24-439)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-439)|Visit link for details|2024-08-06|
- |[Red Hat security advisory (AV24-438)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-438)|Visit link for details|2024-08-06|
- |[[Control systems] CISA ICS security advisories (AV24-437)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-437)|Visit link for details|2024-08-06|
- |[Android security advisory – August 2024 Monthly Rollup (AV24-436)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-august-2024-monthly-rollup-av24-436)|Visit link for details|2024-08-06|
- |[Ubuntu security advisory (AV24-435)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-435)|Visit link for details|2024-08-06|
- |[IBM security advisory (AV24-434)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-434)|Visit link for details|2024-08-06|
- |[Dell security advisory (AV24-433)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-433)|Visit link for details|2024-08-06|
- |[Microsoft Edge security advisory (AV24-432)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-432)|Visit link for details|2024-08-02|
- |[HPE security advisory (AV24-431)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-431)|Visit link for details|2024-08-01|
  
 
 # EU-CERT
@@ -183,4 +166,21 @@
  |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
  |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
  |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-441)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-441)|Visit link for details|2024-08-06|
+ |[HPE security advisory (AV24-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-440)|Visit link for details|2024-08-06|
+ |[Mozilla security advisory (AV24-439)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-439)|Visit link for details|2024-08-06|
+ |[Red Hat security advisory (AV24-438)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-438)|Visit link for details|2024-08-06|
+ |[[Control systems] CISA ICS security advisories (AV24-437)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-437)|Visit link for details|2024-08-06|
+ |[Android security advisory – August 2024 Monthly Rollup (AV24-436)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-august-2024-monthly-rollup-av24-436)|Visit link for details|2024-08-06|
+ |[Ubuntu security advisory (AV24-435)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-435)|Visit link for details|2024-08-06|
+ |[IBM security advisory (AV24-434)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-434)|Visit link for details|2024-08-06|
+ |[Dell security advisory (AV24-433)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-433)|Visit link for details|2024-08-06|
+ |[Microsoft Edge security advisory (AV24-432)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-432)|Visit link for details|2024-08-02|
+ |[HPE security advisory (AV24-431)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-431)|Visit link for details|2024-08-01|
  
