@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/08/2024 04:19:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/08/2024 06:23:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Secure by Demand Guidance](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance)|Visit link for details.|Aug 06, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 05, 2024|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/01/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Aug 01, 2024|
- |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 30, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
- |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,10 +46,43 @@
  |[USN-6922-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6922-2-linux-kernel-vulnerabilities.51183/)|Visit link for details.|Aug 1, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Secure by Demand Guidance](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance)|Visit link for details.|Aug 06, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 05, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/01/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Aug 01, 2024|
+ |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 30, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Jul 25, 2024|
+ |[FBI, CISA, and Partners Release Advisory Highlighting North Korean Cyber Espionage Activity](https://www.cisa.gov/news-events/alerts/2024/07/25/fbi-cisa-and-partners-release-advisory-highlighting-north-korean-cyber-espionage-activity)|Visit link for details.|Jul 25, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress WPBakery - CVE-2024-5709](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpbakery-cve-2024-5709-2024-08-06)|Visit link for details.|06/08/2024|
+ |[LibreOffice - CVE-2024-6472](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2024-6472-2024-08-06)|Visit link for details.|06/08/2024|
+ |[Apple - CVE-2024-40782](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40782-2024-08-06)|Visit link for details.|06/08/2024|
+ |[Apple - CVE-2023-42918](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42918-2024-08-06)|Visit link for details.|06/08/2024|
+ |[ManageEngine - CVE-2024-6748](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-6748-2024-08-05)|Visit link for details.|05/08/2024|
+ |[M-Files - CVE-2024-6881](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6881-2024-08-05)|Visit link for details.|05/08/2024|
+ |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|05/08/2024|
+ |[Red Hat - CVE-2024-7319](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-7319-2024-08-05)|Visit link for details.|05/08/2024|
+ |[VIPRE - CVE-2024-7239](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7239-2024-08-05)|Visit link for details.|05/08/2024|
+ |[D-Link - CVE-2024-36755](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36755-2024-07-01)|Visit link for details.|05/08/2024|
+ |[D-Link - CVE-2023-24330](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24330-2024-02-27)|Visit link for details.|05/08/2024|
  
 
 # HK-CERT
@@ -90,23 +107,6 @@
  |---|---|---|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress WPBakery - CVE-2024-5709](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpbakery-cve-2024-5709-2024-08-06)|Visit link for details.|06/08/2024|
- |[LibreOffice - CVE-2024-6472](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2024-6472-2024-08-06)|Visit link for details.|06/08/2024|
- |[Apple - CVE-2024-40782](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40782-2024-08-06)|Visit link for details.|06/08/2024|
- |[Apple - CVE-2023-42918](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42918-2024-08-06)|Visit link for details.|06/08/2024|
- |[ManageEngine - CVE-2024-6748](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-6748-2024-08-05)|Visit link for details.|05/08/2024|
- |[M-Files - CVE-2024-6881](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6881-2024-08-05)|Visit link for details.|05/08/2024|
- |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|05/08/2024|
- |[Red Hat - CVE-2024-7319](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-7319-2024-08-05)|Visit link for details.|05/08/2024|
- |[VIPRE - CVE-2024-7239](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-7239-2024-08-05)|Visit link for details.|05/08/2024|
- |[D-Link - CVE-2024-36755](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36755-2024-07-01)|Visit link for details.|05/08/2024|
- |[D-Link - CVE-2023-24330](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2023-24330-2024-02-27)|Visit link for details.|05/08/2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,6 +118,20 @@
  |[HaloITSM security bypass (CVE-2024-6203)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
  |[HaloITSM SAML XML Signature Wrapping (XSW) spoofing (CVE-2024-6202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
  |[HaloITSM information disclosure (CVE-2024-6201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 6, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
+ |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
+ |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
  
 
 # EU-CERT
@@ -152,20 +166,6 @@
  |[Dell security advisory (AV24-433)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-433)|Visit link for details|2024-08-06|
  |[Microsoft Edge security advisory (AV24-432)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-432)|Visit link for details|2024-08-02|
  |[HPE security advisory (AV24-431)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-431)|Visit link for details|2024-08-01|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
- |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
- |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
  
 
 # MA-CERT
