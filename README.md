@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2024 14:20:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2024 15:19:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,10 +62,39 @@
  |[USN-6943-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6943-1-tomcat-vulnerabilities.51190/)|Visit link for details.|Aug 2, 2024|
  
 
-# CERT-FR
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Windows Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-windows-multiple-vulnerabilities_20240808)|Multiple vulnerabilities were identified in Microsoft Windows, a attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-21302 and CVE...|Release Date: 8 Aug 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 6 Aug 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240807)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Aug 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240807)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass, spoofing and data manipulation on the targeted system.|Release Date: 7 Aug 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. Note:Exploit in the wild has been detected for CVE...| Release Date: 6 Aug 2024 |
+ |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
+ |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Journyx Authenticated Remote Code Execution (CVE-2024-6891)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Journyx XXE Injection (CVE-2024-6893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Journyx cross site scripting (CVE-2024-6892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Samsung Notes information disclosure (CVE-2024-34624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Samsung Notes information disclosure (CVE-2024-34627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Samsung Notes code execution (CVE-2024-34622)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Samsung mobile devices denial of service (CVE-2024-34615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  
 
 # CERT-SANTE
@@ -85,39 +114,24 @@
  |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|05/08/2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# HK-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Windows Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-windows-multiple-vulnerabilities_20240808)|Multiple vulnerabilities were identified in Microsoft Windows, a attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-21302 and CVE...|Release Date: 8 Aug 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 6 Aug 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240807)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 7 Aug 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240807)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass, spoofing and data manipulation on the targeted system.|Release Date: 7 Aug 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. Note:Exploit in the wild has been detected for CVE...| Release Date: 6 Aug 2024 |
- |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
- |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 2 Aug 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Samsung Notes information disclosure (CVE-2024-34624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Samsung Notes information disclosure (CVE-2024-34627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Samsung Notes code execution (CVE-2024-34622)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Samsung mobile devices denial of service (CVE-2024-34615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Samsung Galaxy Watch devices bypass security (CVE-2024-34613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Samsung mobile devices devices bypass security (CVE-2024-34604)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Jenkins weekly and LTS security bypass (CVE-2024-43045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
+ |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
+ |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
  
 
 # EU-CERT
@@ -137,24 +151,11 @@
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
- |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
- |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
  |[ 48570708/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-9)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 07 août 2024|
  |[ 48560708/24 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-1)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 07 août 2024|
  |[ 48550108/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-23)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 01 août 2024|
@@ -165,7 +166,6 @@
  |[ 48512507/24 - Vulnérabilités affectant le framework AI LangChain ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-framework-ai-langchain)| Veuillez se référer à l’éditeur afin d’installer les nouvelles mises à jour.| 25 juillet 2024|
  |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
  |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
- |[ 48481907/24 - Vulnérabilités critiques affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-solarwinds-access-rights-manager-0)| SolarWinds annonce la correction de plusieurs vulnérabilités critiques affectant son produit Access Rights Manager. L'exploitation de  ces vulnérabilités peut permettre à un attaquant distant…| 19 juillet 2024|
  
 
 # CA-CCS
