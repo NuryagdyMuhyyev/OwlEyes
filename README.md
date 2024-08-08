@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2024 18:21:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2024 19:17:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[USN-6895-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-4-linux-kernel-vulnerabilities.51228/)|Visit link for details.|Aug 5, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -83,6 +77,12 @@
  |[LibreOffice - CVE-2024-6472](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2024-6472-2024-08-06)|Visit link for details.|06/08/2024|
  |[Apple - CVE-2024-40782](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40782-2024-08-06)|Visit link for details.|06/08/2024|
  |[Apple - CVE-2023-42918](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42918-2024-08-06)|Visit link for details.|06/08/2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -101,6 +101,12 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -112,12 +118,6 @@
  |[Journyx cross site scripting (CVE-2024-6892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  |[Samsung Notes information disclosure (CVE-2024-34624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  |[Samsung Notes information disclosure (CVE-2024-34627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
