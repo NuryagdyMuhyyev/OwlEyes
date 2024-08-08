@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2024 17:37:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2024 18:21:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,7 +62,7 @@
  |[USN-6895-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-4-linux-kernel-vulnerabilities.51228/)|Visit link for details.|Aug 5, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -72,6 +72,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco - CVE-2024-20419](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20419-2024-07-18)|Visit link for details.|08/08/2024|
+ |[Microsoft Windows - CVE-2023-24932](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24932-2023-05-11)|Visit link for details.|08/08/2024|
+ |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|08/08/2024|
+ |[D-Link - CVE-2024-39202](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-39202-2024-07-09)|Visit link for details.|08/08/2024|
  |[D-Link - CVE-2024-41616](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41616-2024-08-07)|Visit link for details.|07/08/2024|
  |[Google Chrome - CVE-2024-7532](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7532-2024-08-07)|Visit link for details.|07/08/2024|
  |[Aruba - CVE-2024-42393](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-42393-2024-08-07)|Visit link for details.|07/08/2024|
@@ -79,10 +83,6 @@
  |[LibreOffice - CVE-2024-6472](https://www.cyberveille-sante.gouv.fr/alertes/libreoffice-cve-2024-6472-2024-08-06)|Visit link for details.|06/08/2024|
  |[Apple - CVE-2024-40782](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-40782-2024-08-06)|Visit link for details.|06/08/2024|
  |[Apple - CVE-2023-42918](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2023-42918-2024-08-06)|Visit link for details.|06/08/2024|
- |[Linux - CVE-2024-36971](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-36971-2024-08-06)|Visit link for details.|06/08/2024|
- |[ManageEngine - CVE-2024-6748](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-6748-2024-08-05)|Visit link for details.|05/08/2024|
- |[M-Files - CVE-2024-6881](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-6881-2024-08-05)|Visit link for details.|05/08/2024|
- |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|05/08/2024|
  
 
 # HK-CERT
@@ -101,12 +101,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -118,6 +112,12 @@
  |[Journyx cross site scripting (CVE-2024-6892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  |[Samsung Notes information disclosure (CVE-2024-34624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  |[Samsung Notes information disclosure (CVE-2024-34627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -151,23 +151,6 @@
  |[2024-064: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-064/)|On June 26, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger a pipeline as another user under certain circumstances.|Friday, June 28, 2024 07:37:21 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
- |[HPE security advisory (AV24-442)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-442)|Visit link for details|2024-08-07|
- |[Google Chrome security advisory (AV24-441)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-441)|Visit link for details|2024-08-06|
- |[HPE security advisory (AV24-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-440)|Visit link for details|2024-08-06|
- |[Mozilla security advisory (AV24-439)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-439)|Visit link for details|2024-08-06|
- |[Red Hat security advisory (AV24-438)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-438)|Visit link for details|2024-08-06|
- |[[Control systems] CISA ICS security advisories (AV24-437)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-437)|Visit link for details|2024-08-06|
- |[Android security advisory – August 2024 Monthly Rollup (AV24-436)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-august-2024-monthly-rollup-av24-436)|Visit link for details|2024-08-06|
- |[Ubuntu security advisory (AV24-435)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-435)|Visit link for details|2024-08-06|
- |[IBM security advisory (AV24-434)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-434)|Visit link for details|2024-08-06|
- |[Dell security advisory (AV24-433)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-433)|Visit link for details|2024-08-06|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 48512507/24 - Vulnérabilités affectant le framework AI LangChain ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-framework-ai-langchain)| Veuillez se référer à l’éditeur afin d’installer les nouvelles mises à jour.| 25 juillet 2024|
  |[ 48502207/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-22)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 24 juillet 2024|
  |[ 48492207/24 - Vulnérabilité affectant Splunk Enterprise ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-splunk-enterprise)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de son produit Splunk Entreprise. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 22 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
+ |[HPE security advisory (AV24-442)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-442)|Visit link for details|2024-08-07|
+ |[Google Chrome security advisory (AV24-441)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-441)|Visit link for details|2024-08-06|
+ |[HPE security advisory (AV24-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-440)|Visit link for details|2024-08-06|
+ |[Mozilla security advisory (AV24-439)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-439)|Visit link for details|2024-08-06|
+ |[Red Hat security advisory (AV24-438)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-438)|Visit link for details|2024-08-06|
+ |[[Control systems] CISA ICS security advisories (AV24-437)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-437)|Visit link for details|2024-08-06|
+ |[Android security advisory – August 2024 Monthly Rollup (AV24-436)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-august-2024-monthly-rollup-av24-436)|Visit link for details|2024-08-06|
+ |[Ubuntu security advisory (AV24-435)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-435)|Visit link for details|2024-08-06|
+ |[IBM security advisory (AV24-434)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-434)|Visit link for details|2024-08-06|
+ |[Dell security advisory (AV24-433)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-433)|Visit link for details|2024-08-06|
  
