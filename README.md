@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/08/2024 12:17:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/08/2024 13:24:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6947-1: Kerberos vulnerabilities](https://www.linux.org/threads/usn-6947-1-kerberos-vulnerabilities.51259/)|Visit link for details.|Aug 8, 2024|
+ |[DSA-5740-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5740-1-firefox-esr-security-update.51254/)|Visit link for details.|Aug 7, 2024|
+ |[DSA-5739-1 wpa - security update](https://www.linux.org/threads/dsa-5739-1-wpa-security-update.51250/)|Visit link for details.|Aug 7, 2024|
+ |[DSA-5738-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5738-1-openjdk-17-security-update.51249/)|Visit link for details.|Aug 7, 2024|
+ |[USN-6946-1: Django vulnerabilities](https://www.linux.org/threads/usn-6946-1-django-vulnerabilities.51248/)|Visit link for details.|Aug 6, 2024|
+ |[USN-6945-1: wpa_supplicant and hostapd vulnerability](https://www.linux.org/threads/usn-6945-1-wpa_supplicant-and-hostapd-vulnerability.51247/)|Visit link for details.|Aug 6, 2024|
+ |[USN-6944-1: curl vulnerability](https://www.linux.org/threads/usn-6944-1-curl-vulnerability.51235/)|Visit link for details.|Aug 5, 2024|
+ |[DSA-5737-1 libreoffice - security update](https://www.linux.org/threads/dsa-5737-1-libreoffice-security-update.51234/)|Visit link for details.|Aug 5, 2024|
+ |[DSA-5736-1 openjdk-11 - security update](https://www.linux.org/threads/dsa-5736-1-openjdk-11-security-update.51233/)|Visit link for details.|Aug 5, 2024|
+ |[USN-6895-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-4-linux-kernel-vulnerabilities.51228/)|Visit link for details.|Aug 5, 2024|
+ |[USN-6943-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6943-1-tomcat-vulnerabilities.51190/)|Visit link for details.|Aug 2, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,6 +60,12 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Jul 30, 2024|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/07/29/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Jul 29, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -61,40 +84,23 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6947-1: Kerberos vulnerabilities](https://www.linux.org/threads/usn-6947-1-kerberos-vulnerabilities.51259/)|Visit link for details.|Aug 8, 2024|
- |[DSA-5740-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5740-1-firefox-esr-security-update.51254/)|Visit link for details.|Aug 7, 2024|
- |[DSA-5739-1 wpa - security update](https://www.linux.org/threads/dsa-5739-1-wpa-security-update.51250/)|Visit link for details.|Aug 7, 2024|
- |[DSA-5738-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5738-1-openjdk-17-security-update.51249/)|Visit link for details.|Aug 7, 2024|
- |[USN-6946-1: Django vulnerabilities](https://www.linux.org/threads/usn-6946-1-django-vulnerabilities.51248/)|Visit link for details.|Aug 6, 2024|
- |[USN-6945-1: wpa_supplicant and hostapd vulnerability](https://www.linux.org/threads/usn-6945-1-wpa_supplicant-and-hostapd-vulnerability.51247/)|Visit link for details.|Aug 6, 2024|
- |[USN-6944-1: curl vulnerability](https://www.linux.org/threads/usn-6944-1-curl-vulnerability.51235/)|Visit link for details.|Aug 5, 2024|
- |[DSA-5737-1 libreoffice - security update](https://www.linux.org/threads/dsa-5737-1-libreoffice-security-update.51234/)|Visit link for details.|Aug 5, 2024|
- |[DSA-5736-1 openjdk-11 - security update](https://www.linux.org/threads/dsa-5736-1-openjdk-11-security-update.51233/)|Visit link for details.|Aug 5, 2024|
- |[USN-6895-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6895-4-linux-kernel-vulnerabilities.51228/)|Visit link for details.|Aug 5, 2024|
- |[USN-6943-1: Tomcat vulnerabilities](https://www.linux.org/threads/usn-6943-1-tomcat-vulnerabilities.51190/)|Visit link for details.|Aug 2, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Samsung Notes code execution (CVE-2024-34622)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
+ |[Samsung mobile devices denial of service (CVE-2024-34615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  |[Samsung Galaxy Watch devices bypass security (CVE-2024-34613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  |[Samsung mobile devices devices bypass security (CVE-2024-34604)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  |[Jenkins weekly and LTS security bypass (CVE-2024-43045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  |[Jenkins weekly and LTS code execution (CVE-2024-43044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
  |[Linux Kernel denial of service (CVE-2024-42232)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Linux Kernel denial of service (CVE-2024-42236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- |[Linux Kernel code execution (CVE-2024-42247)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 7, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -114,10 +120,18 @@
  |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|05/08/2024|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
+ |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
+ |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
+ |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
  
 
 # EU-CERT
@@ -169,18 +183,4 @@
  |[Ubuntu security advisory (AV24-435)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-435)|Visit link for details|2024-08-06|
  |[IBM security advisory (AV24-434)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-434)|Visit link for details|2024-08-06|
  |[Dell security advisory (AV24-433)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-433)|Visit link for details|2024-08-06|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Metal Framework KTX Image Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1101/)|Visit link for details|2024-08-06|
- |[SMARTBEAR SoapUI unpackageAll Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1100/)|Visit link for details|2024-08-06|
- |[Apache OFBiz resolveURI Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1099/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Windows Error Reporting Service Missing Authorization Arbitrary Process Termination Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1098/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft GitHub Dev-Containers Improper Privilege Management Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1097/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1096/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1095/)|Visit link for details|2024-08-06|
- |[(0Day) Microsoft Office Visio EMF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1094/)|Visit link for details|2024-08-06|
  
