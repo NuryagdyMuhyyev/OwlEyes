@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/08/2024 04:19:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/08/2024 06:24:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,17 +33,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6951-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6951-1-linux-kernel-vulnerabilities.51274/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6950-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6950-1-linux-kernel-vulnerabilities.51273/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6949-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-1-linux-kernel-vulnerabilities.51272/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6948-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6948-1-salt-vulnerabilities.51271/)|Visit link for details.|Aug 9, 2024|
+ |[DSA-5744-1 thunderbird - security update](https://www.linux.org/threads/dsa-5744-1-thunderbird-security-update.51270/)|Visit link for details.|Aug 9, 2024|
  |[DSA-5742-1 odoo - security update](https://www.linux.org/threads/dsa-5742-1-odoo-security-update.51266/)|Visit link for details.|Aug 8, 2024|
  |[DSA-5743-1 roundcube - security update](https://www.linux.org/threads/dsa-5743-1-roundcube-security-update.51264/)|Visit link for details.|Aug 8, 2024|
  |[DSA-5741-1 chromium - security update](https://www.linux.org/threads/dsa-5741-1-chromium-security-update.51262/)|Visit link for details.|Aug 8, 2024|
  |[USN-6947-1: Kerberos vulnerabilities](https://www.linux.org/threads/usn-6947-1-kerberos-vulnerabilities.51259/)|Visit link for details.|Aug 8, 2024|
  |[DSA-5740-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5740-1-firefox-esr-security-update.51254/)|Visit link for details.|Aug 7, 2024|
  |[DSA-5739-1 wpa - security update](https://www.linux.org/threads/dsa-5739-1-wpa-security-update.51250/)|Visit link for details.|Aug 7, 2024|
- |[DSA-5738-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5738-1-openjdk-17-security-update.51249/)|Visit link for details.|Aug 7, 2024|
- |[USN-6946-1: Django vulnerabilities](https://www.linux.org/threads/usn-6946-1-django-vulnerabilities.51248/)|Visit link for details.|Aug 6, 2024|
- |[USN-6945-1: wpa_supplicant and hostapd vulnerability](https://www.linux.org/threads/usn-6945-1-wpa_supplicant-and-hostapd-vulnerability.51247/)|Visit link for details.|Aug 6, 2024|
- |[USN-6944-1: curl vulnerability](https://www.linux.org/threads/usn-6944-1-curl-vulnerability.51235/)|Visit link for details.|Aug 5, 2024|
- |[DSA-5737-1 libreoffice - security update](https://www.linux.org/threads/dsa-5737-1-libreoffice-security-update.51234/)|Visit link for details.|Aug 5, 2024|
  
 
 # US-CERT
@@ -62,6 +62,18 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -75,10 +87,21 @@
  |[ZTE ZXV10 XT802/ET301 security bypass (CVE-2024-22069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
  
 
-# CERT-FR
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco - CVE-2024-20450](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20450-2024-08-08)|Visit link for details.|08/08/2024|
+ |[Microsoft - CVE-2024-38054](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38054-2024-08-08)|Visit link for details.|08/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-4885](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4885-2024-08-08)|Visit link for details.|08/08/2024|
+ |[Microsoft Windows - CVE-2023-24932](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24932-2023-05-11)|Visit link for details.|08/08/2024|
+ |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|08/08/2024|
+ |[Cisco - CVE-2024-20419](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20419-2024-07-18)|Visit link for details.|08/08/2024|
+ |[D-Link - CVE-2024-39202](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-39202-2024-07-09)|Visit link for details.|08/08/2024|
+ |[D-Link - CVE-2024-41616](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41616-2024-08-07)|Visit link for details.|07/08/2024|
+ |[Google Chrome - CVE-2024-7532](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7532-2024-08-07)|Visit link for details.|07/08/2024|
+ |[Aruba - CVE-2024-42393](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-42393-2024-08-07)|Visit link for details.|07/08/2024|
+ |[WordPress WPBakery - CVE-2024-5709](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpbakery-cve-2024-5709-2024-08-06)|Visit link for details.|06/08/2024|
  
 
 # HK-CERT
@@ -97,12 +120,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. ...|Release Date: 2 Aug 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -115,23 +132,6 @@
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco - CVE-2024-20450](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20450-2024-08-08)|Visit link for details.|08/08/2024|
- |[Microsoft - CVE-2024-38054](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38054-2024-08-08)|Visit link for details.|08/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-4885](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4885-2024-08-08)|Visit link for details.|08/08/2024|
- |[Microsoft Windows - CVE-2023-24932](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24932-2023-05-11)|Visit link for details.|08/08/2024|
- |[Microsoft - CVE-2024-38100](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38100-2024-08-05)|Visit link for details.|08/08/2024|
- |[Cisco - CVE-2024-20419](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20419-2024-07-18)|Visit link for details.|08/08/2024|
- |[D-Link - CVE-2024-39202](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-39202-2024-07-09)|Visit link for details.|08/08/2024|
- |[D-Link - CVE-2024-41616](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-41616-2024-08-07)|Visit link for details.|07/08/2024|
- |[Google Chrome - CVE-2024-7532](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7532-2024-08-07)|Visit link for details.|07/08/2024|
- |[Aruba - CVE-2024-42393](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-42393-2024-08-07)|Visit link for details.|07/08/2024|
- |[WordPress WPBakery - CVE-2024-5709](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpbakery-cve-2024-5709-2024-08-06)|Visit link for details.|06/08/2024|
  
 
 # EU-CERT
