@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/08/2024 02:18:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/08/2024 03:19:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,18 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -79,31 +91,6 @@
  |[Microsoft Windows - CVE-2023-24932](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24932-2023-05-11)|Visit link for details.|08/08/2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Concrete CMS cross-site scripting (CVE-2024-4350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 9, 2024|
- |[mintplex-labs/anything-llm security bypass (CVE-2024-3279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 9, 2024|
- |[Airveda Air Quality Monitor PM2.5 PM10 information disclosure (CVE-2024-7408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- |[Elastic Agent information disclosure (CVE-2024-37283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- |[Dorsett Controls InfoScan information disclosure (CVE-2024-42493)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- |[Dorsett Controls InfoScan directory traversal (CVE-2024-42408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- |[Dorsett Controls InfoScan information disclosure (CVE-2024-42493)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -118,6 +105,19 @@
  |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
  |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Concrete CMS cross-site scripting (CVE-2024-4350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 9, 2024|
+ |[mintplex-labs/anything-llm security bypass (CVE-2024-3279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 9, 2024|
+ |[Airveda Air Quality Monitor PM2.5 PM10 information disclosure (CVE-2024-7408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ |[Elastic Agent information disclosure (CVE-2024-37283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ |[Dorsett Controls InfoScan information disclosure (CVE-2024-42493)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ |[Dorsett Controls InfoScan directory traversal (CVE-2024-42408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ |[Dorsett Controls InfoScan information disclosure (CVE-2024-42493)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
  
 
 # EU-CERT
