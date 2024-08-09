@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/08/2024 08:21:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/08/2024 09:23:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,16 +45,12 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6953-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6953-1-linux-kernel-oracle-vulnerabilities.51276/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6952-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6952-1-linux-kernel-vulnerabilities.51275/)|Visit link for details.|Aug 9, 2024|
  |[USN-6951-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6951-1-linux-kernel-vulnerabilities.51274/)|Visit link for details.|Aug 9, 2024|
  |[USN-6950-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6950-1-linux-kernel-vulnerabilities.51273/)|Visit link for details.|Aug 9, 2024|
  |[USN-6949-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-1-linux-kernel-vulnerabilities.51272/)|Visit link for details.|Aug 9, 2024|
@@ -64,21 +60,18 @@
  |[DSA-5743-1 roundcube - security update](https://www.linux.org/threads/dsa-5743-1-roundcube-security-update.51264/)|Visit link for details.|Aug 8, 2024|
  |[DSA-5741-1 chromium - security update](https://www.linux.org/threads/dsa-5741-1-chromium-security-update.51262/)|Visit link for details.|Aug 8, 2024|
  |[USN-6947-1: Kerberos vulnerabilities](https://www.linux.org/threads/usn-6947-1-kerberos-vulnerabilities.51259/)|Visit link for details.|Aug 8, 2024|
- |[DSA-5740-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5740-1-firefox-esr-security-update.51254/)|Visit link for details.|Aug 7, 2024|
- |[DSA-5739-1 wpa - security update](https://www.linux.org/threads/dsa-5739-1-wpa-security-update.51250/)|Visit link for details.|Aug 7, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Windows Secure Kernel Mode privilege escalation (CVE-2024-21302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- |[Microsoft Windows privilege escalation (CVE-2024-38202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- |[GitLab denial of service (CVE-2024-7610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- |[Gitlab information disclosure (CVE-2024-7554)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- |[KAON AR2140 routers command execution (CVE-2024-3659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- |[JupyterHub privilege escalation (CVE-2024-41942)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
- |[ZTE ZXV10 XT802/ET301 security bypass (CVE-2024-22069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
@@ -114,10 +107,17 @@
  |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Windows Secure Kernel Mode privilege escalation (CVE-2024-21302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ |[Microsoft Windows privilege escalation (CVE-2024-38202)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ |[GitLab denial of service (CVE-2024-7610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ |[Gitlab information disclosure (CVE-2024-7554)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ |[KAON AR2140 routers command execution (CVE-2024-3659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ |[JupyterHub privilege escalation (CVE-2024-41942)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
+ |[ZTE ZXV10 XT802/ET301 security bypass (CVE-2024-22069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 8, 2024|
  
 
 # ZERODAYINITIATIVE
