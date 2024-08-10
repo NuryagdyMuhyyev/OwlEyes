@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/08/2024 04:18:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/08/2024 06:24:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6926-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6926-3-linux-kernel-azure-vulnerabilities.51285/)|Visit link for details.|Aug 9, 2024|
+ |[DSA-5746-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5746-1-postgresql-13-security-update.51284/)|Visit link for details.|Aug 9, 2024|
+ |[DSA-5745-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5745-1-postgresql-15-security-update.51283/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6953-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6953-1-linux-kernel-oracle-vulnerabilities.51276/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6952-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6952-1-linux-kernel-vulnerabilities.51275/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6951-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6951-1-linux-kernel-vulnerabilities.51274/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6950-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6950-1-linux-kernel-vulnerabilities.51273/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6949-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-1-linux-kernel-vulnerabilities.51272/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6948-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6948-1-salt-vulnerabilities.51271/)|Visit link for details.|Aug 9, 2024|
+ |[DSA-5744-1 thunderbird - security update](https://www.linux.org/threads/dsa-5744-1-thunderbird-security-update.51270/)|Visit link for details.|Aug 9, 2024|
+ |[DSA-5742-1 odoo - security update](https://www.linux.org/threads/dsa-5742-1-odoo-security-update.51266/)|Visit link for details.|Aug 8, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,16 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6926-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6926-3-linux-kernel-azure-vulnerabilities.51285/)|Visit link for details.|Aug 9, 2024|
- |[DSA-5746-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5746-1-postgresql-13-security-update.51284/)|Visit link for details.|Aug 9, 2024|
- |[DSA-5745-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5745-1-postgresql-15-security-update.51283/)|Visit link for details.|Aug 9, 2024|
- |[USN-6953-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6953-1-linux-kernel-oracle-vulnerabilities.51276/)|Visit link for details.|Aug 9, 2024|
- |[USN-6952-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6952-1-linux-kernel-vulnerabilities.51275/)|Visit link for details.|Aug 9, 2024|
- |[USN-6951-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6951-1-linux-kernel-vulnerabilities.51274/)|Visit link for details.|Aug 9, 2024|
- |[USN-6950-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6950-1-linux-kernel-vulnerabilities.51273/)|Visit link for details.|Aug 9, 2024|
- |[USN-6949-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-1-linux-kernel-vulnerabilities.51272/)|Visit link for details.|Aug 9, 2024|
- |[USN-6948-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6948-1-salt-vulnerabilities.51271/)|Visit link for details.|Aug 9, 2024|
- |[DSA-5744-1 thunderbird - security update](https://www.linux.org/threads/dsa-5744-1-thunderbird-security-update.51270/)|Visit link for details.|Aug 9, 2024|
- |[DSA-5742-1 odoo - security update](https://www.linux.org/threads/dsa-5742-1-odoo-security-update.51266/)|Visit link for details.|Aug 8, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
@@ -93,18 +105,6 @@
  |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
  |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -151,23 +151,6 @@
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48600908/24 - Vulnérabilités dans Microsoft Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows)| Deux vulnérabilités ont été découvertes dans les versions susmentionnées de Microsoft Windows. L’exploitation de ces failles peut permettre à un attaquant d’obtenir les privilèges « SYSTEM ».…| 09 août 2024|
- |[ 4860908/24 - Vulnérabilités affectant le Module «Opigno» pour CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-module-opigno-pour-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige plusieurs vulnérabilités au    niveau  du module «Opigno». L’exploitation de ces vulnérabilités peut permettre à un…| 09 août 2024|
- |[ 48590808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-10)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et d’exécuter du code…| 08 août 2024|
- |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
- |[ 48570708/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-9)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 07 août 2024|
- |[ 48560708/24 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-1)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 07 août 2024|
- |[ 48550108/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-23)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 01 août 2024|
- |[ 48553107/24 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits        susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant d’exécuter du code…| 31 juillet 2024|
- |[ 48542607/24 - Vulnérabilités critiques affectant des produits de Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-siemens)| Siemens annonce la correction de deux vulnérabilités affectant  ses produits susmentionnés.           L'exploitation de ces vulnérabilités peut  permettre  à un attaquant de contourner les mesures de…| 26 juillet 2024|
- |[ 48532507/24 - Vulnérabilité critique affectant le Plugin AuthZ de Docker ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-authz-de-docker)| Docker annonce la correction d’une vulnérabilité critique affectant le plugin AuthZ. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 25 juillet 2024|
- |[ 48522507/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind-0)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 25 juillet 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[HPE security advisory (AV24-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-440)|Visit link for details|2024-08-06|
  |[Mozilla security advisory (AV24-439)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-439)|Visit link for details|2024-08-06|
  |[Red Hat security advisory (AV24-438)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-438)|Visit link for details|2024-08-06|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48600908/24 - Vulnérabilités dans Microsoft Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows)| Deux vulnérabilités ont été découvertes dans les versions susmentionnées de Microsoft Windows. L’exploitation de ces failles peut permettre à un attaquant d’obtenir les privilèges « SYSTEM ».…| 09 août 2024|
+ |[ 4860908/24 - Vulnérabilités affectant le Module «Opigno» pour CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-module-opigno-pour-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige plusieurs vulnérabilités au    niveau  du module «Opigno». L’exploitation de ces vulnérabilités peut permettre à un…| 09 août 2024|
+ |[ 48590808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-10)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et d’exécuter du code…| 08 août 2024|
+ |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
+ |[ 48570708/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-9)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 07 août 2024|
+ |[ 48560708/24 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-1)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 07 août 2024|
+ |[ 48550108/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-23)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 01 août 2024|
+ |[ 48553107/24 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits        susmentionnés. Ces vulnérabilités, peuvent        permettre à un attaquant distant d’exécuter du code…| 31 juillet 2024|
+ |[ 48542607/24 - Vulnérabilités critiques affectant des produits de Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-siemens)| Siemens annonce la correction de deux vulnérabilités affectant  ses produits susmentionnés.           L'exploitation de ces vulnérabilités peut  permettre  à un attaquant de contourner les mesures de…| 26 juillet 2024|
+ |[ 48532507/24 - Vulnérabilité critique affectant le Plugin AuthZ de Docker ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-authz-de-docker)| Docker annonce la correction d’une vulnérabilité critique affectant le plugin AuthZ. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 25 juillet 2024|
+ |[ 48522507/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind-0)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 25 juillet 2024|
  
