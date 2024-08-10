@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/08/2024 16:15:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/08/2024 17:34:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Best Practices for Cisco Device Configuration](https://www.cisa.gov/news-events/alerts/2024/08/08/best-practices-cisco-device-configuration)|Visit link for details.|Aug 08, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/08/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 08, 2024|
- |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 07, 2024|
- |[CISA Releases Secure by Demand Guidance](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance)|Visit link for details.|Aug 06, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 05, 2024|
- |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/01/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Aug 01, 2024|
- |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,12 +44,6 @@
  |[USN-6948-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6948-1-salt-vulnerabilities.51271/)|Visit link for details.|Aug 9, 2024|
  |[DSA-5744-1 thunderbird - security update](https://www.linux.org/threads/dsa-5744-1-thunderbird-security-update.51270/)|Visit link for details.|Aug 9, 2024|
  |[DSA-5742-1 odoo - security update](https://www.linux.org/threads/dsa-5742-1-odoo-security-update.51266/)|Visit link for details.|Aug 8, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-SANTE
@@ -85,6 +63,34 @@
  |[Microsoft Windows - CVE-2023-24932](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24932-2023-05-11)|Visit link for details.|08/08/2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Best Practices for Cisco Device Configuration](https://www.cisa.gov/news-events/alerts/2024/08/08/best-practices-cisco-device-configuration)|Visit link for details.|Aug 08, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/08/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 08, 2024|
+ |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 07, 2024|
+ |[CISA Releases Secure by Demand Guidance](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance)|Visit link for details.|Aug 06, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 05, 2024|
+ |[CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/01/cisa-releases-nine-industrial-control-systems-advisories)|Visit link for details.|Aug 01, 2024|
+ |[DigiCert Certificate Revocations](https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations)|Visit link for details.|Jul 30, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -99,12 +105,6 @@
  |[F5 BIG-IP Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-security-restriction-bypass-vulnerability_20240806)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-38473 of the affected products...|Release Date: 6 Aug 2024 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 6 Aug 2024 |
  |[Microsoft Monthly Security Update (May 2018)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-may-2018)|[Updated on 2024-08-06]Updated Risk Level, Description, Source and Related Links.CVE-2018-0824 vulnerability is exploited in the wild. Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote...| Release Date: 9 May 2018 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -132,23 +132,6 @@
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-448)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-448)|Visit link for details|2024-08-09|
- |[F5 security advisory (AV24-447)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-447)|Visit link for details|2024-08-09|
- |[HPE security advisory (AV24-446)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-446)|Visit link for details|2024-08-09|
- |[Drupal security advisory (AV24-445)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-445)|Visit link for details|2024-08-08|
- |[Jenkins security advisory (AV24-444)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-444)|Visit link for details|2024-08-08|
- |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
- |[HPE security advisory (AV24-442)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-442)|Visit link for details|2024-08-07|
- |[Google Chrome security advisory (AV24-441)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-441)|Visit link for details|2024-08-06|
- |[HPE security advisory (AV24-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-440)|Visit link for details|2024-08-06|
- |[Mozilla security advisory (AV24-439)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-439)|Visit link for details|2024-08-06|
- |[Red Hat security advisory (AV24-438)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-438)|Visit link for details|2024-08-06|
  
 
 # EU-CERT
@@ -183,4 +166,21 @@
  |[ 48542607/24 - Vulnérabilités critiques affectant des produits de Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-siemens)| Siemens annonce la correction de deux vulnérabilités affectant  ses produits susmentionnés.           L'exploitation de ces vulnérabilités peut  permettre  à un attaquant de contourner les mesures de…| 26 juillet 2024|
  |[ 48532507/24 - Vulnérabilité critique affectant le Plugin AuthZ de Docker ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-authz-de-docker)| Docker annonce la correction d’une vulnérabilité critique affectant le plugin AuthZ. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité.| 25 juillet 2024|
  |[ 48522507/24 - Mise à jour de sécurité pour le service BIND ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-le-service-bind-0)| Internet Systems Consortium (ISC) annonce la correction de plusieurs  vulnérabilités affectant les versions susmentionnées  de Bind 9. Un attaquant distant  pourrait exploiter ces vulnérabilités pour…| 25 juillet 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-448)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-448)|Visit link for details|2024-08-09|
+ |[F5 security advisory (AV24-447)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-447)|Visit link for details|2024-08-09|
+ |[HPE security advisory (AV24-446)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-446)|Visit link for details|2024-08-09|
+ |[Drupal security advisory (AV24-445)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-445)|Visit link for details|2024-08-08|
+ |[Jenkins security advisory (AV24-444)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-444)|Visit link for details|2024-08-08|
+ |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
+ |[HPE security advisory (AV24-442)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-442)|Visit link for details|2024-08-07|
+ |[Google Chrome security advisory (AV24-441)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-441)|Visit link for details|2024-08-06|
+ |[HPE security advisory (AV24-440)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-440)|Visit link for details|2024-08-06|
+ |[Mozilla security advisory (AV24-439)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-439)|Visit link for details|2024-08-06|
+ |[Red Hat security advisory (AV24-438)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-438)|Visit link for details|2024-08-06|
  
