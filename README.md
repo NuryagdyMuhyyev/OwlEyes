@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/08/2024 23:26:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/08/2024 00:16:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,25 +68,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Team Johnlong software Raiden MAILD Remote Management System directory traversal (CVE-2024-7693)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[SourceCodester Kortex Lite Advocate Office Management System add_act.php cross site scripting (CVE-2024-7684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[SourceCodester Kortex Lite Advocate Office Management System register_case.php cross site scripting (CVE-2024-7686)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[SourceCodester Kortex Lite Advocate Office Management System adds.php cross site scripting (CVE-2024-7685)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[projectsend process.php get_preview resource injection (CVE-2024-7658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2024|
- |[SourceCodester Car Driving School Management System manage_package.php sql injection (CVE-2024-7665)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -101,6 +82,42 @@
  |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240809)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 9 Aug 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240809)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2024 |
  |[Microsoft Windows Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-windows-multiple-vulnerabilities_20240808)|Multiple vulnerabilities were identified in Microsoft Windows, a attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-21302 and CVE...|Release Date: 8 Aug 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Team Johnlong software Raiden MAILD Remote Management System directory traversal (CVE-2024-7693)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ |[SourceCodester Kortex Lite Advocate Office Management System add_act.php cross site scripting (CVE-2024-7684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ |[SourceCodester Kortex Lite Advocate Office Management System register_case.php cross site scripting (CVE-2024-7686)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ |[SourceCodester Kortex Lite Advocate Office Management System adds.php cross site scripting (CVE-2024-7685)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ |[projectsend process.php get_preview resource injection (CVE-2024-7658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2024|
+ |[SourceCodester Car Driving School Management System manage_package.php sql injection (CVE-2024-7665)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2024|
+ |[TeamT5 ThreatSonar Anti-Ransomware file upload (CVE-2024-7694)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|12/08/2024|
+ |[Mozilla - CVE-2024-7522](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-7522-2024-08-09)|Visit link for details.|09/08/2024|
+ |[Cisco - CVE-2024-20452](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20452-2024-08-09)|Visit link for details.|09/08/2024|
+ |[PostgreSQL - CVE-2024-7348](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-7348-2024-08-09)|Visit link for details.|09/08/2024|
+ |[OpenSSH - CVE-2024-6387](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6387-2024-07-02)|Visit link for details.|09/08/2024|
+ |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|09/08/2024|
+ |[Linux - CVE-2023-2163](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-2163-2023-09-21)|Visit link for details.|09/08/2024|
+ |[Google Chrome - CVE-2024-7532](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7532-2024-08-07)|Visit link for details.|09/08/2024|
+ |[Cisco - CVE-2024-20450](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20450-2024-08-08)|Visit link for details.|08/08/2024|
+ |[Microsoft - CVE-2024-38054](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38054-2024-08-08)|Visit link for details.|08/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-4885](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4885-2024-08-08)|Visit link for details.|08/08/2024|
  
 
 # EU-CERT
@@ -118,20 +135,6 @@
  |[2024-069: Vulnerabilities in Citrix Netscaler](https://cert.europa.eu/publications/security-advisories/2024-069/)|On July 9, 2024, Citrix released a security advisory addressing two vulnerabilities in Citrix NetScaler Console, Agent, and SDX (SVM). The vulnerabilities "CVE-2024-6235" and "CVE-2024-6236" can result in sensitive information disclosure and denial of service.|Monday, July 15, 2024 05:41:57 PM CEST|
  |[2024-068: Critical Vulnerabilities in GeoServer and GeoTools](https://cert.europa.eu/publications/security-advisories/2024-068/)|On July 2, 2024, several critical vulnerabilities were addressed in GeoServer and GeoTools. These vulnerabilities can result in arbitrary code execution through the unsafe evaluation of user-supplied "XPath" expressions.|Thursday, July 11, 2024 03:14:25 PM CEST|
  |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
  
 
 # MA-CERT
@@ -155,6 +158,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
  |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
  |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
  |[Ubuntu security advisory (AV24-449)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-449)|Visit link for details|2024-08-12|
@@ -165,22 +169,18 @@
  |[Jenkins security advisory (AV24-444)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-444)|Visit link for details|2024-08-08|
  |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
  |[HPE security advisory (AV24-442)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-442)|Visit link for details|2024-08-07|
- |[Google Chrome security advisory (AV24-441)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-441)|Visit link for details|2024-08-06|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|12/08/2024|
- |[Mozilla - CVE-2024-7522](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-7522-2024-08-09)|Visit link for details.|09/08/2024|
- |[Cisco - CVE-2024-20452](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20452-2024-08-09)|Visit link for details.|09/08/2024|
- |[PostgreSQL - CVE-2024-7348](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-7348-2024-08-09)|Visit link for details.|09/08/2024|
- |[OpenSSH - CVE-2024-6387](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6387-2024-07-02)|Visit link for details.|09/08/2024|
- |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|09/08/2024|
- |[Linux - CVE-2023-2163](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-2163-2023-09-21)|Visit link for details.|09/08/2024|
- |[Google Chrome - CVE-2024-7532](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7532-2024-08-07)|Visit link for details.|09/08/2024|
- |[Cisco - CVE-2024-20450](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20450-2024-08-08)|Visit link for details.|08/08/2024|
- |[Microsoft - CVE-2024-38054](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38054-2024-08-08)|Visit link for details.|08/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-4885](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4885-2024-08-08)|Visit link for details.|08/08/2024|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
  
