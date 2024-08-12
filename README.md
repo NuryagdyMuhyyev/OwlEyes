@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/08/2024 19:20:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/08/2024 20:21:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -103,6 +103,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 11, 2024|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -120,18 +134,21 @@
  |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
+ |[ 48651208/24 - Plusieurs vulnérabilités affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/plusieurs-vulnerabilites-affectant-roundcube-webmail)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Roundcube Webmail.  L'exploitation de ces vulnérabilités peut permettre à un attaquant  distant d’injecter du code…| 12 août 2024|
+ |[ 48641208/24 - Vulnérabilité critique dans les produits AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-amd)| AMD a annoncé la découverte d’une vulnérabilité critique nommée « SinkClose » qui affecte plusieurs générations de processeurs EPYC, Ryzen et Threadripper. La vulnérabilité permet à un attaquant…| 12 août 2024|
+ |[ 48631208/24 - Vulnérabilités critiques affectant Django ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-django)| Django vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant son Framework Django. L’exploitation de ces vulnérabilités peut permettre à  un…| 12 août 2024|
+ |[ 48621208/24 - Vulnérabilités critiques dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-apache-ofbiz)| La Fondation Apache Software a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-32113 et CVE-2024-38856) dans Apache OFBiz.  Les deux failles sont activement…| 12 août 2024|
+ |[ 48611208/24 - Vulnérabilité dans les produits PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-postgresql)| Une vulnérabilité a été corrigée dans les versions susmentionnées de PostgreSQL. Une exploitation réussie de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.| 12 août 2024|
+ |[ 48600908/24 - Vulnérabilités dans Microsoft Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows)| Deux vulnérabilités ont été découvertes dans les versions susmentionnées de Microsoft Windows. L’exploitation de ces failles peut permettre à un attaquant d’obtenir les privilèges « SYSTEM ».…| 09 août 2024|
+ |[ 4860908/24 - Vulnérabilités affectant le Module «Opigno» pour CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-module-opigno-pour-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige plusieurs vulnérabilités au    niveau  du module «Opigno». L’exploitation de ces vulnérabilités peut permettre à un…| 09 août 2024|
+ |[ 48590808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-10)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et d’exécuter du code…| 08 août 2024|
+ |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
+ |[ 48570708/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-9)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 07 août 2024|
+ |[ 48560708/24 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-1)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 07 août 2024|
  
 
 # CA-CCS
@@ -155,6 +172,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|12/08/2024|
  |[Mozilla - CVE-2024-7522](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-7522-2024-08-09)|Visit link for details.|09/08/2024|
  |[Cisco - CVE-2024-20452](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20452-2024-08-09)|Visit link for details.|09/08/2024|
  |[PostgreSQL - CVE-2024-7348](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-7348-2024-08-09)|Visit link for details.|09/08/2024|
@@ -165,22 +183,4 @@
  |[Cisco - CVE-2024-20450](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20450-2024-08-08)|Visit link for details.|08/08/2024|
  |[Microsoft - CVE-2024-38054](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38054-2024-08-08)|Visit link for details.|08/08/2024|
  |[Progress WhatsUp Gold - CVE-2024-4885](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4885-2024-08-08)|Visit link for details.|08/08/2024|
- |[Microsoft Windows - CVE-2023-24932](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-windows-cve-2023-24932-2023-05-11)|Visit link for details.|08/08/2024|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48651208/24 - Plusieurs vulnérabilités affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/plusieurs-vulnerabilites-affectant-roundcube-webmail)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Roundcube Webmail.  L'exploitation de ces vulnérabilités peut permettre à un attaquant  distant d’injecter du code…| 12 août 2024|
- |[ 48641208/24 - Vulnérabilité critique dans les produits AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-amd)| AMD a annoncé la découverte d’une vulnérabilité critique nommée « SinkClose » qui affecte plusieurs générations de processeurs EPYC, Ryzen et Threadripper. La vulnérabilité permet à un attaquant…| 12 août 2024|
- |[ 48631208/24 - Vulnérabilités critiques affectant Django ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-django)| Django vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant son Framework Django. L’exploitation de ces vulnérabilités peut permettre à  un…| 12 août 2024|
- |[ 48621208/24 - Vulnérabilités critiques dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-apache-ofbiz)| La Fondation Apache Software a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-32113 et CVE-2024-38856) dans Apache OFBiz.  Les deux failles sont activement…| 12 août 2024|
- |[ 48611208/24 - Vulnérabilité dans les produits PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-postgresql)| Une vulnérabilité a été corrigée dans les versions susmentionnées de PostgreSQL. Une exploitation réussie de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.| 12 août 2024|
- |[ 48600908/24 - Vulnérabilités dans Microsoft Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows)| Deux vulnérabilités ont été découvertes dans les versions susmentionnées de Microsoft Windows. L’exploitation de ces failles peut permettre à un attaquant d’obtenir les privilèges « SYSTEM ».…| 09 août 2024|
- |[ 4860908/24 - Vulnérabilités affectant le Module «Opigno» pour CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-module-opigno-pour-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige plusieurs vulnérabilités au    niveau  du module «Opigno». L’exploitation de ces vulnérabilités peut permettre à un…| 09 août 2024|
- |[ 48590808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-10)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et d’exécuter du code…| 08 août 2024|
- |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
- |[ 48570708/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-9)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 07 août 2024|
- |[ 48560708/24 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-1)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 07 août 2024|
  
