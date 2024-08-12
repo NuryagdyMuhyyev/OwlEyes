@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/08/2024 03:18:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/08/2024 04:20:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,18 +45,6 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -72,6 +60,18 @@
  |[USN-6950-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6950-1-linux-kernel-vulnerabilities.51273/)|Visit link for details.|Aug 9, 2024|
  |[USN-6949-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-1-linux-kernel-vulnerabilities.51272/)|Visit link for details.|Aug 9, 2024|
  |[USN-6948-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6948-1-salt-vulnerabilities.51271/)|Visit link for details.|Aug 9, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -90,17 +90,24 @@
  |[Microsoft Windows Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-windows-multiple-vulnerabilities_20240808)|Multiple vulnerabilities were identified in Microsoft Windows, a attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-21302 and CVE...|Release Date: 8 Aug 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Zimbra Collaboration fie inclusion (CVE-2024-33535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[Microsoft Windows denial of service (CVE-2024-6768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[Firewalla Box weak security (CVE-2024-40892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[Apache MINA SSHD security bypass (CVE-2024-41909)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[Team Johnlong software Raiden MAILD Remote Management System directory traversal (CVE-2024-7693)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[SourceCodester Kortex Lite Advocate Office Management System add_act.php cross site scripting (CVE-2024-7684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
  
 
 # EU-CERT
@@ -118,20 +125,6 @@
  |[2024-069: Vulnerabilities in Citrix Netscaler](https://cert.europa.eu/publications/security-advisories/2024-069/)|On July 9, 2024, Citrix released a security advisory addressing two vulnerabilities in Citrix NetScaler Console, Agent, and SDX (SVM). The vulnerabilities "CVE-2024-6235" and "CVE-2024-6236" can result in sensitive information disclosure and denial of service.|Monday, July 15, 2024 05:41:57 PM CEST|
  |[2024-068: Critical Vulnerabilities in GeoServer and GeoTools](https://cert.europa.eu/publications/security-advisories/2024-068/)|On July 2, 2024, several critical vulnerabilities were addressed in GeoServer and GeoTools. These vulnerabilities can result in arbitrary code execution through the unsafe evaluation of user-supplied "XPath" expressions.|Thursday, July 11, 2024 03:14:25 PM CEST|
  |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
  
 
 # MA-CERT
