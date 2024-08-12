@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/08/2024 02:19:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/08/2024 03:18:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,10 +51,18 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6955-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6955-1-linux-kernel-oem-vulnerabilities.51319/)|Visit link for details.|Aug 12, 2024|
+ |[DSA-5747-1 linux - security update](https://www.linux.org/threads/dsa-5747-1-linux-security-update.51318/)|Visit link for details.|Aug 12, 2024|
  |[USN-6926-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6926-3-linux-kernel-azure-vulnerabilities.51285/)|Visit link for details.|Aug 9, 2024|
  |[DSA-5746-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5746-1-postgresql-13-security-update.51284/)|Visit link for details.|Aug 9, 2024|
  |[DSA-5745-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5745-1-postgresql-15-security-update.51283/)|Visit link for details.|Aug 9, 2024|
@@ -64,21 +72,6 @@
  |[USN-6950-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6950-1-linux-kernel-vulnerabilities.51273/)|Visit link for details.|Aug 9, 2024|
  |[USN-6949-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-1-linux-kernel-vulnerabilities.51272/)|Visit link for details.|Aug 9, 2024|
  |[USN-6948-1: Salt vulnerabilities](https://www.linux.org/threads/usn-6948-1-salt-vulnerabilities.51271/)|Visit link for details.|Aug 9, 2024|
- |[DSA-5744-1 thunderbird - security update](https://www.linux.org/threads/dsa-5744-1-thunderbird-security-update.51270/)|Visit link for details.|Aug 9, 2024|
- |[DSA-5742-1 odoo - security update](https://www.linux.org/threads/dsa-5742-1-odoo-security-update.51266/)|Visit link for details.|Aug 8, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zimbra Collaboration fie inclusion (CVE-2024-33535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[Microsoft Windows denial of service (CVE-2024-6768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[Firewalla Box weak security (CVE-2024-40892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[Apache MINA SSHD security bypass (CVE-2024-41909)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[Team Johnlong software Raiden MAILD Remote Management System directory traversal (CVE-2024-7693)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[SourceCodester Kortex Lite Advocate Office Management System add_act.php cross site scripting (CVE-2024-7684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
  
 
 # HK-CERT
@@ -97,24 +90,17 @@
  |[Microsoft Windows Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-windows-multiple-vulnerabilities_20240808)|Multiple vulnerabilities were identified in Microsoft Windows, a attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-21302 and CVE...|Release Date: 8 Aug 2024 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
+ |[Zimbra Collaboration fie inclusion (CVE-2024-33535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ |[Microsoft Windows denial of service (CVE-2024-6768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ |[Firewalla Box weak security (CVE-2024-40892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ |[Apache MINA SSHD security bypass (CVE-2024-41909)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ |[Team Johnlong software Raiden MAILD Remote Management System directory traversal (CVE-2024-7693)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ |[SourceCodester Kortex Lite Advocate Office Management System add_act.php cross site scripting (CVE-2024-7684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
  
 
 # EU-CERT
@@ -134,21 +120,18 @@
  |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|12/08/2024|
- |[Mozilla - CVE-2024-7522](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-7522-2024-08-09)|Visit link for details.|09/08/2024|
- |[Cisco - CVE-2024-20452](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20452-2024-08-09)|Visit link for details.|09/08/2024|
- |[PostgreSQL - CVE-2024-7348](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-7348-2024-08-09)|Visit link for details.|09/08/2024|
- |[OpenSSH - CVE-2024-6387](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6387-2024-07-02)|Visit link for details.|09/08/2024|
- |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|09/08/2024|
- |[Linux - CVE-2023-2163](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-2163-2023-09-21)|Visit link for details.|09/08/2024|
- |[Google Chrome - CVE-2024-7532](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7532-2024-08-07)|Visit link for details.|09/08/2024|
- |[Cisco - CVE-2024-20450](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20450-2024-08-08)|Visit link for details.|08/08/2024|
- |[Microsoft - CVE-2024-38054](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38054-2024-08-08)|Visit link for details.|08/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-4885](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4885-2024-08-08)|Visit link for details.|08/08/2024|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[Drupal security advisory (AV24-445)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-445)|Visit link for details|2024-08-08|
  |[Jenkins security advisory (AV24-444)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-444)|Visit link for details|2024-08-08|
  |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|12/08/2024|
+ |[Mozilla - CVE-2024-7522](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-7522-2024-08-09)|Visit link for details.|09/08/2024|
+ |[Cisco - CVE-2024-20452](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20452-2024-08-09)|Visit link for details.|09/08/2024|
+ |[PostgreSQL - CVE-2024-7348](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-7348-2024-08-09)|Visit link for details.|09/08/2024|
+ |[OpenSSH - CVE-2024-6387](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6387-2024-07-02)|Visit link for details.|09/08/2024|
+ |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|09/08/2024|
+ |[Linux - CVE-2023-2163](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-2163-2023-09-21)|Visit link for details.|09/08/2024|
+ |[Google Chrome - CVE-2024-7532](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7532-2024-08-07)|Visit link for details.|09/08/2024|
+ |[Cisco - CVE-2024-20450](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20450-2024-08-08)|Visit link for details.|08/08/2024|
+ |[Microsoft - CVE-2024-38054](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38054-2024-08-08)|Visit link for details.|08/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-4885](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-4885-2024-08-08)|Visit link for details.|08/08/2024|
  
