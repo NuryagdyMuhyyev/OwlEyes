@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/08/2024 18:22:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/08/2024 19:17:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,29 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6950-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6950-2-linux-kernel-vulnerabilities.51322/)|Visit link for details.|Aug 13, 2024|
- |[USN-6957-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6957-1-linux-kernel-oracle-vulnerabilities.51321/)|Visit link for details.|Aug 13, 2024|
- |[USN-6956-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6956-1-linux-kernel-azure-vulnerabilities.51320/)|Visit link for details.|Aug 13, 2024|
- |[USN-6955-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6955-1-linux-kernel-oem-vulnerabilities.51319/)|Visit link for details.|Aug 12, 2024|
- |[DSA-5747-1 linux - security update](https://www.linux.org/threads/dsa-5747-1-linux-security-update.51318/)|Visit link for details.|Aug 12, 2024|
- |[USN-6926-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6926-3-linux-kernel-azure-vulnerabilities.51285/)|Visit link for details.|Aug 9, 2024|
- |[DSA-5746-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5746-1-postgresql-13-security-update.51284/)|Visit link for details.|Aug 9, 2024|
- |[DSA-5745-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5745-1-postgresql-15-security-update.51283/)|Visit link for details.|Aug 9, 2024|
- |[USN-6953-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6953-1-linux-kernel-oracle-vulnerabilities.51276/)|Visit link for details.|Aug 9, 2024|
- |[USN-6952-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6952-1-linux-kernel-vulnerabilities.51275/)|Visit link for details.|Aug 9, 2024|
- |[USN-6951-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6951-1-linux-kernel-vulnerabilities.51274/)|Visit link for details.|Aug 9, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -68,10 +45,21 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
  
 
-# OBS-Vigilance
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6954-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6954-1-qemu-vulnerabilities.51324/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6950-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6950-2-linux-kernel-vulnerabilities.51322/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6957-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6957-1-linux-kernel-oracle-vulnerabilities.51321/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6956-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6956-1-linux-kernel-azure-vulnerabilities.51320/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6955-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6955-1-linux-kernel-oem-vulnerabilities.51319/)|Visit link for details.|Aug 12, 2024|
+ |[DSA-5747-1 linux - security update](https://www.linux.org/threads/dsa-5747-1-linux-security-update.51318/)|Visit link for details.|Aug 12, 2024|
+ |[USN-6926-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6926-3-linux-kernel-azure-vulnerabilities.51285/)|Visit link for details.|Aug 9, 2024|
+ |[DSA-5746-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5746-1-postgresql-13-security-update.51284/)|Visit link for details.|Aug 9, 2024|
+ |[DSA-5745-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5745-1-postgresql-15-security-update.51283/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6953-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6953-1-linux-kernel-oracle-vulnerabilities.51276/)|Visit link for details.|Aug 9, 2024|
+ |[USN-6952-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6952-1-linux-kernel-vulnerabilities.51275/)|Visit link for details.|Aug 9, 2024|
  
 
 # HK-CERT
@@ -90,6 +78,12 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240809)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2024 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +95,43 @@
  |[SAP Commerce information disclosure (CVE-2024-41733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
  |[SAP Shared Service Framework security bypass (CVE-2024-42377)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
  |[SAP Commerce Backoffice cross-site scripting (CVE-2024-41735)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
+ |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
+ |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
+ |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
+ |[Ubuntu security advisory (AV24-449)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-449)|Visit link for details|2024-08-12|
+ |[Microsoft Edge security advisory (AV24-448)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-448)|Visit link for details|2024-08-09|
+ |[F5 security advisory (AV24-447)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-447)|Visit link for details|2024-08-09|
+ |[HPE security advisory (AV24-446)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-446)|Visit link for details|2024-08-09|
+ |[Drupal security advisory (AV24-445)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-445)|Visit link for details|2024-08-08|
+ |[Jenkins security advisory (AV24-444)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-444)|Visit link for details|2024-08-08|
+ |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
  
 
 # EU-CERT
@@ -120,20 +151,6 @@
  |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -149,23 +166,6 @@
  |[ 4860908/24 - Vulnérabilités affectant le Module «Opigno» pour CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-module-opigno-pour-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige plusieurs vulnérabilités au    niveau  du module «Opigno». L’exploitation de ces vulnérabilités peut permettre à un…| 09 août 2024|
  |[ 48590808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-10)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et d’exécuter du code…| 08 août 2024|
  |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
- |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
- |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
- |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
- |[Ubuntu security advisory (AV24-449)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-449)|Visit link for details|2024-08-12|
- |[Microsoft Edge security advisory (AV24-448)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-448)|Visit link for details|2024-08-09|
- |[F5 security advisory (AV24-447)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-447)|Visit link for details|2024-08-09|
- |[HPE security advisory (AV24-446)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-446)|Visit link for details|2024-08-09|
- |[Drupal security advisory (AV24-445)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-445)|Visit link for details|2024-08-08|
- |[Jenkins security advisory (AV24-444)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-444)|Visit link for details|2024-08-08|
- |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
  
 
 # CERT-SANTE
