@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/08/2024 08:22:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/08/2024 09:22:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,12 +66,6 @@
  |[USN-6953-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6953-1-linux-kernel-oracle-vulnerabilities.51276/)|Visit link for details.|Aug 9, 2024|
  |[USN-6952-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6952-1-linux-kernel-vulnerabilities.51275/)|Visit link for details.|Aug 9, 2024|
  |[USN-6951-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6951-1-linux-kernel-vulnerabilities.51274/)|Visit link for details.|Aug 9, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -94,13 +94,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[FIWARE Keyrock command execution (CVE-2024-42167)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
  |[Zimbra Collaboration fie inclusion (CVE-2024-33535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
  |[Microsoft Windows denial of service (CVE-2024-6768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
  |[Firewalla Box weak security (CVE-2024-40892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
  |[Apache MINA SSHD security bypass (CVE-2024-41909)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
  |[Team Johnlong software Raiden MAILD Remote Management System directory traversal (CVE-2024-7693)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
  |[SourceCodester Kortex Lite Advocate Office Management System add_act.php cross site scripting (CVE-2024-7684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 12, 2024|
  
 
 # ZERODAYINITIATIVE
@@ -115,23 +115,6 @@
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
- |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
- |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
- |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
- |[Ubuntu security advisory (AV24-449)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-449)|Visit link for details|2024-08-12|
- |[Microsoft Edge security advisory (AV24-448)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-448)|Visit link for details|2024-08-09|
- |[F5 security advisory (AV24-447)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-447)|Visit link for details|2024-08-09|
- |[HPE security advisory (AV24-446)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-446)|Visit link for details|2024-08-09|
- |[Drupal security advisory (AV24-445)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-445)|Visit link for details|2024-08-08|
- |[Jenkins security advisory (AV24-444)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-444)|Visit link for details|2024-08-08|
- |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
  
 
 # EU-CERT
@@ -149,6 +132,23 @@
  |[2024-069: Vulnerabilities in Citrix Netscaler](https://cert.europa.eu/publications/security-advisories/2024-069/)|On July 9, 2024, Citrix released a security advisory addressing two vulnerabilities in Citrix NetScaler Console, Agent, and SDX (SVM). The vulnerabilities "CVE-2024-6235" and "CVE-2024-6236" can result in sensitive information disclosure and denial of service.|Monday, July 15, 2024 05:41:57 PM CEST|
  |[2024-068: Critical Vulnerabilities in GeoServer and GeoTools](https://cert.europa.eu/publications/security-advisories/2024-068/)|On July 2, 2024, several critical vulnerabilities were addressed in GeoServer and GeoTools. These vulnerabilities can result in arbitrary code execution through the unsafe evaluation of user-supplied "XPath" expressions.|Thursday, July 11, 2024 03:14:25 PM CEST|
  |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
+ |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
+ |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
+ |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
+ |[Ubuntu security advisory (AV24-449)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-449)|Visit link for details|2024-08-12|
+ |[Microsoft Edge security advisory (AV24-448)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-448)|Visit link for details|2024-08-09|
+ |[F5 security advisory (AV24-447)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-447)|Visit link for details|2024-08-09|
+ |[HPE security advisory (AV24-446)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-446)|Visit link for details|2024-08-09|
+ |[Drupal security advisory (AV24-445)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-445)|Visit link for details|2024-08-08|
+ |[Jenkins security advisory (AV24-444)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-444)|Visit link for details|2024-08-08|
+ |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
  
 
 # CERT-SANTE
