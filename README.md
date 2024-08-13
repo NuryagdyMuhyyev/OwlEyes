@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/08/2024 11:27:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/08/2024 12:18:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products)|Visit link for details.|Jul 30, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,12 @@
  |[USN-6953-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6953-1-linux-kernel-oracle-vulnerabilities.51276/)|Visit link for details.|Aug 9, 2024|
  |[USN-6952-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6952-1-linux-kernel-vulnerabilities.51275/)|Visit link for details.|Aug 9, 2024|
  |[USN-6951-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6951-1-linux-kernel-vulnerabilities.51274/)|Visit link for details.|Aug 9, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -94,27 +94,30 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SAP Commerce Backoffice cross-site scripting (CVE-2024-41735)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
+ |[SAP Student Life Cycle Management privilege escalation (CVE-2024-42373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
+ |[SAP Document Builder privilege escalation (CVE-2024-39591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
  |[SAP NetWeaver Application Server,Web Dispatcher and Content Server security bypass (CVE-2024-33005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
  |[SAP NetWeaver Application Server ABAP security bypass (CVE-2024-41732)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
  |[SAP BusinessObjects Business Intelligence Platform file upload (CVE-2024-28166)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
- |[SAP Permit to Work information disclosure (CVE-2024-41736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
- |[SAP CRM ABAP server-side request forgery (CVE-2024-41737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
- |[SAP BusinessObjects Business Intelligence Platform file upload (CVE-2024-42375)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
  
 
-# ZERODAYINITIATIVE
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
+ |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
+ |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
+ |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
+ |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
+ |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
+ |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
+ |[2024-071: Critical Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-071/)|On July 18, 2024, SolarWinds issued an advisory addressing multiple critical vulnerabilities in its Access Rights Manager (ARM) software. These vulnerabilities could lead to remote code execution, arbitrary file deletion and sensitive information leakage.|Friday, July 19, 2024 07:30:40 PM CEST|
+ |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
+ |[2024-069: Vulnerabilities in Citrix Netscaler](https://cert.europa.eu/publications/security-advisories/2024-069/)|On July 9, 2024, Citrix released a security advisory addressing two vulnerabilities in Citrix NetScaler Console, Agent, and SDX (SVM). The vulnerabilities "CVE-2024-6235" and "CVE-2024-6236" can result in sensitive information disclosure and denial of service.|Monday, July 15, 2024 05:41:57 PM CEST|
+ |[2024-068: Critical Vulnerabilities in GeoServer and GeoTools](https://cert.europa.eu/publications/security-advisories/2024-068/)|On July 2, 2024, several critical vulnerabilities were addressed in GeoServer and GeoTools. These vulnerabilities can result in arbitrary code execution through the unsafe evaluation of user-supplied "XPath" expressions.|Thursday, July 11, 2024 03:14:25 PM CEST|
+ |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
  
 
 # CA-CCS
@@ -134,21 +137,18 @@
  |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
  
 
-# EU-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
- |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
- |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
- |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
- |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
- |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
- |[2024-071: Critical Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-071/)|On July 18, 2024, SolarWinds issued an advisory addressing multiple critical vulnerabilities in its Access Rights Manager (ARM) software. These vulnerabilities could lead to remote code execution, arbitrary file deletion and sensitive information leakage.|Friday, July 19, 2024 07:30:40 PM CEST|
- |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
- |[2024-069: Vulnerabilities in Citrix Netscaler](https://cert.europa.eu/publications/security-advisories/2024-069/)|On July 9, 2024, Citrix released a security advisory addressing two vulnerabilities in Citrix NetScaler Console, Agent, and SDX (SVM). The vulnerabilities "CVE-2024-6235" and "CVE-2024-6236" can result in sensitive information disclosure and denial of service.|Monday, July 15, 2024 05:41:57 PM CEST|
- |[2024-068: Critical Vulnerabilities in GeoServer and GeoTools](https://cert.europa.eu/publications/security-advisories/2024-068/)|On July 2, 2024, several critical vulnerabilities were addressed in GeoServer and GeoTools. These vulnerabilities can result in arbitrary code execution through the unsafe evaluation of user-supplied "XPath" expressions.|Thursday, July 11, 2024 03:14:25 PM CEST|
- |[2024-067: Multiple Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-067/)|On July 10, 2024, Microsoft addressed 139 vulnerabilities in its July 2024 Patch Tuesday update, including four zero-day vulnerabilities. Two zero-day vulnerabilities are actively exploited. Additionally, five critical vulnerabilities leading to Remote Code Execution have been patched.|Friday, July 12, 2024 11:43:44 AM CEST|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
  
 
 # MA-CERT
