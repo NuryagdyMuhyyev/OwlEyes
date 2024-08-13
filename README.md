@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/08/2024 15:21:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/08/2024 16:16:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,22 @@
  |---|---|---|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...| Release Date: 1 Aug 2024 |
+ |[IBM WebSphere Liberty Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-liberty-multiple-vulnerabilities_20240813)|Multiple vulnerabilities were identified in IBM WebSphere Liberty. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Aug 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240812)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass, cross-site scripting, denial of service and information disclosure on the targeted system.|Release Date: 12 Aug 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:Exploit in the wild...| Release Date: 6 Aug 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 6 Aug 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240729)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-36971. The vulnerability potentially...| Release Date: 29 Jul 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 10 Jul 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:Exploit in the wild has been detected for CVE...| Release Date: 2 Jul 2024 |
+ |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240809)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 9 Aug 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240809)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2024 |
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -87,22 +103,6 @@
  |[SAP Commerce Backoffice cross-site scripting (CVE-2024-41735)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...| Release Date: 1 Aug 2024 |
- |[IBM WebSphere Liberty Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-liberty-multiple-vulnerabilities_20240813)|Multiple vulnerabilities were identified in IBM WebSphere Liberty. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Aug 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240812)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass, cross-site scripting, denial of service and information disclosure on the targeted system.|Release Date: 12 Aug 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:Exploit in the wild...| Release Date: 6 Aug 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 6 Aug 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240729)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-36971. The vulnerability potentially...| Release Date: 29 Jul 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 10 Jul 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:Exploit in the wild has been detected for CVE...| Release Date: 2 Jul 2024 |
- |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20240809)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 9 Aug 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240809)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 9 Aug 2024 |
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -115,23 +115,6 @@
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|13/08/2024|
- |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|12/08/2024|
- |[Mozilla - CVE-2024-7522](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-7522-2024-08-09)|Visit link for details.|09/08/2024|
- |[Cisco - CVE-2024-20452](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20452-2024-08-09)|Visit link for details.|09/08/2024|
- |[PostgreSQL - CVE-2024-7348](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-7348-2024-08-09)|Visit link for details.|09/08/2024|
- |[OpenSSH - CVE-2024-6387](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6387-2024-07-02)|Visit link for details.|09/08/2024|
- |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|09/08/2024|
- |[Linux - CVE-2023-2163](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-2163-2023-09-21)|Visit link for details.|09/08/2024|
- |[Google Chrome - CVE-2024-7532](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7532-2024-08-07)|Visit link for details.|09/08/2024|
- |[Cisco - CVE-2024-20450](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20450-2024-08-08)|Visit link for details.|08/08/2024|
- |[Microsoft - CVE-2024-38054](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38054-2024-08-08)|Visit link for details.|08/08/2024|
  
 
 # EU-CERT
@@ -155,6 +138,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 48661308/24 - Vulnérabilité dans MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-2)| Une vulnérabilité a été corrigée dans MongoDB. Une exploitation de cette faille pourrait permettre à un attaquant de provoquer une élévation de privilèges.| 13 août 2024|
  |[ 48651208/24 - Plusieurs vulnérabilités affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/plusieurs-vulnerabilites-affectant-roundcube-webmail)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Roundcube Webmail.  L'exploitation de ces vulnérabilités peut permettre à un attaquant  distant d’injecter du code…| 12 août 2024|
  |[ 48641208/24 - Vulnérabilité critique dans les produits AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-amd)| AMD a annoncé la découverte d’une vulnérabilité critique nommée « SinkClose » qui affecte plusieurs générations de processeurs EPYC, Ryzen et Threadripper. La vulnérabilité permet à un attaquant…| 12 août 2024|
  |[ 48631208/24 - Vulnérabilités critiques affectant Django ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-django)| Django vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant son Framework Django. L’exploitation de ces vulnérabilités peut permettre à  un…| 12 août 2024|
@@ -165,7 +149,6 @@
  |[ 48590808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-10)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et d’exécuter du code…| 08 août 2024|
  |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
  |[ 48570708/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-9)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 07 août 2024|
- |[ 48560708/24 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-mozilla-firefox-et-thunderbird-1)| Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Thunderbird. Un attaquant pourrait exploiter certaines de ces…| 07 août 2024|
  
 
 # CA-CCS
@@ -183,4 +166,21 @@
  |[Drupal security advisory (AV24-445)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-445)|Visit link for details|2024-08-08|
  |[Jenkins security advisory (AV24-444)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-444)|Visit link for details|2024-08-08|
  |[Cisco security advisory (AV24-443)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443)|Visit link for details|2024-08-07|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|13/08/2024|
+ |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|12/08/2024|
+ |[Mozilla - CVE-2024-7522](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-7522-2024-08-09)|Visit link for details.|09/08/2024|
+ |[Cisco - CVE-2024-20452](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20452-2024-08-09)|Visit link for details.|09/08/2024|
+ |[PostgreSQL - CVE-2024-7348](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-7348-2024-08-09)|Visit link for details.|09/08/2024|
+ |[OpenSSH - CVE-2024-6387](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2024-6387-2024-07-02)|Visit link for details.|09/08/2024|
+ |[Microsoft - CVE-2024-38077](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38077-2024-07-12)|Visit link for details.|09/08/2024|
+ |[Linux - CVE-2023-2163](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-2163-2023-09-21)|Visit link for details.|09/08/2024|
+ |[Google Chrome - CVE-2024-7532](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7532-2024-08-07)|Visit link for details.|09/08/2024|
+ |[Cisco - CVE-2024-20450](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20450-2024-08-08)|Visit link for details.|08/08/2024|
+ |[Microsoft - CVE-2024-38054](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38054-2024-08-08)|Visit link for details.|08/08/2024|
  
