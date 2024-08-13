@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/08/2024 02:18:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/08/2024 03:17:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,16 +45,12 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/05/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 05, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6959-1: .NET vulnerability](https://www.linux.org/threads/usn-6959-1-net-vulnerability.51330/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6949-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-2-linux-kernel-vulnerabilities.51329/)|Visit link for details.|Aug 13, 2024|
  |[USN-6958-1: Libcroco vulnerabilities](https://www.linux.org/threads/usn-6958-1-libcroco-vulnerabilities.51326/)|Visit link for details.|Aug 13, 2024|
  |[USN-6950-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6950-3-linux-kernel-oracle-vulnerabilities.51325/)|Visit link for details.|Aug 13, 2024|
  |[USN-6954-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6954-1-qemu-vulnerabilities.51324/)|Visit link for details.|Aug 13, 2024|
@@ -64,8 +60,12 @@
  |[USN-6955-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6955-1-linux-kernel-oem-vulnerabilities.51319/)|Visit link for details.|Aug 12, 2024|
  |[DSA-5747-1 linux - security update](https://www.linux.org/threads/dsa-5747-1-linux-security-update.51318/)|Visit link for details.|Aug 12, 2024|
  |[USN-6926-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6926-3-linux-kernel-azure-vulnerabilities.51285/)|Visit link for details.|Aug 9, 2024|
- |[DSA-5746-1 postgresql-13 - security update](https://www.linux.org/threads/dsa-5746-1-postgresql-13-security-update.51284/)|Visit link for details.|Aug 9, 2024|
- |[DSA-5745-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5745-1-postgresql-15-security-update.51283/)|Visit link for details.|Aug 9, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -103,20 +103,6 @@
  |[Siemens Location Intelligence information disclosure (CVE-2024-41683)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
- |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -151,6 +137,23 @@
  |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|13/08/2024|
+ |[D-Link - CVE-2024-7715](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7715-2024-08-13)|Visit link for details.|13/08/2024|
+ |[Cisco - CVE-2024-20454](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20454-2024-08-13)|Visit link for details.|13/08/2024|
+ |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|13/08/2024|
+ |[Roundcube - CVE-2024-42010](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2024-42010-2024-08-12)|Visit link for details.|12/08/2024|
+ |[Aruba - CVE-2024-42394](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-42394-2024-08-12)|Visit link for details.|12/08/2024|
+ |[Zoho ManageEngine - CVE-2024-5527](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5527-2024-08-12)|Visit link for details.|12/08/2024|
+ |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|12/08/2024|
+ |[Mozilla - CVE-2024-7522](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-7522-2024-08-09)|Visit link for details.|09/08/2024|
+ |[Cisco - CVE-2024-20452](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20452-2024-08-09)|Visit link for details.|09/08/2024|
+ |[PostgreSQL - CVE-2024-7348](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-7348-2024-08-09)|Visit link for details.|09/08/2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -168,19 +171,16 @@
  |[Ubuntu security advisory (AV24-449)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-449)|Visit link for details|2024-08-12|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|13/08/2024|
- |[D-Link - CVE-2024-7715](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7715-2024-08-13)|Visit link for details.|13/08/2024|
- |[Cisco - CVE-2024-20454](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20454-2024-08-13)|Visit link for details.|13/08/2024|
- |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|13/08/2024|
- |[Roundcube - CVE-2024-42010](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2024-42010-2024-08-12)|Visit link for details.|12/08/2024|
- |[Aruba - CVE-2024-42394](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-42394-2024-08-12)|Visit link for details.|12/08/2024|
- |[Zoho ManageEngine - CVE-2024-5527](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5527-2024-08-12)|Visit link for details.|12/08/2024|
- |[Quest KACE - CVE-2024-23772](https://www.cyberveille-sante.gouv.fr/alertes/quest-kace-cve-2024-23772-2024-05-03)|Visit link for details.|12/08/2024|
- |[Mozilla - CVE-2024-7522](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-7522-2024-08-09)|Visit link for details.|09/08/2024|
- |[Cisco - CVE-2024-20452](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20452-2024-08-09)|Visit link for details.|09/08/2024|
- |[PostgreSQL - CVE-2024-7348](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-7348-2024-08-09)|Visit link for details.|09/08/2024|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1122/)|Visit link for details|2024-08-08|
+ |[Apple macOS VideoToolbox Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1121/)|Visit link for details|2024-08-08|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1120/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1119/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1118/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
  
