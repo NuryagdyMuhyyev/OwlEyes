@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/08/2024 22:16:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/08/2024 23:25:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,6 +62,31 @@
  |[USN-6955-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-6955-1-linux-kernel-oem-vulnerabilities.51319/)|Visit link for details.|Aug 12, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Palo Alto Networks PAN-OS information disclosure (CVE-2024-5916)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Palo Alto Networks Cortex XSOAR command execution (CVE-2024-5914)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[IBM QRadar Suite Software information disclosure (CVE-2024-28799)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[IBM SDK, Java Technology Edition denial of service (CVE-2024-27267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[IBM WebSphere Application Server Liberty information disclosure (CVE-2023-50314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[XenSource Xen denial of service (CVE-2024-31145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
+ |[CAYIN Technology CMS command injection (CVE-2024-7728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -82,25 +101,6 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240729)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-36971. The vulnerability potentially...| Release Date: 29 Jul 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 10 Jul 2024 |
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:Exploit in the wild has been detected for CVE...| Release Date: 2 Jul 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM QRadar Suite Software information disclosure (CVE-2024-28799)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[IBM SDK, Java Technology Edition denial of service (CVE-2024-27267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[XenSource Xen denial of service (CVE-2024-31145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
- |[CAYIN Technology CMS command injection (CVE-2024-7728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
- |[CAYIN Technology CMS information disclosure (CVE-2024-7729)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
- |[Phoenix Contact security bypass (CVE-2024-3913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
- |[Rockwell Automation Emulate3D DLL Code execution (CVE-2024-6079)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
  
 
 # EU-CERT
@@ -120,23 +120,6 @@
  |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
- |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
- |[Adobe security advisory (AV24-457)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-457)|Visit link for details|2024-08-13|
- |[Ivanti security advisory (AV24-456)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-456)|Visit link for details|2024-08-13|
- |[[Control systems] Schneider Electric security advisory (AV24-455)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-455)|Visit link for details|2024-08-13|
- |[SAP security advisory – August 2024 monthly rollup (AV24-454)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2024-monthly-rollup-av24-454)|Visit link for details|2024-08-13|
- |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
- |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
- |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
- |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
- |[Ubuntu security advisory (AV24-449)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-449)|Visit link for details|2024-08-12|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -149,6 +132,23 @@
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
+ |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
+ |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
+ |[Adobe security advisory (AV24-457)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-457)|Visit link for details|2024-08-13|
+ |[Ivanti security advisory (AV24-456)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-456)|Visit link for details|2024-08-13|
+ |[[Control systems] Schneider Electric security advisory (AV24-455)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-455)|Visit link for details|2024-08-13|
+ |[SAP security advisory – August 2024 monthly rollup (AV24-454)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2024-monthly-rollup-av24-454)|Visit link for details|2024-08-13|
+ |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
+ |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
+ |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
+ |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
  
 
 # MA-CERT
