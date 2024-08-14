@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/08/2024 01:19:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/08/2024 02:18:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,12 +68,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -101,6 +95,12 @@
  |[IBM SDK, Java Technology Edition denial of service (CVE-2024-27267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
  |[IBM WebSphere Application Server Liberty information disclosure (CVE-2023-50314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
  |[XenSource Xen denial of service (CVE-2024-31146)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 13, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -132,6 +132,23 @@
  |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
  |[2024-071: Critical Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-071/)|On July 18, 2024, SolarWinds issued an advisory addressing multiple critical vulnerabilities in its Access Rights Manager (ARM) software. These vulnerabilities could lead to remote code execution, arbitrary file deletion and sensitive information leakage.|Friday, July 19, 2024 07:30:40 PM CEST|
  |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|14/08/2024|
+ |[Apache HTTP - CVE-2024-38477](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38477-2024-07-04)|Visit link for details.|14/08/2024|
+ |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|14/08/2024|
+ |[Apache - CVE-2024-38474](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-38474-2024-07-08)|Visit link for details.|14/08/2024|
+ |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|13/08/2024|
+ |[D-Link - CVE-2024-7715](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7715-2024-08-13)|Visit link for details.|13/08/2024|
+ |[Cisco - CVE-2024-20454](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20454-2024-08-13)|Visit link for details.|13/08/2024|
+ |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|13/08/2024|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
  |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
  |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
- |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
- |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38477](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38477-2024-07-04)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|14/08/2024|
- |[Apache - CVE-2024-38474](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-38474-2024-07-08)|Visit link for details.|14/08/2024|
- |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|13/08/2024|
- |[D-Link - CVE-2024-7715](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7715-2024-08-13)|Visit link for details.|13/08/2024|
- |[Cisco - CVE-2024-20454](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20454-2024-08-13)|Visit link for details.|13/08/2024|
- |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|13/08/2024|
  
