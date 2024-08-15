@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/08/2024 08:29:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/08/2024 09:22:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5749-1 flatpak - security update](https://www.linux.org/threads/dsa-5749-1-flatpak-security-update.51349/)|Visit link for details.|Aug 15, 2024|
- |[USN-6961-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6961-1-busybox-vulnerabilities.51348/)|Visit link for details.|Aug 14, 2024|
- |[USN-6951-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6951-2-linux-kernel-azure-vulnerabilities.51346/)|Visit link for details.|Aug 14, 2024|
- |[USN-6960-1: RMagick vulnerability](https://www.linux.org/threads/usn-6960-1-rmagick-vulnerability.51345/)|Visit link for details.|Aug 14, 2024|
- |[DSA-5748-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5748-1-ffmpeg-security-update.51343/)|Visit link for details.|Aug 14, 2024|
- |[DSA-5743-2 roundcube - security update](https://www.linux.org/threads/dsa-5743-2-roundcube-security-update.51333/)|Visit link for details.|Aug 14, 2024|
- |[USN-6959-1: .NET vulnerability](https://www.linux.org/threads/usn-6959-1-net-vulnerability.51330/)|Visit link for details.|Aug 13, 2024|
- |[USN-6949-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-2-linux-kernel-vulnerabilities.51329/)|Visit link for details.|Aug 13, 2024|
- |[USN-6958-1: Libcroco vulnerabilities](https://www.linux.org/threads/usn-6958-1-libcroco-vulnerabilities.51326/)|Visit link for details.|Aug 13, 2024|
- |[USN-6950-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6950-3-linux-kernel-oracle-vulnerabilities.51325/)|Visit link for details.|Aug 13, 2024|
- |[USN-6954-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6954-1-qemu-vulnerabilities.51324/)|Visit link for details.|Aug 13, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -68,10 +51,40 @@
  |---|---|---|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5749-1 flatpak - security update](https://www.linux.org/threads/dsa-5749-1-flatpak-security-update.51349/)|Visit link for details.|Aug 15, 2024|
+ |[USN-6961-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6961-1-busybox-vulnerabilities.51348/)|Visit link for details.|Aug 14, 2024|
+ |[USN-6951-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6951-2-linux-kernel-azure-vulnerabilities.51346/)|Visit link for details.|Aug 14, 2024|
+ |[USN-6960-1: RMagick vulnerability](https://www.linux.org/threads/usn-6960-1-rmagick-vulnerability.51345/)|Visit link for details.|Aug 14, 2024|
+ |[DSA-5748-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5748-1-ffmpeg-security-update.51343/)|Visit link for details.|Aug 14, 2024|
+ |[DSA-5743-2 roundcube - security update](https://www.linux.org/threads/dsa-5743-2-roundcube-security-update.51333/)|Visit link for details.|Aug 14, 2024|
+ |[USN-6959-1: .NET vulnerability](https://www.linux.org/threads/usn-6959-1-net-vulnerability.51330/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6949-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-2-linux-kernel-vulnerabilities.51329/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6958-1: Libcroco vulnerabilities](https://www.linux.org/threads/usn-6958-1-libcroco-vulnerabilities.51326/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6950-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6950-3-linux-kernel-oracle-vulnerabilities.51325/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6954-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6954-1-qemu-vulnerabilities.51324/)|Visit link for details.|Aug 13, 2024|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-21806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-21807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters denial of service (CVE-2024-23499)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-24986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-23981)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-21769)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-23497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
  
 
 # HK-CERT
@@ -90,36 +103,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 10 Jul 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel Ethernet Controllers and Adapters denial of service (CVE-2024-24983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel MAS (GUI) Software denial of service (CVE-2024-27461)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Palo Alto Networks GlobalProtect app privilege escalation (CVE-2024-5915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Palo Alto Networks PAN-OS information disclosure (CVE-2024-5916)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Palo Alto Networks Cortex XSOAR command execution (CVE-2024-5914)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[IBM QRadar Suite Software information disclosure (CVE-2024-28799)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[IBM SDK, Java Technology Edition denial of service (CVE-2024-27267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
- |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
- |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
- |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
- |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
- |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
- |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
- |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
- |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
- |[2024-071: Critical Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-071/)|On July 18, 2024, SolarWinds issued an advisory addressing multiple critical vulnerabilities in its Access Rights Manager (ARM) software. These vulnerabilities could lead to remote code execution, arbitrary file deletion and sensitive information leakage.|Friday, July 19, 2024 07:30:40 PM CEST|
- |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -132,23 +115,6 @@
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
- |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
- |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
- |[Adobe security advisory (AV24-457)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-457)|Visit link for details|2024-08-13|
- |[Ivanti security advisory (AV24-456)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-456)|Visit link for details|2024-08-13|
- |[[Control systems] Schneider Electric security advisory (AV24-455)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-455)|Visit link for details|2024-08-13|
- |[SAP security advisory – August 2024 monthly rollup (AV24-454)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2024-monthly-rollup-av24-454)|Visit link for details|2024-08-13|
- |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
- |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
- |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
- |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
  
 
 # MA-CERT
@@ -168,6 +134,23 @@
  |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
+ |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
+ |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
+ |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
+ |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
+ |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
+ |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
+ |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
+ |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
+ |[2024-071: Critical Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-071/)|On July 18, 2024, SolarWinds issued an advisory addressing multiple critical vulnerabilities in its Access Rights Manager (ARM) software. These vulnerabilities could lead to remote code execution, arbitrary file deletion and sensitive information leakage.|Friday, July 19, 2024 07:30:40 PM CEST|
+ |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[D-Link - CVE-2024-7715](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7715-2024-08-13)|Visit link for details.|13/08/2024|
  |[Cisco - CVE-2024-20454](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20454-2024-08-13)|Visit link for details.|13/08/2024|
  |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|13/08/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
+ |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
+ |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
+ |[Adobe security advisory (AV24-457)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-457)|Visit link for details|2024-08-13|
+ |[Ivanti security advisory (AV24-456)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-456)|Visit link for details|2024-08-13|
+ |[[Control systems] Schneider Electric security advisory (AV24-455)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-455)|Visit link for details|2024-08-13|
+ |[SAP security advisory – August 2024 monthly rollup (AV24-454)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2024-monthly-rollup-av24-454)|Visit link for details|2024-08-13|
+ |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
+ |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
+ |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
+ |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
  
