@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/08/2024 20:19:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/08/2024 21:24:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,7 +45,30 @@
  |[CISA Releases Secure by Demand Guidance](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance)|Visit link for details.|Aug 06, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5749-1 flatpak - security update](https://www.linux.org/threads/dsa-5749-1-flatpak-security-update.51349/)|Visit link for details.|Aug 15, 2024|
+ |[USN-6961-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6961-1-busybox-vulnerabilities.51348/)|Visit link for details.|Aug 14, 2024|
+ |[USN-6951-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6951-2-linux-kernel-azure-vulnerabilities.51346/)|Visit link for details.|Aug 14, 2024|
+ |[USN-6960-1: RMagick vulnerability](https://www.linux.org/threads/usn-6960-1-rmagick-vulnerability.51345/)|Visit link for details.|Aug 14, 2024|
+ |[DSA-5748-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5748-1-ffmpeg-security-update.51343/)|Visit link for details.|Aug 14, 2024|
+ |[DSA-5743-2 roundcube - security update](https://www.linux.org/threads/dsa-5743-2-roundcube-security-update.51333/)|Visit link for details.|Aug 14, 2024|
+ |[USN-6959-1: .NET vulnerability](https://www.linux.org/threads/usn-6959-1-net-vulnerability.51330/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6949-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-2-linux-kernel-vulnerabilities.51329/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6958-1: Libcroco vulnerabilities](https://www.linux.org/threads/usn-6958-1-libcroco-vulnerabilities.51326/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6950-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6950-3-linux-kernel-oracle-vulnerabilities.51325/)|Visit link for details.|Aug 13, 2024|
+ |[USN-6954-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6954-1-qemu-vulnerabilities.51324/)|Visit link for details.|Aug 13, 2024|
+ 
+
 # CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -67,57 +90,17 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 10 Jul 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5749-1 flatpak - security update](https://www.linux.org/threads/dsa-5749-1-flatpak-security-update.51349/)|Visit link for details.|Aug 15, 2024|
- |[USN-6961-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6961-1-busybox-vulnerabilities.51348/)|Visit link for details.|Aug 14, 2024|
- |[USN-6951-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6951-2-linux-kernel-azure-vulnerabilities.51346/)|Visit link for details.|Aug 14, 2024|
- |[USN-6960-1: RMagick vulnerability](https://www.linux.org/threads/usn-6960-1-rmagick-vulnerability.51345/)|Visit link for details.|Aug 14, 2024|
- |[DSA-5748-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5748-1-ffmpeg-security-update.51343/)|Visit link for details.|Aug 14, 2024|
- |[DSA-5743-2 roundcube - security update](https://www.linux.org/threads/dsa-5743-2-roundcube-security-update.51333/)|Visit link for details.|Aug 14, 2024|
- |[USN-6959-1: .NET vulnerability](https://www.linux.org/threads/usn-6959-1-net-vulnerability.51330/)|Visit link for details.|Aug 13, 2024|
- |[USN-6949-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6949-2-linux-kernel-vulnerabilities.51329/)|Visit link for details.|Aug 13, 2024|
- |[USN-6958-1: Libcroco vulnerabilities](https://www.linux.org/threads/usn-6958-1-libcroco-vulnerabilities.51326/)|Visit link for details.|Aug 13, 2024|
- |[USN-6950-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6950-3-linux-kernel-oracle-vulnerabilities.51325/)|Visit link for details.|Aug 13, 2024|
- |[USN-6954-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6954-1-qemu-vulnerabilities.51324/)|Visit link for details.|Aug 13, 2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Intel Processors privilege escalation (CVE-2024-24853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel BMRA privilege escalation (CVE-2024-21787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel OpenBMC Firmware information disclosure (CVE-2023-49144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Xeon Processor denial of service (CVE-2024-22374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel TDX Module denial of service (CVE-2024-21801)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
  |[Intel oneAPI Compiler Software privilege escalation (CVE-2024-21857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
  |[Intel VROC privilege escalation (CVE-2024-23489)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel GPA VTune and oneAPI privilege escalation (CVE-2024-28953)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel Simics Package Manager (CVE-2024-26027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel Distribution for GDB Software denial of service (CVE-2024-24973)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel Distribution for GDB Software privilege escalation (CVE-2024-23491)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel Distribution for GDB Software denial of service (CVE-2024-25562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
- |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
- |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
- |[Adobe security advisory (AV24-457)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-457)|Visit link for details|2024-08-13|
- |[Ivanti security advisory (AV24-456)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-456)|Visit link for details|2024-08-13|
- |[[Control systems] Schneider Electric security advisory (AV24-455)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-455)|Visit link for details|2024-08-13|
- |[SAP security advisory – August 2024 monthly rollup (AV24-454)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2024-monthly-rollup-av24-454)|Visit link for details|2024-08-13|
- |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
- |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
- |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
- |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
  
 
 # EU-CERT
@@ -166,6 +149,23 @@
  |[ 48691508/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-14)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 15 août 2024|
  |[ 48731508/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-aout-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques dans les  systèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer…| 15 août 2024|
  |[ 48721508/24 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-aout-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 15 août 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Palo Alto Networks security advisory (AV24-461)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-461)|Visit link for details|2024-08-15|
+ |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
+ |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
+ |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
+ |[Adobe security advisory (AV24-457)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-457)|Visit link for details|2024-08-13|
+ |[Ivanti security advisory (AV24-456)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-456)|Visit link for details|2024-08-13|
+ |[[Control systems] Schneider Electric security advisory (AV24-455)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-455)|Visit link for details|2024-08-13|
+ |[SAP security advisory – August 2024 monthly rollup (AV24-454)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2024-monthly-rollup-av24-454)|Visit link for details|2024-08-13|
+ |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
+ |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
+ |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
  
 
 # CERT-SANTE
