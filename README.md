@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/08/2024 03:18:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/08/2024 07:28:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6961-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6961-1-busybox-vulnerabilities.51348/)|Visit link for details.|Aug 14, 2024|
  |[USN-6951-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6951-2-linux-kernel-azure-vulnerabilities.51346/)|Visit link for details.|Aug 14, 2024|
  |[USN-6960-1: RMagick vulnerability](https://www.linux.org/threads/usn-6960-1-rmagick-vulnerability.51345/)|Visit link for details.|Aug 14, 2024|
  |[DSA-5748-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5748-1-ffmpeg-security-update.51343/)|Visit link for details.|Aug 14, 2024|
@@ -59,19 +60,13 @@
  |[USN-6950-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6950-3-linux-kernel-oracle-vulnerabilities.51325/)|Visit link for details.|Aug 13, 2024|
  |[USN-6954-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6954-1-qemu-vulnerabilities.51324/)|Visit link for details.|Aug 13, 2024|
  |[USN-6950-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6950-2-linux-kernel-vulnerabilities.51322/)|Visit link for details.|Aug 13, 2024|
- |[USN-6957-1: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6957-1-linux-kernel-oracle-vulnerabilities.51321/)|Visit link for details.|Aug 13, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. [Updated on 2024-08...| Release Date: 2 Aug 2024 |
  |[Adobe Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Illustrator Medium RiskRemote Code ExecutionDenial of ServiceInformation Disclosure APSB24-45Adobe Dimension Medium...|Release Date: 14 Aug 2024 |
  |[Microsoft Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesMariner Medium RiskSecurity Restriction BypassRemote Code Execution Windows Extremely High RiskSecurity Restriction BypassInformation DisclosureRemote Code Execution...|Release Date: 14 Aug 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 6 Aug 2024 |
@@ -81,7 +76,12 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:Exploit in the wild...| Release Date: 6 Aug 2024 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240729)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-36971. The vulnerability potentially...| Release Date: 29 Jul 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 10 Jul 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20240702)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:Exploit in the wild has been detected for CVE...| Release Date: 2 Jul 2024 |
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
