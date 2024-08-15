@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/08/2024 09:22:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/08/2024 10:18:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 06, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,23 +62,10 @@
  |[USN-6954-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6954-1-qemu-vulnerabilities.51324/)|Visit link for details.|Aug 13, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-21806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-21807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel Ethernet Controllers and Adapters denial of service (CVE-2024-23499)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-24986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-23981)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-21769)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-23497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
  
 
 # HK-CERT
@@ -103,6 +84,25 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240710)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 10 Jul 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-21806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-21807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters denial of service (CVE-2024-23499)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-24986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-23981)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-21769)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Intel Ethernet Controllers and Adapters privilege escalation (CVE-2024-23497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -115,23 +115,6 @@
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1117/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1116/)|Visit link for details|2024-08-08|
  |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1115/)|Visit link for details|2024-08-08|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48671308/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android y compris une vulnérabilité de type "zero-day" (CVE-2024-36971). L'exploitation…| 13 août 2024|
- |[ 48661308/24 - Vulnérabilité dans MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-2)| Une vulnérabilité a été corrigée dans MongoDB. Une exploitation de cette faille pourrait permettre à un attaquant de provoquer une élévation de privilèges.| 13 août 2024|
- |[ 48651208/24 - Plusieurs vulnérabilités affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/plusieurs-vulnerabilites-affectant-roundcube-webmail)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Roundcube Webmail.  L'exploitation de ces vulnérabilités peut permettre à un attaquant  distant d’injecter du code…| 12 août 2024|
- |[ 48641208/24 - Vulnérabilité critique dans les produits AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-amd)| AMD a annoncé la découverte d’une vulnérabilité critique nommée « SinkClose » qui affecte plusieurs générations de processeurs EPYC, Ryzen et Threadripper. La vulnérabilité permet à un attaquant…| 12 août 2024|
- |[ 48631208/24 - Vulnérabilités critiques affectant Django ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-django)| Django vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant son Framework Django. L’exploitation de ces vulnérabilités peut permettre à  un…| 12 août 2024|
- |[ 48621208/24 - Vulnérabilités critiques dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-apache-ofbiz)| La Fondation Apache Software a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-32113 et CVE-2024-38856) dans Apache OFBiz.  Les deux failles sont activement…| 12 août 2024|
- |[ 48611208/24 - Vulnérabilité dans les produits PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-postgresql)| Une vulnérabilité a été corrigée dans les versions susmentionnées de PostgreSQL. Une exploitation réussie de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.| 12 août 2024|
- |[ 48600908/24 - Vulnérabilités dans Microsoft Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows)| Deux vulnérabilités ont été découvertes dans les versions susmentionnées de Microsoft Windows. L’exploitation de ces failles peut permettre à un attaquant d’obtenir les privilèges « SYSTEM ».…| 09 août 2024|
- |[ 4860908/24 - Vulnérabilités affectant le Module «Opigno» pour CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-module-opigno-pour-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige plusieurs vulnérabilités au    niveau  du module «Opigno». L’exploitation de ces vulnérabilités peut permettre à un…| 09 août 2024|
- |[ 48590808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-10)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et d’exécuter du code…| 08 août 2024|
- |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
  
 
 # EU-CERT
@@ -151,21 +134,21 @@
  |[2024-070: Critical Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-070/)|On July 17, 2024, Cisco issued several security advisories addressing critical and high severity vulnerabilities in its products. It is strongly recommended applying update on affected devices as soon as possible, prioritising internet facing and business critical devices.|Thursday, July 18, 2024 06:09:28 PM CEST|
  
 
-# CERT-SANTE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
- |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
- |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38477](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38477-2024-07-04)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|14/08/2024|
- |[Apache - CVE-2024-38474](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-38474-2024-07-08)|Visit link for details.|14/08/2024|
- |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|13/08/2024|
- |[D-Link - CVE-2024-7715](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7715-2024-08-13)|Visit link for details.|13/08/2024|
- |[Cisco - CVE-2024-20454](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20454-2024-08-13)|Visit link for details.|13/08/2024|
- |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|13/08/2024|
+ |[ 48671308/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android y compris une vulnérabilité de type "zero-day" (CVE-2024-36971). L'exploitation…| 13 août 2024|
+ |[ 48661308/24 - Vulnérabilité dans MongoDB ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-2)| Une vulnérabilité a été corrigée dans MongoDB. Une exploitation de cette faille pourrait permettre à un attaquant de provoquer une élévation de privilèges.| 13 août 2024|
+ |[ 48651208/24 - Plusieurs vulnérabilités affectant Roundcube Webmail ](https://www.dgssi.gov.ma/fr/bulletins/plusieurs-vulnerabilites-affectant-roundcube-webmail)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Roundcube Webmail.  L'exploitation de ces vulnérabilités peut permettre à un attaquant  distant d’injecter du code…| 12 août 2024|
+ |[ 48641208/24 - Vulnérabilité critique dans les produits AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-amd)| AMD a annoncé la découverte d’une vulnérabilité critique nommée « SinkClose » qui affecte plusieurs générations de processeurs EPYC, Ryzen et Threadripper. La vulnérabilité permet à un attaquant…| 12 août 2024|
+ |[ 48631208/24 - Vulnérabilités critiques affectant Django ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-django)| Django vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant son Framework Django. L’exploitation de ces vulnérabilités peut permettre à  un…| 12 août 2024|
+ |[ 48621208/24 - Vulnérabilités critiques dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-apache-ofbiz)| La Fondation Apache Software a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-32113 et CVE-2024-38856) dans Apache OFBiz.  Les deux failles sont activement…| 12 août 2024|
+ |[ 48611208/24 - Vulnérabilité dans les produits PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-postgresql)| Une vulnérabilité a été corrigée dans les versions susmentionnées de PostgreSQL. Une exploitation réussie de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.| 12 août 2024|
+ |[ 48600908/24 - Vulnérabilités dans Microsoft Windows ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows)| Deux vulnérabilités ont été découvertes dans les versions susmentionnées de Microsoft Windows. L’exploitation de ces failles peut permettre à un attaquant d’obtenir les privilèges « SYSTEM ».…| 09 août 2024|
+ |[ 4860908/24 - Vulnérabilités affectant le Module «Opigno» pour CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-module-opigno-pour-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige plusieurs vulnérabilités au    niveau  du module «Opigno». L’exploitation de ces vulnérabilités peut permettre à un…| 09 août 2024|
+ |[ 48590808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-10)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et d’exécuter du code…| 08 août 2024|
+ |[ 48580808/24 - Vulnérabilité dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-nvidia)| Une vulnérabilité a été corrigée dans les produits NVIDIA susmentionnés. Une exploitation réussie de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges et de…| 08 août 2024|
  
 
 # CA-CCS
@@ -183,4 +166,21 @@
  |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
  |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
  |[Dell security advisory (AV24-450)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-450)|Visit link for details|2024-08-12|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|14/08/2024|
+ |[Apache HTTP - CVE-2024-38477](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38477-2024-07-04)|Visit link for details.|14/08/2024|
+ |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|14/08/2024|
+ |[Apache - CVE-2024-38474](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-38474-2024-07-08)|Visit link for details.|14/08/2024|
+ |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|13/08/2024|
+ |[D-Link - CVE-2024-7715](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7715-2024-08-13)|Visit link for details.|13/08/2024|
+ |[Cisco - CVE-2024-20454](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20454-2024-08-13)|Visit link for details.|13/08/2024|
+ |[Ivanti - CVE-2023-38043](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2023-38043-2023-11-14)|Visit link for details.|13/08/2024|
  
