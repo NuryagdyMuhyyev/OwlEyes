@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/08/2024 19:17:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/08/2024 20:19:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6909-3: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-3-bind-vulnerabilities.51354/)|Visit link for details.|Aug 16, 2024|
- |[USN-6964-1: ORC vulnerability](https://www.linux.org/threads/usn-6964-1-orc-vulnerability.51353/)|Visit link for details.|Aug 16, 2024|
- |[USN-6963-1: GNOME Shell vulnerability](https://www.linux.org/threads/usn-6963-1-gnome-shell-vulnerability.51351/)|Visit link for details.|Aug 15, 2024|
- |[USN-6962-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6962-1-libreoffice-vulnerability.51350/)|Visit link for details.|Aug 15, 2024|
- |[DSA-5749-1 flatpak - security update](https://www.linux.org/threads/dsa-5749-1-flatpak-security-update.51349/)|Visit link for details.|Aug 15, 2024|
- |[USN-6961-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6961-1-busybox-vulnerabilities.51348/)|Visit link for details.|Aug 14, 2024|
- |[USN-6951-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6951-2-linux-kernel-azure-vulnerabilities.51346/)|Visit link for details.|Aug 14, 2024|
- |[USN-6960-1: RMagick vulnerability](https://www.linux.org/threads/usn-6960-1-rmagick-vulnerability.51345/)|Visit link for details.|Aug 14, 2024|
- |[DSA-5748-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5748-1-ffmpeg-security-update.51343/)|Visit link for details.|Aug 14, 2024|
- |[DSA-5743-2 roundcube - security update](https://www.linux.org/threads/dsa-5743-2-roundcube-security-update.51333/)|Visit link for details.|Aug 14, 2024|
- |[USN-6959-1: .NET vulnerability](https://www.linux.org/threads/usn-6959-1-net-vulnerability.51330/)|Visit link for details.|Aug 13, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,10 +45,21 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 07, 2024|
  
 
-# OBS-Vigilance
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6909-3: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-3-bind-vulnerabilities.51354/)|Visit link for details.|Aug 16, 2024|
+ |[USN-6964-1: ORC vulnerability](https://www.linux.org/threads/usn-6964-1-orc-vulnerability.51353/)|Visit link for details.|Aug 16, 2024|
+ |[USN-6963-1: GNOME Shell vulnerability](https://www.linux.org/threads/usn-6963-1-gnome-shell-vulnerability.51351/)|Visit link for details.|Aug 15, 2024|
+ |[USN-6962-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6962-1-libreoffice-vulnerability.51350/)|Visit link for details.|Aug 15, 2024|
+ |[DSA-5749-1 flatpak - security update](https://www.linux.org/threads/dsa-5749-1-flatpak-security-update.51349/)|Visit link for details.|Aug 15, 2024|
+ |[USN-6961-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6961-1-busybox-vulnerabilities.51348/)|Visit link for details.|Aug 14, 2024|
+ |[USN-6951-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6951-2-linux-kernel-azure-vulnerabilities.51346/)|Visit link for details.|Aug 14, 2024|
+ |[USN-6960-1: RMagick vulnerability](https://www.linux.org/threads/usn-6960-1-rmagick-vulnerability.51345/)|Visit link for details.|Aug 14, 2024|
+ |[DSA-5748-1 ffmpeg - security update](https://www.linux.org/threads/dsa-5748-1-ffmpeg-security-update.51343/)|Visit link for details.|Aug 14, 2024|
+ |[DSA-5743-2 roundcube - security update](https://www.linux.org/threads/dsa-5743-2-roundcube-security-update.51333/)|Visit link for details.|Aug 14, 2024|
+ |[USN-6959-1: .NET vulnerability](https://www.linux.org/threads/usn-6959-1-net-vulnerability.51330/)|Visit link for details.|Aug 13, 2024|
  
 
 # CERT-FR
@@ -116,6 +110,12 @@
  |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -131,23 +131,6 @@
  |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
  |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
  |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto Networks security advisory (AV24-461)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-461)|Visit link for details|2024-08-15|
- |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
- |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
- |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
- |[Adobe security advisory (AV24-457)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-457)|Visit link for details|2024-08-13|
- |[Ivanti security advisory (AV24-456)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-456)|Visit link for details|2024-08-13|
- |[[Control systems] Schneider Electric security advisory (AV24-455)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-455)|Visit link for details|2024-08-13|
- |[SAP security advisory – August 2024 monthly rollup (AV24-454)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2024-monthly-rollup-av24-454)|Visit link for details|2024-08-13|
- |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
- |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
- |[IBM security advisory (AV24-451)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-451)|Visit link for details|2024-08-12|
  
 
 # MA-CERT
@@ -171,15 +154,32 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SolarWinds - CVE-2024-29886](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29886-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Microsoft - CVE-2024-38178](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38178-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
  |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
  |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
  |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
  |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
  |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
  |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38477](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38477-2024-07-04)|Visit link for details.|14/08/2024|
  |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|14/08/2024|
  |[Apache - CVE-2024-38474](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-38474-2024-07-08)|Visit link for details.|14/08/2024|
- |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|13/08/2024|
- |[D-Link - CVE-2024-7715](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7715-2024-08-13)|Visit link for details.|13/08/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-462)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-462)|Visit link for details|2024-08-16|
+ |[Palo Alto Networks security advisory (AV24-461)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-461)|Visit link for details|2024-08-15|
+ |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
+ |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
+ |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
+ |[Adobe security advisory (AV24-457)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-457)|Visit link for details|2024-08-13|
+ |[Ivanti security advisory (AV24-456)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-456)|Visit link for details|2024-08-13|
+ |[[Control systems] Schneider Electric security advisory (AV24-455)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-455)|Visit link for details|2024-08-13|
+ |[SAP security advisory – August 2024 monthly rollup (AV24-454)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2024-monthly-rollup-av24-454)|Visit link for details|2024-08-13|
+ |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
+ |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
  
