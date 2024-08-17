@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/08/2024 07:35:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/08/2024 08:20:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 07, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,12 +74,6 @@
  |---|---|---|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -87,19 +87,6 @@
  |[Adobe Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Illustrator Medium RiskRemote Code ExecutionDenial of ServiceInformation Disclosure APSB24-45Adobe Dimension Medium...|Release Date: 14 Aug 2024 |
  |[Microsoft Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesMariner Medium RiskSecurity Restriction BypassRemote Code Execution Windows Extremely High RiskSecurity Restriction BypassInformation DisclosureRemote Code Execution...|Release Date: 14 Aug 2024 |
  |[IBM WebSphere Liberty Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-liberty-multiple-vulnerabilities_20240813)|Multiple vulnerabilities were identified in IBM WebSphere Liberty. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Aug 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link cgi_move_photo buffer overflow (CVE-2024-7830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
- |[D-Link cgi_del_photo buffer overflow (CVE-2024-7829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
- |[D-Link cgi_get_cooliris buffer overflow (CVE-2024-7831)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
- |[Foxit PDF Reader code execution (CVE-2024-7723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
- |[AVEVA Historian Server SQL Injection (CVE-2024-6456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
- |[D-Link cgi_get_fullscreen_photos buffer overflow (CVE-2024-7832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[F5 BIG-IP information disclosure (CVE-2024-41723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
  
 
 # EU-CERT
@@ -119,18 +106,17 @@
  |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
- |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
- |[Microsoft Windows 10 WinREUpdateInstaller DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1146/)|Visit link for details|2024-08-13|
- |[Microsoft Office Visio VSDX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1145/)|Visit link for details|2024-08-13|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
+ |[D-Link cgi_move_photo buffer overflow (CVE-2024-7830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
+ |[D-Link cgi_del_photo buffer overflow (CVE-2024-7829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
+ |[D-Link cgi_get_cooliris buffer overflow (CVE-2024-7831)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
+ |[Foxit PDF Reader code execution (CVE-2024-7723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
+ |[AVEVA Historian Server SQL Injection (CVE-2024-6456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
+ |[D-Link cgi_get_fullscreen_photos buffer overflow (CVE-2024-7832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[F5 BIG-IP information disclosure (CVE-2024-41723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
  
 
 # MA-CERT
@@ -165,6 +151,20 @@
  |[SAP security advisory – August 2024 monthly rollup (AV24-454)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2024-monthly-rollup-av24-454)|Visit link for details|2024-08-13|
  |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
  |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
+ |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
+ |[Microsoft Windows 10 WinREUpdateInstaller DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1146/)|Visit link for details|2024-08-13|
+ |[Microsoft Office Visio VSDX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1145/)|Visit link for details|2024-08-13|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
  
 
 # CERT-SANTE
