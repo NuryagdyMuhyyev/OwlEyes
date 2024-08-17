@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/08/2024 08:20:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/08/2024 09:24:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 07, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,7 +62,7 @@
  |[USN-6959-1: .NET vulnerability](https://www.linux.org/threads/usn-6959-1-net-vulnerability.51330/)|Visit link for details.|Aug 13, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -89,21 +83,10 @@
  |[IBM WebSphere Liberty Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-liberty-multiple-vulnerabilities_20240813)|Multiple vulnerabilities were identified in IBM WebSphere Liberty. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Aug 2024 |
  
 
-# EU-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
- |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
- |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
- |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
- |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
- |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
- |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
- |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
- |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
- |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
- |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -119,21 +102,35 @@
  |[F5 BIG-IP information disclosure (CVE-2024-41723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 48831608/24 - Vulnérabilités dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-f5-1)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la…| 16 août 2024|
- |[ 48821608/24 - Vulnérabilités dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zoom)| Zoom a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dans ses produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la…| 16 août 2024|
- |[ 48811608/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-0)| Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter des…| 16 août 2024|
- |[ 48801508/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées d’Intel. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, de…| 15 août 2024|
- |[ 48791508/24 - Vulnérabilité critique dans Ivanti virtual Traffic Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-virtual-traffic-manager)| Ivanti a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-7593) dans son gestionnaire de trafic virtuel. L'exploitation réussie de la vulnérabilité peut permettre à un attaquant…| 15 août 2024|
- |[ 48781508/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28986) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité de désérialisation…| 15 août 2024|
- |[ 48771508/24 - Vulnérabilités critiques dans vulnérabilités dans Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vulnerabilites-dans-zabbix)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zabbix susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, porter atteinte…| 15 août 2024|
- |[ 48701508/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-9)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 15 août 2024|
- |[ 48761508/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire,…| 15 août 2024|
- |[ 48751508/24 - Vulnérabilités dans Microsoft .Net (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-net-patch-tuesday-aout-2024)| Microsoft annonce la correction de deux vulnérabilités affectant les produits Microsoft .Net. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service et de…| 15 août 2024|
- |[ 48741508/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-aout-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code…| 15 août 2024|
+ |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
+ |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
+ |[Microsoft Windows 10 WinREUpdateInstaller DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1146/)|Visit link for details|2024-08-13|
+ |[Microsoft Office Visio VSDX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1145/)|Visit link for details|2024-08-13|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
+ |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
+ |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
+ |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
+ |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
+ |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
+ |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
+ |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
+ |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
+ |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
+ |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
  
 
 # CA-CCS
@@ -153,18 +150,21 @@
  |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
- |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
- |[Microsoft Windows 10 WinREUpdateInstaller DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1146/)|Visit link for details|2024-08-13|
- |[Microsoft Office Visio VSDX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1145/)|Visit link for details|2024-08-13|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
+ |[ 48831608/24 - Vulnérabilités dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-f5-1)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la…| 16 août 2024|
+ |[ 48821608/24 - Vulnérabilités dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zoom)| Zoom a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dans ses produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la…| 16 août 2024|
+ |[ 48811608/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-0)| Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter des…| 16 août 2024|
+ |[ 48801508/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées d’Intel. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, de…| 15 août 2024|
+ |[ 48791508/24 - Vulnérabilité critique dans Ivanti virtual Traffic Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-virtual-traffic-manager)| Ivanti a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-7593) dans son gestionnaire de trafic virtuel. L'exploitation réussie de la vulnérabilité peut permettre à un attaquant…| 15 août 2024|
+ |[ 48781508/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28986) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité de désérialisation…| 15 août 2024|
+ |[ 48771508/24 - Vulnérabilités critiques dans vulnérabilités dans Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vulnerabilites-dans-zabbix)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zabbix susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, porter atteinte…| 15 août 2024|
+ |[ 48701508/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-9)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 15 août 2024|
+ |[ 48761508/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire,…| 15 août 2024|
+ |[ 48751508/24 - Vulnérabilités dans Microsoft .Net (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-net-patch-tuesday-aout-2024)| Microsoft annonce la correction de deux vulnérabilités affectant les produits Microsoft .Net. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service et de…| 15 août 2024|
+ |[ 48741508/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-aout-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code…| 15 août 2024|
  
 
 # CERT-SANTE
