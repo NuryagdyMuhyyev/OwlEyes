@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/08/2024 02:16:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/08/2024 03:18:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
- |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
- |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
- |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
- |[Best Practices for Cisco Device Configuration](https://www.cisa.gov/news-events/alerts/2024/08/08/best-practices-cisco-device-configuration)|Visit link for details.|Aug 08, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/08/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 08, 2024|
- |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 07, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,16 +46,39 @@
  |[DSA-5743-2 roundcube - security update](https://www.linux.org/threads/dsa-5743-2-roundcube-security-update.51333/)|Visit link for details.|Aug 14, 2024|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
+ |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
+ |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
+ |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
+ |[Best Practices for Cisco Device Configuration](https://www.cisa.gov/news-events/alerts/2024/08/08/best-practices-cisco-device-configuration)|Visit link for details.|Aug 08, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/08/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 08, 2024|
+ |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 07, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link cgi_move_photo buffer overflow (CVE-2024-7830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
+ |[D-Link cgi_del_photo buffer overflow (CVE-2024-7829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
+ |[D-Link cgi_get_cooliris buffer overflow (CVE-2024-7831)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
+ |[Foxit PDF Reader code execution (CVE-2024-7723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
+ |[AVEVA Historian Server SQL Injection (CVE-2024-6456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
+ |[D-Link cgi_get_fullscreen_photos buffer overflow (CVE-2024-7832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[F5 BIG-IP information disclosure (CVE-2024-41723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
  
 
 # HK-CERT
@@ -89,17 +96,24 @@
  |[IBM WebSphere Liberty Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-liberty-multiple-vulnerabilities_20240813)|Multiple vulnerabilities were identified in IBM WebSphere Liberty. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Aug 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link cgi_move_photo buffer overflow (CVE-2024-7830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
- |[D-Link cgi_del_photo buffer overflow (CVE-2024-7829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
- |[D-Link cgi_get_cooliris buffer overflow (CVE-2024-7831)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
- |[Foxit PDF Reader code execution (CVE-2024-7723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
- |[AVEVA Historian Server SQL Injection (CVE-2024-6456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2024|
- |[D-Link cgi_get_fullscreen_photos buffer overflow (CVE-2024-7832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
- |[F5 BIG-IP information disclosure (CVE-2024-41723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 14, 2024|
+ |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
+ |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
+ |[Microsoft Windows 10 WinREUpdateInstaller DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1146/)|Visit link for details|2024-08-13|
+ |[Microsoft Office Visio VSDX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1145/)|Visit link for details|2024-08-13|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -119,37 +133,6 @@
  |[2024-072: Vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2024-072/)|On July 17, 2024, Ivanti released a security advisory addressing several vulnerabilities in its EPMM solution (formerly known as MobileIron). These vulnerabilities could lead to remote code execution, authentication bypass, and sensitive information leakage.|Monday, July 22, 2024 10:34:56 AM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2024-29886](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29886-2024-08-16)|Visit link for details.|16/08/2024|
- |[Microsoft - CVE-2024-38178](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38178-2024-08-16)|Visit link for details.|16/08/2024|
- |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
- |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
- |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
- |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
- |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
- |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|14/08/2024|
- |[Apache - CVE-2024-38474](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-38474-2024-07-08)|Visit link for details.|14/08/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
- |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
- |[Microsoft Windows 10 WinREUpdateInstaller DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1146/)|Visit link for details|2024-08-13|
- |[Microsoft Office Visio VSDX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1145/)|Visit link for details|2024-08-13|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -165,6 +148,23 @@
  |[ 48761508/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire,…| 15 août 2024|
  |[ 48751508/24 - Vulnérabilités dans Microsoft .Net (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-net-patch-tuesday-aout-2024)| Microsoft annonce la correction de deux vulnérabilités affectant les produits Microsoft .Net. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service et de…| 15 août 2024|
  |[ 48741508/24 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Août 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-aout-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code…| 15 août 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2024-29886](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29886-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Microsoft - CVE-2024-38178](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38178-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
+ |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
+ |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|14/08/2024|
+ |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|14/08/2024|
+ |[Apache - CVE-2024-38474](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-38474-2024-07-08)|Visit link for details.|14/08/2024|
  
 
 # CA-CCS
