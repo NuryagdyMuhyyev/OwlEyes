@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/08/2024 17:37:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/08/2024 18:22:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 07, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -64,6 +58,12 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. [Updated on 2024-08...| Release Date: 2 Aug 2024 |
  |[Adobe Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Illustrator Medium RiskRemote Code ExecutionDenial of ServiceInformation Disclosure APSB24-45Adobe Dimension Medium...|Release Date: 14 Aug 2024 |
  |[Microsoft Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesMariner Medium RiskSecurity Restriction BypassRemote Code Execution Windows Extremely High RiskSecurity Restriction BypassInformation DisclosureRemote Code Execution...|Release Date: 14 Aug 2024 |
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # LINUX-SEC
@@ -81,12 +81,6 @@
  |[USN-6961-1: BusyBox vulnerabilities](https://www.linux.org/threads/usn-6961-1-busybox-vulnerabilities.51348/)|Visit link for details.|Aug 14, 2024|
  |[USN-6951-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6951-2-linux-kernel-azure-vulnerabilities.51346/)|Visit link for details.|Aug 14, 2024|
  |[USN-6960-1: RMagick vulnerability](https://www.linux.org/threads/usn-6960-1-rmagick-vulnerability.51345/)|Visit link for details.|Aug 14, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -116,6 +110,12 @@
  |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -131,6 +131,23 @@
  |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
  |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
  |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2024-29886](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29886-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Microsoft - CVE-2024-38178](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38178-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
+ |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
+ |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|14/08/2024|
+ |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|14/08/2024|
+ |[Apache - CVE-2024-38474](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-38474-2024-07-08)|Visit link for details.|14/08/2024|
  
 
 # MA-CERT
@@ -165,21 +182,4 @@
  |[SAP security advisory – August 2024 monthly rollup (AV24-454)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2024-monthly-rollup-av24-454)|Visit link for details|2024-08-13|
  |[[Control systems] CISA ICS security advisories (AV24-453)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-453)|Visit link for details|2024-08-12|
  |[Red Hat security advisory (AV24-452)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-452)|Visit link for details|2024-08-12|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2024-29886](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29886-2024-08-16)|Visit link for details.|16/08/2024|
- |[Microsoft - CVE-2024-38178](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38178-2024-08-16)|Visit link for details.|16/08/2024|
- |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
- |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
- |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
- |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
- |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
- |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38476](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38476-2024-07-03)|Visit link for details.|14/08/2024|
- |[Apache HTTP - CVE-2024-38475](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38475-2024-07-03)|Visit link for details.|14/08/2024|
- |[Apache - CVE-2024-38474](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-38474-2024-07-08)|Visit link for details.|14/08/2024|
  
