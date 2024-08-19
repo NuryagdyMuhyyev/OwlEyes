@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/08/2024 02:20:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/08/2024 03:19:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5751-1 squid - security update](https://www.linux.org/threads/dsa-5751-1-squid-security-update.51393/)|Visit link for details.|Aug 19, 2024|
- |[USN-6951-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6951-3-linux-kernel-azure-vulnerabilities.51391/)|Visit link for details.|Aug 19, 2024|
- |[USN-6968-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6968-1-postgresql-vulnerability.51390/)|Visit link for details.|Aug 19, 2024|
- |[USN-6966-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6966-1-firefox-vulnerabilities.51388/)|Visit link for details.|Aug 19, 2024|
- |[USN-6837-2: Rack vulnerabilities](https://www.linux.org/threads/usn-6837-2-rack-vulnerabilities.51384/)|Visit link for details.|Aug 19, 2024|
- |[DSA-5750-1 python-asyncssh - security update](https://www.linux.org/threads/dsa-5750-1-python-asyncssh-security-update.51381/)|Visit link for details.|Aug 18, 2024|
- |[USN-6909-3: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-3-bind-vulnerabilities.51354/)|Visit link for details.|Aug 16, 2024|
- |[USN-6964-1: ORC vulnerability](https://www.linux.org/threads/usn-6964-1-orc-vulnerability.51353/)|Visit link for details.|Aug 16, 2024|
- |[USN-6963-1: GNOME Shell vulnerability](https://www.linux.org/threads/usn-6963-1-gnome-shell-vulnerability.51351/)|Visit link for details.|Aug 15, 2024|
- |[USN-6962-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6962-1-libreoffice-vulnerability.51350/)|Visit link for details.|Aug 15, 2024|
- |[DSA-5749-1 flatpak - security update](https://www.linux.org/threads/dsa-5749-1-flatpak-security-update.51349/)|Visit link for details.|Aug 15, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -81,6 +64,23 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. [Updated on 2024-08...| Release Date: 2 Aug 2024 |
  |[Adobe Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Illustrator Medium RiskRemote Code ExecutionDenial of ServiceInformation Disclosure APSB24-45Adobe Dimension Medium...|Release Date: 14 Aug 2024 |
  |[Microsoft Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesMariner Medium RiskSecurity Restriction BypassRemote Code Execution Windows Extremely High RiskSecurity Restriction BypassInformation DisclosureRemote Code Execution...|Release Date: 14 Aug 2024 |
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5751-1 squid - security update](https://www.linux.org/threads/dsa-5751-1-squid-security-update.51393/)|Visit link for details.|Aug 19, 2024|
+ |[USN-6951-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6951-3-linux-kernel-azure-vulnerabilities.51391/)|Visit link for details.|Aug 19, 2024|
+ |[USN-6968-1: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6968-1-postgresql-vulnerability.51390/)|Visit link for details.|Aug 19, 2024|
+ |[USN-6966-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6966-1-firefox-vulnerabilities.51388/)|Visit link for details.|Aug 19, 2024|
+ |[USN-6837-2: Rack vulnerabilities](https://www.linux.org/threads/usn-6837-2-rack-vulnerabilities.51384/)|Visit link for details.|Aug 19, 2024|
+ |[DSA-5750-1 python-asyncssh - security update](https://www.linux.org/threads/dsa-5750-1-python-asyncssh-security-update.51381/)|Visit link for details.|Aug 18, 2024|
+ |[USN-6909-3: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-3-bind-vulnerabilities.51354/)|Visit link for details.|Aug 16, 2024|
+ |[USN-6964-1: ORC vulnerability](https://www.linux.org/threads/usn-6964-1-orc-vulnerability.51353/)|Visit link for details.|Aug 16, 2024|
+ |[USN-6963-1: GNOME Shell vulnerability](https://www.linux.org/threads/usn-6963-1-gnome-shell-vulnerability.51351/)|Visit link for details.|Aug 15, 2024|
+ |[USN-6962-1: LibreOffice vulnerability](https://www.linux.org/threads/usn-6962-1-libreoffice-vulnerability.51350/)|Visit link for details.|Aug 15, 2024|
+ |[DSA-5749-1 flatpak - security update](https://www.linux.org/threads/dsa-5749-1-flatpak-security-update.51349/)|Visit link for details.|Aug 15, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -116,23 +116,6 @@
  |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2024-38106](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38106-2024-08-19)|Visit link for details.|19/08/2024|
- |[Microsoft - CVE-2024-38063](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38063-2024-08-19)|Visit link for details.|19/08/2024|
- |[Ivanti - CVE-2024-7569](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7569-2024-08-19)|Visit link for details.|19/08/2024|
- |[SolarWinds - CVE-2024-29886](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29886-2024-08-16)|Visit link for details.|16/08/2024|
- |[Microsoft - CVE-2024-38178](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38178-2024-08-16)|Visit link for details.|16/08/2024|
- |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
- |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
- |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
- |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
- |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
- |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -165,6 +148,23 @@
  |[ 48781508/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28986) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité de désérialisation…| 15 août 2024|
  |[ 48771508/24 - Vulnérabilités critiques dans vulnérabilités dans Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vulnerabilites-dans-zabbix)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zabbix susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, porter atteinte…| 15 août 2024|
  |[ 48701508/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-9)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 15 août 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2024-38106](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38106-2024-08-19)|Visit link for details.|19/08/2024|
+ |[Microsoft - CVE-2024-38063](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38063-2024-08-19)|Visit link for details.|19/08/2024|
+ |[Ivanti - CVE-2024-7569](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7569-2024-08-19)|Visit link for details.|19/08/2024|
+ |[SolarWinds - CVE-2024-29886](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29886-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Microsoft - CVE-2024-38178](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38178-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
+ |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
+ |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
  
 
 # CA-CCS
