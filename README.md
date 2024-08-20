@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/08/2024 23:25:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/08/2024 00:15:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
+ |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
+ |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
+ |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
+ |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
+ |[Best Practices for Cisco Device Configuration](https://www.cisa.gov/news-events/alerts/2024/08/08/best-practices-cisco-device-configuration)|Visit link for details.|Aug 08, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/08/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 08, 2024|
+ |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
  
 
 # LINUX-SEC
@@ -52,35 +62,6 @@
  |[USN-6964-1: ORC vulnerability](https://www.linux.org/threads/usn-6964-1-orc-vulnerability.51353/)|Visit link for details.|Aug 16, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft OneNote for macOS security bypass (CVE-2024-41159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
- |[Microsoft Word for macOS security bypass (CVE-2024-41165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
- |[Microsoft PowerPoint for macOS security bypass (CVE-2024-39804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
- |[Microsoft Excel for macOS security bypass (CVE-2024-43106)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
- |[Microsoft Outlook for macOS security bypass (CVE-2024-42220)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
- |[Microsoft Teams (work or school) for macOS security bypass (CVE-2024-41145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
- |[Microsoft Teams (work or school) for macOS security bypass (CVE-2024-42004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
- |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
- |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
- |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
- |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
- |[Best Practices for Cisco Device Configuration](https://www.cisa.gov/news-events/alerts/2024/08/08/best-practices-cisco-device-configuration)|Visit link for details.|Aug 08, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/08/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 08, 2024|
- |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -96,6 +77,31 @@
  |[Adobe Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Illustrator Medium RiskRemote Code ExecutionDenial of ServiceInformation Disclosure APSB24-45Adobe Dimension Medium...|Release Date: 14 Aug 2024 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft OneNote for macOS security bypass (CVE-2024-41159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
+ |[Microsoft Word for macOS security bypass (CVE-2024-41165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
+ |[Microsoft PowerPoint for macOS security bypass (CVE-2024-39804)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
+ |[Microsoft Excel for macOS security bypass (CVE-2024-43106)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
+ |[Microsoft Outlook for macOS security bypass (CVE-2024-42220)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
+ |[Microsoft Teams (work or school) for macOS security bypass (CVE-2024-41145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
+ |[Microsoft Teams (work or school) for macOS security bypass (CVE-2024-42004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -108,12 +114,6 @@
  |[Microsoft Windows 10 WinREUpdateInstaller DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1146/)|Visit link for details|2024-08-13|
  |[Microsoft Office Visio VSDX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1145/)|Visit link for details|2024-08-13|
  |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -131,6 +131,23 @@
  |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
  |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
  |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] CISA ICS security advisories (AV24-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-468)|Visit link for details|2024-08-19|
+ |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
+ |[IBM security advisory (AV24-466)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-466)|Visit link for details|2024-08-19|
+ |[Dell security advisory (AV24-465)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-465)|Visit link for details|2024-08-19|
+ |[Ubuntu security advisory (AV24-464)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-464)|Visit link for details|2024-08-19|
+ |[F5 security advisory (AV24-463)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-463)|Visit link for details|2024-08-19|
+ |[Microsoft Edge security advisory (AV24-462)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-462)|Visit link for details|2024-08-16|
+ |[Palo Alto Networks security advisory (AV24-461)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-461)|Visit link for details|2024-08-15|
+ |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
+ |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
+ |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
  
 
 # CERT-SANTE
@@ -165,21 +182,4 @@
  |[ 48781508/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28986) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité de désérialisation…| 15 août 2024|
  |[ 48771508/24 - Vulnérabilités critiques dans vulnérabilités dans Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vulnerabilites-dans-zabbix)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zabbix susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, porter atteinte…| 15 août 2024|
  |[ 48701508/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-9)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 15 août 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] CISA ICS security advisories (AV24-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-468)|Visit link for details|2024-08-19|
- |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
- |[IBM security advisory (AV24-466)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-466)|Visit link for details|2024-08-19|
- |[Dell security advisory (AV24-465)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-465)|Visit link for details|2024-08-19|
- |[Ubuntu security advisory (AV24-464)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-464)|Visit link for details|2024-08-19|
- |[F5 security advisory (AV24-463)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-463)|Visit link for details|2024-08-19|
- |[Microsoft Edge security advisory (AV24-462)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-462)|Visit link for details|2024-08-16|
- |[Palo Alto Networks security advisory (AV24-461)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-461)|Visit link for details|2024-08-15|
- |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
- |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
- |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
  
