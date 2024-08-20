@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/08/2024 04:20:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/08/2024 06:23:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,7 +46,23 @@
  |[DSA-5749-1 flatpak - security update](https://www.linux.org/threads/dsa-5749-1-flatpak-security-update.51349/)|Visit link for details.|Aug 15, 2024|
  
 
-# OBS-Vigilance
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
+ |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
+ |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
+ |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
+ |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
+ |[Best Practices for Cisco Device Configuration](https://www.cisa.gov/news-events/alerts/2024/08/08/best-practices-cisco-device-configuration)|Visit link for details.|Aug 08, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/08/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 08, 2024|
+ |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -71,6 +81,12 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. [Updated on 2024-08...| Release Date: 2 Aug 2024 |
  |[Adobe Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Illustrator Medium RiskRemote Code ExecutionDenial of ServiceInformation Disclosure APSB24-45Adobe Dimension Medium...|Release Date: 14 Aug 2024 |
  |[Microsoft Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-august-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesMariner Medium RiskSecurity Restriction BypassRemote Code Execution Windows Extremely High RiskSecurity Restriction BypassInformation DisclosureRemote Code Execution...|Release Date: 14 Aug 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -100,23 +116,6 @@
  |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-083: Palo Alto Networks Cortex XSOAR Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 15, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Monday, August 19, 2024 10:41:54 AM CEST|
- |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
- |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
- |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
- |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
- |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
- |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
- |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
- |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
- |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
- |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -132,6 +131,23 @@
  |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
  |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
  |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-083: Palo Alto Networks Cortex XSOAR Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 15, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Monday, August 19, 2024 10:41:54 AM CEST|
+ |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
+ |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
+ |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
+ |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
+ |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
+ |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
+ |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
+ |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
+ |[2024-074: RADIUS Vulnerability Impacts Cisco Products](https://cert.europa.eu/publications/security-advisories/2024-074/)|A critical vulnerability, identified as CVE-2024-3596, has been discovered in the RADIUS (Remote Authentication Dial-In User Service) protocol, allowing for man-in-the-middle (MitM) attacks that bypass authentication mechanisms. Dubbed the Blast-RADIUS attack, this vulnerability leverages an MD5 collision attack to forge authentication responses, potentially granting unauthorised access to network resources.|Monday, July 29, 2024 07:10:46 PM CEST|
+ |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
  
 
 # MA-CERT
@@ -166,20 +182,4 @@
  |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
  |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
  |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
- |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
- |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
- |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
- |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
- |[Best Practices for Cisco Device Configuration](https://www.cisa.gov/news-events/alerts/2024/08/08/best-practices-cisco-device-configuration)|Visit link for details.|Aug 08, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/08/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 08, 2024|
- |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
  
