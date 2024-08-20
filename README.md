@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/08/2024 13:24:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/08/2024 14:21:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,12 @@
  |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -81,12 +87,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...| Release Date: 1 Aug 2024 |
  |[IBM Java SDK Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-java-sdk-multiple-vulnerabilities_20240816)|Multiple vulnerabilities were identified in IBM Java SDK. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 16 Aug 2024 |
  |[Adobe Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Illustrator Medium RiskRemote Code ExecutionDenial of ServiceInformation Disclosure APSB24-45Adobe Dimension Medium...|Release Date: 14 Aug 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -120,7 +120,7 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[2024-083: Palo Alto Networks Cortex XSOAR Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 15, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Monday, August 19, 2024 10:41:54 AM CEST|
+ |[2024-083: Palo Alto Cortex XSOAR CommonScripts Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 14, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Tuesday, August 20, 2024 11:15:07 AM CEST|
  |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
  |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
  |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
@@ -171,4 +171,15 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft - CVE-2024-38106](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38106-2024-08-19)|Visit link for details.|19/08/2024|
+ |[Microsoft - CVE-2024-38063](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38063-2024-08-19)|Visit link for details.|19/08/2024|
+ |[Ivanti - CVE-2024-7569](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7569-2024-08-19)|Visit link for details.|19/08/2024|
+ |[SolarWinds - CVE-2024-29886](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29886-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Microsoft - CVE-2024-38178](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38178-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
+ |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
+ |[Microsoft - CVE-2024-38193](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38193-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38189](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38189-2024-08-14)|Visit link for details.|14/08/2024|
+ |[Microsoft - CVE-2024-38107](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38107-2024-08-14)|Visit link for details.|14/08/2024|
  
