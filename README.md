@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/08/2024 21:23:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/08/2024 22:17:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,12 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
 
 # LINUX-SEC
 
@@ -102,18 +96,10 @@
  |[Microsoft Teams (work or school) for macOS security bypass (CVE-2024-42004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2024|
  
 
-# ZERODAYINITIATIVE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
- |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
- |[Microsoft Windows 10 WinREUpdateInstaller DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1146/)|Visit link for details|2024-08-13|
- |[Microsoft Office Visio VSDX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1145/)|Visit link for details|2024-08-13|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
  
 
 # EU-CERT
@@ -150,21 +136,18 @@
  |[Microsoft security advisory – August 2024 monthly rollup (AV24-458)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2024-monthly-rollup-av24-458)|Visit link for details|2024-08-13|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Zoom - CVE-2024-39825](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-39825-2024-08-20)|Visit link for details.|20/08/2024|
- |[Outlook sur macOS - CVE-2024-42220](https://www.cyberveille-sante.gouv.fr/alertes/outlook-sur-macos-cve-2024-42220-2024-08-20)|Visit link for details.|20/08/2024|
- |[Microsoft - CVE-2024-38199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38199-2024-08-20)|Visit link for details.|20/08/2024|
- |[Microsoft - CVE-2024-38106](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38106-2024-08-19)|Visit link for details.|19/08/2024|
- |[Microsoft - CVE-2024-38063](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38063-2024-08-19)|Visit link for details.|19/08/2024|
- |[Ivanti - CVE-2024-7569](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7569-2024-08-19)|Visit link for details.|19/08/2024|
- |[SolarWinds - CVE-2024-29886](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29886-2024-08-16)|Visit link for details.|16/08/2024|
- |[Microsoft - CVE-2024-38178](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38178-2024-08-16)|Visit link for details.|16/08/2024|
- |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
- |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
- |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
+ |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
+ |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
+ |[Microsoft Windows 10 WinREUpdateInstaller DLL Hijacking Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1146/)|Visit link for details|2024-08-13|
+ |[Microsoft Office Visio VSDX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1145/)|Visit link for details|2024-08-13|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1144/)|Visit link for details|2024-08-13|
  
 
 # MA-CERT
@@ -182,4 +165,21 @@
  |[ 48781508/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28986) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité de désérialisation…| 15 août 2024|
  |[ 48771508/24 - Vulnérabilités critiques dans vulnérabilités dans Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vulnerabilites-dans-zabbix)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zabbix susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, porter atteinte…| 15 août 2024|
  |[ 48701508/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-9)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 15 août 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zoom - CVE-2024-39825](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-39825-2024-08-20)|Visit link for details.|20/08/2024|
+ |[Outlook sur macOS - CVE-2024-42220](https://www.cyberveille-sante.gouv.fr/alertes/outlook-sur-macos-cve-2024-42220-2024-08-20)|Visit link for details.|20/08/2024|
+ |[Microsoft - CVE-2024-38199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38199-2024-08-20)|Visit link for details.|20/08/2024|
+ |[Microsoft - CVE-2024-38106](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38106-2024-08-19)|Visit link for details.|19/08/2024|
+ |[Microsoft - CVE-2024-38063](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38063-2024-08-19)|Visit link for details.|19/08/2024|
+ |[Ivanti - CVE-2024-7569](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7569-2024-08-19)|Visit link for details.|19/08/2024|
+ |[SolarWinds - CVE-2024-29886](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-29886-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Microsoft - CVE-2024-38178](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38178-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
+ |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
+ |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
  
