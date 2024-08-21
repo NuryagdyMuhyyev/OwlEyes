@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/08/2024 04:20:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/08/2024 06:23:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,12 @@
  |[USN-6837-2: Rack vulnerabilities](https://www.linux.org/threads/usn-6837-2-rack-vulnerabilities.51384/)|Visit link for details.|Aug 19, 2024|
  |[DSA-5750-1 python-asyncssh - security update](https://www.linux.org/threads/dsa-5750-1-python-asyncssh-security-update.51381/)|Visit link for details.|Aug 18, 2024|
  |[USN-6909-3: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-3-bind-vulnerabilities.51354/)|Visit link for details.|Aug 16, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -96,12 +96,6 @@
  |[Adobe Monthly Security Update (August 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Illustrator Medium RiskRemote Code ExecutionDenial of ServiceInformation Disclosure APSB24-45Adobe Dimension Medium...|Release Date: 14 Aug 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -114,6 +108,12 @@
  |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
  |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
  |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -133,23 +133,6 @@
  |[2024-073: Apache HTTP Server Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-073/)|On July 23, 2024, Apache issued an advisory about two critical vulnerabilities in its HTTP Server, CVE-2024-40725 and CVE-2024-40898. These vulnerabilities can lead to HTTP request smuggling and SSL client authentication bypass, potentially resulting in unauthorised access and other malicious activities.|Wednesday, July 24, 2024 02:27:57 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48861908/24 - Vulnérabilité critique dans plugin «InPost PL et InPost for WooCommerce»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-inpost-pl-et-inpost-woocommerce-de-wordpress)| Une vulnérabilité critique, identifiée comme « CVE-2024-6500 », a été découverte dans deux plugins WordPress très utilisés, InPost PL et InPost pour WooCommerce. Cette faille, qui a un score CVSS de…| 19 août 2024|
- |[ 48851908/24 - Vulnérabilités dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-xen)| Deux vulnérabilités ont été corrigées dans Xen. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance de réussir une élévation de privilèges et de porter…| 19 août 2024|
- |[ 48841908/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-13)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 19 août 2024|
- |[ 48831608/24 - Vulnérabilités dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-f5-1)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la…| 16 août 2024|
- |[ 48821608/24 - Vulnérabilités dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zoom)| Zoom a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dans ses produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la…| 16 août 2024|
- |[ 48811608/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-0)| Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter des…| 16 août 2024|
- |[ 48801508/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées d’Intel. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, de…| 15 août 2024|
- |[ 48791508/24 - Vulnérabilité critique dans Ivanti virtual Traffic Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-virtual-traffic-manager)| Ivanti a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-7593) dans son gestionnaire de trafic virtuel. L'exploitation réussie de la vulnérabilité peut permettre à un attaquant…| 15 août 2024|
- |[ 48781508/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28986) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité de désérialisation…| 15 août 2024|
- |[ 48771508/24 - Vulnérabilités critiques dans vulnérabilités dans Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vulnerabilites-dans-zabbix)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zabbix susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, porter atteinte…| 15 août 2024|
- |[ 48701508/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-9)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 15 août 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -165,6 +148,23 @@
  |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|16/08/2024|
  |[Node.js - CVE-2024-22017](https://www.cyberveille-sante.gouv.fr/alertes/nodejs-cve-2024-22017-2024-02-16)|Visit link for details.|16/08/2024|
  |[Oracle VirtualBox - CVE-2024-21114](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21114-2024-04-23)|Visit link for details.|16/08/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48861908/24 - Vulnérabilité critique dans plugin «InPost PL et InPost for WooCommerce»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-inpost-pl-et-inpost-woocommerce-de-wordpress)| Une vulnérabilité critique, identifiée comme « CVE-2024-6500 », a été découverte dans deux plugins WordPress très utilisés, InPost PL et InPost pour WooCommerce. Cette faille, qui a un score CVSS de…| 19 août 2024|
+ |[ 48851908/24 - Vulnérabilités dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-xen)| Deux vulnérabilités ont été corrigées dans Xen. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance de réussir une élévation de privilèges et de porter…| 19 août 2024|
+ |[ 48841908/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-13)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 19 août 2024|
+ |[ 48831608/24 - Vulnérabilités dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-f5-1)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la…| 16 août 2024|
+ |[ 48821608/24 - Vulnérabilités dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zoom)| Zoom a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dans ses produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la…| 16 août 2024|
+ |[ 48811608/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-0)| Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter des…| 16 août 2024|
+ |[ 48801508/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées d’Intel. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, de…| 15 août 2024|
+ |[ 48791508/24 - Vulnérabilité critique dans Ivanti virtual Traffic Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-virtual-traffic-manager)| Ivanti a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-7593) dans son gestionnaire de trafic virtuel. L'exploitation réussie de la vulnérabilité peut permettre à un attaquant…| 15 août 2024|
+ |[ 48781508/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28986) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité de désérialisation…| 15 août 2024|
+ |[ 48771508/24 - Vulnérabilités critiques dans vulnérabilités dans Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vulnerabilites-dans-zabbix)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zabbix susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, porter atteinte…| 15 août 2024|
+ |[ 48701508/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-9)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 15 août 2024|
  
 
 # CA-CCS
