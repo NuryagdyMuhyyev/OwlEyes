@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/08/2024 21:25:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/08/2024 22:17:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/08/08/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Aug 08, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,18 @@
  |[USN-6970-1: exfatprogs vulnerability](https://www.linux.org/threads/usn-6970-1-exfatprogs-vulnerability.51408/)|Visit link for details.|Aug 20, 2024|
  |[USN-6969-1: Cacti vulnerabilities](https://www.linux.org/threads/usn-6969-1-cacti-vulnerabilities.51407/)|Visit link for details.|Aug 20, 2024|
  |[USN-6967-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-6967-1-intel-microcode-vulnerabilities.51395/)|Visit link for details.|Aug 20, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -110,12 +116,6 @@
  |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -131,6 +131,23 @@
  |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
  |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
  |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Atlassian security advisory (AV24-469)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-469)|Visit link for details|2024-08-21|
+ |[[Control systems] CISA ICS security advisories (AV24-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-468)|Visit link for details|2024-08-19|
+ |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
+ |[IBM security advisory (AV24-466)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-466)|Visit link for details|2024-08-19|
+ |[Dell security advisory (AV24-465)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-465)|Visit link for details|2024-08-19|
+ |[Ubuntu security advisory (AV24-464)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-464)|Visit link for details|2024-08-19|
+ |[F5 security advisory (AV24-463)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-463)|Visit link for details|2024-08-19|
+ |[Microsoft Edge security advisory (AV24-462)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-462)|Visit link for details|2024-08-16|
+ |[Palo Alto Networks security advisory (AV24-461)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-461)|Visit link for details|2024-08-15|
+ |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
+ |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
  
 
 # CERT-SANTE
@@ -165,21 +182,4 @@
  |[ 48781508/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28986) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité de désérialisation…| 15 août 2024|
  |[ 48771508/24 - Vulnérabilités critiques dans vulnérabilités dans Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vulnerabilites-dans-zabbix)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zabbix susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, porter atteinte…| 15 août 2024|
  |[ 48701508/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-9)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs  vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces…| 15 août 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Atlassian security advisory (AV24-469)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-469)|Visit link for details|2024-08-21|
- |[[Control systems] CISA ICS security advisories (AV24-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-468)|Visit link for details|2024-08-19|
- |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
- |[IBM security advisory (AV24-466)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-466)|Visit link for details|2024-08-19|
- |[Dell security advisory (AV24-465)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-465)|Visit link for details|2024-08-19|
- |[Ubuntu security advisory (AV24-464)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-464)|Visit link for details|2024-08-19|
- |[F5 security advisory (AV24-463)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-463)|Visit link for details|2024-08-19|
- |[Microsoft Edge security advisory (AV24-462)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-462)|Visit link for details|2024-08-16|
- |[Palo Alto Networks security advisory (AV24-461)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-461)|Visit link for details|2024-08-15|
- |[SolarWinds security advisory (AV24-460)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-460)|Visit link for details|2024-08-14|
- |[Intel security advisory (AV24-459)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-459)|Visit link for details|2024-08-13|
  
