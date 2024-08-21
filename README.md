@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/08/2024 09:23:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/08/2024 10:18:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[Royal Ransomware Actors Rebrand as “BlackSuit,” FBI and CISA Release Update to Advisory](https://www.cisa.gov/news-events/alerts/2024/08/07/royal-ransomware-actors-rebrand-blacksuit-fbi-and-cisa-release-update-advisory)|Visit link for details.|Aug 07, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,12 @@
  |[USN-6837-2: Rack vulnerabilities](https://www.linux.org/threads/usn-6837-2-rack-vulnerabilities.51384/)|Visit link for details.|Aug 19, 2024|
  |[DSA-5750-1 python-asyncssh - security update](https://www.linux.org/threads/dsa-5750-1-python-asyncssh-security-update.51381/)|Visit link for details.|Aug 18, 2024|
  |[USN-6909-3: Bind vulnerabilities](https://www.linux.org/threads/usn-6909-3-bind-vulnerabilities.51354/)|Visit link for details.|Aug 16, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
