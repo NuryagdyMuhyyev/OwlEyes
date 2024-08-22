@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/08/2024 00:15:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/08/2024 01:20:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[USN-6951-4: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6951-4-linux-kernel-bluefield-vulnerabilities.51425/)|Visit link for details.|Aug 21, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -107,14 +101,37 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apple WebKit WebCodecs VideoFrame Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1160/)|Visit link for details|2024-08-22|
+ |[G DATA Total Security Scan Server Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1159/)|Visit link for details|2024-08-22|
+ |[Rockwell Automation ThinManager ThinServer Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1158/)|Visit link for details|2024-08-22|
+ |[Rockwell Automation ThinManager ThinServer Arbitrary File Creation Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1157/)|Visit link for details|2024-08-22|
+ |[Rockwell Automation ThinManager ThinServer Arbitrary File Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1156/)|Visit link for details|2024-08-22|
  |[PaperCut NG image-handler Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1155/)|Visit link for details|2024-08-22|
  |[Autel MaxiCharger AC Elite Business C50 AppAuthenExchangeRandomNum Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1154/)|Visit link for details|2024-08-20|
  |[Autodesk AutoCAD DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1153/)|Visit link for details|2024-08-20|
- |[Phoenix Contact CHARX SEC-3100 Improper Access Control Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1152/)|Visit link for details|2024-08-20|
- |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2024-28987](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28987-2024-08-22)|Visit link for details.|22/08/2024|
+ |[Google Chrome - CVE-2024-7971](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7971-2024-08-22)|Visit link for details.|22/08/2024|
+ |[GitHub - CVE-2024-6800](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-6800-2024-08-22)|Visit link for details.|22/08/2024|
+ |[VIPRE - CVE-2024-5930](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5930-2024-06-21)|Visit link for details.|22/08/2024|
+ |[VIPRE - CVE-2024-5929](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5929-2024-06-21)|Visit link for details.|22/08/2024|
+ |[Joomla! - CVE-2024-27185](https://www.cyberveille-sante.gouv.fr/alertes/joomla-cve-2024-27185-2024-08-21)|Visit link for details.|21/08/2024|
+ |[D-Link - CVE-2024-7833](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7833-2024-08-21)|Visit link for details.|21/08/2024|
+ |[Apache Cassandra - CVE-2024-38175](https://www.cyberveille-sante.gouv.fr/alertes/apache-cassandra-cve-2024-38175-2024-08-21)|Visit link for details.|21/08/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|21/08/2024|
+ |[Zoom - CVE-2024-39825](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-39825-2024-08-20)|Visit link for details.|20/08/2024|
+ |[Outlook sur macOS - CVE-2024-42220](https://www.cyberveille-sante.gouv.fr/alertes/outlook-sur-macos-cve-2024-42220-2024-08-20)|Visit link for details.|20/08/2024|
  
 
 # EU-CERT
@@ -155,6 +172,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
+ |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
  |[Drupal security advisory (AV24-473)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-473)|Visit link for details|2024-08-22|
  |[Cisco security advisory (AV24-472)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-472)|Visit link for details|2024-08-22|
  |[Mitel security advisory (AV24-471)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-471)|Visit link for details|2024-08-21|
@@ -164,23 +183,4 @@
  |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
  |[IBM security advisory (AV24-466)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-466)|Visit link for details|2024-08-19|
  |[Dell security advisory (AV24-465)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-465)|Visit link for details|2024-08-19|
- |[Ubuntu security advisory (AV24-464)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-464)|Visit link for details|2024-08-19|
- |[F5 security advisory (AV24-463)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-463)|Visit link for details|2024-08-19|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2024-28987](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28987-2024-08-22)|Visit link for details.|22/08/2024|
- |[Google Chrome - CVE-2024-7971](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7971-2024-08-22)|Visit link for details.|22/08/2024|
- |[GitHub - CVE-2024-6800](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-6800-2024-08-22)|Visit link for details.|22/08/2024|
- |[VIPRE - CVE-2024-5930](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5930-2024-06-21)|Visit link for details.|22/08/2024|
- |[VIPRE - CVE-2024-5929](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5929-2024-06-21)|Visit link for details.|22/08/2024|
- |[Joomla! - CVE-2024-27185](https://www.cyberveille-sante.gouv.fr/alertes/joomla-cve-2024-27185-2024-08-21)|Visit link for details.|21/08/2024|
- |[D-Link - CVE-2024-7833](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7833-2024-08-21)|Visit link for details.|21/08/2024|
- |[Apache Cassandra - CVE-2024-38175](https://www.cyberveille-sante.gouv.fr/alertes/apache-cassandra-cve-2024-38175-2024-08-21)|Visit link for details.|21/08/2024|
- |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|21/08/2024|
- |[Zoom - CVE-2024-39825](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-39825-2024-08-20)|Visit link for details.|20/08/2024|
- |[Outlook sur macOS - CVE-2024-42220](https://www.cyberveille-sante.gouv.fr/alertes/outlook-sur-macos-cve-2024-42220-2024-08-20)|Visit link for details.|20/08/2024|
  
