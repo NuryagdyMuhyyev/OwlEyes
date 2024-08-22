@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/08/2024 19:19:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/08/2024 20:22:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6972-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6972-2-linux-kernel-aws-vulnerabilities.51445/)|Visit link for details.|Aug 22, 2024|
+ |[USN-6979-1: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6979-1-linux-kernel-raspberry-pi-vulnerabilities.51444/)|Visit link for details.|Aug 22, 2024|
  |[USN-6977-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6977-1-qemu-vulnerabilities.51440/)|Visit link for details.|Aug 22, 2024|
  |[USN-6975-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6975-1-linux-kernel-vulnerabilities.51436/)|Visit link for details.|Aug 21, 2024|
  |[USN-6974-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6974-1-linux-kernel-vulnerabilities.51435/)|Visit link for details.|Aug 21, 2024|
@@ -42,14 +44,19 @@
  |[USN-6950-4: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6950-4-linux-kernel-hwe-vulnerabilities.51426/)|Visit link for details.|Aug 21, 2024|
  |[USN-6951-4: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6951-4-linux-kernel-bluefield-vulnerabilities.51425/)|Visit link for details.|Aug 21, 2024|
  |[DSA-5756-1 nova - security update](https://www.linux.org/threads/dsa-5756-1-nova-security-update.51421/)|Visit link for details.|Aug 21, 2024|
- |[DSA-5755-1 glance - security update](https://www.linux.org/threads/dsa-5755-1-glance-security-update.51420/)|Visit link for details.|Aug 21, 2024|
- |[DSA-5754-1 cinder - security update](https://www.linux.org/threads/dsa-5754-1-cinder-security-update.51419/)|Visit link for details.|Aug 21, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
  |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
  |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/21/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 21, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
@@ -59,10 +66,9 @@
  |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
  |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
  |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
- |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 13, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -97,12 +103,6 @@
  |[Google Chrome security bypass (CVE-2024-7975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -120,10 +120,25 @@
  |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Autel MaxiCharger AC Elite Business C50 AppAuthenExchangeRandomNum Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1154/)|Visit link for details|2024-08-20|
+ |[Autodesk AutoCAD DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1153/)|Visit link for details|2024-08-20|
+ |[Phoenix Contact CHARX SEC-3100 Improper Access Control Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1152/)|Visit link for details|2024-08-20|
+ |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
+ |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 48922208/24 - Vulnérabilité critique dans GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-github-enterprise-server)| GitHub a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6800) affectant GitHub Enterprise Server (GHES). L'exploitation réussie de la vulnérabilité par la…| 22 août 2024|
  |[ 48902208/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-11)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, d’exécuter du code…| 22 août 2024|
  |[ 48912208/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-24)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 août 2024|
  |[ 48892208/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-1)| Deux vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de réussir une injection de…| 22 août 2024|
@@ -134,24 +149,6 @@
  |[ 48841908/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-13)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 19 août 2024|
  |[ 48831608/24 - Vulnérabilités dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-f5-1)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la…| 16 août 2024|
  |[ 48821608/24 - Vulnérabilités dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zoom)| Zoom a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dans ses produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la…| 16 août 2024|
- |[ 48811608/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-0)| Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter des…| 16 août 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[VIPRE - CVE-2024-5929](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5929-2024-06-21)|Visit link for details.|22/08/2024|
- |[VIPRE - CVE-2024-5930](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5930-2024-06-21)|Visit link for details.|22/08/2024|
- |[Joomla! - CVE-2024-27185](https://www.cyberveille-sante.gouv.fr/alertes/joomla-cve-2024-27185-2024-08-21)|Visit link for details.|21/08/2024|
- |[D-Link - CVE-2024-7833](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7833-2024-08-21)|Visit link for details.|21/08/2024|
- |[Apache Cassandra - CVE-2024-38175](https://www.cyberveille-sante.gouv.fr/alertes/apache-cassandra-cve-2024-38175-2024-08-21)|Visit link for details.|21/08/2024|
- |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|21/08/2024|
- |[Zoom - CVE-2024-39825](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-39825-2024-08-20)|Visit link for details.|20/08/2024|
- |[Outlook sur macOS - CVE-2024-42220](https://www.cyberveille-sante.gouv.fr/alertes/outlook-sur-macos-cve-2024-42220-2024-08-20)|Visit link for details.|20/08/2024|
- |[Microsoft - CVE-2024-38199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38199-2024-08-20)|Visit link for details.|20/08/2024|
- |[Microsoft - CVE-2024-38106](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38106-2024-08-19)|Visit link for details.|19/08/2024|
- |[Microsoft - CVE-2024-38063](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38063-2024-08-19)|Visit link for details.|19/08/2024|
  
 
 # CA-CCS
@@ -171,16 +168,19 @@
  |[Palo Alto Networks security advisory (AV24-461)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-461)|Visit link for details|2024-08-15|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Autel MaxiCharger AC Elite Business C50 AppAuthenExchangeRandomNum Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1154/)|Visit link for details|2024-08-20|
- |[Autodesk AutoCAD DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1153/)|Visit link for details|2024-08-20|
- |[Phoenix Contact CHARX SEC-3100 Improper Access Control Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1152/)|Visit link for details|2024-08-20|
- |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
- |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
+ |[VIPRE - CVE-2024-5929](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5929-2024-06-21)|Visit link for details.|22/08/2024|
+ |[VIPRE - CVE-2024-5930](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5930-2024-06-21)|Visit link for details.|22/08/2024|
+ |[Joomla! - CVE-2024-27185](https://www.cyberveille-sante.gouv.fr/alertes/joomla-cve-2024-27185-2024-08-21)|Visit link for details.|21/08/2024|
+ |[D-Link - CVE-2024-7833](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7833-2024-08-21)|Visit link for details.|21/08/2024|
+ |[Apache Cassandra - CVE-2024-38175](https://www.cyberveille-sante.gouv.fr/alertes/apache-cassandra-cve-2024-38175-2024-08-21)|Visit link for details.|21/08/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|21/08/2024|
+ |[Zoom - CVE-2024-39825](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-39825-2024-08-20)|Visit link for details.|20/08/2024|
+ |[Outlook sur macOS - CVE-2024-42220](https://www.cyberveille-sante.gouv.fr/alertes/outlook-sur-macos-cve-2024-42220-2024-08-20)|Visit link for details.|20/08/2024|
+ |[Microsoft - CVE-2024-38199](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38199-2024-08-20)|Visit link for details.|20/08/2024|
+ |[Microsoft - CVE-2024-38106](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38106-2024-08-19)|Visit link for details.|19/08/2024|
+ |[Microsoft - CVE-2024-38063](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38063-2024-08-19)|Visit link for details.|19/08/2024|
  
