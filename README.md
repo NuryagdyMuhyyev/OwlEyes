@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/08/2024 03:18:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/08/2024 04:19:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6978-1: XStream vulnerabilities](https://www.linux.org/threads/usn-6978-1-xstream-vulnerabilities.51447/)|Visit link for details.|Aug 22, 2024|
- |[USN-6972-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6972-2-linux-kernel-aws-vulnerabilities.51445/)|Visit link for details.|Aug 22, 2024|
- |[USN-6979-1: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6979-1-linux-kernel-raspberry-pi-vulnerabilities.51444/)|Visit link for details.|Aug 22, 2024|
- |[USN-6977-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6977-1-qemu-vulnerabilities.51440/)|Visit link for details.|Aug 22, 2024|
- |[USN-6975-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6975-1-linux-kernel-vulnerabilities.51436/)|Visit link for details.|Aug 21, 2024|
- |[USN-6974-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6974-1-linux-kernel-vulnerabilities.51435/)|Visit link for details.|Aug 21, 2024|
- |[USN-6973-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6973-1-linux-kernel-vulnerabilities.51434/)|Visit link for details.|Aug 21, 2024|
- |[USN-6972-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6972-1-linux-kernel-vulnerabilities.51433/)|Visit link for details.|Aug 21, 2024|
- |[USN-6971-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6971-1-linux-kernel-vulnerabilities.51432/)|Visit link for details.|Aug 21, 2024|
- |[USN-6950-4: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6950-4-linux-kernel-hwe-vulnerabilities.51426/)|Visit link for details.|Aug 21, 2024|
- |[USN-6951-4: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6951-4-linux-kernel-bluefield-vulnerabilities.51425/)|Visit link for details.|Aug 21, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,13 +45,30 @@
  |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6980-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6980-1-imagemagick-vulnerabilities.51448/)|Visit link for details.|Aug 23, 2024|
+ |[USN-6978-1: XStream vulnerabilities](https://www.linux.org/threads/usn-6978-1-xstream-vulnerabilities.51447/)|Visit link for details.|Aug 22, 2024|
+ |[USN-6972-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6972-2-linux-kernel-aws-vulnerabilities.51445/)|Visit link for details.|Aug 22, 2024|
+ |[USN-6979-1: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6979-1-linux-kernel-raspberry-pi-vulnerabilities.51444/)|Visit link for details.|Aug 22, 2024|
+ |[USN-6977-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6977-1-qemu-vulnerabilities.51440/)|Visit link for details.|Aug 22, 2024|
+ |[USN-6975-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6975-1-linux-kernel-vulnerabilities.51436/)|Visit link for details.|Aug 21, 2024|
+ |[USN-6974-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6974-1-linux-kernel-vulnerabilities.51435/)|Visit link for details.|Aug 21, 2024|
+ |[USN-6973-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6973-1-linux-kernel-vulnerabilities.51434/)|Visit link for details.|Aug 21, 2024|
+ |[USN-6972-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6972-1-linux-kernel-vulnerabilities.51433/)|Visit link for details.|Aug 21, 2024|
+ |[USN-6971-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6971-1-linux-kernel-vulnerabilities.51432/)|Visit link for details.|Aug 21, 2024|
+ |[USN-6950-4: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6950-4-linux-kernel-hwe-vulnerabilities.51426/)|Visit link for details.|Aug 21, 2024|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -90,10 +90,17 @@
  |[F5 BIG-IP Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-sensitive-information-disclosure-vulnerability_20240816)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-39573 of the affected products...|Release Date: 16 Aug 2024 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome security bypass (CVE-2024-7981)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
+ |[Google Chrome security bypass (CVE-2024-8033)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
+ |[Google Chrome security bypass (CVE-2024-8034)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
+ |[Google Chrome security bypass (CVE-2024-8035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
+ |[Google Chrome security bypass (CVE-2024-7980)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
+ |[Google Chrome security bypass (CVE-2024-7974)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
+ |[Google Chrome security bypass (CVE-2024-7975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
  
 
 # ZERODAYINITIATIVE
