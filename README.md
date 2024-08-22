@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/08/2024 01:20:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/08/2024 02:19:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,12 +66,6 @@
  |[USN-6971-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6971-1-linux-kernel-vulnerabilities.51432/)|Visit link for details.|Aug 21, 2024|
  |[USN-6950-4: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6950-4-linux-kernel-hwe-vulnerabilities.51426/)|Visit link for details.|Aug 21, 2024|
  |[USN-6951-4: Linux kernel (BlueField) vulnerabilities](https://www.linux.org/threads/usn-6951-4-linux-kernel-bluefield-vulnerabilities.51425/)|Visit link for details.|Aug 21, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -101,54 +101,20 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple WebKit WebCodecs VideoFrame Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1160/)|Visit link for details|2024-08-22|
- |[G DATA Total Security Scan Server Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1159/)|Visit link for details|2024-08-22|
- |[Rockwell Automation ThinManager ThinServer Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1158/)|Visit link for details|2024-08-22|
- |[Rockwell Automation ThinManager ThinServer Arbitrary File Creation Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1157/)|Visit link for details|2024-08-22|
- |[Rockwell Automation ThinManager ThinServer Arbitrary File Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1156/)|Visit link for details|2024-08-22|
- |[PaperCut NG image-handler Directory Traversal Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1155/)|Visit link for details|2024-08-22|
- |[Autel MaxiCharger AC Elite Business C50 AppAuthenExchangeRandomNum Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1154/)|Visit link for details|2024-08-20|
- |[Autodesk AutoCAD DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1153/)|Visit link for details|2024-08-20|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1174/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1173/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1172/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1171/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1170/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1169/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1168/)|Visit link for details|2024-08-22|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2024-28987](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28987-2024-08-22)|Visit link for details.|22/08/2024|
- |[Google Chrome - CVE-2024-7971](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7971-2024-08-22)|Visit link for details.|22/08/2024|
- |[GitHub - CVE-2024-6800](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-6800-2024-08-22)|Visit link for details.|22/08/2024|
- |[VIPRE - CVE-2024-5930](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5930-2024-06-21)|Visit link for details.|22/08/2024|
- |[VIPRE - CVE-2024-5929](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5929-2024-06-21)|Visit link for details.|22/08/2024|
- |[Joomla! - CVE-2024-27185](https://www.cyberveille-sante.gouv.fr/alertes/joomla-cve-2024-27185-2024-08-21)|Visit link for details.|21/08/2024|
- |[D-Link - CVE-2024-7833](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7833-2024-08-21)|Visit link for details.|21/08/2024|
- |[Apache Cassandra - CVE-2024-38175](https://www.cyberveille-sante.gouv.fr/alertes/apache-cassandra-cve-2024-38175-2024-08-21)|Visit link for details.|21/08/2024|
- |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|21/08/2024|
- |[Zoom - CVE-2024-39825](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-39825-2024-08-20)|Visit link for details.|20/08/2024|
- |[Outlook sur macOS - CVE-2024-42220](https://www.cyberveille-sante.gouv.fr/alertes/outlook-sur-macos-cve-2024-42220-2024-08-20)|Visit link for details.|20/08/2024|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-085: Multiple Vulnerabilities in Moodle](https://cert.europa.eu/publications/security-advisories/2024-085/)|On August 19, 2024, Moodle released a security advisory addressing sixteen vulnerabilities of various severities.|Wednesday, August 21, 2024 02:19:29 PM CEST|
- |[2024-084: High Severity Vulnerabilities in F5 Products](https://cert.europa.eu/publications/security-advisories/2024-084/)|On August 14, 2024, F5 released a security advisory addressing nine vulnerabilities in their products. Four of these vulnerabilities have been classified as high severity due to their potential to facilitate session hijacking and to lead to Denial-of-Service (DoS) attacks. |Wednesday, August 21, 2024 02:17:39 PM CEST|
- |[2024-083: Palo Alto Cortex XSOAR CommonScripts Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 14, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Tuesday, August 20, 2024 11:15:07 AM CEST|
- |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
- |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
- |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
- |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
- |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
- |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
- |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
- |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
  
 
 # MA-CERT
@@ -168,6 +134,23 @@
  |[ 48821608/24 - Vulnérabilités dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zoom)| Zoom a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dans ses produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la…| 16 août 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2024-28987](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28987-2024-08-22)|Visit link for details.|22/08/2024|
+ |[Google Chrome - CVE-2024-7971](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7971-2024-08-22)|Visit link for details.|22/08/2024|
+ |[GitHub - CVE-2024-6800](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-6800-2024-08-22)|Visit link for details.|22/08/2024|
+ |[VIPRE - CVE-2024-5930](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5930-2024-06-21)|Visit link for details.|22/08/2024|
+ |[VIPRE - CVE-2024-5929](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5929-2024-06-21)|Visit link for details.|22/08/2024|
+ |[Joomla! - CVE-2024-27185](https://www.cyberveille-sante.gouv.fr/alertes/joomla-cve-2024-27185-2024-08-21)|Visit link for details.|21/08/2024|
+ |[D-Link - CVE-2024-7833](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7833-2024-08-21)|Visit link for details.|21/08/2024|
+ |[Apache Cassandra - CVE-2024-38175](https://www.cyberveille-sante.gouv.fr/alertes/apache-cassandra-cve-2024-38175-2024-08-21)|Visit link for details.|21/08/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|21/08/2024|
+ |[Zoom - CVE-2024-39825](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-39825-2024-08-20)|Visit link for details.|20/08/2024|
+ |[Outlook sur macOS - CVE-2024-42220](https://www.cyberveille-sante.gouv.fr/alertes/outlook-sur-macos-cve-2024-42220-2024-08-20)|Visit link for details.|20/08/2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
  |[IBM security advisory (AV24-466)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-466)|Visit link for details|2024-08-19|
  |[Dell security advisory (AV24-465)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-465)|Visit link for details|2024-08-19|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-085: Multiple Vulnerabilities in Moodle](https://cert.europa.eu/publications/security-advisories/2024-085/)|On August 19, 2024, Moodle released a security advisory addressing sixteen vulnerabilities of various severities.|Wednesday, August 21, 2024 02:19:29 PM CEST|
+ |[2024-084: High Severity Vulnerabilities in F5 Products](https://cert.europa.eu/publications/security-advisories/2024-084/)|On August 14, 2024, F5 released a security advisory addressing nine vulnerabilities in their products. Four of these vulnerabilities have been classified as high severity due to their potential to facilitate session hijacking and to lead to Denial-of-Service (DoS) attacks. |Wednesday, August 21, 2024 02:17:39 PM CEST|
+ |[2024-083: Palo Alto Cortex XSOAR CommonScripts Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 14, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Tuesday, August 20, 2024 11:15:07 AM CEST|
+ |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
+ |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
+ |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
+ |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
+ |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
+ |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
+ |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
+ |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
  
