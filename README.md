@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/08/2024 18:22:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/08/2024 19:19:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,28 +46,6 @@
  |[DSA-5754-1 cinder - security update](https://www.linux.org/threads/dsa-5754-1-cinder-security-update.51419/)|Visit link for details.|Aug 21, 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220204)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 4 Feb 2022 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240822)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-7971 is being exploited...|Release Date: 22 Aug 2024 |
- |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220127)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 27 Jan 2022 |
- |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220121)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 21 Jan 2022 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 6 Aug 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...| Release Date: 1 Aug 2024 |
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20240820)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 20 Aug 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. Note:Exploit in the...| Release Date: 2 Aug 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240819)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 19 Aug 2024 |
- |[F5 BIG-IP Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-sensitive-information-disclosure-vulnerability_20240816)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-39573 of the affected products...|Release Date: 16 Aug 2024 |
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -82,6 +60,28 @@
  |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
  |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
  |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 13, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220204)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 4 Feb 2022 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240822)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-7971 is being exploited...|Release Date: 22 Aug 2024 |
+ |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220127)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 27 Jan 2022 |
+ |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220121)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 21 Jan 2022 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 6 Aug 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...| Release Date: 1 Aug 2024 |
+ |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20240820)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 20 Aug 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. Note:Exploit in the...| Release Date: 2 Aug 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240819)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 19 Aug 2024 |
+ |[F5 BIG-IP Sensitive Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/f5-big-ip-sensitive-information-disclosure-vulnerability_20240816)|A vulnerability was identified in F5 BIG-IP, a remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-39573 of the affected products...|Release Date: 16 Aug 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -103,20 +103,6 @@
  |---|---|---|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Autel MaxiCharger AC Elite Business C50 AppAuthenExchangeRandomNum Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1154/)|Visit link for details|2024-08-20|
- |[Autodesk AutoCAD DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1153/)|Visit link for details|2024-08-20|
- |[Phoenix Contact CHARX SEC-3100 Improper Access Control Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1152/)|Visit link for details|2024-08-20|
- |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
- |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
- |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -132,6 +118,23 @@
  |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
  |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
  |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48902208/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-11)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, d’exécuter du code…| 22 août 2024|
+ |[ 48912208/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-24)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 août 2024|
+ |[ 48892208/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-1)| Deux vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de réussir une injection de…| 22 août 2024|
+ |[ 48882208/24 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla-1)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données, de contourner la politique de…| 22 août 2024|
+ |[ 48872208/24 - Vulnérabilité dans les produits Microsoft Azure ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-azure)| Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges. | 22 août 2024|
+ |[ 48861908/24 - Vulnérabilité critique dans plugin «InPost PL et InPost for WooCommerce»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-inpost-pl-et-inpost-woocommerce-de-wordpress)| Une vulnérabilité critique, identifiée comme « CVE-2024-6500 », a été découverte dans deux plugins WordPress très utilisés, InPost PL et InPost pour WooCommerce. Cette faille, qui a un score CVSS de…| 19 août 2024|
+ |[ 48851908/24 - Vulnérabilités dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-xen)| Deux vulnérabilités ont été corrigées dans Xen. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance de réussir une élévation de privilèges et de porter…| 19 août 2024|
+ |[ 48841908/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-13)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 19 août 2024|
+ |[ 48831608/24 - Vulnérabilités dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-f5-1)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la…| 16 août 2024|
+ |[ 48821608/24 - Vulnérabilités dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zoom)| Zoom a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dans ses produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la…| 16 août 2024|
+ |[ 48811608/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-0)| Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter des…| 16 août 2024|
  
 
 # CERT-SANTE
@@ -151,23 +154,6 @@
  |[Microsoft - CVE-2024-38063](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38063-2024-08-19)|Visit link for details.|19/08/2024|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48892208/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-1)| Deux vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de réussir une injection de…| 22 août 2024|
- |[ 48882208/24 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla-1)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données, de contourner la politique de…| 22 août 2024|
- |[ 48872208/24 - Vulnérabilité dans les produits Microsoft Azure ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-azure)| Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges. | 22 août 2024|
- |[ 48861908/24 - Vulnérabilité critique dans plugin «InPost PL et InPost for WooCommerce»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-inpost-pl-et-inpost-woocommerce-de-wordpress)| Une vulnérabilité critique, identifiée comme « CVE-2024-6500 », a été découverte dans deux plugins WordPress très utilisés, InPost PL et InPost pour WooCommerce. Cette faille, qui a un score CVSS de…| 19 août 2024|
- |[ 48851908/24 - Vulnérabilités dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-xen)| Deux vulnérabilités ont été corrigées dans Xen. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance de réussir une élévation de privilèges et de porter…| 19 août 2024|
- |[ 48841908/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-13)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 19 août 2024|
- |[ 48831608/24 - Vulnérabilités dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-f5-1)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la…| 16 août 2024|
- |[ 48821608/24 - Vulnérabilités dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zoom)| Zoom a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dans ses produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la…| 16 août 2024|
- |[ 48811608/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-0)| Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter des…| 16 août 2024|
- |[ 48801508/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-5)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées d’Intel. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, de…| 15 août 2024|
- |[ 48791508/24 - Vulnérabilité critique dans Ivanti virtual Traffic Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-virtual-traffic-manager)| Ivanti a publié des mises à jour corrigeant une vulnérabilité critique (CVE-2024-7593) dans son gestionnaire de trafic virtuel. L'exploitation réussie de la vulnérabilité peut permettre à un attaquant…| 15 août 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -183,4 +169,18 @@
  |[F5 security advisory (AV24-463)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-463)|Visit link for details|2024-08-19|
  |[Microsoft Edge security advisory (AV24-462)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-462)|Visit link for details|2024-08-16|
  |[Palo Alto Networks security advisory (AV24-461)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-461)|Visit link for details|2024-08-15|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Autel MaxiCharger AC Elite Business C50 AppAuthenExchangeRandomNum Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1154/)|Visit link for details|2024-08-20|
+ |[Autodesk AutoCAD DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1153/)|Visit link for details|2024-08-20|
+ |[Phoenix Contact CHARX SEC-3100 Improper Access Control Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1152/)|Visit link for details|2024-08-20|
+ |[Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1151/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche decodeToMap XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1150/)|Visit link for details|2024-08-15|
+ |[Ivanti Avalanche deleteSkin Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1149/)|Visit link for details|2024-08-15|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1148/)|Visit link for details|2024-08-13|
+ |[Microsoft Windows 10 WinREUpdateInstaller_2401B_amd64 Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1147/)|Visit link for details|2024-08-13|
  
