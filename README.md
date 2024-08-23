@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/08/2024 15:20:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/08/2024 16:16:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
+ |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/21/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 21, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
+ |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
+ |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
+ |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
+ |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6972-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6972-1-linux-kernel-vulnerabilities.51433/)|Visit link for details.|Aug 21, 2024|
  |[USN-6971-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6971-1-linux-kernel-vulnerabilities.51432/)|Visit link for details.|Aug 21, 2024|
  |[USN-6950-4: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6950-4-linux-kernel-hwe-vulnerabilities.51426/)|Visit link for details.|Aug 21, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
- |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/21/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 21, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
- |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
- |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
- |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
- |[CISA Releases Ten Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories)|Visit link for details.|Aug 13, 2024|
  
 
 # HK-CERT
@@ -78,6 +78,18 @@
  |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240819)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 19 Aug 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -89,12 +101,6 @@
  |[Allegra code execution (CVE-2024-5581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
  |[Allegra code execution (CVE-2024-30372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
  |[Multiple Safie products information disclosure (CVE-2024-39771)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -109,12 +115,6 @@
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1170/)|Visit link for details|2024-08-22|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1169/)|Visit link for details|2024-08-22|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1168/)|Visit link for details|2024-08-22|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -134,10 +134,28 @@
  |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
+ |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
+ |[Drupal security advisory (AV24-473)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-473)|Visit link for details|2024-08-22|
+ |[Cisco security advisory (AV24-472)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-472)|Visit link for details|2024-08-22|
+ |[Mitel security advisory (AV24-471)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-471)|Visit link for details|2024-08-21|
+ |[GitHub security advisory (AV24-470)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-470)|Visit link for details|2024-08-21|
+ |[Atlassian security advisory (AV24-469)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-469)|Visit link for details|2024-08-21|
+ |[[Control systems] CISA ICS security advisories (AV24-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-468)|Visit link for details|2024-08-19|
+ |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
+ |[IBM security advisory (AV24-466)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-466)|Visit link for details|2024-08-19|
+ |[Dell security advisory (AV24-465)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-465)|Visit link for details|2024-08-19|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 48952308/24 - « Zero-day » affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-navigateur-microsoft-edge)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités  affectant le navigateur Microsoft Edge. Une de ces vulnérabilités identifiée par…| 23 août 2024|
  |[ 48942308/24 - Vulnérabilité critique affectant le plugin «LiteSpeed Cache» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-litespeed-cache-pour-wordpress)| Une vulnérabilité critique affectant le plugin « LiteSpeed Cache» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses privilèges et de prendre le…| 23 août 2024|
  |[ 48932308/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk-0)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28987) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité peut permettre à un…| 23 août 2024|
  |[ 48922208/24 - Vulnérabilité critique dans GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-github-enterprise-server)| GitHub a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6800) affectant GitHub Enterprise Server (GHES). L'exploitation réussie de la vulnérabilité par la…| 22 août 2024|
@@ -148,7 +166,6 @@
  |[ 48872208/24 - Vulnérabilité dans les produits Microsoft Azure ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-azure)| Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges. | 22 août 2024|
  |[ 48861908/24 - Vulnérabilité critique dans plugin «InPost PL et InPost for WooCommerce»… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-inpost-pl-et-inpost-woocommerce-de-wordpress)| Une vulnérabilité critique, identifiée comme « CVE-2024-6500 », a été découverte dans deux plugins WordPress très utilisés, InPost PL et InPost pour WooCommerce. Cette faille, qui a un score CVSS de…| 19 août 2024|
  |[ 48851908/24 - Vulnérabilités dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-xen)| Deux vulnérabilités ont été corrigées dans Xen. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service à distance de réussir une élévation de privilèges et de porter…| 19 août 2024|
- |[ 48841908/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-13)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 19 août 2024|
  
 
 # CERT-SANTE
@@ -166,21 +183,4 @@
  |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|21/08/2024|
  |[Zoom - CVE-2024-39825](https://www.cyberveille-sante.gouv.fr/alertes/zoom-cve-2024-39825-2024-08-20)|Visit link for details.|20/08/2024|
  |[Outlook sur macOS - CVE-2024-42220](https://www.cyberveille-sante.gouv.fr/alertes/outlook-sur-macos-cve-2024-42220-2024-08-20)|Visit link for details.|20/08/2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
- |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
- |[Drupal security advisory (AV24-473)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-473)|Visit link for details|2024-08-22|
- |[Cisco security advisory (AV24-472)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-472)|Visit link for details|2024-08-22|
- |[Mitel security advisory (AV24-471)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-471)|Visit link for details|2024-08-21|
- |[GitHub security advisory (AV24-470)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-470)|Visit link for details|2024-08-21|
- |[Atlassian security advisory (AV24-469)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-469)|Visit link for details|2024-08-21|
- |[[Control systems] CISA ICS security advisories (AV24-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-468)|Visit link for details|2024-08-19|
- |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
- |[IBM security advisory (AV24-466)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-466)|Visit link for details|2024-08-19|
- |[Dell security advisory (AV24-465)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-465)|Visit link for details|2024-08-19|
  
