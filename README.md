@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/08/2024 10:18:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/08/2024 11:26:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,12 @@
  |[USN-6950-4: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-6950-4-linux-kernel-hwe-vulnerabilities.51426/)|Visit link for details.|Aug 21, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -84,12 +90,6 @@
  |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240819)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 19 Aug 2024 |
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,20 +101,6 @@
  |[Allegra code execution (CVE-2024-5581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
  |[Allegra code execution (CVE-2024-30372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
  |[Multiple Safie products information disclosure (CVE-2024-39771)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1174/)|Visit link for details|2024-08-22|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1173/)|Visit link for details|2024-08-22|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1172/)|Visit link for details|2024-08-22|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1171/)|Visit link for details|2024-08-22|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1170/)|Visit link for details|2024-08-22|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1169/)|Visit link for details|2024-08-22|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1168/)|Visit link for details|2024-08-22|
  
 
 # EU-CERT
@@ -134,21 +120,18 @@
  |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
- |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
- |[Drupal security advisory (AV24-473)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-473)|Visit link for details|2024-08-22|
- |[Cisco security advisory (AV24-472)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-472)|Visit link for details|2024-08-22|
- |[Mitel security advisory (AV24-471)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-471)|Visit link for details|2024-08-21|
- |[GitHub security advisory (AV24-470)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-470)|Visit link for details|2024-08-21|
- |[Atlassian security advisory (AV24-469)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-469)|Visit link for details|2024-08-21|
- |[[Control systems] CISA ICS security advisories (AV24-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-468)|Visit link for details|2024-08-19|
- |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
- |[IBM security advisory (AV24-466)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-466)|Visit link for details|2024-08-19|
- |[Dell security advisory (AV24-465)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-465)|Visit link for details|2024-08-19|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1174/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1173/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1172/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1171/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1170/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1169/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1168/)|Visit link for details|2024-08-22|
  
 
 # MA-CERT
@@ -166,6 +149,23 @@
  |[ 48841908/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-13)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 19 août 2024|
  |[ 48831608/24 - Vulnérabilités dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-f5-1)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la…| 16 août 2024|
  |[ 48821608/24 - Vulnérabilités dans les produits Zoom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-zoom)| Zoom a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dans ses produits susmentionnés. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la…| 16 août 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
+ |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
+ |[Drupal security advisory (AV24-473)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-473)|Visit link for details|2024-08-22|
+ |[Cisco security advisory (AV24-472)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-472)|Visit link for details|2024-08-22|
+ |[Mitel security advisory (AV24-471)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-471)|Visit link for details|2024-08-21|
+ |[GitHub security advisory (AV24-470)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-470)|Visit link for details|2024-08-21|
+ |[Atlassian security advisory (AV24-469)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-469)|Visit link for details|2024-08-21|
+ |[[Control systems] CISA ICS security advisories (AV24-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-468)|Visit link for details|2024-08-19|
+ |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
+ |[IBM security advisory (AV24-466)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-466)|Visit link for details|2024-08-19|
+ |[Dell security advisory (AV24-465)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-465)|Visit link for details|2024-08-19|
  
 
 # CERT-SANTE
