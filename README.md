@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/08/2024 21:22:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/08/2024 22:19:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
+ |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/21/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 21, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
+ |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
+ |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
+ |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6977-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6977-1-qemu-vulnerabilities.51440/)|Visit link for details.|Aug 22, 2024|
  |[USN-6975-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6975-1-linux-kernel-vulnerabilities.51436/)|Visit link for details.|Aug 21, 2024|
  |[USN-6974-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6974-1-linux-kernel-vulnerabilities.51435/)|Visit link for details.|Aug 21, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
- |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/21/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 21, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
- |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
- |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
- |[Microsoft Releases August 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates)|Visit link for details.|Aug 13, 2024|
  
 
 # CERT-FR
