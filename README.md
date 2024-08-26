@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/08/2024 09:23:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/08/2024 10:18:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,12 @@
  |[USN-6974-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6974-1-linux-kernel-vulnerabilities.51435/)|Visit link for details.|Aug 21, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -111,12 +117,6 @@
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1174/)|Visit link for details|2024-08-22|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -132,6 +132,23 @@
  |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
  |[2024-076: Vulnerabilities in OpenVPN](https://cert.europa.eu/publications/security-advisories/2024-076/)|On March 20, 2024, the OpenVPN community project team disclosed several vulnerabilities, CVE-2024-27459, CVE-2024-24974, CVE-2024-27903 and CVE-2024-1305 that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).|Monday, August 12, 2024 03:31:53 PM CEST|
  |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
+ |[Microsoft Edge security advisory (AV24-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-476)|Visit link for details|2024-08-23|
+ |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
+ |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
+ |[Drupal security advisory (AV24-473)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-473)|Visit link for details|2024-08-22|
+ |[Cisco security advisory (AV24-472)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-472)|Visit link for details|2024-08-22|
+ |[Mitel security advisory (AV24-471)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-471)|Visit link for details|2024-08-21|
+ |[GitHub security advisory (AV24-470)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-470)|Visit link for details|2024-08-21|
+ |[Atlassian security advisory (AV24-469)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-469)|Visit link for details|2024-08-21|
+ |[[Control systems] CISA ICS security advisories (AV24-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-468)|Visit link for details|2024-08-19|
+ |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[VIPRE - CVE-2024-5929](https://www.cyberveille-sante.gouv.fr/alertes/vipre-cve-2024-5929-2024-06-21)|Visit link for details.|22/08/2024|
  |[Joomla! - CVE-2024-27185](https://www.cyberveille-sante.gouv.fr/alertes/joomla-cve-2024-27185-2024-08-21)|Visit link for details.|21/08/2024|
  |[D-Link - CVE-2024-7833](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-7833-2024-08-21)|Visit link for details.|21/08/2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
- |[Microsoft Edge security advisory (AV24-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-476)|Visit link for details|2024-08-23|
- |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
- |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
- |[Drupal security advisory (AV24-473)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-473)|Visit link for details|2024-08-22|
- |[Cisco security advisory (AV24-472)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-472)|Visit link for details|2024-08-22|
- |[Mitel security advisory (AV24-471)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-471)|Visit link for details|2024-08-21|
- |[GitHub security advisory (AV24-470)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-470)|Visit link for details|2024-08-21|
- |[Atlassian security advisory (AV24-469)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-469)|Visit link for details|2024-08-21|
- |[[Control systems] CISA ICS security advisories (AV24-468)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-468)|Visit link for details|2024-08-19|
- |[Red Hat security advisory (AV24-467)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-467)|Visit link for details|2024-08-19|
  
