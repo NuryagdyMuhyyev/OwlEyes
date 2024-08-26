@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/08/2024 01:21:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/08/2024 02:18:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6973-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6973-3-linux-kernel-aws-vulnerabilities.51490/)|Visit link for details.|Aug 26, 2024|
  |[DSA-5758-1 trafficserver - security update](https://www.linux.org/threads/dsa-5758-1-trafficserver-security-update.51481/)|Visit link for details.|Aug 26, 2024|
  |[DSA-5757-1 chromium - security update](https://www.linux.org/threads/dsa-5757-1-chromium-security-update.51461/)|Visit link for details.|Aug 24, 2024|
  |[USN-6974-2: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6974-2-linux-kernel-oracle-vulnerabilities.51459/)|Visit link for details.|Aug 23, 2024|
@@ -43,19 +44,6 @@
  |[USN-6972-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6972-2-linux-kernel-aws-vulnerabilities.51445/)|Visit link for details.|Aug 22, 2024|
  |[USN-6979-1: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6979-1-linux-kernel-raspberry-pi-vulnerabilities.51444/)|Visit link for details.|Aug 22, 2024|
  |[USN-6977-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6977-1-qemu-vulnerabilities.51440/)|Visit link for details.|Aug 22, 2024|
- |[USN-6975-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6975-1-linux-kernel-vulnerabilities.51436/)|Visit link for details.|Aug 21, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # US-CERT
@@ -72,6 +60,18 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/08/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Aug 14, 2024|
  |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -94,13 +94,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apache Portable Runtime information disclosure (CVE-2023-49582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 26, 2024|
  |[Versa Director file upload (CVE-2024-39717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
  |[IBM App Connect Enterprise Certified Container (CVE-2022-43915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
  |[Amazon AWS code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
  |[Amazon AWS code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
  |[Rockwell Automation ThinManager ThinServer file upload (CVE-2024-7988)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
  |[Rockwell Automation ThinManager ThinServer privilege escalation (CVE-2024-7987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
- |[Rockwell Automation ThinManager ThinServer information disclosure (CVE-2024-7986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
  
 
 # EU-CERT
