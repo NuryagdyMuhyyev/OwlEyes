@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/08/2024 15:19:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/08/2024 16:17:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,12 +66,6 @@
  |[USN-6972-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6972-2-linux-kernel-aws-vulnerabilities.51445/)|Visit link for details.|Aug 22, 2024|
  |[USN-6979-1: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6979-1-linux-kernel-raspberry-pi-vulnerabilities.51444/)|Visit link for details.|Aug 22, 2024|
  |[USN-6977-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6977-1-qemu-vulnerabilities.51440/)|Visit link for details.|Aug 22, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -84,23 +84,37 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 6 Aug 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Directus cross-site scripting (CVE-2024-6533)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 26, 2024|
  |[Apache Portable Runtime information disclosure (CVE-2023-49582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 26, 2024|
  |[Vim denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2024|
  |[Versa Director file upload (CVE-2024-39717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
  |[IBM App Connect Enterprise Certified Container (CVE-2022-43915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
  |[U-Boot information disclosure (CVE-2024-42040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
  |[Axis Communications Autodesk Plugin information disclusre](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
- |[Amazon AWS code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Axis Communications Autodesk Plugin Exposure of Sensitive Information Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1181/)|Visit link for details|2024-08-23|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1180/)|Visit link for details|2024-08-23|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1179/)|Visit link for details|2024-08-23|
+ |[Qualcomm Wi-Fi SON LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1178/)|Visit link for details|2024-08-23|
+ |[Amazon AWS CloudFormation Templates Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1177/)|Visit link for details|2024-08-23|
+ |[Amazon AWS aws-glue-with-s2s-vpn Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1176/)|Visit link for details|2024-08-23|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1174/)|Visit link for details|2024-08-22|
  
 
 # EU-CERT
@@ -118,20 +132,6 @@
  |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
  |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
  |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Axis Communications Autodesk Plugin Exposure of Sensitive Information Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1181/)|Visit link for details|2024-08-23|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1180/)|Visit link for details|2024-08-23|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1179/)|Visit link for details|2024-08-23|
- |[Qualcomm Wi-Fi SON LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1178/)|Visit link for details|2024-08-23|
- |[Amazon AWS CloudFormation Templates Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1177/)|Visit link for details|2024-08-23|
- |[Amazon AWS aws-glue-with-s2s-vpn Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1176/)|Visit link for details|2024-08-23|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1174/)|Visit link for details|2024-08-22|
  
 
 # MA-CERT
