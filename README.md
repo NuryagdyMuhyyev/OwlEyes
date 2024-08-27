@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/08/2024 03:20:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/08/2024 04:19:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,28 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 26, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
- |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/21/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 21, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
- |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,10 +46,20 @@
  |[USN-6972-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6972-2-linux-kernel-aws-vulnerabilities.51445/)|Visit link for details.|Aug 22, 2024|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 26, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
+ |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/21/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 21, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/19/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 19, 2024|
+ |[CISA Releases Eleven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-releases-eleven-industrial-control-systems-advisories)|Visit link for details.|Aug 15, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 15, 2024|
  
 
 # HK-CERT
@@ -90,17 +78,29 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 6 Aug 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Linux Kernel information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 27, 2024|
  |[Directus cross-site scripting (CVE-2024-6533)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 26, 2024|
  |[Apache Portable Runtime information disclosure (CVE-2023-49582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 26, 2024|
  |[Vim denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2024|
- |[Versa Director file upload (CVE-2024-39717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
- |[IBM App Connect Enterprise Certified Container (CVE-2022-43915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
- |[U-Boot information disclosure (CVE-2024-42040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
- |[Axis Communications Autodesk Plugin information disclusre](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -151,23 +151,6 @@
  |[Google Chrome - CVE-2024-7968](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7968-2024-08-26)|Visit link for details.|26/08/2024|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 48982608/24 - Vulnérabilité critique dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-versa-director)| Une vulnérabilité critique de type zero-day, identifiée comme «CVE-2024-39717», a été corrigée dans Versa Director. Cette faille permet à un attaquant la lecture et la suppression arbitraires de…| 27 août 2024|
- |[ 48972608/24 - Vulnérabilités dans IBM QRadar SIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-ibm-qradar-siem)| IBM annonce la correction de plusieurs vulnérabilités dans IBM QRadar.  L’exploitation de ces failles peut permettre à un attaquant de causer à un attaquant distant de causer un déni de service,…| 26 août 2024|
- |[ 48962308/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-3)| VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de…| 23 août 2024|
- |[ 48952308/24 - « Zero-day » affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-navigateur-microsoft-edge)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités  affectant le navigateur Microsoft Edge. Une de ces vulnérabilités identifiée par…| 23 août 2024|
- |[ 48942308/24 - Vulnérabilité critique affectant le plugin «LiteSpeed Cache» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-litespeed-cache-pour-wordpress)| Une vulnérabilité critique affectant le plugin « LiteSpeed Cache» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses privilèges et de prendre le…| 23 août 2024|
- |[ 48932308/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk-0)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28987) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité peut permettre à un…| 23 août 2024|
- |[ 48922208/24 - Vulnérabilité critique dans GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-github-enterprise-server)| GitHub a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6800) affectant GitHub Enterprise Server (GHES). L'exploitation réussie de la vulnérabilité par la…| 22 août 2024|
- |[ 48902208/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-11)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, d’exécuter du code…| 22 août 2024|
- |[ 48912208/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-24)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 août 2024|
- |[ 48892208/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-1)| Deux vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de réussir une injection de…| 22 août 2024|
- |[ 48882208/24 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla-1)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données, de contourner la politique de…| 22 août 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[Microsoft Edge security advisory (AV24-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-476)|Visit link for details|2024-08-23|
  |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
  |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 48982608/24 - Vulnérabilité critique dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-versa-director)| Une vulnérabilité critique de type zero-day, identifiée comme «CVE-2024-39717», a été corrigée dans Versa Director. Cette faille permet à un attaquant la lecture et la suppression arbitraires de…| 27 août 2024|
+ |[ 48972608/24 - Vulnérabilités dans IBM QRadar SIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-ibm-qradar-siem)| IBM annonce la correction de plusieurs vulnérabilités dans IBM QRadar.  L’exploitation de ces failles peut permettre à un attaquant de causer à un attaquant distant de causer un déni de service,…| 26 août 2024|
+ |[ 48962308/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-3)| VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de…| 23 août 2024|
+ |[ 48952308/24 - « Zero-day » affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-navigateur-microsoft-edge)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités  affectant le navigateur Microsoft Edge. Une de ces vulnérabilités identifiée par…| 23 août 2024|
+ |[ 48942308/24 - Vulnérabilité critique affectant le plugin «LiteSpeed Cache» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-litespeed-cache-pour-wordpress)| Une vulnérabilité critique affectant le plugin « LiteSpeed Cache» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses privilèges et de prendre le…| 23 août 2024|
+ |[ 48932308/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk-0)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28987) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité peut permettre à un…| 23 août 2024|
+ |[ 48922208/24 - Vulnérabilité critique dans GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-github-enterprise-server)| GitHub a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6800) affectant GitHub Enterprise Server (GHES). L'exploitation réussie de la vulnérabilité par la…| 22 août 2024|
+ |[ 48902208/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-11)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, d’exécuter du code…| 22 août 2024|
+ |[ 48912208/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-24)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 août 2024|
+ |[ 48892208/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-1)| Deux vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de réussir une injection de…| 22 août 2024|
+ |[ 48882208/24 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla-1)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données, de contourner la politique de…| 22 août 2024|
  
