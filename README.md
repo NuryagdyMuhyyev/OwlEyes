@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/08/2024 07:39:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/08/2024 08:21:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[ Ivanti Releases Security Updates for Avalanche, Neurons for ITSM, and Virtual Traffic Manager](https://www.cisa.gov/news-events/alerts/2024/08/13/ivanti-releases-security-updates-avalanche-neurons-itsm-and-virtual-traffic-manager)|Visit link for details.|Aug 13, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,23 +62,24 @@
  |[USN-6977-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-6977-1-qemu-vulnerabilities.51440/)|Visit link for details.|Aug 22, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache Portable Runtime information disclosure (CVE-2023-49582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 26, 2024|
- |[Versa Director file upload (CVE-2024-39717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
- |[IBM App Connect Enterprise Certified Container (CVE-2022-43915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
- |[Amazon AWS code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
- |[Amazon AWS code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
- |[Rockwell Automation ThinManager ThinServer file upload (CVE-2024-7988)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
- |[Rockwell Automation ThinManager ThinServer privilege escalation (CVE-2024-7987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[F5 Products Security Restriction Bypass, Information Disclosure and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-security-restriction-bypass-information-disclosure-and-denial-of-service-condition-vulnerability_20240827)|A vulnerability was identified in F5 Products, a remote user can exploit this vulnerability to trigger security restriction bypass, information disclosure and denial of service condition on the targeted system.|Release Date: 27 Aug 2024 |
+ |[SonicWall Products Security Restriction Bypass and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/sonicwall-products-security-restriction-bypass-and-denial-of-service-vulnerability_20240827)|A vulnerability has been identified in Sonicwall Products. A remote user can exploit this vulnerability to trigger security restriction bypass and denial of service condition on the targeted system. |Release Date: 27 Aug 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...| Release Date: 1 Aug 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240823)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-7971 is being exploited...|Release Date: 23 Aug 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. Note:Exploit in the...| Release Date: 2 Aug 2024 |
@@ -93,28 +88,19 @@
  |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220127)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 27 Jan 2022 |
  |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220121)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 21 Jan 2022 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 6 Aug 2024 |
- |[NetApp Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-denial-of-service-vulnerability_20240820)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 20 Aug 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240819)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 19 Aug 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Axis Communications Autodesk Plugin Exposure of Sensitive Information Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1181/)|Visit link for details|2024-08-23|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1180/)|Visit link for details|2024-08-23|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1179/)|Visit link for details|2024-08-23|
- |[Qualcomm Wi-Fi SON LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1178/)|Visit link for details|2024-08-23|
- |[Amazon AWS CloudFormation Templates Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1177/)|Visit link for details|2024-08-23|
- |[Amazon AWS aws-glue-with-s2s-vpn Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1176/)|Visit link for details|2024-08-23|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1174/)|Visit link for details|2024-08-22|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[Apache Portable Runtime information disclosure (CVE-2023-49582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 26, 2024|
+ |[Versa Director file upload (CVE-2024-39717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
+ |[IBM App Connect Enterprise Certified Container (CVE-2022-43915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
+ |[Axis Communications Autodesk Plugin information disclusre](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
+ |[Amazon AWS code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
+ |[Amazon AWS code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
+ |[Rockwell Automation ThinManager ThinServer file upload (CVE-2024-7988)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2024|
  
 
 # EU-CERT
@@ -134,21 +120,35 @@
  |[2024-075: Vulnerabilities in AMD CPUs](https://cert.europa.eu/publications/security-advisories/2024-075/)|On August 9, 2024, AMD disclosed a high-severity vulnerability, CVE-2023-31315 (SinkClose), affecting multiple generations of EPYC, Ryzen, and Threadripper processors. The flaw allows attackers with kernel-level access to gain Ring-2 privileges, potentially installing undetectable malware by modifying System Management Mode (SMM) settings.|Monday, August 12, 2024 03:14:34 PM CEST|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Centreon - CVE-2024-33853](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-33853-2024-08-26)|Visit link for details.|26/08/2024|
- |[D-Link - CVE-2024-44382](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44382-2024-08-26)|Visit link for details.|26/08/2024|
- |[Google Chrome - CVE-2024-7968](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7968-2024-08-26)|Visit link for details.|26/08/2024|
- |[Zoho ManageEngine - CVE-2024-5466](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5466-2024-08-26)|Visit link for details.|26/08/2024|
- |[WordPress WPML Multilingual CMS - CVE-2024-6386](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpml-multilingual-cms-cve-2024-6386-2024-08-26)|Visit link for details.|26/08/2024|
- |[Apache HTTP - CVE-2024-38477](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38477-2024-07-04)|Visit link for details.|26/08/2024|
- |[D-Link - CVE-2024-29385](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-29385-2024-03-25)|Visit link for details.|26/08/2024|
- |[WordPress LiteSpeed Cache - CVE-2024-28000](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-litespeed-cache-cve-2024-28000-2024-08-23)|Visit link for details.|23/08/2024|
- |[SonicWall - CVE-2024-40766](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-40766-2024-08-23)|Visit link for details.|23/08/2024|
- |[Forcepoint - CVE-2023-6452](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cve-2023-6452-2024-08-23)|Visit link for details.|23/08/2024|
- |[Spring - CVE-2024-22263](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22263-2024-06-20)|Visit link for details.|23/08/2024|
+ |[Axis Communications Autodesk Plugin Exposure of Sensitive Information Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1181/)|Visit link for details|2024-08-23|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1180/)|Visit link for details|2024-08-23|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1179/)|Visit link for details|2024-08-23|
+ |[Qualcomm Wi-Fi SON LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1178/)|Visit link for details|2024-08-23|
+ |[Amazon AWS CloudFormation Templates Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1177/)|Visit link for details|2024-08-23|
+ |[Amazon AWS aws-glue-with-s2s-vpn Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1176/)|Visit link for details|2024-08-23|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1174/)|Visit link for details|2024-08-22|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
+ |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
+ |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
+ |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
+ |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
+ |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
+ |[Microsoft Edge security advisory (AV24-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-476)|Visit link for details|2024-08-23|
+ |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
+ |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
+ |[Drupal security advisory (AV24-473)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-473)|Visit link for details|2024-08-22|
+ |[Cisco security advisory (AV24-472)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-472)|Visit link for details|2024-08-22|
  
 
 # MA-CERT
@@ -168,19 +168,19 @@
  |[ 48872208/24 - Vulnérabilité dans les produits Microsoft Azure ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-azure)| Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges. | 22 août 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
- |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
- |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
- |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
- |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
- |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
- |[Microsoft Edge security advisory (AV24-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-476)|Visit link for details|2024-08-23|
- |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
- |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
- |[Drupal security advisory (AV24-473)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-473)|Visit link for details|2024-08-22|
- |[Cisco security advisory (AV24-472)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-472)|Visit link for details|2024-08-22|
+ |[Centreon - CVE-2024-33853](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-33853-2024-08-26)|Visit link for details.|26/08/2024|
+ |[D-Link - CVE-2024-44382](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44382-2024-08-26)|Visit link for details.|26/08/2024|
+ |[Google Chrome - CVE-2024-7968](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7968-2024-08-26)|Visit link for details.|26/08/2024|
+ |[Zoho ManageEngine - CVE-2024-5466](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5466-2024-08-26)|Visit link for details.|26/08/2024|
+ |[WordPress WPML Multilingual CMS - CVE-2024-6386](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpml-multilingual-cms-cve-2024-6386-2024-08-26)|Visit link for details.|26/08/2024|
+ |[Apache HTTP - CVE-2024-38477](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-cve-2024-38477-2024-07-04)|Visit link for details.|26/08/2024|
+ |[D-Link - CVE-2024-29385](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-29385-2024-03-25)|Visit link for details.|26/08/2024|
+ |[WordPress LiteSpeed Cache - CVE-2024-28000](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-litespeed-cache-cve-2024-28000-2024-08-23)|Visit link for details.|23/08/2024|
+ |[SonicWall - CVE-2024-40766](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-40766-2024-08-23)|Visit link for details.|23/08/2024|
+ |[Forcepoint - CVE-2023-6452](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cve-2023-6452-2024-08-23)|Visit link for details.|23/08/2024|
+ |[Spring - CVE-2024-22263](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-22263-2024-06-20)|Visit link for details.|23/08/2024|
  
