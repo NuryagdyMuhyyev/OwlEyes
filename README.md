@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/08/2024 02:20:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/08/2024 03:18:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -88,10 +94,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome code execution (CVE-2024-8194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
+ |[Google Chrome buffer overflow (CVE-2024-8193)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
+ |[Google Chrome buffer overflow (CVE-2024-8198)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
  |[Cisco Application Policy Infrastructure Controller security bypass (CVE-2024-20279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
- |[Cisco Application Policy Infrastructure Controller privilege escalation (CVE-2024-20478)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
- |[Cisco NX-OS code execution (CVE-2024-20411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
- |[Cisco NX-OS privilege escalation (CVE-2024-20413)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
@@ -111,12 +117,6 @@
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -134,23 +134,6 @@
  |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49002808/24 - Vulnérabilité critique dans WPML plugin du CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-wpml-plugin-du-cms-wordpress)| WordPress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6386) affectant le plugin WPML. L’exploitation de cette faille peut permettre à un attaquant non…| 28 août 2024|
- |[ 48992808/24 - Vulnérabilité critique affectant Rockwell Automation ThinManager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-thinmanager)| Rockwell Automation  annonce la correction de trois vulnérabilités affectant les versions susmentionnées de son produit ThinManager.  L'exploitation de ces vulnérabilités  peut  permettre  à un…| 28 août 2024|
- |[ 48982608/24 - Vulnérabilité critique dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-versa-director)| Une vulnérabilité critique de type zero-day, identifiée comme «CVE-2024-39717», a été corrigée dans Versa Director. Cette faille permet à un attaquant la lecture et la suppression arbitraires de…| 27 août 2024|
- |[ 48972608/24 - Vulnérabilités dans IBM QRadar SIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-ibm-qradar-siem)| IBM annonce la correction de plusieurs vulnérabilités dans IBM QRadar.  L’exploitation de ces failles peut permettre à un attaquant de causer à un attaquant distant de causer un déni de service,…| 26 août 2024|
- |[ 48962308/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-3)| VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de…| 23 août 2024|
- |[ 48952308/24 - « Zero-day » affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-navigateur-microsoft-edge)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités  affectant le navigateur Microsoft Edge. Une de ces vulnérabilités identifiée par…| 23 août 2024|
- |[ 48942308/24 - Vulnérabilité critique affectant le plugin «LiteSpeed Cache» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-litespeed-cache-pour-wordpress)| Une vulnérabilité critique affectant le plugin « LiteSpeed Cache» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses privilèges et de prendre le…| 23 août 2024|
- |[ 48932308/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk-0)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28987) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité peut permettre à un…| 23 août 2024|
- |[ 48922208/24 - Vulnérabilité critique dans GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-github-enterprise-server)| GitHub a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6800) affectant GitHub Enterprise Server (GHES). L'exploitation réussie de la vulnérabilité par la…| 22 août 2024|
- |[ 48902208/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-11)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, d’exécuter du code…| 22 août 2024|
- |[ 48912208/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-24)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 août 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -166,6 +149,23 @@
  |[Zoho ManageEngine - CVE-2024-5556](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5556-2024-08-27)|Visit link for details.|27/08/2024|
  |[Python - CVE-2024-8088](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2024-8088-2024-08-27)|Visit link for details.|27/08/2024|
  |[TP-Link - CVE-2024-42815](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-42815-2024-08-27)|Visit link for details.|27/08/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49002808/24 - Vulnérabilité critique dans WPML plugin du CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-wpml-plugin-du-cms-wordpress)| WordPress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6386) affectant le plugin WPML. L’exploitation de cette faille peut permettre à un attaquant non…| 28 août 2024|
+ |[ 48992808/24 - Vulnérabilité critique affectant Rockwell Automation ThinManager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-thinmanager)| Rockwell Automation  annonce la correction de trois vulnérabilités affectant les versions susmentionnées de son produit ThinManager.  L'exploitation de ces vulnérabilités  peut  permettre  à un…| 28 août 2024|
+ |[ 48982608/24 - Vulnérabilité critique dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-versa-director)| Une vulnérabilité critique de type zero-day, identifiée comme «CVE-2024-39717», a été corrigée dans Versa Director. Cette faille permet à un attaquant la lecture et la suppression arbitraires de…| 27 août 2024|
+ |[ 48972608/24 - Vulnérabilités dans IBM QRadar SIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-ibm-qradar-siem)| IBM annonce la correction de plusieurs vulnérabilités dans IBM QRadar.  L’exploitation de ces failles peut permettre à un attaquant de causer à un attaquant distant de causer un déni de service,…| 26 août 2024|
+ |[ 48962308/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-3)| VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de…| 23 août 2024|
+ |[ 48952308/24 - « Zero-day » affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-navigateur-microsoft-edge)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités  affectant le navigateur Microsoft Edge. Une de ces vulnérabilités identifiée par…| 23 août 2024|
+ |[ 48942308/24 - Vulnérabilité critique affectant le plugin «LiteSpeed Cache» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-litespeed-cache-pour-wordpress)| Une vulnérabilité critique affectant le plugin « LiteSpeed Cache» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses privilèges et de prendre le…| 23 août 2024|
+ |[ 48932308/24 - Vulnérabilité critique dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-solarwinds-web-help-desk-0)| SolarWinds a publié des mises à jour de sécurité corrigeant une vulnérabilité critique (CVE-2024-28987) dans leur solution Web Help Desk. L'exploitation réussie de la vulnérabilité peut permettre à un…| 23 août 2024|
+ |[ 48922208/24 - Vulnérabilité critique dans GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-github-enterprise-server)| GitHub a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6800) affectant GitHub Enterprise Server (GHES). L'exploitation réussie de la vulnérabilité par la…| 22 août 2024|
+ |[ 48902208/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-11)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, d’exécuter du code…| 22 août 2024|
+ |[ 48912208/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-24)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 août 2024|
  
 
 # CA-CCS
