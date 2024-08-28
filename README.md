@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/08/2024 06:26:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/08/2024 07:40:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,6 +74,22 @@
  |---|---|---|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240822)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-7971 is being exploited...| Release Date: 22 Aug 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 6 Aug 2024 |
+ |[F5 Products Security Restriction Bypass, Information Disclosure and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-security-restriction-bypass-information-disclosure-and-denial-of-service-condition-vulnerability_20240827)|A vulnerability was identified in F5 Products, a remote user can exploit this vulnerability to trigger security restriction bypass, information disclosure and denial of service condition on the targeted system.|Release Date: 27 Aug 2024 |
+ |[SonicWall Products Security Restriction Bypass and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/sonicwall-products-security-restriction-bypass-and-denial-of-service-vulnerability_20240827)|A vulnerability has been identified in Sonicwall Products. A remote user can exploit this vulnerability to trigger security restriction bypass and denial of service condition on the targeted system. |Release Date: 27 Aug 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...| Release Date: 1 Aug 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240823)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-7971 is being exploited...|Release Date: 23 Aug 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. Note:Exploit in the...| Release Date: 2 Aug 2024 |
+ |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220204)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 4 Feb 2022 |
+ |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220127)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 27 Jan 2022 |
+ |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220121)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 21 Jan 2022 |
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -85,36 +101,6 @@
  |[Versa Director file upload (CVE-2024-39717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
  |[IBM App Connect Enterprise Certified Container (CVE-2022-43915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2024|
  |[U-Boot information disclosure (CVE-2024-42040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[F5 Products Security Restriction Bypass, Information Disclosure and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-security-restriction-bypass-information-disclosure-and-denial-of-service-condition-vulnerability_20240827)|A vulnerability was identified in F5 Products, a remote user can exploit this vulnerability to trigger security restriction bypass, information disclosure and denial of service condition on the targeted system.|Release Date: 27 Aug 2024 |
- |[SonicWall Products Security Restriction Bypass and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/sonicwall-products-security-restriction-bypass-and-denial-of-service-vulnerability_20240827)|A vulnerability has been identified in Sonicwall Products. A remote user can exploit this vulnerability to trigger security restriction bypass and denial of service condition on the targeted system. |Release Date: 27 Aug 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...| Release Date: 1 Aug 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240823)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-7971 is being exploited...|Release Date: 23 Aug 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. Note:Exploit in the...| Release Date: 2 Aug 2024 |
- |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220204)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 4 Feb 2022 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240822)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Notes:CVE-2024-7971 is being exploited...|Release Date: 22 Aug 2024 |
- |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220127)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 27 Jan 2022 |
- |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220121)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 21 Jan 2022 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 6 Aug 2024 |
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel Netfilter Conntrack Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1182/)|Visit link for details|2024-08-27|
- |[Axis Communications Autodesk Plugin Exposure of Sensitive Information Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1181/)|Visit link for details|2024-08-23|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1180/)|Visit link for details|2024-08-23|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1179/)|Visit link for details|2024-08-23|
- |[Qualcomm Wi-Fi SON LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1178/)|Visit link for details|2024-08-23|
- |[Amazon AWS CloudFormation Templates Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1177/)|Visit link for details|2024-08-23|
- |[Amazon AWS aws-glue-with-s2s-vpn Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1176/)|Visit link for details|2024-08-23|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
  
 
 # EU-CERT
@@ -134,21 +120,18 @@
  |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
- |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
- |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
- |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
- |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
- |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
- |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
- |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
- |[Microsoft Edge security advisory (AV24-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-476)|Visit link for details|2024-08-23|
- |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
- |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
+ |[Linux Kernel Netfilter Conntrack Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1182/)|Visit link for details|2024-08-27|
+ |[Axis Communications Autodesk Plugin Exposure of Sensitive Information Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1181/)|Visit link for details|2024-08-23|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1180/)|Visit link for details|2024-08-23|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1179/)|Visit link for details|2024-08-23|
+ |[Qualcomm Wi-Fi SON LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1178/)|Visit link for details|2024-08-23|
+ |[Amazon AWS CloudFormation Templates Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1177/)|Visit link for details|2024-08-23|
+ |[Amazon AWS aws-glue-with-s2s-vpn Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1176/)|Visit link for details|2024-08-23|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
  
 
 # MA-CERT
@@ -166,6 +149,23 @@
  |[ 48912208/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-24)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 août 2024|
  |[ 48892208/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-1)| Deux vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de réussir une injection de…| 22 août 2024|
  |[ 48882208/24 - Vulnérabilités dans le CMS Joomla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-joomla-1)| Plusieurs vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données, de contourner la politique de…| 22 août 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
+ |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
+ |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
+ |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
+ |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
+ |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
+ |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
+ |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
+ |[Microsoft Edge security advisory (AV24-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-476)|Visit link for details|2024-08-23|
+ |[SolarWinds security advisory (AV24-475)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-475)|Visit link for details|2024-08-22|
+ |[Google Chrome security advisory (AV24-474)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-474)|Visit link for details|2024-08-22|
  
 
 # CERT-SANTE
