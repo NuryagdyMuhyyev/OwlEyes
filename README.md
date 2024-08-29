@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/08/2024 11:28:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/08/2024 12:18:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6972-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6972-4-linux-kernel-oracle-vulnerabilities.51514/)|Visit link for details.|Aug 28, 2024|
- |[USN-6981-1: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-1-drupal-vulnerabilities.51497/)|Visit link for details.|Aug 27, 2024|
- |[DSA-5759-1 python3.11 - security update](https://www.linux.org/threads/dsa-5759-1-python3-11-security-update.51496/)|Visit link for details.|Aug 27, 2024|
- |[USN-6973-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6973-3-linux-kernel-aws-vulnerabilities.51490/)|Visit link for details.|Aug 26, 2024|
- |[DSA-5758-1 trafficserver - security update](https://www.linux.org/threads/dsa-5758-1-trafficserver-security-update.51481/)|Visit link for details.|Aug 26, 2024|
- |[DSA-5757-1 chromium - security update](https://www.linux.org/threads/dsa-5757-1-chromium-security-update.51461/)|Visit link for details.|Aug 24, 2024|
- |[USN-6974-2: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6974-2-linux-kernel-oracle-vulnerabilities.51459/)|Visit link for details.|Aug 23, 2024|
- |[USN-6972-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6972-3-linux-kernel-azure-vulnerabilities.51458/)|Visit link for details.|Aug 23, 2024|
- |[USN-6973-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6973-2-linux-kernel-azure-vulnerabilities.51457/)|Visit link for details.|Aug 23, 2024|
- |[USN-6980-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6980-1-imagemagick-vulnerabilities.51448/)|Visit link for details.|Aug 23, 2024|
- |[USN-6978-1: XStream vulnerabilities](https://www.linux.org/threads/usn-6978-1-xstream-vulnerabilities.51447/)|Visit link for details.|Aug 22, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
  |---|---|---|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6972-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6972-4-linux-kernel-oracle-vulnerabilities.51514/)|Visit link for details.|Aug 28, 2024|
+ |[USN-6981-1: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-1-drupal-vulnerabilities.51497/)|Visit link for details.|Aug 27, 2024|
+ |[DSA-5759-1 python3.11 - security update](https://www.linux.org/threads/dsa-5759-1-python3-11-security-update.51496/)|Visit link for details.|Aug 27, 2024|
+ |[USN-6973-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6973-3-linux-kernel-aws-vulnerabilities.51490/)|Visit link for details.|Aug 26, 2024|
+ |[DSA-5758-1 trafficserver - security update](https://www.linux.org/threads/dsa-5758-1-trafficserver-security-update.51481/)|Visit link for details.|Aug 26, 2024|
+ |[DSA-5757-1 chromium - security update](https://www.linux.org/threads/dsa-5757-1-chromium-security-update.51461/)|Visit link for details.|Aug 24, 2024|
+ |[USN-6974-2: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6974-2-linux-kernel-oracle-vulnerabilities.51459/)|Visit link for details.|Aug 23, 2024|
+ |[USN-6972-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6972-3-linux-kernel-azure-vulnerabilities.51458/)|Visit link for details.|Aug 23, 2024|
+ |[USN-6973-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6973-2-linux-kernel-azure-vulnerabilities.51457/)|Visit link for details.|Aug 23, 2024|
+ |[USN-6980-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6980-1-imagemagick-vulnerabilities.51448/)|Visit link for details.|Aug 23, 2024|
+ |[USN-6978-1: XStream vulnerabilities](https://www.linux.org/threads/usn-6978-1-xstream-vulnerabilities.51447/)|Visit link for details.|Aug 22, 2024|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,12 +84,6 @@
  |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220127)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 27 Jan 2022 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +95,12 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -134,21 +134,21 @@
  |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
- |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
- |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
- |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
- |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
- |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
- |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
- |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
- |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
- |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
- |[Microsoft Edge security advisory (AV24-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-476)|Visit link for details|2024-08-23|
+ |[Google Chrome - CVE-2024-7967](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7967-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Linux - CVE-2023-52735](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52735-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Dell - CVE-2024-39584](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-39584-2024-08-28)|Visit link for details.|28/08/2024|
+ |[YubiKey - CVE-2024-31498](https://www.cyberveille-sante.gouv.fr/alertes/yubikey-cve-2024-31498-2024-04-08)|Visit link for details.|28/08/2024|
+ |[Centreon - CVE-2024-33852](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-33852-2024-08-27)|Visit link for details.|27/08/2024|
+ |[Google Chrome - CVE-2024-7965](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7965-2024-08-27)|Visit link for details.|27/08/2024|
+ |[Zoho ManageEngine - CVE-2024-5556](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5556-2024-08-27)|Visit link for details.|27/08/2024|
+ |[Python - CVE-2024-8088](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2024-8088-2024-08-27)|Visit link for details.|27/08/2024|
+ |[TP-Link - CVE-2024-42815](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-42815-2024-08-27)|Visit link for details.|27/08/2024|
  
 
 # MA-CERT
@@ -168,19 +168,19 @@
  |[ 48912208/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-24)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 août 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome - CVE-2024-7967](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7967-2024-08-28)|Visit link for details.|28/08/2024|
- |[Linux - CVE-2023-52735](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52735-2024-08-28)|Visit link for details.|28/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|28/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|28/08/2024|
- |[Dell - CVE-2024-39584](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-39584-2024-08-28)|Visit link for details.|28/08/2024|
- |[YubiKey - CVE-2024-31498](https://www.cyberveille-sante.gouv.fr/alertes/yubikey-cve-2024-31498-2024-04-08)|Visit link for details.|28/08/2024|
- |[Centreon - CVE-2024-33852](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-33852-2024-08-27)|Visit link for details.|27/08/2024|
- |[Google Chrome - CVE-2024-7965](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7965-2024-08-27)|Visit link for details.|27/08/2024|
- |[Zoho ManageEngine - CVE-2024-5556](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5556-2024-08-27)|Visit link for details.|27/08/2024|
- |[Python - CVE-2024-8088](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2024-8088-2024-08-27)|Visit link for details.|27/08/2024|
- |[TP-Link - CVE-2024-42815](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-42815-2024-08-27)|Visit link for details.|27/08/2024|
+ |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
+ |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
+ |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
+ |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
+ |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
+ |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
+ |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
+ |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
+ |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
+ |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
+ |[Microsoft Edge security advisory (AV24-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-476)|Visit link for details|2024-08-23|
  
