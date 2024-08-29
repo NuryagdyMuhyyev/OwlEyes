@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/08/2024 09:24:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/08/2024 10:18:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,37 +90,17 @@
  |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220127)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 27 Jan 2022 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Tenda O6 frommacFilterModify stack-based overflow (CVE-2024-8229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
+ |[Progress WS_FTP Server security bypass (CVE-2024-7745)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
+ |[Tenda O6 setMacFilterList stack-based overflow (CVE-2024-8230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
  |[Tenda O5 setMacFilterList stack-based overflow (CVE-2024-8228)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
- |[JupyterLab cross-site scripting (CVE-2024-43805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
- |[Google Chrome code execution (CVE-2024-8194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
- |[Google Chrome buffer overflow (CVE-2024-8193)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 28, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel Netfilter Conntrack Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1182/)|Visit link for details|2024-08-27|
- |[Axis Communications Autodesk Plugin Exposure of Sensitive Information Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1181/)|Visit link for details|2024-08-23|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1180/)|Visit link for details|2024-08-23|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1179/)|Visit link for details|2024-08-23|
- |[Qualcomm Wi-Fi SON LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1178/)|Visit link for details|2024-08-23|
- |[Amazon AWS CloudFormation Templates Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1177/)|Visit link for details|2024-08-23|
- |[Amazon AWS aws-glue-with-s2s-vpn Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1176/)|Visit link for details|2024-08-23|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
  
 
 # EU-CERT
@@ -134,23 +120,6 @@
  |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome - CVE-2024-7967](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7967-2024-08-28)|Visit link for details.|28/08/2024|
- |[Linux - CVE-2023-52735](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52735-2024-08-28)|Visit link for details.|28/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|28/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|28/08/2024|
- |[Dell - CVE-2024-39584](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-39584-2024-08-28)|Visit link for details.|28/08/2024|
- |[YubiKey - CVE-2024-31498](https://www.cyberveille-sante.gouv.fr/alertes/yubikey-cve-2024-31498-2024-04-08)|Visit link for details.|28/08/2024|
- |[Centreon - CVE-2024-33852](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-33852-2024-08-27)|Visit link for details.|27/08/2024|
- |[Google Chrome - CVE-2024-7965](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7965-2024-08-27)|Visit link for details.|27/08/2024|
- |[Zoho ManageEngine - CVE-2024-5556](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5556-2024-08-27)|Visit link for details.|27/08/2024|
- |[Python - CVE-2024-8088](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2024-8088-2024-08-27)|Visit link for details.|27/08/2024|
- |[TP-Link - CVE-2024-42815](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-42815-2024-08-27)|Visit link for details.|27/08/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -168,6 +137,20 @@
  |[ 48912208/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-24)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 22 août 2024|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel Netfilter Conntrack Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1182/)|Visit link for details|2024-08-27|
+ |[Axis Communications Autodesk Plugin Exposure of Sensitive Information Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1181/)|Visit link for details|2024-08-23|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1180/)|Visit link for details|2024-08-23|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1179/)|Visit link for details|2024-08-23|
+ |[Qualcomm Wi-Fi SON LDB Service Improper Input Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1178/)|Visit link for details|2024-08-23|
+ |[Amazon AWS CloudFormation Templates Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1177/)|Visit link for details|2024-08-23|
+ |[Amazon AWS aws-glue-with-s2s-vpn Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1176/)|Visit link for details|2024-08-23|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1175/)|Visit link for details|2024-08-22|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
  |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
  |[Microsoft Edge security advisory (AV24-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-476)|Visit link for details|2024-08-23|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome - CVE-2024-7967](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7967-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Linux - CVE-2023-52735](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52735-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Dell - CVE-2024-39584](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-39584-2024-08-28)|Visit link for details.|28/08/2024|
+ |[YubiKey - CVE-2024-31498](https://www.cyberveille-sante.gouv.fr/alertes/yubikey-cve-2024-31498-2024-04-08)|Visit link for details.|28/08/2024|
+ |[Centreon - CVE-2024-33852](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-33852-2024-08-27)|Visit link for details.|27/08/2024|
+ |[Google Chrome - CVE-2024-7965](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7965-2024-08-27)|Visit link for details.|27/08/2024|
+ |[Zoho ManageEngine - CVE-2024-5556](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5556-2024-08-27)|Visit link for details.|27/08/2024|
+ |[Python - CVE-2024-8088](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2024-8088-2024-08-27)|Visit link for details.|27/08/2024|
+ |[TP-Link - CVE-2024-42815](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-42815-2024-08-27)|Visit link for details.|27/08/2024|
  
