@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/08/2024 15:20:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/08/2024 16:18:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,7 +62,7 @@
  |[USN-6973-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6973-2-linux-kernel-azure-vulnerabilities.51457/)|Visit link for details.|Aug 23, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -84,7 +84,20 @@
  |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220204)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 4 Feb 2022 |
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SportsNET SQL injection (CVE-2024-29726)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
+ |[SportsNET SQL injection (CVE-2024-29725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
+ |[SportsNET SQL injection (CVE-2024-29724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
+ |[SportsNET SQL injection (CVE-2024-29723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -107,17 +120,36 @@
  |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[SportsNET SQL injection (CVE-2024-29726)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
- |[SportsNET SQL injection (CVE-2024-29725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
- |[SportsNET SQL injection (CVE-2024-29724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
- |[SportsNET SQL injection (CVE-2024-29723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Cisco - CVE-2024-20446](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20446-2024-08-29)|Visit link for details.|29/08/2024|
+ |[Fortra FileCatalyst - CVE-2024-6633](https://www.cyberveille-sante.gouv.fr/alertes/fortra-filecatalyst-cve-2024-6633-2024-08-29)|Visit link for details.|29/08/2024|
+ |[Google Chrome - CVE-2024-7969](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7969-2024-08-29)|Visit link for details.|29/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6672](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6672-2024-08-29)|Visit link for details.|29/08/2024|
+ |[Wireshark - CVE-2024-8250](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2024-8250-2024-08-29)|Visit link for details.|29/08/2024|
+ |[Google Chrome - CVE-2024-5274](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5274-2024-05-24)|Visit link for details.|29/08/2024|
+ |[VMware - CVE-2024-37079](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37079-2024-06-18)|Visit link for details.|29/08/2024|
+ |[Google Chrome - CVE-2024-7967](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7967-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Linux - CVE-2023-52735](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52735-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|28/08/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49052908/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-10)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 29 août 2024|
+ |[ 49012908/24 - Vulnérabilité critique affectant Forta FileCatalyst Workflow ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-forta-filecatalyst-workflow)| Fortra  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit FileCatalyst Workflow.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 29 août 2024|
+ |[ 49042908/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-0)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire.| 29 août 2024|
+ |[ 49022808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-12)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la politique…| 29 août 2024|
+ |[ 49002808/24 - Vulnérabilité critique dans WPML plugin du CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-wpml-plugin-du-cms-wordpress)| WordPress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6386) affectant le plugin WPML. L’exploitation de cette faille peut permettre à un attaquant non…| 28 août 2024|
+ |[ 48992808/24 - Vulnérabilité critique affectant Rockwell Automation ThinManager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-thinmanager)| Rockwell Automation  annonce la correction de trois vulnérabilités affectant les versions susmentionnées de son produit ThinManager.  L'exploitation de ces vulnérabilités  peut  permettre  à un…| 28 août 2024|
+ |[ 48982608/24 - Vulnérabilité critique dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-versa-director)| Une vulnérabilité critique de type zero-day, identifiée comme «CVE-2024-39717», a été corrigée dans Versa Director. Cette faille permet à un attaquant la lecture et la suppression arbitraires de…| 27 août 2024|
+ |[ 48972608/24 - Vulnérabilités dans IBM QRadar SIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-ibm-qradar-siem)| IBM annonce la correction de plusieurs vulnérabilités dans IBM QRadar.  L’exploitation de ces failles peut permettre à un attaquant de causer à un attaquant distant de causer un déni de service,…| 26 août 2024|
+ |[ 48962308/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-3)| VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de…| 23 août 2024|
  
 
 # ZERODAYINITIATIVE
@@ -149,37 +181,4 @@
  |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
  |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
  |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49052908/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-10)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 29 août 2024|
- |[ 49012908/24 - Vulnérabilité critique affectant Forta FileCatalyst Workflow ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-forta-filecatalyst-workflow)| Fortra  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit FileCatalyst Workflow.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 29 août 2024|
- |[ 49042908/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-0)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire.| 29 août 2024|
- |[ 49022808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-12)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la politique…| 29 août 2024|
- |[ 49002808/24 - Vulnérabilité critique dans WPML plugin du CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-wpml-plugin-du-cms-wordpress)| WordPress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6386) affectant le plugin WPML. L’exploitation de cette faille peut permettre à un attaquant non…| 28 août 2024|
- |[ 48992808/24 - Vulnérabilité critique affectant Rockwell Automation ThinManager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-thinmanager)| Rockwell Automation  annonce la correction de trois vulnérabilités affectant les versions susmentionnées de son produit ThinManager.  L'exploitation de ces vulnérabilités  peut  permettre  à un…| 28 août 2024|
- |[ 48982608/24 - Vulnérabilité critique dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-versa-director)| Une vulnérabilité critique de type zero-day, identifiée comme «CVE-2024-39717», a été corrigée dans Versa Director. Cette faille permet à un attaquant la lecture et la suppression arbitraires de…| 27 août 2024|
- |[ 48972608/24 - Vulnérabilités dans IBM QRadar SIEM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-ibm-qradar-siem)| IBM annonce la correction de plusieurs vulnérabilités dans IBM QRadar.  L’exploitation de ces failles peut permettre à un attaquant de causer à un attaquant distant de causer un déni de service,…| 26 août 2024|
- |[ 48962308/24 - Vulnérabilités dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-vmware-3)| VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant de causer un déni de…| 23 août 2024|
- |[ 48952308/24 - « Zero-day » affectant le navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-navigateur-microsoft-edge)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités  affectant le navigateur Microsoft Edge. Une de ces vulnérabilités identifiée par…| 23 août 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco - CVE-2024-20446](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20446-2024-08-29)|Visit link for details.|29/08/2024|
- |[Fortra FileCatalyst - CVE-2024-6633](https://www.cyberveille-sante.gouv.fr/alertes/fortra-filecatalyst-cve-2024-6633-2024-08-29)|Visit link for details.|29/08/2024|
- |[Google Chrome - CVE-2024-7969](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7969-2024-08-29)|Visit link for details.|29/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6672](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6672-2024-08-29)|Visit link for details.|29/08/2024|
- |[Wireshark - CVE-2024-8250](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2024-8250-2024-08-29)|Visit link for details.|29/08/2024|
- |[Google Chrome - CVE-2024-5274](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5274-2024-05-24)|Visit link for details.|29/08/2024|
- |[VMware - CVE-2024-37079](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37079-2024-06-18)|Visit link for details.|29/08/2024|
- |[Google Chrome - CVE-2024-7967](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7967-2024-08-28)|Visit link for details.|28/08/2024|
- |[Linux - CVE-2023-52735](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52735-2024-08-28)|Visit link for details.|28/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|28/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|28/08/2024|
  
