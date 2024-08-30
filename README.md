@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/08/2024 13:25:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/08/2024 14:21:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,20 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA and Partners Release Advisory on RansomHub Ransomware](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware)|Visit link for details.|Aug 29, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 29, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
+ |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
+ |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 26, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
+ |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
  
 
 # LINUX-SEC
@@ -52,20 +62,16 @@
  |[USN-6973-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6973-2-linux-kernel-azure-vulnerabilities.51457/)|Visit link for details.|Aug 23, 2024|
  
 
-# US-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA and Partners Release Advisory on RansomHub Ransomware](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware)|Visit link for details.|Aug 29, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 29, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
- |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
- |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 26, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
- |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -84,12 +90,6 @@
  |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220204)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 4 Feb 2022 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,20 +101,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress Software WhatsUp Gold getMonitorJoin SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1187/)|Visit link for details|2024-08-29|
- |[Progress Software WhatsUp Gold GetStatisticalMonitorList SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1186/)|Visit link for details|2024-08-29|
- |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
- |[Progress Software WS_FTP Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1184/)|Visit link for details|2024-08-29|
- |[Delta Electronics DTN Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1183/)|Visit link for details|2024-08-29|
- |[Linux Kernel Netfilter Conntrack Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1182/)|Visit link for details|2024-08-27|
- |[Axis Communications Autodesk Plugin Exposure of Sensitive Information Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1181/)|Visit link for details|2024-08-23|
- |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1180/)|Visit link for details|2024-08-23|
  
 
 # EU-CERT
@@ -134,21 +120,18 @@
  |[2024-077: Vulnerabilities in Microsoft Office](https://cert.europa.eu/publications/security-advisories/2024-077/)|On August 8, 2024, Microsoft disclosed a high-severity vulnerability tracked as CVE-2024-38200 affecting Office 2016 that could expose NTLM hashes to a remote attacker. This security flaw is caused by an information disclosure weakness that enables unauthorised actors to access protected information.|Monday, August 12, 2024 03:36:04 PM CEST|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco - CVE-2024-20446](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20446-2024-08-29)|Visit link for details.|29/08/2024|
- |[Fortra FileCatalyst - CVE-2024-6633](https://www.cyberveille-sante.gouv.fr/alertes/fortra-filecatalyst-cve-2024-6633-2024-08-29)|Visit link for details.|29/08/2024|
- |[Google Chrome - CVE-2024-7969](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7969-2024-08-29)|Visit link for details.|29/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6672](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6672-2024-08-29)|Visit link for details.|29/08/2024|
- |[Wireshark - CVE-2024-8250](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2024-8250-2024-08-29)|Visit link for details.|29/08/2024|
- |[Google Chrome - CVE-2024-5274](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5274-2024-05-24)|Visit link for details.|29/08/2024|
- |[VMware - CVE-2024-37079](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37079-2024-06-18)|Visit link for details.|29/08/2024|
- |[Google Chrome - CVE-2024-7967](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7967-2024-08-28)|Visit link for details.|28/08/2024|
- |[Linux - CVE-2023-52735](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52735-2024-08-28)|Visit link for details.|28/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|28/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Progress Software WhatsUp Gold getMonitorJoin SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1187/)|Visit link for details|2024-08-29|
+ |[Progress Software WhatsUp Gold GetStatisticalMonitorList SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1186/)|Visit link for details|2024-08-29|
+ |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
+ |[Progress Software WS_FTP Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1184/)|Visit link for details|2024-08-29|
+ |[Delta Electronics DTN Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1183/)|Visit link for details|2024-08-29|
+ |[Linux Kernel Netfilter Conntrack Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1182/)|Visit link for details|2024-08-27|
+ |[Axis Communications Autodesk Plugin Exposure of Sensitive Information Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1181/)|Visit link for details|2024-08-23|
+ |[Apple macOS AMDRadeonX6000MTLDriver KTX Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1180/)|Visit link for details|2024-08-23|
  
 
 # CA-CCS
@@ -166,6 +149,23 @@
  |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
  |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
  |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco - CVE-2024-20446](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20446-2024-08-29)|Visit link for details.|29/08/2024|
+ |[Fortra FileCatalyst - CVE-2024-6633](https://www.cyberveille-sante.gouv.fr/alertes/fortra-filecatalyst-cve-2024-6633-2024-08-29)|Visit link for details.|29/08/2024|
+ |[Google Chrome - CVE-2024-7969](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7969-2024-08-29)|Visit link for details.|29/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6672](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6672-2024-08-29)|Visit link for details.|29/08/2024|
+ |[Wireshark - CVE-2024-8250](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2024-8250-2024-08-29)|Visit link for details.|29/08/2024|
+ |[Google Chrome - CVE-2024-5274](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-5274-2024-05-24)|Visit link for details.|29/08/2024|
+ |[VMware - CVE-2024-37079](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-37079-2024-06-18)|Visit link for details.|29/08/2024|
+ |[Google Chrome - CVE-2024-7967](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7967-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Linux - CVE-2023-52735](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52735-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|28/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|28/08/2024|
  
 
 # MA-CERT
