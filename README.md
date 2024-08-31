@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/08/2024 07:41:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/08/2024 08:20:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,35 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5762-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5762-1-webkit2gtk-security-update.51541/)|Visit link for details.|Aug 31, 2024|
+ |[DSA-5763-1 pymatgen - security update](https://www.linux.org/threads/dsa-5763-1-pymatgen-security-update.51540/)|Visit link for details.|Aug 31, 2024|
+ |[DSA-5761-1 chromium - security update](https://www.linux.org/threads/dsa-5761-1-chromium-security-update.51531/)|Visit link for details.|Aug 30, 2024|
+ |[DSA-5760-1 ghostscript - security update](https://www.linux.org/threads/dsa-5760-1-ghostscript-security-update.51525/)|Visit link for details.|Aug 29, 2024|
+ |[USN-6972-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6972-4-linux-kernel-oracle-vulnerabilities.51514/)|Visit link for details.|Aug 28, 2024|
+ |[USN-6981-1: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-1-drupal-vulnerabilities.51497/)|Visit link for details.|Aug 27, 2024|
+ |[DSA-5759-1 python3.11 - security update](https://www.linux.org/threads/dsa-5759-1-python3-11-security-update.51496/)|Visit link for details.|Aug 27, 2024|
+ |[USN-6973-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6973-3-linux-kernel-aws-vulnerabilities.51490/)|Visit link for details.|Aug 26, 2024|
+ |[DSA-5758-1 trafficserver - security update](https://www.linux.org/threads/dsa-5758-1-trafficserver-security-update.51481/)|Visit link for details.|Aug 26, 2024|
+ |[DSA-5757-1 chromium - security update](https://www.linux.org/threads/dsa-5757-1-chromium-security-update.51461/)|Visit link for details.|Aug 24, 2024|
+ |[USN-6974-2: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6974-2-linux-kernel-oracle-vulnerabilities.51459/)|Visit link for details.|Aug 23, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,29 +72,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
  |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5763-1 pymatgen - security update](https://www.linux.org/threads/dsa-5763-1-pymatgen-security-update.51540/)|Visit link for details.|Aug 31, 2024|
- |[DSA-5761-1 chromium - security update](https://www.linux.org/threads/dsa-5761-1-chromium-security-update.51531/)|Visit link for details.|Aug 30, 2024|
- |[DSA-5760-1 ghostscript - security update](https://www.linux.org/threads/dsa-5760-1-ghostscript-security-update.51525/)|Visit link for details.|Aug 29, 2024|
- |[USN-6972-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6972-4-linux-kernel-oracle-vulnerabilities.51514/)|Visit link for details.|Aug 28, 2024|
- |[USN-6981-1: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-1-drupal-vulnerabilities.51497/)|Visit link for details.|Aug 27, 2024|
- |[DSA-5759-1 python3.11 - security update](https://www.linux.org/threads/dsa-5759-1-python3-11-security-update.51496/)|Visit link for details.|Aug 27, 2024|
- |[USN-6973-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6973-3-linux-kernel-aws-vulnerabilities.51490/)|Visit link for details.|Aug 26, 2024|
- |[DSA-5758-1 trafficserver - security update](https://www.linux.org/threads/dsa-5758-1-trafficserver-security-update.51481/)|Visit link for details.|Aug 26, 2024|
- |[DSA-5757-1 chromium - security update](https://www.linux.org/threads/dsa-5757-1-chromium-security-update.51461/)|Visit link for details.|Aug 24, 2024|
- |[USN-6974-2: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6974-2-linux-kernel-oracle-vulnerabilities.51459/)|Visit link for details.|Aug 23, 2024|
- |[USN-6972-3: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-6972-3-linux-kernel-azure-vulnerabilities.51458/)|Visit link for details.|Aug 23, 2024|
  
 
 # HK-CERT
@@ -88,19 +94,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Sterling Connect:Direct Web Services information disclosure (CVE-2024-39747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2024|
- |[SportsNET SQL injection (CVE-2024-29726)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
- |[SportsNET SQL injection (CVE-2024-29725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
- |[SportsNET SQL injection (CVE-2024-29724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
