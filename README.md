@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/09/2024 13:26:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/09/2024 14:22:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6982-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-6982-1-dovecot-vulnerabilities.51564/)|Visit link for details.|Sep 2, 2024|
  |[DSA-5762-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5762-1-webkit2gtk-security-update.51541/)|Visit link for details.|Aug 31, 2024|
  |[DSA-5763-1 pymatgen - security update](https://www.linux.org/threads/dsa-5763-1-pymatgen-security-update.51540/)|Visit link for details.|Aug 31, 2024|
  |[DSA-5761-1 chromium - security update](https://www.linux.org/threads/dsa-5761-1-chromium-security-update.51531/)|Visit link for details.|Aug 30, 2024|
@@ -59,13 +60,25 @@
  |[USN-6973-3: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-6973-3-linux-kernel-aws-vulnerabilities.51490/)|Visit link for details.|Aug 26, 2024|
  |[DSA-5758-1 trafficserver - security update](https://www.linux.org/threads/dsa-5758-1-trafficserver-security-update.51481/)|Visit link for details.|Aug 26, 2024|
  |[DSA-5757-1 chromium - security update](https://www.linux.org/threads/dsa-5757-1-chromium-security-update.51461/)|Visit link for details.|Aug 24, 2024|
- |[USN-6974-2: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6974-2-linux-kernel-oracle-vulnerabilities.51459/)|Visit link for details.|Aug 23, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[MediaTek information disclosure (CVE-2024-20085)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
+ |[MediaTek information disclosure (CVE-2024-20084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
+ |[MediaTek privilege escalation (CVE-2024-20087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
+ |[MediaTek privilege escalation (CVE-2024-20086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
+ |[MediaTek denial of service (CVE-2024-20089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -82,19 +95,6 @@
  |[F5 Products Security Restriction Bypass, Information Disclosure and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-security-restriction-bypass-information-disclosure-and-denial-of-service-condition-vulnerability_20240827)|A vulnerability was identified in F5 Products, a remote user can exploit this vulnerability to trigger security restriction bypass, information disclosure and denial of service condition on the targeted system.|Release Date: 27 Aug 2024 |
  |[SonicWall Products Security Restriction Bypass and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/sonicwall-products-security-restriction-bypass-and-denial-of-service-vulnerability_20240827)|A vulnerability has been identified in Sonicwall Products. A remote user can exploit this vulnerability to trigger security restriction bypass and denial of service condition on the targeted system. |Release Date: 27 Aug 2024 |
  |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220204)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 4 Feb 2022 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[MediaTek information disclosure (CVE-2024-20084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[MediaTek privilege escalation (CVE-2024-20087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[MediaTek privilege escalation (CVE-2024-20086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[MediaTek denial of service (CVE-2024-20089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
