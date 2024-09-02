@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/09/2024 20:20:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/09/2024 21:25:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,12 +90,6 @@
  |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220204)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 4 Feb 2022 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -98,23 +98,9 @@
  |[MediaTek information disclosure (CVE-2024-20084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
  |[MediaTek privilege escalation (CVE-2024-20087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
  |[MediaTek privilege escalation (CVE-2024-20086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Visteon Infotainment REFLASH_DDU_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1192/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment REFLASH_DDU_FindFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1191/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment VIP MCU Code Insufficient Validation of Data Authenticity Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1188/)|Visit link for details|2024-08-30|
- |[Progress Software WhatsUp Gold getMonitorJoin SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1187/)|Visit link for details|2024-08-29|
- |[Progress Software WhatsUp Gold GetStatisticalMonitorList SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1186/)|Visit link for details|2024-08-29|
- |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
  
 
 # EU-CERT
@@ -134,21 +120,35 @@
  |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome - CVE-2024-8194](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8194-2024-09-02)|Visit link for details.|02/09/2024|
- |[D-Link - CVE-2024-44341](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44341-2024-09-02)|Visit link for details.|02/09/2024|
- |[Google - CVE-2024-8193](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8193-2024-08-30)|Visit link for details.|30/08/2024|
- |[Fortra - CVE-2024-6632](https://www.cyberveille-sante.gouv.fr/alertes/fortra-cve-2024-6632-2024-08-30)|Visit link for details.|30/08/2024|
- |[Kingsoft WPS Office - CVE-2024-7263](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-wps-office-cve-2024-7263-2024-08-30)|Visit link for details.|30/08/2024|
- |[Zoho ManageEngine - CVE-2024-36517](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-36517-2024-08-30)|Visit link for details.|30/08/2024|
- |[Zyxel - CVE-2024-8234](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-8234-2024-08-30)|Visit link for details.|30/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|30/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|30/08/2024|
- |[Nagios - CVE-2024-24401](https://www.cyberveille-sante.gouv.fr/alertes/nagios-cve-2024-24401-2024-02-27)|Visit link for details.|30/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6672](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6672-2024-08-29)|Visit link for details.|30/08/2024|
+ |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
+ |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
+ |[Cisco security advisory (AV24-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-485)|Visit link for details|2024-08-28|
+ |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
+ |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
+ |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
+ |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
+ |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
+ |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
+ |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
+ |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Visteon Infotainment REFLASH_DDU_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1192/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment REFLASH_DDU_FindFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1191/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment VIP MCU Code Insufficient Validation of Data Authenticity Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1188/)|Visit link for details|2024-08-30|
+ |[Progress Software WhatsUp Gold getMonitorJoin SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1187/)|Visit link for details|2024-08-29|
+ |[Progress Software WhatsUp Gold GetStatisticalMonitorList SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1186/)|Visit link for details|2024-08-29|
+ |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
  
 
 # MA-CERT
@@ -166,19 +166,19 @@
  |[ 48982608/24 - Vulnérabilité critique dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-versa-director)| Une vulnérabilité critique de type zero-day, identifiée comme «CVE-2024-39717», a été corrigée dans Versa Director. Cette faille permet à un attaquant la lecture et la suppression arbitraires de…| 27 août 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
- |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
- |[Cisco security advisory (AV24-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-485)|Visit link for details|2024-08-28|
- |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
- |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
- |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
- |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
- |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
- |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
- |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
- |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
+ |[WordPress The Events Calendar - CVE-2024-8016](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8016-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Kingsoft WPS Office - CVE-2024-7263](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-wps-office-cve-2024-7263-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Google Chrome - CVE-2024-8194](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8194-2024-09-02)|Visit link for details.|02/09/2024|
+ |[D-Link - CVE-2024-44341](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44341-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Google - CVE-2024-8193](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8193-2024-08-30)|Visit link for details.|30/08/2024|
+ |[Fortra - CVE-2024-6632](https://www.cyberveille-sante.gouv.fr/alertes/fortra-cve-2024-6632-2024-08-30)|Visit link for details.|30/08/2024|
+ |[Kingsoft WPS Office - CVE-2024-7263](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-wps-office-cve-2024-7263-2024-08-30)|Visit link for details.|30/08/2024|
+ |[Zoho ManageEngine - CVE-2024-36517](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-36517-2024-08-30)|Visit link for details.|30/08/2024|
+ |[Zyxel - CVE-2024-8234](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-8234-2024-08-30)|Visit link for details.|30/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|30/08/2024|
  
