@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/09/2024 10:19:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/09/2024 11:27:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,18 @@
  |[DSA-5759-1 python3.11 - security update](https://www.linux.org/threads/dsa-5759-1-python3-11-security-update.51496/)|Visit link for details.|Aug 27, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -78,18 +90,6 @@
  |[F5 Products Security Restriction Bypass, Information Disclosure and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-security-restriction-bypass-information-disclosure-and-denial-of-service-condition-vulnerability_20240827)|A vulnerability was identified in F5 Products, a remote user can exploit this vulnerability to trigger security restriction bypass, information disclosure and denial of service condition on the targeted system.|Release Date: 27 Aug 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +101,23 @@
  |[MediaTek denial of service (CVE-2024-20089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-090: Multiple Vulnerabilities in Cisco NX-OS Software](https://cert.europa.eu/publications/security-advisories/2024-090/)|On August 28, Cisco released patches for multiple vulnerabilities affecting its NX-OS software, primarily used in Nexus switches. The most severe of these is a high-severity denial-of-service (DoS) vulnerability in the DHCPv6 relay agent, which could allow an unauthenticated remote attacker to cause targeted devices to reload repeatedly, leading to a DoS condition. Additionally, several medium-severity vulnerabilities were addressed, including issues that could allow privilege escalation and unauthorised code execution.|Monday, September 02, 2024 09:40:58 AM CEST|
+ |[2024-089: Critical Vulnerability in SonicWall SonicOS](https://cert.europa.eu/publications/security-advisories/2024-089/)|On August 23, 2024, SonicWall issued a security advisory regarding a critical access control vulnerability (CVE-2024-40766) in its SonicOS. This flaw could allow attackers to gain unauthorised access to resources or cause the firewall crash. |Tuesday, August 27, 2024 10:04:41 AM CEST|
+ |[2024-088: Chrome ZeroDay Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-088/)|A critical zero-day vulnerability, CVE-2024-7971, has been identified and patched in Google Chrome. This marks the ninth such vulnerability discovered in 2024. The flaw, which has been actively exploited in the wild, is rooted in a type confusion issue within Chrome's V8 JavaScript engine. This vulnerability allows attackers to potentially execute arbitrary code on affected systems.|Tuesday, August 27, 2024 10:52:26 AM CEST|
+ |[2024-085: Multiple Vulnerabilities in Moodle](https://cert.europa.eu/publications/security-advisories/2024-085/)|On August 19, 2024, Moodle released a security advisory addressing sixteen vulnerabilities of various severities.|Wednesday, August 21, 2024 02:19:29 PM CEST|
+ |[2024-084: High Severity Vulnerabilities in F5 Products](https://cert.europa.eu/publications/security-advisories/2024-084/)|On August 14, 2024, F5 released a security advisory addressing nine vulnerabilities in their products. Four of these vulnerabilities have been classified as high severity due to their potential to facilitate session hijacking and to lead to Denial-of-Service (DoS) attacks. |Wednesday, August 21, 2024 02:17:39 PM CEST|
+ |[2024-083: Palo Alto Cortex XSOAR CommonScripts Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 14, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Tuesday, August 20, 2024 11:15:07 AM CEST|
+ |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
+ |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
+ |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
+ |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
+ |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
  
 
 # ZERODAYINITIATIVE
@@ -132,23 +149,6 @@
  |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
  |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
  |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-090: Multiple Vulnerabilities in Cisco NX-OS Software](https://cert.europa.eu/publications/security-advisories/2024-090/)|On August 28, Cisco released patches for multiple vulnerabilities affecting its NX-OS software, primarily used in Nexus switches. The most severe of these is a high-severity denial-of-service (DoS) vulnerability in the DHCPv6 relay agent, which could allow an unauthenticated remote attacker to cause targeted devices to reload repeatedly, leading to a DoS condition. Additionally, several medium-severity vulnerabilities were addressed, including issues that could allow privilege escalation and unauthorised code execution.|Monday, September 02, 2024 09:40:58 AM CEST|
- |[2024-089: Critical Vulnerability in SonicWall SonicOS](https://cert.europa.eu/publications/security-advisories/2024-089/)|On August 23, 2024, SonicWall issued a security advisory regarding a critical access control vulnerability (CVE-2024-40766) in its SonicOS. This flaw could allow attackers to gain unauthorised access to resources or cause the firewall crash. |Tuesday, August 27, 2024 10:04:41 AM CEST|
- |[2024-088: Chrome ZeroDay Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-088/)|A critical zero-day vulnerability, CVE-2024-7971, has been identified and patched in Google Chrome. This marks the ninth such vulnerability discovered in 2024. The flaw, which has been actively exploited in the wild, is rooted in a type confusion issue within Chrome's V8 JavaScript engine. This vulnerability allows attackers to potentially execute arbitrary code on affected systems.|Tuesday, August 27, 2024 10:52:26 AM CEST|
- |[2024-085: Multiple Vulnerabilities in Moodle](https://cert.europa.eu/publications/security-advisories/2024-085/)|On August 19, 2024, Moodle released a security advisory addressing sixteen vulnerabilities of various severities.|Wednesday, August 21, 2024 02:19:29 PM CEST|
- |[2024-084: High Severity Vulnerabilities in F5 Products](https://cert.europa.eu/publications/security-advisories/2024-084/)|On August 14, 2024, F5 released a security advisory addressing nine vulnerabilities in their products. Four of these vulnerabilities have been classified as high severity due to their potential to facilitate session hijacking and to lead to Denial-of-Service (DoS) attacks. |Wednesday, August 21, 2024 02:17:39 PM CEST|
- |[2024-083: Palo Alto Cortex XSOAR CommonScripts Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 14, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Tuesday, August 20, 2024 11:15:07 AM CEST|
- |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
- |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
- |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
- |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
- |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
  
 
 # CERT-SANTE
