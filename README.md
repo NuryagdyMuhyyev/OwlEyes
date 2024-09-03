@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/09/2024 04:19:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/09/2024 06:26:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA and Partners Release Advisory on RansomHub Ransomware](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware)|Visit link for details.|Aug 29, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 29, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
+ |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
+ |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 26, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
+ |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-6972-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6972-4-linux-kernel-oracle-vulnerabilities.51514/)|Visit link for details.|Aug 28, 2024|
  |[USN-6981-1: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-1-drupal-vulnerabilities.51497/)|Visit link for details.|Aug 27, 2024|
  |[DSA-5759-1 python3.11 - security update](https://www.linux.org/threads/dsa-5759-1-python3-11-security-update.51496/)|Visit link for details.|Aug 27, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA and Partners Release Advisory on RansomHub Ransomware](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware)|Visit link for details.|Aug 29, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 29, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
- |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
- |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 26, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/22/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Aug 22, 2024|
- |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
  
 
 # CERT-FR
@@ -82,7 +82,7 @@
  |[MediaTek information disclosure (CVE-2024-20084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
  |[MediaTek privilege escalation (CVE-2024-20087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
  |[MediaTek privilege escalation (CVE-2024-20086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[MediaTek denial of service (CVE-2024-20089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -103,20 +103,6 @@
  |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20220204)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:CVE-2022-0185 is being exploited in the wild. ...| Release Date: 4 Feb 2022 |
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Visteon Infotainment REFLASH_DDU_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1192/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment REFLASH_DDU_FindFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1191/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment VIP MCU Code Insufficient Validation of Data Authenticity Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1188/)|Visit link for details|2024-08-30|
- |[Progress Software WhatsUp Gold getMonitorJoin SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1187/)|Visit link for details|2024-08-29|
- |[Progress Software WhatsUp Gold GetStatisticalMonitorList SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1186/)|Visit link for details|2024-08-29|
- |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -134,21 +120,18 @@
  |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
- |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
- |[Cisco security advisory (AV24-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-485)|Visit link for details|2024-08-28|
- |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
- |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
- |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
- |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
- |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
- |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
- |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
- |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
+ |[(0Day) Visteon Infotainment REFLASH_DDU_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1192/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment REFLASH_DDU_FindFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1191/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment VIP MCU Code Insufficient Validation of Data Authenticity Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1188/)|Visit link for details|2024-08-30|
+ |[Progress Software WhatsUp Gold getMonitorJoin SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1187/)|Visit link for details|2024-08-29|
+ |[Progress Software WhatsUp Gold GetStatisticalMonitorList SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1186/)|Visit link for details|2024-08-29|
+ |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
  
 
 # MA-CERT
@@ -164,6 +147,23 @@
  |[ 49002808/24 - Vulnérabilité critique dans WPML plugin du CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-wpml-plugin-du-cms-wordpress)| WordPress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6386) affectant le plugin WPML. L’exploitation de cette faille peut permettre à un attaquant non…| 28 août 2024|
  |[ 48992808/24 - Vulnérabilité critique affectant Rockwell Automation ThinManager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-rockwell-automation-thinmanager)| Rockwell Automation  annonce la correction de trois vulnérabilités affectant les versions susmentionnées de son produit ThinManager.  L'exploitation de ces vulnérabilités  peut  permettre  à un…| 28 août 2024|
  |[ 48982608/24 - Vulnérabilité critique dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-versa-director)| Une vulnérabilité critique de type zero-day, identifiée comme «CVE-2024-39717», a été corrigée dans Versa Director. Cette faille permet à un attaquant la lecture et la suppression arbitraires de…| 27 août 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
+ |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
+ |[Cisco security advisory (AV24-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-485)|Visit link for details|2024-08-28|
+ |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
+ |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
+ |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
+ |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
+ |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
+ |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
+ |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
+ |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
  
 
 # CERT-SANTE
