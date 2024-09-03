@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/09/2024 21:26:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/09/2024 22:18:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,36 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6973-4: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6973-4-linux-kernel-raspberry-pi-vulnerabilities.51572/)|Visit link for details.|Sep 2, 2024|
- |[USN-6983-1: FFmpeg vulnerability](https://www.linux.org/threads/usn-6983-1-ffmpeg-vulnerability.51571/)|Visit link for details.|Sep 2, 2024|
- |[USN-6984-1: WebOb vulnerability](https://www.linux.org/threads/usn-6984-1-webob-vulnerability.51570/)|Visit link for details.|Sep 2, 2024|
- |[USN-6982-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-6982-1-dovecot-vulnerabilities.51564/)|Visit link for details.|Sep 2, 2024|
- |[DSA-5762-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5762-1-webkit2gtk-security-update.51541/)|Visit link for details.|Aug 31, 2024|
- |[DSA-5763-1 pymatgen - security update](https://www.linux.org/threads/dsa-5763-1-pymatgen-security-update.51540/)|Visit link for details.|Aug 31, 2024|
- |[DSA-5761-1 chromium - security update](https://www.linux.org/threads/dsa-5761-1-chromium-security-update.51531/)|Visit link for details.|Aug 30, 2024|
- |[DSA-5760-1 ghostscript - security update](https://www.linux.org/threads/dsa-5760-1-ghostscript-security-update.51525/)|Visit link for details.|Aug 29, 2024|
- |[USN-6972-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6972-4-linux-kernel-oracle-vulnerabilities.51514/)|Visit link for details.|Aug 28, 2024|
- |[USN-6981-1: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-1-drupal-vulnerabilities.51497/)|Visit link for details.|Aug 27, 2024|
- |[DSA-5759-1 python3.11 - security update](https://www.linux.org/threads/dsa-5759-1-python3-11-security-update.51496/)|Visit link for details.|Aug 27, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware Fusion code execution (CVE-2024-38811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
- |[OpenHarmony privilege escalation (CVE-2024-41160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[OpenHarmony privilege escalation (CVE-2024-41157)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[Seacms SQL injection (CVE-2024-44921)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -73,6 +43,29 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 26, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6981-2: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-2-drupal-vulnerabilities.51578/)|Visit link for details.|Sep 3, 2024|
+ |[USN-6986-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6986-1-openssl-vulnerability.51577/)|Visit link for details.|Sep 3, 2024|
+ |[USN-6973-4: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6973-4-linux-kernel-raspberry-pi-vulnerabilities.51572/)|Visit link for details.|Sep 2, 2024|
+ |[USN-6983-1: FFmpeg vulnerability](https://www.linux.org/threads/usn-6983-1-ffmpeg-vulnerability.51571/)|Visit link for details.|Sep 2, 2024|
+ |[USN-6984-1: WebOb vulnerability](https://www.linux.org/threads/usn-6984-1-webob-vulnerability.51570/)|Visit link for details.|Sep 2, 2024|
+ |[USN-6982-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-6982-1-dovecot-vulnerabilities.51564/)|Visit link for details.|Sep 2, 2024|
+ |[DSA-5762-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5762-1-webkit2gtk-security-update.51541/)|Visit link for details.|Aug 31, 2024|
+ |[DSA-5763-1 pymatgen - security update](https://www.linux.org/threads/dsa-5763-1-pymatgen-security-update.51540/)|Visit link for details.|Aug 31, 2024|
+ |[DSA-5761-1 chromium - security update](https://www.linux.org/threads/dsa-5761-1-chromium-security-update.51531/)|Visit link for details.|Aug 30, 2024|
+ |[DSA-5760-1 ghostscript - security update](https://www.linux.org/threads/dsa-5760-1-ghostscript-security-update.51525/)|Visit link for details.|Aug 29, 2024|
+ |[USN-6972-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6972-4-linux-kernel-oracle-vulnerabilities.51514/)|Visit link for details.|Aug 28, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
@@ -97,24 +90,17 @@
  |[F5 Products Security Restriction Bypass, Information Disclosure and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-security-restriction-bypass-information-disclosure-and-denial-of-service-condition-vulnerability_20240827)|A vulnerability was identified in F5 Products, a remote user can exploit this vulnerability to trigger security restriction bypass, information disclosure and denial of service condition on the targeted system.|Release Date: 27 Aug 2024 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Visteon Infotainment REFLASH_DDU_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1192/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment REFLASH_DDU_FindFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1191/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment VIP MCU Code Insufficient Validation of Data Authenticity Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1188/)|Visit link for details|2024-08-30|
- |[Progress Software WhatsUp Gold getMonitorJoin SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1187/)|Visit link for details|2024-08-29|
- |[Progress Software WhatsUp Gold GetStatisticalMonitorList SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1186/)|Visit link for details|2024-08-29|
- |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
+ |[VMware Fusion code execution (CVE-2024-38811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
+ |[OpenHarmony privilege escalation (CVE-2024-41160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
+ |[OpenHarmony privilege escalation (CVE-2024-41157)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
+ |[Seacms SQL injection (CVE-2024-44921)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -134,6 +120,34 @@
  |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Visteon Infotainment REFLASH_DDU_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1192/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment REFLASH_DDU_FindFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1191/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment VIP MCU Code Insufficient Validation of Data Authenticity Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1188/)|Visit link for details|2024-08-30|
+ |[Progress Software WhatsUp Gold getMonitorJoin SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1187/)|Visit link for details|2024-08-29|
+ |[Progress Software WhatsUp Gold GetStatisticalMonitorList SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1186/)|Visit link for details|2024-08-29|
+ |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49100309/24 - Vulnérabilité dans VMware Fusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-fusion)| Une vulnérabilité a été corrigée dans les versions susmentionnées de VMware Fusion. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire.| 03 septembre 2024|
+ |[ 49080209/24 - Vulnérabilité critique dans One Identity Safeguard for Privileged Passwords ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-one-identity-safeguard-privileged-passwords)| Une vulnérabilité critique (CVE-2024-45488) a été corrigée dans One Identity Safeguard for Privileged Passwords. L’exploitation de cette faille peut permettre à un attaquant non authentifié de porter…| 02 septembre 2024|
+ |[ 49070209/24 - Vulnérabilités dans Progress WhatsUp Gold ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-progress-whatsup-gold)| Progress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-6670, CVE-2024-6671) dans WhatsUp Gold, une application de surveillance de réseau. L'exploitation…| 02 septembre 2024|
+ |[ 49052908/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-10)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 29 août 2024|
+ |[ 49012908/24 - Vulnérabilité critique affectant Forta FileCatalyst Workflow ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-forta-filecatalyst-workflow)| Fortra  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit FileCatalyst Workflow.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 29 août 2024|
+ |[ 49042908/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-0)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire.| 29 août 2024|
+ |[ 49022808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-12)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la politique…| 29 août 2024|
+ |[ 49002808/24 - Vulnérabilité critique dans WPML plugin du CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-wpml-plugin-du-cms-wordpress)| WordPress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6386) affectant le plugin WPML. L’exploitation de cette faille peut permettre à un attaquant non…| 28 août 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -149,20 +163,6 @@
  |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
  |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
  |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49100309/24 - Vulnérabilité dans VMware Fusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-fusion)| Une vulnérabilité a été corrigée dans les versions susmentionnées de VMware Fusion. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire.| 03 septembre 2024|
- |[ 49080209/24 - Vulnérabilité critique dans One Identity Safeguard for Privileged Passwords ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-one-identity-safeguard-privileged-passwords)| Une vulnérabilité critique (CVE-2024-45488) a été corrigée dans One Identity Safeguard for Privileged Passwords. L’exploitation de cette faille peut permettre à un attaquant non authentifié de porter…| 02 septembre 2024|
- |[ 49070209/24 - Vulnérabilités dans Progress WhatsUp Gold ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-progress-whatsup-gold)| Progress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-6670, CVE-2024-6671) dans WhatsUp Gold, une application de surveillance de réseau. L'exploitation…| 02 septembre 2024|
- |[ 49052908/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-10)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 29 août 2024|
- |[ 49012908/24 - Vulnérabilité critique affectant Forta FileCatalyst Workflow ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-forta-filecatalyst-workflow)| Fortra  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit FileCatalyst Workflow.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 29 août 2024|
- |[ 49042908/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-0)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire.| 29 août 2024|
- |[ 49022808/24 - Vulnérabilités dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-cisco-12)| Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la politique…| 29 août 2024|
- |[ 49002808/24 - Vulnérabilité critique dans WPML plugin du CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-wpml-plugin-du-cms-wordpress)| WordPress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6386) affectant le plugin WPML. L’exploitation de cette faille peut permettre à un attaquant non…| 28 août 2024|
  
 
 # CERT-SANTE
