@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/09/2024 13:25:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/09/2024 14:21:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[ASD’s ACSC, CISA, FBI, and NSA, with the support of International Partners Release Best Practices for Event Logging and Threat Detection](https://www.cisa.gov/news-events/alerts/2024/08/21/asds-acsc-cisa-fbi-and-nsa-support-international-partners-release-best-practices-event-logging-and)|Visit link for details.|Aug 21, 2024|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,12 +74,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -90,19 +90,6 @@
  |[F5 Products Security Restriction Bypass, Information Disclosure and Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-security-restriction-bypass-information-disclosure-and-denial-of-service-condition-vulnerability_20240827)|A vulnerability was identified in F5 Products, a remote user can exploit this vulnerability to trigger security restriction bypass, information disclosure and denial of service condition on the targeted system.|Release Date: 27 Aug 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[MediaTek information disclosure (CVE-2024-20085)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[MediaTek information disclosure (CVE-2024-20084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[MediaTek privilege escalation (CVE-2024-20087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[MediaTek privilege escalation (CVE-2024-20086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -117,21 +104,27 @@
  |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
- |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
- |[Cisco security advisory (AV24-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-485)|Visit link for details|2024-08-28|
- |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
- |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
- |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
- |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
- |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
- |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
- |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
- |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress The Events Calendar - CVE-2024-8016](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8016-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Kingsoft WPS Office - CVE-2024-7263](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-wps-office-cve-2024-7263-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Google Chrome - CVE-2024-8194](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8194-2024-09-02)|Visit link for details.|02/09/2024|
+ |[D-Link - CVE-2024-44341](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44341-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Google - CVE-2024-8193](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8193-2024-08-30)|Visit link for details.|30/08/2024|
+ |[Fortra - CVE-2024-6632](https://www.cyberveille-sante.gouv.fr/alertes/fortra-cve-2024-6632-2024-08-30)|Visit link for details.|30/08/2024|
+ |[Kingsoft WPS Office - CVE-2024-7263](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-wps-office-cve-2024-7263-2024-08-30)|Visit link for details.|30/08/2024|
+ |[Zoho ManageEngine - CVE-2024-36517](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-36517-2024-08-30)|Visit link for details.|30/08/2024|
+ |[Zyxel - CVE-2024-8234](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-8234-2024-08-30)|Visit link for details.|30/08/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|30/08/2024|
  
 
 # EU-CERT
@@ -166,19 +159,19 @@
  |[ 48982608/24 - Vulnérabilité critique dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-versa-director)| Une vulnérabilité critique de type zero-day, identifiée comme «CVE-2024-39717», a été corrigée dans Versa Director. Cette faille permet à un attaquant la lecture et la suppression arbitraires de…| 27 août 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress The Events Calendar - CVE-2024-8016](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8016-2024-09-02)|Visit link for details.|02/09/2024|
- |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|02/09/2024|
- |[Kingsoft WPS Office - CVE-2024-7263](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-wps-office-cve-2024-7263-2024-09-02)|Visit link for details.|02/09/2024|
- |[Google Chrome - CVE-2024-8194](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8194-2024-09-02)|Visit link for details.|02/09/2024|
- |[D-Link - CVE-2024-44341](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44341-2024-09-02)|Visit link for details.|02/09/2024|
- |[Google - CVE-2024-8193](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8193-2024-08-30)|Visit link for details.|30/08/2024|
- |[Fortra - CVE-2024-6632](https://www.cyberveille-sante.gouv.fr/alertes/fortra-cve-2024-6632-2024-08-30)|Visit link for details.|30/08/2024|
- |[Kingsoft WPS Office - CVE-2024-7263](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-wps-office-cve-2024-7263-2024-08-30)|Visit link for details.|30/08/2024|
- |[Zoho ManageEngine - CVE-2024-36517](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-36517-2024-08-30)|Visit link for details.|30/08/2024|
- |[Zyxel - CVE-2024-8234](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-8234-2024-08-30)|Visit link for details.|30/08/2024|
- |[Progress WhatsUp Gold - CVE-2024-6671](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6671-2024-08-28)|Visit link for details.|30/08/2024|
+ |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
+ |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
+ |[Cisco security advisory (AV24-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-485)|Visit link for details|2024-08-28|
+ |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
+ |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
+ |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
+ |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
+ |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
+ |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
+ |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
+ |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
  
