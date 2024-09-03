@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/09/2024 23:26:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/09/2024 00:16:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,21 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6981-2: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-2-drupal-vulnerabilities.51578/)|Visit link for details.|Sep 3, 2024|
+ |[USN-6986-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6986-1-openssl-vulnerability.51577/)|Visit link for details.|Sep 3, 2024|
+ |[USN-6973-4: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6973-4-linux-kernel-raspberry-pi-vulnerabilities.51572/)|Visit link for details.|Sep 2, 2024|
+ |[USN-6983-1: FFmpeg vulnerability](https://www.linux.org/threads/usn-6983-1-ffmpeg-vulnerability.51571/)|Visit link for details.|Sep 2, 2024|
+ |[USN-6984-1: WebOb vulnerability](https://www.linux.org/threads/usn-6984-1-webob-vulnerability.51570/)|Visit link for details.|Sep 2, 2024|
+ |[USN-6982-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-6982-1-dovecot-vulnerabilities.51564/)|Visit link for details.|Sep 2, 2024|
+ |[DSA-5762-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5762-1-webkit2gtk-security-update.51541/)|Visit link for details.|Aug 31, 2024|
+ |[DSA-5763-1 pymatgen - security update](https://www.linux.org/threads/dsa-5763-1-pymatgen-security-update.51540/)|Visit link for details.|Aug 31, 2024|
+ |[DSA-5761-1 chromium - security update](https://www.linux.org/threads/dsa-5761-1-chromium-security-update.51531/)|Visit link for details.|Aug 30, 2024|
+ |[DSA-5760-1 ghostscript - security update](https://www.linux.org/threads/dsa-5760-1-ghostscript-security-update.51525/)|Visit link for details.|Aug 29, 2024|
+ |[USN-6972-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6972-4-linux-kernel-oracle-vulnerabilities.51514/)|Visit link for details.|Aug 28, 2024|
  
 
 # US-CERT
@@ -51,21 +62,10 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-6981-2: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-2-drupal-vulnerabilities.51578/)|Visit link for details.|Sep 3, 2024|
- |[USN-6986-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6986-1-openssl-vulnerability.51577/)|Visit link for details.|Sep 3, 2024|
- |[USN-6973-4: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6973-4-linux-kernel-raspberry-pi-vulnerabilities.51572/)|Visit link for details.|Sep 2, 2024|
- |[USN-6983-1: FFmpeg vulnerability](https://www.linux.org/threads/usn-6983-1-ffmpeg-vulnerability.51571/)|Visit link for details.|Sep 2, 2024|
- |[USN-6984-1: WebOb vulnerability](https://www.linux.org/threads/usn-6984-1-webob-vulnerability.51570/)|Visit link for details.|Sep 2, 2024|
- |[USN-6982-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-6982-1-dovecot-vulnerabilities.51564/)|Visit link for details.|Sep 2, 2024|
- |[DSA-5762-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5762-1-webkit2gtk-security-update.51541/)|Visit link for details.|Aug 31, 2024|
- |[DSA-5763-1 pymatgen - security update](https://www.linux.org/threads/dsa-5763-1-pymatgen-security-update.51540/)|Visit link for details.|Aug 31, 2024|
- |[DSA-5761-1 chromium - security update](https://www.linux.org/threads/dsa-5761-1-chromium-security-update.51531/)|Visit link for details.|Aug 30, 2024|
- |[DSA-5760-1 ghostscript - security update](https://www.linux.org/threads/dsa-5760-1-ghostscript-security-update.51525/)|Visit link for details.|Aug 29, 2024|
- |[USN-6972-4: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-6972-4-linux-kernel-oracle-vulnerabilities.51514/)|Visit link for details.|Aug 28, 2024|
  
 
 # HK-CERT
@@ -134,21 +134,21 @@
  |[2024-078: Ivanti vTM Critical Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-078/)|On August 13, 2024, Ivanti disclosed a critical authentication bypass vulnerability, CVE-2024-7593, affecting the Ivanti Virtual Traffic Manager (vTM). This flaw allows remote, unauthenticated attackers to bypass authentication and create rogue administrator accounts, posing a significant security risk. The vulnerability is due to an incorrect implementation of the authentication algorithm.|Wednesday, August 14, 2024 01:01:55 PM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Zyxel - CVE-2024-42058](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-42058-2024-09-03)|Visit link for details.|03/09/2024|
- |[Zyxel - CVE-2024-42057](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-42057-2024-09-03)|Visit link for details.|03/09/2024|
- |[Linux - CVE-2023-52752](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52752-2024-09-03)|Visit link for details.|03/09/2024|
- |[Google Chrome - CVE-2024-8362](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8362-2024-09-03)|Visit link for details.|03/09/2024|
- |[D-Link - CVE-2024-45623](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45623-2024-09-03)|Visit link for details.|03/09/2024|
- |[WordPress The Events Calendar - CVE-2024-8016](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8016-2024-09-02)|Visit link for details.|02/09/2024|
- |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|02/09/2024|
- |[Kingsoft WPS Office - CVE-2024-7263](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-wps-office-cve-2024-7263-2024-09-02)|Visit link for details.|02/09/2024|
- |[Google Chrome - CVE-2024-8194](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8194-2024-09-02)|Visit link for details.|02/09/2024|
- |[D-Link - CVE-2024-44341](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44341-2024-09-02)|Visit link for details.|02/09/2024|
- |[Google - CVE-2024-8193](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8193-2024-08-30)|Visit link for details.|30/08/2024|
+ |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
+ |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
+ |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
+ |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
+ |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
+ |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
+ |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
+ |[Dell security advisory (AV24-488)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-488)|Visit link for details|2024-09-03|
+ |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
+ |[Cisco security advisory (AV24-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-485)|Visit link for details|2024-08-28|
+ |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-27|
  
 
 # MA-CERT
@@ -165,19 +165,19 @@
  |[ 49002808/24 - Vulnérabilité critique dans WPML plugin du CMS WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-wpml-plugin-du-cms-wordpress)| WordPress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-6386) affectant le plugin WPML. L’exploitation de cette faille peut permettre à un attaquant non…| 28 août 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
- |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
- |[Cisco security advisory (AV24-485)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-485)|Visit link for details|2024-08-28|
- |[[Control systems] B&R security advisory (AV24-484)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484)|Visit link for details|2024-08-27|
- |[Foxit security advisory (AV24-483)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-483)|Visit link for details|2024-08-27|
- |[IBM security advisory (AV24-482)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-482)|Visit link for details|2024-08-26|
- |[Red Hat security advisory (AV24-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-481)|Visit link for details|2024-08-26|
- |[Dell security advisory (AV24-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-480)|Visit link for details|2024-08-26|
- |[Ubuntu security advisory (AV24-479)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-479)|Visit link for details|2024-08-26|
- |[[Control systems] CISA ICS security advisories (AV24-478)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-478)|Visit link for details|2024-08-26|
- |[SonicWall security advisory (AV24-477)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-477)|Visit link for details|2024-08-23|
+ |[Zyxel - CVE-2024-42058](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-42058-2024-09-03)|Visit link for details.|03/09/2024|
+ |[Zyxel - CVE-2024-42057](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-42057-2024-09-03)|Visit link for details.|03/09/2024|
+ |[Linux - CVE-2023-52752](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52752-2024-09-03)|Visit link for details.|03/09/2024|
+ |[Google Chrome - CVE-2024-8362](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8362-2024-09-03)|Visit link for details.|03/09/2024|
+ |[D-Link - CVE-2024-45623](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45623-2024-09-03)|Visit link for details.|03/09/2024|
+ |[WordPress The Events Calendar - CVE-2024-8016](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8016-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Kingsoft WPS Office - CVE-2024-7263](https://www.cyberveille-sante.gouv.fr/alertes/kingsoft-wps-office-cve-2024-7263-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Google Chrome - CVE-2024-8194](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8194-2024-09-02)|Visit link for details.|02/09/2024|
+ |[D-Link - CVE-2024-44341](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44341-2024-09-02)|Visit link for details.|02/09/2024|
+ |[Google - CVE-2024-8193](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8193-2024-08-30)|Visit link for details.|30/08/2024|
  
