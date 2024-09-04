@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/09/2024 21:25:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/09/2024 22:19:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,23 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6985-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6985-1-imagemagick-vulnerabilities.52099/)|Visit link for details.|Sep 4, 2024|
+ |[USN-6988-1: Twisted vulnerabilities](https://www.linux.org/threads/usn-6988-1-twisted-vulnerabilities.52098/)|Visit link for details.|Sep 4, 2024|
+ |[DSA-5765-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5765-1-firefox-esr-security-update.51622/)|Visit link for details.|Sep 4, 2024|
+ |[USN-6987-1: Django vulnerabilities](https://www.linux.org/threads/usn-6987-1-django-vulnerabilities.51583/)|Visit link for details.|Sep 3, 2024|
+ |[DSA-5764-1 openssl - security update](https://www.linux.org/threads/dsa-5764-1-openssl-security-update.51582/)|Visit link for details.|Sep 3, 2024|
+ |[USN-6981-2: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-2-drupal-vulnerabilities.51578/)|Visit link for details.|Sep 3, 2024|
+ |[USN-6986-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6986-1-openssl-vulnerability.51577/)|Visit link for details.|Sep 3, 2024|
+ |[USN-6973-4: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6973-4-linux-kernel-raspberry-pi-vulnerabilities.51572/)|Visit link for details.|Sep 2, 2024|
+ |[USN-6983-1: FFmpeg vulnerability](https://www.linux.org/threads/usn-6983-1-ffmpeg-vulnerability.51571/)|Visit link for details.|Sep 2, 2024|
+ |[USN-6984-1: WebOb vulnerability](https://www.linux.org/threads/usn-6984-1-webob-vulnerability.51570/)|Visit link for details.|Sep 2, 2024|
+ |[USN-6982-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-6982-1-dovecot-vulnerabilities.51564/)|Visit link for details.|Sep 2, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -67,23 +84,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240829)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Aug 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6985-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6985-1-imagemagick-vulnerabilities.52099/)|Visit link for details.|Sep 4, 2024|
- |[USN-6988-1: Twisted vulnerabilities](https://www.linux.org/threads/usn-6988-1-twisted-vulnerabilities.52098/)|Visit link for details.|Sep 4, 2024|
- |[DSA-5765-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5765-1-firefox-esr-security-update.51622/)|Visit link for details.|Sep 4, 2024|
- |[USN-6987-1: Django vulnerabilities](https://www.linux.org/threads/usn-6987-1-django-vulnerabilities.51583/)|Visit link for details.|Sep 3, 2024|
- |[DSA-5764-1 openssl - security update](https://www.linux.org/threads/dsa-5764-1-openssl-security-update.51582/)|Visit link for details.|Sep 3, 2024|
- |[USN-6981-2: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-2-drupal-vulnerabilities.51578/)|Visit link for details.|Sep 3, 2024|
- |[USN-6986-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6986-1-openssl-vulnerability.51577/)|Visit link for details.|Sep 3, 2024|
- |[USN-6973-4: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6973-4-linux-kernel-raspberry-pi-vulnerabilities.51572/)|Visit link for details.|Sep 2, 2024|
- |[USN-6983-1: FFmpeg vulnerability](https://www.linux.org/threads/usn-6983-1-ffmpeg-vulnerability.51571/)|Visit link for details.|Sep 2, 2024|
- |[USN-6984-1: WebOb vulnerability](https://www.linux.org/threads/usn-6984-1-webob-vulnerability.51570/)|Visit link for details.|Sep 2, 2024|
- |[USN-6982-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-6982-1-dovecot-vulnerabilities.51564/)|Visit link for details.|Sep 2, 2024|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -95,9 +95,9 @@
  |Title|Description|Date|
  |---|---|---|
  |[IBM webMethods Integration code execution (CVE-2024-45076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
+ |[Yubico YubiKey 5 Series information disclosure (CVE-2024-45678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
  |[Zyxel command execution (CVE-2024-7261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
  |[Open Container Initiative runc security bypass (CVE-2024-45310)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
- |[BMO information disclosure (CVE-2024-43803)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
@@ -115,40 +115,6 @@
  |[Progress Software WhatsUp Gold getMonitorJoin SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1187/)|Visit link for details|2024-08-29|
  |[Progress Software WhatsUp Gold GetStatisticalMonitorList SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1186/)|Visit link for details|2024-08-29|
  |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-091: High Severity Vulnerability in VMware Fusion for MacOS](https://cert.europa.eu/publications/security-advisories/2024-091/)|On September 3, 2024, Broadcom disclosed a high-severity vulnerability in VMware Fusion, which could allow attackers to execute arbitrary code on macOS systems.|Wednesday, September 04, 2024 09:49:34 AM CEST|
- |[2024-090: Multiple Vulnerabilities in Cisco NX-OS Software](https://cert.europa.eu/publications/security-advisories/2024-090/)|On August 28, Cisco released patches for multiple vulnerabilities affecting its NX-OS software, primarily used in Nexus switches. The most severe of these is a high-severity denial-of-service (DoS) vulnerability in the DHCPv6 relay agent, which could allow an unauthenticated remote attacker to cause targeted devices to reload repeatedly, leading to a DoS condition. Additionally, several medium-severity vulnerabilities were addressed, including issues that could allow privilege escalation and unauthorised code execution.|Monday, September 02, 2024 09:40:58 AM CEST|
- |[2024-089: Critical Vulnerability in SonicWall SonicOS](https://cert.europa.eu/publications/security-advisories/2024-089/)|On August 23, 2024, SonicWall issued a security advisory regarding a critical access control vulnerability (CVE-2024-40766) in its SonicOS. This flaw could allow attackers to gain unauthorised access to resources or cause the firewall crash. |Tuesday, August 27, 2024 10:04:41 AM CEST|
- |[2024-088: Chrome ZeroDay Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-088/)|A critical zero-day vulnerability, CVE-2024-7971, has been identified and patched in Google Chrome. This marks the ninth such vulnerability discovered in 2024. The flaw, which has been actively exploited in the wild, is rooted in a type confusion issue within Chrome's V8 JavaScript engine. This vulnerability allows attackers to potentially execute arbitrary code on affected systems.|Tuesday, August 27, 2024 10:52:26 AM CEST|
- |[2024-085: Multiple Vulnerabilities in Moodle](https://cert.europa.eu/publications/security-advisories/2024-085/)|On August 19, 2024, Moodle released a security advisory addressing sixteen vulnerabilities of various severities.|Wednesday, August 21, 2024 02:19:29 PM CEST|
- |[2024-084: High Severity Vulnerabilities in F5 Products](https://cert.europa.eu/publications/security-advisories/2024-084/)|On August 14, 2024, F5 released a security advisory addressing nine vulnerabilities in their products. Four of these vulnerabilities have been classified as high severity due to their potential to facilitate session hijacking and to lead to Denial-of-Service (DoS) attacks. |Wednesday, August 21, 2024 02:17:39 PM CEST|
- |[2024-083: Palo Alto Cortex XSOAR CommonScripts Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 14, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Tuesday, August 20, 2024 11:15:07 AM CEST|
- |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
- |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
- |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
- |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
- |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
- |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
- |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
- |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
- |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
- |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
- |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
- |[Dell security advisory (AV24-488)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-488)|Visit link for details|2024-09-03|
- |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
- |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
  
 
 # CERT-SANTE
@@ -181,4 +147,38 @@
  |[ 49070209/24 - Vulnérabilités dans Progress WhatsUp Gold ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-progress-whatsup-gold)| Progress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-6670, CVE-2024-6671) dans WhatsUp Gold, une application de surveillance de réseau. L'exploitation…| 02 septembre 2024|
  |[ 49052908/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-10)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 29 août 2024|
  |[ 49012908/24 - Vulnérabilité critique affectant Forta FileCatalyst Workflow ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-forta-filecatalyst-workflow)| Fortra  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit FileCatalyst Workflow.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 29 août 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
+ |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
+ |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
+ |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
+ |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
+ |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
+ |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
+ |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
+ |[Dell security advisory (AV24-488)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-488)|Visit link for details|2024-09-03|
+ |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
+ |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-091: High Severity Vulnerability in VMware Fusion for MacOS](https://cert.europa.eu/publications/security-advisories/2024-091/)|On September 3, 2024, Broadcom disclosed a high-severity vulnerability in VMware Fusion, which could allow attackers to execute arbitrary code on macOS systems.|Wednesday, September 04, 2024 09:49:34 AM CEST|
+ |[2024-090: Multiple Vulnerabilities in Cisco NX-OS Software](https://cert.europa.eu/publications/security-advisories/2024-090/)|On August 28, Cisco released patches for multiple vulnerabilities affecting its NX-OS software, primarily used in Nexus switches. The most severe of these is a high-severity denial-of-service (DoS) vulnerability in the DHCPv6 relay agent, which could allow an unauthenticated remote attacker to cause targeted devices to reload repeatedly, leading to a DoS condition. Additionally, several medium-severity vulnerabilities were addressed, including issues that could allow privilege escalation and unauthorised code execution.|Monday, September 02, 2024 09:40:58 AM CEST|
+ |[2024-089: Critical Vulnerability in SonicWall SonicOS](https://cert.europa.eu/publications/security-advisories/2024-089/)|On August 23, 2024, SonicWall issued a security advisory regarding a critical access control vulnerability (CVE-2024-40766) in its SonicOS. This flaw could allow attackers to gain unauthorised access to resources or cause the firewall crash. |Tuesday, August 27, 2024 10:04:41 AM CEST|
+ |[2024-088: Chrome ZeroDay Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-088/)|A critical zero-day vulnerability, CVE-2024-7971, has been identified and patched in Google Chrome. This marks the ninth such vulnerability discovered in 2024. The flaw, which has been actively exploited in the wild, is rooted in a type confusion issue within Chrome's V8 JavaScript engine. This vulnerability allows attackers to potentially execute arbitrary code on affected systems.|Tuesday, August 27, 2024 10:52:26 AM CEST|
+ |[2024-085: Multiple Vulnerabilities in Moodle](https://cert.europa.eu/publications/security-advisories/2024-085/)|On August 19, 2024, Moodle released a security advisory addressing sixteen vulnerabilities of various severities.|Wednesday, August 21, 2024 02:19:29 PM CEST|
+ |[2024-084: High Severity Vulnerabilities in F5 Products](https://cert.europa.eu/publications/security-advisories/2024-084/)|On August 14, 2024, F5 released a security advisory addressing nine vulnerabilities in their products. Four of these vulnerabilities have been classified as high severity due to their potential to facilitate session hijacking and to lead to Denial-of-Service (DoS) attacks. |Wednesday, August 21, 2024 02:17:39 PM CEST|
+ |[2024-083: Palo Alto Cortex XSOAR CommonScripts Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 14, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Tuesday, August 20, 2024 11:15:07 AM CEST|
+ |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
+ |[2024-081: SolarWinds Web Help Desk Critical Remote Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-081/)|On August 14, 2024, SolarWinds disclosed a critical remote code execution (RCE) vulnerability, CVE-2024-28986, affecting all versions of their Web Help Desk (WHD) software. The vulnerability, caused by a Java deserialization flaw, allows attackers to execute arbitrary commands on the affected system. The vulnerability has a CVSS score of 9.8.|Friday, August 16, 2024 10:41:49 AM CEST|
+ |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
+ |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
  
