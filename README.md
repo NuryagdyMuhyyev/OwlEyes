@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/09/2024 00:15:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/09/2024 01:22:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 03, 2024|
- |[CISA and Partners Release Advisory on RansomHub Ransomware](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware)|Visit link for details.|Aug 29, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 29, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
- |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
- |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 26, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,23 +46,26 @@
  |[USN-6982-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-6982-1-dovecot-vulnerabilities.51564/)|Visit link for details.|Sep 2, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 03, 2024|
+ |[CISA and Partners Release Advisory on RansomHub Ransomware](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware)|Visit link for details.|Aug 29, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 29, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
+ |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
+ |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/26/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 26, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM webMethods Integration code execution (CVE-2024-45076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
- |[GiveWP Plugin for WordPress code execution (CVE-2024-5932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
- |[Yubico YubiKey 5 Series information disclosure (CVE-2024-45678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
- |[Zyxel command execution (CVE-2024-7261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -97,6 +84,25 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240829)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Aug 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM webMethods Integration code execution (CVE-2024-45076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
+ |[GiveWP Plugin for WordPress code execution (CVE-2024-5932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
+ |[Yubico YubiKey 5 Series information disclosure (CVE-2024-45678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
+ |[Zyxel command execution (CVE-2024-7261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -109,29 +115,6 @@
  |[Progress Software WhatsUp Gold getMonitorJoin SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1187/)|Visit link for details|2024-08-29|
  |[Progress Software WhatsUp Gold GetStatisticalMonitorList SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1186/)|Visit link for details|2024-08-29|
  |[Progress Software WhatsUp Gold HasErrors SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1185/)|Visit link for details|2024-08-29|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zyxel - CVE-2024-7203](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-7203-2024-09-04)|Visit link for details.|04/09/2024|
- |[VMware - CVE-2024-38811](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38811-2024-09-04)|Visit link for details.|04/09/2024|
- |[Mozilla Firefox - CVE-2024-8385](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-8385-2024-09-04)|Visit link for details.|04/09/2024|
- |[Google Chrome - CVE-2024-7970](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7970-2024-09-04)|Visit link for details.|04/09/2024|
- |[GLPI - CVE-2024-37149](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-37149-2024-09-04)|Visit link for details.|04/09/2024|
- |[VMware Spring - CVE-2024-37084](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-37084-2024-07-26)|Visit link for details.|04/09/2024|
- |[Zyxel - CVE-2024-42058](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-42058-2024-09-03)|Visit link for details.|03/09/2024|
- |[Zyxel - CVE-2024-42057](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-42057-2024-09-03)|Visit link for details.|03/09/2024|
- |[Linux - CVE-2023-52752](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52752-2024-09-03)|Visit link for details.|03/09/2024|
- |[Google Chrome - CVE-2024-8362](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8362-2024-09-03)|Visit link for details.|03/09/2024|
- |[D-Link - CVE-2024-45623](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45623-2024-09-03)|Visit link for details.|03/09/2024|
  
 
 # EU-CERT
@@ -151,23 +134,6 @@
  |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
- |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
- |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
- |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
- |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
- |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
- |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
- |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
- |[Dell security advisory (AV24-488)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-488)|Visit link for details|2024-09-03|
- |[Google Chrome security advisory (AV24-487)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487)|Visit link for details|2024-08-28|
- |[Fortra security advisory (AV24-486)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486)|Visit link for details|2024-08-28|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -181,4 +147,38 @@
  |[ 49070209/24 - Vulnérabilités dans Progress WhatsUp Gold ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-progress-whatsup-gold)| Progress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-6670, CVE-2024-6671) dans WhatsUp Gold, une application de surveillance de réseau. L'exploitation…| 02 septembre 2024|
  |[ 49052908/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-10)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 29 août 2024|
  |[ 49012908/24 - Vulnérabilité critique affectant Forta FileCatalyst Workflow ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-forta-filecatalyst-workflow)| Fortra  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit FileCatalyst Workflow.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 29 août 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Drupal security advisory (AV24-498)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-498)|Visit link for details|2024-09-04|
+ |[Cisco security advisory (AV24-497)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-497)|Visit link for details|2024-09-04|
+ |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
+ |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
+ |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
+ |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
+ |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
+ |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
+ |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
+ |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
+ |[Dell security advisory (AV24-488)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-488)|Visit link for details|2024-09-03|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zyxel - CVE-2024-7203](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-7203-2024-09-04)|Visit link for details.|04/09/2024|
+ |[VMware - CVE-2024-38811](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38811-2024-09-04)|Visit link for details.|04/09/2024|
+ |[Mozilla Firefox - CVE-2024-8385](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-8385-2024-09-04)|Visit link for details.|04/09/2024|
+ |[Google Chrome - CVE-2024-7970](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7970-2024-09-04)|Visit link for details.|04/09/2024|
+ |[GLPI - CVE-2024-37149](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-37149-2024-09-04)|Visit link for details.|04/09/2024|
+ |[VMware Spring - CVE-2024-37084](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-37084-2024-07-26)|Visit link for details.|04/09/2024|
+ |[Zyxel - CVE-2024-42058](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-42058-2024-09-03)|Visit link for details.|03/09/2024|
+ |[Zyxel - CVE-2024-42057](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-42057-2024-09-03)|Visit link for details.|03/09/2024|
+ |[Linux - CVE-2023-52752](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52752-2024-09-03)|Visit link for details.|03/09/2024|
+ |[Google Chrome - CVE-2024-8362](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8362-2024-09-03)|Visit link for details.|03/09/2024|
+ |[D-Link - CVE-2024-45623](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45623-2024-09-03)|Visit link for details.|03/09/2024|
  
