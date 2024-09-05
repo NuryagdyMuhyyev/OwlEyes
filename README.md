@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/09/2024 09:24:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/09/2024 10:19:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,7 +45,30 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-6990-1: znc vulnerability](https://www.linux.org/threads/usn-6990-1-znc-vulnerability.52387/)|Visit link for details.|Sep 4, 2024|
+ |[USN-6989-1: OpenStack vulnerability](https://www.linux.org/threads/usn-6989-1-openstack-vulnerability.52386/)|Visit link for details.|Sep 4, 2024|
+ |[USN-6985-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6985-1-imagemagick-vulnerabilities.52099/)|Visit link for details.|Sep 4, 2024|
+ |[USN-6988-1: Twisted vulnerabilities](https://www.linux.org/threads/usn-6988-1-twisted-vulnerabilities.52098/)|Visit link for details.|Sep 4, 2024|
+ |[DSA-5765-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5765-1-firefox-esr-security-update.51622/)|Visit link for details.|Sep 4, 2024|
+ |[USN-6987-1: Django vulnerabilities](https://www.linux.org/threads/usn-6987-1-django-vulnerabilities.51583/)|Visit link for details.|Sep 3, 2024|
+ |[DSA-5764-1 openssl - security update](https://www.linux.org/threads/dsa-5764-1-openssl-security-update.51582/)|Visit link for details.|Sep 3, 2024|
+ |[USN-6981-2: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-2-drupal-vulnerabilities.51578/)|Visit link for details.|Sep 3, 2024|
+ |[USN-6986-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6986-1-openssl-vulnerability.51577/)|Visit link for details.|Sep 3, 2024|
+ |[USN-6973-4: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6973-4-linux-kernel-raspberry-pi-vulnerabilities.51572/)|Visit link for details.|Sep 2, 2024|
+ |[USN-6983-1: FFmpeg vulnerability](https://www.linux.org/threads/usn-6983-1-ffmpeg-vulnerability.51571/)|Visit link for details.|Sep 2, 2024|
+ 
+
 # CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -67,38 +90,15 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240830)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, security restriction bypass, remote code execution and elevation of privilege on the targeted system.|Release Date: 30 Aug 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6990-1: znc vulnerability](https://www.linux.org/threads/usn-6990-1-znc-vulnerability.52387/)|Visit link for details.|Sep 4, 2024|
- |[USN-6989-1: OpenStack vulnerability](https://www.linux.org/threads/usn-6989-1-openstack-vulnerability.52386/)|Visit link for details.|Sep 4, 2024|
- |[USN-6985-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6985-1-imagemagick-vulnerabilities.52099/)|Visit link for details.|Sep 4, 2024|
- |[USN-6988-1: Twisted vulnerabilities](https://www.linux.org/threads/usn-6988-1-twisted-vulnerabilities.52098/)|Visit link for details.|Sep 4, 2024|
- |[DSA-5765-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5765-1-firefox-esr-security-update.51622/)|Visit link for details.|Sep 4, 2024|
- |[USN-6987-1: Django vulnerabilities](https://www.linux.org/threads/usn-6987-1-django-vulnerabilities.51583/)|Visit link for details.|Sep 3, 2024|
- |[DSA-5764-1 openssl - security update](https://www.linux.org/threads/dsa-5764-1-openssl-security-update.51582/)|Visit link for details.|Sep 3, 2024|
- |[USN-6981-2: Drupal vulnerabilities](https://www.linux.org/threads/usn-6981-2-drupal-vulnerabilities.51578/)|Visit link for details.|Sep 3, 2024|
- |[USN-6986-1: OpenSSL vulnerability](https://www.linux.org/threads/usn-6986-1-openssl-vulnerability.51577/)|Visit link for details.|Sep 3, 2024|
- |[USN-6973-4: Linux kernel (Raspberry Pi) vulnerabilities](https://www.linux.org/threads/usn-6973-4-linux-kernel-raspberry-pi-vulnerabilities.51572/)|Visit link for details.|Sep 2, 2024|
- |[USN-6983-1: FFmpeg vulnerability](https://www.linux.org/threads/usn-6983-1-ffmpeg-vulnerability.51571/)|Visit link for details.|Sep 2, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco ClamAV denial of service (CVE-2024-20506)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
+ |[Cisco ClamAV denial of service (CVE-2024-20505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
  |[Rust Programming Language command execution (CVE-2024-43402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
  |[Cisco Smart Licensing Utility security bypass (CVE-2024-20439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
  |[Cisco Smart Licensing Utility information disclosure (CVE-2024-20440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
- |[IBM webMethods Integration code execution (CVE-2024-45076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
