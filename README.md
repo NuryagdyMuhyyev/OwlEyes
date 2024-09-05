@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/09/2024 06:35:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/09/2024 07:43:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director](https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director)|Visit link for details.|Aug 23, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,28 +68,6 @@
  |[USN-6983-1: FFmpeg vulnerability](https://www.linux.org/threads/usn-6983-1-ffmpeg-vulnerability.51571/)|Visit link for details.|Sep 2, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. ...|Release Date: 4 Sep 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system. |Release Date: 4 Sep 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system. |Release Date: 4 Sep 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240903)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation and remote code execution on the targeted system.|Release Date: 3 Sep 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240903)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 3 Sep 2024 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240830)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, security restriction bypass, remote code execution and elevation of privilege on the targeted system.|Release Date: 30 Aug 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240806)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note:...| Release Date: 6 Aug 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240802)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypasson the targeted system. Note:Exploit in the...| Release Date: 2 Aug 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240801)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-08-02] Updated System / Technologies affected...| Release Date: 1 Aug 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240829)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 29 Aug 2024 |
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -91,10 +75,26 @@
  |[Cisco Smart Licensing Utility security bypass (CVE-2024-20439)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
  |[Cisco Smart Licensing Utility information disclosure (CVE-2024-20440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
  |[IBM webMethods Integration code execution (CVE-2024-45076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
- |[GiveWP Plugin for WordPress code execution (CVE-2024-5932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
- |[Yubico YubiKey 5 Series information disclosure (CVE-2024-45678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
+ |[OpenStack Ironic information disclosure (CVE-2024-44082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 3, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20240905)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 5 Sep 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2024-32896 may be under limited...|Release Date: 5 Sep 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 5 Sep 2024 |
+ |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 5 Sep 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. ...|Release Date: 4 Sep 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system. |Release Date: 4 Sep 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system. |Release Date: 4 Sep 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240903)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation and remote code execution on the targeted system.|Release Date: 3 Sep 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240903)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 3 Sep 2024 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240830)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, security restriction bypass, remote code execution and elevation of privilege on the targeted system.|Release Date: 30 Aug 2024 |
  
 
 # OBS-Vigilance
@@ -134,21 +134,6 @@
  |[2024-079: Critical SAP Authentication Bypass Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-079/)|On August 13, 2024, SAP released a security advisory for a critical authentication bypass vulnerability, CVE-2024-41730, in SAP BusinessObjects Business Intelligence Platform. This flaw allows remote attackers to bypass authentication mechanisms, potentially leading to full system compromise. The vulnerability has a CVSS score of 9.8, highlighting its severity.|Wednesday, August 14, 2024 03:38:09 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49140409/24 - Vulnérabilités critiques dans Google Android and Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-and-pixel)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 04 septembre 2024|
- |[ 49130409/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-11)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système…| 04 septembre 2024|
- |[ 49120409/24 - Vulnérabilités critiques dans D-Link routeur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-d-link-routeur)| D-Link notifie que quatre failles d'exécution de code à distance (RCE), dont trois sont considérées comme critiques et ne nécessitent pas d'authentification,  affectant toutes les versions matérielles…| 04 septembre 2024|
- |[ 49110409/24 - Vulnérabilité critique dans certains routeurs et AP ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-certains-routeurs-et-ap-zyxel)|  Une vulnérabilité critique a été corrigée affectant Plusieurs versions des points d'accès (AP) et de routeurs ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des…| 04 septembre 2024|
- |[ 49100309/24 - Vulnérabilité dans VMware Fusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-fusion)| Une vulnérabilité a été corrigée dans les versions susmentionnées de VMware Fusion. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire.| 03 septembre 2024|
- |[ 49080209/24 - Vulnérabilité critique dans One Identity Safeguard for Privileged Passwords ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-one-identity-safeguard-privileged-passwords)| Une vulnérabilité critique (CVE-2024-45488) a été corrigée dans One Identity Safeguard for Privileged Passwords. L’exploitation de cette faille peut permettre à un attaquant non authentifié de porter…| 02 septembre 2024|
- |[ 49070209/24 - Vulnérabilités dans Progress WhatsUp Gold ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-progress-whatsup-gold)| Progress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-6670, CVE-2024-6671) dans WhatsUp Gold, une application de surveillance de réseau. L'exploitation…| 02 septembre 2024|
- |[ 49052908/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-10)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 29 août 2024|
- |[ 49012908/24 - Vulnérabilité critique affectant Forta FileCatalyst Workflow ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-forta-filecatalyst-workflow)| Fortra  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit FileCatalyst Workflow.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 29 août 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -164,6 +149,21 @@
  |[Linux - CVE-2023-52752](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2023-52752-2024-09-03)|Visit link for details.|03/09/2024|
  |[Google Chrome - CVE-2024-8362](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8362-2024-09-03)|Visit link for details.|03/09/2024|
  |[D-Link - CVE-2024-45623](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45623-2024-09-03)|Visit link for details.|03/09/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49140409/24 - Vulnérabilités critiques dans Google Android and Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-and-pixel)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 04 septembre 2024|
+ |[ 49130409/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-11)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système…| 04 septembre 2024|
+ |[ 49120409/24 - Vulnérabilités critiques dans D-Link routeur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-d-link-routeur)| D-Link notifie que quatre failles d'exécution de code à distance (RCE), dont trois sont considérées comme critiques et ne nécessitent pas d'authentification,  affectant toutes les versions matérielles…| 04 septembre 2024|
+ |[ 49110409/24 - Vulnérabilité critique dans certains routeurs et AP ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-certains-routeurs-et-ap-zyxel)|  Une vulnérabilité critique a été corrigée affectant Plusieurs versions des points d'accès (AP) et de routeurs ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des…| 04 septembre 2024|
+ |[ 49100309/24 - Vulnérabilité dans VMware Fusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-vmware-fusion)| Une vulnérabilité a été corrigée dans les versions susmentionnées de VMware Fusion. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire.| 03 septembre 2024|
+ |[ 49080209/24 - Vulnérabilité critique dans One Identity Safeguard for Privileged Passwords ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-one-identity-safeguard-privileged-passwords)| Une vulnérabilité critique (CVE-2024-45488) a été corrigée dans One Identity Safeguard for Privileged Passwords. L’exploitation de cette faille peut permettre à un attaquant non authentifié de porter…| 02 septembre 2024|
+ |[ 49070209/24 - Vulnérabilités dans Progress WhatsUp Gold ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-progress-whatsup-gold)| Progress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-6670, CVE-2024-6671) dans WhatsUp Gold, une application de surveillance de réseau. L'exploitation…| 02 septembre 2024|
+ |[ 49052908/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-10)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 29 août 2024|
+ |[ 49012908/24 - Vulnérabilité critique affectant Forta FileCatalyst Workflow ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-forta-filecatalyst-workflow)| Fortra  annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son produit FileCatalyst Workflow.  L'exploitation de cette vulnérabilité  peut  permettre  à un…| 29 août 2024|
  
 
 # CA-CCS
