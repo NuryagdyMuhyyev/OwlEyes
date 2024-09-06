@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/09/2024 03:18:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/09/2024 04:21:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,22 @@
  |---|---|---|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20240905)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 5 Sep 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2024-32896 may be under limited...|Release Date: 5 Sep 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 5 Sep 2024 |
+ |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 5 Sep 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. ...|Release Date: 4 Sep 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system. |Release Date: 4 Sep 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system. |Release Date: 4 Sep 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240903)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation and remote code execution on the targeted system.|Release Date: 3 Sep 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240903)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 3 Sep 2024 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240830)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, security restriction bypass, remote code execution and elevation of privilege on the targeted system.|Release Date: 30 Aug 2024 |
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -87,37 +103,18 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# HK-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20240905)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 5 Sep 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2024-32896 may be under limited...|Release Date: 5 Sep 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 5 Sep 2024 |
- |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 5 Sep 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. ...|Release Date: 4 Sep 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system. |Release Date: 4 Sep 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system. |Release Date: 4 Sep 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240903)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation and remote code execution on the targeted system.|Release Date: 3 Sep 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240903)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 3 Sep 2024 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240830)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, security restriction bypass, remote code execution and elevation of privilege on the targeted system.|Release Date: 30 Aug 2024 |
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Veeam security advisory (AV24-499)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-499)|Visit link for details|2024-09-05|
- |[Drupal security advisory (AV24-498)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-498)|Visit link for details|2024-09-04|
- |[Cisco security advisory (AV24-497)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-497)|Visit link for details|2024-09-04|
- |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
- |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
- |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
- |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
- |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
- |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
- |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
- |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
+ |[Malwarebytes Antimalware Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1195/)|Visit link for details|2024-09-05|
+ |[Linux Kernel Plan 9 File System Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1194/)|Visit link for details|2024-09-05|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1193/)|Visit link for details|2024-09-05|
+ |[(0Day) Visteon Infotainment REFLASH_DDU_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1192/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment REFLASH_DDU_FindFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1191/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment VIP MCU Code Insufficient Validation of Data Authenticity Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1188/)|Visit link for details|2024-08-30|
  
 
 # EU-CERT
@@ -137,18 +134,21 @@
  |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Malwarebytes Antimalware Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1195/)|Visit link for details|2024-09-05|
- |[Linux Kernel Plan 9 File System Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1194/)|Visit link for details|2024-09-05|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1193/)|Visit link for details|2024-09-05|
- |[(0Day) Visteon Infotainment REFLASH_DDU_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1192/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment REFLASH_DDU_FindFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1191/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment VIP MCU Code Insufficient Validation of Data Authenticity Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1188/)|Visit link for details|2024-08-30|
+ |[Veeam security advisory (AV24-499)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-499)|Visit link for details|2024-09-05|
+ |[Drupal security advisory (AV24-498)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-498)|Visit link for details|2024-09-04|
+ |[Cisco security advisory (AV24-497)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-497)|Visit link for details|2024-09-04|
+ |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
+ |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
+ |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
+ |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
+ |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
+ |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
+ |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
+ |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
  
 
 # MA-CERT
