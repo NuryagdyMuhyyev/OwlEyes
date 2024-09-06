@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/09/2024 19:19:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/09/2024 20:22:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,18 @@
  |[USN-6987-1: Django vulnerabilities](https://www.linux.org/threads/usn-6987-1-django-vulnerabilities.51583/)|Visit link for details.|Sep 3, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -82,19 +94,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[LiteSpeed Technologies LiteSpeed Cache Plugin for WordPress privilege escalation (CVE-2024-44000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 5, 2024|
  |[Linux Kernel denial of service (CVE-2024-43102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 5, 2024|
  |[Windmill information disclosure (CVE-2024-8462)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 5, 2024|
  |[Libnv code execution (CVE-2024-45287)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 5, 2024|
- |[Libnv code execution (CVE-2024-45288)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 5, 2024|
- |[Linux Kernel denial of service (CVE-2024-44998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 4, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -109,29 +115,6 @@
  |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
  |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
  |[(0Day) Visteon Infotainment VIP MCU Code Insufficient Validation of Data Authenticity Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1188/)|Visit link for details|2024-08-30|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Squashfs/Juniper - CVE-2021-40153](https://www.cyberveille-sante.gouv.fr/alertes/squashfsjuniper-cve-2021-40153-2024-09-05)|Visit link for details.|05/09/2024|
- |[Mozilla Firefox - CVE-2024-8381](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-8381-2024-09-05)|Visit link for details.|05/09/2024|
- |[Cisco - CVE-2024-20440](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20440-2024-09-05)|Visit link for details.|05/09/2024|
- |[ForcePoint - CVE-2024-2166](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cve-2024-2166-2024-09-05)|Visit link for details.|05/09/2024|
- |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|05/09/2024|
- |[Apache HTTP Server - CVE-2023-31122](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-server-cve-2023-31122-2023-10-20)|Visit link for details.|05/09/2024|
- |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|05/09/2024|
- |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|05/09/2024|
- |[Zyxel - CVE-2024-7203](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-7203-2024-09-04)|Visit link for details.|04/09/2024|
- |[VMware - CVE-2024-38811](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38811-2024-09-04)|Visit link for details.|04/09/2024|
- |[Mozilla Firefox - CVE-2024-8385](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-8385-2024-09-04)|Visit link for details.|04/09/2024|
  
 
 # EU-CERT
@@ -151,6 +134,23 @@
  |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam security advisory (AV24-499)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-499)|Visit link for details|2024-09-05|
+ |[Drupal security advisory (AV24-498)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-498)|Visit link for details|2024-09-04|
+ |[Cisco security advisory (AV24-497)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-497)|Visit link for details|2024-09-04|
+ |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
+ |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
+ |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
+ |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
+ |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
+ |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
+ |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
+ |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -168,19 +168,19 @@
  |[ 49120409/24 - Vulnérabilités critiques dans D-Link routeur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-d-link-routeur)| D-Link notifie que quatre failles d'exécution de code à distance (RCE), dont trois sont considérées comme critiques et ne nécessitent pas d'authentification,  affectant toutes les versions matérielles…| 04 septembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Veeam security advisory (AV24-499)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-499)|Visit link for details|2024-09-05|
- |[Drupal security advisory (AV24-498)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-498)|Visit link for details|2024-09-04|
- |[Cisco security advisory (AV24-497)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-497)|Visit link for details|2024-09-04|
- |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
- |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
- |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
- |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
- |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
- |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
- |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
- |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
+ |[Squashfs/Juniper - CVE-2021-40153](https://www.cyberveille-sante.gouv.fr/alertes/squashfsjuniper-cve-2021-40153-2024-09-05)|Visit link for details.|05/09/2024|
+ |[Mozilla Firefox - CVE-2024-8381](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-8381-2024-09-05)|Visit link for details.|05/09/2024|
+ |[Cisco - CVE-2024-20440](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20440-2024-09-05)|Visit link for details.|05/09/2024|
+ |[ForcePoint - CVE-2024-2166](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cve-2024-2166-2024-09-05)|Visit link for details.|05/09/2024|
+ |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|05/09/2024|
+ |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|05/09/2024|
+ |[Google Chrome - CVE-2023-4863](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2023-4863-2023-09-12)|Visit link for details.|05/09/2024|
+ |[Apache HTTP Server - CVE-2023-31122](https://www.cyberveille-sante.gouv.fr/alertes/apache-http-server-cve-2023-31122-2023-10-20)|Visit link for details.|05/09/2024|
+ |[Zyxel - CVE-2024-7203](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-7203-2024-09-04)|Visit link for details.|04/09/2024|
+ |[VMware - CVE-2024-38811](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38811-2024-09-04)|Visit link for details.|04/09/2024|
+ |[Mozilla Firefox - CVE-2024-8385](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-8385-2024-09-04)|Visit link for details.|04/09/2024|
  
