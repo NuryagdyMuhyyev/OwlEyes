@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/09/2024 07:41:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/09/2024 08:21:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,12 @@
  |[USN-6988-1: Twisted vulnerabilities](https://www.linux.org/threads/usn-6988-1-twisted-vulnerabilities.52098/)|Visit link for details.|Sep 4, 2024|
  |[DSA-5765-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5765-1-firefox-esr-security-update.51622/)|Visit link for details.|Sep 4, 2024|
  |[USN-6987-1: Django vulnerabilities](https://www.linux.org/threads/usn-6987-1-django-vulnerabilities.51583/)|Visit link for details.|Sep 3, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -84,6 +84,12 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240830)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, security restriction bypass, remote code execution and elevation of privilege on the targeted system.|Release Date: 30 Aug 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -95,12 +101,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -151,23 +151,6 @@
  |[ 49120409/24 - Vulnérabilités critiques dans D-Link routeur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-d-link-routeur)| D-Link notifie que quatre failles d'exécution de code à distance (RCE), dont trois sont considérées comme critiques et ne nécessitent pas d'authentification,  affectant toutes les versions matérielles…| 04 septembre 2024|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Veeam security advisory (AV24-499)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-499)|Visit link for details|2024-09-05|
- |[Drupal security advisory (AV24-498)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-498)|Visit link for details|2024-09-04|
- |[Cisco security advisory (AV24-497)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-497)|Visit link for details|2024-09-04|
- |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
- |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
- |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
- |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
- |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
- |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
- |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
- |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ForcePoint - CVE-2024-2166](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cve-2024-2166-2024-09-05)|Visit link for details.|05/09/2024|
  |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|05/09/2024|
  |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|05/09/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam security advisory (AV24-499)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-499)|Visit link for details|2024-09-05|
+ |[Drupal security advisory (AV24-498)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-498)|Visit link for details|2024-09-04|
+ |[Cisco security advisory (AV24-497)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-497)|Visit link for details|2024-09-04|
+ |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
+ |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
+ |[VMware security advisory (AV24-494)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494)|Visit link for details|2024-09-03|
+ |[Mozilla security advisory (AV24-493)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493)|Visit link for details|2024-09-03|
+ |[Red Hat security advisory (AV24-492)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492)|Visit link for details|2024-09-03|
+ |[[Control systems] CISA ICS security advisories (AV24-491)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491)|Visit link for details|2024-09-03|
+ |[Ubuntu security advisory (AV24-490)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490)|Visit link for details|2024-09-03|
+ |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
  
