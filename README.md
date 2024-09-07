@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/09/2024 02:19:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/09/2024 03:18:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,12 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
 
 # US-CERT
 
@@ -62,25 +68,6 @@
  |[USN-6987-1: Django vulnerabilities](https://www.linux.org/threads/usn-6987-1-django-vulnerabilities.51583/)|Visit link for details.|Sep 3, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[gitoxide code execution (CVE-2024-45405)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
- |[alf.io security bypass (CVE-2024-45300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
- |[Consensys gnark information disclosure (CVE-2024-45039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
- |[Consensys gnark information disclosure (CVE-2024-45040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -97,6 +84,25 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240830)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, security restriction bypass, remote code execution and elevation of privilege on the targeted system.|Release Date: 30 Aug 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[gitoxide code execution (CVE-2024-45405)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
+ |[alf.io security bypass (CVE-2024-45300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
+ |[Consensys gnark information disclosure (CVE-2024-45039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
+ |[Consensys gnark information disclosure (CVE-2024-45040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
+ |[IBM MQ Operator security bypass (CVE-2024-40681)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -109,12 +115,6 @@
  |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
  |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
  |[(0Day) Visteon Infotainment VIP MCU Code Insufficient Validation of Data Authenticity Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1188/)|Visit link for details|2024-08-30|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
