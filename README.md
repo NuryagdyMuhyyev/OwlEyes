@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/09/2024 14:19:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/09/2024 15:19:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6991-1: AIOHTTP vulnerability](https://www.linux.org/threads/usn-6991-1-aiohttp-vulnerability.52465/)|Visit link for details.|Sep 5, 2024|
- |[DSA-5766-1 chromium - security update](https://www.linux.org/threads/dsa-5766-1-chromium-security-update.52456/)|Visit link for details.|Sep 5, 2024|
- |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Sep 5, 2024|
- |[USN-6993-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6993-1-vim-vulnerabilities.52397/)|Visit link for details.|Sep 5, 2024|
- |[USN-6992-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6992-1-firefox-vulnerabilities.52396/)|Visit link for details.|Sep 5, 2024|
- |[USN-6990-1: znc vulnerability](https://www.linux.org/threads/usn-6990-1-znc-vulnerability.52387/)|Visit link for details.|Sep 4, 2024|
- |[USN-6989-1: OpenStack vulnerability](https://www.linux.org/threads/usn-6989-1-openstack-vulnerability.52386/)|Visit link for details.|Sep 4, 2024|
- |[USN-6985-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6985-1-imagemagick-vulnerabilities.52099/)|Visit link for details.|Sep 4, 2024|
- |[USN-6988-1: Twisted vulnerabilities](https://www.linux.org/threads/usn-6988-1-twisted-vulnerabilities.52098/)|Visit link for details.|Sep 4, 2024|
- |[DSA-5765-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5765-1-firefox-esr-security-update.51622/)|Visit link for details.|Sep 4, 2024|
- |[USN-6987-1: Django vulnerabilities](https://www.linux.org/threads/usn-6987-1-django-vulnerabilities.51583/)|Visit link for details.|Sep 3, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,10 +45,21 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 27, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6991-1: AIOHTTP vulnerability](https://www.linux.org/threads/usn-6991-1-aiohttp-vulnerability.52465/)|Visit link for details.|Sep 5, 2024|
+ |[DSA-5766-1 chromium - security update](https://www.linux.org/threads/dsa-5766-1-chromium-security-update.52456/)|Visit link for details.|Sep 5, 2024|
+ |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Sep 5, 2024|
+ |[USN-6993-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6993-1-vim-vulnerabilities.52397/)|Visit link for details.|Sep 5, 2024|
+ |[USN-6992-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6992-1-firefox-vulnerabilities.52396/)|Visit link for details.|Sep 5, 2024|
+ |[USN-6990-1: znc vulnerability](https://www.linux.org/threads/usn-6990-1-znc-vulnerability.52387/)|Visit link for details.|Sep 4, 2024|
+ |[USN-6989-1: OpenStack vulnerability](https://www.linux.org/threads/usn-6989-1-openstack-vulnerability.52386/)|Visit link for details.|Sep 4, 2024|
+ |[USN-6985-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-6985-1-imagemagick-vulnerabilities.52099/)|Visit link for details.|Sep 4, 2024|
+ |[USN-6988-1: Twisted vulnerabilities](https://www.linux.org/threads/usn-6988-1-twisted-vulnerabilities.52098/)|Visit link for details.|Sep 4, 2024|
+ |[DSA-5765-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5765-1-firefox-esr-security-update.51622/)|Visit link for details.|Sep 4, 2024|
+ |[USN-6987-1: Django vulnerabilities](https://www.linux.org/threads/usn-6987-1-django-vulnerabilities.51583/)|Visit link for details.|Sep 3, 2024|
  
 
 # OBS-Vigilance
@@ -88,6 +82,12 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240903)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation and remote code execution on the targeted system.|Release Date: 3 Sep 2024 |
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20240903)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 3 Sep 2024 |
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240830)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, security restriction bypass, remote code execution and elevation of privilege on the targeted system.|Release Date: 30 Aug 2024 |
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
