@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/09/2024 23:27:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/09/2024 00:16:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -49,22 +43,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
  |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
  |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Sep 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and security restriction bypass on the targeted system.|Release Date: 9 Sep 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. |Release Date: 9 Sep 2024 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 9 Sep 2024 |
- |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20240905)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 5 Sep 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2024-32896 may be under limited...|Release Date: 5 Sep 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 5 Sep 2024 |
- |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 5 Sep 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. ...|Release Date: 4 Sep 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system. |Release Date: 4 Sep 2024 |
  
 
 # LINUX-SEC
@@ -84,6 +62,34 @@
  |[USN-6990-1: znc vulnerability](https://www.linux.org/threads/usn-6990-1-znc-vulnerability.52387/)|Visit link for details.|Sep 4, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system.|Release Date: 9 Sep 2024 |
+ |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and security restriction bypass on the targeted system.|Release Date: 9 Sep 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. |Release Date: 9 Sep 2024 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 9 Sep 2024 |
+ |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20240905)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 5 Sep 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note:There are indications that CVE-2024-32896 may be under limited...|Release Date: 5 Sep 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 5 Sep 2024 |
+ |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 5 Sep 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. ...|Release Date: 4 Sep 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system. |Release Date: 4 Sep 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -92,15 +98,9 @@
  |[Linux Kernel denial of service (CVE-2024-43859)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 7, 2024|
  |[QNAP QTS and QuTS hero cross-site scripting (CVE-2023-50366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
  |[QNAP QTS and QuTS hero directory traversal (CVE-2023-51366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
- |[QNAO QTS and QuTS hero command execution (CVE-2023-34979)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
