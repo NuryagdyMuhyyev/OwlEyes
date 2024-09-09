@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/09/2024 10:20:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/09/2024 11:31:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,13 +62,13 @@
  |[DSA-5765-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5765-1-firefox-esr-security-update.51622/)|Visit link for details.|Sep 4, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -82,7 +82,7 @@
  |[QNAP QTS and QuTS hero directory traversal (CVE-2023-51366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
  |[QNAO QTS and QuTS hero command execution (CVE-2023-34979)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
  |[QNAO QTS and QuTS hero buffer overflow (CVE-2023-51367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
- |[QNAP QTS and QuTS hero denial of service (CVE-2023-51368)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 6, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -151,23 +151,6 @@
  |[IBM security advisory (AV24-489)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489)|Visit link for details|2024-09-03|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Veeam One - CVE-2024-42024](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42024-2024-09-06)|Visit link for details.|06/09/2024|
- |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|06/09/2024|
- |[Baxter Connex Health Portal - CVE-2024-6795](https://www.cyberveille-sante.gouv.fr/alertes/baxter-connex-health-portal-cve-2024-6795-2024-09-06)|Visit link for details.|06/09/2024|
- |[Veeam Service Provider Console - CVE-2024-38650](https://www.cyberveille-sante.gouv.fr/alertes/veeam-service-provider-console-cve-2024-38650-2024-09-06)|Visit link for details.|06/09/2024|
- |[D-Link - CVE-2024-44400](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44400-2024-09-06)|Visit link for details.|06/09/2024|
- |[Squashfs/Juniper - CVE-2021-40153](https://www.cyberveille-sante.gouv.fr/alertes/squashfsjuniper-cve-2021-40153-2024-09-05)|Visit link for details.|05/09/2024|
- |[Mozilla Firefox - CVE-2024-8381](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-8381-2024-09-05)|Visit link for details.|05/09/2024|
- |[Cisco - CVE-2024-20440](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20440-2024-09-05)|Visit link for details.|05/09/2024|
- |[ForcePoint - CVE-2024-2166](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cve-2024-2166-2024-09-05)|Visit link for details.|05/09/2024|
- |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|05/09/2024|
- |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|05/09/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 49140409/24 - Vulnérabilités critiques dans Google Android and Pixel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-and-pixel)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 04 septembre 2024|
  |[ 49130409/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-11)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système…| 04 septembre 2024|
  |[ 49120409/24 - Vulnérabilités critiques dans D-Link routeur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-d-link-routeur)| D-Link notifie que quatre failles d'exécution de code à distance (RCE), dont trois sont considérées comme critiques et ne nécessitent pas d'authentification,  affectant toutes les versions matérielles…| 04 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam One - CVE-2024-42024](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42024-2024-09-06)|Visit link for details.|06/09/2024|
+ |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|06/09/2024|
+ |[Baxter Connex Health Portal - CVE-2024-6795](https://www.cyberveille-sante.gouv.fr/alertes/baxter-connex-health-portal-cve-2024-6795-2024-09-06)|Visit link for details.|06/09/2024|
+ |[Veeam Service Provider Console - CVE-2024-38650](https://www.cyberveille-sante.gouv.fr/alertes/veeam-service-provider-console-cve-2024-38650-2024-09-06)|Visit link for details.|06/09/2024|
+ |[D-Link - CVE-2024-44400](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44400-2024-09-06)|Visit link for details.|06/09/2024|
+ |[Squashfs/Juniper - CVE-2021-40153](https://www.cyberveille-sante.gouv.fr/alertes/squashfsjuniper-cve-2021-40153-2024-09-05)|Visit link for details.|05/09/2024|
+ |[Mozilla Firefox - CVE-2024-8381](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-8381-2024-09-05)|Visit link for details.|05/09/2024|
+ |[Cisco - CVE-2024-20440](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20440-2024-09-05)|Visit link for details.|05/09/2024|
+ |[ForcePoint - CVE-2024-2166](https://www.cyberveille-sante.gouv.fr/alertes/forcepoint-cve-2024-2166-2024-09-05)|Visit link for details.|05/09/2024|
+ |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|05/09/2024|
+ |[Git - CVE-2024-32002](https://www.cyberveille-sante.gouv.fr/alertes/git-cve-2024-32002-2024-05-15)|Visit link for details.|05/09/2024|
  
