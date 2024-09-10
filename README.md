@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/09/2024 11:28:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/09/2024 12:20:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 09, 2024|
+ |[FBI, CISA, NSA, and US and International Partners Release Advisory on Russian Military Cyber Actors Targeting US and Global Critical Infrastructure](https://www.cisa.gov/news-events/alerts/2024/09/05/fbi-cisa-nsa-and-us-and-international-partners-release-advisory-russian-military-cyber-actors)|Visit link for details.|Sep 05, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/05/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 03, 2024|
+ |[CISA and Partners Release Advisory on RansomHub Ransomware](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware)|Visit link for details.|Aug 29, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 29, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
+ |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
+ |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,32 +62,23 @@
  |[USN-6992-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6992-1-firefox-vulnerabilities.52396/)|Visit link for details.|Sep 5, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# US-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 09, 2024|
- |[FBI, CISA, NSA, and US and International Partners Release Advisory on Russian Military Cyber Actors Targeting US and Global Critical Infrastructure](https://www.cisa.gov/news-events/alerts/2024/09/05/fbi-cisa-nsa-and-us-and-international-partners-release-advisory-russian-military-cyber-actors)|Visit link for details.|Sep 05, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/05/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 03, 2024|
- |[CISA and Partners Release Advisory on RansomHub Ransomware](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware)|Visit link for details.|Aug 29, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 29, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
- |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
- |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
+ |[Twig security bypass (CVE-2024-45411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[Elasticsearch Kibana code execution (CVE-2024-37288)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[TechExcel Software Solutions Back Office Software information disclosure (CVE-2024-8601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[Google AngularJS security bypass (CVE-2024-8372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[Google AngularJS security bypass (CVE-2024-8373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -90,17 +97,10 @@
  |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 5 Sep 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[TechExcel Software Solutions Back Office Software information disclosure (CVE-2024-8601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[Google AngularJS security bypass (CVE-2024-8372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[Google AngularJS security bypass (CVE-2024-8373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[pillarjs Path-to-RegExp denial of service (CVE-2024-45296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[HPE HP-UX ONCplus denial of service (CVE-2024-42500)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -134,21 +134,20 @@
  |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
  
 
-# CA-CCS
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM security advisory (AV24-505)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-505)|Visit link for details|2024-09-09|
- |[Progress security advisory (AV24-504)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-504)|Visit link for details|2024-09-09|
- |[Dell security advisory (AV24-503)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-503)|Visit link for details|2024-09-09|
- |[Red Hat security advisory (AV24-502)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-502)|Visit link for details|2024-09-09|
- |[Ubuntu security advisory (AV24-501)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-501)|Visit link for details|2024-09-09|
- |[[Control systems] CISA ICS security advisories (AV24-500)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-500)|Visit link for details|2024-09-09|
- |[Veeam security advisory (AV24-499)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-499)|Visit link for details|2024-09-05|
- |[Drupal security advisory (AV24-498)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-498)|Visit link for details|2024-09-04|
- |[Cisco security advisory (AV24-497)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-497)|Visit link for details|2024-09-04|
- |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
- |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
+ |[ 49240909 /24 - Vulnérabilité critique dans Progress LoadMaster et Multi-Tenant (MT) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-progress-loadmaster-et-multi-tenant-mt)| Progress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-7591) dans LoadMaster et Multi-Tenant (MT). L'exploitation réussie de cette vulnérabilité permettrait…| 09 septembre 2024|
+ |[ 49230909 /24 - Vulnérabilités dans les produits Centreon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-centreon)| Plusieurs vulnérabilités ont été corrigées dans les produits Centreon web. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 09 septembre 2024|
+ |[ 49220609/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 06 septembre 2024|
+ |[ 49210609/24 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz-0)| La Fondation Apache Software a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-45195) dans Apache OFBiz.  L’exploitation de cette faille peut permettre à un…| 06 septembre 2024|
+ |[ 49200609/24 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-4)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de causer un…| 06 septembre 2024|
+ |[ 49190509/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics-0)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 05 septembre 2024|
+ |[ 49180509/24 - Vulnérabilités dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-veeam)| Veeam a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
+ |[ 49170509/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-6)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 05 septembre 2024|
+ |[ 49160509/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-2)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
+ |[ 49150509/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-7)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 05 septembre 2024|
  
 
 # CERT-SANTE
@@ -168,18 +167,19 @@
  |[D-Link - CVE-2024-44400](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44400-2024-09-06)|Visit link for details.|06/09/2024|
  
 
-# MA-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[ 49240909 /24 - Vulnérabilité critique dans Progress LoadMaster et Multi-Tenant (MT) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-progress-loadmaster-et-multi-tenant-mt)| Progress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-7591) dans LoadMaster et Multi-Tenant (MT). L'exploitation réussie de cette vulnérabilité permettrait…| 09 septembre 2024|
- |[ 49230909 /24 - Vulnérabilités dans les produits Centreon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-centreon)| Plusieurs vulnérabilités ont été corrigées dans les produits Centreon web. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 09 septembre 2024|
- |[ 49220609/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 06 septembre 2024|
- |[ 49210609/24 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz-0)| La Fondation Apache Software a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-45195) dans Apache OFBiz.  L’exploitation de cette faille peut permettre à un…| 06 septembre 2024|
- |[ 49200609/24 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-4)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de causer un…| 06 septembre 2024|
- |[ 49190509/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics-0)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 05 septembre 2024|
- |[ 49180509/24 - Vulnérabilités dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-veeam)| Veeam a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
- |[ 49170509/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-6)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 05 septembre 2024|
- |[ 49160509/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-2)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
- |[ 49150509/24 - Vulnérabilité dans OpenSSL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-openssl-7)| OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées d’OpenSSL. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de…| 05 septembre 2024|
+ |[IBM security advisory (AV24-505)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-505)|Visit link for details|2024-09-09|
+ |[Progress security advisory (AV24-504)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-504)|Visit link for details|2024-09-09|
+ |[Dell security advisory (AV24-503)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-503)|Visit link for details|2024-09-09|
+ |[Red Hat security advisory (AV24-502)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-502)|Visit link for details|2024-09-09|
+ |[Ubuntu security advisory (AV24-501)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-501)|Visit link for details|2024-09-09|
+ |[[Control systems] CISA ICS security advisories (AV24-500)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-500)|Visit link for details|2024-09-09|
+ |[Veeam security advisory (AV24-499)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-499)|Visit link for details|2024-09-05|
+ |[Drupal security advisory (AV24-498)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-498)|Visit link for details|2024-09-04|
+ |[Cisco security advisory (AV24-497)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-497)|Visit link for details|2024-09-04|
+ |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
+ |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
  
