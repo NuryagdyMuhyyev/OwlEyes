@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/09/2024 15:21:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/09/2024 16:17:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,13 +62,13 @@
  |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -98,7 +98,7 @@
  |[Twig security bypass (CVE-2024-45411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
  |[Elasticsearch Kibana code execution (CVE-2024-37288)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
  |[TechExcel Software Solutions Back Office Software information disclosure (CVE-2024-8601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Google AngularJS security bypass (CVE-2024-8372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -134,6 +134,22 @@
  |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49271009/24 - Vulnérabilité critique dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-sonicwall)| Une vulnérabilité critique a été identifiée dans les versions susmentionnées des pare-feu SonicWall utilisant des versions vulnérables de SonicOS. SonicWall a révélé que la faille de sécurité affecte…| 10 septembre 2024|
+ |[ 49260909/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Qnap susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de…| 10 septembre 2024|
+ |[ 49240909 /24 - Vulnérabilité critique dans Progress LoadMaster et Multi-Tenant (MT) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-progress-loadmaster-et-multi-tenant-mt)| Progress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-7591) dans LoadMaster et Multi-Tenant (MT). L'exploitation réussie de cette vulnérabilité permettrait…| 09 septembre 2024|
+ |[ 49230909 /24 - Vulnérabilités dans les produits Centreon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-centreon)| Plusieurs vulnérabilités ont été corrigées dans les produits Centreon web. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 09 septembre 2024|
+ |[ 49220609/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 06 septembre 2024|
+ |[ 49210609/24 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz-0)| La Fondation Apache Software a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-45195) dans Apache OFBiz.  L’exploitation de cette faille peut permettre à un…| 06 septembre 2024|
+ |[ 49200609/24 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-4)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de causer un…| 06 septembre 2024|
+ |[ 49190509/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics-0)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 05 septembre 2024|
+ |[ 49180509/24 - Vulnérabilités dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-veeam)| Veeam a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
+ |[ 49170509/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-6)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 05 septembre 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -149,22 +165,6 @@
  |[Cisco security advisory (AV24-497)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-497)|Visit link for details|2024-09-04|
  |[Android security advisory – September 2024 Monthly Rollup (AV24-496)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-september-2024-monthly-rollup-av24-496)|Visit link for details|2024-09-03|
  |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49260909/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Qnap susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de…| 10 septembre 2024|
- |[ 49240909 /24 - Vulnérabilité critique dans Progress LoadMaster et Multi-Tenant (MT) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-progress-loadmaster-et-multi-tenant-mt)| Progress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-7591) dans LoadMaster et Multi-Tenant (MT). L'exploitation réussie de cette vulnérabilité permettrait…| 09 septembre 2024|
- |[ 49230909 /24 - Vulnérabilités dans les produits Centreon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-centreon)| Plusieurs vulnérabilités ont été corrigées dans les produits Centreon web. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 09 septembre 2024|
- |[ 49220609/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 06 septembre 2024|
- |[ 49210609/24 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz-0)| La Fondation Apache Software a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-45195) dans Apache OFBiz.  L’exploitation de cette faille peut permettre à un…| 06 septembre 2024|
- |[ 49200609/24 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-4)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de causer un…| 06 septembre 2024|
- |[ 49190509/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics-0)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 05 septembre 2024|
- |[ 49180509/24 - Vulnérabilités dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-veeam)| Veeam a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
- |[ 49170509/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-6)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 05 septembre 2024|
- |[ 49160509/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-2)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
  
 
 # CERT-SANTE
