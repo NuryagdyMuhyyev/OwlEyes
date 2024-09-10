@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/09/2024 18:25:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/09/2024 19:19:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,19 +68,6 @@
  |[USN-6992-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6992-1-firefox-vulnerabilities.52396/)|Visit link for details.|Sep 5, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Uniong WebITR open redirect (CVE-2024-8586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[Twig security bypass (CVE-2024-45411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[Elasticsearch Kibana code execution (CVE-2024-37288)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[TechExcel Software Solutions Back Office Software information disclosure (CVE-2024-8601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[Google AngularJS security bypass (CVE-2024-8372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -103,21 +90,31 @@
  |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 5 Sep 2024 |
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|10/09/2024|
- |[Veeam One - CVE-2024-42019](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42019-2024-09-09)|Visit link for details.|09/09/2024|
- |[Veeam - CVE-2024-40713](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-40713-2024-09-09)|Visit link for details.|09/09/2024|
- |[Baxter Connex Health Portal - CVE-2024-6796](https://www.cyberveille-sante.gouv.fr/alertes/baxter-connex-health-portal-cve-2024-6796-2024-09-09)|Visit link for details.|09/09/2024|
- |[QNAP - CVE-2023-50360](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-50360-2024-09-09)|Visit link for details.|09/09/2024|
- |[Linux - CVE-2024-26581](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26581-2024-09-09)|Visit link for details.|09/09/2024|
- |[SonicWall - CVE-2024-40766](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-40766-2024-08-23)|Visit link for details.|09/09/2024|
- |[Veeam One - CVE-2024-42024](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42024-2024-09-06)|Visit link for details.|06/09/2024|
- |[Baxter Connex Health Portal - CVE-2024-6795](https://www.cyberveille-sante.gouv.fr/alertes/baxter-connex-health-portal-cve-2024-6795-2024-09-06)|Visit link for details.|06/09/2024|
- |[Veeam Service Provider Console - CVE-2024-38650](https://www.cyberveille-sante.gouv.fr/alertes/veeam-service-provider-console-cve-2024-38650-2024-09-06)|Visit link for details.|06/09/2024|
- |[D-Link - CVE-2024-44400](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44400-2024-09-06)|Visit link for details.|06/09/2024|
+ |[Uniong WebITR open redirect (CVE-2024-8586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[Twig security bypass (CVE-2024-45411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[Elasticsearch Kibana code execution (CVE-2024-37288)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[TechExcel Software Solutions Back Office Software information disclosure (CVE-2024-8601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader DC Doc Object Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1196/)|Visit link for details|2024-09-09|
+ |[Malwarebytes Antimalware Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1195/)|Visit link for details|2024-09-05|
+ |[Linux Kernel Plan 9 File System Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1194/)|Visit link for details|2024-09-05|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1193/)|Visit link for details|2024-09-05|
+ |[(0Day) Visteon Infotainment REFLASH_DDU_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1192/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment REFLASH_DDU_FindFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1191/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
+ |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
  
 
 # EU-CERT
@@ -137,22 +134,6 @@
  |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49271009/24 - Vulnérabilité critique dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-sonicwall)| Une vulnérabilité critique a été identifiée dans les versions susmentionnées des pare-feu SonicWall utilisant des versions vulnérables de SonicOS. SonicWall a révélé que la faille de sécurité affecte…| 10 septembre 2024|
- |[ 49260909/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Qnap susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de…| 10 septembre 2024|
- |[ 49240909 /24 - Vulnérabilité critique dans Progress LoadMaster et Multi-Tenant (MT) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-progress-loadmaster-et-multi-tenant-mt)| Progress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-7591) dans LoadMaster et Multi-Tenant (MT). L'exploitation réussie de cette vulnérabilité permettrait…| 09 septembre 2024|
- |[ 49230909 /24 - Vulnérabilités dans les produits Centreon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-centreon)| Plusieurs vulnérabilités ont été corrigées dans les produits Centreon web. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 09 septembre 2024|
- |[ 49220609/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 06 septembre 2024|
- |[ 49210609/24 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz-0)| La Fondation Apache Software a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-45195) dans Apache OFBiz.  L’exploitation de cette faille peut permettre à un…| 06 septembre 2024|
- |[ 49200609/24 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-4)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de causer un…| 06 septembre 2024|
- |[ 49190509/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics-0)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 05 septembre 2024|
- |[ 49180509/24 - Vulnérabilités dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-veeam)| Veeam a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
- |[ 49170509/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-6)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 05 septembre 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -170,16 +151,35 @@
  |[HPE security advisory (AV24-495)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495)|Visit link for details|2024-09-03|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Acrobat Reader DC Doc Object Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1196/)|Visit link for details|2024-09-09|
- |[Malwarebytes Antimalware Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1195/)|Visit link for details|2024-09-05|
- |[Linux Kernel Plan 9 File System Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1194/)|Visit link for details|2024-09-05|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1193/)|Visit link for details|2024-09-05|
- |[(0Day) Visteon Infotainment REFLASH_DDU_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1192/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment REFLASH_DDU_FindFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1191/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment UPDATES_ExtractFile Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1190/)|Visit link for details|2024-08-30|
- |[(0Day) Visteon Infotainment App SoC Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1189/)|Visit link for details|2024-08-30|
+ |[ 49281009/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-3)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 10 septembre 2024|
+ |[ 49271009/24 - Vulnérabilité critique dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-sonicwall)| Une vulnérabilité critique a été identifiée dans les versions susmentionnées des pare-feu SonicWall utilisant des versions vulnérables de SonicOS. SonicWall a révélé que la faille de sécurité affecte…| 10 septembre 2024|
+ |[ 49260909/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Qnap susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de…| 10 septembre 2024|
+ |[ 49240909 /24 - Vulnérabilité critique dans Progress LoadMaster et Multi-Tenant (MT) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-progress-loadmaster-et-multi-tenant-mt)| Progress a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-7591) dans LoadMaster et Multi-Tenant (MT). L'exploitation réussie de cette vulnérabilité permettrait…| 09 septembre 2024|
+ |[ 49230909 /24 - Vulnérabilités dans les produits Centreon ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-centreon)| Plusieurs vulnérabilités ont été corrigées dans les produits Centreon web. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance.| 09 septembre 2024|
+ |[ 49220609/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 06 septembre 2024|
+ |[ 49210609/24 - Vulnérabilité critique dans Apache OFBiz ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-ofbiz-0)| La Fondation Apache Software a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2024-45195) dans Apache OFBiz.  L’exploitation de cette faille peut permettre à un…| 06 septembre 2024|
+ |[ 49200609/24 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-4)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de causer un…| 06 septembre 2024|
+ |[ 49190509/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics-0)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 05 septembre 2024|
+ |[ 49180509/24 - Vulnérabilités dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-veeam)| Veeam a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|10/09/2024|
+ |[Veeam One - CVE-2024-42019](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42019-2024-09-09)|Visit link for details.|09/09/2024|
+ |[Veeam - CVE-2024-40713](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-40713-2024-09-09)|Visit link for details.|09/09/2024|
+ |[Baxter Connex Health Portal - CVE-2024-6796](https://www.cyberveille-sante.gouv.fr/alertes/baxter-connex-health-portal-cve-2024-6796-2024-09-09)|Visit link for details.|09/09/2024|
+ |[QNAP - CVE-2023-50360](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-50360-2024-09-09)|Visit link for details.|09/09/2024|
+ |[Linux - CVE-2024-26581](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26581-2024-09-09)|Visit link for details.|09/09/2024|
+ |[SonicWall - CVE-2024-40766](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-40766-2024-08-23)|Visit link for details.|09/09/2024|
+ |[Veeam One - CVE-2024-42024](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42024-2024-09-06)|Visit link for details.|06/09/2024|
+ |[Baxter Connex Health Portal - CVE-2024-6795](https://www.cyberveille-sante.gouv.fr/alertes/baxter-connex-health-portal-cve-2024-6795-2024-09-06)|Visit link for details.|06/09/2024|
+ |[Veeam Service Provider Console - CVE-2024-38650](https://www.cyberveille-sante.gouv.fr/alertes/veeam-service-provider-console-cve-2024-38650-2024-09-06)|Visit link for details.|06/09/2024|
+ |[D-Link - CVE-2024-44400](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44400-2024-09-06)|Visit link for details.|06/09/2024|
  
