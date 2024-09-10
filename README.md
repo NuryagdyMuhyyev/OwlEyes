@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/09/2024 10:19:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/09/2024 11:28:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,28 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 09, 2024|
- |[FBI, CISA, NSA, and US and International Partners Release Advisory on Russian Military Cyber Actors Targeting US and Global Critical Infrastructure](https://www.cisa.gov/news-events/alerts/2024/09/05/fbi-cisa-nsa-and-us-and-international-partners-release-advisory-russian-military-cyber-actors)|Visit link for details.|Sep 05, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/05/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 03, 2024|
- |[CISA and Partners Release Advisory on RansomHub Ransomware](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware)|Visit link for details.|Aug 29, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 29, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
- |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
- |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +44,34 @@
  |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Sep 5, 2024|
  |[USN-6993-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6993-1-vim-vulnerabilities.52397/)|Visit link for details.|Sep 5, 2024|
  |[USN-6992-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6992-1-firefox-vulnerabilities.52396/)|Visit link for details.|Sep 5, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 09, 2024|
+ |[FBI, CISA, NSA, and US and International Partners Release Advisory on Russian Military Cyber Actors Targeting US and Global Critical Infrastructure](https://www.cisa.gov/news-events/alerts/2024/09/05/fbi-cisa-nsa-and-us-and-international-partners-release-advisory-russian-military-cyber-actors)|Visit link for details.|Sep 05, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/05/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 03, 2024|
+ |[CISA and Partners Release Advisory on RansomHub Ransomware](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-and-partners-release-advisory-ransomhub-ransomware)|Visit link for details.|Aug 29, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/08/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Aug 29, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 28, 2024|
+ |[CISA and Partners Release Advisory on Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations](https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-and-partners-release-advisory-iran-based-cyber-actors-enabling-ransomware-attacks-us)|Visit link for details.|Aug 28, 2024|
+ |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717](https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717)|Visit link for details.|Aug 27, 2024|
  
 
 # HK-CERT
@@ -84,21 +90,15 @@
  |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 5 Sep 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[TechExcel Software Solutions Back Office Software information disclosure (CVE-2024-8601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[Google AngularJS security bypass (CVE-2024-8372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
+ |[Google AngularJS security bypass (CVE-2024-8373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
  |[pillarjs Path-to-RegExp denial of service (CVE-2024-45296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
  |[HPE HP-UX ONCplus denial of service (CVE-2024-42500)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[External Secrets Operator privilege escalation (CVE-2024-45041)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[Rapid7 Insight Platform security bypass (CVE-2024-8042)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
