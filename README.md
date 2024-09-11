@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/09/2024 03:18:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2024 04:20:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,12 @@
  |[DSA-5767-1 thunderbird - security update](https://www.linux.org/threads/dsa-5767-1-thunderbird-security-update.52514/)|Visit link for details.|Sep 8, 2024|
  |[USN-6991-1: AIOHTTP vulnerability](https://www.linux.org/threads/usn-6991-1-aiohttp-vulnerability.52465/)|Visit link for details.|Sep 5, 2024|
  |[DSA-5766-1 chromium - security update](https://www.linux.org/threads/dsa-5766-1-chromium-security-update.52456/)|Visit link for details.|Sep 5, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
