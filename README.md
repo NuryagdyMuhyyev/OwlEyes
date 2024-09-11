@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/09/2024 09:26:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/09/2024 10:20:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,13 +62,13 @@
  |[USN-6992-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6992-1-firefox-vulnerabilities.52396/)|Visit link for details.|Sep 5, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -103,20 +103,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Windows Internet Explorer File Extension Spoofing Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1207/)|Visit link for details|2024-09-10|
- |[Microsoft SharePoint SPAutoSerializingObject Deserialization of Untrusted Data Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1206/)|Visit link for details|2024-09-10|
- |[Microsoft Windows BeginPaint Pen Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1205/)|Visit link for details|2024-09-10|
- |[Microsoft SharePoint SPThemes Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1204/)|Visit link for details|2024-09-10|
- |[Adobe Photoshop JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1203/)|Visit link for details|2024-09-10|
- |[Adobe After Effects AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1202/)|Visit link for details|2024-09-10|
- |[Adobe Premiere Pro AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1201/)|Visit link for details|2024-09-10|
- |[Adobe Media Encoder AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1200/)|Visit link for details|2024-09-10|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -134,21 +120,18 @@
  |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
- |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
- |[Ivanti security advisory (AV24-509)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-509)|Visit link for details|2024-09-10|
- |[[Control systems] Schneider Electric security advisory (AV24-508)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-508)|Visit link for details|2024-09-10|
- |[[Control systems] Siemens security advisory (AV24–507)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-507)|Visit link for details|2024-09-10|
- |[SAP security advisory – September 2024 monthly rollup (AV24-506)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2024-monthly-rollup-av24-506)|Visit link for details|2024-09-10|
- |[IBM security advisory (AV24-505)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-505)|Visit link for details|2024-09-09|
- |[Progress security advisory (AV24-504)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-504)|Visit link for details|2024-09-09|
- |[Dell security advisory (AV24-503)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-503)|Visit link for details|2024-09-09|
- |[Red Hat security advisory (AV24-502)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-502)|Visit link for details|2024-09-09|
- |[Ubuntu security advisory (AV24-501)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-501)|Visit link for details|2024-09-09|
+ |[Microsoft Windows Internet Explorer File Extension Spoofing Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1207/)|Visit link for details|2024-09-10|
+ |[Microsoft SharePoint SPAutoSerializingObject Deserialization of Untrusted Data Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1206/)|Visit link for details|2024-09-10|
+ |[Microsoft Windows BeginPaint Pen Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1205/)|Visit link for details|2024-09-10|
+ |[Microsoft SharePoint SPThemes Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1204/)|Visit link for details|2024-09-10|
+ |[Adobe Photoshop JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1203/)|Visit link for details|2024-09-10|
+ |[Adobe After Effects AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1202/)|Visit link for details|2024-09-10|
+ |[Adobe Premiere Pro AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1201/)|Visit link for details|2024-09-10|
+ |[Adobe Media Encoder AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1200/)|Visit link for details|2024-09-10|
  
 
 # CERT-SANTE
@@ -182,4 +165,21 @@
  |[ 49200609/24 - Vulnérabilités dans Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-zimbra-collaboration-4)| Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de causer un…| 06 septembre 2024|
  |[ 49190509/24 - Vulnérabilités critiques dans Juniper Secure Analytics ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-juniper-secure-analytics-0)| Juniper a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Juniper Secure Analytics. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 05 septembre 2024|
  |[ 49180509/24 - Vulnérabilités dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-veeam)| Veeam a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
+ |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
+ |[Ivanti security advisory (AV24-509)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-509)|Visit link for details|2024-09-10|
+ |[[Control systems] Schneider Electric security advisory (AV24-508)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-508)|Visit link for details|2024-09-10|
+ |[[Control systems] Siemens security advisory (AV24–507)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-507)|Visit link for details|2024-09-10|
+ |[SAP security advisory – September 2024 monthly rollup (AV24-506)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2024-monthly-rollup-av24-506)|Visit link for details|2024-09-10|
+ |[IBM security advisory (AV24-505)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-505)|Visit link for details|2024-09-09|
+ |[Progress security advisory (AV24-504)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-504)|Visit link for details|2024-09-09|
+ |[Dell security advisory (AV24-503)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-503)|Visit link for details|2024-09-09|
+ |[Red Hat security advisory (AV24-502)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-502)|Visit link for details|2024-09-09|
+ |[Ubuntu security advisory (AV24-501)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-501)|Visit link for details|2024-09-09|
  
