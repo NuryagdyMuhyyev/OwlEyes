@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/09/2024 04:19:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/09/2024 06:35:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-6994-1: Netty vulnerabilities](https://www.linux.org/threads/usn-6994-1-netty-vulnerabilities.52526/)|Visit link for details.|Sep 9, 2024|
- |[USN-6997-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6997-1-libtiff-vulnerability.52523/)|Visit link for details.|Sep 9, 2024|
- |[USN-6841-2: PHP vulnerability](https://www.linux.org/threads/usn-6841-2-php-vulnerability.52522/)|Visit link for details.|Sep 9, 2024|
- |[USN-6996-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6996-1-webkitgtk-vulnerabilities.52521/)|Visit link for details.|Sep 9, 2024|
- |[USN-6995-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6995-1-thunderbird-vulnerabilities.52519/)|Visit link for details.|Sep 9, 2024|
- |[DSA-5767-1 thunderbird - security update](https://www.linux.org/threads/dsa-5767-1-thunderbird-security-update.52514/)|Visit link for details.|Sep 8, 2024|
- |[USN-6991-1: AIOHTTP vulnerability](https://www.linux.org/threads/usn-6991-1-aiohttp-vulnerability.52465/)|Visit link for details.|Sep 5, 2024|
- |[DSA-5766-1 chromium - security update](https://www.linux.org/threads/dsa-5766-1-chromium-security-update.52456/)|Visit link for details.|Sep 5, 2024|
- |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Sep 5, 2024|
- |[USN-6993-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6993-1-vim-vulnerabilities.52397/)|Visit link for details.|Sep 5, 2024|
- |[USN-6992-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6992-1-firefox-vulnerabilities.52396/)|Visit link for details.|Sep 5, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,10 +45,21 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6994-1: Netty vulnerabilities](https://www.linux.org/threads/usn-6994-1-netty-vulnerabilities.52526/)|Visit link for details.|Sep 9, 2024|
+ |[USN-6997-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6997-1-libtiff-vulnerability.52523/)|Visit link for details.|Sep 9, 2024|
+ |[USN-6841-2: PHP vulnerability](https://www.linux.org/threads/usn-6841-2-php-vulnerability.52522/)|Visit link for details.|Sep 9, 2024|
+ |[USN-6996-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6996-1-webkitgtk-vulnerabilities.52521/)|Visit link for details.|Sep 9, 2024|
+ |[USN-6995-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6995-1-thunderbird-vulnerabilities.52519/)|Visit link for details.|Sep 9, 2024|
+ |[DSA-5767-1 thunderbird - security update](https://www.linux.org/threads/dsa-5767-1-thunderbird-security-update.52514/)|Visit link for details.|Sep 8, 2024|
+ |[USN-6991-1: AIOHTTP vulnerability](https://www.linux.org/threads/usn-6991-1-aiohttp-vulnerability.52465/)|Visit link for details.|Sep 5, 2024|
+ |[DSA-5766-1 chromium - security update](https://www.linux.org/threads/dsa-5766-1-chromium-security-update.52456/)|Visit link for details.|Sep 5, 2024|
+ |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Sep 5, 2024|
+ |[USN-6993-1: Vim vulnerabilities](https://www.linux.org/threads/usn-6993-1-vim-vulnerabilities.52397/)|Visit link for details.|Sep 5, 2024|
+ |[USN-6992-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-6992-1-firefox-vulnerabilities.52396/)|Visit link for details.|Sep 5, 2024|
  
 
 # CERT-FR
@@ -90,10 +84,37 @@
  |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 5 Sep 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Wireshark dissectors denial of service (CVE-2024-8645)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[Phoenix Contact: Firewall reconfiguration due to improper input validation in MGUARD devices (CVE-2024-43390)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[MongoDB Server may access non-initialized region of memory leading to unexpected behaviour (CVE-2024-8654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[CVE-2024-39574 (CVE-2024-39574)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[CVE-2024-39582 (CVE-2024-39582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Windows Internet Explorer File Extension Spoofing Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1207/)|Visit link for details|2024-09-10|
+ |[Microsoft SharePoint SPAutoSerializingObject Deserialization of Untrusted Data Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1206/)|Visit link for details|2024-09-10|
+ |[Microsoft Windows BeginPaint Pen Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1205/)|Visit link for details|2024-09-10|
+ |[Microsoft SharePoint SPThemes Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1204/)|Visit link for details|2024-09-10|
+ |[Adobe Photoshop JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1203/)|Visit link for details|2024-09-10|
+ |[Adobe After Effects AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1202/)|Visit link for details|2024-09-10|
+ |[Adobe Premiere Pro AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1201/)|Visit link for details|2024-09-10|
+ |[Adobe Media Encoder AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1200/)|Visit link for details|2024-09-10|
  
 
 # EU-CERT
@@ -113,35 +134,21 @@
  |[2024-080: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-080/)|On August 13, 2024, Microsoft addressed 89 vulnerabilities in its August 2024 Patch Tuesday update, including ten zero-day vulnerabilities. This Patch Tuesday also fixes six critical vulnerabilities.|Wednesday, August 14, 2024 04:09:11 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Windows Internet Explorer File Extension Spoofing Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1207/)|Visit link for details|2024-09-10|
- |[Microsoft SharePoint SPAutoSerializingObject Deserialization of Untrusted Data Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1206/)|Visit link for details|2024-09-10|
- |[Microsoft Windows BeginPaint Pen Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1205/)|Visit link for details|2024-09-10|
- |[Microsoft SharePoint SPThemes Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1204/)|Visit link for details|2024-09-10|
- |[Adobe Photoshop JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1203/)|Visit link for details|2024-09-10|
- |[Adobe After Effects AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1202/)|Visit link for details|2024-09-10|
- |[Adobe Premiere Pro AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1201/)|Visit link for details|2024-09-10|
- |[Adobe Media Encoder AVI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1200/)|Visit link for details|2024-09-10|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
- |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
- |[Ivanti security advisory (AV24-509)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-509)|Visit link for details|2024-09-10|
- |[[Control systems] Schneider Electric security advisory (AV24-508)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-508)|Visit link for details|2024-09-10|
- |[[Control systems] Siemens security advisory (AV24–507)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-507)|Visit link for details|2024-09-10|
- |[SAP security advisory – September 2024 monthly rollup (AV24-506)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2024-monthly-rollup-av24-506)|Visit link for details|2024-09-10|
- |[IBM security advisory (AV24-505)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-505)|Visit link for details|2024-09-09|
- |[Progress security advisory (AV24-504)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-504)|Visit link for details|2024-09-09|
- |[Dell security advisory (AV24-503)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-503)|Visit link for details|2024-09-09|
- |[Red Hat security advisory (AV24-502)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-502)|Visit link for details|2024-09-09|
- |[Ubuntu security advisory (AV24-501)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-501)|Visit link for details|2024-09-09|
+ |[D-Link - CVE-2024-44335](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44335-2024-09-10)|Visit link for details.|10/09/2024|
+ |[HAPI FHIR - CVE-2024-45294](https://www.cyberveille-sante.gouv.fr/alertes/hapi-fhir-cve-2024-45294-2024-09-10)|Visit link for details.|10/09/2024|
+ |[Zyxel - CVE-2024-7261](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-7261-2024-09-10)|Visit link for details.|10/09/2024|
+ |[HPE - CVE-2024-42500](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-42500-2024-09-10)|Visit link for details.|10/09/2024|
+ |[Red Hat Satellite - CVE-2024-7012](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-satellite-cve-2024-7012-2024-09-10)|Visit link for details.|10/09/2024|
+ |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|10/09/2024|
+ |[Veeam One - CVE-2024-42019](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42019-2024-09-09)|Visit link for details.|09/09/2024|
+ |[Veeam - CVE-2024-40713](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-40713-2024-09-09)|Visit link for details.|09/09/2024|
+ |[Baxter Connex Health Portal - CVE-2024-6796](https://www.cyberveille-sante.gouv.fr/alertes/baxter-connex-health-portal-cve-2024-6796-2024-09-09)|Visit link for details.|09/09/2024|
+ |[QNAP - CVE-2023-50360](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-50360-2024-09-09)|Visit link for details.|09/09/2024|
+ |[Linux - CVE-2024-26581](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26581-2024-09-09)|Visit link for details.|09/09/2024|
  
 
 # MA-CERT
@@ -160,19 +167,19 @@
  |[ 49180509/24 - Vulnérabilités dans les produits Veeam ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-veeam)| Veeam a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 05 septembre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link - CVE-2024-44335](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44335-2024-09-10)|Visit link for details.|10/09/2024|
- |[HAPI FHIR - CVE-2024-45294](https://www.cyberveille-sante.gouv.fr/alertes/hapi-fhir-cve-2024-45294-2024-09-10)|Visit link for details.|10/09/2024|
- |[Zyxel - CVE-2024-7261](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-7261-2024-09-10)|Visit link for details.|10/09/2024|
- |[HPE - CVE-2024-42500](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-42500-2024-09-10)|Visit link for details.|10/09/2024|
- |[Red Hat Satellite - CVE-2024-7012](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-satellite-cve-2024-7012-2024-09-10)|Visit link for details.|10/09/2024|
- |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|10/09/2024|
- |[Veeam One - CVE-2024-42019](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42019-2024-09-09)|Visit link for details.|09/09/2024|
- |[Veeam - CVE-2024-40713](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-40713-2024-09-09)|Visit link for details.|09/09/2024|
- |[Baxter Connex Health Portal - CVE-2024-6796](https://www.cyberveille-sante.gouv.fr/alertes/baxter-connex-health-portal-cve-2024-6796-2024-09-09)|Visit link for details.|09/09/2024|
- |[QNAP - CVE-2023-50360](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2023-50360-2024-09-09)|Visit link for details.|09/09/2024|
- |[Linux - CVE-2024-26581](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-26581-2024-09-09)|Visit link for details.|09/09/2024|
+ |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
+ |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
+ |[Ivanti security advisory (AV24-509)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-509)|Visit link for details|2024-09-10|
+ |[[Control systems] Schneider Electric security advisory (AV24-508)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-508)|Visit link for details|2024-09-10|
+ |[[Control systems] Siemens security advisory (AV24–507)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-507)|Visit link for details|2024-09-10|
+ |[SAP security advisory – September 2024 monthly rollup (AV24-506)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2024-monthly-rollup-av24-506)|Visit link for details|2024-09-10|
+ |[IBM security advisory (AV24-505)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-505)|Visit link for details|2024-09-09|
+ |[Progress security advisory (AV24-504)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av24-504)|Visit link for details|2024-09-09|
+ |[Dell security advisory (AV24-503)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-503)|Visit link for details|2024-09-09|
+ |[Red Hat security advisory (AV24-502)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-502)|Visit link for details|2024-09-09|
+ |[Ubuntu security advisory (AV24-501)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-501)|Visit link for details|2024-09-09|
  
