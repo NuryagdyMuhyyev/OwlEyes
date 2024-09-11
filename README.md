@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/09/2024 01:20:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2024 02:19:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Releases September 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/09/10/microsoft-releases-september-2024-security-updates)|Visit link for details.|Sep 10, 2024|
- |[Ivanti Releases Security Updates for Endpoint Manager, Cloud Service Application, and Workspace Control](https://www.cisa.gov/news-events/alerts/2024/09/10/ivanti-releases-security-updates-endpoint-manager-cloud-service-application-and-workspace-control)|Visit link for details.|Sep 10, 2024|
- |[Citrix Releases Security Updates for Citrix Workspace App for Windows](https://www.cisa.gov/news-events/alerts/2024/09/10/citrix-releases-security-updates-citrix-workspace-app-windows)|Visit link for details.|Sep 10, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/10/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 10, 2024|
- |[Cisco Releases Security Updates for Cisco Smart Licensing Utility](https://www.cisa.gov/news-events/alerts/2024/09/10/cisco-releases-security-updates-cisco-smart-licensing-utility)|Visit link for details.|Sep 10, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/10/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 10, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 09, 2024|
- |[FBI, CISA, NSA, and US and International Partners Release Advisory on Russian Military Cyber Actors Targeting US and Global Critical Infrastructure](https://www.cisa.gov/news-events/alerts/2024/09/05/fbi-cisa-nsa-and-us-and-international-partners-release-advisory-russian-military-cyber-actors)|Visit link for details.|Sep 05, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/05/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,10 +46,20 @@
  |[DSA-5609-1 slurm-wlm - security update](https://www.linux.org/threads/dsa-5609-1-slurm-wlm-security-update.48440/)|Visit link for details.|Sep 5, 2024|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Releases September 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/09/10/microsoft-releases-september-2024-security-updates)|Visit link for details.|Sep 10, 2024|
+ |[Ivanti Releases Security Updates for Endpoint Manager, Cloud Service Application, and Workspace Control](https://www.cisa.gov/news-events/alerts/2024/09/10/ivanti-releases-security-updates-endpoint-manager-cloud-service-application-and-workspace-control)|Visit link for details.|Sep 10, 2024|
+ |[Citrix Releases Security Updates for Citrix Workspace App for Windows](https://www.cisa.gov/news-events/alerts/2024/09/10/citrix-releases-security-updates-citrix-workspace-app-windows)|Visit link for details.|Sep 10, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/10/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 10, 2024|
+ |[Cisco Releases Security Updates for Cisco Smart Licensing Utility](https://www.cisa.gov/news-events/alerts/2024/09/10/cisco-releases-security-updates-cisco-smart-licensing-utility)|Visit link for details.|Sep 10, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/10/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 10, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 09, 2024|
+ |[FBI, CISA, NSA, and US and International Partners Release Advisory on Russian Military Cyber Actors Targeting US and Global Critical Infrastructure](https://www.cisa.gov/news-events/alerts/2024/09/05/fbi-cisa-nsa-and-us-and-international-partners-release-advisory-russian-military-cyber-actors)|Visit link for details.|Sep 05, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/05/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
  
 
 # CERT-FR
@@ -90,17 +84,37 @@
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. |Release Date: 9 Sep 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Adobe Acrobat and Adobe Reader code execution (CVE-2024-45112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[Adobe Acrobat and Adobe Reader code execution (CVE-2024-41869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
  |[Adobe Illustrator integer underflow (CVE-2024-41857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
  |[Adobe Illustrator integer overflow (CVE-2024-34121)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
- |[Adobe Illustrator code execution (CVE-2024-43758)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
- |[Adobe Illustrator information disclosure (CVE-2024-45111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Windows Drag and Drop SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1210/)|Visit link for details|2024-09-11|
+ |[Microsoft Windows Defender SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1209/)|Visit link for details|2024-09-11|
+ |[(0Day) Visteon Infotainment System DeviceManager iAP Serial Number SQL Injection Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1208/)|Visit link for details|2024-09-11|
+ |[Microsoft Windows Internet Explorer File Extension Spoofing Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1207/)|Visit link for details|2024-09-10|
+ |[Microsoft SharePoint SPAutoSerializingObject Deserialization of Untrusted Data Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1206/)|Visit link for details|2024-09-10|
+ |[Microsoft Windows BeginPaint Pen Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1205/)|Visit link for details|2024-09-10|
+ |[Microsoft SharePoint SPThemes Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1204/)|Visit link for details|2024-09-10|
+ |[Adobe Photoshop JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1203/)|Visit link for details|2024-09-10|
  
 
 # EU-CERT
@@ -118,37 +132,6 @@
  |[2024-084: High Severity Vulnerabilities in F5 Products](https://cert.europa.eu/publications/security-advisories/2024-084/)|On August 14, 2024, F5 released a security advisory addressing nine vulnerabilities in their products. Four of these vulnerabilities have been classified as high severity due to their potential to facilitate session hijacking and to lead to Denial-of-Service (DoS) attacks. |Wednesday, August 21, 2024 02:17:39 PM CEST|
  |[2024-083: Palo Alto Cortex XSOAR CommonScripts Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 14, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Tuesday, August 20, 2024 11:15:07 AM CEST|
  |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Windows Drag and Drop SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1210/)|Visit link for details|2024-09-11|
- |[Microsoft Windows Defender SmartScreen Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1209/)|Visit link for details|2024-09-11|
- |[(0Day) Visteon Infotainment System DeviceManager iAP Serial Number SQL Injection Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1208/)|Visit link for details|2024-09-11|
- |[Microsoft Windows Internet Explorer File Extension Spoofing Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1207/)|Visit link for details|2024-09-10|
- |[Microsoft SharePoint SPAutoSerializingObject Deserialization of Untrusted Data Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1206/)|Visit link for details|2024-09-10|
- |[Microsoft Windows BeginPaint Pen Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1205/)|Visit link for details|2024-09-10|
- |[Microsoft SharePoint SPThemes Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1204/)|Visit link for details|2024-09-10|
- |[Adobe Photoshop JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1203/)|Visit link for details|2024-09-10|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49371109/24 - Vulnérabilités critiques dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-adobe)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de…| 11 septembre 2024|
- |[ 49361109/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités pour exécuter du code arbitraire, porter atteinte à la…| 11 septembre 2024|
- |[ 49351109/24 - Vulnérabilités dans Citrix Workspace app ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-citrix-workspace-app)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de deux vulnérabilités affectant Citrix Workspace app pour Windows. L’exploitation de ces failles peut permettre…| 11 septembre 2024|
- |[ 49341109/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Septembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-septembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire,…| 11 septembre 2024|
- |[ 49331109/24 - Vulnérabilités critiques dans les produits Microsoft SQL Server (Patch… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-sql-server-patch-tuesday-septembre)| Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de…| 11 septembre 2024|
- |[ 49321109/24 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-septembre-2024)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 11 septembre 2024|
- |[ 49311109/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Septembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-septembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques y compris trois zero-day dans les  systèmes d’exploitation Windows susmentionnés. Les trois zero-day sont :CVE-2024-38014 :…| 11 septembre 2024|
- |[ 49291109/24 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Septembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-septembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques y compris un zero-day « CVE-2024-38226 » affectant les produits Microsoft office. Selon Microsoft l’exploitation du zero-day qui…| 11 septembre 2024|
- |[ 49281009/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-3)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 10 septembre 2024|
- |[ 49271009/24 - Vulnérabilité critique dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-sonicwall)| Une vulnérabilité critique a été identifiée dans les versions susmentionnées des pare-feu SonicWall utilisant des versions vulnérables de SonicOS. SonicWall a révélé que la faille de sécurité affecte…| 10 septembre 2024|
- |[ 49260909/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Qnap susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de…| 10 septembre 2024|
  
 
 # CA-CCS
@@ -183,4 +166,21 @@
  |[HAPI FHIR - CVE-2024-45294](https://www.cyberveille-sante.gouv.fr/alertes/hapi-fhir-cve-2024-45294-2024-09-10)|Visit link for details.|10/09/2024|
  |[Zyxel - CVE-2024-7261](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-7261-2024-09-10)|Visit link for details.|10/09/2024|
  |[HPE - CVE-2024-42500](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-42500-2024-09-10)|Visit link for details.|10/09/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49371109/24 - Vulnérabilités critiques dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-adobe)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de…| 11 septembre 2024|
+ |[ 49361109/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités pour exécuter du code arbitraire, porter atteinte à la…| 11 septembre 2024|
+ |[ 49351109/24 - Vulnérabilités dans Citrix Workspace app ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-citrix-workspace-app)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de deux vulnérabilités affectant Citrix Workspace app pour Windows. L’exploitation de ces failles peut permettre…| 11 septembre 2024|
+ |[ 49341109/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Septembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-septembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire,…| 11 septembre 2024|
+ |[ 49331109/24 - Vulnérabilités critiques dans les produits Microsoft SQL Server (Patch… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-sql-server-patch-tuesday-septembre)| Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de…| 11 septembre 2024|
+ |[ 49321109/24 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-septembre-2024)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du…| 11 septembre 2024|
+ |[ 49311109/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Septembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-septembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques y compris trois zero-day dans les  systèmes d’exploitation Windows susmentionnés. Les trois zero-day sont :CVE-2024-38014 :…| 11 septembre 2024|
+ |[ 49291109/24 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Septembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-septembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques y compris un zero-day « CVE-2024-38226 » affectant les produits Microsoft office. Selon Microsoft l’exploitation du zero-day qui…| 11 septembre 2024|
+ |[ 49281009/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-3)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 10 septembre 2024|
+ |[ 49271009/24 - Vulnérabilité critique dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-sonicwall)| Une vulnérabilité critique a été identifiée dans les versions susmentionnées des pare-feu SonicWall utilisant des versions vulnérables de SonicOS. SonicWall a révélé que la faille de sécurité affecte…| 10 septembre 2024|
+ |[ 49260909/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Qnap susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de…| 10 septembre 2024|
  
