@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/09/2024 06:35:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2024 07:45:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5768-1 chromium - security update](https://www.linux.org/threads/dsa-5768-1-chromium-security-update.52560/)|Visit link for details.|Sep 12, 2024|
  |[USN-6997-2: LibTIFF vulnerability](https://www.linux.org/threads/usn-6997-2-libtiff-vulnerability.52559/)|Visit link for details.|Sep 11, 2024|
  |[USN-6999-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6999-1-linux-kernel-vulnerabilities.52555/)|Visit link for details.|Sep 11, 2024|
  |[USN-6998-1: Unbound vulnerabilities](https://www.linux.org/threads/usn-6998-1-unbound-vulnerabilities.52550/)|Visit link for details.|Sep 11, 2024|
@@ -59,7 +60,6 @@
  |[USN-6995-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6995-1-thunderbird-vulnerabilities.52519/)|Visit link for details.|Sep 9, 2024|
  |[DSA-5767-1 thunderbird - security update](https://www.linux.org/threads/dsa-5767-1-thunderbird-security-update.52514/)|Visit link for details.|Sep 8, 2024|
  |[USN-6991-1: AIOHTTP vulnerability](https://www.linux.org/threads/usn-6991-1-aiohttp-vulnerability.52465/)|Visit link for details.|Sep 5, 2024|
- |[DSA-5766-1 chromium - security update](https://www.linux.org/threads/dsa-5766-1-chromium-security-update.52456/)|Visit link for details.|Sep 5, 2024|
  
 
 # CERT-FR
@@ -78,6 +78,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[F5 Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-data-manipulation-vulnerability_20240912)|A vulnerability was identified in F5 Products, attacker can exploit this vulnerability to trigger security restriction bypass and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-3596 of the affected products.|Release Date: 12 Sep 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass on the targeted system. | Release Date: 4 Sep 2024 |
  |[Adobe Monthly Security Update (September 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Media Encoder Medium RiskRemote Code ExecutionInformation Disclosure APSB24-53Adobe Audition Medium RiskRemote...|Release Date: 11 Sep 2024 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and data manipulation on the targeted system.|Release Date: 11 Sep 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Sep 2024 |
@@ -85,36 +88,19 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240910)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024-7971 is being exploited in...|Release Date: 10 Sep 2024 |
  |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2024-...| Release Date: 9 Sep 2024 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-09-10]Updated System / Technologies...| Release Date: 5 Sep 2024 |
- |[SonicWall Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/sonicwall-products-security-restriction-bypass-and-denial-of-service-vulnerability_20240827)|A vulnerability has been identified in Sonicwall Products. A remote user can exploit this vulnerability to trigger security restriction bypass and denial of service condition on the targeted system. Note:CVE-2024-40766 is potentially being exploited in the wild. An...| Release Date: 27 Aug 2024 |
- |[IBM MQ Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-mq-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in IBM MQ. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and security restriction bypass on the targeted system.|Release Date: 9 Sep 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. |Release Date: 9 Sep 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco Routed Passive Optical Network (PON) Controller Software command execution (CVE-2024-20483)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
- |[Cisco IOS XR Software privilege escalation (CVE-2024-20398)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
- |[Cisco IOS XR Software denial of service (CVE-2024-20390)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
- |[Cisco IOS XR Software information disclosure (CVE-2024-20343)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[Cisco IOS XR Software denial of service (CVE-2024-20406)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
+ |[Multiple Cisco Products privilege escalation (CVE-2024-20381)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[Cisco IOS XR Software denial of service (CVE-2024-20317)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[Cisco Routed Passive Optical Network (PON) Controller Software informatio disclosure (CVE-2024-20489)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager updateAssetInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1218/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager loadSystemInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1217/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager GetSQLStatement SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1216/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager loadKeyboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1215/)|Visit link for details|2024-09-11|
  
 
 # EU-CERT
@@ -134,6 +120,20 @@
  |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager updateAssetInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1218/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager loadSystemInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1217/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager GetSQLStatement SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1216/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager loadKeyboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1215/)|Visit link for details|2024-09-11|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -151,23 +151,6 @@
  |[SAP security advisory – September 2024 monthly rollup (AV24-506)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2024-monthly-rollup-av24-506)|Visit link for details|2024-09-10|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2024-38014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38014-2024-09-11)|Visit link for details.|11/09/2024|
- |[Ivanti - CVE-2024-29847](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29847-2024-09-11)|Visit link for details.|11/09/2024|
- |[Microsoft - CVE-2024-38226](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38226-2024-09-11)|Visit link for details.|11/09/2024|
- |[Microsoft - CVE-2024-43461](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43461-2024-09-11)|Visit link for details.|11/09/2024|
- |[Microsoft - CVE-2024-43491](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43491-2024-09-11)|Visit link for details.|11/09/2024|
- |[Microsoft - CVE-2024-38106](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38106-2024-08-19)|Visit link for details.|11/09/2024|
- |[GitHub - CVE-2024-0200](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-0200-2024-01-18)|Visit link for details.|11/09/2024|
- |[D-Link - CVE-2024-44335](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44335-2024-09-10)|Visit link for details.|10/09/2024|
- |[HAPI FHIR - CVE-2024-45294](https://www.cyberveille-sante.gouv.fr/alertes/hapi-fhir-cve-2024-45294-2024-09-10)|Visit link for details.|10/09/2024|
- |[Zyxel - CVE-2024-7261](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-7261-2024-09-10)|Visit link for details.|10/09/2024|
- |[HPE - CVE-2024-42500](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-42500-2024-09-10)|Visit link for details.|10/09/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 49281009/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-3)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 10 septembre 2024|
  |[ 49271009/24 - Vulnérabilité critique dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-sonicwall)| Une vulnérabilité critique a été identifiée dans les versions susmentionnées des pare-feu SonicWall utilisant des versions vulnérables de SonicOS. SonicWall a révélé que la faille de sécurité affecte…| 10 septembre 2024|
  |[ 49260909/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Qnap susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de…| 10 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2024-38014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38014-2024-09-11)|Visit link for details.|11/09/2024|
+ |[Ivanti - CVE-2024-29847](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29847-2024-09-11)|Visit link for details.|11/09/2024|
+ |[Microsoft - CVE-2024-38226](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38226-2024-09-11)|Visit link for details.|11/09/2024|
+ |[Microsoft - CVE-2024-43461](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43461-2024-09-11)|Visit link for details.|11/09/2024|
+ |[Microsoft - CVE-2024-43491](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43491-2024-09-11)|Visit link for details.|11/09/2024|
+ |[Microsoft - CVE-2024-38106](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38106-2024-08-19)|Visit link for details.|11/09/2024|
+ |[GitHub - CVE-2024-0200](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-0200-2024-01-18)|Visit link for details.|11/09/2024|
+ |[D-Link - CVE-2024-44335](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44335-2024-09-10)|Visit link for details.|10/09/2024|
+ |[HAPI FHIR - CVE-2024-45294](https://www.cyberveille-sante.gouv.fr/alertes/hapi-fhir-cve-2024-45294-2024-09-10)|Visit link for details.|10/09/2024|
+ |[Zyxel - CVE-2024-7261](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-7261-2024-09-10)|Visit link for details.|10/09/2024|
+ |[HPE - CVE-2024-42500](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-42500-2024-09-10)|Visit link for details.|10/09/2024|
  
