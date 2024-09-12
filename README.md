@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/09/2024 12:18:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2024 13:25:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,22 +49,6 @@
  |[FBI, CISA, NSA, and US and International Partners Release Advisory on Russian Military Cyber Actors Targeting US and Global Critical Infrastructure](https://www.cisa.gov/news-events/alerts/2024/09/05/fbi-cisa-nsa-and-us-and-international-partners-release-advisory-russian-military-cyber-actors)|Visit link for details.|Sep 05, 2024|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/05/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 05, 2024|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[F5 Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-data-manipulation-vulnerability_20240912)|A vulnerability was identified in F5 Products, attacker can exploit this vulnerability to trigger security restriction bypass and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-3596 of the affected products.|Release Date: 12 Sep 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
- |[Adobe Monthly Security Update (September 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Media Encoder Medium RiskRemote Code ExecutionInformation Disclosure APSB24-53Adobe Audition Medium RiskRemote...|Release Date: 11 Sep 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and data manipulation on the targeted system.|Release Date: 11 Sep 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Sep 2024 |
- |[Microsoft Monthly Security Update (September 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-september-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSQL Server Medium RiskRemote Code ExecutionInformation DisclosureElevation of Privilege Microsoft Office Extremely High RiskRemote Code ExecutionElevation of...|Release Date: 11 Sep 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240910)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024-7971 is being exploited in...|Release Date: 10 Sep 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2024-...| Release Date: 9 Sep 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-09-10]Updated System / Technologies...| Release Date: 5 Sep 2024 |
  
 
 # LINUX-SEC
@@ -78,6 +68,22 @@
  |[USN-6991-1: AIOHTTP vulnerability](https://www.linux.org/threads/usn-6991-1-aiohttp-vulnerability.52465/)|Visit link for details.|Sep 5, 2024|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[F5 Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-data-manipulation-vulnerability_20240912)|A vulnerability was identified in F5 Products, attacker can exploit this vulnerability to trigger security restriction bypass and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-3596 of the affected products.|Release Date: 12 Sep 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
+ |[Adobe Monthly Security Update (September 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Media Encoder Medium RiskRemote Code ExecutionInformation Disclosure APSB24-53Adobe Audition Medium RiskRemote...|Release Date: 11 Sep 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and data manipulation on the targeted system.|Release Date: 11 Sep 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Sep 2024 |
+ |[Microsoft Monthly Security Update (September 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-september-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSQL Server Medium RiskRemote Code ExecutionInformation DisclosureElevation of Privilege Microsoft Office Extremely High RiskRemote Code ExecutionElevation of...|Release Date: 11 Sep 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240910)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024-7971 is being exploited in...|Release Date: 10 Sep 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2024-...| Release Date: 9 Sep 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-09-10]Updated System / Technologies...| Release Date: 5 Sep 2024 |
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -86,12 +92,12 @@
  |[Palo Alto Networks PAN-OS information disclosure (CVE-2024-8688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
  |[Palo Alto Networks PAN-OS information disclosure (CVE-2024-8687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
  |[Palo Alto Networks PAN-OS command execution (CVE-2024-8686)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
- |[cURL libcurl security bypass (CVE-2024-8096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -111,12 +117,6 @@
  |[Ivanti Endpoint Manager loadKeyboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1215/)|Visit link for details|2024-09-11|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -132,6 +132,23 @@
  |[2024-084: High Severity Vulnerabilities in F5 Products](https://cert.europa.eu/publications/security-advisories/2024-084/)|On August 14, 2024, F5 released a security advisory addressing nine vulnerabilities in their products. Four of these vulnerabilities have been classified as high severity due to their potential to facilitate session hijacking and to lead to Denial-of-Service (DoS) attacks. |Wednesday, August 21, 2024 02:17:39 PM CEST|
  |[2024-083: Palo Alto Cortex XSOAR CommonScripts Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-083/)|On August 14, 2024, Palo Alto Networks released a security advisory for a critical command injection vulnerability, CVE-2024-5914, in Cortex XSOAR. This flaw allows unauthenticated attackers to execute arbitrary commands within the context of an integration container, potentially compromising the system. The vulnerability affects the product's CommonScripts Pack and is rated as high severity with a CVSS score of 9.0.|Tuesday, August 20, 2024 11:15:07 AM CEST|
  |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Palo Alto Networks security advisory (AV24-516)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-516)|Visit link for details|2024-09-11|
+ |[Cisco security advisory (AV24-515)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-515)|Visit link for details|2024-09-11|
+ |[Intel security advisory (AV24-514)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-514)|Visit link for details|2024-09-11|
+ |[[Control systems] ABB security advisory (AV24-513)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-513)|Visit link for details|2024-09-11|
+ |[Google Chrome security advisory (AV24-512)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-512)|Visit link for details|2024-09-11|
+ |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
+ |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
+ |[Ivanti security advisory (AV24-509)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-509)|Visit link for details|2024-09-10|
+ |[[Control systems] Schneider Electric security advisory (AV24-508)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-508)|Visit link for details|2024-09-10|
+ |[[Control systems] Siemens security advisory (AV24–507)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-507)|Visit link for details|2024-09-10|
+ |[SAP security advisory – September 2024 monthly rollup (AV24-506)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2024-monthly-rollup-av24-506)|Visit link for details|2024-09-10|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[HAPI FHIR - CVE-2024-45294](https://www.cyberveille-sante.gouv.fr/alertes/hapi-fhir-cve-2024-45294-2024-09-10)|Visit link for details.|10/09/2024|
  |[Zyxel - CVE-2024-7261](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-7261-2024-09-10)|Visit link for details.|10/09/2024|
  |[HPE - CVE-2024-42500](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-42500-2024-09-10)|Visit link for details.|10/09/2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto Networks security advisory (AV24-516)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-516)|Visit link for details|2024-09-11|
- |[Cisco security advisory (AV24-515)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-515)|Visit link for details|2024-09-11|
- |[Intel security advisory (AV24-514)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-514)|Visit link for details|2024-09-11|
- |[[Control systems] ABB security advisory (AV24-513)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-513)|Visit link for details|2024-09-11|
- |[Google Chrome security advisory (AV24-512)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-512)|Visit link for details|2024-09-11|
- |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
- |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
- |[Ivanti security advisory (AV24-509)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-509)|Visit link for details|2024-09-10|
- |[[Control systems] Schneider Electric security advisory (AV24-508)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-508)|Visit link for details|2024-09-10|
- |[[Control systems] Siemens security advisory (AV24–507)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-507)|Visit link for details|2024-09-10|
- |[SAP security advisory – September 2024 monthly rollup (AV24-506)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2024-monthly-rollup-av24-506)|Visit link for details|2024-09-10|
  
