@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/09/2024 13:25:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2024 14:21:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,21 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5768-1 chromium - security update](https://www.linux.org/threads/dsa-5768-1-chromium-security-update.52560/)|Visit link for details.|Sep 12, 2024|
+ |[USN-6997-2: LibTIFF vulnerability](https://www.linux.org/threads/usn-6997-2-libtiff-vulnerability.52559/)|Visit link for details.|Sep 11, 2024|
+ |[USN-6999-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6999-1-linux-kernel-vulnerabilities.52555/)|Visit link for details.|Sep 11, 2024|
+ |[USN-6998-1: Unbound vulnerabilities](https://www.linux.org/threads/usn-6998-1-unbound-vulnerabilities.52550/)|Visit link for details.|Sep 11, 2024|
+ |[USN-6994-1: Netty vulnerabilities](https://www.linux.org/threads/usn-6994-1-netty-vulnerabilities.52526/)|Visit link for details.|Sep 9, 2024|
+ |[USN-6997-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6997-1-libtiff-vulnerability.52523/)|Visit link for details.|Sep 9, 2024|
+ |[USN-6841-2: PHP vulnerability](https://www.linux.org/threads/usn-6841-2-php-vulnerability.52522/)|Visit link for details.|Sep 9, 2024|
+ |[USN-6996-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6996-1-webkitgtk-vulnerabilities.52521/)|Visit link for details.|Sep 9, 2024|
+ |[USN-6995-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6995-1-thunderbird-vulnerabilities.52519/)|Visit link for details.|Sep 9, 2024|
+ |[DSA-5767-1 thunderbird - security update](https://www.linux.org/threads/dsa-5767-1-thunderbird-security-update.52514/)|Visit link for details.|Sep 8, 2024|
+ |[USN-6991-1: AIOHTTP vulnerability](https://www.linux.org/threads/usn-6991-1-aiohttp-vulnerability.52465/)|Visit link for details.|Sep 5, 2024|
  
 
 # US-CERT
@@ -51,21 +62,29 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/09/03/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Sep 03, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5768-1 chromium - security update](https://www.linux.org/threads/dsa-5768-1-chromium-security-update.52560/)|Visit link for details.|Sep 12, 2024|
- |[USN-6997-2: LibTIFF vulnerability](https://www.linux.org/threads/usn-6997-2-libtiff-vulnerability.52559/)|Visit link for details.|Sep 11, 2024|
- |[USN-6999-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6999-1-linux-kernel-vulnerabilities.52555/)|Visit link for details.|Sep 11, 2024|
- |[USN-6998-1: Unbound vulnerabilities](https://www.linux.org/threads/usn-6998-1-unbound-vulnerabilities.52550/)|Visit link for details.|Sep 11, 2024|
- |[USN-6994-1: Netty vulnerabilities](https://www.linux.org/threads/usn-6994-1-netty-vulnerabilities.52526/)|Visit link for details.|Sep 9, 2024|
- |[USN-6997-1: LibTIFF vulnerability](https://www.linux.org/threads/usn-6997-1-libtiff-vulnerability.52523/)|Visit link for details.|Sep 9, 2024|
- |[USN-6841-2: PHP vulnerability](https://www.linux.org/threads/usn-6841-2-php-vulnerability.52522/)|Visit link for details.|Sep 9, 2024|
- |[USN-6996-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-6996-1-webkitgtk-vulnerabilities.52521/)|Visit link for details.|Sep 9, 2024|
- |[USN-6995-1: Thunderbird vulnerabilities](https://www.linux.org/threads/usn-6995-1-thunderbird-vulnerabilities.52519/)|Visit link for details.|Sep 9, 2024|
- |[DSA-5767-1 thunderbird - security update](https://www.linux.org/threads/dsa-5767-1-thunderbird-security-update.52514/)|Visit link for details.|Sep 8, 2024|
- |[USN-6991-1: AIOHTTP vulnerability](https://www.linux.org/threads/usn-6991-1-aiohttp-vulnerability.52465/)|Visit link for details.|Sep 5, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Palo Alto Networks PAN-OS security bypass (CVE-2024-8691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
+ |[Palo Alto Networks PAN-OS information disclosure (CVE-2024-8688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
+ |[Palo Alto Networks PAN-OS information disclosure (CVE-2024-8687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
+ |[Palo Alto Networks PAN-OS command execution (CVE-2024-8686)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -82,39 +101,6 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240910)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024-7971 is being exploited in...|Release Date: 10 Sep 2024 |
  |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2024-...| Release Date: 9 Sep 2024 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-09-10]Updated System / Technologies...| Release Date: 5 Sep 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto Networks PAN-OS security bypass (CVE-2024-8691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
- |[Palo Alto Networks PAN-OS information disclosure (CVE-2024-8688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
- |[Palo Alto Networks PAN-OS information disclosure (CVE-2024-8687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
- |[Palo Alto Networks PAN-OS command execution (CVE-2024-8686)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager updateAssetInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1218/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager loadSystemInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1217/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager GetSQLStatement SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1216/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager loadKeyboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1215/)|Visit link for details|2024-09-11|
  
 
 # EU-CERT
@@ -149,6 +135,20 @@
  |[[Control systems] Schneider Electric security advisory (AV24-508)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-508)|Visit link for details|2024-09-10|
  |[[Control systems] Siemens security advisory (AV24–507)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-507)|Visit link for details|2024-09-10|
  |[SAP security advisory – September 2024 monthly rollup (AV24-506)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2024-monthly-rollup-av24-506)|Visit link for details|2024-09-10|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager updateAssetInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1218/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager loadSystemInfo SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1217/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager GetSQLStatement SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1216/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager loadKeyboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1215/)|Visit link for details|2024-09-11|
  
 
 # MA-CERT
