@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/09/2024 04:20:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/09/2024 06:35:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,20 +90,14 @@
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20240909)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. |Release Date: 9 Sep 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Acrobat and Adobe Reader code execution (CVE-2024-45112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
- |[Adobe Acrobat and Adobe Reader code execution (CVE-2024-41869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
- |[Adobe Illustrator integer underflow (CVE-2024-41857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
- |[Adobe Illustrator integer overflow (CVE-2024-34121)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[Cisco Routed Passive Optical Network (PON) Controller Software command execution (CVE-2024-20483)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[Cisco IOS XR Software privilege escalation (CVE-2024-20398)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[Cisco IOS XR Software denial of service (CVE-2024-20390)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
+ |[Cisco IOS XR Software information disclosure (CVE-2024-20343)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 10, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
@@ -134,6 +134,23 @@
  |[2024-082: Zabbix Server Critical Arbitrary Code Execution Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-082/)|On August 13, 2024, a critical vulnerability, CVE-2024-22116, was disclosed in Zabbix Server, allowing attackers with restricted administrative permissions to execute arbitrary code. The flaw, identified in the Ping script execution within the Monitoring Hosts section, can compromise the entire infrastructure. The vulnerability carries a CVSS score of 9.9.|Friday, August 16, 2024 10:46:49 AM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Palo Alto Networks security advisory (AV24-516)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-516)|Visit link for details|2024-09-11|
+ |[Cisco security advisory (AV24-515)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-515)|Visit link for details|2024-09-11|
+ |[Intel security advisory (AV24-514)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-514)|Visit link for details|2024-09-11|
+ |[[Control systems] ABB security advisory (AV24-513)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-513)|Visit link for details|2024-09-11|
+ |[Google Chrome security advisory (AV24-512)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-512)|Visit link for details|2024-09-11|
+ |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
+ |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
+ |[Ivanti security advisory (AV24-509)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-509)|Visit link for details|2024-09-10|
+ |[[Control systems] Schneider Electric security advisory (AV24-508)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-508)|Visit link for details|2024-09-10|
+ |[[Control systems] Siemens security advisory (AV24–507)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-507)|Visit link for details|2024-09-10|
+ |[SAP security advisory – September 2024 monthly rollup (AV24-506)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2024-monthly-rollup-av24-506)|Visit link for details|2024-09-10|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -166,21 +183,4 @@
  |[ 49281009/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-3)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 10 septembre 2024|
  |[ 49271009/24 - Vulnérabilité critique dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-sonicwall)| Une vulnérabilité critique a été identifiée dans les versions susmentionnées des pare-feu SonicWall utilisant des versions vulnérables de SonicOS. SonicWall a révélé que la faille de sécurité affecte…| 10 septembre 2024|
  |[ 49260909/24 - Vulnérabilités dans les produits Qnap ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-qnap-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Qnap susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de…| 10 septembre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto Networks security advisory (AV24-516)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-516)|Visit link for details|2024-09-11|
- |[Cisco security advisory (AV24-515)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-515)|Visit link for details|2024-09-11|
- |[Intel security advisory (AV24-514)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-514)|Visit link for details|2024-09-11|
- |[[Control systems] ABB security advisory (AV24-513)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-513)|Visit link for details|2024-09-11|
- |[Google Chrome security advisory (AV24-512)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-512)|Visit link for details|2024-09-11|
- |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
- |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
- |[Ivanti security advisory (AV24-509)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-509)|Visit link for details|2024-09-10|
- |[[Control systems] Schneider Electric security advisory (AV24-508)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-508)|Visit link for details|2024-09-10|
- |[[Control systems] Siemens security advisory (AV24–507)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-507)|Visit link for details|2024-09-10|
- |[SAP security advisory – September 2024 monthly rollup (AV24-506)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2024-monthly-rollup-av24-506)|Visit link for details|2024-09-10|
  
