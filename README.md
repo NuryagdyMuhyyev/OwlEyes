@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/09/2024 21:25:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/09/2024 22:16:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5769-1 git - security update](https://www.linux.org/threads/dsa-5769-1-git-security-update.52594/)|Visit link for details.|Sep 14, 2024|
+ |[USN-7009-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-1-linux-kernel-vulnerabilities.52589/)|Visit link for details.|Sep 13, 2024|
+ |[USN-7005-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7005-2-linux-kernel-vulnerabilities.52588/)|Visit link for details.|Sep 13, 2024|
+ |[USN-7008-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7008-1-linux-kernel-vulnerabilities.52587/)|Visit link for details.|Sep 13, 2024|
+ |[USN-7007-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-1-linux-kernel-vulnerabilities.52583/)|Visit link for details.|Sep 13, 2024|
+ |[USN-7003-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-3-linux-kernel-vulnerabilities.52582/)|Visit link for details.|Sep 13, 2024|
+ |[USN-7006-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7006-1-linux-kernel-vulnerabilities.52577/)|Visit link for details.|Sep 12, 2024|
+ |[USN-7005-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7005-1-linux-kernel-vulnerabilities.52576/)|Visit link for details.|Sep 12, 2024|
+ |[USN-7004-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7004-1-linux-kernel-vulnerabilities.52575/)|Visit link for details.|Sep 12, 2024|
+ |[USN-7002-1: Setuptools vulnerability](https://www.linux.org/threads/usn-7002-1-setuptools-vulnerability.52574/)|Visit link for details.|Sep 12, 2024|
+ |[USN-7003-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-2-linux-kernel-vulnerabilities.52573/)|Visit link for details.|Sep 12, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,27 +62,16 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/10/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 10, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5769-1 git - security update](https://www.linux.org/threads/dsa-5769-1-git-security-update.52594/)|Visit link for details.|Sep 14, 2024|
- |[USN-7009-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-1-linux-kernel-vulnerabilities.52589/)|Visit link for details.|Sep 13, 2024|
- |[USN-7005-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7005-2-linux-kernel-vulnerabilities.52588/)|Visit link for details.|Sep 13, 2024|
- |[USN-7008-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7008-1-linux-kernel-vulnerabilities.52587/)|Visit link for details.|Sep 13, 2024|
- |[USN-7007-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-1-linux-kernel-vulnerabilities.52583/)|Visit link for details.|Sep 13, 2024|
- |[USN-7003-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-3-linux-kernel-vulnerabilities.52582/)|Visit link for details.|Sep 13, 2024|
- |[USN-7006-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7006-1-linux-kernel-vulnerabilities.52577/)|Visit link for details.|Sep 12, 2024|
- |[USN-7005-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7005-1-linux-kernel-vulnerabilities.52576/)|Visit link for details.|Sep 12, 2024|
- |[USN-7004-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7004-1-linux-kernel-vulnerabilities.52575/)|Visit link for details.|Sep 12, 2024|
- |[USN-7002-1: Setuptools vulnerability](https://www.linux.org/threads/usn-7002-1-setuptools-vulnerability.52574/)|Visit link for details.|Sep 12, 2024|
- |[USN-7003-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-2-linux-kernel-vulnerabilities.52573/)|Visit link for details.|Sep 12, 2024|
  
 
 # HK-CERT
@@ -84,12 +90,6 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240910)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024-7971 is being exploited in...|Release Date: 10 Sep 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,20 +101,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[mySCADA myPRO Hard-Coded Credentials Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1226/)|Visit link for details|2024-09-13|
- |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1225/)|Visit link for details|2024-09-13|
- |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1224/)|Visit link for details|2024-09-13|
- |[Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1223/)|Visit link for details|2024-09-12|
- |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
  
 
 # EU-CERT
@@ -134,21 +120,21 @@
  |[2024-084: High Severity Vulnerabilities in F5 Products](https://cert.europa.eu/publications/security-advisories/2024-084/)|On August 14, 2024, F5 released a security advisory addressing nine vulnerabilities in their products. Four of these vulnerabilities have been classified as high severity due to their potential to facilitate session hijacking and to lead to Denial-of-Service (DoS) attacks. |Wednesday, August 21, 2024 02:17:39 PM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds - CVE-2024-28991](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28991-2024-09-13)|Visit link for details.|13/09/2024|
- |[Microsoft - CVE-2024-38220](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38220-2024-09-13)|Visit link for details.|13/09/2024|
- |[Google Chrome - CVE-2024-8636](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8636-2024-09-13)|Visit link for details.|13/09/2024|
- |[Fortinet - CVE-2024-33508](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-33508-2024-09-13)|Visit link for details.|13/09/2024|
- |[Docker - CVE-2024-8695](https://www.cyberveille-sante.gouv.fr/alertes/docker-cve-2024-8695-2024-09-13)|Visit link for details.|13/09/2024|
- |[Microsoft - CVE-2024-38014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38014-2024-09-11)|Visit link for details.|13/09/2024|
- |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|13/09/2024|
- |[Ivanti - CVE-2024-44104](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-44104-2024-09-12)|Visit link for details.|12/09/2024|
- |[Palo Alto Networks - CVE-2024-8686](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-8686-2024-09-12)|Visit link for details.|12/09/2024|
- |[GitLab - CVE-2024-6678](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6678-2024-09-12)|Visit link for details.|12/09/2024|
- |[Citrix - CVE-2024-7889](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-7889-2024-09-12)|Visit link for details.|12/09/2024|
+ |[SolarWinds security advisory (AV24-520)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-520)|Visit link for details|2024-09-13|
+ |[Microsoft Edge security advisory (AV24-519)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-519)|Visit link for details|2024-09-13|
+ |[HPE security advisory (AV24-518)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-518)|Visit link for details|2024-09-12|
+ |[GitLab security advisory (AV24-517)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-517)|Visit link for details|2024-09-12|
+ |[Palo Alto Networks security advisory (AV24-516)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-516)|Visit link for details|2024-09-11|
+ |[Cisco security advisory (AV24-515)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-515)|Visit link for details|2024-09-11|
+ |[Intel security advisory (AV24-514)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-514)|Visit link for details|2024-09-11|
+ |[[Control systems] ABB security advisory (AV24-513)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-513)|Visit link for details|2024-09-11|
+ |[Google Chrome security advisory (AV24-512)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-512)|Visit link for details|2024-09-11|
+ |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
+ |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
  
 
 # MA-CERT
@@ -168,19 +154,33 @@
  |[ 49361109/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités pour exécuter du code arbitraire, porter atteinte à la…| 11 septembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds security advisory (AV24-520)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-520)|Visit link for details|2024-09-13|
- |[Microsoft Edge security advisory (AV24-519)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-519)|Visit link for details|2024-09-13|
- |[HPE security advisory (AV24-518)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-518)|Visit link for details|2024-09-12|
- |[GitLab security advisory (AV24-517)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-517)|Visit link for details|2024-09-12|
- |[Palo Alto Networks security advisory (AV24-516)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-516)|Visit link for details|2024-09-11|
- |[Cisco security advisory (AV24-515)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-515)|Visit link for details|2024-09-11|
- |[Intel security advisory (AV24-514)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-514)|Visit link for details|2024-09-11|
- |[[Control systems] ABB security advisory (AV24-513)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-513)|Visit link for details|2024-09-11|
- |[Google Chrome security advisory (AV24-512)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-512)|Visit link for details|2024-09-11|
- |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
- |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
+ |[SolarWinds - CVE-2024-28991](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28991-2024-09-13)|Visit link for details.|13/09/2024|
+ |[Microsoft - CVE-2024-38220](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38220-2024-09-13)|Visit link for details.|13/09/2024|
+ |[Google Chrome - CVE-2024-8636](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8636-2024-09-13)|Visit link for details.|13/09/2024|
+ |[Fortinet - CVE-2024-33508](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-33508-2024-09-13)|Visit link for details.|13/09/2024|
+ |[Docker - CVE-2024-8695](https://www.cyberveille-sante.gouv.fr/alertes/docker-cve-2024-8695-2024-09-13)|Visit link for details.|13/09/2024|
+ |[Microsoft - CVE-2024-38014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38014-2024-09-11)|Visit link for details.|13/09/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|13/09/2024|
+ |[Ivanti - CVE-2024-44104](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-44104-2024-09-12)|Visit link for details.|12/09/2024|
+ |[Palo Alto Networks - CVE-2024-8686](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-8686-2024-09-12)|Visit link for details.|12/09/2024|
+ |[GitLab - CVE-2024-6678](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6678-2024-09-12)|Visit link for details.|12/09/2024|
+ |[Citrix - CVE-2024-7889](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-7889-2024-09-12)|Visit link for details.|12/09/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[mySCADA myPRO Hard-Coded Credentials Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1226/)|Visit link for details|2024-09-13|
+ |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1225/)|Visit link for details|2024-09-13|
+ |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1224/)|Visit link for details|2024-09-13|
+ |[Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1223/)|Visit link for details|2024-09-12|
+ |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
  
