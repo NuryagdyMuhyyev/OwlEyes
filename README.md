@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/09/2024 23:26:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/09/2024 00:15:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/10/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 10, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5769-1 git - security update](https://www.linux.org/threads/dsa-5769-1-git-security-update.52594/)|Visit link for details.|Sep 14, 2024|
- |[USN-7009-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-1-linux-kernel-vulnerabilities.52589/)|Visit link for details.|Sep 13, 2024|
- |[USN-7005-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7005-2-linux-kernel-vulnerabilities.52588/)|Visit link for details.|Sep 13, 2024|
- |[USN-7008-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7008-1-linux-kernel-vulnerabilities.52587/)|Visit link for details.|Sep 13, 2024|
- |[USN-7007-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-1-linux-kernel-vulnerabilities.52583/)|Visit link for details.|Sep 13, 2024|
- |[USN-7003-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-3-linux-kernel-vulnerabilities.52582/)|Visit link for details.|Sep 13, 2024|
- |[USN-7006-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7006-1-linux-kernel-vulnerabilities.52577/)|Visit link for details.|Sep 12, 2024|
- |[USN-7005-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7005-1-linux-kernel-vulnerabilities.52576/)|Visit link for details.|Sep 12, 2024|
- |[USN-7004-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7004-1-linux-kernel-vulnerabilities.52575/)|Visit link for details.|Sep 12, 2024|
- |[USN-7002-1: Setuptools vulnerability](https://www.linux.org/threads/usn-7002-1-setuptools-vulnerability.52574/)|Visit link for details.|Sep 12, 2024|
- |[USN-7003-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-2-linux-kernel-vulnerabilities.52573/)|Visit link for details.|Sep 12, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -84,6 +67,29 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240910)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024-7971 is being exploited in...|Release Date: 10 Sep 2024 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5769-1 git - security update](https://www.linux.org/threads/dsa-5769-1-git-security-update.52594/)|Visit link for details.|Sep 14, 2024|
+ |[USN-7009-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-1-linux-kernel-vulnerabilities.52589/)|Visit link for details.|Sep 13, 2024|
+ |[USN-7005-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7005-2-linux-kernel-vulnerabilities.52588/)|Visit link for details.|Sep 13, 2024|
+ |[USN-7008-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7008-1-linux-kernel-vulnerabilities.52587/)|Visit link for details.|Sep 13, 2024|
+ |[USN-7007-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-1-linux-kernel-vulnerabilities.52583/)|Visit link for details.|Sep 13, 2024|
+ |[USN-7003-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-3-linux-kernel-vulnerabilities.52582/)|Visit link for details.|Sep 13, 2024|
+ |[USN-7006-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7006-1-linux-kernel-vulnerabilities.52577/)|Visit link for details.|Sep 12, 2024|
+ |[USN-7005-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7005-1-linux-kernel-vulnerabilities.52576/)|Visit link for details.|Sep 12, 2024|
+ |[USN-7004-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7004-1-linux-kernel-vulnerabilities.52575/)|Visit link for details.|Sep 12, 2024|
+ |[USN-7002-1: Setuptools vulnerability](https://www.linux.org/threads/usn-7002-1-setuptools-vulnerability.52574/)|Visit link for details.|Sep 12, 2024|
+ |[USN-7003-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-2-linux-kernel-vulnerabilities.52573/)|Visit link for details.|Sep 12, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -92,15 +98,9 @@
  |[Zephyr buffer overflow (CVE-2024-6135)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 13, 2024|
  |[Zephyr buffer overflow (CVE-2024-5931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 13, 2024|
  |[Zephyr buffer overflow (CVE-2024-6258)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 13, 2024|
- |[Zephyr information disclosure (CVE-2024-5754)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 13, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
