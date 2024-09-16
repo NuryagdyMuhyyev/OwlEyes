@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/09/2024 01:20:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/09/2024 03:17:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 16, 2024|
  |[Ivanti Releases Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/13/ivanti-releases-security-update-cloud-services-appliance)|Visit link for details.|Sep 13, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 13, 2024|
@@ -42,7 +43,6 @@
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2024|
  |[Microsoft Releases September 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/09/10/microsoft-releases-september-2024-security-updates)|Visit link for details.|Sep 10, 2024|
  |[Ivanti Releases Security Updates for Endpoint Manager, Cloud Service Application, and Workspace Control](https://www.cisa.gov/news-events/alerts/2024/09/10/ivanti-releases-security-updates-endpoint-manager-cloud-service-application-and-workspace-control)|Visit link for details.|Sep 10, 2024|
- |[Citrix Releases Security Updates for Citrix Workspace App for Windows](https://www.cisa.gov/news-events/alerts/2024/09/10/citrix-releases-security-updates-citrix-workspace-app-windows)|Visit link for details.|Sep 10, 2024|
  
 
 # LINUX-SEC
@@ -60,12 +60,6 @@
  |[USN-7005-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7005-2-linux-kernel-vulnerabilities.52588/)|Visit link for details.|Sep 13, 2024|
  |[USN-7008-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7008-1-linux-kernel-vulnerabilities.52587/)|Visit link for details.|Sep 13, 2024|
  |[USN-7007-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-1-linux-kernel-vulnerabilities.52583/)|Visit link for details.|Sep 13, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # OBS-Vigilance
@@ -90,21 +84,23 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and data manipulation on the targeted system.|Release Date: 11 Sep 2024 |
  
 
-# CA-CCS
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Dell security advisory (AV24-524)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-524)|Visit link for details|2024-09-16|
- |[[Control systems] CISA ICS security advisories (AV24-523)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523)|Visit link for details|2024-09-16|
- |[IBM security advisory (AV24-522)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-522)|Visit link for details|2024-09-16|
- |[Ubuntu security advisory (AV24-521)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-521)|Visit link for details|2024-09-16|
- |[SolarWinds security advisory (AV24-520)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-520)|Visit link for details|2024-09-13|
- |[Microsoft Edge security advisory (AV24-519)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-519)|Visit link for details|2024-09-13|
- |[HPE security advisory (AV24-518)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-518)|Visit link for details|2024-09-12|
- |[GitLab security advisory (AV24-517)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-517)|Visit link for details|2024-09-12|
- |[Palo Alto Networks security advisory (AV24-516)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-516)|Visit link for details|2024-09-11|
- |[Cisco security advisory (AV24-515)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-515)|Visit link for details|2024-09-11|
- |[Intel security advisory (AV24-514)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-514)|Visit link for details|2024-09-11|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Xcode information disclosure (CVE-2024-40862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
+ |[Apple Xcode security bypass (CVE-2024-44162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
+ |[Apple Xcode security bypass (CVE-2024-44191)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
+ |[Apple Safari cross-site scripting (CVE-2024-40857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -124,23 +120,6 @@
  |[2024-088: Chrome ZeroDay Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-088/)|A critical zero-day vulnerability, CVE-2024-7971, has been identified and patched in Google Chrome. This marks the ninth such vulnerability discovered in 2024. The flaw, which has been actively exploited in the wild, is rooted in a type confusion issue within Chrome's V8 JavaScript engine. This vulnerability allows attackers to potentially execute arbitrary code on affected systems.|Tuesday, August 27, 2024 10:52:26 AM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|16/09/2024|
- |[VMware Spring - CVE-2024-38816](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-38816-2024-09-16)|Visit link for details.|16/09/2024|
- |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|16/09/2024|
- |[Docker Desktop - CVE-2024-8696](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2024-8696-2024-09-16)|Visit link for details.|16/09/2024|
- |[D-Link - CVE-2024-44334](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44334-2024-09-16)|Visit link for details.|16/09/2024|
- |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|16/09/2024|
- |[Veeam One - CVE-2024-42019](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42019-2024-09-09)|Visit link for details.|16/09/2024|
- |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|16/09/2024|
- |[Veeam One - CVE-2024-42024](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42024-2024-09-06)|Visit link for details.|16/09/2024|
- |[GitLab - CVE-2024-6678](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6678-2024-09-12)|Visit link for details.|16/09/2024|
- |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|16/09/2024|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -155,17 +134,21 @@
  |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Eaton Foreseer software cross-site scripting (CVE-2024-31414)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 13, 2024|
- |[Eaton Foreseer software security bypass (CVE-2024-31415)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 13, 2024|
- |[Eaton Foreseer software denial of service (CVE-2024-31416)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 13, 2024|
- |[lunary-ai lunary security bypass (CVE-2024-6087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 13, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Dell security advisory (AV24-524)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-524)|Visit link for details|2024-09-16|
+ |[[Control systems] CISA ICS security advisories (AV24-523)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523)|Visit link for details|2024-09-16|
+ |[IBM security advisory (AV24-522)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-522)|Visit link for details|2024-09-16|
+ |[Ubuntu security advisory (AV24-521)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-521)|Visit link for details|2024-09-16|
+ |[SolarWinds security advisory (AV24-520)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-520)|Visit link for details|2024-09-13|
+ |[Microsoft Edge security advisory (AV24-519)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-519)|Visit link for details|2024-09-13|
+ |[HPE security advisory (AV24-518)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-518)|Visit link for details|2024-09-12|
+ |[GitLab security advisory (AV24-517)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-517)|Visit link for details|2024-09-12|
+ |[Palo Alto Networks security advisory (AV24-516)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-516)|Visit link for details|2024-09-11|
+ |[Cisco security advisory (AV24-515)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-515)|Visit link for details|2024-09-11|
+ |[Intel security advisory (AV24-514)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-514)|Visit link for details|2024-09-11|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[ 49381209/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-1)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 12 septembre 2024|
  |[ 49371109/24 - Vulnérabilités critiques dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-adobe)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de…| 11 septembre 2024|
  |[ 49361109/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités pour exécuter du code arbitraire, porter atteinte à la…| 11 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|16/09/2024|
+ |[VMware Spring - CVE-2024-38816](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-38816-2024-09-16)|Visit link for details.|16/09/2024|
+ |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|16/09/2024|
+ |[Docker Desktop - CVE-2024-8696](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2024-8696-2024-09-16)|Visit link for details.|16/09/2024|
+ |[D-Link - CVE-2024-44334](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44334-2024-09-16)|Visit link for details.|16/09/2024|
+ |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|16/09/2024|
+ |[Veeam One - CVE-2024-42019](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42019-2024-09-09)|Visit link for details.|16/09/2024|
+ |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|16/09/2024|
+ |[Veeam One - CVE-2024-42024](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42024-2024-09-06)|Visit link for details.|16/09/2024|
+ |[GitLab - CVE-2024-6678](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6678-2024-09-12)|Visit link for details.|16/09/2024|
+ |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|16/09/2024|
  
