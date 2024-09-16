@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/09/2024 19:20:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/09/2024 20:23:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,28 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Releases Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/13/ivanti-releases-security-update-cloud-services-appliance)|Visit link for details.|Sep 13, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 13, 2024|
- |[CISA Releases Analysis of FY23 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-releases-analysis-fy23-risk-and-vulnerability-assessments)|Visit link for details.|Sep 13, 2024|
- |[CISA Releases Twenty-Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/12/cisa-releases-twenty-five-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2024|
- |[Cisco Releases Security Updates for IOS XR Software](https://www.cisa.gov/news-events/alerts/2024/09/12/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Sep 12, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2024|
- |[Microsoft Releases September 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/09/10/microsoft-releases-september-2024-security-updates)|Visit link for details.|Sep 10, 2024|
- |[Ivanti Releases Security Updates for Endpoint Manager, Cloud Service Application, and Workspace Control](https://www.cisa.gov/news-events/alerts/2024/09/10/ivanti-releases-security-updates-endpoint-manager-cloud-service-application-and-workspace-control)|Visit link for details.|Sep 10, 2024|
- |[Citrix Releases Security Updates for Citrix Workspace App for Windows](https://www.cisa.gov/news-events/alerts/2024/09/10/citrix-releases-security-updates-citrix-workspace-app-windows)|Visit link for details.|Sep 10, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/10/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Sep 10, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,7 +46,7 @@
  |[USN-7002-1: Setuptools vulnerability](https://www.linux.org/threads/usn-7002-1-setuptools-vulnerability.52574/)|Visit link for details.|Sep 12, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -88,6 +66,28 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
  |[Adobe Monthly Security Update (September 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Media Encoder Medium RiskRemote Code ExecutionInformation Disclosure APSB24-53Adobe Audition Medium RiskRemote...|Release Date: 11 Sep 2024 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and data manipulation on the targeted system.|Release Date: 11 Sep 2024 |
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 16, 2024|
+ |[Ivanti Releases Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/13/ivanti-releases-security-update-cloud-services-appliance)|Visit link for details.|Sep 13, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 13, 2024|
+ |[CISA Releases Analysis of FY23 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-releases-analysis-fy23-risk-and-vulnerability-assessments)|Visit link for details.|Sep 13, 2024|
+ |[CISA Releases Twenty-Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/12/cisa-releases-twenty-five-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2024|
+ |[Cisco Releases Security Updates for IOS XR Software](https://www.cisa.gov/news-events/alerts/2024/09/12/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Sep 12, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2024|
+ |[Microsoft Releases September 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/09/10/microsoft-releases-september-2024-security-updates)|Visit link for details.|Sep 10, 2024|
+ |[Ivanti Releases Security Updates for Endpoint Manager, Cloud Service Application, and Workspace Control](https://www.cisa.gov/news-events/alerts/2024/09/10/ivanti-releases-security-updates-endpoint-manager-cloud-service-application-and-workspace-control)|Visit link for details.|Sep 10, 2024|
+ |[Citrix Releases Security Updates for Citrix Workspace App for Windows](https://www.cisa.gov/news-events/alerts/2024/09/10/citrix-releases-security-updates-citrix-workspace-app-windows)|Visit link for details.|Sep 10, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -134,6 +134,23 @@
  |[2024-088: Chrome ZeroDay Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-088/)|A critical zero-day vulnerability, CVE-2024-7971, has been identified and patched in Google Chrome. This marks the ninth such vulnerability discovered in 2024. The flaw, which has been actively exploited in the wild, is rooted in a type confusion issue within Chrome's V8 JavaScript engine. This vulnerability allows attackers to potentially execute arbitrary code on affected systems.|Tuesday, August 27, 2024 10:52:26 AM CEST|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware Spring - CVE-2024-38816](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-38816-2024-09-16)|Visit link for details.|16/09/2024|
+ |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|16/09/2024|
+ |[Docker Desktop - CVE-2024-8696](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2024-8696-2024-09-16)|Visit link for details.|16/09/2024|
+ |[D-Link - CVE-2024-44334](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44334-2024-09-16)|Visit link for details.|16/09/2024|
+ |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|16/09/2024|
+ |[Veeam One - CVE-2024-42019](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42019-2024-09-09)|Visit link for details.|16/09/2024|
+ |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|16/09/2024|
+ |[Veeam One - CVE-2024-42024](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42024-2024-09-06)|Visit link for details.|16/09/2024|
+ |[GitLab - CVE-2024-6678](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6678-2024-09-12)|Visit link for details.|16/09/2024|
+ |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|16/09/2024|
+ |[Exim - CVE-2023-42115](https://www.cyberveille-sante.gouv.fr/alertes/exim-cve-2023-42115-2023-10-03)|Visit link for details.|16/09/2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -149,23 +166,6 @@
  |[Google Chrome security advisory (AV24-512)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-512)|Visit link for details|2024-09-11|
  |[Adobe security advisory (AV24–511)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-511)|Visit link for details|2024-09-10|
  |[Microsoft security advisory – September 2024 monthly rollup (AV24-510)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2024-monthly-rollup-av24-510)|Visit link for details|2024-09-10|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2024-28991](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28991-2024-09-13)|Visit link for details.|13/09/2024|
- |[Microsoft - CVE-2024-38220](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38220-2024-09-13)|Visit link for details.|13/09/2024|
- |[Google Chrome - CVE-2024-8636](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8636-2024-09-13)|Visit link for details.|13/09/2024|
- |[Fortinet - CVE-2024-33508](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-33508-2024-09-13)|Visit link for details.|13/09/2024|
- |[Docker - CVE-2024-8695](https://www.cyberveille-sante.gouv.fr/alertes/docker-cve-2024-8695-2024-09-13)|Visit link for details.|13/09/2024|
- |[Microsoft - CVE-2024-38014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38014-2024-09-11)|Visit link for details.|13/09/2024|
- |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|13/09/2024|
- |[Ivanti - CVE-2024-44104](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-44104-2024-09-12)|Visit link for details.|12/09/2024|
- |[Palo Alto Networks - CVE-2024-8686](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-8686-2024-09-12)|Visit link for details.|12/09/2024|
- |[GitLab - CVE-2024-6678](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6678-2024-09-12)|Visit link for details.|12/09/2024|
- |[Citrix - CVE-2024-7889](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-7889-2024-09-12)|Visit link for details.|12/09/2024|
  
 
 # MA-CERT
