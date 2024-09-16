@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/09/2024 06:41:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/09/2024 07:55:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,34 @@
  |[USN-7003-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-2-linux-kernel-vulnerabilities.52573/)|Visit link for details.|Sep 12, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zoom Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/zoom-products-information-disclosure-vulnerability_20240916)|A vulnerability was identified in Zoom Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 16 Sep 2024 |
+ |[Microsoft Monthly Security Update (September 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-september-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSQL Server Medium RiskRemote Code ExecutionInformation DisclosureElevation of Privilege Microsoft Office Extremely High RiskRemote Code ExecutionElevation of...| Release Date: 11 Sep 2024 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20240916)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 16 Sep 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240913)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Sep 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240913)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is available for CVE-2024...|Release Date: 13 Sep 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
+ |[F5 Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-data-manipulation-vulnerability_20240912)|A vulnerability was identified in F5 Products, attacker can exploit this vulnerability to trigger security restriction bypass and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-3596 of the affected products.|Release Date: 12 Sep 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
+ |[Adobe Monthly Security Update (September 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Media Encoder Medium RiskRemote Code ExecutionInformation Disclosure APSB24-53Adobe Audition Medium RiskRemote...|Release Date: 11 Sep 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and data manipulation on the targeted system.|Release Date: 11 Sep 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -73,28 +101,6 @@
  |[Zephyr information disclosure (CVE-2024-5754)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 13, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20240913)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 13 Sep 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240913)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is available for CVE-2024...|Release Date: 13 Sep 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
- |[F5 Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/f5-products-data-manipulation-vulnerability_20240912)|A vulnerability was identified in F5 Products, attacker can exploit this vulnerability to trigger security restriction bypass and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2024-3596 of the affected products.|Release Date: 12 Sep 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
- |[Adobe Monthly Security Update (September 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Media Encoder Medium RiskRemote Code ExecutionInformation Disclosure APSB24-53Adobe Audition Medium RiskRemote...|Release Date: 11 Sep 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution and data manipulation on the targeted system.|Release Date: 11 Sep 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240911)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 11 Sep 2024 |
- |[Microsoft Monthly Security Update (September 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-september-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSQL Server Medium RiskRemote Code ExecutionInformation DisclosureElevation of Privilege Microsoft Office Extremely High RiskRemote Code ExecutionElevation of...|Release Date: 11 Sep 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20240910)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Notes:CVE-2024-7971 is being exploited in...|Release Date: 10 Sep 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -109,12 +115,6 @@
  |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
  |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
  |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -134,23 +134,6 @@
  |[2024-084: High Severity Vulnerabilities in F5 Products](https://cert.europa.eu/publications/security-advisories/2024-084/)|On August 14, 2024, F5 released a security advisory addressing nine vulnerabilities in their products. Four of these vulnerabilities have been classified as high severity due to their potential to facilitate session hijacking and to lead to Denial-of-Service (DoS) attacks. |Wednesday, August 21, 2024 02:17:39 PM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds - CVE-2024-28991](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28991-2024-09-13)|Visit link for details.|13/09/2024|
- |[Microsoft - CVE-2024-38220](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38220-2024-09-13)|Visit link for details.|13/09/2024|
- |[Google Chrome - CVE-2024-8636](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8636-2024-09-13)|Visit link for details.|13/09/2024|
- |[Fortinet - CVE-2024-33508](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-33508-2024-09-13)|Visit link for details.|13/09/2024|
- |[Docker - CVE-2024-8695](https://www.cyberveille-sante.gouv.fr/alertes/docker-cve-2024-8695-2024-09-13)|Visit link for details.|13/09/2024|
- |[Microsoft - CVE-2024-38014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38014-2024-09-11)|Visit link for details.|13/09/2024|
- |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|13/09/2024|
- |[Ivanti - CVE-2024-44104](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-44104-2024-09-12)|Visit link for details.|12/09/2024|
- |[Palo Alto Networks - CVE-2024-8686](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-8686-2024-09-12)|Visit link for details.|12/09/2024|
- |[GitLab - CVE-2024-6678](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6678-2024-09-12)|Visit link for details.|12/09/2024|
- |[Citrix - CVE-2024-7889](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-7889-2024-09-12)|Visit link for details.|12/09/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -166,6 +149,23 @@
  |[ 49381209/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-1)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 12 septembre 2024|
  |[ 49371109/24 - Vulnérabilités critiques dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-adobe)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de…| 11 septembre 2024|
  |[ 49361109/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités pour exécuter du code arbitraire, porter atteinte à la…| 11 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds - CVE-2024-28991](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28991-2024-09-13)|Visit link for details.|13/09/2024|
+ |[Microsoft - CVE-2024-38220](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38220-2024-09-13)|Visit link for details.|13/09/2024|
+ |[Google Chrome - CVE-2024-8636](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-8636-2024-09-13)|Visit link for details.|13/09/2024|
+ |[Fortinet - CVE-2024-33508](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-33508-2024-09-13)|Visit link for details.|13/09/2024|
+ |[Docker - CVE-2024-8695](https://www.cyberveille-sante.gouv.fr/alertes/docker-cve-2024-8695-2024-09-13)|Visit link for details.|13/09/2024|
+ |[Microsoft - CVE-2024-38014](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38014-2024-09-11)|Visit link for details.|13/09/2024|
+ |[Progress WhatsUp Gold - CVE-2024-6670](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-6670-2024-08-28)|Visit link for details.|13/09/2024|
+ |[Ivanti - CVE-2024-44104](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-44104-2024-09-12)|Visit link for details.|12/09/2024|
+ |[Palo Alto Networks - CVE-2024-8686](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-8686-2024-09-12)|Visit link for details.|12/09/2024|
+ |[GitLab - CVE-2024-6678](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6678-2024-09-12)|Visit link for details.|12/09/2024|
+ |[Citrix - CVE-2024-7889](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-7889-2024-09-12)|Visit link for details.|12/09/2024|
  
 
 # CA-CCS
