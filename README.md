@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/09/2024 18:26:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/09/2024 19:18:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 16, 2024|
- |[Ivanti Releases Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/13/ivanti-releases-security-update-cloud-services-appliance)|Visit link for details.|Sep 13, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 13, 2024|
- |[CISA Releases Analysis of FY23 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-releases-analysis-fy23-risk-and-vulnerability-assessments)|Visit link for details.|Sep 13, 2024|
- |[CISA Releases Twenty-Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/12/cisa-releases-twenty-five-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2024|
- |[Cisco Releases Security Updates for IOS XR Software](https://www.cisa.gov/news-events/alerts/2024/09/12/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Sep 12, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2024|
- |[Microsoft Releases September 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/09/10/microsoft-releases-september-2024-security-updates)|Visit link for details.|Sep 10, 2024|
- |[Ivanti Releases Security Updates for Endpoint Manager, Cloud Service Application, and Workspace Control](https://www.cisa.gov/news-events/alerts/2024/09/10/ivanti-releases-security-updates-endpoint-manager-cloud-service-application-and-workspace-control)|Visit link for details.|Sep 10, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,13 +46,23 @@
  |[USN-7009-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-1-linux-kernel-vulnerabilities.52589/)|Visit link for details.|Sep 13, 2024|
  
 
-# CERT-FR
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA and FBI Release Secure by Design Alert on Eliminating Cross-Site Scripting Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-and-fbi-release-secure-design-alert-eliminating-cross-site-scripting-vulnerabilities)|Visit link for details.|Sep 17, 2024|
+ |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 16, 2024|
+ |[Ivanti Releases Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/13/ivanti-releases-security-update-cloud-services-appliance)|Visit link for details.|Sep 13, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 13, 2024|
+ |[CISA Releases Analysis of FY23 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-releases-analysis-fy23-risk-and-vulnerability-assessments)|Visit link for details.|Sep 13, 2024|
+ |[CISA Releases Twenty-Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/12/cisa-releases-twenty-five-industrial-control-systems-advisories)|Visit link for details.|Sep 12, 2024|
+ |[Cisco Releases Security Updates for IOS XR Software](https://www.cisa.gov/news-events/alerts/2024/09/12/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Sep 12, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2024|
+ |[Microsoft Releases September 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/09/10/microsoft-releases-september-2024-security-updates)|Visit link for details.|Sep 10, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -90,6 +84,12 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +101,23 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple security advisory (AV24-525)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-525)|Visit link for details|2024-09-17|
+ |[Dell security advisory (AV24-524)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-524)|Visit link for details|2024-09-16|
+ |[[Control systems] CISA ICS security advisories (AV24-523)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523)|Visit link for details|2024-09-16|
+ |[IBM security advisory (AV24-522)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-522)|Visit link for details|2024-09-16|
+ |[Ubuntu security advisory (AV24-521)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-521)|Visit link for details|2024-09-16|
+ |[SolarWinds security advisory (AV24-520)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-520)|Visit link for details|2024-09-13|
+ |[Microsoft Edge security advisory (AV24-519)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-519)|Visit link for details|2024-09-13|
+ |[HPE security advisory (AV24-518)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-518)|Visit link for details|2024-09-12|
+ |[GitLab security advisory (AV24-517)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-517)|Visit link for details|2024-09-12|
+ |[Palo Alto Networks security advisory (AV24-516)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-516)|Visit link for details|2024-09-11|
+ |[Cisco security advisory (AV24-515)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-515)|Visit link for details|2024-09-11|
  
 
 # EU-CERT
@@ -120,38 +137,18 @@
  |[2024-088: Chrome ZeroDay Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-088/)|A critical zero-day vulnerability, CVE-2024-7971, has been identified and patched in Google Chrome. This marks the ninth such vulnerability discovered in 2024. The flaw, which has been actively exploited in the wild, is rooted in a type confusion issue within Chrome's V8 JavaScript engine. This vulnerability allows attackers to potentially execute arbitrary code on affected systems.|Tuesday, August 27, 2024 10:52:26 AM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Dell security advisory (AV24-524)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-524)|Visit link for details|2024-09-16|
- |[[Control systems] CISA ICS security advisories (AV24-523)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523)|Visit link for details|2024-09-16|
- |[IBM security advisory (AV24-522)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-522)|Visit link for details|2024-09-16|
- |[Ubuntu security advisory (AV24-521)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-521)|Visit link for details|2024-09-16|
- |[SolarWinds security advisory (AV24-520)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-520)|Visit link for details|2024-09-13|
- |[Microsoft Edge security advisory (AV24-519)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-519)|Visit link for details|2024-09-13|
- |[HPE security advisory (AV24-518)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-518)|Visit link for details|2024-09-12|
- |[GitLab security advisory (AV24-517)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-517)|Visit link for details|2024-09-12|
- |[Palo Alto Networks security advisory (AV24-516)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-516)|Visit link for details|2024-09-11|
- |[Cisco security advisory (AV24-515)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-515)|Visit link for details|2024-09-11|
- |[Intel security advisory (AV24-514)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-514)|Visit link for details|2024-09-11|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49461309/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper-0)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 13 septembre 2024|
- |[ 49451309/24 - Vulnérabilité dans les dispositifs NAS de Zyxel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-dispositifs-nas-de-zyxel)| Une vulnérabilité a été corrigée dans certaines versions des dispositifs NAS du constructeur ZyXEL. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'exécuter…| 13 septembre 2024|
- |[ 49441309/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 13 septembre 2024|
- |[ 49431309/24 - Vulnérabilité critique dans Docker Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-docker-desktop)| Docker annonce la publication d’une nouvelle mise à jour qui corrige une vulnérabilitécritique dans Docker Desktop. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code…| 13 septembre 2024|
- |[ 49421209/24 - Vulnérabilités critiques dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-palo-alto-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Palo Alto susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 12 septembre 2024|
- |[ 49411209/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-12)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 12 septembre 2024|
- |[ 49401209/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-6)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées d’Intel. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, de…| 12 septembre 2024|
- |[ 49391209/24 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-4)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 12 septembre 2024|
- |[ 49381209/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-1)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 12 septembre 2024|
- |[ 49371109/24 - Vulnérabilités critiques dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-adobe)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de…| 11 septembre 2024|
- |[ 49361109/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités pour exécuter du code arbitraire, porter atteinte à la…| 11 septembre 2024|
+ |[mySCADA myPRO Hard-Coded Credentials Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1226/)|Visit link for details|2024-09-13|
+ |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1225/)|Visit link for details|2024-09-13|
+ |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1224/)|Visit link for details|2024-09-13|
+ |[Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1223/)|Visit link for details|2024-09-12|
+ |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
  
 
 # CERT-SANTE
@@ -171,16 +168,19 @@
  |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|16/09/2024|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[mySCADA myPRO Hard-Coded Credentials Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1226/)|Visit link for details|2024-09-13|
- |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1225/)|Visit link for details|2024-09-13|
- |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1224/)|Visit link for details|2024-09-13|
- |[Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1223/)|Visit link for details|2024-09-12|
- |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
+ |[ 49461309/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper-0)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 13 septembre 2024|
+ |[ 49451309/24 - Vulnérabilité dans les dispositifs NAS de Zyxel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-dispositifs-nas-de-zyxel)| Une vulnérabilité a été corrigée dans certaines versions des dispositifs NAS du constructeur ZyXEL. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'exécuter…| 13 septembre 2024|
+ |[ 49441309/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 13 septembre 2024|
+ |[ 49431309/24 - Vulnérabilité critique dans Docker Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-docker-desktop)| Docker annonce la publication d’une nouvelle mise à jour qui corrige une vulnérabilitécritique dans Docker Desktop. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code…| 13 septembre 2024|
+ |[ 49421209/24 - Vulnérabilités critiques dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-palo-alto-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Palo Alto susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 12 septembre 2024|
+ |[ 49411209/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-12)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 12 septembre 2024|
+ |[ 49401209/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-6)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées d’Intel. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, de…| 12 septembre 2024|
+ |[ 49391209/24 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-4)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 12 septembre 2024|
+ |[ 49381209/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-1)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 12 septembre 2024|
+ |[ 49371109/24 - Vulnérabilités critiques dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-adobe)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de…| 11 septembre 2024|
+ |[ 49361109/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités pour exécuter du code arbitraire, porter atteinte à la…| 11 septembre 2024|
  
