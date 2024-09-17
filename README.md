@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/09/2024 01:21:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/09/2024 02:19:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7000-2: Expat vulnerabilities](https://www.linux.org/threads/usn-7000-2-expat-vulnerabilities.52666/)|Visit link for details.|Sep 17, 2024|
  |[USN-7017-1: Quagga vulnerability](https://www.linux.org/threads/usn-7017-1-quagga-vulnerability.52665/)|Visit link for details.|Sep 17, 2024|
  |[USN-7016-1: FRR vulnerability](https://www.linux.org/threads/usn-7016-1-frr-vulnerability.52664/)|Visit link for details.|Sep 17, 2024|
  |[USN-7001-2: xmltok library vulnerabilities](https://www.linux.org/threads/usn-7001-2-xmltok-library-vulnerabilities.52661/)|Visit link for details.|Sep 17, 2024|
@@ -59,20 +60,12 @@
  |[USN-7013-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-7013-1-dovecot-vulnerabilities.52629/)|Visit link for details.|Sep 16, 2024|
  |[USN-7012-1: curl vulnerability](https://www.linux.org/threads/usn-7012-1-curl-vulnerability.52628/)|Visit link for details.|Sep 16, 2024|
  |[USN-7011-1: ClamAV vulnerabilities](https://www.linux.org/threads/usn-7011-1-clamav-vulnerabilities.52627/)|Visit link for details.|Sep 16, 2024|
- |[USN-6560-3: OpenSSH vulnerability](https://www.linux.org/threads/usn-6560-3-openssh-vulnerability.52626/)|Visit link for details.|Sep 16, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple tvOS denial of service (CVE-2024-40856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
- |[Apple tvOS denial of service (CVE-2024-44183)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
- |[Apple tvOS denial of service (CVE-2024-44198)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
- |[Apple tvOS denial of service (CVE-2024-44169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
- |[Apple tvOS denial of service (CVE-2024-44176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # CERT-FR
@@ -97,10 +90,17 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apple tvOS denial of service (CVE-2024-40856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
+ |[Apple tvOS denial of service (CVE-2024-44183)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
+ |[Apple tvOS denial of service (CVE-2024-44198)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
+ |[Apple tvOS denial of service (CVE-2024-44169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -117,21 +117,21 @@
  |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
  
 
-# CERT-SANTE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds - CVE-2024-28990](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28990-2024-09-17)|Visit link for details.|17/09/2024|
- |[Red Hat - CVE-2024-45496](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-45496-2024-09-17)|Visit link for details.|17/09/2024|
- |[Moby/Juniper - CVE-2023-28840](https://www.cyberveille-sante.gouv.fr/alertes/mobyjuniper-cve-2023-28840-2024-09-17)|Visit link for details.|17/09/2024|
- |[Ingress-nginx/Juniper - CVE-2023-5043](https://www.cyberveille-sante.gouv.fr/alertes/ingress-nginxjuniper-cve-2023-5043-2024-09-17)|Visit link for details.|17/09/2024|
- |[D-Link - CVE-2024-45694](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45694-2024-09-17)|Visit link for details.|17/09/2024|
- |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|16/09/2024|
- |[VMware Spring - CVE-2024-38816](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-38816-2024-09-16)|Visit link for details.|16/09/2024|
- |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|16/09/2024|
- |[Docker Desktop - CVE-2024-8696](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2024-8696-2024-09-16)|Visit link for details.|16/09/2024|
- |[D-Link - CVE-2024-44334](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44334-2024-09-16)|Visit link for details.|16/09/2024|
- |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|16/09/2024|
+ |[ 49461309/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper-0)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 13 septembre 2024|
+ |[ 49451309/24 - Vulnérabilité dans les dispositifs NAS de Zyxel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-dispositifs-nas-de-zyxel)| Une vulnérabilité a été corrigée dans certaines versions des dispositifs NAS du constructeur ZyXEL. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'exécuter…| 13 septembre 2024|
+ |[ 49441309/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 13 septembre 2024|
+ |[ 49431309/24 - Vulnérabilité critique dans Docker Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-docker-desktop)| Docker annonce la publication d’une nouvelle mise à jour qui corrige une vulnérabilitécritique dans Docker Desktop. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code…| 13 septembre 2024|
+ |[ 49421209/24 - Vulnérabilités critiques dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-palo-alto-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Palo Alto susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 12 septembre 2024|
+ |[ 49411209/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-12)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 12 septembre 2024|
+ |[ 49401209/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-6)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées d’Intel. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, de…| 12 septembre 2024|
+ |[ 49391209/24 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-4)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 12 septembre 2024|
+ |[ 49381209/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-1)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 12 septembre 2024|
+ |[ 49371109/24 - Vulnérabilités critiques dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-adobe)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de…| 11 septembre 2024|
+ |[ 49361109/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités pour exécuter du code arbitraire, porter atteinte à la…| 11 septembre 2024|
  
 
 # EU-CERT
@@ -151,21 +151,21 @@
  |[2024-088: Chrome ZeroDay Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-088/)|A critical zero-day vulnerability, CVE-2024-7971, has been identified and patched in Google Chrome. This marks the ninth such vulnerability discovered in 2024. The flaw, which has been actively exploited in the wild, is rooted in a type confusion issue within Chrome's V8 JavaScript engine. This vulnerability allows attackers to potentially execute arbitrary code on affected systems.|Tuesday, August 27, 2024 10:52:26 AM CEST|
  
 
-# MA-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 49461309/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper-0)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 13 septembre 2024|
- |[ 49451309/24 - Vulnérabilité dans les dispositifs NAS de Zyxel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-dispositifs-nas-de-zyxel)| Une vulnérabilité a été corrigée dans certaines versions des dispositifs NAS du constructeur ZyXEL. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'exécuter…| 13 septembre 2024|
- |[ 49441309/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 13 septembre 2024|
- |[ 49431309/24 - Vulnérabilité critique dans Docker Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-docker-desktop)| Docker annonce la publication d’une nouvelle mise à jour qui corrige une vulnérabilitécritique dans Docker Desktop. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code…| 13 septembre 2024|
- |[ 49421209/24 - Vulnérabilités critiques dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-palo-alto-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Palo Alto susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à…| 12 septembre 2024|
- |[ 49411209/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-12)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 12 septembre 2024|
- |[ 49401209/24 - Vulnérabilités dans les produits Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-intel-6)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées d’Intel. Un attaquant pourrait exploiter ces failles afin de porter atteinte à la confidentialité des données, de…| 12 septembre 2024|
- |[ 49391209/24 - Vulnérabilités dans les produits Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-fortinet-4)| Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 12 septembre 2024|
- |[ 49381209/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-1)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.| 12 septembre 2024|
- |[ 49371109/24 - Vulnérabilités critiques dans les produits Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-adobe)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter ces  failles afin d’exécuter du code arbitraire à distance et de…| 11 septembre 2024|
- |[ 49361109/24 - Vulnérabilités critiques dans les produits Ivanti ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ivanti-0)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Ivanti susmentionnés. Les attaquants peuvent exploiter ces vulnérabilités pour exécuter du code arbitraire, porter atteinte à la…| 11 septembre 2024|
+ |[SolarWinds - CVE-2024-28990](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28990-2024-09-17)|Visit link for details.|17/09/2024|
+ |[Red Hat - CVE-2024-45496](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-45496-2024-09-17)|Visit link for details.|17/09/2024|
+ |[Moby/Juniper - CVE-2023-28840](https://www.cyberveille-sante.gouv.fr/alertes/mobyjuniper-cve-2023-28840-2024-09-17)|Visit link for details.|17/09/2024|
+ |[Ingress-nginx/Juniper - CVE-2023-5043](https://www.cyberveille-sante.gouv.fr/alertes/ingress-nginxjuniper-cve-2023-5043-2024-09-17)|Visit link for details.|17/09/2024|
+ |[D-Link - CVE-2024-45694](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45694-2024-09-17)|Visit link for details.|17/09/2024|
+ |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|16/09/2024|
+ |[VMware Spring - CVE-2024-38816](https://www.cyberveille-sante.gouv.fr/alertes/vmware-spring-cve-2024-38816-2024-09-16)|Visit link for details.|16/09/2024|
+ |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|16/09/2024|
+ |[Docker Desktop - CVE-2024-8696](https://www.cyberveille-sante.gouv.fr/alertes/docker-desktop-cve-2024-8696-2024-09-16)|Visit link for details.|16/09/2024|
+ |[D-Link - CVE-2024-44334](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44334-2024-09-16)|Visit link for details.|16/09/2024|
+ |[Qlik - CVE-2024-29863](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-29863-2024-03-22)|Visit link for details.|16/09/2024|
  
 
 # CA-CCS
