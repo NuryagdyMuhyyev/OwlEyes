@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/09/2024 10:19:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/09/2024 11:25:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -103,20 +103,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[mySCADA myPRO Hard-Coded Credentials Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1226/)|Visit link for details|2024-09-13|
- |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1225/)|Visit link for details|2024-09-13|
- |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1224/)|Visit link for details|2024-09-13|
- |[Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1223/)|Visit link for details|2024-09-12|
- |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -132,6 +118,20 @@
  |[2024-090: Multiple Vulnerabilities in Cisco NX-OS Software](https://cert.europa.eu/publications/security-advisories/2024-090/)|On August 28, Cisco released patches for multiple vulnerabilities affecting its NX-OS software, primarily used in Nexus switches. The most severe of these is a high-severity denial-of-service (DoS) vulnerability in the DHCPv6 relay agent, which could allow an unauthenticated remote attacker to cause targeted devices to reload repeatedly, leading to a DoS condition. Additionally, several medium-severity vulnerabilities were addressed, including issues that could allow privilege escalation and unauthorised code execution.|Monday, September 02, 2024 09:40:58 AM CEST|
  |[2024-089: Critical Vulnerability in SonicWall SonicOS](https://cert.europa.eu/publications/security-advisories/2024-089/)|On August 23, 2024, SonicWall issued a security advisory regarding a critical access control vulnerability (CVE-2024-40766) in its SonicOS. This flaw could allow attackers to gain unauthorised access to resources or cause the firewall crash. |Tuesday, August 27, 2024 10:04:41 AM CEST|
  |[2024-088: Chrome ZeroDay Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-088/)|A critical zero-day vulnerability, CVE-2024-7971, has been identified and patched in Google Chrome. This marks the ninth such vulnerability discovered in 2024. The flaw, which has been actively exploited in the wild, is rooted in a type confusion issue within Chrome's V8 JavaScript engine. This vulnerability allows attackers to potentially execute arbitrary code on affected systems.|Tuesday, August 27, 2024 10:52:26 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[mySCADA myPRO Hard-Coded Credentials Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1226/)|Visit link for details|2024-09-13|
+ |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1225/)|Visit link for details|2024-09-13|
+ |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1224/)|Visit link for details|2024-09-13|
+ |[Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1223/)|Visit link for details|2024-09-12|
+ |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
  
 
 # CA-CCS
