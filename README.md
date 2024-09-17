@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/09/2024 16:17:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/09/2024 18:26:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7015-1: Python vulnerabilities](https://www.linux.org/threads/usn-7015-1-python-vulnerabilities.52631/)|Visit link for details.|Sep 16, 2024|
- |[USN-7014-1: nginx vulnerability](https://www.linux.org/threads/usn-7014-1-nginx-vulnerability.52630/)|Visit link for details.|Sep 16, 2024|
- |[USN-7013-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-7013-1-dovecot-vulnerabilities.52629/)|Visit link for details.|Sep 16, 2024|
- |[USN-7012-1: curl vulnerability](https://www.linux.org/threads/usn-7012-1-curl-vulnerability.52628/)|Visit link for details.|Sep 16, 2024|
- |[USN-7011-1: ClamAV vulnerabilities](https://www.linux.org/threads/usn-7011-1-clamav-vulnerabilities.52627/)|Visit link for details.|Sep 16, 2024|
- |[USN-6560-3: OpenSSH vulnerability](https://www.linux.org/threads/usn-6560-3-openssh-vulnerability.52626/)|Visit link for details.|Sep 16, 2024|
- |[DSA-5769-1 git - security update](https://www.linux.org/threads/dsa-5769-1-git-security-update.52594/)|Visit link for details.|Sep 14, 2024|
- |[USN-7009-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-1-linux-kernel-vulnerabilities.52589/)|Visit link for details.|Sep 13, 2024|
- |[USN-7005-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7005-2-linux-kernel-vulnerabilities.52588/)|Visit link for details.|Sep 13, 2024|
- |[USN-7008-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7008-1-linux-kernel-vulnerabilities.52587/)|Visit link for details.|Sep 13, 2024|
- |[USN-7007-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-1-linux-kernel-vulnerabilities.52583/)|Visit link for details.|Sep 13, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -60,6 +43,23 @@
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Sep 12, 2024|
  |[Microsoft Releases September 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/09/10/microsoft-releases-september-2024-security-updates)|Visit link for details.|Sep 10, 2024|
  |[Ivanti Releases Security Updates for Endpoint Manager, Cloud Service Application, and Workspace Control](https://www.cisa.gov/news-events/alerts/2024/09/10/ivanti-releases-security-updates-endpoint-manager-cloud-service-application-and-workspace-control)|Visit link for details.|Sep 10, 2024|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7001-2: xmltok library vulnerabilities](https://www.linux.org/threads/usn-7001-2-xmltok-library-vulnerabilities.52661/)|Visit link for details.|Sep 17, 2024|
+ |[USN-7011-2: ClamAV vulnerabilities](https://www.linux.org/threads/usn-7011-2-clamav-vulnerabilities.52660/)|Visit link for details.|Sep 17, 2024|
+ |[USN-7010-1: DCMTK vulnerabilities](https://www.linux.org/threads/usn-7010-1-dcmtk-vulnerabilities.52659/)|Visit link for details.|Sep 17, 2024|
+ |[USN-7015-1: Python vulnerabilities](https://www.linux.org/threads/usn-7015-1-python-vulnerabilities.52631/)|Visit link for details.|Sep 16, 2024|
+ |[USN-7014-1: nginx vulnerability](https://www.linux.org/threads/usn-7014-1-nginx-vulnerability.52630/)|Visit link for details.|Sep 16, 2024|
+ |[USN-7013-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-7013-1-dovecot-vulnerabilities.52629/)|Visit link for details.|Sep 16, 2024|
+ |[USN-7012-1: curl vulnerability](https://www.linux.org/threads/usn-7012-1-curl-vulnerability.52628/)|Visit link for details.|Sep 16, 2024|
+ |[USN-7011-1: ClamAV vulnerabilities](https://www.linux.org/threads/usn-7011-1-clamav-vulnerabilities.52627/)|Visit link for details.|Sep 16, 2024|
+ |[USN-6560-3: OpenSSH vulnerability](https://www.linux.org/threads/usn-6560-3-openssh-vulnerability.52626/)|Visit link for details.|Sep 16, 2024|
+ |[DSA-5769-1 git - security update](https://www.linux.org/threads/dsa-5769-1-git-security-update.52594/)|Visit link for details.|Sep 14, 2024|
+ |[USN-7009-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-1-linux-kernel-vulnerabilities.52589/)|Visit link for details.|Sep 13, 2024|
  
 
 # CERT-FR
@@ -137,20 +137,6 @@
  |[Intel security advisory (AV24-514)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-514)|Visit link for details|2024-09-11|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[mySCADA myPRO Hard-Coded Credentials Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1226/)|Visit link for details|2024-09-13|
- |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1225/)|Visit link for details|2024-09-13|
- |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1224/)|Visit link for details|2024-09-13|
- |[Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1223/)|Visit link for details|2024-09-12|
- |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
- |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +169,18 @@
  |[Veeam One - CVE-2024-42024](https://www.cyberveille-sante.gouv.fr/alertes/veeam-one-cve-2024-42024-2024-09-06)|Visit link for details.|16/09/2024|
  |[GitLab - CVE-2024-6678](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-6678-2024-09-12)|Visit link for details.|16/09/2024|
  |[Acronis - CVE-2023-45249](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2023-45249-2024-07-25)|Visit link for details.|16/09/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[mySCADA myPRO Hard-Coded Credentials Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1226/)|Visit link for details|2024-09-13|
+ |[SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1225/)|Visit link for details|2024-09-13|
+ |[SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1224/)|Visit link for details|2024-09-13|
+ |[Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1223/)|Visit link for details|2024-09-12|
+ |[Ivanti Workspace Control RES Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1222/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadMotherboardTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1221/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager LoadSlotsTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1220/)|Visit link for details|2024-09-11|
+ |[Ivanti Endpoint Manager loadModuleTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1219/)|Visit link for details|2024-09-11|
  
