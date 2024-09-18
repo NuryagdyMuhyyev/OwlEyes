@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/09/2024 04:22:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/09/2024 06:35:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5771-1 php-twig - security update](https://www.linux.org/threads/dsa-5771-1-php-twig-security-update.52670/)|Visit link for details.|Sep 18, 2024|
+ |[DSA-5770-1 expat - security update](https://www.linux.org/threads/dsa-5770-1-expat-security-update.52669/)|Visit link for details.|Sep 18, 2024|
  |[USN-7000-2: Expat vulnerabilities](https://www.linux.org/threads/usn-7000-2-expat-vulnerabilities.52666/)|Visit link for details.|Sep 17, 2024|
  |[USN-7017-1: Quagga vulnerability](https://www.linux.org/threads/usn-7017-1-quagga-vulnerability.52665/)|Visit link for details.|Sep 17, 2024|
  |[USN-7016-1: FRR vulnerability](https://www.linux.org/threads/usn-7016-1-frr-vulnerability.52664/)|Visit link for details.|Sep 17, 2024|
@@ -42,8 +44,6 @@
  |[USN-7015-1: Python vulnerabilities](https://www.linux.org/threads/usn-7015-1-python-vulnerabilities.52631/)|Visit link for details.|Sep 16, 2024|
  |[USN-7014-1: nginx vulnerability](https://www.linux.org/threads/usn-7014-1-nginx-vulnerability.52630/)|Visit link for details.|Sep 16, 2024|
  |[USN-7013-1: Dovecot vulnerabilities](https://www.linux.org/threads/usn-7013-1-dovecot-vulnerabilities.52629/)|Visit link for details.|Sep 16, 2024|
- |[USN-7012-1: curl vulnerability](https://www.linux.org/threads/usn-7012-1-curl-vulnerability.52628/)|Visit link for details.|Sep 16, 2024|
- |[USN-7011-1: ClamAV vulnerabilities](https://www.linux.org/threads/usn-7011-1-clamav-vulnerabilities.52627/)|Visit link for details.|Sep 16, 2024|
  
 
 # US-CERT
@@ -62,13 +62,13 @@
  |[Cisco Releases Security Updates for IOS XR Software](https://www.cisa.gov/news-events/alerts/2024/09/12/cisco-releases-security-updates-ios-xr-software)|Visit link for details.|Sep 12, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -94,13 +94,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mozilla Firefox security bypass (CVE-2024-8900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2024|
  |[Google Chrome security bypass (CVE-2024-8909)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2024|
  |[Google Chrome security bypass (CVE-2024-8908)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2024|
  |[Google Chrome security bypass (CVE-2024-8907)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2024|
- |[Google Chrome security bypass (CVE-2024-8906)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2024|
- |[Google Chrome security bypass (CVE-2024-8905)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1272/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1271/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1270/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1269/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1268/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1267/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor JB2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1266/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
  
 
 # EU-CERT
@@ -118,20 +132,6 @@
  |[2024-090: Multiple Vulnerabilities in Cisco NX-OS Software](https://cert.europa.eu/publications/security-advisories/2024-090/)|On August 28, Cisco released patches for multiple vulnerabilities affecting its NX-OS software, primarily used in Nexus switches. The most severe of these is a high-severity denial-of-service (DoS) vulnerability in the DHCPv6 relay agent, which could allow an unauthenticated remote attacker to cause targeted devices to reload repeatedly, leading to a DoS condition. Additionally, several medium-severity vulnerabilities were addressed, including issues that could allow privilege escalation and unauthorised code execution.|Monday, September 02, 2024 09:40:58 AM CEST|
  |[2024-089: Critical Vulnerability in SonicWall SonicOS](https://cert.europa.eu/publications/security-advisories/2024-089/)|On August 23, 2024, SonicWall issued a security advisory regarding a critical access control vulnerability (CVE-2024-40766) in its SonicOS. This flaw could allow attackers to gain unauthorised access to resources or cause the firewall crash. |Tuesday, August 27, 2024 10:04:41 AM CEST|
  |[2024-088: Chrome ZeroDay Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-088/)|A critical zero-day vulnerability, CVE-2024-7971, has been identified and patched in Google Chrome. This marks the ninth such vulnerability discovered in 2024. The flaw, which has been actively exploited in the wild, is rooted in a type confusion issue within Chrome's V8 JavaScript engine. This vulnerability allows attackers to potentially execute arbitrary code on affected systems.|Tuesday, August 27, 2024 10:52:26 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1272/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1271/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1270/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1269/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1268/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1267/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor JB2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1266/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
  
 
 # CA-CCS
