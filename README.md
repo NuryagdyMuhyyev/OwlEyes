@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/09/2024 15:21:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/09/2024 16:17:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/18/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/18/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 18, 2024|
- |[CISA and FBI Release Secure by Design Alert on Eliminating Cross-Site Scripting Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-and-fbi-release-secure-design-alert-eliminating-cross-site-scripting-vulnerabilities)|Visit link for details.|Sep 17, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 17, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 17, 2024|
- |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 16, 2024|
- |[Ivanti Releases Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/13/ivanti-releases-security-update-cloud-services-appliance)|Visit link for details.|Sep 13, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 13, 2024|
- |[CISA Releases Analysis of FY23 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-releases-analysis-fy23-risk-and-vulnerability-assessments)|Visit link for details.|Sep 13, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,7 +46,29 @@
  |[USN-7000-2: Expat vulnerabilities](https://www.linux.org/threads/usn-7000-2-expat-vulnerabilities.52666/)|Visit link for details.|Sep 17, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/18/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/18/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 18, 2024|
+ |[CISA and FBI Release Secure by Design Alert on Eliminating Cross-Site Scripting Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-and-fbi-release-secure-design-alert-eliminating-cross-site-scripting-vulnerabilities)|Visit link for details.|Sep 17, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 17, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 17, 2024|
+ |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 16, 2024|
+ |[Ivanti Releases Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/13/ivanti-releases-security-update-cloud-services-appliance)|Visit link for details.|Sep 13, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 13, 2024|
+ |[CISA Releases Analysis of FY23 Risk and Vulnerability Assessments](https://www.cisa.gov/news-events/alerts/2024/09/13/cisa-releases-analysis-fy23-risk-and-vulnerability-assessments)|Visit link for details.|Sep 13, 2024|
+ 
+
 # CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -97,26 +103,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1272/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1271/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1270/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1269/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1268/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1267/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor JB2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1266/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -132,23 +118,6 @@
  |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
  |[2024-091: High Severity Vulnerability in VMware Fusion for MacOS](https://cert.europa.eu/publications/security-advisories/2024-091/)|On September 3, 2024, Broadcom disclosed a high-severity vulnerability in VMware Fusion, which could allow attackers to execute arbitrary code on macOS systems.|Wednesday, September 04, 2024 09:49:34 AM CEST|
  |[2024-090: Multiple Vulnerabilities in Cisco NX-OS Software](https://cert.europa.eu/publications/security-advisories/2024-090/)|On August 28, Cisco released patches for multiple vulnerabilities affecting its NX-OS software, primarily used in Nexus switches. The most severe of these is a high-severity denial-of-service (DoS) vulnerability in the DHCPv6 relay agent, which could allow an unauthenticated remote attacker to cause targeted devices to reload repeatedly, leading to a DoS condition. Additionally, several medium-severity vulnerabilities were addressed, including issues that could allow privilege escalation and unauthorised code execution.|Monday, September 02, 2024 09:40:58 AM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Drupal security advisory (AV24-532)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-532)|Visit link for details|2024-09-18|
- |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
- |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
- |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
- |[VMware security advisory (AV24-528)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-09-18|
- |[Atlassian security advisory (AV24-527)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-527)|Visit link for details|2024-09-18|
- |[HPE security advisory (AV24-526)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-526)|Visit link for details|2024-09-17|
- |[Apple security advisory (AV24-525)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-525)|Visit link for details|2024-09-17|
- |[Dell security advisory (AV24-524)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-524)|Visit link for details|2024-09-16|
- |[[Control systems] CISA ICS security advisories (AV24-523)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523)|Visit link for details|2024-09-16|
- |[IBM security advisory (AV24-522)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-522)|Visit link for details|2024-09-16|
  
 
 # CERT-SANTE
@@ -168,6 +137,20 @@
  |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|16/09/2024|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1272/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1271/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1270/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1269/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1268/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1267/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor JB2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1266/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 49451309/24 - Vulnérabilité dans les dispositifs NAS de Zyxel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-dispositifs-nas-de-zyxel)| Une vulnérabilité a été corrigée dans certaines versions des dispositifs NAS du constructeur ZyXEL. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'exécuter…| 13 septembre 2024|
  |[ 49441309/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 13 septembre 2024|
  |[ 49431309/24 - Vulnérabilité critique dans Docker Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-docker-desktop)| Docker annonce la publication d’une nouvelle mise à jour qui corrige une vulnérabilitécritique dans Docker Desktop. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code…| 13 septembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Drupal security advisory (AV24-532)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-532)|Visit link for details|2024-09-18|
+ |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
+ |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
+ |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
+ |[VMware security advisory (AV24-528)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-09-18|
+ |[Atlassian security advisory (AV24-527)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-527)|Visit link for details|2024-09-18|
+ |[HPE security advisory (AV24-526)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-526)|Visit link for details|2024-09-17|
+ |[Apple security advisory (AV24-525)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-525)|Visit link for details|2024-09-17|
+ |[Dell security advisory (AV24-524)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-524)|Visit link for details|2024-09-16|
+ |[[Control systems] CISA ICS security advisories (AV24-523)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523)|Visit link for details|2024-09-16|
+ |[IBM security advisory (AV24-522)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-522)|Visit link for details|2024-09-16|
  
