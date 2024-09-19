@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/09/2024 01:21:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/09/2024 02:18:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[DSA-5771-1 php-twig - security update](https://www.linux.org/threads/dsa-5771-1-php-twig-security-update.52670/)|Visit link for details.|Sep 18, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -94,13 +88,33 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ivanti Cloud Services Appliance directory traversal (CVE-2024-8963)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
  |[Guardrails AI code execution (CVE-2024-45858)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 18, 2024|
  |[Directus security bypass (CVE-2024-46990)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 18, 2024|
  |[Mautic security bypass (CVE-2022-25768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 18, 2024|
- |[Google Mesop local file include (CVE-2024-45601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 18, 2024|
- |[OpenPLC buffer overflow (CVE-2024-34026)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1272/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1271/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1270/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1269/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1268/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1267/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor JB2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1266/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
  
 
 # EU-CERT
@@ -120,20 +134,6 @@
  |[2024-091: High Severity Vulnerability in VMware Fusion for MacOS](https://cert.europa.eu/publications/security-advisories/2024-091/)|On September 3, 2024, Broadcom disclosed a high-severity vulnerability in VMware Fusion, which could allow attackers to execute arbitrary code on macOS systems.|Wednesday, September 04, 2024 09:49:34 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1272/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1271/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1270/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1269/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1268/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1267/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor JB2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1266/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -151,23 +151,6 @@
  |[IBM security advisory (AV24-522)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-522)|Visit link for details|2024-09-16|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab EE - CVE-2024-8640](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ee-cve-2024-8640-2024-09-19)|Visit link for details.|19/09/2024|
- |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|19/09/2024|
- |[D-Link - CVE-2024-44589](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44589-2024-09-19)|Visit link for details.|19/09/2024|
- |[AVG - CVE-2024-6510](https://www.cyberveille-sante.gouv.fr/alertes/avg-cve-2024-6510-2024-09-19)|Visit link for details.|19/09/2024|
- |[Mozilla - CVE-2024-8897](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-8897-2024-09-19)|Visit link for details.|19/09/2024|
- |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|19/09/2024|
- |[Acronis - CVE-2024-8767](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-8767-2024-09-18)|Visit link for details.|18/09/2024|
- |[Apple - CVE-2024-44202](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44202-2024-09-18)|Visit link for details.|18/09/2024|
- |[Google - CVE-2024-8904](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8904-2024-09-18)|Visit link for details.|18/09/2024|
- |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|18/09/2024|
- |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|18/09/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 49461309/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper-0)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 13 septembre 2024|
  |[ 49451309/24 - Vulnérabilité dans les dispositifs NAS de Zyxel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-dispositifs-nas-de-zyxel)| Une vulnérabilité a été corrigée dans certaines versions des dispositifs NAS du constructeur ZyXEL. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'exécuter…| 13 septembre 2024|
  |[ 49441309/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 13 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab EE - CVE-2024-8640](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ee-cve-2024-8640-2024-09-19)|Visit link for details.|19/09/2024|
+ |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|19/09/2024|
+ |[D-Link - CVE-2024-44589](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44589-2024-09-19)|Visit link for details.|19/09/2024|
+ |[AVG - CVE-2024-6510](https://www.cyberveille-sante.gouv.fr/alertes/avg-cve-2024-6510-2024-09-19)|Visit link for details.|19/09/2024|
+ |[Mozilla - CVE-2024-8897](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-8897-2024-09-19)|Visit link for details.|19/09/2024|
+ |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|19/09/2024|
+ |[Acronis - CVE-2024-8767](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-8767-2024-09-18)|Visit link for details.|18/09/2024|
+ |[Apple - CVE-2024-44202](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44202-2024-09-18)|Visit link for details.|18/09/2024|
+ |[Google - CVE-2024-8904](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8904-2024-09-18)|Visit link for details.|18/09/2024|
+ |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|18/09/2024|
+ |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|18/09/2024|
  
