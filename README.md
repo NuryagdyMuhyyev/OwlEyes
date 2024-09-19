@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/09/2024 14:21:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/09/2024 15:21:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7023-1: Git vulnerabilities](https://www.linux.org/threads/usn-7023-1-git-vulnerabilities.52728/)|Visit link for details.|Sep 19, 2024|
  |[USN-7022-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-1-linux-kernel-vulnerabilities.52703/)|Visit link for details.|Sep 18, 2024|
  |[DSA-5772-1 libreoffice - security update](https://www.linux.org/threads/dsa-5772-1-libreoffice-security-update.52702/)|Visit link for details.|Sep 18, 2024|
  |[USN-7021-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-1-linux-kernel-vulnerabilities.52700/)|Visit link for details.|Sep 18, 2024|
@@ -59,7 +60,6 @@
  |[DSA-5771-1 php-twig - security update](https://www.linux.org/threads/dsa-5771-1-php-twig-security-update.52670/)|Visit link for details.|Sep 18, 2024|
  |[DSA-5770-1 expat - security update](https://www.linux.org/threads/dsa-5770-1-expat-security-update.52669/)|Visit link for details.|Sep 18, 2024|
  |[USN-7000-2: Expat vulnerabilities](https://www.linux.org/threads/usn-7000-2-expat-vulnerabilities.52666/)|Visit link for details.|Sep 17, 2024|
- |[USN-7017-1: Quagga vulnerability](https://www.linux.org/threads/usn-7017-1-quagga-vulnerability.52665/)|Visit link for details.|Sep 17, 2024|
  
 
 # CERT-FR
@@ -92,7 +92,7 @@
  |[Directus security bypass (CVE-2024-46990)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 18, 2024|
  |[Mautic security bypass (CVE-2022-25768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 18, 2024|
  |[Google Mesop local file include (CVE-2024-45601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 18, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 18, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -103,21 +103,18 @@
  |---|---|---|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Acronis - CVE-2024-8767](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-8767-2024-09-18)|Visit link for details.|18/09/2024|
- |[Apple - CVE-2024-44202](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44202-2024-09-18)|Visit link for details.|18/09/2024|
- |[Google - CVE-2024-8904](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8904-2024-09-18)|Visit link for details.|18/09/2024|
- |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|18/09/2024|
- |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|18/09/2024|
- |[SolarWinds - CVE-2024-28990](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28990-2024-09-17)|Visit link for details.|17/09/2024|
- |[Red Hat - CVE-2024-45496](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-45496-2024-09-17)|Visit link for details.|17/09/2024|
- |[Moby/Juniper - CVE-2023-28840](https://www.cyberveille-sante.gouv.fr/alertes/mobyjuniper-cve-2023-28840-2024-09-17)|Visit link for details.|17/09/2024|
- |[Ingress-nginx/Juniper - CVE-2023-5043](https://www.cyberveille-sante.gouv.fr/alertes/ingress-nginxjuniper-cve-2023-5043-2024-09-17)|Visit link for details.|17/09/2024|
- |[D-Link - CVE-2024-45694](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45694-2024-09-17)|Visit link for details.|17/09/2024|
- |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|16/09/2024|
+ |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1272/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1271/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1270/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1269/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1268/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1267/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor JB2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1266/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
  
 
 # EU-CERT
@@ -137,37 +134,6 @@
  |[2024-090: Multiple Vulnerabilities in Cisco NX-OS Software](https://cert.europa.eu/publications/security-advisories/2024-090/)|On August 28, Cisco released patches for multiple vulnerabilities affecting its NX-OS software, primarily used in Nexus switches. The most severe of these is a high-severity denial-of-service (DoS) vulnerability in the DHCPv6 relay agent, which could allow an unauthenticated remote attacker to cause targeted devices to reload repeatedly, leading to a DoS condition. Additionally, several medium-severity vulnerabilities were addressed, including issues that could allow privilege escalation and unauthorised code execution.|Monday, September 02, 2024 09:40:58 AM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49531809/24 - Vulnérabilité critique affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction d’une vulnérabilité critique affectant son produit Access Rights Manager. L'exploitation de  cette vulnérabilité peut permettre à un attaquant distant d’exécuter du…| 18 septembre 2024|
- |[ 49521809/24 - Vulnérabilités affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 18 septembre 2024|
- |[ 49511809/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance. | 18 septembre 2024|
- |[ 49501809/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-2)| Deux vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service. | 18 septembre 2024|
- |[ 49491809/24 - Vulnérabilités critiques dans D-Link routeur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-d-link-routeur-0)| D-Link a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dont trois sont critiques, affectant leurs routeurs susmentionnés.Les vulnérabilités sont les suivantes…| 18 septembre 2024|
- |[ 49481809/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-1)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 18 septembre 2024|
- |[ 49471809/24 - Vulnérabilités critiques dans VMware vCenter et Cloud Foundation ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vmware-vcenter-et-cloud-foundation)| Deux vulnérabilités critiques ont été corrigées dans les versions susmentionnées de serveur vCenter et Cloud Foundation. L’exploitation de ces failles peut permettre à un attaquant de réussir une…| 18 septembre 2024|
- |[ 49461309/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper-0)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 13 septembre 2024|
- |[ 49451309/24 - Vulnérabilité dans les dispositifs NAS de Zyxel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-dispositifs-nas-de-zyxel)| Une vulnérabilité a été corrigée dans certaines versions des dispositifs NAS du constructeur ZyXEL. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'exécuter…| 13 septembre 2024|
- |[ 49441309/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 13 septembre 2024|
- |[ 49431309/24 - Vulnérabilité critique dans Docker Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-docker-desktop)| Docker annonce la publication d’une nouvelle mise à jour qui corrige une vulnérabilitécritique dans Docker Desktop. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code…| 13 septembre 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1272/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1271/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1270/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1269/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1268/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1267/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor JB2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1266/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -183,4 +149,38 @@
  |[Dell security advisory (AV24-524)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-524)|Visit link for details|2024-09-16|
  |[[Control systems] CISA ICS security advisories (AV24-523)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523)|Visit link for details|2024-09-16|
  |[IBM security advisory (AV24-522)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-522)|Visit link for details|2024-09-16|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Acronis - CVE-2024-8767](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-8767-2024-09-18)|Visit link for details.|18/09/2024|
+ |[Apple - CVE-2024-44202](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44202-2024-09-18)|Visit link for details.|18/09/2024|
+ |[Google - CVE-2024-8904](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8904-2024-09-18)|Visit link for details.|18/09/2024|
+ |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|18/09/2024|
+ |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|18/09/2024|
+ |[SolarWinds - CVE-2024-28990](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28990-2024-09-17)|Visit link for details.|17/09/2024|
+ |[Red Hat - CVE-2024-45496](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-cve-2024-45496-2024-09-17)|Visit link for details.|17/09/2024|
+ |[Moby/Juniper - CVE-2023-28840](https://www.cyberveille-sante.gouv.fr/alertes/mobyjuniper-cve-2023-28840-2024-09-17)|Visit link for details.|17/09/2024|
+ |[Ingress-nginx/Juniper - CVE-2023-5043](https://www.cyberveille-sante.gouv.fr/alertes/ingress-nginxjuniper-cve-2023-5043-2024-09-17)|Visit link for details.|17/09/2024|
+ |[D-Link - CVE-2024-45694](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45694-2024-09-17)|Visit link for details.|17/09/2024|
+ |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|16/09/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49531809/24 - Vulnérabilité critique affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction d’une vulnérabilité critique affectant son produit Access Rights Manager. L'exploitation de  cette vulnérabilité peut permettre à un attaquant distant d’exécuter du…| 18 septembre 2024|
+ |[ 49521809/24 - Vulnérabilités affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab)| GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 18 septembre 2024|
+ |[ 49511809/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance. | 18 septembre 2024|
+ |[ 49501809/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-2)| Deux vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service. | 18 septembre 2024|
+ |[ 49491809/24 - Vulnérabilités critiques dans D-Link routeur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-d-link-routeur-0)| D-Link a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dont trois sont critiques, affectant leurs routeurs susmentionnés.Les vulnérabilités sont les suivantes…| 18 septembre 2024|
+ |[ 49481809/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-1)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 18 septembre 2024|
+ |[ 49471809/24 - Vulnérabilités critiques dans VMware vCenter et Cloud Foundation ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vmware-vcenter-et-cloud-foundation)| Deux vulnérabilités critiques ont été corrigées dans les versions susmentionnées de serveur vCenter et Cloud Foundation. L’exploitation de ces failles peut permettre à un attaquant de réussir une…| 18 septembre 2024|
+ |[ 49461309/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper-0)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 13 septembre 2024|
+ |[ 49451309/24 - Vulnérabilité dans les dispositifs NAS de Zyxel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-dispositifs-nas-de-zyxel)| Une vulnérabilité a été corrigée dans certaines versions des dispositifs NAS du constructeur ZyXEL. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'exécuter…| 13 septembre 2024|
+ |[ 49441309/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 13 septembre 2024|
+ |[ 49431309/24 - Vulnérabilité critique dans Docker Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-docker-desktop)| Docker annonce la publication d’une nouvelle mise à jour qui corrige une vulnérabilitécritique dans Docker Desktop. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code…| 13 septembre 2024|
  
