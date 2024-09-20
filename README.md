@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/09/2024 08:23:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/09/2024 09:24:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,12 +68,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -90,15 +84,21 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Keycloak privilege escalation (CVE-2024-8698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
- |[Keycloak open redirect (CVE-2024-8883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
- |[Microsoft Office Visio code execution (CVE-2024-38016)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
- |[Microsoft Edge (Chromium-based) spoofing (CVE-2024-38221)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
- |[Ivanti Cloud Services Appliance directory traversal (CVE-2024-8963)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
+ |[Traefik weak security (CVE-2024-45410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
+ |[Dragonfly2 default account (CVE-2023-27584)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
+ |[grafana-plugin-sdk-go information disclosure (CVE-2024-8986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
+ |[ZITADEL security bypass (CVE-2024-47000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -151,23 +151,6 @@
  |[IBM security advisory (AV24-522)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-522)|Visit link for details|2024-09-16|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab EE - CVE-2024-8640](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ee-cve-2024-8640-2024-09-19)|Visit link for details.|19/09/2024|
- |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|19/09/2024|
- |[D-Link - CVE-2024-44589](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44589-2024-09-19)|Visit link for details.|19/09/2024|
- |[AVG - CVE-2024-6510](https://www.cyberveille-sante.gouv.fr/alertes/avg-cve-2024-6510-2024-09-19)|Visit link for details.|19/09/2024|
- |[Mozilla - CVE-2024-8897](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-8897-2024-09-19)|Visit link for details.|19/09/2024|
- |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|19/09/2024|
- |[Acronis - CVE-2024-8767](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-8767-2024-09-18)|Visit link for details.|18/09/2024|
- |[Apple - CVE-2024-44202](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44202-2024-09-18)|Visit link for details.|18/09/2024|
- |[Google - CVE-2024-8904](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8904-2024-09-18)|Visit link for details.|18/09/2024|
- |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|18/09/2024|
- |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|18/09/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 49461309/24 - Vulnérabilité dans les produits Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-juniper-0)| Juniper annonce la correction d’une vulnérabilité dans les versions susmentionnées de Junos OS et Junos OS Evolved. L’exploitation de cette faille peut permettre à un attaquant de causer un déni  de…| 13 septembre 2024|
  |[ 49451309/24 - Vulnérabilité dans les dispositifs NAS de Zyxel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-dispositifs-nas-de-zyxel)| Une vulnérabilité a été corrigée dans certaines versions des dispositifs NAS du constructeur ZyXEL. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'exécuter…| 13 septembre 2024|
  |[ 49441309/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-7)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 13 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab EE - CVE-2024-8640](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ee-cve-2024-8640-2024-09-19)|Visit link for details.|19/09/2024|
+ |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|19/09/2024|
+ |[D-Link - CVE-2024-44589](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44589-2024-09-19)|Visit link for details.|19/09/2024|
+ |[AVG - CVE-2024-6510](https://www.cyberveille-sante.gouv.fr/alertes/avg-cve-2024-6510-2024-09-19)|Visit link for details.|19/09/2024|
+ |[Mozilla - CVE-2024-8897](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-8897-2024-09-19)|Visit link for details.|19/09/2024|
+ |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|19/09/2024|
+ |[Acronis - CVE-2024-8767](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-8767-2024-09-18)|Visit link for details.|18/09/2024|
+ |[Apple - CVE-2024-44202](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44202-2024-09-18)|Visit link for details.|18/09/2024|
+ |[Google - CVE-2024-8904](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-8904-2024-09-18)|Visit link for details.|18/09/2024|
+ |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|18/09/2024|
+ |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|18/09/2024|
  
