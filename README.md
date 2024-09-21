@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/09/2024 10:19:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/09/2024 11:27:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -82,12 +88,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 19 Sep 2024 |
  |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in VMware products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 19 Sep 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -117,23 +117,6 @@
  |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
- |[Drupal security advisory (AV24-532)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-532)|Visit link for details|2024-09-18|
- |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
- |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
- |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
- |[VMware security advisory (AV24-528)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-09-18|
- |[Atlassian security advisory (AV24-527)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-527)|Visit link for details|2024-09-18|
- |[HPE security advisory (AV24-526)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-526)|Visit link for details|2024-09-17|
- |[Apple security advisory (AV24-525)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-525)|Visit link for details|2024-09-17|
- |[Dell security advisory (AV24-524)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-524)|Visit link for details|2024-09-16|
- |[[Control systems] CISA ICS security advisories (AV24-523)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523)|Visit link for details|2024-09-16|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -149,6 +132,23 @@
  |[2024-093: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-093/)|On September 10, 2024, Microsoft addressed 79 vulnerabilities in its September 2024 Patch Tuesday update, including four zero-day vulnerabilities. This Patch Tuesday also fixes seven critical vulnerabilities.|Wednesday, September 11, 2024 06:46:14 PM CEST|
  |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
  |[2024-091: High Severity Vulnerability in VMware Fusion for MacOS](https://cert.europa.eu/publications/security-advisories/2024-091/)|On September 3, 2024, Broadcom disclosed a high-severity vulnerability in VMware Fusion, which could allow attackers to execute arbitrary code on macOS systems.|Wednesday, September 04, 2024 09:49:34 AM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
+ |[Drupal security advisory (AV24-532)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-532)|Visit link for details|2024-09-18|
+ |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
+ |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
+ |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
+ |[VMware security advisory (AV24-528)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-09-18|
+ |[Atlassian security advisory (AV24-527)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-527)|Visit link for details|2024-09-18|
+ |[HPE security advisory (AV24-526)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-526)|Visit link for details|2024-09-17|
+ |[Apple security advisory (AV24-525)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-525)|Visit link for details|2024-09-17|
+ |[Dell security advisory (AV24-524)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-524)|Visit link for details|2024-09-16|
+ |[[Control systems] CISA ICS security advisories (AV24-523)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523)|Visit link for details|2024-09-16|
  
 
 # CERT-SANTE
