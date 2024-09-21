@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/09/2024 16:15:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/09/2024 17:36:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229](https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229)|Visit link for details.|Sep 20, 2024|
+ |[Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance)|Visit link for details.|Sep 19, 2024|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/19/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2024|
+ |[VMware Releases Security Advisory for VMware Cloud Foundation and vCenter Server](https://www.cisa.gov/news-events/alerts/2024/09/19/vmware-releases-security-advisory-vmware-cloud-foundation-and-vcenter-server)|Visit link for details.|Sep 19, 2024|
+ |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/18/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/18/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 18, 2024|
+ |[CISA and FBI Release Secure by Design Alert on Eliminating Cross-Site Scripting Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-and-fbi-release-secure-design-alert-eliminating-cross-site-scripting-vulnerabilities)|Visit link for details.|Sep 17, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 17, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 17, 2024|
+ |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,45 +62,16 @@
  |[USN-7021-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-1-linux-kernel-vulnerabilities.52700/)|Visit link for details.|Sep 18, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229](https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229)|Visit link for details.|Sep 20, 2024|
- |[Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance)|Visit link for details.|Sep 19, 2024|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/19/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2024|
- |[VMware Releases Security Advisory for VMware Cloud Foundation and vCenter Server](https://www.cisa.gov/news-events/alerts/2024/09/19/vmware-releases-security-advisory-vmware-cloud-foundation-and-vcenter-server)|Visit link for details.|Sep 19, 2024|
- |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/18/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/18/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 18, 2024|
- |[CISA and FBI Release Secure by Design Alert on Eliminating Cross-Site Scripting Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-and-fbi-release-secure-design-alert-eliminating-cross-site-scripting-vulnerabilities)|Visit link for details.|Sep 17, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 17, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 17, 2024|
- |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Versa Networks Versa Director information disclosure (CVE-2024-45229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2024|
- |[Apex Softcell LD DP Back Office security bypass (CVE-2024-47086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
- |[Apex Softcell LD Geo security bypass (CVE-2024-47089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
- |[Apex Softcell LD Geo information disclosure (CVE-2024-47087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -101,6 +88,19 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 19 Sep 2024 |
  |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in VMware products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 19 Sep 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Versa Networks Versa Director information disclosure (CVE-2024-45229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2024|
+ |[Apex Softcell LD DP Back Office security bypass (CVE-2024-47086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
+ |[Apex Softcell LD Geo security bypass (CVE-2024-47089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
+ |[Apex Softcell LD Geo information disclosure (CVE-2024-47087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
