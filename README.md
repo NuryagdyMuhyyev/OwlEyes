@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/09/2024 13:23:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/09/2024 14:19:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,7 +46,7 @@
  |[USN-7021-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-1-linux-kernel-vulnerabilities.52700/)|Visit link for details.|Sep 18, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -72,6 +66,12 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 17, 2024|
  |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 17, 2024|
  |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -98,7 +98,7 @@
  |[Apex Softcell LD DP Back Office security bypass (CVE-2024-47086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
  |[Apex Softcell LD Geo security bypass (CVE-2024-47089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
  |[Apex Softcell LD Geo information disclosure (CVE-2024-47087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Apex Softcell LD Geo security bypass (CVE-2024-47088)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -115,23 +115,6 @@
  |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1267/)|Visit link for details|2024-09-17|
  |[PDF-XChange Editor JB2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1266/)|Visit link for details|2024-09-17|
  |[PDF-XChange Editor RTF File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1265/)|Visit link for details|2024-09-17|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
- |[2024-100: Critical RCE Vulnerability in VMware vCenter Server](https://cert.europa.eu/publications/security-advisories/2024-100/)|On September 17, 2024, Broadcom released a fix for a critical vulnerability tracked as CVE-2024-38812 in VMware vCenter Server, enabling remote code execution (RCE) via a specially crafted network packet.|Wednesday, September 18, 2024 02:32:53 PM CEST|
- |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
- |[2024-098: Command Injection Vulnerability in PaloAlto PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-098/)|On September 11, 2024, a high-severity command injection vulnerability has been addressed in PaloAlto PAN-OS. If exploited, this flaw could allow an authenticated attacker to execute arbitrary commands as root on the firewall.|Monday, September 16, 2024 02:05:51 PM CEST|
- |[2024-097: Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-097/)|On September 12, 2024, Solarwinds released several advisories addressingtwo critical vulnerabilities in SolarWinds Access Rights Manager (ARM). These vulnerabilities, if exploited, could lead to authenticated remote code execution, and authentication bypass[2].|Monday, September 16, 2024 02:05:24 PM CEST|
- |[2024-096: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-096/)|On September 11, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger pipelines as arbitrary users under certain conditions.|Friday, September 13, 2024 05:05:42 PM CEST|
- |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
- |[2024-094: Critical Vulnerabilities in Ivanti EPM](https://cert.europa.eu/publications/security-advisories/2024-094/)|On September 10, 2024, Ivanti addressed several critical and high security vulnerabilities its Endpoint Manager (EPM) product.|Wednesday, September 11, 2024 06:46:40 PM CEST|
- |[2024-093: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-093/)|On September 10, 2024, Microsoft addressed 79 vulnerabilities in its September 2024 Patch Tuesday update, including four zero-day vulnerabilities. This Patch Tuesday also fixes seven critical vulnerabilities.|Wednesday, September 11, 2024 06:46:14 PM CEST|
- |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
- |[2024-091: High Severity Vulnerability in VMware Fusion for MacOS](https://cert.europa.eu/publications/security-advisories/2024-091/)|On September 3, 2024, Broadcom disclosed a high-severity vulnerability in VMware Fusion, which could allow attackers to execute arbitrary code on macOS systems.|Wednesday, September 04, 2024 09:49:34 AM CEST|
  
 
 # CA-CCS
@@ -183,4 +166,21 @@
  |[AVG - CVE-2024-6510](https://www.cyberveille-sante.gouv.fr/alertes/avg-cve-2024-6510-2024-09-19)|Visit link for details.|19/09/2024|
  |[Mozilla - CVE-2024-8897](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-8897-2024-09-19)|Visit link for details.|19/09/2024|
  |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|19/09/2024|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
+ |[2024-100: Critical RCE Vulnerability in VMware vCenter Server](https://cert.europa.eu/publications/security-advisories/2024-100/)|On September 17, 2024, Broadcom released a fix for a critical vulnerability tracked as CVE-2024-38812 in VMware vCenter Server, enabling remote code execution (RCE) via a specially crafted network packet.|Wednesday, September 18, 2024 02:32:53 PM CEST|
+ |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
+ |[2024-098: Command Injection Vulnerability in PaloAlto PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-098/)|On September 11, 2024, a high-severity command injection vulnerability has been addressed in PaloAlto PAN-OS. If exploited, this flaw could allow an authenticated attacker to execute arbitrary commands as root on the firewall.|Monday, September 16, 2024 02:05:51 PM CEST|
+ |[2024-097: Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-097/)|On September 12, 2024, Solarwinds released several advisories addressingtwo critical vulnerabilities in SolarWinds Access Rights Manager (ARM). These vulnerabilities, if exploited, could lead to authenticated remote code execution, and authentication bypass[2].|Monday, September 16, 2024 02:05:24 PM CEST|
+ |[2024-096: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-096/)|On September 11, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger pipelines as arbitrary users under certain conditions.|Friday, September 13, 2024 05:05:42 PM CEST|
+ |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
+ |[2024-094: Critical Vulnerabilities in Ivanti EPM](https://cert.europa.eu/publications/security-advisories/2024-094/)|On September 10, 2024, Ivanti addressed several critical and high security vulnerabilities its Endpoint Manager (EPM) product.|Wednesday, September 11, 2024 06:46:40 PM CEST|
+ |[2024-093: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-093/)|On September 10, 2024, Microsoft addressed 79 vulnerabilities in its September 2024 Patch Tuesday update, including four zero-day vulnerabilities. This Patch Tuesday also fixes seven critical vulnerabilities.|Wednesday, September 11, 2024 06:46:14 PM CEST|
+ |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
+ |[2024-091: High Severity Vulnerability in VMware Fusion for MacOS](https://cert.europa.eu/publications/security-advisories/2024-091/)|On September 3, 2024, Broadcom disclosed a high-severity vulnerability in VMware Fusion, which could allow attackers to execute arbitrary code on macOS systems.|Wednesday, September 04, 2024 09:49:34 AM CEST|
  
