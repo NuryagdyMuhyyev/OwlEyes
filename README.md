@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/09/2024 04:18:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/09/2024 06:44:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,22 +68,6 @@
  |---|---|---|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240920)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 20 Sep 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities-26)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and bypass security restriction on the targeted system. [Updated on 2024-09-19...| Release Date: 15 Jul 2020 |
- |[Microsoft Monthly Security Update (Jun 2019)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-jun-2019)|[Updated on 2024-09-19]Updated Risk Level, Description, Source and Related Links.CVE-2019-1069 vulnerability is exploited in the wild. An elevation of privilege vulnerability exists in the way the Task Scheduler Service validates certain file operations. ...| Release Date: 12 Jun 2019 |
- |[Microsoft Monthly Security Update (Feb 2020)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-feb-2020)|[Updated on 2024-09-19]Updated Description, Source and Related Links.CVE-2020-0618 vulnerability is exploited in the wild. A remote code execution vulnerability exists in Microsoft SQL Server Reporting Services when it incorrectly handles page requests. An attacker...| Release Date: 12 Feb 2020 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
- |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 19 Sep 2024 |
- |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in VMware products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 19 Sep 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -98,9 +82,25 @@
  |[Apex Softcell LD DP Back Office security bypass (CVE-2024-47086)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
  |[Apex Softcell LD Geo security bypass (CVE-2024-47089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
  |[Apex Softcell LD Geo information disclosure (CVE-2024-47087)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
- |[Apex Softcell LD Geo security bypass (CVE-2024-47088)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240920)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 20 Sep 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities-26)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and bypass security restriction on the targeted system. [Updated on 2024-09-19...| Release Date: 15 Jul 2020 |
+ |[Microsoft Monthly Security Update (Jun 2019)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-jun-2019)|[Updated on 2024-09-19]Updated Risk Level, Description, Source and Related Links.CVE-2019-1069 vulnerability is exploited in the wild. An elevation of privilege vulnerability exists in the way the Task Scheduler Service validates certain file operations. ...| Release Date: 12 Jun 2019 |
+ |[Microsoft Monthly Security Update (Feb 2020)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-feb-2020)|[Updated on 2024-09-19]Updated Description, Source and Related Links.CVE-2020-0618 vulnerability is exploited in the wild. A remote code execution vulnerability exists in Microsoft SQL Server Reporting Services when it incorrectly handles page requests. An attacker...| Release Date: 12 Feb 2020 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
+ |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 19 Sep 2024 |
+ |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in VMware products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 19 Sep 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and spoofing on the targeted system. [Updated on 2024-09-...| Release Date: 4 Sep 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -151,23 +151,6 @@
  |[[Control systems] CISA ICS security advisories (AV24-523)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523)|Visit link for details|2024-09-16|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple - CVE-2024-44132](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44132-2024-09-20)|Visit link for details.|20/09/2024|
- |[Aruba - CVE-2024-42501](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-42501-2024-09-20)|Visit link for details.|20/09/2024|
- |[Ivanti - CVE-2024-8963](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8963-2024-09-20)|Visit link for details.|20/09/2024|
- |[Microsoft - CVE-2024-38016](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38016-2024-09-20)|Visit link for details.|20/09/2024|
- |[VMware - CVE-2024-38813](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38813-2024-09-20)|Visit link for details.|20/09/2024|
- |[GitLab EE - CVE-2024-8640](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ee-cve-2024-8640-2024-09-19)|Visit link for details.|19/09/2024|
- |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|19/09/2024|
- |[D-Link - CVE-2024-44589](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44589-2024-09-19)|Visit link for details.|19/09/2024|
- |[AVG - CVE-2024-6510](https://www.cyberveille-sante.gouv.fr/alertes/avg-cve-2024-6510-2024-09-19)|Visit link for details.|19/09/2024|
- |[Mozilla - CVE-2024-8897](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-8897-2024-09-19)|Visit link for details.|19/09/2024|
- |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|19/09/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 49511809/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance. | 18 septembre 2024|
  |[ 49501809/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-2)| Deux vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service. | 18 septembre 2024|
  |[ 49491809/24 - Vulnérabilités critiques dans D-Link routeur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-d-link-routeur-0)| D-Link a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dont trois sont critiques, affectant leurs routeurs susmentionnés.Les vulnérabilités sont les suivantes…| 18 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple - CVE-2024-44132](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44132-2024-09-20)|Visit link for details.|20/09/2024|
+ |[Aruba - CVE-2024-42501](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-42501-2024-09-20)|Visit link for details.|20/09/2024|
+ |[Ivanti - CVE-2024-8963](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8963-2024-09-20)|Visit link for details.|20/09/2024|
+ |[Microsoft - CVE-2024-38016](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38016-2024-09-20)|Visit link for details.|20/09/2024|
+ |[VMware - CVE-2024-38813](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38813-2024-09-20)|Visit link for details.|20/09/2024|
+ |[GitLab EE - CVE-2024-8640](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-ee-cve-2024-8640-2024-09-19)|Visit link for details.|19/09/2024|
+ |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|19/09/2024|
+ |[D-Link - CVE-2024-44589](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-44589-2024-09-19)|Visit link for details.|19/09/2024|
+ |[AVG - CVE-2024-6510](https://www.cyberveille-sante.gouv.fr/alertes/avg-cve-2024-6510-2024-09-19)|Visit link for details.|19/09/2024|
+ |[Mozilla - CVE-2024-8897](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-8897-2024-09-19)|Visit link for details.|19/09/2024|
+ |[Ivanti - CVE-2024-8190](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8190-2024-09-16)|Visit link for details.|19/09/2024|
  
