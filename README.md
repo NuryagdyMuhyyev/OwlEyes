@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/09/2024 14:22:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/09/2024 15:23:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229](https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229)|Visit link for details.|Sep 20, 2024|
- |[Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance)|Visit link for details.|Sep 19, 2024|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/19/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2024|
- |[VMware Releases Security Advisory for VMware Cloud Foundation and vCenter Server](https://www.cisa.gov/news-events/alerts/2024/09/19/vmware-releases-security-advisory-vmware-cloud-foundation-and-vcenter-server)|Visit link for details.|Sep 19, 2024|
- |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/18/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/18/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 18, 2024|
- |[CISA and FBI Release Secure by Design Alert on Eliminating Cross-Site Scripting Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-and-fbi-release-secure-design-alert-eliminating-cross-site-scripting-vulnerabilities)|Visit link for details.|Sep 17, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 17, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 17, 2024|
- |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-6992-2: Firefox regressions](https://www.linux.org/threads/usn-6992-2-firefox-regressions.52903/)|Visit link for details.|Sep 23, 2024|
  |[DSA-5774-1 ruby-saml - security update](https://www.linux.org/threads/dsa-5774-1-ruby-saml-security-update.52758/)|Visit link for details.|Sep 20, 2024|
  |[DSA-5773-1 chromium - security update](https://www.linux.org/threads/dsa-5773-1-chromium-security-update.52738/)|Visit link for details.|Sep 20, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229](https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229)|Visit link for details.|Sep 20, 2024|
+ |[Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance)|Visit link for details.|Sep 19, 2024|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/19/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Sep 19, 2024|
+ |[VMware Releases Security Advisory for VMware Cloud Foundation and vCenter Server](https://www.cisa.gov/news-events/alerts/2024/09/19/vmware-releases-security-advisory-vmware-cloud-foundation-and-vcenter-server)|Visit link for details.|Sep 19, 2024|
+ |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/18/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/18/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 18, 2024|
+ |[CISA and FBI Release Secure by Design Alert on Eliminating Cross-Site Scripting Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-and-fbi-release-secure-design-alert-eliminating-cross-site-scripting-vulnerabilities)|Visit link for details.|Sep 17, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 17, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 17, 2024|
+ |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
  
 
 # CERT-FR
@@ -84,6 +84,12 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 19 Sep 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -95,12 +101,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -151,6 +151,23 @@
  |[VMware security advisory (AV24-528)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-09-18|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49652409/24 - Vulnérabilité critique affectant Apache HugeGraph-Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-hugegraph-server)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache HugeGraph-Server. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 24 septembre 2024|
+ |[ 49642409/24 - Vulnérabilité dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-tomcat-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 24 septembre 2024|
+ |[ 49632309/24 - Vulnérabilités dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-eset)| Deux vulnérabilités ont été corrigées dans les produits ESET susmentionnés. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges et de causer un déni de service.| 23 septembre 2024|
+ |[ 49622309/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-14)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 23 septembre 2024|
+ |[ 49612309/24 - Vulnérabilité dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-versa-director)| Une vulnérabilité a été corrigée dans Versa Director. Versa Director est une plateforme de gestion centralisée développée par Versa Networks, qui permet d'orchestrer, d'automatiser et de surveiller…| 23 septembre 2024|
+ |[ 49602309/24 - Vulnérabilité critique dans le CMS SPIP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-spip)| Une vulnérabilité critique a été corrigée dans le CMS SPIP. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'envoyer des requêtes HTTP (Hypertext Transfer Protocol)…| 23 septembre 2024|
+ |[ 49592009/24 - Vulnérabilité critique affectant le module « Smart IP Ban » du CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-smart-ip-ban-du-cms-drupal)| Veuillez se référer au bulletin de sécurité de Drupal afin d'installer la nouvelle mise à jour| 20 septembre 2024|
+ |[ 49582009/24 - Vulnérabilité dans les produits Microsoft Visio 2016 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-visio-2016)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft Visio 2016 susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
+ |[ 49572009/24 - Vulnérabilité dans Microsoft Office ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-office)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft office susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
+ |[ 49562009/24 - Vulnérabilité critique dans Ivanti Cloud Services Appliance ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-cloud-services-appliance)| Une vulnérabilité critique a été corrigée dans Ivanti Cloud Service Appliance (CSA). L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.Ivanti…| 20 septembre 2024|
+ |[ 49552009/24 - Vulnérabilités critiques dans Rockwell Automation Pavilion8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-rockwell-automation-pavilion8)| Rockwell Automation a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant Pavilion8. L’exploitation de ces failles peut permettre à un attaquant de porter…| 20 septembre 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -166,21 +183,4 @@
  |[Ivanti - CVE-2024-8963](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8963-2024-09-20)|Visit link for details.|20/09/2024|
  |[Microsoft - CVE-2024-38016](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38016-2024-09-20)|Visit link for details.|20/09/2024|
  |[VMware - CVE-2024-38813](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38813-2024-09-20)|Visit link for details.|20/09/2024|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49632309/24 - Vulnérabilités dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-eset)| Deux vulnérabilités ont été corrigées dans les produits ESET susmentionnés. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges et de causer un déni de service.| 23 septembre 2024|
- |[ 49622309/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-14)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 23 septembre 2024|
- |[ 49612309/24 - Vulnérabilité dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-versa-director)| Une vulnérabilité a été corrigée dans Versa Director. Versa Director est une plateforme de gestion centralisée développée par Versa Networks, qui permet d'orchestrer, d'automatiser et de surveiller…| 23 septembre 2024|
- |[ 49602309/24 - Vulnérabilité critique dans le CMS SPIP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-spip)| Une vulnérabilité critique a été corrigée dans le CMS SPIP. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'envoyer des requêtes HTTP (Hypertext Transfer Protocol)…| 23 septembre 2024|
- |[ 49592009/24 - Vulnérabilité critique affectant le module « Smart IP Ban » du CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-smart-ip-ban-du-cms-drupal)| Veuillez se référer au bulletin de sécurité de Drupal afin d'installer la nouvelle mise à jour| 20 septembre 2024|
- |[ 49582009/24 - Vulnérabilité dans les produits Microsoft Visio 2016 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-visio-2016)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft Visio 2016 susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
- |[ 49572009/24 - Vulnérabilité dans Microsoft Office ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-office)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft office susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
- |[ 49562009/24 - Vulnérabilité critique dans Ivanti Cloud Services Appliance ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-cloud-services-appliance)| Une vulnérabilité critique a été corrigée dans Ivanti Cloud Service Appliance (CSA). L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.Ivanti…| 20 septembre 2024|
- |[ 49552009/24 - Vulnérabilités critiques dans Rockwell Automation Pavilion8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-rockwell-automation-pavilion8)| Rockwell Automation a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant Pavilion8. L’exploitation de ces failles peut permettre à un attaquant de porter…| 20 septembre 2024|
- |[ 49541909/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-13)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 septembre 2024|
- |[ 49531809/24 - Vulnérabilité critique affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction d’une vulnérabilité critique affectant son produit Access Rights Manager. L'exploitation de  cette vulnérabilité peut permettre à un attaquant distant d’exécuter du…| 18 septembre 2024|
  
