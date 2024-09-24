@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/09/2024 20:22:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/09/2024 21:26:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,6 +74,19 @@
  |---|---|---|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple Zyxel products denial of service (CVE-2024-38269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[Multiple Zyxel products denial of service (CVE-2024-38268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[Multiple Zyxel products denial of service (CVE-2024-38267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[Multiple Zyxel products denial of service (CVE-2024-38266)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -88,19 +101,6 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
  |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 19 Sep 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiple Zyxel products denial of service (CVE-2024-38269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[Multiple Zyxel products denial of service (CVE-2024-38268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[Multiple Zyxel products denial of service (CVE-2024-38267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[Multiple Zyxel products denial of service (CVE-2024-38266)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -172,15 +172,15 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[GitLab - CVE-2024-8124](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8124-2024-09-24)|Visit link for details.|24/09/2024|
+ |[ESET - CVE-2024-7400](https://www.cyberveille-sante.gouv.fr/alertes/eset-cve-2024-7400-2024-09-24)|Visit link for details.|24/09/2024|
+ |[D-Link - CVE-2024-45697](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45697-2024-09-24)|Visit link for details.|24/09/2024|
+ |[HPE Aruba - CVE-2024-42503](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42503-2024-09-24)|Visit link for details.|24/09/2024|
+ |[Apple - CVE-2024-27876](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27876-2024-09-24)|Visit link for details.|24/09/2024|
  |[HPE Aruba - CVE-2024-42502](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42502-2024-09-23)|Visit link for details.|23/09/2024|
  |[D-Link - CVE-2024-45695](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45695-2024-09-23)|Visit link for details.|23/09/2024|
  |[GitLab - CVE-2024-8635](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8635-2024-09-23)|Visit link for details.|23/09/2024|
  |[Linux - CVE-2024-46800](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46800-2024-09-23)|Visit link for details.|23/09/2024|
  |[Red Hat KeyCloak - CVE-2024-8698](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-keycloak-cve-2024-8698-2024-09-23)|Visit link for details.|23/09/2024|
  |[Google Chrome - CVE-2024-7965](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-7965-2024-08-27)|Visit link for details.|23/09/2024|
- |[Apple - CVE-2024-44132](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44132-2024-09-20)|Visit link for details.|20/09/2024|
- |[Aruba - CVE-2024-42501](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2024-42501-2024-09-20)|Visit link for details.|20/09/2024|
- |[Ivanti - CVE-2024-8963](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8963-2024-09-20)|Visit link for details.|20/09/2024|
- |[Microsoft - CVE-2024-38016](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38016-2024-09-20)|Visit link for details.|20/09/2024|
- |[VMware - CVE-2024-38813](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38813-2024-09-20)|Visit link for details.|20/09/2024|
  
