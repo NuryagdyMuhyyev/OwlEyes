@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/09/2024 13:28:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/09/2024 14:22:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[New CISA Plan Aligns Federal Agencies in Cyber Defense](https://www.cisa.gov/news-events/alerts/2024/09/16/new-cisa-plan-aligns-federal-agencies-cyber-defense)|Visit link for details.|Sep 16, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,7 +62,7 @@
  |[DSA-5773-1 chromium - security update](https://www.linux.org/threads/dsa-5773-1-chromium-security-update.52738/)|Visit link for details.|Sep 20, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -88,6 +82,19 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
  |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 19 Sep 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple Zyxel products denial of service (CVE-2024-38269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[Multiple Zyxel products denial of service (CVE-2024-38268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[Multiple Zyxel products denial of service (CVE-2024-38267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[Multiple Zyxel products denial of service (CVE-2024-38266)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
@@ -127,6 +134,23 @@
  |[2024-091: High Severity Vulnerability in VMware Fusion for MacOS](https://cert.europa.eu/publications/security-advisories/2024-091/)|On September 3, 2024, Broadcom disclosed a high-severity vulnerability in VMware Fusion, which could allow attackers to execute arbitrary code on macOS systems.|Wednesday, September 04, 2024 09:49:34 AM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
+ |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
+ |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
+ |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
+ |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
+ |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
+ |[Drupal security advisory (AV24-532)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-532)|Visit link for details|2024-09-18|
+ |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
+ |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
+ |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
+ |[VMware security advisory (AV24-528)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-09-18|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -159,21 +183,4 @@
  |[ 49552009/24 - Vulnérabilités critiques dans Rockwell Automation Pavilion8 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-rockwell-automation-pavilion8)| Rockwell Automation a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant Pavilion8. L’exploitation de ces failles peut permettre à un attaquant de porter…| 20 septembre 2024|
  |[ 49541909/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-13)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 septembre 2024|
  |[ 49531809/24 - Vulnérabilité critique affectant SolarWinds Access Rights Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-solarwinds-access-rights-manager)| SolarWinds annonce la correction d’une vulnérabilité critique affectant son produit Access Rights Manager. L'exploitation de  cette vulnérabilité peut permettre à un attaquant distant d’exécuter du…| 18 septembre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
- |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
- |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
- |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
- |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
- |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
- |[Drupal security advisory (AV24-532)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-532)|Visit link for details|2024-09-18|
- |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
- |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
- |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
- |[VMware security advisory (AV24-528)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-09-18|
  
