@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/09/2024 16:18:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/09/2024 17:41:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Sep 17, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -74,6 +68,12 @@
  |---|---|---|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -88,33 +88,6 @@
  |[Microsoft Monthly Security Update (Feb 2020)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-feb-2020)|[Updated on 2024-09-19]Updated Description, Source and Related Links.CVE-2020-0618 vulnerability is exploited in the wild. A remote code execution vulnerability exists in Microsoft SQL Server Reporting Services when it incorrectly handles page requests. An attacker...| Release Date: 12 Feb 2020 |
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
  |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE Aruba OS command execution (CVE-2024-42505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[HPE Aruba OS command execution (CVE-2024-42506)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[HPE Aruba OS command execution (CVE-2024-42507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[Scriptcase file upload (CVE-2024-8940)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[Scriptcase directory traversal (CVE-2024-8941)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) FastStone Image Viewer GIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1275/)|Visit link for details|2024-09-23|
- |[(0Day) FastStone Image Viewer TGA File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1274/)|Visit link for details|2024-09-23|
- |[(0Day) FastStone Image Viewer PSD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1273/)|Visit link for details|2024-09-23|
- |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1272/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1271/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1270/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1269/)|Visit link for details|2024-09-17|
- |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1268/)|Visit link for details|2024-09-17|
  
 
 # EU-CERT
@@ -132,23 +105,6 @@
  |[2024-094: Critical Vulnerabilities in Ivanti EPM](https://cert.europa.eu/publications/security-advisories/2024-094/)|On September 10, 2024, Ivanti addressed several critical and high security vulnerabilities its Endpoint Manager (EPM) product.|Wednesday, September 11, 2024 06:46:40 PM CEST|
  |[2024-093: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-093/)|On September 10, 2024, Microsoft addressed 79 vulnerabilities in its September 2024 Patch Tuesday update, including four zero-day vulnerabilities. This Patch Tuesday also fixes seven critical vulnerabilities.|Wednesday, September 11, 2024 06:46:14 PM CEST|
  |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49682509/24 - Vulnérabilité critique dans pgAdmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pgadm1n)| Une vulnérabilité critique a été corrigée dans pgAdmin, un outil de gestion open source largement utilisé pour les bases de données PostgreSQL. Cette vulnérabilité pourrait permettre à un attaquant…| 25 septembre 2024|
- |[ 49662409/24 - Mise à jour de sécurité pour Google Chrome OS ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-google-chrome-os)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités       affectant le Système d’exploitation Google Chrome OS. L'exploitation  de ces vulnérabilités…| 24 septembre 2024|
- |[ 49672409/24 - Vulnérabilité dans TheGreenBow VPN Client ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-thegreenbow-vpn-client)| Une vulnérabilité a été corrigée dans les versions susmentionnées TheGreenBow VPN Client. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 24 septembre 2024|
- |[ 49652409/24 - Vulnérabilité critique affectant Apache HugeGraph-Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-hugegraph-server)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache HugeGraph-Server. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 24 septembre 2024|
- |[ 49642409/24 - Vulnérabilité dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-tomcat-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 24 septembre 2024|
- |[ 49632309/24 - Vulnérabilités dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-eset)| Deux vulnérabilités ont été corrigées dans les produits ESET susmentionnés. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges et de causer un déni de service.| 23 septembre 2024|
- |[ 49622309/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-14)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 23 septembre 2024|
- |[ 49612309/24 - Vulnérabilité dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-versa-director)| Une vulnérabilité a été corrigée dans Versa Director. Versa Director est une plateforme de gestion centralisée développée par Versa Networks, qui permet d'orchestrer, d'automatiser et de surveiller…| 23 septembre 2024|
- |[ 49602309/24 - Vulnérabilité critique dans le CMS SPIP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-spip)| Une vulnérabilité critique a été corrigée dans le CMS SPIP. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'envoyer des requêtes HTTP (Hypertext Transfer Protocol)…| 23 septembre 2024|
- |[ 49592009/24 - Vulnérabilité critique affectant le module « Smart IP Ban » du CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-smart-ip-ban-du-cms-drupal)| Veuillez se référer au bulletin de sécurité de Drupal afin d'installer la nouvelle mise à jour| 20 septembre 2024|
- |[ 49582009/24 - Vulnérabilité dans les produits Microsoft Visio 2016 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-visio-2016)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft Visio 2016 susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
  
 
 # CERT-SANTE
@@ -183,4 +139,48 @@
  |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
  |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
  |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) FastStone Image Viewer GIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1275/)|Visit link for details|2024-09-23|
+ |[(0Day) FastStone Image Viewer TGA File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1274/)|Visit link for details|2024-09-23|
+ |[(0Day) FastStone Image Viewer PSD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1273/)|Visit link for details|2024-09-23|
+ |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1272/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1271/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1270/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1269/)|Visit link for details|2024-09-17|
+ |[PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1268/)|Visit link for details|2024-09-17|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49682509/24 - Vulnérabilité critique dans pgAdmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pgadm1n)| Une vulnérabilité critique a été corrigée dans pgAdmin, un outil de gestion open source largement utilisé pour les bases de données PostgreSQL. Cette vulnérabilité pourrait permettre à un attaquant…| 25 septembre 2024|
+ |[ 49662409/24 - Mise à jour de sécurité pour Google Chrome OS ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-google-chrome-os)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités       affectant le Système d’exploitation Google Chrome OS. L'exploitation  de ces vulnérabilités…| 24 septembre 2024|
+ |[ 49672409/24 - Vulnérabilité dans TheGreenBow VPN Client ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-thegreenbow-vpn-client)| Une vulnérabilité a été corrigée dans les versions susmentionnées TheGreenBow VPN Client. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 24 septembre 2024|
+ |[ 49652409/24 - Vulnérabilité critique affectant Apache HugeGraph-Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-hugegraph-server)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache HugeGraph-Server. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 24 septembre 2024|
+ |[ 49642409/24 - Vulnérabilité dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-tomcat-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 24 septembre 2024|
+ |[ 49632309/24 - Vulnérabilités dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-eset)| Deux vulnérabilités ont été corrigées dans les produits ESET susmentionnés. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges et de causer un déni de service.| 23 septembre 2024|
+ |[ 49622309/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-14)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la…| 23 septembre 2024|
+ |[ 49612309/24 - Vulnérabilité dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-versa-director)| Une vulnérabilité a été corrigée dans Versa Director. Versa Director est une plateforme de gestion centralisée développée par Versa Networks, qui permet d'orchestrer, d'automatiser et de surveiller…| 23 septembre 2024|
+ |[ 49602309/24 - Vulnérabilité critique dans le CMS SPIP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-spip)| Une vulnérabilité critique a été corrigée dans le CMS SPIP. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'envoyer des requêtes HTTP (Hypertext Transfer Protocol)…| 23 septembre 2024|
+ |[ 49592009/24 - Vulnérabilité critique affectant le module « Smart IP Ban » du CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-smart-ip-ban-du-cms-drupal)| Veuillez se référer au bulletin de sécurité de Drupal afin d'installer la nouvelle mise à jour| 20 septembre 2024|
+ |[ 49582009/24 - Vulnérabilité dans les produits Microsoft Visio 2016 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-visio-2016)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft Visio 2016 susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE Aruba OS command execution (CVE-2024-42505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[HPE Aruba OS command execution (CVE-2024-42506)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[HPE Aruba OS command execution (CVE-2024-42507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[Scriptcase file upload (CVE-2024-8940)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
