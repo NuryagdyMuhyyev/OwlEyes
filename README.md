@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/09/2024 20:23:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/09/2024 21:28:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
  |Title|Description|Date|
  |---|---|---|
  |[Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)|Visit link for details.|Sep 25, 2024|
+ |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/09/25/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Sep 25, 2024|
  |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Sep 24, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 24, 2024|
  |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229](https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229)|Visit link for details.|Sep 20, 2024|
@@ -42,7 +43,6 @@
  |[VMware Releases Security Advisory for VMware Cloud Foundation and vCenter Server](https://www.cisa.gov/news-events/alerts/2024/09/19/vmware-releases-security-advisory-vmware-cloud-foundation-and-vcenter-server)|Visit link for details.|Sep 19, 2024|
  |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/18/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2024|
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/18/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 18, 2024|
- |[CISA and FBI Release Secure by Design Alert on Eliminating Cross-Site Scripting Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/09/17/cisa-and-fbi-release-secure-design-alert-eliminating-cross-site-scripting-vulnerabilities)|Visit link for details.|Sep 17, 2024|
  
 
 # LINUX-SEC
@@ -78,12 +78,6 @@
  |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -94,13 +88,33 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Franklin Fueling Systems TS-550 EVO directory traversal (CVE-2024-8497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[HPE Aruba OS command execution (CVE-2024-42505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[HPE Aruba OS command execution (CVE-2024-42506)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[HPE Aruba OS command execution (CVE-2024-42507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[Scriptcase file upload (CVE-2024-8940)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
+ |[WatchGuard Firebox Single Sign-On Client denial of service (CVE-2024-6594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 25, 2024|
+ |[WatchGuard Authentication Gateway and the WatchGuard Single Sign-On Client security bypass (CVE-2024-6592)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 25, 2024|
+ |[TeamViewer Remote Clients privilege escalation (CVE-2024-7479)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 25, 2024|
+ |[TeamViewer Remote Clients privilege escalation (CVE-2024-7481)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 25, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1288/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1287/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1286/)|Visit link for details|2024-09-25|
+ |[Apple macOS VideoToolbox Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1285/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1284/)|Visit link for details|2024-09-25|
+ |[Apple macOS ImageIO JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1283/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1282/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1281/)|Visit link for details|2024-09-25|
  
 
 # EU-CERT
@@ -120,18 +134,21 @@
  |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1288/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1287/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1286/)|Visit link for details|2024-09-25|
- |[Apple macOS VideoToolbox Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1285/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1284/)|Visit link for details|2024-09-25|
- |[Apple macOS ImageIO JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1283/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1282/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1281/)|Visit link for details|2024-09-25|
+ |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
+ |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
+ |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
+ |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
+ |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
+ |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
+ |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
+ |[Drupal security advisory (AV24-532)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-532)|Visit link for details|2024-09-18|
+ |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
+ |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
+ |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
  
 
 # MA-CERT
@@ -155,32 +172,15 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[WordPress The Events Calendar - CVE-2024-8275](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8275-2024-09-25)|Visit link for details.|25/09/2024|
+ |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|25/09/2024|
+ |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|25/09/2024|
+ |[HPE Aruba - CVE-2024-42506](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42506-2024-09-25)|Visit link for details.|25/09/2024|
+ |[HPE Aruba - CVE-2024-42505](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42505-2024-09-25)|Visit link for details.|25/09/2024|
  |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|25/09/2024|
  |[GitLab - CVE-2024-8124](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8124-2024-09-24)|Visit link for details.|24/09/2024|
  |[ESET - CVE-2024-7400](https://www.cyberveille-sante.gouv.fr/alertes/eset-cve-2024-7400-2024-09-24)|Visit link for details.|24/09/2024|
  |[D-Link - CVE-2024-45697](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45697-2024-09-24)|Visit link for details.|24/09/2024|
  |[HPE Aruba - CVE-2024-42503](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42503-2024-09-24)|Visit link for details.|24/09/2024|
  |[Apple - CVE-2024-27876](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27876-2024-09-24)|Visit link for details.|24/09/2024|
- |[HPE Aruba - CVE-2024-42502](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42502-2024-09-23)|Visit link for details.|23/09/2024|
- |[D-Link - CVE-2024-45695](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45695-2024-09-23)|Visit link for details.|23/09/2024|
- |[GitLab - CVE-2024-8635](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8635-2024-09-23)|Visit link for details.|23/09/2024|
- |[Linux - CVE-2024-46800](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46800-2024-09-23)|Visit link for details.|23/09/2024|
- |[Red Hat KeyCloak - CVE-2024-8698](https://www.cyberveille-sante.gouv.fr/alertes/red-hat-keycloak-cve-2024-8698-2024-09-23)|Visit link for details.|23/09/2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
- |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
- |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
- |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
- |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
- |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
- |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
- |[Drupal security advisory (AV24-532)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-532)|Visit link for details|2024-09-18|
- |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
- |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
- |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
  
