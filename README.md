@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/09/2024 14:23:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/09/2024 15:23:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7009-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-2-linux-kernel-vulnerabilities.52965/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7033-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7033-1-intel-microcode-vulnerabilities.52964/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7031-2: Puma vulnerability](https://www.linux.org/threads/usn-7031-2-puma-vulnerability.52956/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7031-1: Puma vulnerability](https://www.linux.org/threads/usn-7031-1-puma-vulnerability.52953/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7030-1: py7zr vulnerability](https://www.linux.org/threads/usn-7030-1-py7zr-vulnerability.52949/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7021-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-2-linux-kernel-vulnerabilities.52916/)|Visit link for details.|Sep 23, 2024|
+ |[USN-7029-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7029-1-linux-kernel-vulnerabilities.52915/)|Visit link for details.|Sep 23, 2024|
+ |[USN-7007-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-3-linux-kernel-vulnerabilities.52913/)|Visit link for details.|Sep 23, 2024|
+ |[USN-6999-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6999-2-linux-kernel-vulnerabilities.52912/)|Visit link for details.|Sep 23, 2024|
+ |[USN-7028-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7028-1-linux-kernel-vulnerabilities.52910/)|Visit link for details.|Sep 23, 2024|
+ |[USN-7020-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7020-2-linux-kernel-vulnerabilities.52909/)|Visit link for details.|Sep 23, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
  |---|---|---|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7009-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-2-linux-kernel-vulnerabilities.52965/)|Visit link for details.|Sep 25, 2024|
- |[USN-7033-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7033-1-intel-microcode-vulnerabilities.52964/)|Visit link for details.|Sep 25, 2024|
- |[USN-7031-2: Puma vulnerability](https://www.linux.org/threads/usn-7031-2-puma-vulnerability.52956/)|Visit link for details.|Sep 24, 2024|
- |[USN-7031-1: Puma vulnerability](https://www.linux.org/threads/usn-7031-1-puma-vulnerability.52953/)|Visit link for details.|Sep 24, 2024|
- |[USN-7030-1: py7zr vulnerability](https://www.linux.org/threads/usn-7030-1-py7zr-vulnerability.52949/)|Visit link for details.|Sep 24, 2024|
- |[USN-7021-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-2-linux-kernel-vulnerabilities.52916/)|Visit link for details.|Sep 23, 2024|
- |[USN-7029-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7029-1-linux-kernel-vulnerabilities.52915/)|Visit link for details.|Sep 23, 2024|
- |[USN-7007-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-3-linux-kernel-vulnerabilities.52913/)|Visit link for details.|Sep 23, 2024|
- |[USN-6999-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6999-2-linux-kernel-vulnerabilities.52912/)|Visit link for details.|Sep 23, 2024|
- |[USN-7028-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7028-1-linux-kernel-vulnerabilities.52910/)|Visit link for details.|Sep 23, 2024|
- |[USN-7020-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7020-2-linux-kernel-vulnerabilities.52909/)|Visit link for details.|Sep 23, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,12 +84,6 @@
  |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -98,9 +92,15 @@
  |[Scriptcase directory traversal (CVE-2024-8941)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
  |[Scriptcase cross-site scripting (CVE-2024-8942)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
  |[Oct8ne cross-site scripting (CVE-2024-9141)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
- |[Proxmox VE/Mail Gateway API information disclosure (CVE-2024-21545)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 24, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -155,6 +155,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 49682509/24 - Vulnérabilité critique dans pgAdmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pgadm1n)| Une vulnérabilité critique a été corrigée dans pgAdmin, un outil de gestion open source largement utilisé pour les bases de données PostgreSQL. Cette vulnérabilité pourrait permettre à un attaquant…| 25 septembre 2024|
  |[ 49662409/24 - Mise à jour de sécurité pour Google Chrome OS ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-google-chrome-os)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités       affectant le Système d’exploitation Google Chrome OS. L'exploitation  de ces vulnérabilités…| 24 septembre 2024|
  |[ 49672409/24 - Vulnérabilité dans TheGreenBow VPN Client ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-thegreenbow-vpn-client)| Une vulnérabilité a été corrigée dans les versions susmentionnées TheGreenBow VPN Client. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 24 septembre 2024|
  |[ 49652409/24 - Vulnérabilité critique affectant Apache HugeGraph-Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-hugegraph-server)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache HugeGraph-Server. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 24 septembre 2024|
@@ -165,7 +166,6 @@
  |[ 49602309/24 - Vulnérabilité critique dans le CMS SPIP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-spip)| Une vulnérabilité critique a été corrigée dans le CMS SPIP. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'envoyer des requêtes HTTP (Hypertext Transfer Protocol)…| 23 septembre 2024|
  |[ 49592009/24 - Vulnérabilité critique affectant le module « Smart IP Ban » du CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-smart-ip-ban-du-cms-drupal)| Veuillez se référer au bulletin de sécurité de Drupal afin d'installer la nouvelle mise à jour| 20 septembre 2024|
  |[ 49582009/24 - Vulnérabilité dans les produits Microsoft Visio 2016 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-visio-2016)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft Visio 2016 susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
- |[ 49572009/24 - Vulnérabilité dans Microsoft Office ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-office)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft office susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
  
 
 # CA-CCS
