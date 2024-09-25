@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/09/2024 21:28:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/09/2024 22:18:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7032-1: Tomcat vulnerability](https://www.linux.org/threads/usn-7032-1-tomcat-vulnerability.52979/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7009-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-2-linux-kernel-vulnerabilities.52965/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7033-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7033-1-intel-microcode-vulnerabilities.52964/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7031-2: Puma vulnerability](https://www.linux.org/threads/usn-7031-2-puma-vulnerability.52956/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7031-1: Puma vulnerability](https://www.linux.org/threads/usn-7031-1-puma-vulnerability.52953/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7030-1: py7zr vulnerability](https://www.linux.org/threads/usn-7030-1-py7zr-vulnerability.52949/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7021-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-2-linux-kernel-vulnerabilities.52916/)|Visit link for details.|Sep 23, 2024|
+ |[USN-7029-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7029-1-linux-kernel-vulnerabilities.52915/)|Visit link for details.|Sep 23, 2024|
+ |[USN-7007-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-3-linux-kernel-vulnerabilities.52913/)|Visit link for details.|Sep 23, 2024|
+ |[USN-6999-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6999-2-linux-kernel-vulnerabilities.52912/)|Visit link for details.|Sep 23, 2024|
+ |[USN-7028-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7028-1-linux-kernel-vulnerabilities.52910/)|Visit link for details.|Sep 23, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,16 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/09/18/apple-releases-security-updates-multiple-products)|Visit link for details.|Sep 18, 2024|
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-7009-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-2-linux-kernel-vulnerabilities.52965/)|Visit link for details.|Sep 25, 2024|
- |[USN-7033-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7033-1-intel-microcode-vulnerabilities.52964/)|Visit link for details.|Sep 25, 2024|
- |[USN-7031-2: Puma vulnerability](https://www.linux.org/threads/usn-7031-2-puma-vulnerability.52956/)|Visit link for details.|Sep 24, 2024|
- |[USN-7031-1: Puma vulnerability](https://www.linux.org/threads/usn-7031-1-puma-vulnerability.52953/)|Visit link for details.|Sep 24, 2024|
- |[USN-7030-1: py7zr vulnerability](https://www.linux.org/threads/usn-7030-1-py7zr-vulnerability.52949/)|Visit link for details.|Sep 24, 2024|
- |[USN-7021-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-2-linux-kernel-vulnerabilities.52916/)|Visit link for details.|Sep 23, 2024|
- |[USN-7029-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7029-1-linux-kernel-vulnerabilities.52915/)|Visit link for details.|Sep 23, 2024|
- |[USN-7007-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-3-linux-kernel-vulnerabilities.52913/)|Visit link for details.|Sep 23, 2024|
- |[USN-6999-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6999-2-linux-kernel-vulnerabilities.52912/)|Visit link for details.|Sep 23, 2024|
- |[USN-7028-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7028-1-linux-kernel-vulnerabilities.52910/)|Visit link for details.|Sep 23, 2024|
- |[USN-7020-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7020-2-linux-kernel-vulnerabilities.52909/)|Visit link for details.|Sep 23, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -78,12 +90,6 @@
  |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 19 Sep 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -95,26 +101,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1288/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1287/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1286/)|Visit link for details|2024-09-25|
- |[Apple macOS VideoToolbox Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1285/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1284/)|Visit link for details|2024-09-25|
- |[Apple macOS ImageIO JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1283/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1282/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1281/)|Visit link for details|2024-09-25|
  
 
 # EU-CERT
@@ -134,21 +120,18 @@
  |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
- |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
- |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
- |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
- |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
- |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
- |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
- |[Drupal security advisory (AV24-532)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-532)|Visit link for details|2024-09-18|
- |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
- |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
- |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
+ |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1288/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1287/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1286/)|Visit link for details|2024-09-25|
+ |[Apple macOS VideoToolbox Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1285/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1284/)|Visit link for details|2024-09-25|
+ |[Apple macOS ImageIO JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1283/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1282/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1281/)|Visit link for details|2024-09-25|
  
 
 # MA-CERT
@@ -166,6 +149,23 @@
  |[ 49602309/24 - Vulnérabilité critique dans le CMS SPIP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-spip)| Une vulnérabilité critique a été corrigée dans le CMS SPIP. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'envoyer des requêtes HTTP (Hypertext Transfer Protocol)…| 23 septembre 2024|
  |[ 49592009/24 - Vulnérabilité critique affectant le module « Smart IP Ban » du CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-smart-ip-ban-du-cms-drupal)| Veuillez se référer au bulletin de sécurité de Drupal afin d'installer la nouvelle mise à jour| 20 septembre 2024|
  |[ 49582009/24 - Vulnérabilité dans les produits Microsoft Visio 2016 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-visio-2016)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft Visio 2016 susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
+ |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
+ |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
+ |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
+ |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
+ |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
+ |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
+ |[Drupal security advisory (AV24-532)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-532)|Visit link for details|2024-09-18|
+ |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
+ |[Google Chrome security advisory (AV24-530)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-530)|Visit link for details|2024-09-18|
+ |[GitLab security advisory (AV24-529)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-529)|Visit link for details|2024-09-18|
  
 
 # CERT-SANTE
