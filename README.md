@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/09/2024 04:20:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/09/2024 06:39:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7035-1: AppArmor vulnerability](https://www.linux.org/threads/usn-7035-1-apparmor-vulnerability.52986/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7034-1: ca-certificates update](https://www.linux.org/threads/usn-7034-1-ca-certificates-update.52982/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7032-1: Tomcat vulnerability](https://www.linux.org/threads/usn-7032-1-tomcat-vulnerability.52979/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7009-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-2-linux-kernel-vulnerabilities.52965/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7033-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7033-1-intel-microcode-vulnerabilities.52964/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7031-2: Puma vulnerability](https://www.linux.org/threads/usn-7031-2-puma-vulnerability.52956/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7031-1: Puma vulnerability](https://www.linux.org/threads/usn-7031-1-puma-vulnerability.52953/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7030-1: py7zr vulnerability](https://www.linux.org/threads/usn-7030-1-py7zr-vulnerability.52949/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7021-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-2-linux-kernel-vulnerabilities.52916/)|Visit link for details.|Sep 23, 2024|
+ |[USN-7029-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7029-1-linux-kernel-vulnerabilities.52915/)|Visit link for details.|Sep 23, 2024|
+ |[USN-7007-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-3-linux-kernel-vulnerabilities.52913/)|Visit link for details.|Sep 23, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -49,23 +66,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7034-1: ca-certificates update](https://www.linux.org/threads/usn-7034-1-ca-certificates-update.52982/)|Visit link for details.|Sep 25, 2024|
- |[USN-7032-1: Tomcat vulnerability](https://www.linux.org/threads/usn-7032-1-tomcat-vulnerability.52979/)|Visit link for details.|Sep 25, 2024|
- |[USN-7009-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-2-linux-kernel-vulnerabilities.52965/)|Visit link for details.|Sep 25, 2024|
- |[USN-7033-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7033-1-intel-microcode-vulnerabilities.52964/)|Visit link for details.|Sep 25, 2024|
- |[USN-7031-2: Puma vulnerability](https://www.linux.org/threads/usn-7031-2-puma-vulnerability.52956/)|Visit link for details.|Sep 24, 2024|
- |[USN-7031-1: Puma vulnerability](https://www.linux.org/threads/usn-7031-1-puma-vulnerability.52953/)|Visit link for details.|Sep 24, 2024|
- |[USN-7030-1: py7zr vulnerability](https://www.linux.org/threads/usn-7030-1-py7zr-vulnerability.52949/)|Visit link for details.|Sep 24, 2024|
- |[USN-7021-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-2-linux-kernel-vulnerabilities.52916/)|Visit link for details.|Sep 23, 2024|
- |[USN-7029-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7029-1-linux-kernel-vulnerabilities.52915/)|Visit link for details.|Sep 23, 2024|
- |[USN-7007-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-3-linux-kernel-vulnerabilities.52913/)|Visit link for details.|Sep 23, 2024|
- |[USN-6999-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-6999-2-linux-kernel-vulnerabilities.52912/)|Visit link for details.|Sep 23, 2024|
  
 
 # HK-CERT
@@ -94,13 +94,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco IOS XE Software security bypass (CVE-2024-20510)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 25, 2024|
  |[WatchGuard Authentication Gateway command execution (CVE-2024-6593)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 25, 2024|
  |[WatchGuard Firebox Single Sign-On Client denial of service (CVE-2024-6594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 25, 2024|
  |[WatchGuard Authentication Gateway and the WatchGuard Single Sign-On Client security bypass (CVE-2024-6592)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 25, 2024|
- |[TeamViewer Remote Clients privilege escalation (CVE-2024-7479)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 25, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 25, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1288/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1287/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1286/)|Visit link for details|2024-09-25|
+ |[Apple macOS VideoToolbox Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1285/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1284/)|Visit link for details|2024-09-25|
+ |[Apple macOS ImageIO JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1283/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1282/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1281/)|Visit link for details|2024-09-25|
  
 
 # EU-CERT
@@ -120,23 +134,6 @@
  |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress The Events Calendar - CVE-2024-8275](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8275-2024-09-25)|Visit link for details.|25/09/2024|
- |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|25/09/2024|
- |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|25/09/2024|
- |[HPE Aruba - CVE-2024-42506](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42506-2024-09-25)|Visit link for details.|25/09/2024|
- |[HPE Aruba - CVE-2024-42505](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42505-2024-09-25)|Visit link for details.|25/09/2024|
- |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|25/09/2024|
- |[GitLab - CVE-2024-8124](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8124-2024-09-24)|Visit link for details.|24/09/2024|
- |[ESET - CVE-2024-7400](https://www.cyberveille-sante.gouv.fr/alertes/eset-cve-2024-7400-2024-09-24)|Visit link for details.|24/09/2024|
- |[D-Link - CVE-2024-45697](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45697-2024-09-24)|Visit link for details.|24/09/2024|
- |[HPE Aruba - CVE-2024-42503](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42503-2024-09-24)|Visit link for details.|24/09/2024|
- |[Apple - CVE-2024-27876](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27876-2024-09-24)|Visit link for details.|24/09/2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -154,20 +151,6 @@
  |[HPE security advisory (AV24-531)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-531)|Visit link for details|2024-09-18|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1288/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1287/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1286/)|Visit link for details|2024-09-25|
- |[Apple macOS VideoToolbox Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1285/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1284/)|Visit link for details|2024-09-25|
- |[Apple macOS ImageIO JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1283/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1282/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1281/)|Visit link for details|2024-09-25|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 49602309/24 - Vulnérabilité critique dans le CMS SPIP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-spip)| Une vulnérabilité critique a été corrigée dans le CMS SPIP. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'envoyer des requêtes HTTP (Hypertext Transfer Protocol)…| 23 septembre 2024|
  |[ 49592009/24 - Vulnérabilité critique affectant le module « Smart IP Ban » du CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-smart-ip-ban-du-cms-drupal)| Veuillez se référer au bulletin de sécurité de Drupal afin d'installer la nouvelle mise à jour| 20 septembre 2024|
  |[ 49582009/24 - Vulnérabilité dans les produits Microsoft Visio 2016 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-visio-2016)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft Visio 2016 susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress The Events Calendar - CVE-2024-8275](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8275-2024-09-25)|Visit link for details.|25/09/2024|
+ |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|25/09/2024|
+ |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|25/09/2024|
+ |[HPE Aruba - CVE-2024-42506](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42506-2024-09-25)|Visit link for details.|25/09/2024|
+ |[HPE Aruba - CVE-2024-42505](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42505-2024-09-25)|Visit link for details.|25/09/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|25/09/2024|
+ |[GitLab - CVE-2024-8124](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8124-2024-09-24)|Visit link for details.|24/09/2024|
+ |[ESET - CVE-2024-7400](https://www.cyberveille-sante.gouv.fr/alertes/eset-cve-2024-7400-2024-09-24)|Visit link for details.|24/09/2024|
+ |[D-Link - CVE-2024-45697](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45697-2024-09-24)|Visit link for details.|24/09/2024|
+ |[HPE Aruba - CVE-2024-42503](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42503-2024-09-24)|Visit link for details.|24/09/2024|
+ |[Apple - CVE-2024-27876](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27876-2024-09-24)|Visit link for details.|24/09/2024|
  
