@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/09/2024 13:27:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/09/2024 14:22:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7035-1: AppArmor vulnerability](https://www.linux.org/threads/usn-7035-1-apparmor-vulnerability.52986/)|Visit link for details.|Sep 26, 2024|
- |[USN-7034-1: ca-certificates update](https://www.linux.org/threads/usn-7034-1-ca-certificates-update.52982/)|Visit link for details.|Sep 25, 2024|
- |[USN-7032-1: Tomcat vulnerability](https://www.linux.org/threads/usn-7032-1-tomcat-vulnerability.52979/)|Visit link for details.|Sep 25, 2024|
- |[USN-7009-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-2-linux-kernel-vulnerabilities.52965/)|Visit link for details.|Sep 25, 2024|
- |[USN-7033-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7033-1-intel-microcode-vulnerabilities.52964/)|Visit link for details.|Sep 25, 2024|
- |[USN-7031-2: Puma vulnerability](https://www.linux.org/threads/usn-7031-2-puma-vulnerability.52956/)|Visit link for details.|Sep 24, 2024|
- |[USN-7031-1: Puma vulnerability](https://www.linux.org/threads/usn-7031-1-puma-vulnerability.52953/)|Visit link for details.|Sep 24, 2024|
- |[USN-7030-1: py7zr vulnerability](https://www.linux.org/threads/usn-7030-1-py7zr-vulnerability.52949/)|Visit link for details.|Sep 24, 2024|
- |[USN-7021-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-2-linux-kernel-vulnerabilities.52916/)|Visit link for details.|Sep 23, 2024|
- |[USN-7029-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7029-1-linux-kernel-vulnerabilities.52915/)|Visit link for details.|Sep 23, 2024|
- |[USN-7007-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7007-3-linux-kernel-vulnerabilities.52913/)|Visit link for details.|Sep 23, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,16 +45,27 @@
  |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/18/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 18, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7036-1: Rack vulnerabilities](https://www.linux.org/threads/usn-7036-1-rack-vulnerabilities.53038/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7035-1: AppArmor vulnerability](https://www.linux.org/threads/usn-7035-1-apparmor-vulnerability.52986/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7034-1: ca-certificates update](https://www.linux.org/threads/usn-7034-1-ca-certificates-update.52982/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7032-1: Tomcat vulnerability](https://www.linux.org/threads/usn-7032-1-tomcat-vulnerability.52979/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7009-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7009-2-linux-kernel-vulnerabilities.52965/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7033-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7033-1-intel-microcode-vulnerabilities.52964/)|Visit link for details.|Sep 25, 2024|
+ |[USN-7031-2: Puma vulnerability](https://www.linux.org/threads/usn-7031-2-puma-vulnerability.52956/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7031-1: Puma vulnerability](https://www.linux.org/threads/usn-7031-1-puma-vulnerability.52953/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7030-1: py7zr vulnerability](https://www.linux.org/threads/usn-7030-1-py7zr-vulnerability.52949/)|Visit link for details.|Sep 24, 2024|
+ |[USN-7021-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-2-linux-kernel-vulnerabilities.52916/)|Visit link for details.|Sep 23, 2024|
+ |[USN-7029-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7029-1-linux-kernel-vulnerabilities.52915/)|Visit link for details.|Sep 23, 2024|
  
 
 # HK-CERT
@@ -98,9 +92,15 @@
  |[Download Monitor <= 5.0.9 - Missing Authorization to Authenticated (Subscriber+) Shop Enable (CVE-2024-8552)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
  |[Arbitrary File Deletion in PaperCut NG/MF Web Print Hot folder (CVE-2024-8404)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
  |[012 PS Multi Languages <= 1.6 - Authenticated (Contributor+) Stored Cross-Site Scripting (CVE-2024-8723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
+ |[Arbitrary File Creation in PaperCut NG/MF Web Print leading to a Denial of Service attack (CVE-2024-8405)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -134,6 +134,23 @@
  |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress The Events Calendar - CVE-2024-8275](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8275-2024-09-25)|Visit link for details.|25/09/2024|
+ |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|25/09/2024|
+ |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|25/09/2024|
+ |[HPE Aruba - CVE-2024-42506](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42506-2024-09-25)|Visit link for details.|25/09/2024|
+ |[HPE Aruba - CVE-2024-42505](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42505-2024-09-25)|Visit link for details.|25/09/2024|
+ |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|25/09/2024|
+ |[GitLab - CVE-2024-8124](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8124-2024-09-24)|Visit link for details.|24/09/2024|
+ |[ESET - CVE-2024-7400](https://www.cyberveille-sante.gouv.fr/alertes/eset-cve-2024-7400-2024-09-24)|Visit link for details.|24/09/2024|
+ |[D-Link - CVE-2024-45697](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45697-2024-09-24)|Visit link for details.|24/09/2024|
+ |[HPE Aruba - CVE-2024-42503](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42503-2024-09-24)|Visit link for details.|24/09/2024|
+ |[Apple - CVE-2024-27876](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27876-2024-09-24)|Visit link for details.|24/09/2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -155,6 +172,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 49692609/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix-0)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles peut permettre à…| 26 septembre 2024|
  |[ 49682509/24 - Vulnérabilité critique dans pgAdmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pgadm1n)| Une vulnérabilité critique a été corrigée dans pgAdmin, un outil de gestion open source largement utilisé pour les bases de données PostgreSQL. Cette vulnérabilité pourrait permettre à un attaquant…| 25 septembre 2024|
  |[ 49662409/24 - Mise à jour de sécurité pour Google Chrome OS ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-google-chrome-os)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités       affectant le Système d’exploitation Google Chrome OS. L'exploitation  de ces vulnérabilités…| 24 septembre 2024|
  |[ 49672409/24 - Vulnérabilité dans TheGreenBow VPN Client ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-thegreenbow-vpn-client)| Une vulnérabilité a été corrigée dans les versions susmentionnées TheGreenBow VPN Client. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 24 septembre 2024|
@@ -165,22 +183,4 @@
  |[ 49612309/24 - Vulnérabilité dans Versa Director ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-versa-director)| Une vulnérabilité a été corrigée dans Versa Director. Versa Director est une plateforme de gestion centralisée développée par Versa Networks, qui permet d'orchestrer, d'automatiser et de surveiller…| 23 septembre 2024|
  |[ 49602309/24 - Vulnérabilité critique dans le CMS SPIP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-spip)| Une vulnérabilité critique a été corrigée dans le CMS SPIP. L’exploitation de cette faille pourrait permettre à un attaquant non authentifié d'envoyer des requêtes HTTP (Hypertext Transfer Protocol)…| 23 septembre 2024|
  |[ 49592009/24 - Vulnérabilité critique affectant le module « Smart IP Ban » du CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-smart-ip-ban-du-cms-drupal)| Veuillez se référer au bulletin de sécurité de Drupal afin d'installer la nouvelle mise à jour| 20 septembre 2024|
- |[ 49582009/24 - Vulnérabilité dans les produits Microsoft Visio 2016 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-microsoft-visio-2016)| Microsoft annonce la correction d’une  vulnérabilité affectant les produits Microsoft Visio 2016 susmentionnés. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code…| 20 septembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress The Events Calendar - CVE-2024-8275](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8275-2024-09-25)|Visit link for details.|25/09/2024|
- |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|25/09/2024|
- |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|25/09/2024|
- |[HPE Aruba - CVE-2024-42506](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42506-2024-09-25)|Visit link for details.|25/09/2024|
- |[HPE Aruba - CVE-2024-42505](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42505-2024-09-25)|Visit link for details.|25/09/2024|
- |[Ivanti - CVE-2024-7593](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-7593-2024-08-16)|Visit link for details.|25/09/2024|
- |[GitLab - CVE-2024-8124](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8124-2024-09-24)|Visit link for details.|24/09/2024|
- |[ESET - CVE-2024-7400](https://www.cyberveille-sante.gouv.fr/alertes/eset-cve-2024-7400-2024-09-24)|Visit link for details.|24/09/2024|
- |[D-Link - CVE-2024-45697](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-45697-2024-09-24)|Visit link for details.|24/09/2024|
- |[HPE Aruba - CVE-2024-42503](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42503-2024-09-24)|Visit link for details.|24/09/2024|
- |[Apple - CVE-2024-27876](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-27876-2024-09-24)|Visit link for details.|24/09/2024|
  
