@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/09/2024 01:22:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/09/2024 02:18:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -51,34 +45,10 @@
  |[Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance)|Visit link for details.|Sep 19, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-7039-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7039-1-linux-kernel-vulnerabilities.53049/)|Visit link for details.|Sep 26, 2024|
- |[USN-7021-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-3-linux-kernel-vulnerabilities.53048/)|Visit link for details.|Sep 26, 2024|
- |[USN-7020-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7020-3-linux-kernel-vulnerabilities.53047/)|Visit link for details.|Sep 26, 2024|
- |[USN-7034-2: ca-certificates update](https://www.linux.org/threads/usn-7034-2-ca-certificates-update.53046/)|Visit link for details.|Sep 26, 2024|
- |[USN-7003-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-4-linux-kernel-vulnerabilities.53045/)|Visit link for details.|Sep 26, 2024|
- |[USN-7038-1: APR vulnerability](https://www.linux.org/threads/usn-7038-1-apr-vulnerability.53044/)|Visit link for details.|Sep 26, 2024|
- |[USN-7037-1: OpenJPEG vulnerability](https://www.linux.org/threads/usn-7037-1-openjpeg-vulnerability.53043/)|Visit link for details.|Sep 26, 2024|
- |[USN-7036-1: Rack vulnerabilities](https://www.linux.org/threads/usn-7036-1-rack-vulnerabilities.53038/)|Visit link for details.|Sep 26, 2024|
- |[USN-7035-1: AppArmor vulnerability](https://www.linux.org/threads/usn-7035-1-apparmor-vulnerability.52986/)|Visit link for details.|Sep 26, 2024|
- |[USN-7034-1: ca-certificates update](https://www.linux.org/threads/usn-7034-1-ca-certificates-update.52982/)|Visit link for details.|Sep 25, 2024|
- |[USN-7032-1: Tomcat vulnerability](https://www.linux.org/threads/usn-7032-1-tomcat-vulnerability.52979/)|Visit link for details.|Sep 25, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[CVE-2024-45983 (CVE-2024-45983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[Grafana alerting wrong permission on datasource rule write endpoint (CVE-2024-8118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[Cleartext Transmission of Sensitive Information in goTenna Pro (CVE-2024-47124)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[Insecure Storage of Sensitive Information in goTenna Pro (CVE-2024-47122)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[goTenna Pro ATAK Plugin Insertion of Sensitive Information Into Sent Data (CVE-2024-41931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
@@ -103,6 +73,36 @@
  |[Microsoft Monthly Security Update (Feb 2020)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-feb-2020)|[Updated on 2024-09-19]Updated Description, Source and Related Links.CVE-2020-0618 vulnerability is exploited in the wild. A remote code execution vulnerability exists in Microsoft SQL Server Reporting Services when it incorrectly handles page requests. An attacker...| Release Date: 12 Feb 2020 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5775-1 chromium - security update](https://www.linux.org/threads/dsa-5775-1-chromium-security-update.53052/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7039-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7039-1-linux-kernel-vulnerabilities.53049/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7021-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-3-linux-kernel-vulnerabilities.53048/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7020-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7020-3-linux-kernel-vulnerabilities.53047/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7034-2: ca-certificates update](https://www.linux.org/threads/usn-7034-2-ca-certificates-update.53046/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7003-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-4-linux-kernel-vulnerabilities.53045/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7038-1: APR vulnerability](https://www.linux.org/threads/usn-7038-1-apr-vulnerability.53044/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7037-1: OpenJPEG vulnerability](https://www.linux.org/threads/usn-7037-1-openjpeg-vulnerability.53043/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7036-1: Rack vulnerabilities](https://www.linux.org/threads/usn-7036-1-rack-vulnerabilities.53038/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7035-1: AppArmor vulnerability](https://www.linux.org/threads/usn-7035-1-apparmor-vulnerability.52986/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7034-1: ca-certificates update](https://www.linux.org/threads/usn-7034-1-ca-certificates-update.52982/)|Visit link for details.|Sep 25, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RSSHub's `docker-test-cont.yml` workflow is vulnerable to Artifact Poisoning which may lead to a full repository takeover. (CVE-2024-47179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
+ |[Vault SSH Secrets Engine Configuration Did Not Restrict Valid Principals By Default (CVE-2024-7594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
+ |[Shields.io Remote Code Execution vulnerability in Dynamic JSON/TOML/YAML badges (CVE-2024-47180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
+ |[CVE-2024-45983 (CVE-2024-45983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -118,23 +118,6 @@
  |[2024-094: Critical Vulnerabilities in Ivanti EPM](https://cert.europa.eu/publications/security-advisories/2024-094/)|On September 10, 2024, Ivanti addressed several critical and high security vulnerabilities its Endpoint Manager (EPM) product.|Wednesday, September 11, 2024 06:46:40 PM CEST|
  |[2024-093: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-093/)|On September 10, 2024, Microsoft addressed 79 vulnerabilities in its September 2024 Patch Tuesday update, including four zero-day vulnerabilities. This Patch Tuesday also fixes seven critical vulnerabilities.|Wednesday, September 11, 2024 06:46:14 PM CEST|
  |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49732609/24 - Vulnérabilités dans plusieurs produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-cisco)| Cisco annonce la correction de plusieurs vulnérabilités dans les produits Cisco susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir…| 26 septembre 2024|
- |[ 49722609/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia)| Deux vulnérabilités ont été corrigées dans les produits NVIDIA susmentionnés. Une exploitation réussie de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir une…| 26 septembre 2024|
- |[ 49712609/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-25)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 26 septembre 2024|
- |[ 49702609/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen-1)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 26 septembre 2024|
- |[ 49692609/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix-0)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles peut permettre à…| 26 septembre 2024|
- |[ 49682509/24 - Vulnérabilité critique dans pgAdmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pgadm1n)| Une vulnérabilité critique a été corrigée dans pgAdmin, un outil de gestion open source largement utilisé pour les bases de données PostgreSQL. Cette vulnérabilité pourrait permettre à un attaquant…| 25 septembre 2024|
- |[ 49662409/24 - Mise à jour de sécurité pour Google Chrome OS ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-google-chrome-os)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités       affectant le Système d’exploitation Google Chrome OS. L'exploitation  de ces vulnérabilités…| 24 septembre 2024|
- |[ 49672409/24 - Vulnérabilité dans TheGreenBow VPN Client ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-thegreenbow-vpn-client)| Une vulnérabilité a été corrigée dans les versions susmentionnées TheGreenBow VPN Client. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 24 septembre 2024|
- |[ 49652409/24 - Vulnérabilité critique affectant Apache HugeGraph-Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-hugegraph-server)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache HugeGraph-Server. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 24 septembre 2024|
- |[ 49642409/24 - Vulnérabilité dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-tomcat-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 24 septembre 2024|
- |[ 49632309/24 - Vulnérabilités dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-eset)| Deux vulnérabilités ont été corrigées dans les produits ESET susmentionnés. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges et de causer un déni de service.| 23 septembre 2024|
  
 
 # CERT-SANTE
@@ -154,18 +137,21 @@
  |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|25/09/2024|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1288/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1287/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1286/)|Visit link for details|2024-09-25|
- |[Apple macOS VideoToolbox Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1285/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1284/)|Visit link for details|2024-09-25|
- |[Apple macOS ImageIO JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1283/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleGVA Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1282/)|Visit link for details|2024-09-25|
- |[Apple macOS AppleVADriver Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1281/)|Visit link for details|2024-09-25|
+ |[ 49732609/24 - Vulnérabilités dans plusieurs produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-cisco)| Cisco annonce la correction de plusieurs vulnérabilités dans les produits Cisco susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir…| 26 septembre 2024|
+ |[ 49722609/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia)| Deux vulnérabilités ont été corrigées dans les produits NVIDIA susmentionnés. Une exploitation réussie de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir une…| 26 septembre 2024|
+ |[ 49712609/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-25)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 26 septembre 2024|
+ |[ 49702609/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen-1)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 26 septembre 2024|
+ |[ 49692609/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix-0)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles peut permettre à…| 26 septembre 2024|
+ |[ 49682509/24 - Vulnérabilité critique dans pgAdmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pgadm1n)| Une vulnérabilité critique a été corrigée dans pgAdmin, un outil de gestion open source largement utilisé pour les bases de données PostgreSQL. Cette vulnérabilité pourrait permettre à un attaquant…| 25 septembre 2024|
+ |[ 49662409/24 - Mise à jour de sécurité pour Google Chrome OS ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-google-chrome-os)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités       affectant le Système d’exploitation Google Chrome OS. L'exploitation  de ces vulnérabilités…| 24 septembre 2024|
+ |[ 49672409/24 - Vulnérabilité dans TheGreenBow VPN Client ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-thegreenbow-vpn-client)| Une vulnérabilité a été corrigée dans les versions susmentionnées TheGreenBow VPN Client. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.| 24 septembre 2024|
+ |[ 49652409/24 - Vulnérabilité critique affectant Apache HugeGraph-Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-hugegraph-server)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache HugeGraph-Server. Cette vulnérabilité est activement exploitée et elle peut   permettre  à un attaquant distant…| 24 septembre 2024|
+ |[ 49642409/24 - Vulnérabilité dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-tomcat-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service.| 24 septembre 2024|
+ |[ 49632309/24 - Vulnérabilités dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-eset)| Deux vulnérabilités ont été corrigées dans les produits ESET susmentionnés. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges et de causer un déni de service.| 23 septembre 2024|
  
 
 # CA-CCS
@@ -183,4 +169,18 @@
  |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
  |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
  |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Western Digital MyCloud PR4100 ddns-start Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1294/)|Visit link for details|2024-09-26|
+ |[Microsoft Windows BeginPaint Brush Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1293/)|Visit link for details|2024-09-26|
+ |[Microsoft Windows BeginPaint Color Space Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1292/)|Visit link for details|2024-09-26|
+ |[Microsoft Windows Device Context Improper Release Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1291/)|Visit link for details|2024-09-26|
+ |[TeamViewer Missing Authentication Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1290/)|Visit link for details|2024-09-26|
+ |[TeamViewer Missing Authentication Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1289/)|Visit link for details|2024-09-26|
+ |[Apple macOS AppleIntelKBLGraphicsMTLDriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1288/)|Visit link for details|2024-09-25|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1287/)|Visit link for details|2024-09-25|
  
