@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/09/2024 20:21:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/09/2024 21:26:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,12 @@
  |[USN-7034-2: ca-certificates update](https://www.linux.org/threads/usn-7034-2-ca-certificates-update.53046/)|Visit link for details.|Sep 26, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,37 +90,17 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-09-17]Updated Description, System / Technologies affected, Solutions...| Release Date: 4 Sep 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[CVE-2024-45773 (CVE-2024-45773)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[Event Manager, Events Calendar, Tickets, Registrations  Eventin <= 4.0.8 - Authenticated (Contributor+) Local File Inclusion (CVE-2024-7149)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[CVE-2024-45863 (CVE-2024-45863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[bg5sbk MiniCMS page-edit.php cross-site request forgery (CVE-2024-9282)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[bg5sbk MiniCMS post-edit.php cross-site request forgery (CVE-2024-9281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[CVE-2024-46470 (CVE-2024-46470)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[CVE-2024-46471 (CVE-2024-46471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[CVE-2024-46441 (CVE-2024-46441)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[CVE-2024-44912 (CVE-2024-44912)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[CVE-2024-40509 (CVE-2024-40509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Lenovo Service Bridge Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1310/)|Visit link for details|2024-09-27|
- |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1309/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1308/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1307/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1306/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1305/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1304/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1303/)|Visit link for details|2024-09-26|
  
 
 # EU-CERT
@@ -134,21 +120,18 @@
  |[2024-094: Critical Vulnerabilities in Ivanti EPM](https://cert.europa.eu/publications/security-advisories/2024-094/)|On September 10, 2024, Ivanti addressed several critical and high security vulnerabilities its Endpoint Manager (EPM) product.|Wednesday, September 11, 2024 06:46:40 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
- |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
- |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
- |[Cisco security advisory (AV24-540)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-540)|Visit link for details|2024-09-25|
- |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
- |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
- |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
- |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
- |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
- |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
- |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
+ |[Lenovo Service Bridge Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1310/)|Visit link for details|2024-09-27|
+ |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1309/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1308/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1307/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1306/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1305/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1304/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1303/)|Visit link for details|2024-09-26|
  
 
 # CERT-SANTE
@@ -166,6 +149,23 @@
  |[TeamViewer - CVE-2024-7479](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-7479-2024-09-26)|Visit link for details.|26/09/2024|
  |[WatchGuard - CVE-2024-6593](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6593-2024-09-26)|Visit link for details.|26/09/2024|
  |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|26/09/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
+ |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
+ |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
+ |[Cisco security advisory (AV24-540)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-540)|Visit link for details|2024-09-25|
+ |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
+ |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
+ |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
+ |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
+ |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
+ |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
+ |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
  
 
 # MA-CERT
