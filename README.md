@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/09/2024 10:20:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/09/2024 11:30:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -94,11 +94,11 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Product Enquiry for WooCommerce <= 2.2.33.33 - Authenticated (Author+) PHP Object Injection in enquiry_detail.php (CVE-2024-8922)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[Absolute Reviews <= 1.1.3 - Authenticated (Contributor+) Stored DOM-Based Cross-Site Scripting via Criteria Name (CVE-2024-8965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[GiveWP  Donation Plugin and Fundraising Platform <= 3.16.1 - Authenticated (GiveWP Manager+) SQL Injection via order Parameter (CVE-2024-9130)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[CVE-2024-7011 (CVE-2024-7011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[goTenna Pro ATAK Plugin information disclosure (CVE-2024-45374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[goTenna Pro X and Pro X2 information disclosure (CVE-2024-47129)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[goTenna Pro X and Pro X2 security bypass (CVE-2024-47125)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[goTenna Pro X and Pro X2 security bypass (CVE-2024-47123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -117,23 +117,6 @@
  |[Foxit PDF Reader PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1302/)|Visit link for details|2024-09-26|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
- |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
- |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
- |[Cisco security advisory (AV24-540)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-540)|Visit link for details|2024-09-25|
- |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
- |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
- |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
- |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
- |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
- |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
- |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -149,6 +132,23 @@
  |[2024-094: Critical Vulnerabilities in Ivanti EPM](https://cert.europa.eu/publications/security-advisories/2024-094/)|On September 10, 2024, Ivanti addressed several critical and high security vulnerabilities its Endpoint Manager (EPM) product.|Wednesday, September 11, 2024 06:46:40 PM CEST|
  |[2024-093: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-093/)|On September 10, 2024, Microsoft addressed 79 vulnerabilities in its September 2024 Patch Tuesday update, including four zero-day vulnerabilities. This Patch Tuesday also fixes seven critical vulnerabilities.|Wednesday, September 11, 2024 06:46:14 PM CEST|
  |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
+ |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
+ |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
+ |[Cisco security advisory (AV24-540)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-540)|Visit link for details|2024-09-25|
+ |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
+ |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
+ |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
+ |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
+ |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
+ |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
+ |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
  
 
 # MA-CERT
