@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/09/2024 08:25:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/09/2024 09:25:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance)|Visit link for details.|Sep 19, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -90,31 +84,23 @@
  |---|---|---|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenPrinting CUPS information disclosure (CVE-2024-47176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[OpenPrinting CUPS command execution (CVE-2024-47177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[CVE-2024-40508 (CVE-2024-40508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[CVE-2024-40507 (CVE-2024-40507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
- |[CVE-2024-45986 (CVE-2024-45986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
+ |[CVE-2024-7011 (CVE-2024-7011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[goTenna Pro X and Pro X2 information disclosure (CVE-2024-47129)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
+ |[goTenna Pro X and Pro X2 security bypass (CVE-2024-47125)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
+ |[goTenna Pro X and Pro X2 security bypass (CVE-2024-47123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1309/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1308/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1307/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1306/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1305/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1304/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1303/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1302/)|Visit link for details|2024-09-26|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -134,21 +120,35 @@
  |[2024-092: Critical Vulnerability in Veeam](https://cert.europa.eu/publications/security-advisories/2024-092/)|On September 5, 2024, Veeam disclosed a critical remote code execution (RCE) vulnerability tracked as CVE-2024-40711, affecting Veeam Backup & Replication (VBR). This flaw allows unauthenticated attackers to execute arbitrary code on vulnerable systems (CVSS score: 9.8). VBR is a target for ransomware attacks, as it plays a key role in enterprise data protection.|Friday, September 06, 2024 12:10:44 PM CEST|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[HPE Aruba - CVE-2024-42507](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42507-2024-09-26)|Visit link for details.|26/09/2024|
- |[Cisco - CVE-2024-20464](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20464-2024-09-26)|Visit link for details.|26/09/2024|
- |[Synology - CVE-2023-52946](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2023-52946-2024-09-26)|Visit link for details.|26/09/2024|
- |[TeamViewer - CVE-2024-7479](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-7479-2024-09-26)|Visit link for details.|26/09/2024|
- |[WatchGuard - CVE-2024-6593](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6593-2024-09-26)|Visit link for details.|26/09/2024|
- |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|26/09/2024|
- |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|26/09/2024|
- |[cURL - CVE-2024-6197](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-6197-2024-07-25)|Visit link for details.|26/09/2024|
- |[WordPress The Events Calendar - CVE-2024-8275](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8275-2024-09-25)|Visit link for details.|25/09/2024|
- |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|25/09/2024|
- |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|25/09/2024|
+ |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1309/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1308/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1307/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1306/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1305/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1304/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1303/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1302/)|Visit link for details|2024-09-26|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
+ |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
+ |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
+ |[Cisco security advisory (AV24-540)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-540)|Visit link for details|2024-09-25|
+ |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
+ |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
+ |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
+ |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
+ |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
+ |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
+ |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
  
 
 # MA-CERT
@@ -168,19 +168,19 @@
  |[ 49632309/24 - Vulnérabilités dans les produits ESET ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-eset)| Deux vulnérabilités ont été corrigées dans les produits ESET susmentionnés. Un attaquant pourrait exploiter ces failles afin de réussir une élévation de privilèges et de causer un déni de service.| 23 septembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
- |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
- |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
- |[Cisco security advisory (AV24-540)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-540)|Visit link for details|2024-09-25|
- |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
- |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
- |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
- |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
- |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
- |[Dell security advisory (AV24-534)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-534)|Visit link for details|2024-09-23|
- |[Microsoft Edge security advisory (AV24-533)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-533)|Visit link for details|2024-09-20|
+ |[HPE Aruba - CVE-2024-42507](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42507-2024-09-26)|Visit link for details.|26/09/2024|
+ |[Cisco - CVE-2024-20464](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20464-2024-09-26)|Visit link for details.|26/09/2024|
+ |[Synology - CVE-2023-52946](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2023-52946-2024-09-26)|Visit link for details.|26/09/2024|
+ |[TeamViewer - CVE-2024-7479](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-7479-2024-09-26)|Visit link for details.|26/09/2024|
+ |[WatchGuard - CVE-2024-6593](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6593-2024-09-26)|Visit link for details.|26/09/2024|
+ |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|26/09/2024|
+ |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|26/09/2024|
+ |[cURL - CVE-2024-6197](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-6197-2024-07-25)|Visit link for details.|26/09/2024|
+ |[WordPress The Events Calendar - CVE-2024-8275](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-events-calendar-cve-2024-8275-2024-09-25)|Visit link for details.|25/09/2024|
+ |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|25/09/2024|
+ |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|25/09/2024|
  
