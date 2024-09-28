@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/09/2024 13:25:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/09/2024 14:19:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
+ |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
+ |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams)|Visit link for details.|Sep 25, 2024|
+ |[Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)|Visit link for details.|Sep 25, 2024|
+ |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/09/25/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Sep 25, 2024|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Sep 24, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 24, 2024|
+ |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229](https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229)|Visit link for details.|Sep 20, 2024|
+ |[Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance)|Visit link for details.|Sep 19, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,45 +62,13 @@
  |[USN-7021-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-3-linux-kernel-vulnerabilities.53048/)|Visit link for details.|Sep 26, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
- |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
- |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams)|Visit link for details.|Sep 25, 2024|
- |[Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)|Visit link for details.|Sep 25, 2024|
- |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/09/25/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Sep 25, 2024|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Sep 24, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 24, 2024|
- |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229](https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229)|Visit link for details.|Sep 20, 2024|
- |[Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance)|Visit link for details.|Sep 19, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 27 Sep 2024 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted...|Release Date: 27 Sep 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 27 Sep 2024 |
- |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. [Updated on 2024-09-27]Updated System / Technologies affected, Solutions and Related Links.| Release Date: 19 Sep 2024 |
- |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and security restriction bypass on the targeted system.|Release Date: 27 Sep 2024 |
- |[Citrix Products Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240926)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system. |Release Date: 26 Sep 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240926)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 26 Sep 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass, elevation of privilege and spoofing on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-09-17]Updated Description, System / Technologies affected, Solutions...| Release Date: 4 Sep 2024 |
- 
-
 # OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -101,6 +85,22 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 27 Sep 2024 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted...|Release Date: 27 Sep 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 27 Sep 2024 |
+ |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. [Updated on 2024-09-27]Updated System / Technologies affected, Solutions and Related Links.| Release Date: 19 Sep 2024 |
+ |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and security restriction bypass on the targeted system.|Release Date: 27 Sep 2024 |
+ |[Citrix Products Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240926)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system. |Release Date: 26 Sep 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240926)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 26 Sep 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass, elevation of privilege and spoofing on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-09-17]Updated Description, System / Technologies affected, Solutions...| Release Date: 4 Sep 2024 |
  
 
 # ZERODAYINITIATIVE
