@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/09/2024 22:16:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/09/2024 23:26:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,29 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5778-1 cups-filters - security update](https://www.linux.org/threads/dsa-5778-1-cups-filters-security-update.53102/)|Visit link for details.|Sep 29, 2024|
+ |[DSA-5777-1 booth - security update](https://www.linux.org/threads/dsa-5777-1-booth-security-update.53071/)|Visit link for details.|Sep 27, 2024|
+ |[DSA-5776-1 tryton-server - security update](https://www.linux.org/threads/dsa-5776-1-tryton-server-security-update.53070/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7045-1: libppd vulnerability](https://www.linux.org/threads/usn-7045-1-libppd-vulnerability.53059/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7044-1: libcupsfilters vulnerability](https://www.linux.org/threads/usn-7044-1-libcupsfilters-vulnerability.53058/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7043-1: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-1-cups-filters-vulnerabilities.53057/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7042-1: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-1-cups-browsed-vulnerability.53056/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7041-1: CUPS vulnerability](https://www.linux.org/threads/usn-7041-1-cups-vulnerability.53055/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7040-1: ConfigObj vulnerability](https://www.linux.org/threads/usn-7040-1-configobj-vulnerability.53053/)|Visit link for details.|Sep 26, 2024|
+ |[DSA-5775-1 chromium - security update](https://www.linux.org/threads/dsa-5775-1-chromium-security-update.53052/)|Visit link for details.|Sep 26, 2024|
+ |[USN-7039-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7039-1-linux-kernel-vulnerabilities.53049/)|Visit link for details.|Sep 26, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,24 +68,7 @@
  |[Ivanti Releases Admin Bypass Security Update for Cloud Services Appliance ](https://www.cisa.gov/news-events/alerts/2024/09/19/ivanti-releases-admin-bypass-security-update-cloud-services-appliance)|Visit link for details.|Sep 19, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5777-1 booth - security update](https://www.linux.org/threads/dsa-5777-1-booth-security-update.53071/)|Visit link for details.|Sep 27, 2024|
- |[DSA-5776-1 tryton-server - security update](https://www.linux.org/threads/dsa-5776-1-tryton-server-security-update.53070/)|Visit link for details.|Sep 27, 2024|
- |[USN-7045-1: libppd vulnerability](https://www.linux.org/threads/usn-7045-1-libppd-vulnerability.53059/)|Visit link for details.|Sep 27, 2024|
- |[USN-7044-1: libcupsfilters vulnerability](https://www.linux.org/threads/usn-7044-1-libcupsfilters-vulnerability.53058/)|Visit link for details.|Sep 27, 2024|
- |[USN-7043-1: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-1-cups-filters-vulnerabilities.53057/)|Visit link for details.|Sep 27, 2024|
- |[USN-7042-1: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-1-cups-browsed-vulnerability.53056/)|Visit link for details.|Sep 27, 2024|
- |[USN-7041-1: CUPS vulnerability](https://www.linux.org/threads/usn-7041-1-cups-vulnerability.53055/)|Visit link for details.|Sep 27, 2024|
- |[USN-7040-1: ConfigObj vulnerability](https://www.linux.org/threads/usn-7040-1-configobj-vulnerability.53053/)|Visit link for details.|Sep 26, 2024|
- |[DSA-5775-1 chromium - security update](https://www.linux.org/threads/dsa-5775-1-chromium-security-update.53052/)|Visit link for details.|Sep 26, 2024|
- |[USN-7039-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7039-1-linux-kernel-vulnerabilities.53049/)|Visit link for details.|Sep 26, 2024|
- |[USN-7021-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-3-linux-kernel-vulnerabilities.53048/)|Visit link for details.|Sep 26, 2024|
- 
-
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -82,12 +88,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass, elevation of privilege and spoofing on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-09-17]Updated Description, System / Technologies affected, Solutions...| Release Date: 4 Sep 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -151,23 +151,6 @@
  |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WatchGuard - CVE-2024-6592](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6592-2024-09-27)|Visit link for details.|27/09/2024|
- |[TeamViewer - CVE-2024-7481](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-7481-2024-09-27)|Visit link for details.|27/09/2024|
- |[Dell - CVE-2024-37125](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37125-2024-09-27)|Visit link for details.|27/09/2024|
- |[OpenPrinting CUPS - CVE-2024-47177](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47177-2024-09-27)|Visit link for details.|27/09/2024|
- |[Cisco - CVE-2024-20433](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20433-2024-09-27)|Visit link for details.|27/09/2024|
- |[HPE Aruba - CVE-2024-42507](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42507-2024-09-26)|Visit link for details.|26/09/2024|
- |[Cisco - CVE-2024-20464](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20464-2024-09-26)|Visit link for details.|26/09/2024|
- |[Synology - CVE-2023-52946](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2023-52946-2024-09-26)|Visit link for details.|26/09/2024|
- |[TeamViewer - CVE-2024-7479](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-7479-2024-09-26)|Visit link for details.|26/09/2024|
- |[WatchGuard - CVE-2024-6593](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6593-2024-09-26)|Visit link for details.|26/09/2024|
- |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|26/09/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 49692609/24 - Vulnérabilités dans les produits Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-citrix-0)| Citrix  annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles peut permettre à…| 26 septembre 2024|
  |[ 49682509/24 - Vulnérabilité critique dans pgAdmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pgadm1n)| Une vulnérabilité critique a été corrigée dans pgAdmin, un outil de gestion open source largement utilisé pour les bases de données PostgreSQL. Cette vulnérabilité pourrait permettre à un attaquant…| 25 septembre 2024|
  |[ 49662409/24 - Mise à jour de sécurité pour Google Chrome OS ](https://www.dgssi.gov.ma/fr/bulletins/mise-jour-de-securite-pour-google-chrome-os)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités       affectant le Système d’exploitation Google Chrome OS. L'exploitation  de ces vulnérabilités…| 24 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WatchGuard - CVE-2024-6592](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6592-2024-09-27)|Visit link for details.|27/09/2024|
+ |[TeamViewer - CVE-2024-7481](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-7481-2024-09-27)|Visit link for details.|27/09/2024|
+ |[Dell - CVE-2024-37125](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37125-2024-09-27)|Visit link for details.|27/09/2024|
+ |[OpenPrinting CUPS - CVE-2024-47177](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47177-2024-09-27)|Visit link for details.|27/09/2024|
+ |[Cisco - CVE-2024-20433](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20433-2024-09-27)|Visit link for details.|27/09/2024|
+ |[HPE Aruba - CVE-2024-42507](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42507-2024-09-26)|Visit link for details.|26/09/2024|
+ |[Cisco - CVE-2024-20464](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20464-2024-09-26)|Visit link for details.|26/09/2024|
+ |[Synology - CVE-2023-52946](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2023-52946-2024-09-26)|Visit link for details.|26/09/2024|
+ |[TeamViewer - CVE-2024-7479](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-7479-2024-09-26)|Visit link for details.|26/09/2024|
+ |[WatchGuard - CVE-2024-6593](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6593-2024-09-26)|Visit link for details.|26/09/2024|
+ |[Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/tenable-cve-2024-45492-2024-09-18)|Visit link for details.|26/09/2024|
  
