@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/10/2024 00:14:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/10/2024 01:22:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7046-1: Flatpak and Bubblewrap vulnerability](https://www.linux.org/threads/usn-7046-1-flatpak-and-bubblewrap-vulnerability.53130/)|Visit link for details.|Sep 30, 2024|
  |[DSA-5779-1 cups - security update](https://www.linux.org/threads/dsa-5779-1-cups-security-update.53104/)|Visit link for details.|Sep 29, 2024|
  |[DSA-5778-1 cups-filters - security update](https://www.linux.org/threads/dsa-5778-1-cups-filters-security-update.53102/)|Visit link for details.|Sep 29, 2024|
  |[DSA-5777-1 booth - security update](https://www.linux.org/threads/dsa-5777-1-booth-security-update.53071/)|Visit link for details.|Sep 27, 2024|
@@ -59,16 +60,15 @@
  |[USN-7042-1: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-1-cups-browsed-vulnerability.53056/)|Visit link for details.|Sep 27, 2024|
  |[USN-7041-1: CUPS vulnerability](https://www.linux.org/threads/usn-7041-1-cups-vulnerability.53055/)|Visit link for details.|Sep 27, 2024|
  |[USN-7040-1: ConfigObj vulnerability](https://www.linux.org/threads/usn-7040-1-configobj-vulnerability.53053/)|Visit link for details.|Sep 26, 2024|
- |[DSA-5775-1 chromium - security update](https://www.linux.org/threads/dsa-5775-1-chromium-security-update.53052/)|Visit link for details.|Sep 26, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -98,7 +98,7 @@
  |[Langflow denial of service (CVE-2024-9277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[authentik cross-provider token validation problems (CVE-2024-47077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[Remote Code Execution in mudler/localai (CVE-2024-6983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[CVE-2024-25412 (CVE-2024-25412)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
