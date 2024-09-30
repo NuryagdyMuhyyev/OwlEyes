@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/09/2024 23:28:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/10/2024 00:14:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
+ |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
+ |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
+ |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams)|Visit link for details.|Sep 25, 2024|
+ |[Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)|Visit link for details.|Sep 25, 2024|
+ |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/09/25/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Sep 25, 2024|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Sep 24, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 24, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,45 +62,16 @@
  |[DSA-5775-1 chromium - security update](https://www.linux.org/threads/dsa-5775-1-chromium-security-update.53052/)|Visit link for details.|Sep 26, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
- |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
- |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams)|Visit link for details.|Sep 25, 2024|
- |[Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)|Visit link for details.|Sep 25, 2024|
- |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/09/25/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Sep 25, 2024|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Sep 24, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 24, 2024|
- |[Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-45229](https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229)|Visit link for details.|Sep 20, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Filament cross-site scripting (CVE-2024-47186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[Langflow denial of service (CVE-2024-9277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[authentik cross-provider token validation problems (CVE-2024-47077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[Remote Code Execution in mudler/localai (CVE-2024-6983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -101,6 +88,19 @@
  |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and security restriction bypass on the targeted system.|Release Date: 27 Sep 2024 |
  |[Citrix Products Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240926)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system. |Release Date: 26 Sep 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240926)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 26 Sep 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Filament cross-site scripting (CVE-2024-47186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[Langflow denial of service (CVE-2024-9277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[authentik cross-provider token validation problems (CVE-2024-47077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[Remote Code Execution in mudler/localai (CVE-2024-6983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[CVE-2024-25412 (CVE-2024-25412)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
