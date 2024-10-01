@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/10/2024 14:23:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/10/2024 15:23:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,23 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 24, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7046-1: Flatpak and Bubblewrap vulnerability](https://www.linux.org/threads/usn-7046-1-flatpak-and-bubblewrap-vulnerability.53130/)|Visit link for details.|Sep 30, 2024|
+ |[DSA-5779-1 cups - security update](https://www.linux.org/threads/dsa-5779-1-cups-security-update.53104/)|Visit link for details.|Sep 29, 2024|
+ |[DSA-5778-1 cups-filters - security update](https://www.linux.org/threads/dsa-5778-1-cups-filters-security-update.53102/)|Visit link for details.|Sep 29, 2024|
+ |[DSA-5777-1 booth - security update](https://www.linux.org/threads/dsa-5777-1-booth-security-update.53071/)|Visit link for details.|Sep 27, 2024|
+ |[DSA-5776-1 tryton-server - security update](https://www.linux.org/threads/dsa-5776-1-tryton-server-security-update.53070/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7045-1: libppd vulnerability](https://www.linux.org/threads/usn-7045-1-libppd-vulnerability.53059/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7044-1: libcupsfilters vulnerability](https://www.linux.org/threads/usn-7044-1-libcupsfilters-vulnerability.53058/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7043-1: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-1-cups-filters-vulnerabilities.53057/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7042-1: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-1-cups-browsed-vulnerability.53056/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7041-1: CUPS vulnerability](https://www.linux.org/threads/usn-7041-1-cups-vulnerability.53055/)|Visit link for details.|Sep 27, 2024|
+ |[USN-7040-1: ConfigObj vulnerability](https://www.linux.org/threads/usn-7040-1-configobj-vulnerability.53053/)|Visit link for details.|Sep 26, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -67,21 +84,10 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240926)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 26 Sep 2024 |
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-7046-1: Flatpak and Bubblewrap vulnerability](https://www.linux.org/threads/usn-7046-1-flatpak-and-bubblewrap-vulnerability.53130/)|Visit link for details.|Sep 30, 2024|
- |[DSA-5779-1 cups - security update](https://www.linux.org/threads/dsa-5779-1-cups-security-update.53104/)|Visit link for details.|Sep 29, 2024|
- |[DSA-5778-1 cups-filters - security update](https://www.linux.org/threads/dsa-5778-1-cups-filters-security-update.53102/)|Visit link for details.|Sep 29, 2024|
- |[DSA-5777-1 booth - security update](https://www.linux.org/threads/dsa-5777-1-booth-security-update.53071/)|Visit link for details.|Sep 27, 2024|
- |[DSA-5776-1 tryton-server - security update](https://www.linux.org/threads/dsa-5776-1-tryton-server-security-update.53070/)|Visit link for details.|Sep 27, 2024|
- |[USN-7045-1: libppd vulnerability](https://www.linux.org/threads/usn-7045-1-libppd-vulnerability.53059/)|Visit link for details.|Sep 27, 2024|
- |[USN-7044-1: libcupsfilters vulnerability](https://www.linux.org/threads/usn-7044-1-libcupsfilters-vulnerability.53058/)|Visit link for details.|Sep 27, 2024|
- |[USN-7043-1: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-1-cups-filters-vulnerabilities.53057/)|Visit link for details.|Sep 27, 2024|
- |[USN-7042-1: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-1-cups-browsed-vulnerability.53056/)|Visit link for details.|Sep 27, 2024|
- |[USN-7041-1: CUPS vulnerability](https://www.linux.org/threads/usn-7041-1-cups-vulnerability.53055/)|Visit link for details.|Sep 27, 2024|
- |[USN-7040-1: ConfigObj vulnerability](https://www.linux.org/threads/usn-7040-1-configobj-vulnerability.53053/)|Visit link for details.|Sep 26, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -92,15 +98,9 @@
  |[Zimbra Collaboration command execution (CVE-2024-45519)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[Filament cross-site scripting (CVE-2024-47186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[Langflow denial of service (CVE-2024-9277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[authentik cross-provider token validation problems (CVE-2024-47077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -134,23 +134,6 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress GiveWP - CVE-2024-8353](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-givewp-cve-2024-8353-2024-09-30)|Visit link for details.|30/09/2024|
- |[TP-Link - CVE-2024-9284](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-9284-2024-09-30)|Visit link for details.|30/09/2024|
- |[Linux - CVE-2024-46856](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46856-2024-09-30)|Visit link for details.|30/09/2024|
- |[Grafana SDK Go - CVE-2024-8986](https://www.cyberveille-sante.gouv.fr/alertes/grafana-sdk-go-cve-2024-8986-2024-09-30)|Visit link for details.|30/09/2024|
- |[OpenPrinting CUPS - CVE-2024-47076](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47076-2024-09-30)|Visit link for details.|30/09/2024|
- |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|30/09/2024|
- |[SolarWinds - CVE-2024-28987](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28987-2024-08-22)|Visit link for details.|30/09/2024|
- |[WatchGuard - CVE-2024-6592](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6592-2024-09-27)|Visit link for details.|27/09/2024|
- |[TeamViewer - CVE-2024-7481](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-7481-2024-09-27)|Visit link for details.|27/09/2024|
- |[Dell - CVE-2024-37125](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37125-2024-09-27)|Visit link for details.|27/09/2024|
- |[OpenPrinting CUPS - CVE-2024-47177](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47177-2024-09-27)|Visit link for details.|27/09/2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -182,4 +165,21 @@
  |[ 49722609/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia)| Deux vulnérabilités ont été corrigées dans les produits NVIDIA susmentionnés. Une exploitation réussie de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir une…| 26 septembre 2024|
  |[ 49712609/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-25)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 26 septembre 2024|
  |[ 49702609/24 - Vulnérabilité dans Xen ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-xen-1)| Une vulnérabilité a été corrigée dans Xen. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.| 26 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress GiveWP - CVE-2024-8353](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-givewp-cve-2024-8353-2024-09-30)|Visit link for details.|30/09/2024|
+ |[TP-Link - CVE-2024-9284](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-9284-2024-09-30)|Visit link for details.|30/09/2024|
+ |[Linux - CVE-2024-46856](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46856-2024-09-30)|Visit link for details.|30/09/2024|
+ |[Grafana SDK Go - CVE-2024-8986](https://www.cyberveille-sante.gouv.fr/alertes/grafana-sdk-go-cve-2024-8986-2024-09-30)|Visit link for details.|30/09/2024|
+ |[OpenPrinting CUPS - CVE-2024-47076](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47076-2024-09-30)|Visit link for details.|30/09/2024|
+ |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|30/09/2024|
+ |[SolarWinds - CVE-2024-28987](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28987-2024-08-22)|Visit link for details.|30/09/2024|
+ |[WatchGuard - CVE-2024-6592](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6592-2024-09-27)|Visit link for details.|27/09/2024|
+ |[TeamViewer - CVE-2024-7481](https://www.cyberveille-sante.gouv.fr/alertes/teamviewer-cve-2024-7481-2024-09-27)|Visit link for details.|27/09/2024|
+ |[Dell - CVE-2024-37125](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37125-2024-09-27)|Visit link for details.|27/09/2024|
+ |[OpenPrinting CUPS - CVE-2024-47177](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47177-2024-09-27)|Visit link for details.|27/09/2024|
  
