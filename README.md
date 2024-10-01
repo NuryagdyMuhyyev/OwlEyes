@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/10/2024 20:22:34 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/10/2024 21:27:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,29 +49,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7022-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-2-linux-kernel-vulnerabilities.53146/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7043-2: cups-filters vulnerability](https://www.linux.org/threads/usn-7043-2-cups-filters-vulnerability.53145/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7049-1: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-1-php-vulnerabilities.53144/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7003-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-5-linux-kernel-vulnerabilities.53143/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7048-1: Vim vulnerability](https://www.linux.org/threads/usn-7048-1-vim-vulnerability.53142/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7041-2: CUPS vulnerability](https://www.linux.org/threads/usn-7041-2-cups-vulnerability.53141/)|Visit link for details.|Oct 1, 2024|
+ |[USN-6964-2: ORC vulnerability](https://www.linux.org/threads/usn-6964-2-orc-vulnerability.53140/)|Visit link for details.|Oct 1, 2024|
  |[USN-7015-3: Python vulnerability](https://www.linux.org/threads/usn-7015-3-python-vulnerability.53138/)|Visit link for details.|Oct 1, 2024|
  |[USN-7046-1: Flatpak and Bubblewrap vulnerability](https://www.linux.org/threads/usn-7046-1-flatpak-and-bubblewrap-vulnerability.53130/)|Visit link for details.|Sep 30, 2024|
  |[DSA-5779-1 cups - security update](https://www.linux.org/threads/dsa-5779-1-cups-security-update.53104/)|Visit link for details.|Sep 29, 2024|
  |[DSA-5778-1 cups-filters - security update](https://www.linux.org/threads/dsa-5778-1-cups-filters-security-update.53102/)|Visit link for details.|Sep 29, 2024|
- |[DSA-5777-1 booth - security update](https://www.linux.org/threads/dsa-5777-1-booth-security-update.53071/)|Visit link for details.|Sep 27, 2024|
- |[DSA-5776-1 tryton-server - security update](https://www.linux.org/threads/dsa-5776-1-tryton-server-security-update.53070/)|Visit link for details.|Sep 27, 2024|
- |[USN-7045-1: libppd vulnerability](https://www.linux.org/threads/usn-7045-1-libppd-vulnerability.53059/)|Visit link for details.|Sep 27, 2024|
- |[USN-7044-1: libcupsfilters vulnerability](https://www.linux.org/threads/usn-7044-1-libcupsfilters-vulnerability.53058/)|Visit link for details.|Sep 27, 2024|
- |[USN-7043-1: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-1-cups-filters-vulnerabilities.53057/)|Visit link for details.|Sep 27, 2024|
- |[USN-7042-1: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-1-cups-browsed-vulnerability.53056/)|Visit link for details.|Sep 27, 2024|
- |[USN-7041-1: CUPS vulnerability](https://www.linux.org/threads/usn-7041-1-cups-vulnerability.53055/)|Visit link for details.|Sep 27, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -90,6 +78,18 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240926)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 26 Sep 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -98,9 +98,23 @@
  |[Zimbra Collaboration command execution (CVE-2024-45519)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[Filament cross-site scripting (CVE-2024-47186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[Langflow denial of service (CVE-2024-9277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[authentik cross-provider token validation problems (CVE-2024-47077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Lenovo Service Bridge Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1310/)|Visit link for details|2024-09-27|
+ |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1309/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1308/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1307/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1306/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1305/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1304/)|Visit link for details|2024-09-26|
+ |[Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1303/)|Visit link for details|2024-09-26|
  
 
 # EU-CERT
@@ -120,24 +134,12 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Lenovo Service Bridge Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1310/)|Visit link for details|2024-09-27|
- |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1309/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1308/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1307/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1306/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1305/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1304/)|Visit link for details|2024-09-26|
- |[Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1303/)|Visit link for details|2024-09-26|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[IBM security advisory (AV24-547)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-547)|Visit link for details|2024-10-01|
+ |[Dell security advisory (AV24-546)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-546)|Visit link for details|2024-10-01|
  |[Microsoft Edge security advisory (AV24-545)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-545)|Visit link for details|2024-09-27|
  |[HPE security advisory (AV24-544)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-544)|Visit link for details|2024-09-27|
  |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
@@ -147,8 +149,23 @@
  |[Google Chrome security advisory (AV24-539)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-539)|Visit link for details|2024-09-24|
  |[IBM security advisory (AV24-538)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-538)|Visit link for details|2024-09-23|
  |[[Control systems] CISA ICS security advisories (AV24-537)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-537)|Visit link for details|2024-09-23|
- |[Ubuntu security advisory (AV24-536)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-536)|Visit link for details|2024-09-23|
- |[Red Hat security advisory (AV24-535)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-535)|Visit link for details|2024-09-23|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Tenable Nessus - CVE-2024-9158](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-9158-2024-10-01)|Visit link for details.|01/10/2024|
+ |[SourceCodester - CVE-2024-46293](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-cve-2024-46293-2024-10-01)|Visit link for details.|01/10/2024|
+ |[Octopus - CVE-2024-9194](https://www.cyberveille-sante.gouv.fr/alertes/octopus-cve-2024-9194-2024-10-01)|Visit link for details.|01/10/2024|
+ |[Linux - CVE-2024-46854](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46854-2024-10-01)|Visit link for details.|01/10/2024|
+ |[OpenPrinting CUPS - CVE-2024-47175](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47175-2024-10-01)|Visit link for details.|01/10/2024|
+ |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|01/10/2024|
+ |[WatchGuard - CVE-2024-6592](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6592-2024-09-27)|Visit link for details.|01/10/2024|
+ |[WatchGuard - CVE-2024-6593](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6593-2024-09-26)|Visit link for details.|01/10/2024|
+ |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|01/10/2024|
+ |[WordPress GiveWP - CVE-2024-8353](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-givewp-cve-2024-8353-2024-09-30)|Visit link for details.|30/09/2024|
+ |[TP-Link - CVE-2024-9284](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-9284-2024-09-30)|Visit link for details.|30/09/2024|
  
 
 # MA-CERT
@@ -165,21 +182,4 @@
  |[ 49732609/24 - Vulnérabilités dans plusieurs produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-cisco)| Cisco annonce la correction de plusieurs vulnérabilités dans les produits Cisco susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir…| 26 septembre 2024|
  |[ 49722609/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia)| Deux vulnérabilités ont été corrigées dans les produits NVIDIA susmentionnés. Une exploitation réussie de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir une…| 26 septembre 2024|
  |[ 49712609/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-25)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 26 septembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|01/10/2024|
- |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|01/10/2024|
- |[WatchGuard - CVE-2024-6592](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6592-2024-09-27)|Visit link for details.|01/10/2024|
- |[WatchGuard - CVE-2024-6593](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6593-2024-09-26)|Visit link for details.|01/10/2024|
- |[WordPress GiveWP - CVE-2024-8353](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-givewp-cve-2024-8353-2024-09-30)|Visit link for details.|30/09/2024|
- |[TP-Link - CVE-2024-9284](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-9284-2024-09-30)|Visit link for details.|30/09/2024|
- |[Linux - CVE-2024-46856](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46856-2024-09-30)|Visit link for details.|30/09/2024|
- |[Grafana SDK Go - CVE-2024-8986](https://www.cyberveille-sante.gouv.fr/alertes/grafana-sdk-go-cve-2024-8986-2024-09-30)|Visit link for details.|30/09/2024|
- |[OpenPrinting CUPS - CVE-2024-47076](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47076-2024-09-30)|Visit link for details.|30/09/2024|
- |[Google Chrome - CVE-2024-9120](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9120-2024-09-25)|Visit link for details.|30/09/2024|
- |[SolarWinds - CVE-2024-28987](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28987-2024-08-22)|Visit link for details.|30/09/2024|
  
