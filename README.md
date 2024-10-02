@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/10/2024 06:39:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/10/2024 07:51:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,26 +62,32 @@
  |[DSA-5779-1 cups - security update](https://www.linux.org/threads/dsa-5779-1-cups-security-update.53104/)|Visit link for details.|Sep 29, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass and sensitive information disclosure on the targeted system. |Release Date: 2 Oct 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. |Release Date: 2 Oct 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 2 Oct 2024 |
+ |[Juniper Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-products-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in Juniper products, a remote attacker could exploit some of these vulnerabilities to trigger data manipulation and security restriction bypass on the targeted system.|Release Date: 2 Oct 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass, elevation of privilege and spoofing on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-09-17]Updated Description, System / Technologies affected, Solutions...| Release Date: 4 Sep 2024 |
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 27 Sep 2024 |
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted...|Release Date: 27 Sep 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 27 Sep 2024 |
- |[GitLab Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/gitlab-security-restriction-bypass-vulnerability_20240919)|A vulnerability has been identified in GitLab. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system. [Updated on 2024-09-27]Updated System / Technologies affected, Solutions and Related Links.| Release Date: 19 Sep 2024 |
- |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and security restriction bypass on the targeted system.|Release Date: 27 Sep 2024 |
- |[Citrix Products Denial of Service Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20240926)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system. |Release Date: 26 Sep 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20240926)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 26 Sep 2024 |
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -92,15 +98,9 @@
  |[Zimbra Collaboration command execution (CVE-2024-45519)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[Filament cross-site scripting (CVE-2024-47186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[Langflow denial of service (CVE-2024-9277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[authentik cross-provider token validation problems (CVE-2024-47077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -115,6 +115,23 @@
  |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1305/)|Visit link for details|2024-09-26|
  |[Foxit PDF Reader AcroForm Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1304/)|Visit link for details|2024-09-26|
  |[Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1303/)|Visit link for details|2024-09-26|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
+ |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
+ |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
+ |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
+ |[IBM security advisory (AV24-547)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-547)|Visit link for details|2024-10-01|
+ |[Dell security advisory (AV24-546)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-546)|Visit link for details|2024-10-01|
+ |[Microsoft Edge security advisory (AV24-545)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-545)|Visit link for details|2024-09-27|
+ |[HPE security advisory (AV24-544)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-544)|Visit link for details|2024-09-27|
+ |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
+ |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
+ |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
  
 
 # EU-CERT
@@ -134,23 +151,6 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tenable Nessus - CVE-2024-9158](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-9158-2024-10-01)|Visit link for details.|01/10/2024|
- |[SourceCodester - CVE-2024-46293](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-cve-2024-46293-2024-10-01)|Visit link for details.|01/10/2024|
- |[Octopus - CVE-2024-9194](https://www.cyberveille-sante.gouv.fr/alertes/octopus-cve-2024-9194-2024-10-01)|Visit link for details.|01/10/2024|
- |[Linux - CVE-2024-46854](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46854-2024-10-01)|Visit link for details.|01/10/2024|
- |[OpenPrinting CUPS - CVE-2024-47175](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47175-2024-10-01)|Visit link for details.|01/10/2024|
- |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|01/10/2024|
- |[WatchGuard - CVE-2024-6592](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6592-2024-09-27)|Visit link for details.|01/10/2024|
- |[WatchGuard - CVE-2024-6593](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6593-2024-09-26)|Visit link for details.|01/10/2024|
- |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|01/10/2024|
- |[WordPress GiveWP - CVE-2024-8353](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-givewp-cve-2024-8353-2024-09-30)|Visit link for details.|30/09/2024|
- |[TP-Link - CVE-2024-9284](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-9284-2024-09-30)|Visit link for details.|30/09/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -167,19 +167,19 @@
  |[ 49712609/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-25)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 26 septembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
- |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
- |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
- |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
- |[IBM security advisory (AV24-547)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-547)|Visit link for details|2024-10-01|
- |[Dell security advisory (AV24-546)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-546)|Visit link for details|2024-10-01|
- |[Microsoft Edge security advisory (AV24-545)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-545)|Visit link for details|2024-09-27|
- |[HPE security advisory (AV24-544)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-544)|Visit link for details|2024-09-27|
- |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
- |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
- |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
+ |[Tenable Nessus - CVE-2024-9158](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-9158-2024-10-01)|Visit link for details.|01/10/2024|
+ |[SourceCodester - CVE-2024-46293](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-cve-2024-46293-2024-10-01)|Visit link for details.|01/10/2024|
+ |[Octopus - CVE-2024-9194](https://www.cyberveille-sante.gouv.fr/alertes/octopus-cve-2024-9194-2024-10-01)|Visit link for details.|01/10/2024|
+ |[Linux - CVE-2024-46854](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46854-2024-10-01)|Visit link for details.|01/10/2024|
+ |[OpenPrinting CUPS - CVE-2024-47175](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47175-2024-10-01)|Visit link for details.|01/10/2024|
+ |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|01/10/2024|
+ |[WatchGuard - CVE-2024-6592](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6592-2024-09-27)|Visit link for details.|01/10/2024|
+ |[WatchGuard - CVE-2024-6593](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6593-2024-09-26)|Visit link for details.|01/10/2024|
+ |[pgAdmin - CVE-2024-9014](https://www.cyberveille-sante.gouv.fr/alertes/pgadmin-cve-2024-9014-2024-09-25)|Visit link for details.|01/10/2024|
+ |[WordPress GiveWP - CVE-2024-8353](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-givewp-cve-2024-8353-2024-09-30)|Visit link for details.|30/09/2024|
+ |[TP-Link - CVE-2024-9284](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-9284-2024-09-30)|Visit link for details.|30/09/2024|
  
