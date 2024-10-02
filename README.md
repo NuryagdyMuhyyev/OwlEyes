@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/10/2024 22:17:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/10/2024 23:29:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,18 +45,6 @@
  |[Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)|Visit link for details.|Sep 25, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -72,6 +60,12 @@
  |[USN-7041-2: CUPS vulnerability](https://www.linux.org/threads/usn-7041-2-cups-vulnerability.53141/)|Visit link for details.|Oct 1, 2024|
  |[USN-6964-2: ORC vulnerability](https://www.linux.org/threads/usn-6964-2-orc-vulnerability.53140/)|Visit link for details.|Oct 1, 2024|
  |[USN-7015-3: Python vulnerability](https://www.linux.org/threads/usn-7015-3-python-vulnerability.53138/)|Visit link for details.|Oct 1, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -90,24 +84,40 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 27 Sep 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Autodesk Navisworks Freedom DWF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1320/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1319/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1318/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1317/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1316/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1315/)|Visit link for details|2024-10-02|
- |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
- |[Apple macOS ImageIO PSD File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1313/)|Visit link for details|2024-10-02|
+ |[Apache Lucene Replicator code execution (CVE-2024-45772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 28, 2024|
+ |[Zimbra Collaboration command execution (CVE-2024-45519)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[Filament cross-site scripting (CVE-2024-47186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[Langflow denial of service (CVE-2024-9277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE security advisory (AV24-555)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-555)|Visit link for details|2024-10-02|
+ |[Juniper Networks security advisory (AV24-554)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-554)|Visit link for details|2024-10-02|
+ |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
+ |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
+ |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
+ |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
+ |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
+ |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
+ |[IBM security advisory (AV24-547)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-547)|Visit link for details|2024-10-01|
+ |[Dell security advisory (AV24-546)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-546)|Visit link for details|2024-10-01|
+ |[Microsoft Edge security advisory (AV24-545)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-545)|Visit link for details|2024-09-27|
  
 
 # EU-CERT
@@ -127,6 +137,20 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1321/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1320/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1319/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1318/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1317/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1316/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1315/)|Visit link for details|2024-10-02|
+ |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -140,23 +164,6 @@
  |[ 49772709/24 - Vulnérabilités critiques dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-php)| PHP a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les versions susmentionnées de PHP. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 27 septembre 2024|
  |[ 49752709/24 - Vulnérabilité critique affectant le plugin «The Events Calendar» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» utilisé par le CMS    WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 27 septembre 2024|
  |[ 49762709/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance. | 27 septembre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Networks security advisory (AV24-554)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-554)|Visit link for details|2024-10-02|
- |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
- |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
- |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
- |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
- |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
- |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
- |[IBM security advisory (AV24-547)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-547)|Visit link for details|2024-10-01|
- |[Dell security advisory (AV24-546)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-546)|Visit link for details|2024-10-01|
- |[Microsoft Edge security advisory (AV24-545)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-545)|Visit link for details|2024-09-27|
- |[HPE security advisory (AV24-544)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-544)|Visit link for details|2024-09-27|
  
 
 # CERT-SANTE
