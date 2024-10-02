@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/10/2024 20:22:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/10/2024 21:26:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 01, 2024|
+ |[ASD’s ACSC, CISA, FBI, NSA, and International Partners Release Guidance on Principles of OT Cybersecurity for Critical Infrastructure Organizations](https://www.cisa.gov/news-events/alerts/2024/10/01/asds-acsc-cisa-fbi-nsa-and-international-partners-release-guidance-principles-ot-cybersecurity)|Visit link for details.|Oct 01, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
+ |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
+ |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
+ |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams)|Visit link for details.|Sep 25, 2024|
+ |[Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)|Visit link for details.|Sep 25, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,29 +62,7 @@
  |[USN-7015-3: Python vulnerability](https://www.linux.org/threads/usn-7015-3-python-vulnerability.53138/)|Visit link for details.|Oct 1, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 01, 2024|
- |[ASD’s ACSC, CISA, FBI, NSA, and International Partners Release Guidance on Principles of OT Cybersecurity for Critical Infrastructure Organizations](https://www.cisa.gov/news-events/alerts/2024/10/01/asds-acsc-cisa-fbi-nsa-and-international-partners-release-guidance-principles-ot-cybersecurity)|Visit link for details.|Oct 01, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
- |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
- |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
- |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams)|Visit link for details.|Sep 25, 2024|
- |[Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)|Visit link for details.|Sep 25, 2024|
- 
-
 # CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -88,6 +82,12 @@
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 27 Sep 2024 |
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted...|Release Date: 27 Sep 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20240927)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and security restriction bypass on the targeted system.|Release Date: 27 Sep 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -117,6 +117,23 @@
  |[Apple macOS ImageIO PSD File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1313/)|Visit link for details|2024-10-02|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
+ |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
+ |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
+ |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
+ |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
+ |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
+ |[IBM security advisory (AV24-547)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-547)|Visit link for details|2024-10-01|
+ |[Dell security advisory (AV24-546)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-546)|Visit link for details|2024-10-01|
+ |[Microsoft Edge security advisory (AV24-545)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-545)|Visit link for details|2024-09-27|
+ |[HPE security advisory (AV24-544)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-544)|Visit link for details|2024-09-27|
+ |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -134,40 +151,6 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
- |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
- |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
- |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
- |[IBM security advisory (AV24-547)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-547)|Visit link for details|2024-10-01|
- |[Dell security advisory (AV24-546)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-546)|Visit link for details|2024-10-01|
- |[Microsoft Edge security advisory (AV24-545)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-545)|Visit link for details|2024-09-27|
- |[HPE security advisory (AV24-544)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-544)|Visit link for details|2024-09-27|
- |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
- |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
- |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla Firefox - CVE-2024-9402](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-9402-2024-10-02)|Visit link for details.|02/10/2024|
- |[Mitel - CVE-2024-42514](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-42514-2024-10-02)|Visit link for details.|02/10/2024|
- |[Zimbra - CVE-2024-45519](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2024-45519-2024-10-02)|Visit link for details.|02/10/2024|
- |[FreeRadius - CVE-2024-3596](https://www.cyberveille-sante.gouv.fr/alertes/freeradius-cve-2024-3596-2024-07-11)|Visit link for details.|02/10/2024|
- |[Tenable Nessus - CVE-2024-9158](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-9158-2024-10-01)|Visit link for details.|01/10/2024|
- |[SourceCodester - CVE-2024-46293](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-cve-2024-46293-2024-10-01)|Visit link for details.|01/10/2024|
- |[Octopus - CVE-2024-9194](https://www.cyberveille-sante.gouv.fr/alertes/octopus-cve-2024-9194-2024-10-01)|Visit link for details.|01/10/2024|
- |[Linux - CVE-2024-46854](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46854-2024-10-01)|Visit link for details.|01/10/2024|
- |[OpenPrinting CUPS - CVE-2024-47175](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47175-2024-10-01)|Visit link for details.|01/10/2024|
- |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|01/10/2024|
- |[WatchGuard - CVE-2024-6592](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-6592-2024-09-27)|Visit link for details.|01/10/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -181,4 +164,21 @@
  |[ 49772709/24 - Vulnérabilités critiques dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-php)| PHP a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les versions susmentionnées de PHP. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 27 septembre 2024|
  |[ 49752709/24 - Vulnérabilité critique affectant le plugin «The Events Calendar» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» utilisé par le CMS    WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 27 septembre 2024|
  |[ 49762709/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance. | 27 septembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress WhatsUp Gold - CVE-2024-8785](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-8785-2024-10-02)|Visit link for details.|02/10/2024|
+ |[Google Chrome - CVE-2024-9369](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9369-2024-10-02)|Visit link for details.|02/10/2024|
+ |[Mozilla Firefox - CVE-2024-9402](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-9402-2024-10-02)|Visit link for details.|02/10/2024|
+ |[Mitel - CVE-2024-42514](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-42514-2024-10-02)|Visit link for details.|02/10/2024|
+ |[FreeRadius - CVE-2024-3596](https://www.cyberveille-sante.gouv.fr/alertes/freeradius-cve-2024-3596-2024-07-11)|Visit link for details.|02/10/2024|
+ |[Zimbra - CVE-2024-45519](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2024-45519-2024-10-02)|Visit link for details.|02/10/2024|
+ |[Tenable Nessus - CVE-2024-9158](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-9158-2024-10-01)|Visit link for details.|01/10/2024|
+ |[SourceCodester - CVE-2024-46293](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-cve-2024-46293-2024-10-01)|Visit link for details.|01/10/2024|
+ |[Octopus - CVE-2024-9194](https://www.cyberveille-sante.gouv.fr/alertes/octopus-cve-2024-9194-2024-10-01)|Visit link for details.|01/10/2024|
+ |[Linux - CVE-2024-46854](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46854-2024-10-01)|Visit link for details.|01/10/2024|
+ |[OpenPrinting CUPS - CVE-2024-47175](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47175-2024-10-01)|Visit link for details.|01/10/2024|
  
