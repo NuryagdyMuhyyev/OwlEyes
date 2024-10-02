@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/10/2024 03:21:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/10/2024 04:20:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7051-1: AsyncSSH vulnerability](https://www.linux.org/threads/usn-7051-1-asyncssh-vulnerability.53160/)|Visit link for details.|Oct 2, 2024|
- |[USN-7047-1: Knot Resolver vulnerabilities](https://www.linux.org/threads/usn-7047-1-knot-resolver-vulnerabilities.53154/)|Visit link for details.|Oct 2, 2024|
- |[USN-7050-1: Devise-Two-Factor vulnerabilities](https://www.linux.org/threads/usn-7050-1-devise-two-factor-vulnerabilities.53149/)|Visit link for details.|Oct 1, 2024|
- |[USN-7022-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-2-linux-kernel-vulnerabilities.53146/)|Visit link for details.|Oct 1, 2024|
- |[USN-7043-2: cups-filters vulnerability](https://www.linux.org/threads/usn-7043-2-cups-filters-vulnerability.53145/)|Visit link for details.|Oct 1, 2024|
- |[USN-7049-1: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-1-php-vulnerabilities.53144/)|Visit link for details.|Oct 1, 2024|
- |[USN-7003-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-5-linux-kernel-vulnerabilities.53143/)|Visit link for details.|Oct 1, 2024|
- |[USN-7048-1: Vim vulnerability](https://www.linux.org/threads/usn-7048-1-vim-vulnerability.53142/)|Visit link for details.|Oct 1, 2024|
- |[USN-7041-2: CUPS vulnerability](https://www.linux.org/threads/usn-7041-2-cups-vulnerability.53141/)|Visit link for details.|Oct 1, 2024|
- |[USN-6964-2: ORC vulnerability](https://www.linux.org/threads/usn-6964-2-orc-vulnerability.53140/)|Visit link for details.|Oct 1, 2024|
- |[USN-7015-3: Python vulnerability](https://www.linux.org/threads/usn-7015-3-python-vulnerability.53138/)|Visit link for details.|Oct 1, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -66,6 +49,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7051-1: AsyncSSH vulnerability](https://www.linux.org/threads/usn-7051-1-asyncssh-vulnerability.53160/)|Visit link for details.|Oct 2, 2024|
+ |[USN-7047-1: Knot Resolver vulnerabilities](https://www.linux.org/threads/usn-7047-1-knot-resolver-vulnerabilities.53154/)|Visit link for details.|Oct 2, 2024|
+ |[USN-7050-1: Devise-Two-Factor vulnerabilities](https://www.linux.org/threads/usn-7050-1-devise-two-factor-vulnerabilities.53149/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7022-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-2-linux-kernel-vulnerabilities.53146/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7043-2: cups-filters vulnerability](https://www.linux.org/threads/usn-7043-2-cups-filters-vulnerability.53145/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7049-1: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-1-php-vulnerabilities.53144/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7003-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-5-linux-kernel-vulnerabilities.53143/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7048-1: Vim vulnerability](https://www.linux.org/threads/usn-7048-1-vim-vulnerability.53142/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7041-2: CUPS vulnerability](https://www.linux.org/threads/usn-7041-2-cups-vulnerability.53141/)|Visit link for details.|Oct 1, 2024|
+ |[USN-6964-2: ORC vulnerability](https://www.linux.org/threads/usn-6964-2-orc-vulnerability.53140/)|Visit link for details.|Oct 1, 2024|
+ |[USN-7015-3: Python vulnerability](https://www.linux.org/threads/usn-7015-3-python-vulnerability.53138/)|Visit link for details.|Oct 1, 2024|
  
 
 # HK-CERT
@@ -134,23 +134,6 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
- |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
- |[Jenkins security advisory (AV24-556)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-556)|Visit link for details|2024-10-02|
- |[HPE security advisory (AV24-555)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-555)|Visit link for details|2024-10-02|
- |[Juniper Networks security advisory (AV24-554)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-554)|Visit link for details|2024-10-02|
- |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
- |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
- |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
- |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
- |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
- |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -181,4 +164,21 @@
  |[ 49772709/24 - Vulnérabilités critiques dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-php)| PHP a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les versions susmentionnées de PHP. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 27 septembre 2024|
  |[ 49752709/24 - Vulnérabilité critique affectant le plugin «The Events Calendar» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» utilisé par le CMS    WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 27 septembre 2024|
  |[ 49762709/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance. | 27 septembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
+ |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
+ |[Jenkins security advisory (AV24-556)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-556)|Visit link for details|2024-10-02|
+ |[HPE security advisory (AV24-555)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-555)|Visit link for details|2024-10-02|
+ |[Juniper Networks security advisory (AV24-554)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-554)|Visit link for details|2024-10-02|
+ |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
+ |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
+ |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
+ |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
+ |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
+ |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
  
