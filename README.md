@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/10/2024 12:19:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/10/2024 13:27:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[Citrix Releases Security Updates for XenServer and Citrix Hypervisor](https://www.cisa.gov/news-events/alerts/2024/09/25/citrix-releases-security-updates-xenserver-and-citrix-hypervisor)|Visit link for details.|Sep 25, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,12 @@
  |[USN-6964-2: ORC vulnerability](https://www.linux.org/threads/usn-6964-2-orc-vulnerability.53140/)|Visit link for details.|Oct 1, 2024|
  |[USN-7015-3: Python vulnerability](https://www.linux.org/threads/usn-7015-3-python-vulnerability.53138/)|Visit link for details.|Oct 1, 2024|
  |[USN-7046-1: Flatpak and Bubblewrap vulnerability](https://www.linux.org/threads/usn-7046-1-flatpak-and-bubblewrap-vulnerability.53130/)|Visit link for details.|Sep 30, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -134,20 +134,21 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# MA-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[ 49810110/24 - Vulnérabilité dans Western Digital My Cloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-western-digital-my-cloud)| Une vulnérabilité a été corrigée dans Western Digital My Cloud. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire.| 01 octobre 2024|
- |[ 49803009/24 - Vulnérabilités dans Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-pdf-editor)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 30 septembre 2024|
- |[ 49783009/24 - Vulnérabilités critiques dans OpenPrinting Common Unix Printing System… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-openprinting-common-unix-printing-system-cups)| Plusieurs vulnérabilités critiques ont été découvertes dans le système d'impression commun d'Unix (CUPS) OpenPrinting, un serveur d'impression largement utilisé sur les distributions Linux et d'autres…| 30 septembre 2024|
- |[ 49742709/24 - Vulnérabilités dans WatchGuard Single Sign-On Agent et Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-watchguard-single-sign-agent-et-gateway)| Deux vulnérabilités ont été détectées dans le protocole de communication entre WatchGuard Authentication Gateway (alias Single Sign-On Agent) sous Windows et WatchGuard Single Sign-On Client sous…| 27 septembre 2024|
- |[ 49772709/24 - Vulnérabilités critiques dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-php)| PHP a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les versions susmentionnées de PHP. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 27 septembre 2024|
- |[ 49752709/24 - Vulnérabilité critique affectant le plugin «The Events Calendar» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» utilisé par le CMS    WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 27 septembre 2024|
- |[ 49762709/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance. | 27 septembre 2024|
- |[ 49732609/24 - Vulnérabilités dans plusieurs produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-cisco)| Cisco annonce la correction de plusieurs vulnérabilités dans les produits Cisco susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir…| 26 septembre 2024|
- |[ 49722609/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia)| Deux vulnérabilités ont été corrigées dans les produits NVIDIA susmentionnés. Une exploitation réussie de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir une…| 26 septembre 2024|
- |[ 49712609/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-25)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 26 septembre 2024|
+ |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
+ |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
+ |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
+ |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
+ |[IBM security advisory (AV24-547)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-547)|Visit link for details|2024-10-01|
+ |[Dell security advisory (AV24-546)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-546)|Visit link for details|2024-10-01|
+ |[Microsoft Edge security advisory (AV24-545)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-545)|Visit link for details|2024-09-27|
+ |[HPE security advisory (AV24-544)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-544)|Visit link for details|2024-09-27|
+ |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
+ |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
+ |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
  
 
 # CERT-SANTE
@@ -167,19 +168,18 @@
  |[TP-Link - CVE-2024-9284](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-9284-2024-09-30)|Visit link for details.|30/09/2024|
  
 
-# CA-CCS
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
- |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
- |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
- |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
- |[IBM security advisory (AV24-547)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-547)|Visit link for details|2024-10-01|
- |[Dell security advisory (AV24-546)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-546)|Visit link for details|2024-10-01|
- |[Microsoft Edge security advisory (AV24-545)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-545)|Visit link for details|2024-09-27|
- |[HPE security advisory (AV24-544)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-544)|Visit link for details|2024-09-27|
- |[GitLab security advisory (AV24-543)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-543)|Visit link for details|2024-09-26|
- |[Foxit security advisory (AV24-542)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-542)|Visit link for details|2024-09-26|
- |[HPE security advisory (AV24-541)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-541)|Visit link for details|2024-09-25|
+ |[ 49810110/24 - Vulnérabilité dans Western Digital My Cloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-western-digital-my-cloud)| Une vulnérabilité a été corrigée dans Western Digital My Cloud. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire.| 01 octobre 2024|
+ |[ 49803009/24 - Vulnérabilités dans Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-pdf-editor)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 30 septembre 2024|
+ |[ 49783009/24 - Vulnérabilités critiques dans OpenPrinting Common Unix Printing System… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-openprinting-common-unix-printing-system-cups)| Plusieurs vulnérabilités critiques ont été découvertes dans le système d'impression commun d'Unix (CUPS) OpenPrinting, un serveur d'impression largement utilisé sur les distributions Linux et d'autres…| 30 septembre 2024|
+ |[ 49742709/24 - Vulnérabilités dans WatchGuard Single Sign-On Agent et Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-watchguard-single-sign-agent-et-gateway)| Deux vulnérabilités ont été détectées dans le protocole de communication entre WatchGuard Authentication Gateway (alias Single Sign-On Agent) sous Windows et WatchGuard Single Sign-On Client sous…| 27 septembre 2024|
+ |[ 49772709/24 - Vulnérabilités critiques dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-php)| PHP a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les versions susmentionnées de PHP. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 27 septembre 2024|
+ |[ 49752709/24 - Vulnérabilité critique affectant le plugin «The Events Calendar» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» utilisé par le CMS    WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 27 septembre 2024|
+ |[ 49762709/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance. | 27 septembre 2024|
+ |[ 49732609/24 - Vulnérabilités dans plusieurs produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-cisco)| Cisco annonce la correction de plusieurs vulnérabilités dans les produits Cisco susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir…| 26 septembre 2024|
+ |[ 49722609/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia)| Deux vulnérabilités ont été corrigées dans les produits NVIDIA susmentionnés. Une exploitation réussie de ces failles pourrait permettre à un attaquant de causer un déni de service, de réussir une…| 26 septembre 2024|
+ |[ 49712609/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-25)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 26 septembre 2024|
  
