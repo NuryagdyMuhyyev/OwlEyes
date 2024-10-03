@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/10/2024 09:26:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/10/2024 10:20:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 01, 2024|
+ |[ASD’s ACSC, CISA, FBI, NSA, and International Partners Release Guidance on Principles of OT Cybersecurity for Critical Infrastructure Organizations](https://www.cisa.gov/news-events/alerts/2024/10/01/asds-acsc-cisa-fbi-nsa-and-international-partners-release-guidance-principles-ot-cybersecurity)|Visit link for details.|Oct 01, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
+ |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
+ |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
+ |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams)|Visit link for details.|Sep 25, 2024|
+ |[Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)|Visit link for details.|Sep 25, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,29 +62,13 @@
  |[USN-6964-2: ORC vulnerability](https://www.linux.org/threads/usn-6964-2-orc-vulnerability.53140/)|Visit link for details.|Oct 1, 2024|
  
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 01, 2024|
- |[ASD’s ACSC, CISA, FBI, NSA, and International Partners Release Guidance on Principles of OT Cybersecurity for Critical Infrastructure Organizations](https://www.cisa.gov/news-events/alerts/2024/10/01/asds-acsc-cisa-fbi-nsa-and-international-partners-release-guidance-principles-ot-cybersecurity)|Visit link for details.|Oct 01, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
- |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
- |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
- |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams)|Visit link for details.|Sep 25, 2024|
- |[Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)|Visit link for details.|Sep 25, 2024|
  
 
 # OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -98,7 +98,7 @@
  |[Zimbra Collaboration command execution (CVE-2024-45519)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[Filament cross-site scripting (CVE-2024-47186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
  |[Langflow denial of service (CVE-2024-9277)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
- |[authentik cross-provider token validation problems (CVE-2024-47077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
