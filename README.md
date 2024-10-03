@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/10/2024 19:20:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/10/2024 20:23:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 03, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 01, 2024|
- |[ASD’s ACSC, CISA, FBI, NSA, and International Partners Release Guidance on Principles of OT Cybersecurity for Critical Infrastructure Organizations](https://www.cisa.gov/news-events/alerts/2024/10/01/asds-acsc-cisa-fbi-nsa-and-international-partners-release-guidance-principles-ot-cybersecurity)|Visit link for details.|Oct 01, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
- |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
- |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
- |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
- |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams)|Visit link for details.|Sep 25, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,22 @@
  |[USN-7043-2: cups-filters vulnerability](https://www.linux.org/threads/usn-7043-2-cups-filters-vulnerability.53145/)|Visit link for details.|Oct 1, 2024|
  |[USN-7049-1: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-1-php-vulnerabilities.53144/)|Visit link for details.|Oct 1, 2024|
  |[USN-7003-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7003-5-linux-kernel-vulnerabilities.53143/)|Visit link for details.|Oct 1, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 03, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 01, 2024|
+ |[ASD’s ACSC, CISA, FBI, NSA, and International Partners Release Guidance on Principles of OT Cybersecurity for Critical Infrastructure Organizations](https://www.cisa.gov/news-events/alerts/2024/10/01/asds-acsc-cisa-fbi-nsa-and-international-partners-release-guidance-principles-ot-cybersecurity)|Visit link for details.|Oct 01, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
+ |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
+ |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
+ |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
+ |[CISA Warns of Hurricane-Related Scams](https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams)|Visit link for details.|Sep 25, 2024|
  
 
 # OBS-Vigilance
@@ -155,23 +155,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco - CVE-2024-20432](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20432-2024-10-03)|Visit link for details.|03/10/2024|
+ |[Cisco - CVE-2024-20393](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20393-2024-10-03)|Visit link for details.|03/10/2024|
+ |[Ivanti - CVE-2024-29824](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29824-2024-05-24)|Visit link for details.|03/10/2024|
+ |[Zimbra - CVE-2024-45519](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2024-45519-2024-10-02)|Visit link for details.|03/10/2024|
  |[Progress WhatsUp Gold - CVE-2024-8785](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-8785-2024-10-02)|Visit link for details.|02/10/2024|
  |[Google Chrome - CVE-2024-9369](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9369-2024-10-02)|Visit link for details.|02/10/2024|
  |[Mozilla Firefox - CVE-2024-9402](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-firefox-cve-2024-9402-2024-10-02)|Visit link for details.|02/10/2024|
  |[Mitel - CVE-2024-42514](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-42514-2024-10-02)|Visit link for details.|02/10/2024|
  |[FreeRadius - CVE-2024-3596](https://www.cyberveille-sante.gouv.fr/alertes/freeradius-cve-2024-3596-2024-07-11)|Visit link for details.|02/10/2024|
- |[Zimbra - CVE-2024-45519](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2024-45519-2024-10-02)|Visit link for details.|02/10/2024|
  |[Tenable Nessus - CVE-2024-9158](https://www.cyberveille-sante.gouv.fr/alertes/tenable-nessus-cve-2024-9158-2024-10-01)|Visit link for details.|01/10/2024|
  |[SourceCodester - CVE-2024-46293](https://www.cyberveille-sante.gouv.fr/alertes/sourcecodester-cve-2024-46293-2024-10-01)|Visit link for details.|01/10/2024|
- |[Octopus - CVE-2024-9194](https://www.cyberveille-sante.gouv.fr/alertes/octopus-cve-2024-9194-2024-10-01)|Visit link for details.|01/10/2024|
- |[Linux - CVE-2024-46854](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46854-2024-10-01)|Visit link for details.|01/10/2024|
- |[OpenPrinting CUPS - CVE-2024-47175](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47175-2024-10-01)|Visit link for details.|01/10/2024|
  
 
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 49890310/24 - Vulnérabilités critiques dans Suricata ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-suricata)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de Suricata. L’exploitation réussit de ces failles permet à un attaquant d’exécuter du code arbitraire à distance,…| 03 octobre 2024|
  |[ 49880310/24 - Vulnérabilités critiques dans les routeurs DrayTek ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-draytek)| DrayTek a publié des mises à jour de sécurité afin de corriger des vulnérabilités critiques affectant plusieurs modèles de ses routeurs. Ces failles affectent à la fois des modèles activement…| 03 octobre 2024|
  |[ 49870310/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-1)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 03 octobre 2024|
  |[ 49860310/24 - Vulnérabilité critique dans Octopus serveur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-octopus-serveur)| Une vulnérabilité critique a été corrigée dans Octopus Deploy Server, une plateforme d'automatisation des déploiements, utilisée pour gérer et orchestrer le déploiement continu d'applications et de…| 03 octobre 2024|
@@ -180,5 +181,4 @@
  |[ 49820210/24 - Vulnérabilité critique dans Juniper Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-juniper-networks)| Juniper annonce la correction d’une vulnérabilité critique dans le protocole RADIUS de Juniper Networks Junos OS, Junos OS Evolved, Junos OS sur la série cRPD et d'autres plates-formes. L’exploitation…| 02 octobre 2024|
  |[ 49810110/24 - Vulnérabilité dans Western Digital My Cloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-western-digital-my-cloud)| Une vulnérabilité a été corrigée dans Western Digital My Cloud. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire.| 01 octobre 2024|
  |[ 49803009/24 - Vulnérabilités dans Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-pdf-editor)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 30 septembre 2024|
- |[ 49783009/24 - Vulnérabilités critiques dans OpenPrinting Common Unix Printing System… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-openprinting-common-unix-printing-system-cups)| Plusieurs vulnérabilités critiques ont été découvertes dans le système d'impression commun d'Unix (CUPS) OpenPrinting, un serveur d'impression largement utilisé sur les distributions Linux et d'autres…| 30 septembre 2024|
  
