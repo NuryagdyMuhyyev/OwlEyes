@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/10/2024 10:20:27 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/10/2024 11:29:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,12 +68,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -90,6 +84,12 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20240904)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass, elevation of privilege and spoofing on the targeted system. [Updated on...| Release Date: 4 Sep 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +101,23 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
+ |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
+ |[Jenkins security advisory (AV24-556)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-556)|Visit link for details|2024-10-02|
+ |[HPE security advisory (AV24-555)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-555)|Visit link for details|2024-10-02|
+ |[Juniper Networks security advisory (AV24-554)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-554)|Visit link for details|2024-10-02|
+ |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
+ |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
+ |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
+ |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
+ |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
+ |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
  
 
 # EU-CERT
@@ -134,38 +151,6 @@
  |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
- |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
- |[Jenkins security advisory (AV24-556)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-556)|Visit link for details|2024-10-02|
- |[HPE security advisory (AV24-555)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-555)|Visit link for details|2024-10-02|
- |[Juniper Networks security advisory (AV24-554)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-554)|Visit link for details|2024-10-02|
- |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
- |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
- |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
- |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
- |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
- |[Ubuntu security advisory (AV24-548)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-548)|Visit link for details|2024-10-01|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
- |[ 49820210/24 - Vulnérabilité critique dans Juniper Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-juniper-networks)| Juniper annonce la correction d’une vulnérabilité critique dans le protocole RADIUS de Juniper Networks Junos OS, Junos OS Evolved, Junos OS sur la série cRPD et d'autres plates-formes. L’exploitation…| 02 octobre 2024|
- |[ 49810110/24 - Vulnérabilité dans Western Digital My Cloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-western-digital-my-cloud)| Une vulnérabilité a été corrigée dans Western Digital My Cloud. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire.| 01 octobre 2024|
- |[ 49803009/24 - Vulnérabilités dans Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-pdf-editor)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 30 septembre 2024|
- |[ 49783009/24 - Vulnérabilités critiques dans OpenPrinting Common Unix Printing System… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-openprinting-common-unix-printing-system-cups)| Plusieurs vulnérabilités critiques ont été découvertes dans le système d'impression commun d'Unix (CUPS) OpenPrinting, un serveur d'impression largement utilisé sur les distributions Linux et d'autres…| 30 septembre 2024|
- |[ 49742709/24 - Vulnérabilités dans WatchGuard Single Sign-On Agent et Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-watchguard-single-sign-agent-et-gateway)| Deux vulnérabilités ont été détectées dans le protocole de communication entre WatchGuard Authentication Gateway (alias Single Sign-On Agent) sous Windows et WatchGuard Single Sign-On Client sous…| 27 septembre 2024|
- |[ 49772709/24 - Vulnérabilités critiques dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-php)| PHP a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les versions susmentionnées de PHP. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 27 septembre 2024|
- |[ 49752709/24 - Vulnérabilité critique affectant le plugin «The Events Calendar» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» utilisé par le CMS    WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 27 septembre 2024|
- |[ 49762709/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance. | 27 septembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -181,4 +166,19 @@
  |[Octopus - CVE-2024-9194](https://www.cyberveille-sante.gouv.fr/alertes/octopus-cve-2024-9194-2024-10-01)|Visit link for details.|01/10/2024|
  |[Linux - CVE-2024-46854](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-46854-2024-10-01)|Visit link for details.|01/10/2024|
  |[OpenPrinting CUPS - CVE-2024-47175](https://www.cyberveille-sante.gouv.fr/alertes/openprinting-cups-cve-2024-47175-2024-10-01)|Visit link for details.|01/10/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
+ |[ 49820210/24 - Vulnérabilité critique dans Juniper Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-juniper-networks)| Juniper annonce la correction d’une vulnérabilité critique dans le protocole RADIUS de Juniper Networks Junos OS, Junos OS Evolved, Junos OS sur la série cRPD et d'autres plates-formes. L’exploitation…| 02 octobre 2024|
+ |[ 49810110/24 - Vulnérabilité dans Western Digital My Cloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-western-digital-my-cloud)| Une vulnérabilité a été corrigée dans Western Digital My Cloud. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire.| 01 octobre 2024|
+ |[ 49803009/24 - Vulnérabilités dans Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-pdf-editor)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 30 septembre 2024|
+ |[ 49783009/24 - Vulnérabilités critiques dans OpenPrinting Common Unix Printing System… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-openprinting-common-unix-printing-system-cups)| Plusieurs vulnérabilités critiques ont été découvertes dans le système d'impression commun d'Unix (CUPS) OpenPrinting, un serveur d'impression largement utilisé sur les distributions Linux et d'autres…| 30 septembre 2024|
+ |[ 49742709/24 - Vulnérabilités dans WatchGuard Single Sign-On Agent et Gateway ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-watchguard-single-sign-agent-et-gateway)| Deux vulnérabilités ont été détectées dans le protocole de communication entre WatchGuard Authentication Gateway (alias Single Sign-On Agent) sous Windows et WatchGuard Single Sign-On Client sous…| 27 septembre 2024|
+ |[ 49772709/24 - Vulnérabilités critiques dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-php)| PHP a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les versions susmentionnées de PHP. L'exploitation réussie de ces vulnérabilités pourrait permettre à…| 27 septembre 2024|
+ |[ 49752709/24 - Vulnérabilité critique affectant le plugin «The Events Calendar» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-events-calendar-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Modern Events Calendar» utilisé par le CMS    WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 27 septembre 2024|
+ |[ 49762709/24 - Vulnérabilités critiques dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-hpe-aruba-networking-2)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance. | 27 septembre 2024|
  
