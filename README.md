@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/10/2024 14:22:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/10/2024 15:22:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,42 +29,10 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 03, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 01, 2024|
- |[ASD’s ACSC, CISA, FBI, NSA, and International Partners Release Guidance on Principles of OT Cybersecurity for Critical Infrastructure Organizations](https://www.cisa.gov/news-events/alerts/2024/10/01/asds-acsc-cisa-fbi-nsa-and-international-partners-release-guidance-principles-ot-cybersecurity)|Visit link for details.|Oct 01, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
- |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
- |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
- |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20241004)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition.|Release Date: 4 Oct 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20241004)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2024 |
- |[DrayTek Routers Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/draytek-routers-multiple-vulnerabilities_20241004)|Multiple vulnerabilities were identified in DrayTek Routers. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, cross-site scripting, information disclosure and denial of service condition on the targeted system.|Release Date: 4 Oct 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241004)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-10-04]Updated Solutions, Vulnerability Identifier and Related Links...| Release Date: 2 Oct 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 3 Oct 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Oct 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on...|Release Date: 3 Oct 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Oct 2024 |
- |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-45519 is being exploited in the wild. The vulnerability in the...| Release Date: 5 Sep 2024 |
  
 
 # LINUX-SEC
@@ -84,6 +52,28 @@
  |[USN-7050-1: Devise-Two-Factor vulnerabilities](https://www.linux.org/threads/usn-7050-1-devise-two-factor-vulnerabilities.53149/)|Visit link for details.|Oct 1, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 03, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 01, 2024|
+ |[ASD’s ACSC, CISA, FBI, NSA, and International Partners Release Guidance on Principles of OT Cybersecurity for Critical Infrastructure Organizations](https://www.cisa.gov/news-events/alerts/2024/10/01/asds-acsc-cisa-fbi-nsa-and-international-partners-release-guidance-principles-ot-cybersecurity)|Visit link for details.|Oct 01, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
+ |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
+ |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
+ |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -95,6 +85,22 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20241004)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition.|Release Date: 4 Oct 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20241004)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2024 |
+ |[DrayTek Routers Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/draytek-routers-multiple-vulnerabilities_20241004)|Multiple vulnerabilities were identified in DrayTek Routers. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, cross-site scripting, information disclosure and denial of service condition on the targeted system.|Release Date: 4 Oct 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241004)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-10-04]Updated Solutions, Vulnerability Identifier and Related Links...| Release Date: 2 Oct 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and cross-site scripting on the targeted system.|Release Date: 3 Oct 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Oct 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on...|Release Date: 3 Oct 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Oct 2024 |
+ |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-45519 is being exploited in the wild. The vulnerability in the...| Release Date: 5 Sep 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -111,10 +117,21 @@
  |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
  
 
-# OBS-Vigilance
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Drupal security advisory (AV24-559)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-559)|Visit link for details|2024-10-03|
+ |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
+ |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
+ |[Jenkins security advisory (AV24-556)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-556)|Visit link for details|2024-10-02|
+ |[HPE security advisory (AV24-555)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-555)|Visit link for details|2024-10-02|
+ |[Juniper Networks security advisory (AV24-554)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-554)|Visit link for details|2024-10-02|
+ |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
+ |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
+ |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
+ |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
+ |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
  
 
 # EU-CERT
@@ -134,21 +151,6 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49890310/24 - Vulnérabilités critiques dans Suricata ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-suricata)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de Suricata. L’exploitation réussit de ces failles permet à un attaquant d’exécuter du code arbitraire à distance,…| 03 octobre 2024|
- |[ 49880310/24 - Vulnérabilités critiques dans les routeurs DrayTek ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-draytek)| DrayTek a publié des mises à jour de sécurité afin de corriger des vulnérabilités critiques affectant plusieurs modèles de ses routeurs. Ces failles affectent à la fois des modèles activement…| 03 octobre 2024|
- |[ 49870310/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-1)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 03 octobre 2024|
- |[ 49860310/24 - Vulnérabilité critique dans Octopus serveur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-octopus-serveur)| Une vulnérabilité critique a été corrigée dans Octopus Deploy Server, une plateforme d'automatisation des déploiements, utilisée pour gérer et orchestrer le déploiement continu d'applications et de…| 03 octobre 2024|
- |[ 49850310/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-3)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 03 octobre 2024|
- |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
- |[ 49820210/24 - Vulnérabilité critique dans Juniper Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-juniper-networks)| Juniper annonce la correction d’une vulnérabilité critique dans le protocole RADIUS de Juniper Networks Junos OS, Junos OS Evolved, Junos OS sur la série cRPD et d'autres plates-formes. L’exploitation…| 02 octobre 2024|
- |[ 49810110/24 - Vulnérabilité dans Western Digital My Cloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-western-digital-my-cloud)| Une vulnérabilité a été corrigée dans Western Digital My Cloud. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire.| 01 octobre 2024|
- |[ 49803009/24 - Vulnérabilités dans Foxit PDF Editor ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-foxit-pdf-editor)| Foxit annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code…| 30 septembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -166,19 +168,18 @@
  |[Mitel - CVE-2024-42514](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-42514-2024-10-02)|Visit link for details.|02/10/2024|
  
 
-# CA-CCS
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Drupal security advisory (AV24-559)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-559)|Visit link for details|2024-10-03|
- |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
- |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
- |[Jenkins security advisory (AV24-556)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-556)|Visit link for details|2024-10-02|
- |[HPE security advisory (AV24-555)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-555)|Visit link for details|2024-10-02|
- |[Juniper Networks security advisory (AV24-554)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-554)|Visit link for details|2024-10-02|
- |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
- |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
- |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
- |[Red Hat security advisory (AV24-550)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-550)|Visit link for details|2024-10-01|
- |[[Control systems] CISA ICS security advisories (AV24-549)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-549)|Visit link for details|2024-10-01|
+ |[ 49910410/24 - Vulnérabilité affectant le module «Two-factor Authentication » pour le CMS… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-module-two-factor-authentication-pour-le-cms-drupal)| Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité critique au    niveau  des versions susmentionnées du module «Two-factor Authentication » pour le CMS…| 04 octobre 2024|
+ |[ 49900410/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. Ces vulnérabilités pourraient potentiellement exposer des informations sensibles…| 04 octobre 2024|
+ |[ 49890310/24 - Vulnérabilités critiques dans Suricata ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-suricata)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de Suricata. L’exploitation réussit de ces failles permet à un attaquant d’exécuter du code arbitraire à distance,…| 03 octobre 2024|
+ |[ 49880310/24 - Vulnérabilités critiques dans les routeurs DrayTek ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-draytek)| DrayTek a publié des mises à jour de sécurité afin de corriger des vulnérabilités critiques affectant plusieurs modèles de ses routeurs. Ces failles affectent à la fois des modèles activement…| 03 octobre 2024|
+ |[ 49870310/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-1)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 03 octobre 2024|
+ |[ 49860310/24 - Vulnérabilité critique dans Octopus serveur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-octopus-serveur)| Une vulnérabilité critique a été corrigée dans Octopus Deploy Server, une plateforme d'automatisation des déploiements, utilisée pour gérer et orchestrer le déploiement continu d'applications et de…| 03 octobre 2024|
+ |[ 49850310/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-3)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 03 octobre 2024|
+ |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
+ |[ 49820210/24 - Vulnérabilité critique dans Juniper Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-juniper-networks)| Juniper annonce la correction d’une vulnérabilité critique dans le protocole RADIUS de Juniper Networks Junos OS, Junos OS Evolved, Junos OS sur la série cRPD et d'autres plates-formes. L’exploitation…| 02 octobre 2024|
+ |[ 49810110/24 - Vulnérabilité dans Western Digital My Cloud ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-western-digital-my-cloud)| Une vulnérabilité a été corrigée dans Western Digital My Cloud. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire.| 01 octobre 2024|
  
