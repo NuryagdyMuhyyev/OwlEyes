@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/10/2024 09:25:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/10/2024 10:19:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,30 +45,7 @@
  |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5784-1 oath-toolkit - security update](https://www.linux.org/threads/dsa-5784-1-oath-toolkit-security-update.53202/)|Visit link for details.|Oct 4, 2024|
- |[DSA-5783-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5783-1-firefox-esr-security-update.53201/)|Visit link for details.|Oct 4, 2024|
- |[DSA-5782-1 linux - security update](https://www.linux.org/threads/dsa-5782-1-linux-security-update.53178/)|Visit link for details.|Oct 3, 2024|
- |[USN-7055-1: FreeRADIUS vulnerability](https://www.linux.org/threads/usn-7055-1-freeradius-vulnerability.53176/)|Visit link for details.|Oct 3, 2024|
- |[USN-7053-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-7053-1-imagemagick-vulnerabilities.53175/)|Visit link for details.|Oct 3, 2024|
- |[USN-7054-1: unzip vulnerability](https://www.linux.org/threads/usn-7054-1-unzip-vulnerability.53174/)|Visit link for details.|Oct 3, 2024|
- |[USN-7021-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-4-linux-kernel-vulnerabilities.53171/)|Visit link for details.|Oct 3, 2024|
- |[DSA-5781-1 chromium - security update](https://www.linux.org/threads/dsa-5781-1-chromium-security-update.53170/)|Visit link for details.|Oct 3, 2024|
- |[USN-7052-1: GNOME Shell vulnerabilities](https://www.linux.org/threads/usn-7052-1-gnome-shell-vulnerabilities.53168/)|Visit link for details.|Oct 3, 2024|
- |[DSA-5780-1 php8.2 - security update](https://www.linux.org/threads/dsa-5780-1-php8-2-security-update.53165/)|Visit link for details.|Oct 3, 2024|
- |[USN-7051-1: AsyncSSH vulnerability](https://www.linux.org/threads/usn-7051-1-asyncssh-vulnerability.53160/)|Visit link for details.|Oct 2, 2024|
- 
-
 # CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -88,6 +65,23 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on...|Release Date: 3 Oct 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Oct 2024 |
  |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-45519 is being exploited in the wild. The vulnerability in the...| Release Date: 5 Sep 2024 |
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5784-1 oath-toolkit - security update](https://www.linux.org/threads/dsa-5784-1-oath-toolkit-security-update.53202/)|Visit link for details.|Oct 4, 2024|
+ |[DSA-5783-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5783-1-firefox-esr-security-update.53201/)|Visit link for details.|Oct 4, 2024|
+ |[DSA-5782-1 linux - security update](https://www.linux.org/threads/dsa-5782-1-linux-security-update.53178/)|Visit link for details.|Oct 3, 2024|
+ |[USN-7055-1: FreeRADIUS vulnerability](https://www.linux.org/threads/usn-7055-1-freeradius-vulnerability.53176/)|Visit link for details.|Oct 3, 2024|
+ |[USN-7053-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-7053-1-imagemagick-vulnerabilities.53175/)|Visit link for details.|Oct 3, 2024|
+ |[USN-7054-1: unzip vulnerability](https://www.linux.org/threads/usn-7054-1-unzip-vulnerability.53174/)|Visit link for details.|Oct 3, 2024|
+ |[USN-7021-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-4-linux-kernel-vulnerabilities.53171/)|Visit link for details.|Oct 3, 2024|
+ |[DSA-5781-1 chromium - security update](https://www.linux.org/threads/dsa-5781-1-chromium-security-update.53170/)|Visit link for details.|Oct 3, 2024|
+ |[USN-7052-1: GNOME Shell vulnerabilities](https://www.linux.org/threads/usn-7052-1-gnome-shell-vulnerabilities.53168/)|Visit link for details.|Oct 3, 2024|
+ |[DSA-5780-1 php8.2 - security update](https://www.linux.org/threads/dsa-5780-1-php8-2-security-update.53165/)|Visit link for details.|Oct 3, 2024|
+ |[USN-7051-1: AsyncSSH vulnerability](https://www.linux.org/threads/usn-7051-1-asyncssh-vulnerability.53160/)|Visit link for details.|Oct 2, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -117,6 +111,12 @@
  |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -134,21 +134,21 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge security advisory (AV24-561)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-561)|Visit link for details|2024-10-04|
- |[Apple security advisory (AV24-560)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-560)|Visit link for details|2024-10-04|
- |[Drupal security advisory (AV24-559)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-559)|Visit link for details|2024-10-03|
- |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
- |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
- |[Jenkins security advisory (AV24-556)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-556)|Visit link for details|2024-10-02|
- |[HPE security advisory (AV24-555)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-555)|Visit link for details|2024-10-02|
- |[Juniper Networks security advisory (AV24-554)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-554)|Visit link for details|2024-10-02|
- |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
- |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
- |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
+ |[WordPress LiteSpeed Cache - CVE-2024-47374](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-litespeed-cache-cve-2024-47374-2024-10-04)|Visit link for details.|04/10/2024|
+ |[Sophos - CVE-2024-8885](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-8885-2024-10-04)|Visit link for details.|04/10/2024|
+ |[Microsoft - CVE-2024-38200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38200-2024-10-04)|Visit link for details.|04/10/2024|
+ |[GNOME - CVE-2024-42415](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-42415-2024-10-04)|Visit link for details.|04/10/2024|
+ |[D-Link - CVE-2024-9514](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9514-2024-10-04)|Visit link for details.|04/10/2024|
+ |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|04/10/2024|
+ |[Google Chrome - CVE-2024-9369](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9369-2024-10-02)|Visit link for details.|04/10/2024|
+ |[TP-Link - CVE-2024-46313](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-46313-2024-10-03)|Visit link for details.|03/10/2024|
+ |[Progress WhatsUp Gold - CVE-2024-46909](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-46909-2024-10-03)|Visit link for details.|03/10/2024|
+ |[Mozilla - CVE-2024-9392](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9392-2024-10-03)|Visit link for details.|03/10/2024|
+ |[Cisco - CVE-2024-20432](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20432-2024-10-03)|Visit link for details.|03/10/2024|
  
 
 # MA-CERT
@@ -167,19 +167,19 @@
  |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress LiteSpeed Cache - CVE-2024-47374](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-litespeed-cache-cve-2024-47374-2024-10-04)|Visit link for details.|04/10/2024|
- |[Sophos - CVE-2024-8885](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-8885-2024-10-04)|Visit link for details.|04/10/2024|
- |[Microsoft - CVE-2024-38200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38200-2024-10-04)|Visit link for details.|04/10/2024|
- |[GNOME - CVE-2024-42415](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-42415-2024-10-04)|Visit link for details.|04/10/2024|
- |[D-Link - CVE-2024-9514](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9514-2024-10-04)|Visit link for details.|04/10/2024|
- |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|04/10/2024|
- |[Google Chrome - CVE-2024-9369](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9369-2024-10-02)|Visit link for details.|04/10/2024|
- |[TP-Link - CVE-2024-46313](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-46313-2024-10-03)|Visit link for details.|03/10/2024|
- |[Progress WhatsUp Gold - CVE-2024-46909](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-46909-2024-10-03)|Visit link for details.|03/10/2024|
- |[Mozilla - CVE-2024-9392](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9392-2024-10-03)|Visit link for details.|03/10/2024|
- |[Cisco - CVE-2024-20432](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20432-2024-10-03)|Visit link for details.|03/10/2024|
+ |[Microsoft Edge security advisory (AV24-561)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-561)|Visit link for details|2024-10-04|
+ |[Apple security advisory (AV24-560)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-560)|Visit link for details|2024-10-04|
+ |[Drupal security advisory (AV24-559)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-559)|Visit link for details|2024-10-03|
+ |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
+ |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
+ |[Jenkins security advisory (AV24-556)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-556)|Visit link for details|2024-10-02|
+ |[HPE security advisory (AV24-555)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-555)|Visit link for details|2024-10-02|
+ |[Juniper Networks security advisory (AV24-554)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-554)|Visit link for details|2024-10-02|
+ |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
+ |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
+ |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
  
