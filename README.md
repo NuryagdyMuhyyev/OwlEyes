@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/10/2024 02:19:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/10/2024 03:19:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,16 +45,11 @@
  |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5785-1 mediawiki - security update](https://www.linux.org/threads/dsa-5785-1-mediawiki-security-update.53223/)|Visit link for details.|Oct 5, 2024|
  |[DSA-5784-1 oath-toolkit - security update](https://www.linux.org/threads/dsa-5784-1-oath-toolkit-security-update.53202/)|Visit link for details.|Oct 4, 2024|
  |[DSA-5783-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5783-1-firefox-esr-security-update.53201/)|Visit link for details.|Oct 4, 2024|
  |[DSA-5782-1 linux - security update](https://www.linux.org/threads/dsa-5782-1-linux-security-update.53178/)|Visit link for details.|Oct 3, 2024|
@@ -65,7 +60,18 @@
  |[DSA-5781-1 chromium - security update](https://www.linux.org/threads/dsa-5781-1-chromium-security-update.53170/)|Visit link for details.|Oct 3, 2024|
  |[USN-7052-1: GNOME Shell vulnerabilities](https://www.linux.org/threads/usn-7052-1-gnome-shell-vulnerabilities.53168/)|Visit link for details.|Oct 3, 2024|
  |[DSA-5780-1 php8.2 - security update](https://www.linux.org/threads/dsa-5780-1-php8-2-security-update.53165/)|Visit link for details.|Oct 3, 2024|
- |[USN-7051-1: AsyncSSH vulnerability](https://www.linux.org/threads/usn-7051-1-asyncssh-vulnerability.53160/)|Visit link for details.|Oct 2, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -82,12 +88,6 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on...|Release Date: 3 Oct 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Oct 2024 |
  |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-45519 is being exploited in the wild. The vulnerability in the...| Release Date: 5 Sep 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
