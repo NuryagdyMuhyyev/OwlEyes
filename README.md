@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/10/2024 07:49:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/10/2024 08:24:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 03, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 01, 2024|
+ |[ASD’s ACSC, CISA, FBI, NSA, and International Partners Release Guidance on Principles of OT Cybersecurity for Critical Infrastructure Organizations](https://www.cisa.gov/news-events/alerts/2024/10/01/asds-acsc-cisa-fbi-nsa-and-international-partners-release-guidance-principles-ot-cybersecurity)|Visit link for details.|Oct 01, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
+ |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
+ |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
+ |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,22 +60,6 @@
  |[USN-7052-1: GNOME Shell vulnerabilities](https://www.linux.org/threads/usn-7052-1-gnome-shell-vulnerabilities.53168/)|Visit link for details.|Oct 3, 2024|
  |[DSA-5780-1 php8.2 - security update](https://www.linux.org/threads/dsa-5780-1-php8-2-security-update.53165/)|Visit link for details.|Oct 3, 2024|
  |[USN-7051-1: AsyncSSH vulnerability](https://www.linux.org/threads/usn-7051-1-asyncssh-vulnerability.53160/)|Visit link for details.|Oct 2, 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 03, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 02, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/01/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 01, 2024|
- |[ASD’s ACSC, CISA, FBI, NSA, and International Partners Release Guidance on Principles of OT Cybersecurity for Critical Infrastructure Organizations](https://www.cisa.gov/news-events/alerts/2024/10/01/asds-acsc-cisa-fbi-nsa-and-international-partners-release-guidance-principles-ot-cybersecurity)|Visit link for details.|Oct 01, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
- |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
- |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
- |[ASD’s ACSC, CISA, and US and International Partners Release Guidance on Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/news-events/alerts/2024/09/26/asds-acsc-cisa-and-us-and-international-partners-release-guidance-detecting-and-mitigating-active)|Visit link for details.|Sep 26, 2024|
  
 
 # CERT-FR
@@ -98,7 +98,7 @@
  |[OpenC3 COSMOS uses clear text storage of password/token (`GHSL-2024-129`) (CVE-2024-47529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 2, 2024|
  |[OpenC3 COSMOS allows a path traversal via screen controller (`GHSL-2024-127`) (CVE-2024-46977)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 2, 2024|
  |[OpenC3 COSMOS vulnerable to cross-site scripting in Login functionality (`GHSL-2024-128`) (CVE-2024-43795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 2, 2024|
- |[HP One Agent Software – Potential Privilege Escalation (CVE-2024-8733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 2, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -115,22 +115,6 @@
  |[Autodesk Navisworks Freedom DWFX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1316/)|Visit link for details|2024-10-02|
  |[Autodesk Navisworks Freedom DWF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1315/)|Visit link for details|2024-10-02|
  |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49940410/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-2)| Apple a publié des mises à jour de sécurité pour corriger deux  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 04 octobre 2024|
- |[ 49930410/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress-0)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 04 octobre 2024|
- |[ 49910410/24 - Vulnérabilité affectant le module «Two-factor Authentication » pour le CMS… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-module-two-factor-authentication-pour-le-cms-drupal)| Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité critique au    niveau  des versions susmentionnées du module «Two-factor Authentication » pour le CMS…| 04 octobre 2024|
- |[ 49900410/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. Ces vulnérabilités pourraient potentiellement exposer des informations sensibles…| 04 octobre 2024|
- |[ 49890310/24 - Vulnérabilités critiques dans Suricata ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-suricata)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de Suricata. L’exploitation réussit de ces failles permet à un attaquant d’exécuter du code arbitraire à distance,…| 03 octobre 2024|
- |[ 49880310/24 - Vulnérabilités critiques dans les routeurs DrayTek ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-draytek)| DrayTek a publié des mises à jour de sécurité afin de corriger des vulnérabilités critiques affectant plusieurs modèles de ses routeurs. Ces failles affectent à la fois des modèles activement…| 03 octobre 2024|
- |[ 49870310/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-1)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 03 octobre 2024|
- |[ 49860310/24 - Vulnérabilité critique dans Octopus serveur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-octopus-serveur)| Une vulnérabilité critique a été corrigée dans Octopus Deploy Server, une plateforme d'automatisation des déploiements, utilisée pour gérer et orchestrer le déploiement continu d'applications et de…| 03 octobre 2024|
- |[ 49850310/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-3)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 03 octobre 2024|
- |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
  
 
 # EU-CERT
@@ -165,6 +149,22 @@
  |[Google Chrome security advisory (AV24-553)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-553)|Visit link for details|2024-10-02|
  |[Mozilla security advisory (AV24-552)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-552)|Visit link for details|2024-10-02|
  |[OpenPrinting CUPS security advisory (AV24-551)](https://www.cyber.gc.ca/en/alerts-advisories/openprinting-cups-security-advisory-av24-551)|Visit link for details|2024-10-01|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49940410/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-2)| Apple a publié des mises à jour de sécurité pour corriger deux  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 04 octobre 2024|
+ |[ 49930410/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress-0)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 04 octobre 2024|
+ |[ 49910410/24 - Vulnérabilité affectant le module «Two-factor Authentication » pour le CMS… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-module-two-factor-authentication-pour-le-cms-drupal)| Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité critique au    niveau  des versions susmentionnées du module «Two-factor Authentication » pour le CMS…| 04 octobre 2024|
+ |[ 49900410/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. Ces vulnérabilités pourraient potentiellement exposer des informations sensibles…| 04 octobre 2024|
+ |[ 49890310/24 - Vulnérabilités critiques dans Suricata ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-suricata)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de Suricata. L’exploitation réussit de ces failles permet à un attaquant d’exécuter du code arbitraire à distance,…| 03 octobre 2024|
+ |[ 49880310/24 - Vulnérabilités critiques dans les routeurs DrayTek ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-draytek)| DrayTek a publié des mises à jour de sécurité afin de corriger des vulnérabilités critiques affectant plusieurs modèles de ses routeurs. Ces failles affectent à la fois des modèles activement…| 03 octobre 2024|
+ |[ 49870310/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-1)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 03 octobre 2024|
+ |[ 49860310/24 - Vulnérabilité critique dans Octopus serveur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-octopus-serveur)| Une vulnérabilité critique a été corrigée dans Octopus Deploy Server, une plateforme d'automatisation des déploiements, utilisée pour gérer et orchestrer le déploiement continu d'applications et de…| 03 octobre 2024|
+ |[ 49850310/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-3)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 03 octobre 2024|
+ |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
  
 
 # CERT-SANTE
