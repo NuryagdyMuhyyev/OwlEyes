@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/10/2024 10:19:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/10/2024 11:27:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -84,6 +84,12 @@
  |[Zimbra Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20240905)|Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-45519 is being exploited in the wild. The vulnerability in the...| Release Date: 5 Sep 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -92,15 +98,23 @@
  |[Apple iOS and iPadOS security bypass (CVE-2024-44207)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 3, 2024|
  |[OpenC3 COSMOS uses clear text storage of password/token (`GHSL-2024-129`) (CVE-2024-47529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 2, 2024|
  |[OpenC3 COSMOS allows a path traversal via screen controller (`GHSL-2024-127`) (CVE-2024-46977)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 2, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 2, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1321/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1320/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1319/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1318/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1317/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1316/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1315/)|Visit link for details|2024-10-02|
+ |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
  
 
 # CA-CCS
@@ -137,18 +151,21 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1321/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1320/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1319/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1318/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1317/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1316/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1315/)|Visit link for details|2024-10-02|
- |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
+ |[WordPress LiteSpeed Cache - CVE-2024-47374](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-litespeed-cache-cve-2024-47374-2024-10-04)|Visit link for details.|04/10/2024|
+ |[Sophos - CVE-2024-8885](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-8885-2024-10-04)|Visit link for details.|04/10/2024|
+ |[Microsoft - CVE-2024-38200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38200-2024-10-04)|Visit link for details.|04/10/2024|
+ |[GNOME - CVE-2024-42415](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-42415-2024-10-04)|Visit link for details.|04/10/2024|
+ |[D-Link - CVE-2024-9514](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9514-2024-10-04)|Visit link for details.|04/10/2024|
+ |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|04/10/2024|
+ |[Google Chrome - CVE-2024-9369](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9369-2024-10-02)|Visit link for details.|04/10/2024|
+ |[TP-Link - CVE-2024-46313](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-46313-2024-10-03)|Visit link for details.|03/10/2024|
+ |[Progress WhatsUp Gold - CVE-2024-46909](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-46909-2024-10-03)|Visit link for details.|03/10/2024|
+ |[Mozilla - CVE-2024-9392](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9392-2024-10-03)|Visit link for details.|03/10/2024|
+ |[Cisco - CVE-2024-20432](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20432-2024-10-03)|Visit link for details.|03/10/2024|
  
 
 # MA-CERT
@@ -165,21 +182,4 @@
  |[ 49860310/24 - Vulnérabilité critique dans Octopus serveur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-octopus-serveur)| Une vulnérabilité critique a été corrigée dans Octopus Deploy Server, une plateforme d'automatisation des déploiements, utilisée pour gérer et orchestrer le déploiement continu d'applications et de…| 03 octobre 2024|
  |[ 49850310/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-3)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 03 octobre 2024|
  |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress LiteSpeed Cache - CVE-2024-47374](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-litespeed-cache-cve-2024-47374-2024-10-04)|Visit link for details.|04/10/2024|
- |[Sophos - CVE-2024-8885](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-8885-2024-10-04)|Visit link for details.|04/10/2024|
- |[Microsoft - CVE-2024-38200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38200-2024-10-04)|Visit link for details.|04/10/2024|
- |[GNOME - CVE-2024-42415](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-42415-2024-10-04)|Visit link for details.|04/10/2024|
- |[D-Link - CVE-2024-9514](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9514-2024-10-04)|Visit link for details.|04/10/2024|
- |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|04/10/2024|
- |[Google Chrome - CVE-2024-9369](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9369-2024-10-02)|Visit link for details.|04/10/2024|
- |[TP-Link - CVE-2024-46313](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-46313-2024-10-03)|Visit link for details.|03/10/2024|
- |[Progress WhatsUp Gold - CVE-2024-46909](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-46909-2024-10-03)|Visit link for details.|03/10/2024|
- |[Mozilla - CVE-2024-9392](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9392-2024-10-03)|Visit link for details.|03/10/2024|
- |[Cisco - CVE-2024-20432](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20432-2024-10-03)|Visit link for details.|03/10/2024|
  
