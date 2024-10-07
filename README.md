@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/10/2024 00:16:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/10/2024 01:24:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[USN-7053-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-7053-1-imagemagick-vulnerabilities.53175/)|Visit link for details.|Oct 3, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -88,6 +82,39 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Oct 2024 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on...|Release Date: 3 Oct 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Oct 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CVE-2023-6362 (CVE-2023-6362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2024|
+ |[D-Link DIR-619L B1 formEasySetPassword buffer overflow (CVE-2024-9569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2024|
+ |[Cross-Site Scripting vulnerability in SOPlanning (CVE-2024-9572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2024|
+ |[Cross-Site Scripting vulnerability in SOPlanning (CVE-2024-9571)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1321/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1320/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1319/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1318/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1317/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1316/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1315/)|Visit link for details|2024-10-02|
+ |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
  
 
 # EU-CERT
@@ -124,18 +151,21 @@
  |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1321/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1320/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1319/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1318/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1317/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1316/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1315/)|Visit link for details|2024-10-02|
- |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
+ |[ 49950710/24 - Vulnérabilité affectant l’antivirus Avast ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-lantivirus-avast)| Norton annonce la correction d’une vulnérabilité affectant les versions susmentionnées des antivirus Avast/AVG. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses…| 07 octobre 2024|
+ |[ 49940410/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-2)| Apple a publié des mises à jour de sécurité pour corriger deux  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 04 octobre 2024|
+ |[ 49930410/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress-0)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 04 octobre 2024|
+ |[ 49910410/24 - Vulnérabilité affectant le module «Two-factor Authentication » pour le CMS… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-module-two-factor-authentication-pour-le-cms-drupal)| Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité critique au    niveau  des versions susmentionnées du module «Two-factor Authentication » pour le CMS…| 04 octobre 2024|
+ |[ 49900410/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. Ces vulnérabilités pourraient potentiellement exposer des informations sensibles…| 04 octobre 2024|
+ |[ 49890310/24 - Vulnérabilités critiques dans Suricata ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-suricata)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de Suricata. L’exploitation réussit de ces failles permet à un attaquant d’exécuter du code arbitraire à distance,…| 03 octobre 2024|
+ |[ 49880310/24 - Vulnérabilités critiques dans les routeurs DrayTek ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-draytek)| DrayTek a publié des mises à jour de sécurité afin de corriger des vulnérabilités critiques affectant plusieurs modèles de ses routeurs. Ces failles affectent à la fois des modèles activement…| 03 octobre 2024|
+ |[ 49870310/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-1)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 03 octobre 2024|
+ |[ 49860310/24 - Vulnérabilité critique dans Octopus serveur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-octopus-serveur)| Une vulnérabilité critique a été corrigée dans Octopus Deploy Server, une plateforme d'automatisation des déploiements, utilisée pour gérer et orchestrer le déploiement continu d'applications et de…| 03 octobre 2024|
+ |[ 49850310/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-3)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 03 octobre 2024|
+ |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
  
 
 # CERT-SANTE
@@ -153,34 +183,4 @@
  |[GNOME - CVE-2024-42415](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-42415-2024-10-04)|Visit link for details.|04/10/2024|
  |[D-Link - CVE-2024-9514](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9514-2024-10-04)|Visit link for details.|04/10/2024|
  |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|04/10/2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[CVE-2023-6362 (CVE-2023-6362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2024|
- |[D-Link DIR-619L B1 formEasySetPassword buffer overflow (CVE-2024-9569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2024|
- |[Cross-Site Scripting vulnerability in SOPlanning (CVE-2024-9572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2024|
- |[Cross-Site Scripting vulnerability in SOPlanning (CVE-2024-9571)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49950710/24 - Vulnérabilité affectant l’antivirus Avast ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-lantivirus-avast)| Norton annonce la correction d’une vulnérabilité affectant les versions susmentionnées des antivirus Avast/AVG. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses…| 07 octobre 2024|
- |[ 49940410/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-2)| Apple a publié des mises à jour de sécurité pour corriger deux  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 04 octobre 2024|
- |[ 49930410/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress-0)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 04 octobre 2024|
- |[ 49910410/24 - Vulnérabilité affectant le module «Two-factor Authentication » pour le CMS… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-module-two-factor-authentication-pour-le-cms-drupal)| Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité critique au    niveau  des versions susmentionnées du module «Two-factor Authentication » pour le CMS…| 04 octobre 2024|
- |[ 49900410/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. Ces vulnérabilités pourraient potentiellement exposer des informations sensibles…| 04 octobre 2024|
- |[ 49890310/24 - Vulnérabilités critiques dans Suricata ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-suricata)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de Suricata. L’exploitation réussit de ces failles permet à un attaquant d’exécuter du code arbitraire à distance,…| 03 octobre 2024|
- |[ 49880310/24 - Vulnérabilités critiques dans les routeurs DrayTek ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-draytek)| DrayTek a publié des mises à jour de sécurité afin de corriger des vulnérabilités critiques affectant plusieurs modèles de ses routeurs. Ces failles affectent à la fois des modèles activement…| 03 octobre 2024|
- |[ 49870310/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-1)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 03 octobre 2024|
- |[ 49860310/24 - Vulnérabilité critique dans Octopus serveur ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-octopus-serveur)| Une vulnérabilité critique a été corrigée dans Octopus Deploy Server, une plateforme d'automatisation des déploiements, utilisée pour gérer et orchestrer le déploiement continu d'applications et de…| 03 octobre 2024|
- |[ 49850310/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-3)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 03 octobre 2024|
- |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
  
