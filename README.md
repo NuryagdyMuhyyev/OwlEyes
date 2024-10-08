@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/10/2024 15:22:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/10/2024 16:19:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,12 +68,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -103,6 +97,12 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -120,35 +120,21 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1321/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1320/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1319/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1318/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1317/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWFX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1316/)|Visit link for details|2024-10-02|
- |[Autodesk Navisworks Freedom DWF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1315/)|Visit link for details|2024-10-02|
- |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Android security advisory – October 2024 Monthly Rollup (AV24-567)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-october-2024-monthly-rollup-av24-567)|Visit link for details|2024-10-07|
- |[Red Hat security advisory (AV24-566)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-566)|Visit link for details|2024-10-07|
- |[[Control systems] CISA ICS security advisories (AV24-565)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-565)|Visit link for details|2024-10-07|
- |[Ubuntu security advisory (AV24-564)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-564)|Visit link for details|2024-10-07|
- |[IBM security advisory (AV24-563)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-563)|Visit link for details|2024-10-07|
- |[Dell security advisory (AV24-562)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-562)|Visit link for details|2024-10-07|
- |[Microsoft Edge security advisory (AV24-561)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-561)|Visit link for details|2024-10-04|
- |[Apple security advisory (AV24-560)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-560)|Visit link for details|2024-10-04|
- |[Drupal security advisory (AV24-559)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-559)|Visit link for details|2024-10-03|
- |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
- |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
+ |[HP - CVE-2024-8733](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2024-8733-2024-10-07)|Visit link for details.|07/10/2024|
+ |[GNOME - CVE-2024-36474](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-36474-2024-10-07)|Visit link for details.|07/10/2024|
+ |[D-Link - CVE-2024-9532](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9532-2024-10-07)|Visit link for details.|07/10/2024|
+ |[Cisco - CVE-2024-20449](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20449-2024-10-07)|Visit link for details.|07/10/2024|
+ |[Authd PAM module - CVE-2024-9313](https://www.cyberveille-sante.gouv.fr/alertes/authd-pam-module-cve-2024-9313-2024-10-07)|Visit link for details.|07/10/2024|
+ |[WordPress LiteSpeed Cache - CVE-2024-47374](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-litespeed-cache-cve-2024-47374-2024-10-04)|Visit link for details.|07/10/2024|
+ |[Sophos - CVE-2024-8885](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-8885-2024-10-04)|Visit link for details.|04/10/2024|
+ |[Microsoft - CVE-2024-38200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38200-2024-10-04)|Visit link for details.|04/10/2024|
+ |[GNOME - CVE-2024-42415](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-42415-2024-10-04)|Visit link for details.|04/10/2024|
+ |[D-Link - CVE-2024-9514](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9514-2024-10-04)|Visit link for details.|04/10/2024|
+ |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|04/10/2024|
  
 
 # MA-CERT
@@ -168,19 +154,33 @@
  |[ 49840210/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-14)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 02 octobre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[HP - CVE-2024-8733](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2024-8733-2024-10-07)|Visit link for details.|07/10/2024|
- |[GNOME - CVE-2024-36474](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-36474-2024-10-07)|Visit link for details.|07/10/2024|
- |[D-Link - CVE-2024-9532](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9532-2024-10-07)|Visit link for details.|07/10/2024|
- |[Cisco - CVE-2024-20449](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20449-2024-10-07)|Visit link for details.|07/10/2024|
- |[Authd PAM module - CVE-2024-9313](https://www.cyberveille-sante.gouv.fr/alertes/authd-pam-module-cve-2024-9313-2024-10-07)|Visit link for details.|07/10/2024|
- |[WordPress LiteSpeed Cache - CVE-2024-47374](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-litespeed-cache-cve-2024-47374-2024-10-04)|Visit link for details.|07/10/2024|
- |[Sophos - CVE-2024-8885](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-8885-2024-10-04)|Visit link for details.|04/10/2024|
- |[Microsoft - CVE-2024-38200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38200-2024-10-04)|Visit link for details.|04/10/2024|
- |[GNOME - CVE-2024-42415](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-42415-2024-10-04)|Visit link for details.|04/10/2024|
- |[D-Link - CVE-2024-9514](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9514-2024-10-04)|Visit link for details.|04/10/2024|
- |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|04/10/2024|
+ |[Android security advisory – October 2024 Monthly Rollup (AV24-567)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-october-2024-monthly-rollup-av24-567)|Visit link for details|2024-10-07|
+ |[Red Hat security advisory (AV24-566)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-566)|Visit link for details|2024-10-07|
+ |[[Control systems] CISA ICS security advisories (AV24-565)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-565)|Visit link for details|2024-10-07|
+ |[Ubuntu security advisory (AV24-564)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-564)|Visit link for details|2024-10-07|
+ |[IBM security advisory (AV24-563)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-563)|Visit link for details|2024-10-07|
+ |[Dell security advisory (AV24-562)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-562)|Visit link for details|2024-10-07|
+ |[Microsoft Edge security advisory (AV24-561)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-561)|Visit link for details|2024-10-04|
+ |[Apple security advisory (AV24-560)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-560)|Visit link for details|2024-10-04|
+ |[Drupal security advisory (AV24-559)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-559)|Visit link for details|2024-10-03|
+ |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
+ |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS AppleVADriver Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1321/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1320/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1319/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1318/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1317/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWFX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1316/)|Visit link for details|2024-10-02|
+ |[Autodesk Navisworks Freedom DWF File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1315/)|Visit link for details|2024-10-02|
+ |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
  
