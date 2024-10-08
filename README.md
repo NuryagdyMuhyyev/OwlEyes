@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/10/2024 23:28:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/10/2024 00:14:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -172,6 +172,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
+ |[SAP security advisory – October 2024 monthly rollup (AV24-569)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-october-2024-monthly-rollup-av24-569)|Visit link for details|2024-10-08|
  |[[Control systems] Siemens security advisory (AV24-568)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-568)|Visit link for details|2024-10-08|
  |[Android security advisory – October 2024 Monthly Rollup (AV24-567)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-october-2024-monthly-rollup-av24-567)|Visit link for details|2024-10-07|
  |[Red Hat security advisory (AV24-566)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-566)|Visit link for details|2024-10-07|
@@ -181,6 +183,4 @@
  |[Dell security advisory (AV24-562)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-562)|Visit link for details|2024-10-07|
  |[Microsoft Edge security advisory (AV24-561)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-561)|Visit link for details|2024-10-04|
  |[Apple security advisory (AV24-560)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-560)|Visit link for details|2024-10-04|
- |[Drupal security advisory (AV24-559)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-559)|Visit link for details|2024-10-03|
- |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
  
