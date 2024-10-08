@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/10/2024 20:23:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/10/2024 21:27:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,12 @@
  |[USN-7053-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-7053-1-imagemagick-vulnerabilities.53175/)|Visit link for details.|Oct 3, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -60,12 +66,6 @@
  |[CISA’s VDP Platform 2023 Annual Report Showcases Success](https://www.cisa.gov/news-events/alerts/2024/09/30/cisas-vdp-platform-2023-annual-report-showcases-success)|Visit link for details.|Sep 30, 2024|
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/09/26/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Sep 26, 2024|
  |[Cisco Releases Security Updates for IOS and IOS XE Software](https://www.cisa.gov/news-events/alerts/2024/09/26/cisco-releases-security-updates-ios-and-ios-xe-software)|Visit link for details.|Sep 26, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # OBS-Vigilance
@@ -117,23 +117,6 @@
  |[PaperCut NG pc-web-print Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1314/)|Visit link for details|2024-10-02|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 49980810/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-15)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 08 octobre 2024|
- |[ 49970810/24 - Vulnérabilité critique affectant Apache Avro SDK ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-avro-sdk)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache Avro SDK. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’exécuter du code…| 08 octobre 2024|
- |[ 49960810/24 - Vulnérabilités critiques affectant les processeurs Qualcomm ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-processeurs-qualcomm)| Qualcomm annonce la correction de  vulnérabilités critiques affectant plusieurs de ses processeurs. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’accéder à des …| 08 octobre 2024|
- |[ 49950710/24 - Vulnérabilité affectant l’antivirus Avast ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-lantivirus-avast)| Norton annonce la correction d’une vulnérabilité affectant les versions susmentionnées des antivirus Avast/AVG. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses…| 07 octobre 2024|
- |[ 49940410/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-2)| Apple a publié des mises à jour de sécurité pour corriger deux  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 04 octobre 2024|
- |[ 49930410/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress-0)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 04 octobre 2024|
- |[ 49910410/24 - Vulnérabilité affectant le module «Two-factor Authentication » pour le CMS… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-module-two-factor-authentication-pour-le-cms-drupal)| Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité critique au    niveau  des versions susmentionnées du module «Two-factor Authentication » pour le CMS…| 04 octobre 2024|
- |[ 49900410/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. Ces vulnérabilités pourraient potentiellement exposer des informations sensibles…| 04 octobre 2024|
- |[ 49890310/24 - Vulnérabilités critiques dans Suricata ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-suricata)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de Suricata. L’exploitation réussit de ces failles permet à un attaquant d’exécuter du code arbitraire à distance,…| 03 octobre 2024|
- |[ 49880310/24 - Vulnérabilités critiques dans les routeurs DrayTek ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-draytek)| DrayTek a publié des mises à jour de sécurité afin de corriger des vulnérabilités critiques affectant plusieurs modèles de ses routeurs. Ces failles affectent à la fois des modèles activement…| 03 octobre 2024|
- |[ 49870310/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-1)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 03 octobre 2024|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -151,23 +134,6 @@
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[HP - CVE-2024-8733](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2024-8733-2024-10-07)|Visit link for details.|07/10/2024|
- |[GNOME - CVE-2024-36474](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-36474-2024-10-07)|Visit link for details.|07/10/2024|
- |[D-Link - CVE-2024-9532](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9532-2024-10-07)|Visit link for details.|07/10/2024|
- |[Cisco - CVE-2024-20449](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20449-2024-10-07)|Visit link for details.|07/10/2024|
- |[Authd PAM module - CVE-2024-9313](https://www.cyberveille-sante.gouv.fr/alertes/authd-pam-module-cve-2024-9313-2024-10-07)|Visit link for details.|07/10/2024|
- |[WordPress LiteSpeed Cache - CVE-2024-47374](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-litespeed-cache-cve-2024-47374-2024-10-04)|Visit link for details.|07/10/2024|
- |[Sophos - CVE-2024-8885](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-8885-2024-10-04)|Visit link for details.|04/10/2024|
- |[Microsoft - CVE-2024-38200](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38200-2024-10-04)|Visit link for details.|04/10/2024|
- |[GNOME - CVE-2024-42415](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-42415-2024-10-04)|Visit link for details.|04/10/2024|
- |[D-Link - CVE-2024-9514](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9514-2024-10-04)|Visit link for details.|04/10/2024|
- |[Cisco - CVE-2024-20439](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20439-2024-09-05)|Visit link for details.|04/10/2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -183,4 +149,38 @@
  |[Drupal security advisory (AV24-559)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-559)|Visit link for details|2024-10-03|
  |[Zimbra security advisory (AV24-558)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av24-558)|Visit link for details|2024-10-02|
  |[Cisco security advisory (AV24-557)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-557)|Visit link for details|2024-10-02|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 49980810/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-15)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 08 octobre 2024|
+ |[ 49970810/24 - Vulnérabilité critique affectant Apache Avro SDK ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-avro-sdk)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache Avro SDK. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’exécuter du code…| 08 octobre 2024|
+ |[ 49960810/24 - Vulnérabilités critiques affectant les processeurs Qualcomm ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-processeurs-qualcomm)| Qualcomm annonce la correction de  vulnérabilités critiques affectant plusieurs de ses processeurs. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’accéder à des …| 08 octobre 2024|
+ |[ 49950710/24 - Vulnérabilité affectant l’antivirus Avast ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-lantivirus-avast)| Norton annonce la correction d’une vulnérabilité affectant les versions susmentionnées des antivirus Avast/AVG. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses…| 07 octobre 2024|
+ |[ 49940410/24 - Vulnérabilités dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apple-2)| Apple a publié des mises à jour de sécurité pour corriger deux  vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter…| 04 octobre 2024|
+ |[ 49930410/24 - Vulnérabilité critique dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-plugin-litespeed-cache-de-wordpress-0)| Une vulnérabilité critique a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut…| 04 octobre 2024|
+ |[ 49910410/24 - Vulnérabilité affectant le module «Two-factor Authentication » pour le CMS… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-module-two-factor-authentication-pour-le-cms-drupal)| Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité critique au    niveau  des versions susmentionnées du module «Two-factor Authentication » pour le CMS…| 04 octobre 2024|
+ |[ 49900410/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. Ces vulnérabilités pourraient potentiellement exposer des informations sensibles…| 04 octobre 2024|
+ |[ 49890310/24 - Vulnérabilités critiques dans Suricata ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-suricata)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de Suricata. L’exploitation réussit de ces failles permet à un attaquant d’exécuter du code arbitraire à distance,…| 03 octobre 2024|
+ |[ 49880310/24 - Vulnérabilités critiques dans les routeurs DrayTek ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-draytek)| DrayTek a publié des mises à jour de sécurité afin de corriger des vulnérabilités critiques affectant plusieurs modèles de ses routeurs. Ces failles affectent à la fois des modèles activement…| 03 octobre 2024|
+ |[ 49870310/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-1)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut   permettre  à un attaquant distant…| 03 octobre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-LINK - CVE-2024-46325](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-46325-2024-10-08)|Visit link for details.|08/10/2024|
+ |[SAP - CVE-2024-37179](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-37179-2024-10-08)|Visit link for details.|08/10/2024|
+ |[Cacti - CVE-2024-43362](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-43362-2024-10-08)|Visit link for details.|08/10/2024|
+ |[Apple - CVE-2024-44193](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44193-2024-10-08)|Visit link for details.|08/10/2024|
+ |[Qualcomm - CVE-2024-43047](https://www.cyberveille-sante.gouv.fr/alertes/qualcomm-cve-2024-43047-2024-10-08)|Visit link for details.|08/10/2024|
+ |[HP - CVE-2024-8733](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2024-8733-2024-10-07)|Visit link for details.|07/10/2024|
+ |[GNOME - CVE-2024-36474](https://www.cyberveille-sante.gouv.fr/alertes/gnome-cve-2024-36474-2024-10-07)|Visit link for details.|07/10/2024|
+ |[D-Link - CVE-2024-9532](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9532-2024-10-07)|Visit link for details.|07/10/2024|
+ |[Cisco - CVE-2024-20449](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20449-2024-10-07)|Visit link for details.|07/10/2024|
+ |[Authd PAM module - CVE-2024-9313](https://www.cyberveille-sante.gouv.fr/alertes/authd-pam-module-cve-2024-9313-2024-10-07)|Visit link for details.|07/10/2024|
+ |[WordPress LiteSpeed Cache - CVE-2024-47374](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-litespeed-cache-cve-2024-47374-2024-10-04)|Visit link for details.|07/10/2024|
  
