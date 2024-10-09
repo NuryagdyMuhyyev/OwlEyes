@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/10/2024 07:51:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/10/2024 08:26:22 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7058-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7058-1-net-vulnerabilities.53265/)|Visit link for details.|Oct 9, 2024|
- |[USN-7057-2: WEBrick vulnerability](https://www.linux.org/threads/usn-7057-2-webrick-vulnerability.53264/)|Visit link for details.|Oct 8, 2024|
- |[USN-7014-2: nginx vulnerability](https://www.linux.org/threads/usn-7014-2-nginx-vulnerability.53263/)|Visit link for details.|Oct 8, 2024|
- |[USN-7057-1: WEBrick vulnerability](https://www.linux.org/threads/usn-7057-1-webrick-vulnerability.53254/)|Visit link for details.|Oct 7, 2024|
- |[USN-7043-3: cups-filters vulnerability](https://www.linux.org/threads/usn-7043-3-cups-filters-vulnerability.53247/)|Visit link for details.|Oct 7, 2024|
- |[USN-7041-3: CUPS vulnerability](https://www.linux.org/threads/usn-7041-3-cups-vulnerability.53246/)|Visit link for details.|Oct 7, 2024|
- |[USN-7056-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-7056-1-firefox-vulnerabilities.53245/)|Visit link for details.|Oct 7, 2024|
- |[DSA-5786-1 libgsf - security update](https://www.linux.org/threads/dsa-5786-1-libgsf-security-update.53224/)|Visit link for details.|Oct 6, 2024|
- |[DSA-5785-1 mediawiki - security update](https://www.linux.org/threads/dsa-5785-1-mediawiki-security-update.53223/)|Visit link for details.|Oct 5, 2024|
- |[DSA-5784-1 oath-toolkit - security update](https://www.linux.org/threads/dsa-5784-1-oath-toolkit-security-update.53202/)|Visit link for details.|Oct 4, 2024|
- |[DSA-5783-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5783-1-firefox-esr-security-update.53201/)|Visit link for details.|Oct 4, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,13 +45,24 @@
  |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 30, 2024|
  
 
-# CERT-FR
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5729-2 apache2 - regression update](https://www.linux.org/threads/dsa-5729-2-apache2-regression-update.53267/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7058-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7058-1-net-vulnerabilities.53265/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7057-2: WEBrick vulnerability](https://www.linux.org/threads/usn-7057-2-webrick-vulnerability.53264/)|Visit link for details.|Oct 8, 2024|
+ |[USN-7014-2: nginx vulnerability](https://www.linux.org/threads/usn-7014-2-nginx-vulnerability.53263/)|Visit link for details.|Oct 8, 2024|
+ |[USN-7057-1: WEBrick vulnerability](https://www.linux.org/threads/usn-7057-1-webrick-vulnerability.53254/)|Visit link for details.|Oct 7, 2024|
+ |[USN-7043-3: cups-filters vulnerability](https://www.linux.org/threads/usn-7043-3-cups-filters-vulnerability.53247/)|Visit link for details.|Oct 7, 2024|
+ |[USN-7041-3: CUPS vulnerability](https://www.linux.org/threads/usn-7041-3-cups-vulnerability.53246/)|Visit link for details.|Oct 7, 2024|
+ |[USN-7056-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-7056-1-firefox-vulnerabilities.53245/)|Visit link for details.|Oct 7, 2024|
+ |[DSA-5786-1 libgsf - security update](https://www.linux.org/threads/dsa-5786-1-libgsf-security-update.53224/)|Visit link for details.|Oct 6, 2024|
+ |[DSA-5785-1 mediawiki - security update](https://www.linux.org/threads/dsa-5785-1-mediawiki-security-update.53223/)|Visit link for details.|Oct 5, 2024|
+ |[DSA-5784-1 oath-toolkit - security update](https://www.linux.org/threads/dsa-5784-1-oath-toolkit-security-update.53202/)|Visit link for details.|Oct 4, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -90,6 +84,12 @@
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20241004)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 4 Oct 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +101,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1332/)|Visit link for details|2024-10-08|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1331/)|Visit link for details|2024-10-08|
+ |[Microsoft Windows win32kfull Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1330/)|Visit link for details|2024-10-08|
+ |[Axis Communications Autodesk Plugin AxisAddin axisapphelpfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1329/)|Visit link for details|2024-10-08|
+ |[Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1328/)|Visit link for details|2024-10-08|
+ |[Ivanti Avalanche Faces ResourceManager Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1327/)|Visit link for details|2024-10-08|
+ |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1326/)|Visit link for details|2024-10-08|
+ |[Ivanti Avalanche SecureFilter Content-Type Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1325/)|Visit link for details|2024-10-08|
  
 
 # EU-CERT
@@ -118,20 +132,6 @@
  |[2024-097: Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-097/)|On September 12, 2024, Solarwinds released several advisories addressingtwo critical vulnerabilities in SolarWinds Access Rights Manager (ARM). These vulnerabilities, if exploited, could lead to authenticated remote code execution, and authentication bypass[2].|Monday, September 16, 2024 02:05:24 PM CEST|
  |[2024-096: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-096/)|On September 11, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger pipelines as arbitrary users under certain conditions.|Friday, September 13, 2024 05:05:42 PM CEST|
  |[2024-095: Critical vulnerabilities in Adobe Products](https://cert.europa.eu/publications/security-advisories/2024-095/)|On September 10, 2024, Adobe released a security bulletin addressing two critical vulnerabilities affecting its Acrobat products. When exploited, these vulnerabilities could allow an attacker to execute arbitrary code.|Thursday, September 12, 2024 04:57:13 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1332/)|Visit link for details|2024-10-08|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1331/)|Visit link for details|2024-10-08|
- |[Microsoft Windows win32kfull Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1330/)|Visit link for details|2024-10-08|
- |[Axis Communications Autodesk Plugin AxisAddin axisapphelpfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1329/)|Visit link for details|2024-10-08|
- |[Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1328/)|Visit link for details|2024-10-08|
- |[Ivanti Avalanche Faces ResourceManager Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1327/)|Visit link for details|2024-10-08|
- |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1326/)|Visit link for details|2024-10-08|
- |[Ivanti Avalanche SecureFilter Content-Type Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1325/)|Visit link for details|2024-10-08|
  
 
 # CA-CCS
