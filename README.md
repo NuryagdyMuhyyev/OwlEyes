@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/10/2024 02:20:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2024 03:19:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,13 +62,13 @@
  |[USN-7058-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7058-1-net-vulnerabilities.53265/)|Visit link for details.|Oct 9, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -90,21 +90,17 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241008)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Oct 2024 |
  
 
-# CA-CCS
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
- |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
- |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
- |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
- |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
- |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
- |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
- |[Adobe security advisory (AV24–573)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573)|Visit link for details|2024-10-08|
- |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
- |[Qualcomm security advisory (AV24-571)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av24-571)|Visit link for details|2024-10-08|
- |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
+ |[code-projects Blood Bank System register.php sql injection (CVE-2024-9797)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
+ |[Codezips Online Shopping Portal update-image1.php unrestricted upload (CVE-2024-9794)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
+ |[Deserialization of untrusted data in InternalAttributeHandler in pac4j (CVE-2023-25581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
+ |[Tenda AC1206 ate ate_ifconfig_set command injection (CVE-2024-9793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -124,6 +120,23 @@
  |[2024-096: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-096/)|On September 11, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger pipelines as arbitrary users under certain conditions.|Friday, September 13, 2024 05:05:42 PM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
+ |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
+ |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
+ |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
+ |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
+ |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
+ |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
+ |[Adobe security advisory (AV24–573)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573)|Visit link for details|2024-10-08|
+ |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
+ |[Qualcomm security advisory (AV24-571)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av24-571)|Visit link for details|2024-10-08|
+ |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -136,23 +149,6 @@
  |[Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1328/)|Visit link for details|2024-10-08|
  |[Ivanti Avalanche Faces ResourceManager Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1327/)|Visit link for details|2024-10-08|
  |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1326/)|Visit link for details|2024-10-08|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|10/10/2024|
- |[Palo Alto - CVE-2024-9464](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9464-2024-10-10)|Visit link for details.|10/10/2024|
- |[Microsoft - CVE-2024-43583](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43583-2024-10-10)|Visit link for details.|10/10/2024|
- |[Ivanti - CVE-2024-9381](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9381-2024-10-10)|Visit link for details.|10/10/2024|
- |[GitLab - CVE-2024-9164](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9164-2024-10-10)|Visit link for details.|10/10/2024|
- |[Ivanti Connect/Policy Secure - CVE-2024-37404](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connectpolicy-secure-cve-2024-37404-2024-10-09)|Visit link for details.|10/10/2024|
- |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|10/10/2024|
- |[Palo Alto - CVE-2024-5910](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-5910-2024-07-11)|Visit link for details.|10/10/2024|
- |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|10/10/2024|
- |[Ivanti CSA - CVE-2024-9380](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-csa-cve-2024-9380-2024-10-09)|Visit link for details.|09/10/2024|
- |[Microsoft - CVE-2024-43572](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43572-2024-10-09)|Visit link for details.|09/10/2024|
  
 
 # MA-CERT
@@ -172,15 +168,19 @@
  |[ 50010910/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 09 octobre 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[code-projects Blood Bank System register.php sql injection (CVE-2024-9797)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
- |[Codezips Online Shopping Portal update-image1.php unrestricted upload (CVE-2024-9794)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
- |[Deserialization of untrusted data in InternalAttributeHandler in pac4j (CVE-2023-25581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
- |[Tenda AC1206 ate ate_ifconfig_set command injection (CVE-2024-9793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|10/10/2024|
+ |[Palo Alto - CVE-2024-9464](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9464-2024-10-10)|Visit link for details.|10/10/2024|
+ |[Microsoft - CVE-2024-43583](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43583-2024-10-10)|Visit link for details.|10/10/2024|
+ |[Ivanti - CVE-2024-9381](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9381-2024-10-10)|Visit link for details.|10/10/2024|
+ |[GitLab - CVE-2024-9164](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9164-2024-10-10)|Visit link for details.|10/10/2024|
+ |[Ivanti Connect/Policy Secure - CVE-2024-37404](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connectpolicy-secure-cve-2024-37404-2024-10-09)|Visit link for details.|10/10/2024|
+ |[Fortinet - CVE-2024-23113](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-23113-2024-02-09)|Visit link for details.|10/10/2024|
+ |[Palo Alto - CVE-2024-5910](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-5910-2024-07-11)|Visit link for details.|10/10/2024|
+ |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|10/10/2024|
+ |[Ivanti CSA - CVE-2024-9380](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-csa-cve-2024-9380-2024-10-09)|Visit link for details.|09/10/2024|
+ |[Microsoft - CVE-2024-43572](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43572-2024-10-09)|Visit link for details.|09/10/2024|
  
