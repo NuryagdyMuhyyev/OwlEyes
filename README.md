@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/10/2024 07:51:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/10/2024 08:26:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7059-1: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-1-oath-toolkit-vulnerability.53278/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7043-4: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-4-cups-filters-vulnerabilities.53277/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7042-2: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-2-cups-browsed-vulnerability.53276/)|Visit link for details.|Oct 9, 2024|
+ |[DSA-5729-2 apache2 - regression update](https://www.linux.org/threads/dsa-5729-2-apache2-regression-update.53267/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7058-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7058-1-net-vulnerabilities.53265/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7057-2: WEBrick vulnerability](https://www.linux.org/threads/usn-7057-2-webrick-vulnerability.53264/)|Visit link for details.|Oct 8, 2024|
+ |[USN-7014-2: nginx vulnerability](https://www.linux.org/threads/usn-7014-2-nginx-vulnerability.53263/)|Visit link for details.|Oct 8, 2024|
+ |[USN-7057-1: WEBrick vulnerability](https://www.linux.org/threads/usn-7057-1-webrick-vulnerability.53254/)|Visit link for details.|Oct 7, 2024|
+ |[USN-7043-3: cups-filters vulnerability](https://www.linux.org/threads/usn-7043-3-cups-filters-vulnerability.53247/)|Visit link for details.|Oct 7, 2024|
+ |[USN-7041-3: CUPS vulnerability](https://www.linux.org/threads/usn-7041-3-cups-vulnerability.53246/)|Visit link for details.|Oct 7, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -51,6 +68,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -65,23 +88,6 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241008)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Oct 2024 |
  |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241007)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 7 Oct 2024 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, security restriction bypass, sensitive information disclosure and cross-site scripting on the targeted system. [Updated on 2024-...| Release Date: 3 Oct 2024 |
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
- |[USN-7059-1: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-1-oath-toolkit-vulnerability.53278/)|Visit link for details.|Oct 9, 2024|
- |[USN-7043-4: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-4-cups-filters-vulnerabilities.53277/)|Visit link for details.|Oct 9, 2024|
- |[USN-7042-2: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-2-cups-browsed-vulnerability.53276/)|Visit link for details.|Oct 9, 2024|
- |[DSA-5729-2 apache2 - regression update](https://www.linux.org/threads/dsa-5729-2-apache2-regression-update.53267/)|Visit link for details.|Oct 9, 2024|
- |[USN-7058-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7058-1-net-vulnerabilities.53265/)|Visit link for details.|Oct 9, 2024|
- |[USN-7057-2: WEBrick vulnerability](https://www.linux.org/threads/usn-7057-2-webrick-vulnerability.53264/)|Visit link for details.|Oct 8, 2024|
- |[USN-7014-2: nginx vulnerability](https://www.linux.org/threads/usn-7014-2-nginx-vulnerability.53263/)|Visit link for details.|Oct 8, 2024|
- |[USN-7057-1: WEBrick vulnerability](https://www.linux.org/threads/usn-7057-1-webrick-vulnerability.53254/)|Visit link for details.|Oct 7, 2024|
- |[USN-7043-3: cups-filters vulnerability](https://www.linux.org/threads/usn-7043-3-cups-filters-vulnerability.53247/)|Visit link for details.|Oct 7, 2024|
- |[USN-7041-3: CUPS vulnerability](https://www.linux.org/threads/usn-7041-3-cups-vulnerability.53246/)|Visit link for details.|Oct 7, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -109,12 +115,6 @@
  |[Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1328/)|Visit link for details|2024-10-08|
  |[Ivanti Avalanche Faces ResourceManager Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1327/)|Visit link for details|2024-10-08|
  |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1326/)|Visit link for details|2024-10-08|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -151,23 +151,6 @@
  |[Cacti - CVE-2024-43362](https://www.cyberveille-sante.gouv.fr/alertes/cacti-cve-2024-43362-2024-10-08)|Visit link for details.|08/10/2024|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50000910/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-16)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 09 octobre 2024|
- |[ 50060910/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire,…| 09 octobre 2024|
- |[ 50050910/24 - Vulnérabilités dans les outils de développement Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-outils-de-developpement-microsoft-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les outils de développement susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 09 octobre 2024|
- |[ 50040910/24 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-octobre-2024)| Deux vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance et de…| 09 octobre 2024|
- |[ 50030910/24 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-azure-patch-tuesday-octobre-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code…| 09 octobre 2024|
- |[ 50020910/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les  systèmes d’exploitation Windows susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 09 octobre 2024|
- |[ 50010910/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 09 octobre 2024|
- |[ 49990910/24 - Vulnérabilités Zero-day affectant Ivanti Cloud Services Appliance ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-zero-day-affectant-ivanti-cloud-services-appliance)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois Zero-day affectant les versions susmentionnées de son produit Cloud Services Appliance. L’exploitation de ces vulnérabilités…| 09 octobre 2024|
- |[ 49980810/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-15)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 08 octobre 2024|
- |[ 49970810/24 - Vulnérabilité critique affectant Apache Avro SDK ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-avro-sdk)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache Avro SDK. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’exécuter du code…| 08 octobre 2024|
- |[ 49960810/24 - Vulnérabilités critiques affectant les processeurs Qualcomm ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-processeurs-qualcomm)| Qualcomm annonce la correction de  vulnérabilités critiques affectant plusieurs de ses processeurs. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’accéder à des …| 08 octobre 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
  |[SAP security advisory – October 2024 monthly rollup (AV24-569)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-october-2024-monthly-rollup-av24-569)|Visit link for details|2024-10-08|
  |[[Control systems] Siemens security advisory (AV24-568)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-568)|Visit link for details|2024-10-08|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50000910/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-16)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 09 octobre 2024|
+ |[ 50060910/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire,…| 09 octobre 2024|
+ |[ 50050910/24 - Vulnérabilités dans les outils de développement Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-outils-de-developpement-microsoft-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les outils de développement susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 09 octobre 2024|
+ |[ 50040910/24 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-octobre-2024)| Deux vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance et de…| 09 octobre 2024|
+ |[ 50030910/24 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-azure-patch-tuesday-octobre-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code…| 09 octobre 2024|
+ |[ 50020910/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les  systèmes d’exploitation Windows susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 09 octobre 2024|
+ |[ 50010910/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 09 octobre 2024|
+ |[ 49990910/24 - Vulnérabilités Zero-day affectant Ivanti Cloud Services Appliance ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-zero-day-affectant-ivanti-cloud-services-appliance)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois Zero-day affectant les versions susmentionnées de son produit Cloud Services Appliance. L’exploitation de ces vulnérabilités…| 09 octobre 2024|
+ |[ 49980810/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-15)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 08 octobre 2024|
+ |[ 49970810/24 - Vulnérabilité critique affectant Apache Avro SDK ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-avro-sdk)| Apache annonce la correction d’une vulnérabilité critique affectant son produit Apache Avro SDK. L’exploitation de cette vulnérabilité peut   permettre  à un attaquant distant d’exécuter du code…| 08 octobre 2024|
+ |[ 49960810/24 - Vulnérabilités critiques affectant les processeurs Qualcomm ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-processeurs-qualcomm)| Qualcomm annonce la correction de  vulnérabilités critiques affectant plusieurs de ses processeurs. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’accéder à des …| 08 octobre 2024|
  
