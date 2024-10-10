@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/10/2024 09:24:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/10/2024 10:20:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,28 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20241010)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Oct 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241010)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-9680, an attacker was...|Release Date: 10 Oct 2024 |
+ |[Palo Alto Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20241010)|Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 10 Oct 2024 |
+ |[Adobe Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Substance 3D Painter Medium RiskInformation Disclosure APSB24-52Adobe Commerce Medium RiskElevation of PrivilegeSecurity...|Release Date: 9 Oct 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241009)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 9 Oct 2024 |
+ |[Microsoft Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesAzure Medium RiskElevation of PrivilegeRemote Code Execution Windows High RiskElevation of PrivilegeRemote Code ExecutionDenial of Service...|Release Date: 9 Oct 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20241008)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 8 Oct 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241008)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Oct 2024 |
+ |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241007)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 7 Oct 2024 |
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
 
 # US-CERT
 
@@ -62,26 +84,10 @@
  |[USN-7041-3: CUPS vulnerability](https://www.linux.org/threads/usn-7041-3-cups-vulnerability.53246/)|Visit link for details.|Oct 7, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20241010)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Oct 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241010)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-9680, an attacker was...|Release Date: 10 Oct 2024 |
- |[Palo Alto Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20241010)|Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 10 Oct 2024 |
- |[Adobe Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Substance 3D Painter Medium RiskInformation Disclosure APSB24-52Adobe Commerce Medium RiskElevation of PrivilegeSecurity...|Release Date: 9 Oct 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241009)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 9 Oct 2024 |
- |[Microsoft Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesAzure Medium RiskElevation of PrivilegeRemote Code Execution Windows High RiskElevation of PrivilegeRemote Code ExecutionDenial of Service...|Release Date: 9 Oct 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20241008)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system.|Release Date: 8 Oct 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241008)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Oct 2024 |
- |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241007)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 7 Oct 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -92,32 +98,23 @@
  |[Junos OS and Junos OS Evolved: When BGP traceoptions is enabled, receipt of specially crafted BGP packet causes RPD crash (CVE-2024-39525)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2024|
  |[Junos OS and Junos OS Evolved: Receipt of a specifically malformed BGP packet causes RPD crash when segment routing is enabled (CVE-2024-39516)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2024|
  |[Junos OS and Junos OS Evolved: With BGP traceoptions enabled, receipt of specifically malformed BGP update causes RPD crash (CVE-2024-39515)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 9, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
- |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
- |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
- |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
- |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
- |[Adobe security advisory (AV24–573)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573)|Visit link for details|2024-10-08|
- |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
- |[Qualcomm security advisory (AV24-571)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av24-571)|Visit link for details|2024-10-08|
- |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
- |[SAP security advisory – October 2024 monthly rollup (AV24-569)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-october-2024-monthly-rollup-av24-569)|Visit link for details|2024-10-08|
- |[[Control systems] Siemens security advisory (AV24-568)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-568)|Visit link for details|2024-10-08|
+ |[NVIDIA Onyx Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1333/)|Visit link for details|2024-10-09|
+ |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1332/)|Visit link for details|2024-10-08|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1331/)|Visit link for details|2024-10-08|
+ |[Microsoft Windows win32kfull Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1330/)|Visit link for details|2024-10-08|
+ |[Axis Communications Autodesk Plugin AxisAddin axisapphelpfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1329/)|Visit link for details|2024-10-08|
+ |[Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1328/)|Visit link for details|2024-10-08|
+ |[Ivanti Avalanche Faces ResourceManager Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1327/)|Visit link for details|2024-10-08|
+ |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1326/)|Visit link for details|2024-10-08|
  
 
 # EU-CERT
@@ -137,18 +134,21 @@
  |[2024-096: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-096/)|On September 11, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger pipelines as arbitrary users under certain conditions.|Friday, September 13, 2024 05:05:42 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[NVIDIA Onyx Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1333/)|Visit link for details|2024-10-09|
- |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1332/)|Visit link for details|2024-10-08|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1331/)|Visit link for details|2024-10-08|
- |[Microsoft Windows win32kfull Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1330/)|Visit link for details|2024-10-08|
- |[Axis Communications Autodesk Plugin AxisAddin axisapphelpfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1329/)|Visit link for details|2024-10-08|
- |[Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1328/)|Visit link for details|2024-10-08|
- |[Ivanti Avalanche Faces ResourceManager Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1327/)|Visit link for details|2024-10-08|
- |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1326/)|Visit link for details|2024-10-08|
+ |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
+ |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
+ |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
+ |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
+ |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
+ |[Adobe security advisory (AV24–573)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573)|Visit link for details|2024-10-08|
+ |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
+ |[Qualcomm security advisory (AV24-571)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av24-571)|Visit link for details|2024-10-08|
+ |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
+ |[SAP security advisory – October 2024 monthly rollup (AV24-569)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-october-2024-monthly-rollup-av24-569)|Visit link for details|2024-10-08|
+ |[[Control systems] Siemens security advisory (AV24-568)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-568)|Visit link for details|2024-10-08|
  
 
 # MA-CERT
