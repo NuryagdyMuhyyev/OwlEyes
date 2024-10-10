@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/10/2024 03:19:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2024 04:20:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,12 +66,6 @@
  |[USN-7042-2: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-2-cups-browsed-vulnerability.53276/)|Visit link for details.|Oct 9, 2024|
  |[DSA-5729-2 apache2 - regression update](https://www.linux.org/threads/dsa-5729-2-apache2-regression-update.53267/)|Visit link for details.|Oct 9, 2024|
  |[USN-7058-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7058-1-net-vulnerabilities.53265/)|Visit link for details.|Oct 9, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # OBS-Vigilance
@@ -90,19 +90,6 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241008)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Oct 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[code-projects Blood Bank System register.php sql injection (CVE-2024-9797)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
- |[Codezips Online Shopping Portal update-image1.php unrestricted upload (CVE-2024-9794)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
- |[Deserialization of untrusted data in InternalAttributeHandler in pac4j (CVE-2023-25581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
- |[Tenda AC1206 ate ate_ifconfig_set command injection (CVE-2024-9793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -118,23 +105,6 @@
  |[2024-098: Command Injection Vulnerability in PaloAlto PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-098/)|On September 11, 2024, a high-severity command injection vulnerability has been addressed in PaloAlto PAN-OS. If exploited, this flaw could allow an authenticated attacker to execute arbitrary commands as root on the firewall.|Monday, September 16, 2024 02:05:51 PM CEST|
  |[2024-097: Vulnerabilities in SolarWinds Access Rights Manager](https://cert.europa.eu/publications/security-advisories/2024-097/)|On September 12, 2024, Solarwinds released several advisories addressingtwo critical vulnerabilities in SolarWinds Access Rights Manager (ARM). These vulnerabilities, if exploited, could lead to authenticated remote code execution, and authentication bypass[2].|Monday, September 16, 2024 02:05:24 PM CEST|
  |[2024-096: Vulnerabilities in GitLab](https://cert.europa.eu/publications/security-advisories/2024-096/)|On September 11, 2024, GitLab released a security advisory addressing several vulnerabilities, one of which being critical, allowing an attacker to trigger pipelines as arbitrary users under certain conditions.|Friday, September 13, 2024 05:05:42 PM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
- |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
- |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
- |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
- |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
- |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
- |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
- |[Adobe security advisory (AV24–573)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573)|Visit link for details|2024-10-08|
- |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
- |[Qualcomm security advisory (AV24-571)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av24-571)|Visit link for details|2024-10-08|
- |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
  
 
 # ZERODAYINITIATIVE
@@ -183,4 +153,34 @@
  |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|10/10/2024|
  |[Ivanti CSA - CVE-2024-9380](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-csa-cve-2024-9380-2024-10-09)|Visit link for details.|09/10/2024|
  |[Microsoft - CVE-2024-43572](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43572-2024-10-09)|Visit link for details.|09/10/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
+ |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
+ |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
+ |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
+ |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
+ |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
+ |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
+ |[Adobe security advisory (AV24–573)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573)|Visit link for details|2024-10-08|
+ |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
+ |[Qualcomm security advisory (AV24-571)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av24-571)|Visit link for details|2024-10-08|
+ |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[code-projects Blood Bank System register.php sql injection (CVE-2024-9797)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
+ |[Codezips Online Shopping Portal update-image1.php unrestricted upload (CVE-2024-9794)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
+ |[Deserialization of untrusted data in InternalAttributeHandler in pac4j (CVE-2023-25581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
+ |[Tenda AC1206 ate ate_ifconfig_set command injection (CVE-2024-9793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
