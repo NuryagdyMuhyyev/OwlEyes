@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/10/2024 13:26:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2024 14:22:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,23 +45,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5788-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5788-1-firefox-esr-security-update.53306/)|Visit link for details.|Oct 10, 2024|
- |[USN-7062-1: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-1-libgsf-vulnerabilities.53304/)|Visit link for details.|Oct 10, 2024|
- |[USN-7061-1: Go vulnerabilities](https://www.linux.org/threads/usn-7061-1-go-vulnerabilities.53301/)|Visit link for details.|Oct 10, 2024|
- |[USN-7022-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-3-linux-kernel-vulnerabilities.53300/)|Visit link for details.|Oct 10, 2024|
- |[USN-7060-1: EDK II vulnerabilities](https://www.linux.org/threads/usn-7060-1-edk-ii-vulnerabilities.53299/)|Visit link for details.|Oct 10, 2024|
- |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
- |[USN-7059-1: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-1-oath-toolkit-vulnerability.53278/)|Visit link for details.|Oct 9, 2024|
- |[USN-7043-4: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-4-cups-filters-vulnerabilities.53277/)|Visit link for details.|Oct 9, 2024|
- |[USN-7042-2: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-2-cups-browsed-vulnerability.53276/)|Visit link for details.|Oct 9, 2024|
- |[DSA-5729-2 apache2 - regression update](https://www.linux.org/threads/dsa-5729-2-apache2-regression-update.53267/)|Visit link for details.|Oct 9, 2024|
- |[USN-7058-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7058-1-net-vulnerabilities.53265/)|Visit link for details.|Oct 9, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -84,10 +67,21 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241008)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Oct 2024 |
  
 
-# OBS-Vigilance
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5788-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5788-1-firefox-esr-security-update.53306/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7062-1: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-1-libgsf-vulnerabilities.53304/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7061-1: Go vulnerabilities](https://www.linux.org/threads/usn-7061-1-go-vulnerabilities.53301/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7022-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-3-linux-kernel-vulnerabilities.53300/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7060-1: EDK II vulnerabilities](https://www.linux.org/threads/usn-7060-1-edk-ii-vulnerabilities.53299/)|Visit link for details.|Oct 10, 2024|
+ |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7059-1: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-1-oath-toolkit-vulnerability.53278/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7043-4: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-4-cups-filters-vulnerabilities.53277/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7042-2: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-2-cups-browsed-vulnerability.53276/)|Visit link for details.|Oct 9, 2024|
+ |[DSA-5729-2 apache2 - regression update](https://www.linux.org/threads/dsa-5729-2-apache2-regression-update.53267/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7058-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7058-1-net-vulnerabilities.53265/)|Visit link for details.|Oct 9, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -103,6 +97,12 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -115,23 +115,6 @@
  |[Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1328/)|Visit link for details|2024-10-08|
  |[Ivanti Avalanche Faces ResourceManager Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1327/)|Visit link for details|2024-10-08|
  |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1326/)|Visit link for details|2024-10-08|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
- |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
- |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
- |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
- |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
- |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
- |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
- |[Adobe security advisory (AV24–573)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573)|Visit link for details|2024-10-08|
- |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
- |[Qualcomm security advisory (AV24-571)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av24-571)|Visit link for details|2024-10-08|
- |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
  
 
 # EU-CERT
@@ -155,6 +138,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 50121110/24 - Vulnérabilité critique dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-industriels-de-schneider-electric)| Une vulnérabilité critique a été corrigée dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de cette faille permet à un attaquant de contourner la politique de…| 11 octobre 2024|
+ |[ 50111110/24 - Vulnérabilités critiques dans GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gitlab)| GitLab a publié une mise à jour de sécurité pour corriger des vulnérabilités critiques dans ses éditions Community Edition (CE) et Enterprise Edition (EE). L'exploitation réussie de ces vulnérabilités…| 11 octobre 2024|
  |[ 50101010/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 10 octobre 2024|
  |[ 50091010/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-10)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction    de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut…| 10 octobre 2024|
  |[ 50081010/24 - Vulnérabilités critiques dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-palo-alto-networks)| Palo Alto Networks a corrigée des failles de sécurité critiques dans la solution Expedition, qui aide à migrer les configurations d'autres fournisseurs Checkpoint, Cisco ou autres. Ces vulnérabilités…| 10 octobre 2024|
@@ -164,8 +149,6 @@
  |[ 50050910/24 - Vulnérabilités dans les outils de développement Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-outils-de-developpement-microsoft-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les outils de développement susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 09 octobre 2024|
  |[ 50040910/24 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-octobre-2024)| Deux vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance et de…| 09 octobre 2024|
  |[ 50030910/24 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-azure-patch-tuesday-octobre-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code…| 09 octobre 2024|
- |[ 50020910/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les  systèmes d’exploitation Windows susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant de divulguer des…| 09 octobre 2024|
- |[ 50010910/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 09 octobre 2024|
  
 
 # CERT-SANTE
@@ -183,4 +166,21 @@
  |[SAML - CVE-2024-45409](https://www.cyberveille-sante.gouv.fr/alertes/saml-cve-2024-45409-2024-09-19)|Visit link for details.|10/10/2024|
  |[Ivanti CSA - CVE-2024-9380](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-csa-cve-2024-9380-2024-10-09)|Visit link for details.|09/10/2024|
  |[Microsoft - CVE-2024-43572](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43572-2024-10-09)|Visit link for details.|09/10/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
+ |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
+ |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
+ |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
+ |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
+ |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
+ |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
+ |[Adobe security advisory (AV24–573)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573)|Visit link for details|2024-10-08|
+ |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
+ |[Qualcomm security advisory (AV24-571)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av24-571)|Visit link for details|2024-10-08|
+ |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
  
