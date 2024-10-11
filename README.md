@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/10/2024 09:25:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2024 10:19:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -98,9 +98,23 @@
  |[CORS origin validation is not performed when the request has a cookie in Gradio (CVE-2024-47084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
  |[The `is_in_or_equal` function may be bypassed in Gradio (CVE-2024-47164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
  |[CORS origin validation accepts the null origin in Gradio (CVE-2024-47165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
- |[One-level read path traversal in `/custom_component` in Gradio (CVE-2024-47166)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NVIDIA Onyx Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1333/)|Visit link for details|2024-10-09|
+ |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1332/)|Visit link for details|2024-10-08|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1331/)|Visit link for details|2024-10-08|
+ |[Microsoft Windows win32kfull Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1330/)|Visit link for details|2024-10-08|
+ |[Axis Communications Autodesk Plugin AxisAddin axisapphelpfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1329/)|Visit link for details|2024-10-08|
+ |[Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1328/)|Visit link for details|2024-10-08|
+ |[Ivanti Avalanche Faces ResourceManager Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1327/)|Visit link for details|2024-10-08|
+ |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1326/)|Visit link for details|2024-10-08|
  
 
 # EU-CERT
@@ -135,20 +149,6 @@
  |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
  |[Qualcomm security advisory (AV24-571)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av24-571)|Visit link for details|2024-10-08|
  |[[Control systems] Schneider Electric security advisory (AV24-570)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-570)|Visit link for details|2024-10-08|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[NVIDIA Onyx Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1333/)|Visit link for details|2024-10-09|
- |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1332/)|Visit link for details|2024-10-08|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1331/)|Visit link for details|2024-10-08|
- |[Microsoft Windows win32kfull Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1330/)|Visit link for details|2024-10-08|
- |[Axis Communications Autodesk Plugin AxisAddin axisapphelpfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1329/)|Visit link for details|2024-10-08|
- |[Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1328/)|Visit link for details|2024-10-08|
- |[Ivanti Avalanche Faces ResourceManager Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1327/)|Visit link for details|2024-10-08|
- |[Ivanti Avalanche SecureFilter allowPassThrough Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1326/)|Visit link for details|2024-10-08|
  
 
 # MA-CERT
