@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/10/2024 22:18:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/10/2024 23:27:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,29 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7020-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7020-4-linux-kernel-vulnerabilities.53310/)|Visit link for details.|Oct 11, 2024|
- |[DSA-5788-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5788-1-firefox-esr-security-update.53306/)|Visit link for details.|Oct 10, 2024|
- |[USN-7062-1: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-1-libgsf-vulnerabilities.53304/)|Visit link for details.|Oct 10, 2024|
- |[USN-7061-1: Go vulnerabilities](https://www.linux.org/threads/usn-7061-1-go-vulnerabilities.53301/)|Visit link for details.|Oct 10, 2024|
- |[USN-7022-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-3-linux-kernel-vulnerabilities.53300/)|Visit link for details.|Oct 10, 2024|
- |[USN-7060-1: EDK II vulnerabilities](https://www.linux.org/threads/usn-7060-1-edk-ii-vulnerabilities.53299/)|Visit link for details.|Oct 10, 2024|
- |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
- |[USN-7059-1: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-1-oath-toolkit-vulnerability.53278/)|Visit link for details.|Oct 9, 2024|
- |[USN-7043-4: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-4-cups-filters-vulnerabilities.53277/)|Visit link for details.|Oct 9, 2024|
- |[USN-7042-2: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-2-cups-browsed-vulnerability.53276/)|Visit link for details.|Oct 9, 2024|
- |[DSA-5729-2 apache2 - regression update](https://www.linux.org/threads/dsa-5729-2-apache2-regression-update.53267/)|Visit link for details.|Oct 9, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -68,7 +45,24 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
  
 
-# OBS-Vigilance
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7063-1: Ubuntu Advantage Desktop Daemon vulnerability](https://www.linux.org/threads/usn-7063-1-ubuntu-advantage-desktop-daemon-vulnerability.53311/)|Visit link for details.|Oct 11, 2024|
+ |[USN-7020-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7020-4-linux-kernel-vulnerabilities.53310/)|Visit link for details.|Oct 11, 2024|
+ |[DSA-5788-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5788-1-firefox-esr-security-update.53306/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7062-1: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-1-libgsf-vulnerabilities.53304/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7061-1: Go vulnerabilities](https://www.linux.org/threads/usn-7061-1-go-vulnerabilities.53301/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7022-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-3-linux-kernel-vulnerabilities.53300/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7060-1: EDK II vulnerabilities](https://www.linux.org/threads/usn-7060-1-edk-ii-vulnerabilities.53299/)|Visit link for details.|Oct 10, 2024|
+ |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7059-1: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-1-oath-toolkit-vulnerability.53278/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7043-4: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-4-cups-filters-vulnerabilities.53277/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7042-2: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-2-cups-browsed-vulnerability.53276/)|Visit link for details.|Oct 9, 2024|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -90,6 +84,39 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241008)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Oct 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Extract has insufficient checks allowing attacker to create symlinks outside the extraction directory. (CVE-2024-47877)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
+ |[CVE-2024-9859 (CVE-2024-9859)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
+ |[Junos OS and Junos OS Evolved: BGP update message containing aggregator attribute with an ASN value of zero (0) is accepted (CVE-2024-47507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
+ |[Path Traversal in api open_personality_folder in parisneo/lollms-webui (CVE-2024-6985)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
+ |[Junos OS: SRX Series: A large amount of traffic being processed by ATP Cloud can lead to a PFE crash (CVE-2024-47506)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Wacom Center WTabletServicePro Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1336/)|Visit link for details|2024-10-11|
+ |[SonicWALL Connect Tunnel Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1335/)|Visit link for details|2024-10-11|
+ |[SonicWALL Connect Tunnel Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1334/)|Visit link for details|2024-10-11|
+ |[NVIDIA Onyx Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1333/)|Visit link for details|2024-10-09|
+ |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1332/)|Visit link for details|2024-10-08|
+ |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1331/)|Visit link for details|2024-10-08|
+ |[Microsoft Windows win32kfull Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1330/)|Visit link for details|2024-10-08|
+ |[Axis Communications Autodesk Plugin AxisAddin axisapphelpfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1329/)|Visit link for details|2024-10-08|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -105,37 +132,6 @@
  |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
  |[2024-100: Critical RCE Vulnerability in VMware vCenter Server](https://cert.europa.eu/publications/security-advisories/2024-100/)|On September 17, 2024, Broadcom released a fix for a critical vulnerability tracked as CVE-2024-38812 in VMware vCenter Server, enabling remote code execution (RCE) via a specially crafted network packet.|Wednesday, September 18, 2024 02:32:53 PM CEST|
  |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-582)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-582)|Visit link for details|2024-10-11|
- |[Mozilla security advisory (AV24-581)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-581)|Visit link for details|2024-10-11|
- |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
- |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
- |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
- |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
- |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
- |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
- |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
- |[Adobe security advisory (AV24–573)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573)|Visit link for details|2024-10-08|
- |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[SonicWALL Connect Tunnel Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1335/)|Visit link for details|2024-10-11|
- |[SonicWALL Connect Tunnel Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1334/)|Visit link for details|2024-10-11|
- |[NVIDIA Onyx Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1333/)|Visit link for details|2024-10-09|
- |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1332/)|Visit link for details|2024-10-08|
- |[Adobe Substance 3D Stager SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1331/)|Visit link for details|2024-10-08|
- |[Microsoft Windows win32kfull Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1330/)|Visit link for details|2024-10-08|
- |[Axis Communications Autodesk Plugin AxisAddin axisapphelpfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1329/)|Visit link for details|2024-10-08|
- |[Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1328/)|Visit link for details|2024-10-08|
  
 
 # CERT-SANTE
@@ -155,19 +151,6 @@
  |[Ivanti Connect/Policy Secure - CVE-2024-37404](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connectpolicy-secure-cve-2024-37404-2024-10-09)|Visit link for details.|10/10/2024|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[ShopLentor <= 2.9.8 - Authenticated (Contributor+) Sensitive Information Exposure via WL: FAQ Widget Elementor Template (CVE-2024-9538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
- |[WordPress Comments Import & Export <= 2.3.7 - Authenticated (Author+) Arbitrary File Read via Directory Traversal (CVE-2024-7514)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
- |[The Plus Addons for Elementor – Elementor Addons, Page Templates, Widgets, Mega Menu, WooCommerce <= 5.6.11 - Authenticated (Contributor+) Sensitive Information Exposure via content_template (CVE-2024-8913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 50081010/24 - Vulnérabilités critiques dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-palo-alto-networks)| Palo Alto Networks a corrigée des failles de sécurité critiques dans la solution Expedition, qui aide à migrer les configurations d'autres fournisseurs Checkpoint, Cisco ou autres. Ces vulnérabilités…| 10 octobre 2024|
  |[ 50071010/24 - Zero-Day affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-navigateur-mozilla-firefox)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction d’un Zero-day critique au niveau du navigateur Mozilla Firefox. Cette vulnérabilité est…| 10 octobre 2024|
  |[ 50000910/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-16)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 09 octobre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-582)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-582)|Visit link for details|2024-10-11|
+ |[Mozilla security advisory (AV24-581)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-581)|Visit link for details|2024-10-11|
+ |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
+ |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
+ |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
+ |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
+ |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
+ |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
+ |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
+ |[Adobe security advisory (AV24–573)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573)|Visit link for details|2024-10-08|
+ |[Ivanti security advisory (AV24-572)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572)|Visit link for details|2024-10-08|
  
