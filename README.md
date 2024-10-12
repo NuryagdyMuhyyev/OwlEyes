@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/10/2024 20:20:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/10/2024 21:25:07 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -98,23 +98,9 @@
  |[Rescue Shortcodes <= 2.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode (CVE-2024-9696)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2024|
  |[Stackable – Page Builder Gutenberg Blocks <= 3.13.6 - Unauthenticated CSS Injection (CVE-2024-8760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2024|
  |[Category Icon <= 1.0.0 - Authenticated (Author+) Stored Cross-Site Scripting via SVG File Upload (CVE-2024-8915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2024|
- |[Social Sharing (by Danny) <= 1.3.7 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode (CVE-2024-9704)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trimble SketchUp Viewer SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1381/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1380/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1379/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1378/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1377/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1376/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1375/)|Visit link for details|2024-10-11|
- |[IrfanView SID File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1374/)|Visit link for details|2024-10-11|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # CA-CCS
@@ -132,6 +118,37 @@
  |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
  |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
  |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
+ |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
+ |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
+ |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
+ |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
+ |[2024-104: Critical Vulnerability in NVIDIA Container Toolkit](https://cert.europa.eu/publications/security-advisories/2024-104/)|On September 26, 2024, a security advisory was issued regarding a critical vulnerability, CCVE-2024-0132, affecting NVIDIA Container Toolkit. NVIDIA Container Toolkit is providing containerised AI applications with access to GPU resources. This vulnerability impacts any AI application that is running the vulnerable container toolkit to enable GPU support. |Friday, September 27, 2024 11:47:10 AM CEST|
+ |[2024-103: Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/)|On September 26, 2024, a security researched released a blog post describing several vulnerabilities in CUPS, one of which being critical, allowing an attacker to replace existing printers' IPP URLs with a malicious one, resulting in a potential arbitrary command execution.|Friday, September 27, 2024 11:31:45 AM CEST|
+ |[2024-102: Traefik Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-102/)|On September 19, 2024, a security advisory was issued regarding a critical vulnerability, CVE-2024-45410, affecting Traefik. This vulnerability could allow an attacker to execute arbitrary commands via crafted HTTP requests, posing a significant risk to exposed services.|Tuesday, September 24, 2024 01:48:58 PM CEST|
+ |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
+ |[2024-100: Critical RCE Vulnerability in VMware vCenter Server](https://cert.europa.eu/publications/security-advisories/2024-100/)|On September 17, 2024, Broadcom released a fix for a critical vulnerability tracked as CVE-2024-38812 in VMware vCenter Server, enabling remote code execution (RCE) via a specially crafted network packet.|Wednesday, September 18, 2024 02:32:53 PM CEST|
+ |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trimble SketchUp Viewer SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1381/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1380/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1379/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1378/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1377/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1376/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1375/)|Visit link for details|2024-10-11|
+ |[IrfanView SID File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1374/)|Visit link for details|2024-10-11|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[Ivanti - CVE-2024-9381](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9381-2024-10-10)|Visit link for details.|10/10/2024|
  |[GitLab - CVE-2024-9164](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9164-2024-10-10)|Visit link for details.|10/10/2024|
  |[Ivanti Connect/Policy Secure - CVE-2024-37404](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connectpolicy-secure-cve-2024-37404-2024-10-09)|Visit link for details.|10/10/2024|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
- |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
- |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
- |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
- |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
- |[2024-104: Critical Vulnerability in NVIDIA Container Toolkit](https://cert.europa.eu/publications/security-advisories/2024-104/)|On September 26, 2024, a security advisory was issued regarding a critical vulnerability, CCVE-2024-0132, affecting NVIDIA Container Toolkit. NVIDIA Container Toolkit is providing containerised AI applications with access to GPU resources. This vulnerability impacts any AI application that is running the vulnerable container toolkit to enable GPU support. |Friday, September 27, 2024 11:47:10 AM CEST|
- |[2024-103: Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/)|On September 26, 2024, a security researched released a blog post describing several vulnerabilities in CUPS, one of which being critical, allowing an attacker to replace existing printers' IPP URLs with a malicious one, resulting in a potential arbitrary command execution.|Friday, September 27, 2024 11:31:45 AM CEST|
- |[2024-102: Traefik Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-102/)|On September 19, 2024, a security advisory was issued regarding a critical vulnerability, CVE-2024-45410, affecting Traefik. This vulnerability could allow an attacker to execute arbitrary commands via crafted HTTP requests, posing a significant risk to exposed services.|Tuesday, September 24, 2024 01:48:58 PM CEST|
- |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
- |[2024-100: Critical RCE Vulnerability in VMware vCenter Server](https://cert.europa.eu/publications/security-advisories/2024-100/)|On September 17, 2024, Broadcom released a fix for a critical vulnerability tracked as CVE-2024-38812 in VMware vCenter Server, enabling remote code execution (RCE) via a specially crafted network packet.|Wednesday, September 18, 2024 02:32:53 PM CEST|
- |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
  
