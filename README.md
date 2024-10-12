@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/10/2024 08:23:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/10/2024 09:24:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -98,7 +98,7 @@
  |[Insecure Temporary File in `foxmarks` (CVE-2024-47884)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
  |[WordPress CM Tooltip Glossary plugin <= 4.3.9 - Stored Cross-Site Scripting vulnerability (CVE-2024-48041)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
  |[WordPress Tainacan plugin <= 0.21.8 - SQL Injection vulnerability (CVE-2024-48040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[HTTP Request Smuggling in Looker (CVE-2024-8912)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
