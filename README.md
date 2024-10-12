@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/10/2024 22:16:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/10/2024 23:25:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -94,10 +94,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[code-projects Blood Bank System reset.php sql injection (CVE-2024-9894)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2024|
  |[TablePress <= 2.4.2 - Authenticated (Author+) Stored Cross-Site Scripting (CVE-2024-9595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2024|
  |[Rescue Shortcodes <= 2.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode (CVE-2024-9696)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2024|
  |[Stackable – Page Builder Gutenberg Blocks <= 3.13.6 - Unauthenticated CSS Injection (CVE-2024-8760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2024|
- |[Category Icon <= 1.0.0 - Authenticated (Author+) Stored Cross-Site Scripting via SVG File Upload (CVE-2024-8915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
