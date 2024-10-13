@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/10/2024 19:17:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/10/2024 20:20:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,18 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,12 +72,6 @@
  |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
  |[USN-7059-1: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-1-oath-toolkit-vulnerability.53278/)|Visit link for details.|Oct 9, 2024|
  |[USN-7043-4: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-4-cups-filters-vulnerabilities.53277/)|Visit link for details.|Oct 9, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -88,19 +94,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[QileCMS Verification Code Forget.php sendEmail password recovery (CVE-2024-9907)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
- |[SourceCodester Online Eyewear Shop cross site scripting (CVE-2024-9906)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
- |[SourceCodester Online Eyewear Shop sql injection (CVE-2024-9905)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
- |[07FLYCMS/07FLY-CMS/07FlyCRM pictureUpload unrestricted upload (CVE-2024-9904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
