@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/10/2024 13:24:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/10/2024 14:20:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5789-1 thunderbird - security update](https://www.linux.org/threads/dsa-5789-1-thunderbird-security-update.53331/)|Visit link for details.|Oct 12, 2024|
+ |[USN-7063-1: Ubuntu Advantage Desktop Daemon vulnerability](https://www.linux.org/threads/usn-7063-1-ubuntu-advantage-desktop-daemon-vulnerability.53311/)|Visit link for details.|Oct 11, 2024|
+ |[USN-7020-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7020-4-linux-kernel-vulnerabilities.53310/)|Visit link for details.|Oct 11, 2024|
+ |[DSA-5788-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5788-1-firefox-esr-security-update.53306/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7062-1: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-1-libgsf-vulnerabilities.53304/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7061-1: Go vulnerabilities](https://www.linux.org/threads/usn-7061-1-go-vulnerabilities.53301/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7022-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-3-linux-kernel-vulnerabilities.53300/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7060-1: EDK II vulnerabilities](https://www.linux.org/threads/usn-7060-1-edk-ii-vulnerabilities.53299/)|Visit link for details.|Oct 10, 2024|
+ |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
+ |[USN-7059-1: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-1-oath-toolkit-vulnerability.53278/)|Visit link for details.|Oct 9, 2024|
+ |[USN-7043-4: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-4-cups-filters-vulnerabilities.53277/)|Visit link for details.|Oct 9, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,10 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5789-1 thunderbird - security update](https://www.linux.org/threads/dsa-5789-1-thunderbird-security-update.53331/)|Visit link for details.|Oct 12, 2024|
- |[USN-7063-1: Ubuntu Advantage Desktop Daemon vulnerability](https://www.linux.org/threads/usn-7063-1-ubuntu-advantage-desktop-daemon-vulnerability.53311/)|Visit link for details.|Oct 11, 2024|
- |[USN-7020-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7020-4-linux-kernel-vulnerabilities.53310/)|Visit link for details.|Oct 11, 2024|
- |[DSA-5788-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5788-1-firefox-esr-security-update.53306/)|Visit link for details.|Oct 10, 2024|
- |[USN-7062-1: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-1-libgsf-vulnerabilities.53304/)|Visit link for details.|Oct 10, 2024|
- |[USN-7061-1: Go vulnerabilities](https://www.linux.org/threads/usn-7061-1-go-vulnerabilities.53301/)|Visit link for details.|Oct 10, 2024|
- |[USN-7022-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-3-linux-kernel-vulnerabilities.53300/)|Visit link for details.|Oct 10, 2024|
- |[USN-7060-1: EDK II vulnerabilities](https://www.linux.org/threads/usn-7060-1-edk-ii-vulnerabilities.53299/)|Visit link for details.|Oct 10, 2024|
- |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
- |[USN-7059-1: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-1-oath-toolkit-vulnerability.53278/)|Visit link for details.|Oct 9, 2024|
- |[USN-7043-4: cups-filters vulnerabilities](https://www.linux.org/threads/usn-7043-4-cups-filters-vulnerabilities.53277/)|Visit link for details.|Oct 9, 2024|
  
 
 # HK-CERT
@@ -78,18 +84,6 @@
  |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241008)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and security restriction bypass on the targeted system.|Release Date: 8 Oct 2024 |
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +95,12 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
