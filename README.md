@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/10/2024 12:23:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/10/2024 13:27:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7065-1: Firefox vulnerability](https://www.linux.org/threads/usn-7065-1-firefox-vulnerability.53349/)|Visit link for details.|Oct 14, 2024|
  |[DSA-5791-1 python-reportlab - security update](https://www.linux.org/threads/dsa-5791-1-python-reportlab-security-update.53345/)|Visit link for details.|Oct 13, 2024|
  |[DSA-5790-1 node-dompurify - security update](https://www.linux.org/threads/dsa-5790-1-node-dompurify-security-update.53344/)|Visit link for details.|Oct 13, 2024|
  |[DSA-5789-1 thunderbird - security update](https://www.linux.org/threads/dsa-5789-1-thunderbird-security-update.53331/)|Visit link for details.|Oct 12, 2024|
@@ -59,16 +60,9 @@
  |[USN-7061-1: Go vulnerabilities](https://www.linux.org/threads/usn-7061-1-go-vulnerabilities.53301/)|Visit link for details.|Oct 10, 2024|
  |[USN-7022-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-3-linux-kernel-vulnerabilities.53300/)|Visit link for details.|Oct 10, 2024|
  |[USN-7060-1: EDK II vulnerabilities](https://www.linux.org/threads/usn-7060-1-edk-ii-vulnerabilities.53299/)|Visit link for details.|Oct 10, 2024|
- |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
  
 
 # CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -103,6 +97,12 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -134,10 +134,28 @@
  |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|11/10/2024|
+ |[D-Link - CVE-2024-9786](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9786-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mozilla - CVE-2024-9680](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9680-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|10/10/2024|
+ |[Palo Alto - CVE-2024-9464](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9464-2024-10-10)|Visit link for details.|10/10/2024|
+ |[Microsoft - CVE-2024-43583](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43583-2024-10-10)|Visit link for details.|10/10/2024|
+ |[Ivanti - CVE-2024-9381](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9381-2024-10-10)|Visit link for details.|10/10/2024|
+ |[GitLab - CVE-2024-9164](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9164-2024-10-10)|Visit link for details.|10/10/2024|
+ |[Ivanti Connect/Policy Secure - CVE-2024-37404](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connectpolicy-secure-cve-2024-37404-2024-10-09)|Visit link for details.|10/10/2024|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 50171410/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-9680 » affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du…| 14 octobre 2024|
  |[ 50161110/24 - Vulnérabilité critique dans Synology DSM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-synology-dsm)| Une vulnérabilité critique a été corrigée dans Synology DSM. Un attaquant pourrait exploiter ces failles afin de contourner la politique de sécurité.| 11 octobre 2024|
  |[ 50151110/24 - Vulnérabilités affectant VMware NSX ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-vmware-nsx)| Broadcom annonce la correction de trois vulnérabilités affectant les versions susmentionnées de sa plateforme de virtualisation de réseaux « VMware NSX ». L'exploitation de ces vulnérabilités peut …| 11 octobre 2024|
  |[ 50141110/24 - Vulnérabilités affectant plusieurs produits de Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-juniper-0)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  plusieurs versions de ses produits susmentionnés. Un attaquant distant  pourrait exploiter ces vulnérabilités  pour exécuter du…| 11 octobre 2024|
@@ -148,7 +166,6 @@
  |[ 50091010/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-10)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction    de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut…| 10 octobre 2024|
  |[ 50081010/24 - Vulnérabilités critiques dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-palo-alto-networks)| Palo Alto Networks a corrigée des failles de sécurité critiques dans la solution Expedition, qui aide à migrer les configurations d'autres fournisseurs Checkpoint, Cisco ou autres. Ces vulnérabilités…| 10 octobre 2024|
  |[ 50071010/24 - Zero-Day affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-navigateur-mozilla-firefox)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction d’un Zero-day critique au niveau du navigateur Mozilla Firefox. Cette vulnérabilité est…| 10 octobre 2024|
- |[ 50000910/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-16)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 09 octobre 2024|
  
 
 # CA-CCS
@@ -166,21 +183,4 @@
  |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
  |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
  |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|11/10/2024|
- |[D-Link - CVE-2024-9786](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9786-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mozilla - CVE-2024-9680](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9680-2024-10-11)|Visit link for details.|11/10/2024|
- |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|10/10/2024|
- |[Palo Alto - CVE-2024-9464](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9464-2024-10-10)|Visit link for details.|10/10/2024|
- |[Microsoft - CVE-2024-43583](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43583-2024-10-10)|Visit link for details.|10/10/2024|
- |[Ivanti - CVE-2024-9381](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9381-2024-10-10)|Visit link for details.|10/10/2024|
- |[GitLab - CVE-2024-9164](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9164-2024-10-10)|Visit link for details.|10/10/2024|
- |[Ivanti Connect/Policy Secure - CVE-2024-37404](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connectpolicy-secure-cve-2024-37404-2024-10-09)|Visit link for details.|10/10/2024|
  
