@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/10/2024 04:22:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/10/2024 06:42:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Twenty-One Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/10/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Oct 10, 2024|
- |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 09, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Oct 08, 2024|
- |[Microsoft Releases October 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/10/08/microsoft-releases-october-2024-security-updates)|Visit link for details.|Oct 08, 2024|
- |[Avoid Scams After Disaster Strikes](https://www.cisa.gov/news-events/alerts/2024/10/08/avoid-scams-after-disaster-strikes)|Visit link for details.|Oct 08, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 08, 2024|
- |[CISA and FBI Release Fact Sheet on Protecting Against Iranian Targeting of Accounts Associated with National Political Organizations](https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-and-fbi-release-fact-sheet-protecting-against-iranian-targeting-accounts-associated-national)|Visit link for details.|Oct 08, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 03, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,13 +46,29 @@
  |[DSA-5787-1 chromium - security update](https://www.linux.org/threads/dsa-5787-1-chromium-security-update.53279/)|Visit link for details.|Oct 10, 2024|
  
 
-# CERT-FR
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Twenty-One Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/10/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Oct 10, 2024|
+ |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 09, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Oct 08, 2024|
+ |[Microsoft Releases October 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/10/08/microsoft-releases-october-2024-security-updates)|Visit link for details.|Oct 08, 2024|
+ |[Avoid Scams After Disaster Strikes](https://www.cisa.gov/news-events/alerts/2024/10/08/avoid-scams-after-disaster-strikes)|Visit link for details.|Oct 08, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 08, 2024|
+ |[CISA and FBI Release Fact Sheet on Protecting Against Iranian Targeting of Accounts Associated with National Political Organizations](https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-and-fbi-release-fact-sheet-protecting-against-iranian-targeting-accounts-associated-national)|Visit link for details.|Oct 08, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 03, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -94,11 +94,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-619L B1 formSetRoute buffer overflow (CVE-2024-9913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
- |[D-Link DIR-619L B1 formSetQoS buffer overflow (CVE-2024-9912)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
- |[D-Link DIR-619L B1 formSetPortTr buffer overflow (CVE-2024-9911)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
- |[D-Link DIR-619L B1 formSetPassword buffer overflow (CVE-2024-9910)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
- |[D-Link DIR-619L B1 formSetMuti buffer overflow (CVE-2024-9909)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
+ |[SQL Injection in netease-youdao/qanything (CVE-2024-7099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
+ |[HuangDou UTCMS sql.php RunSql sql injection (CVE-2024-9918)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
+ |[CVE-2024-8070 (CVE-2024-8070)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
+ |[HuangDou UTCMS template_creat.php deserialization (CVE-2024-9917)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -118,6 +118,23 @@
  |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
  |[2024-100: Critical RCE Vulnerability in VMware vCenter Server](https://cert.europa.eu/publications/security-advisories/2024-100/)|On September 17, 2024, Broadcom released a fix for a critical vulnerability tracked as CVE-2024-38812 in VMware vCenter Server, enabling remote code execution (RCE) via a specially crafted network packet.|Wednesday, September 18, 2024 02:32:53 PM CEST|
  |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Networks security advisory (AV24-583)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-583)|Visit link for details|2024-10-11|
+ |[Vulnerabilities impacting Fortinet FortiOS – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-10-11|
+ |[Microsoft Edge security advisory (AV24-582)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-582)|Visit link for details|2024-10-11|
+ |[Mozilla security advisory (AV24-581)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-581)|Visit link for details|2024-10-11|
+ |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
+ |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
+ |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
+ |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
+ |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
+ |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
+ |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
  
 
 # ZERODAYINITIATIVE
@@ -166,21 +183,4 @@
  |[Ivanti - CVE-2024-9381](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9381-2024-10-10)|Visit link for details.|10/10/2024|
  |[GitLab - CVE-2024-9164](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9164-2024-10-10)|Visit link for details.|10/10/2024|
  |[Ivanti Connect/Policy Secure - CVE-2024-37404](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connectpolicy-secure-cve-2024-37404-2024-10-09)|Visit link for details.|10/10/2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Networks security advisory (AV24-583)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-583)|Visit link for details|2024-10-11|
- |[Vulnerabilities impacting Fortinet FortiOS – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-10-11|
- |[Microsoft Edge security advisory (AV24-582)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-582)|Visit link for details|2024-10-11|
- |[Mozilla security advisory (AV24-581)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-581)|Visit link for details|2024-10-11|
- |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
- |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
- |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
- |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
- |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
- |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
- |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
  
