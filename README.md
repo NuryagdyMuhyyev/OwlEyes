@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/10/2024 01:23:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/10/2024 02:19:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -92,7 +92,7 @@
  |[Sensitive information disclosure in AdminManager logging channel (CVE-2024-45739)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
  |[Sensitive information disclosure in REST_Calls logging channel (CVE-2024-45738)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
  |[Maintenance mode state change of App Key Value Store (KVStore) through Cross-Site Request Forgery (CSRF) (CVE-2024-45737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Remote Code Execution (RCE) due to insecure session storage configuration in Splunk Enterprise on Windows (CVE-2024-45733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -101,6 +101,20 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trimble SketchUp Viewer SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1381/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1380/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1379/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1378/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1377/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1376/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1375/)|Visit link for details|2024-10-11|
+ |[IrfanView SID File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1374/)|Visit link for details|2024-10-11|
  
 
 # CA-CCS
@@ -137,18 +151,21 @@
  |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Trimble SketchUp Viewer SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1381/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1380/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1379/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1378/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1377/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1376/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1375/)|Visit link for details|2024-10-11|
- |[IrfanView SID File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1374/)|Visit link for details|2024-10-11|
+ |[Palo Alto - CVE-2024-9473](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9473-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Netgear - CVE-2024-35517](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35517-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
+ |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|14/10/2024|
+ |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|11/10/2024|
+ |[D-Link - CVE-2024-9786](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9786-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mozilla - CVE-2024-9680](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9680-2024-10-11)|Visit link for details.|11/10/2024|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[ 50111110/24 - Vulnérabilités critiques dans GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gitlab)| GitLab a publié une mise à jour de sécurité pour corriger des vulnérabilités critiques dans ses éditions Community Edition (CE) et Enterprise Edition (EE). L'exploitation réussie de ces vulnérabilités…| 11 octobre 2024|
  |[ 50101010/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 10 octobre 2024|
  |[ 50091010/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-10)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction    de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut…| 10 octobre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto - CVE-2024-9473](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9473-2024-10-14)|Visit link for details.|14/10/2024|
- |[Netgear - CVE-2024-35517](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35517-2024-10-14)|Visit link for details.|14/10/2024|
- |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
- |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
- |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
- |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|14/10/2024|
- |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|11/10/2024|
- |[D-Link - CVE-2024-9786](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9786-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mozilla - CVE-2024-9680](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9680-2024-10-11)|Visit link for details.|11/10/2024|
  
