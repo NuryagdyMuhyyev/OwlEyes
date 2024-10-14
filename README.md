@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/10/2024 20:22:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/10/2024 21:25:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-6968-3: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6968-3-postgresql-vulnerability.53359/)|Visit link for details.|Oct 14, 2024|
+ |[USN-7015-4: Python vulnerability](https://www.linux.org/threads/usn-7015-4-python-vulnerability.53358/)|Visit link for details.|Oct 14, 2024|
+ |[USN-7067-1: HAProxy vulnerability](https://www.linux.org/threads/usn-7067-1-haproxy-vulnerability.53357/)|Visit link for details.|Oct 14, 2024|
  |[USN-7066-1: Thunderbird vulnerability](https://www.linux.org/threads/usn-7066-1-thunderbird-vulnerability.53352/)|Visit link for details.|Oct 14, 2024|
  |[USN-7065-1: Firefox vulnerability](https://www.linux.org/threads/usn-7065-1-firefox-vulnerability.53349/)|Visit link for details.|Oct 14, 2024|
  |[DSA-5791-1 python-reportlab - security update](https://www.linux.org/threads/dsa-5791-1-python-reportlab-security-update.53345/)|Visit link for details.|Oct 13, 2024|
@@ -57,9 +60,6 @@
  |[USN-7063-1: Ubuntu Advantage Desktop Daemon vulnerability](https://www.linux.org/threads/usn-7063-1-ubuntu-advantage-desktop-daemon-vulnerability.53311/)|Visit link for details.|Oct 11, 2024|
  |[USN-7020-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7020-4-linux-kernel-vulnerabilities.53310/)|Visit link for details.|Oct 11, 2024|
  |[DSA-5788-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5788-1-firefox-esr-security-update.53306/)|Visit link for details.|Oct 10, 2024|
- |[USN-7062-1: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-1-libgsf-vulnerabilities.53304/)|Visit link for details.|Oct 10, 2024|
- |[USN-7061-1: Go vulnerabilities](https://www.linux.org/threads/usn-7061-1-go-vulnerabilities.53301/)|Visit link for details.|Oct 10, 2024|
- |[USN-7022-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7022-3-linux-kernel-vulnerabilities.53300/)|Visit link for details.|Oct 10, 2024|
  
 
 # CERT-FR
@@ -68,10 +68,17 @@
  |---|---|---|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[OS Command Injection in Restricted Command (CVE-2024-9139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
+ |[GPU DDK - PowerVR: TLB invalidate UAF of dma_buf imported into multiple GPU devices (CVE-2024-43701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
+ |[Apache Roller: Weakness in CSRF protection allows privilege escalation (CVE-2024-46911)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
+ |[Moxa Service Missing Authentication for Critical Function (CVE-2024-9137)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -90,17 +97,24 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241009)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 9 Oct 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[OS Command Injection in Restricted Command (CVE-2024-9139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
- |[GPU DDK - PowerVR: TLB invalidate UAF of dma_buf imported into multiple GPU devices (CVE-2024-43701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
- |[Apache Roller: Weakness in CSRF protection allows privilege escalation (CVE-2024-46911)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
- |[Moxa Service Missing Authentication for Critical Function (CVE-2024-9137)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trimble SketchUp Viewer SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1381/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1380/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1379/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1378/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1377/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1376/)|Visit link for details|2024-10-11|
+ |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1375/)|Visit link for details|2024-10-11|
+ |[IrfanView SID File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1374/)|Visit link for details|2024-10-11|
  
 
 # EU-CERT
@@ -118,20 +132,6 @@
  |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
  |[2024-100: Critical RCE Vulnerability in VMware vCenter Server](https://cert.europa.eu/publications/security-advisories/2024-100/)|On September 17, 2024, Broadcom released a fix for a critical vulnerability tracked as CVE-2024-38812 in VMware vCenter Server, enabling remote code execution (RCE) via a specially crafted network packet.|Wednesday, September 18, 2024 02:32:53 PM CEST|
  |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trimble SketchUp Viewer SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1381/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1380/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1379/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1378/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1377/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1376/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1375/)|Visit link for details|2024-10-11|
- |[IrfanView SID File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1374/)|Visit link for details|2024-10-11|
  
 
 # MA-CERT
@@ -155,17 +155,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Palo Alto - CVE-2024-9473](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9473-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Netgear - CVE-2024-35517](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35517-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
+ |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|14/10/2024|
  |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|11/10/2024|
  |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|11/10/2024|
  |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|11/10/2024|
  |[D-Link - CVE-2024-9786](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9786-2024-10-11)|Visit link for details.|11/10/2024|
  |[Mozilla - CVE-2024-9680](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9680-2024-10-11)|Visit link for details.|11/10/2024|
- |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|10/10/2024|
- |[Palo Alto - CVE-2024-9464](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9464-2024-10-10)|Visit link for details.|10/10/2024|
- |[Microsoft - CVE-2024-43583](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43583-2024-10-10)|Visit link for details.|10/10/2024|
- |[Ivanti - CVE-2024-9381](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9381-2024-10-10)|Visit link for details.|10/10/2024|
- |[GitLab - CVE-2024-9164](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9164-2024-10-10)|Visit link for details.|10/10/2024|
- |[Ivanti Connect/Policy Secure - CVE-2024-37404](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connectpolicy-secure-cve-2024-37404-2024-10-09)|Visit link for details.|10/10/2024|
  
 
 # CA-CCS
