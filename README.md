@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/10/2024 21:26:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/10/2024 22:19:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,12 +68,6 @@
  |[DSA-5790-1 node-dompurify - security update](https://www.linux.org/threads/dsa-5790-1-node-dompurify-security-update.53344/)|Visit link for details.|Oct 13, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -117,6 +111,12 @@
  |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1404/)|Visit link for details|2024-10-15|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -132,23 +132,6 @@
  |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
  |[2024-100: Critical RCE Vulnerability in VMware vCenter Server](https://cert.europa.eu/publications/security-advisories/2024-100/)|On September 17, 2024, Broadcom released a fix for a critical vulnerability tracked as CVE-2024-38812 in VMware vCenter Server, enabling remote code execution (RCE) via a specially crafted network packet.|Wednesday, September 18, 2024 02:32:53 PM CEST|
  |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] CISA ICS security advisories (AV24–587)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587)|Visit link for details|2024-10-15|
- |[Ubuntu security advisory (AV24-586)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-586)|Visit link for details|2024-10-15|
- |[IBM security advisory (AV24-585)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-585)|Visit link for details|2024-10-15|
- |[Dell security advisory (AV24-584)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-584)|Visit link for details|2024-10-15|
- |[Juniper Networks security advisory (AV24-583)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-583)|Visit link for details|2024-10-11|
- |[Vulnerabilities impacting Fortinet FortiOS – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-10-11|
- |[Microsoft Edge security advisory (AV24-582)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-582)|Visit link for details|2024-10-11|
- |[Mozilla security advisory (AV24-581)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-581)|Visit link for details|2024-10-11|
- |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
- |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
- |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
  |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
  |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla security advisory (AV24-588)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-588)|Visit link for details|2024-10-15|
+ |[[Control systems] CISA ICS security advisories (AV24–587)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587)|Visit link for details|2024-10-15|
+ |[Ubuntu security advisory (AV24-586)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-586)|Visit link for details|2024-10-15|
+ |[IBM security advisory (AV24-585)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-585)|Visit link for details|2024-10-15|
+ |[Dell security advisory (AV24-584)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-584)|Visit link for details|2024-10-15|
+ |[Juniper Networks security advisory (AV24-583)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-583)|Visit link for details|2024-10-11|
+ |[Vulnerabilities impacting Fortinet FortiOS – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-10-11|
+ |[Microsoft Edge security advisory (AV24-582)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-582)|Visit link for details|2024-10-11|
+ |[Mozilla security advisory (AV24-581)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-581)|Visit link for details|2024-10-11|
+ |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
+ |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
  
