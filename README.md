@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/10/2024 18:28:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/10/2024 19:19:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,22 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla Firefox Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20241015)|A vulnerability was identified in Mozilla Firefox.  A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 15 Oct 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 14 Oct 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Oct 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 14 Oct 2024 |
+ |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241010)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2024-10-14]Updated System / Technologies affected, Solutions and Related Links. Note:Exploit in the...| Release Date: 10 Oct 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
+ |[Ivanti Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20241010)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Oct 2024 |
+ |[Palo Alto Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20241010)|Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 10 Oct 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and cross-site scripting on the targeted system. [Updated on 2024-02-19] For...| Release Date: 9 Feb 2024 |
+ |[Adobe Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Substance 3D Painter Medium RiskInformation Disclosure APSB24-52Adobe Commerce Medium RiskElevation of PrivilegeSecurity...|Release Date: 9 Oct 2024 |
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,18 +78,6 @@
  |[DSA-5790-1 node-dompurify - security update](https://www.linux.org/threads/dsa-5790-1-node-dompurify-security-update.53344/)|Visit link for details.|Oct 13, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -87,20 +91,16 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Mozilla Firefox Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20241015)|A vulnerability was identified in Mozilla Firefox.  A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 15 Oct 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 14 Oct 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Oct 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 14 Oct 2024 |
- |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241010)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2024-10-14]Updated System / Technologies affected, Solutions and Related Links. Note:Exploit in the...| Release Date: 10 Oct 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
- |[Ivanti Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20241010)|A vulnerability has been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Oct 2024 |
- |[Palo Alto Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20241010)|Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 10 Oct 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20240209)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and cross-site scripting on the targeted system. [Updated on 2024-02-19] For...| Release Date: 9 Feb 2024 |
- |[Adobe Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Substance 3D Painter Medium RiskInformation Disclosure APSB24-52Adobe Commerce Medium RiskElevation of PrivilegeSecurity...|Release Date: 9 Oct 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -118,6 +118,40 @@
  |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
  |[2024-100: Critical RCE Vulnerability in VMware vCenter Server](https://cert.europa.eu/publications/security-advisories/2024-100/)|On September 17, 2024, Broadcom released a fix for a critical vulnerability tracked as CVE-2024-38812 in VMware vCenter Server, enabling remote code execution (RCE) via a specially crafted network packet.|Wednesday, September 18, 2024 02:32:53 PM CEST|
  |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|15/10/2024|
+ |[Palo Alto - CVE-2024-9473](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9473-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Netgear - CVE-2024-35517](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35517-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
+ |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|14/10/2024|
+ |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|11/10/2024|
+ |[D-Link - CVE-2024-9786](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9786-2024-10-11)|Visit link for details.|11/10/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50191410/24 - Vulnérabilités dans Moodle ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-moodle)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Moodle. L'exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter…| 15 octobre 2024|
+ |[ 50181410/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-9)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android.  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 14 octobre 2024|
+ |[ 50191410/24 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall-0)| Plusieurs vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires, de…| 14 octobre 2024|
+ |[ 50171410/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-9680 » affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du…| 14 octobre 2024|
+ |[ 50161110/24 - Vulnérabilité critique dans Synology DSM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-synology-dsm)| Une vulnérabilité critique a été corrigée dans Synology DSM. Un attaquant pourrait exploiter ces failles afin de contourner la politique de sécurité.| 11 octobre 2024|
+ |[ 50151110/24 - Vulnérabilités affectant VMware NSX ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-vmware-nsx)| Broadcom annonce la correction de trois vulnérabilités affectant les versions susmentionnées de sa plateforme de virtualisation de réseaux « VMware NSX ». L'exploitation de ces vulnérabilités peut …| 11 octobre 2024|
+ |[ 50141110/24 - Vulnérabilités affectant plusieurs produits de Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-juniper-0)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  plusieurs versions de ses produits susmentionnés. Un attaquant distant  pourrait exploiter ces vulnérabilités  pour exécuter du…| 11 octobre 2024|
+ |[ 50131110/24 - Vulnérabilité critique affectant le module « Facets » sur le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-facets-sur-le-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique  au    niveau  du module « Facets » de son CMS. L’exploitation de cette vulnérabilité peut permettre à…| 11 octobre 2024|
+ |[ 50121110/24 - Vulnérabilité critique dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-industriels-de-schneider-electric)| Une vulnérabilité critique a été corrigée dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de cette faille permet à un attaquant de contourner la politique de…| 11 octobre 2024|
+ |[ 50111110/24 - Vulnérabilités critiques dans GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gitlab)| GitLab a publié une mise à jour de sécurité pour corriger des vulnérabilités critiques dans ses éditions Community Edition (CE) et Enterprise Edition (EE). L'exploitation réussie de ces vulnérabilités…| 11 octobre 2024|
+ |[ 50101010/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 10 octobre 2024|
  
 
 # CA-CCS
@@ -149,38 +183,4 @@
  |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1376/)|Visit link for details|2024-10-11|
  |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1375/)|Visit link for details|2024-10-11|
  |[IrfanView SID File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1374/)|Visit link for details|2024-10-11|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50191410/24 - Vulnérabilités dans Moodle ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-moodle)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Moodle. L'exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter…| 15 octobre 2024|
- |[ 50181410/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-9)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android.  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 14 octobre 2024|
- |[ 50191410/24 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall-0)| Plusieurs vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires, de…| 14 octobre 2024|
- |[ 50171410/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-9680 » affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du…| 14 octobre 2024|
- |[ 50161110/24 - Vulnérabilité critique dans Synology DSM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-synology-dsm)| Une vulnérabilité critique a été corrigée dans Synology DSM. Un attaquant pourrait exploiter ces failles afin de contourner la politique de sécurité.| 11 octobre 2024|
- |[ 50151110/24 - Vulnérabilités affectant VMware NSX ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-vmware-nsx)| Broadcom annonce la correction de trois vulnérabilités affectant les versions susmentionnées de sa plateforme de virtualisation de réseaux « VMware NSX ». L'exploitation de ces vulnérabilités peut …| 11 octobre 2024|
- |[ 50141110/24 - Vulnérabilités affectant plusieurs produits de Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-juniper-0)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  plusieurs versions de ses produits susmentionnés. Un attaquant distant  pourrait exploiter ces vulnérabilités  pour exécuter du…| 11 octobre 2024|
- |[ 50131110/24 - Vulnérabilité critique affectant le module « Facets » sur le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-facets-sur-le-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique  au    niveau  du module « Facets » de son CMS. L’exploitation de cette vulnérabilité peut permettre à…| 11 octobre 2024|
- |[ 50121110/24 - Vulnérabilité critique dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-industriels-de-schneider-electric)| Une vulnérabilité critique a été corrigée dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de cette faille permet à un attaquant de contourner la politique de…| 11 octobre 2024|
- |[ 50111110/24 - Vulnérabilités critiques dans GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gitlab)| GitLab a publié une mise à jour de sécurité pour corriger des vulnérabilités critiques dans ses éditions Community Edition (CE) et Enterprise Edition (EE). L'exploitation réussie de ces vulnérabilités…| 11 octobre 2024|
- |[ 50101010/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 10 octobre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto - CVE-2024-9473](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9473-2024-10-14)|Visit link for details.|14/10/2024|
- |[Netgear - CVE-2024-35517](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35517-2024-10-14)|Visit link for details.|14/10/2024|
- |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
- |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
- |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
- |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|14/10/2024|
- |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|11/10/2024|
- |[D-Link - CVE-2024-9786](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9786-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mozilla - CVE-2024-9680](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9680-2024-10-11)|Visit link for details.|11/10/2024|
  
