@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/10/2024 16:17:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/10/2024 17:41:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7068-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-7068-1-imagemagick-vulnerabilities.53364/)|Visit link for details.|Oct 15, 2024|
  |[DSA-5792-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5792-1-webkit2gtk-security-update.53363/)|Visit link for details.|Oct 15, 2024|
  |[USN-7040-2: ConfigObj vulnerability](https://www.linux.org/threads/usn-7040-2-configobj-vulnerability.53361/)|Visit link for details.|Oct 14, 2024|
  |[USN-7014-3: nginx vulnerability](https://www.linux.org/threads/usn-7014-3-nginx-vulnerability.53360/)|Visit link for details.|Oct 14, 2024|
@@ -43,7 +44,12 @@
  |[USN-7065-1: Firefox vulnerability](https://www.linux.org/threads/usn-7065-1-firefox-vulnerability.53349/)|Visit link for details.|Oct 14, 2024|
  |[DSA-5791-1 python-reportlab - security update](https://www.linux.org/threads/dsa-5791-1-python-reportlab-security-update.53345/)|Visit link for details.|Oct 13, 2024|
  |[DSA-5790-1 node-dompurify - security update](https://www.linux.org/threads/dsa-5790-1-node-dompurify-security-update.53344/)|Visit link for details.|Oct 13, 2024|
- |[DSA-5789-1 thunderbird - security update](https://www.linux.org/threads/dsa-5789-1-thunderbird-security-update.53331/)|Visit link for details.|Oct 12, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # US-CERT
@@ -62,10 +68,23 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 03, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[code-projects Pharmacy Management System manage_customer.php sql injection (CVE-2024-9976)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
+ |[SourceCodester Drag and Drop Image Upload upload.php unrestricted upload (CVE-2024-9975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
+ |[mm: avoid leaving partial pfn mappings around in error case (CVE-2024-47674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
+ |[CVE-2024-49388 (CVE-2024-49388)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -84,25 +103,6 @@
  |[Adobe Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Substance 3D Painter Medium RiskInformation Disclosure APSB24-52Adobe Commerce Medium RiskElevation of PrivilegeSecurity...|Release Date: 9 Oct 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[CVE-2024-0129 (CVE-2024-0129)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
- |[WooCommerce <= 9.0.2 - Unauthenticated HTML Injection (CVE-2024-9944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
- |[CVE-2024-21535 (CVE-2024-21535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
- |[NewType FlowMaster BPM Plus - Privilege Escalation (CVE-2024-9970)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -115,23 +115,6 @@
  |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1376/)|Visit link for details|2024-10-11|
  |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1375/)|Visit link for details|2024-10-11|
  |[IrfanView SID File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1374/)|Visit link for details|2024-10-11|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Networks security advisory (AV24-583)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-583)|Visit link for details|2024-10-11|
- |[Vulnerabilities impacting Fortinet FortiOS – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-10-11|
- |[Microsoft Edge security advisory (AV24-582)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-582)|Visit link for details|2024-10-11|
- |[Mozilla security advisory (AV24-581)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-581)|Visit link for details|2024-10-11|
- |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
- |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
- |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
- |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
- |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
- |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
- |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
  
 
 # EU-CERT
@@ -151,21 +134,21 @@
  |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Palo Alto - CVE-2024-9473](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9473-2024-10-14)|Visit link for details.|14/10/2024|
- |[Netgear - CVE-2024-35517](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35517-2024-10-14)|Visit link for details.|14/10/2024|
- |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
- |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
- |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
- |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|14/10/2024|
- |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|11/10/2024|
- |[D-Link - CVE-2024-9786](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9786-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mozilla - CVE-2024-9680](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9680-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Juniper Networks security advisory (AV24-583)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-583)|Visit link for details|2024-10-11|
+ |[Vulnerabilities impacting Fortinet FortiOS – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-fortinet-fortios)|Visit link for details|2024-10-11|
+ |[Microsoft Edge security advisory (AV24-582)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-582)|Visit link for details|2024-10-11|
+ |[Mozilla security advisory (AV24-581)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-581)|Visit link for details|2024-10-11|
+ |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
+ |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
+ |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
+ |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
+ |[Mozilla security advisory (AV24-576)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-mozilla-security-advisory-av24-576)|Visit link for details|2024-10-09|
+ |[Google Chrome security advisory (AV24-575)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-575)|Visit link for details|2024-10-09|
+ |[Microsoft security advisory – October 2024 monthly rollup (AV24–574)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2024-monthly-rollup-av24-574)|Visit link for details|2024-10-08|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[ 50121110/24 - Vulnérabilité critique dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-industriels-de-schneider-electric)| Une vulnérabilité critique a été corrigée dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de cette faille permet à un attaquant de contourner la politique de…| 11 octobre 2024|
  |[ 50111110/24 - Vulnérabilités critiques dans GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gitlab)| GitLab a publié une mise à jour de sécurité pour corriger des vulnérabilités critiques dans ses éditions Community Edition (CE) et Enterprise Edition (EE). L'exploitation réussie de ces vulnérabilités…| 11 octobre 2024|
  |[ 50101010/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à  un…| 10 octobre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Palo Alto - CVE-2024-9473](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9473-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Netgear - CVE-2024-35517](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35517-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
+ |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|14/10/2024|
+ |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|11/10/2024|
+ |[D-Link - CVE-2024-9786](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9786-2024-10-11)|Visit link for details.|11/10/2024|
+ |[Mozilla - CVE-2024-9680](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-9680-2024-10-11)|Visit link for details.|11/10/2024|
  
