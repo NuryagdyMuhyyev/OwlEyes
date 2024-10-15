@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/10/2024 20:22:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/10/2024 21:26:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,28 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 15, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 15, 2024|
+ |[CISA Releases Twenty-One Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/10/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Oct 10, 2024|
+ |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 09, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Oct 08, 2024|
+ |[Microsoft Releases October 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/10/08/microsoft-releases-october-2024-security-updates)|Visit link for details.|Oct 08, 2024|
+ |[Avoid Scams After Disaster Strikes](https://www.cisa.gov/news-events/alerts/2024/10/08/avoid-scams-after-disaster-strikes)|Visit link for details.|Oct 08, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 08, 2024|
+ |[CISA and FBI Release Fact Sheet on Protecting Against Iranian Targeting of Accounts Associated with National Political Organizations](https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-and-fbi-release-fact-sheet-protecting-against-iranian-targeting-accounts-associated-national)|Visit link for details.|Oct 08, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,29 +68,7 @@
  |[DSA-5790-1 node-dompurify - security update](https://www.linux.org/threads/dsa-5790-1-node-dompurify-security-update.53344/)|Visit link for details.|Oct 13, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 15, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 15, 2024|
- |[CISA Releases Twenty-One Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/10/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Oct 10, 2024|
- |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 09, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Oct 08, 2024|
- |[Microsoft Releases October 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/10/08/microsoft-releases-october-2024-security-updates)|Visit link for details.|Oct 08, 2024|
- |[Avoid Scams After Disaster Strikes](https://www.cisa.gov/news-events/alerts/2024/10/08/avoid-scams-after-disaster-strikes)|Visit link for details.|Oct 08, 2024|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 08, 2024|
- |[CISA and FBI Release Fact Sheet on Protecting Against Iranian Targeting of Accounts Associated with National Political Organizations](https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-and-fbi-release-fact-sheet-protecting-against-iranian-targeting-accounts-associated-national)|Visit link for details.|Oct 08, 2024|
- 
-
 # OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -107,14 +107,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Trimble SketchUp Viewer SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1381/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1380/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1379/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1378/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1377/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1376/)|Visit link for details|2024-10-11|
- |[Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1375/)|Visit link for details|2024-10-11|
- |[IrfanView SID File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1374/)|Visit link for details|2024-10-11|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1411/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1410/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1409/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1408/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1407/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1406/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1405/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1404/)|Visit link for details|2024-10-15|
  
 
 # EU-CERT
@@ -138,6 +138,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] CISA ICS security advisories (AV24–587)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587)|Visit link for details|2024-10-15|
  |[Ubuntu security advisory (AV24-586)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-586)|Visit link for details|2024-10-15|
  |[IBM security advisory (AV24-585)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-585)|Visit link for details|2024-10-15|
  |[Dell security advisory (AV24-584)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-584)|Visit link for details|2024-10-15|
@@ -148,24 +149,6 @@
  |[SonicWall security advisory (AV24-580)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-580)|Visit link for details|2024-10-10|
  |[GitLab security advisory (AV24-579)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579)|Visit link for details|2024-10-10|
  |[Palo Alto Networks security advisory (AV24-578)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578)|Visit link for details|2024-10-09|
- |[Mitel security advisory (AV24-577)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-577)|Visit link for details|2024-10-09|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|15/10/2024|
- |[Palo Alto - CVE-2024-9473](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9473-2024-10-14)|Visit link for details.|14/10/2024|
- |[Netgear - CVE-2024-35517](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35517-2024-10-14)|Visit link for details.|14/10/2024|
- |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
- |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
- |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
- |[Microsoft - CVE-2024-30088](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-30088-2024-09-02)|Visit link for details.|14/10/2024|
- |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|11/10/2024|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|11/10/2024|
- |[D-Link - CVE-2024-9786](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9786-2024-10-11)|Visit link for details.|11/10/2024|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[ 50131110/24 - Vulnérabilité critique affectant le module « Facets » sur le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-facets-sur-le-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique  au    niveau  du module « Facets » de son CMS. L’exploitation de cette vulnérabilité peut permettre à…| 11 octobre 2024|
  |[ 50121110/24 - Vulnérabilité critique dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-industriels-de-schneider-electric)| Une vulnérabilité critique a été corrigée dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de cette faille permet à un attaquant de contourner la politique de…| 11 octobre 2024|
  |[ 50111110/24 - Vulnérabilités critiques dans GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gitlab)| GitLab a publié une mise à jour de sécurité pour corriger des vulnérabilités critiques dans ses éditions Community Edition (CE) et Enterprise Edition (EE). L'exploitation réussie de ces vulnérabilités…| 11 octobre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link - CVE-2024-9913](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9913-2024-10-15)|Visit link for details.|15/10/2024|
+ |[D-Link - CVE-2024-9914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9914-2024-10-15)|Visit link for details.|15/10/2024|
+ |[GitLab - CVE-2024-8970](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8970-2024-10-15)|Visit link for details.|15/10/2024|
+ |[Netgear - CVE-2024-35522](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35522-2024-10-15)|Visit link for details.|15/10/2024|
+ |[Google Chrome - CVE-2024-9602](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9602-2024-10-15)|Visit link for details.|15/10/2024|
+ |[Veeam Backup & Replication - CVE-2024-40711](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40711-2024-09-06)|Visit link for details.|15/10/2024|
+ |[Palo Alto - CVE-2024-9473](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9473-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Netgear - CVE-2024-35517](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35517-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
+ |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
+ |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
  
