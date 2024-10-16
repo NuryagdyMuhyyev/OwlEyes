@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/10/2024 11:29:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/10/2024 12:20:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 08, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,25 +66,6 @@
  |[USN-7067-1: HAProxy vulnerability](https://www.linux.org/threads/usn-7067-1-haproxy-vulnerability.53357/)|Visit link for details.|Oct 14, 2024|
  |[USN-7066-1: Thunderbird vulnerability](https://www.linux.org/threads/usn-7066-1-thunderbird-vulnerability.53352/)|Visit link for details.|Oct 14, 2024|
  |[USN-7065-1: Firefox vulnerability](https://www.linux.org/threads/usn-7065-1-firefox-vulnerability.53349/)|Visit link for details.|Oct 14, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[CVE-2024-21230 (CVE-2024-21230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
- |[CVE-2024-21219 (CVE-2024-21219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
- |[CVE-2024-21218 (CVE-2024-21218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
- |[CVE-2024-21217 (CVE-2024-21217)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -97,10 +84,17 @@
  |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241010)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2024-10-14]Updated System / Technologies affected, Solutions and Related Links. Note:Exploit in the...| Release Date: 10 Oct 2024 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[CVE-2024-21230 (CVE-2024-21230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
+ |[CVE-2024-21219 (CVE-2024-21219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
+ |[CVE-2024-21218 (CVE-2024-21218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
+ |[CVE-2024-21217 (CVE-2024-21217)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
+ |[CVE-2024-21216 (CVE-2024-21216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 15, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -115,6 +109,12 @@
  |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1406/)|Visit link for details|2024-10-15|
  |[Delta Electronics CNCSoft-G2 ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1405/)|Visit link for details|2024-10-15|
  |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1404/)|Visit link for details|2024-10-15|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-SANTE
