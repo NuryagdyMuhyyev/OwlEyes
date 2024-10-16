@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/10/2024 02:21:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/10/2024 03:19:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[Microsoft Releases October 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/10/08/microsoft-releases-october-2024-security-updates)|Visit link for details.|Oct 08, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,12 @@
  |[USN-7014-3: nginx vulnerability](https://www.linux.org/threads/usn-7014-3-nginx-vulnerability.53360/)|Visit link for details.|Oct 14, 2024|
  |[USN-6968-3: PostgreSQL vulnerability](https://www.linux.org/threads/usn-6968-3-postgresql-vulnerability.53359/)|Visit link for details.|Oct 14, 2024|
  |[USN-7015-4: Python vulnerability](https://www.linux.org/threads/usn-7015-4-python-vulnerability.53358/)|Visit link for details.|Oct 14, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
@@ -134,23 +134,6 @@
  |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
- |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
- |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
- |[F5 security advisory (AV24-594)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594)|Visit link for details|2024-10-16|
- |[Atlassian security advisory (AV24-593)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593)|Visit link for details|2024-10-16|
- |[[Control systems] ABB security advisory (AV24-592)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592)|Visit link for details|2024-10-16|
- |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
- |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
- |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
- |[Mozilla security advisory (AV24-588)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-588)|Visit link for details|2024-10-15|
- |[[Control systems] CISA ICS security advisories (AV24–587)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587)|Visit link for details|2024-10-15|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[D-Link - CVE-2024-9914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9914-2024-10-15)|Visit link for details.|15/10/2024|
  |[GitLab - CVE-2024-8970](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8970-2024-10-15)|Visit link for details.|15/10/2024|
  |[Netgear - CVE-2024-35522](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35522-2024-10-15)|Visit link for details.|15/10/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
+ |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
+ |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
+ |[F5 security advisory (AV24-594)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594)|Visit link for details|2024-10-16|
+ |[Atlassian security advisory (AV24-593)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593)|Visit link for details|2024-10-16|
+ |[[Control systems] ABB security advisory (AV24-592)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592)|Visit link for details|2024-10-16|
+ |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
+ |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
+ |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
+ |[Mozilla security advisory (AV24-588)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-588)|Visit link for details|2024-10-15|
+ |[[Control systems] CISA ICS security advisories (AV24–587)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587)|Visit link for details|2024-10-15|
  
