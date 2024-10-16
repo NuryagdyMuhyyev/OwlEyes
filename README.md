@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/10/2024 21:25:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/10/2024 22:19:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ CISA and FBI Release Joint Guidance on Product Security Bad Practices for Public Comment](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-and-fbi-release-joint-guidance-product-security-bad-practices-public-comment)|Visit link for details.|Oct 16, 2024|
  |[CISA, FBI, NSA, and International Partners Release Advisory on Iranian Cyber Actors Targeting Critical Infrastructure Organizations Using Brute Force](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-fbi-nsa-and-international-partners-release-advisory-iranian-cyber-actors-targeting-critical)|Visit link for details.|Oct 16, 2024|
  |[Guidance: Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM)](https://www.cisa.gov/news-events/alerts/2024/10/15/guidance-framing-software-component-transparency-establishing-common-software-bill-materials-sbom)|Visit link for details.|Oct 15, 2024|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 15, 2024|
@@ -42,23 +43,6 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 09, 2024|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/08/adobe-releases-security-updates-multiple-products)|Visit link for details.|Oct 08, 2024|
  |[Microsoft Releases October 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/10/08/microsoft-releases-october-2024-security-updates)|Visit link for details.|Oct 08, 2024|
- |[Avoid Scams After Disaster Strikes](https://www.cisa.gov/news-events/alerts/2024/10/08/avoid-scams-after-disaster-strikes)|Visit link for details.|Oct 08, 2024|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 16 Oct 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 16 Oct 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Oct 2024 |
- |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 16 Oct 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
- |[Mozilla Firefox Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20241015)|A vulnerability was identified in Mozilla Firefox.  A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 15 Oct 2024 |
- |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 14 Oct 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Oct 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 14 Oct 2024 |
- |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241010)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2024-10-14]Updated System / Technologies affected, Solutions and Related Links. Note:Exploit in the...| Release Date: 10 Oct 2024 |
  
 
 # LINUX-SEC
@@ -78,10 +62,32 @@
  |[USN-7015-4: Python vulnerability](https://www.linux.org/threads/usn-7015-4-python-vulnerability.53358/)|Visit link for details.|Oct 14, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 16 Oct 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 16 Oct 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Oct 2024 |
+ |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 16 Oct 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
+ |[Mozilla Firefox Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20241015)|A vulnerability was identified in Mozilla Firefox.  A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 15 Oct 2024 |
+ |[Juniper Junos OS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution, elevation of privilege and security restriction bypass on the targeted system.|Release Date: 14 Oct 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 14 Oct 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241014)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 14 Oct 2024 |
+ |[Mozilla Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241010)|A vulnerability was identified in Mozilla Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. [Updated on 2024-10-14]Updated System / Technologies affected, Solutions and Related Links. Note:Exploit in the...| Release Date: 10 Oct 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -95,12 +101,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -132,6 +132,23 @@
  |[2024-103: Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/)|On September 26, 2024, a security researched released a blog post describing several vulnerabilities in CUPS, one of which being critical, allowing an attacker to replace existing printers' IPP URLs with a malicious one, resulting in a potential arbitrary command execution.|Friday, September 27, 2024 11:31:45 AM CEST|
  |[2024-102: Traefik Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-102/)|On September 19, 2024, a security advisory was issued regarding a critical vulnerability, CVE-2024-45410, affecting Traefik. This vulnerability could allow an attacker to execute arbitrary commands via crafted HTTP requests, posing a significant risk to exposed services.|Tuesday, September 24, 2024 01:48:58 PM CEST|
  |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Atlassian security advisory (AV24-593)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593)|Visit link for details|2024-10-16|
+ |[[Control systems] ABB security advisory (AV24-592)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592)|Visit link for details|2024-10-16|
+ |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
+ |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
+ |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
+ |[Mozilla security advisory (AV24-588)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-588)|Visit link for details|2024-10-15|
+ |[[Control systems] CISA ICS security advisories (AV24–587)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587)|Visit link for details|2024-10-15|
+ |[Ubuntu security advisory (AV24-586)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-586)|Visit link for details|2024-10-15|
+ |[IBM security advisory (AV24-585)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-585)|Visit link for details|2024-10-15|
+ |[Dell security advisory (AV24-584)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-584)|Visit link for details|2024-10-15|
+ |[Juniper Networks security advisory (AV24-583)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-583)|Visit link for details|2024-10-11|
  
 
 # CERT-SANTE
@@ -166,21 +183,4 @@
  |[ 50171410/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-9680 » affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du…| 14 octobre 2024|
  |[ 50161110/24 - Vulnérabilité critique dans Synology DSM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-synology-dsm)| Une vulnérabilité critique a été corrigée dans Synology DSM. Un attaquant pourrait exploiter ces failles afin de contourner la politique de sécurité.| 11 octobre 2024|
  |[ 50151110/24 - Vulnérabilités affectant VMware NSX ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-vmware-nsx)| Broadcom annonce la correction de trois vulnérabilités affectant les versions susmentionnées de sa plateforme de virtualisation de réseaux « VMware NSX ». L'exploitation de ces vulnérabilités peut …| 11 octobre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Atlassian security advisory (AV24-593)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593)|Visit link for details|2024-10-16|
- |[[Control systems] ABB security advisory (AV24-592)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592)|Visit link for details|2024-10-16|
- |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
- |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
- |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
- |[Mozilla security advisory (AV24-588)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-588)|Visit link for details|2024-10-15|
- |[[Control systems] CISA ICS security advisories (AV24–587)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587)|Visit link for details|2024-10-15|
- |[Ubuntu security advisory (AV24-586)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-586)|Visit link for details|2024-10-15|
- |[IBM security advisory (AV24-585)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-585)|Visit link for details|2024-10-15|
- |[Dell security advisory (AV24-584)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-584)|Visit link for details|2024-10-15|
- |[Juniper Networks security advisory (AV24-583)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av24-583)|Visit link for details|2024-10-11|
  
