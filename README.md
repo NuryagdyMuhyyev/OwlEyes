@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/10/2024 09:25:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/10/2024 10:20:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 08, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -68,11 +62,23 @@
  |[USN-7065-1: Firefox vulnerability](https://www.linux.org/threads/usn-7065-1-firefox-vulnerability.53349/)|Visit link for details.|Oct 14, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....| Release Date: 16 Oct 2024 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 16 Oct 2024 |
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 16 Oct 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Oct 2024 |
  |[Splunk Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 16 Oct 2024 |
@@ -97,26 +103,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1411/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1410/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1409/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1408/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1407/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1406/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1405/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1404/)|Visit link for details|2024-10-15|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -134,21 +120,18 @@
  |[2024-099: Critical Vulnerabilities in Openshift](https://cert.europa.eu/publications/security-advisories/2024-099/)|On 16th of September 2024, two vulnerabilities (CVE-2024-45496 and CVE-2024-7387) have been discovered in Red Hat systems that allow attackers to escalate privileges or execute arbitrary code, impacting system integrity.|Wednesday, September 18, 2024 02:13:00 PM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 50201510/24 - Vulnérabilité critique affectant le plugin «Jetpack» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-jetpack-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Jetpack» a été corrigée. L’exploitation de cette     vulnérabilité peut permettre à un attaquant distant authentifié d’accéder à des informations     …| 15 octobre 2024|
- |[ 50191410/24 - Vulnérabilités dans Moodle ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-moodle)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Moodle. L'exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter…| 15 octobre 2024|
- |[ 50181410/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-9)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android.  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 14 octobre 2024|
- |[ 50191410/24 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall-0)| Plusieurs vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires, de…| 14 octobre 2024|
- |[ 50171410/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-9680 » affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du…| 14 octobre 2024|
- |[ 50161110/24 - Vulnérabilité critique dans Synology DSM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-synology-dsm)| Une vulnérabilité critique a été corrigée dans Synology DSM. Un attaquant pourrait exploiter ces failles afin de contourner la politique de sécurité.| 11 octobre 2024|
- |[ 50151110/24 - Vulnérabilités affectant VMware NSX ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-vmware-nsx)| Broadcom annonce la correction de trois vulnérabilités affectant les versions susmentionnées de sa plateforme de virtualisation de réseaux « VMware NSX ». L'exploitation de ces vulnérabilités peut …| 11 octobre 2024|
- |[ 50141110/24 - Vulnérabilités affectant plusieurs produits de Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-juniper-0)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  plusieurs versions de ses produits susmentionnés. Un attaquant distant  pourrait exploiter ces vulnérabilités  pour exécuter du…| 11 octobre 2024|
- |[ 50131110/24 - Vulnérabilité critique affectant le module « Facets » sur le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-facets-sur-le-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique  au    niveau  du module « Facets » de son CMS. L’exploitation de cette vulnérabilité peut permettre à…| 11 octobre 2024|
- |[ 50121110/24 - Vulnérabilité critique dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-industriels-de-schneider-electric)| Une vulnérabilité critique a été corrigée dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de cette faille permet à un attaquant de contourner la politique de…| 11 octobre 2024|
- |[ 50111110/24 - Vulnérabilités critiques dans GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gitlab)| GitLab a publié une mise à jour de sécurité pour corriger des vulnérabilités critiques dans ses éditions Community Edition (CE) et Enterprise Edition (EE). L'exploitation réussie de ces vulnérabilités…| 11 octobre 2024|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1411/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1410/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1409/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1408/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1407/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1406/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1405/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1404/)|Visit link for details|2024-10-15|
  
 
 # CA-CCS
@@ -183,4 +166,21 @@
  |[Microsoft - CVE-2024-20659](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-20659-2024-10-14)|Visit link for details.|14/10/2024|
  |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|14/10/2024|
  |[D-Link - CVE-2024-9915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9915-2024-10-14)|Visit link for details.|14/10/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50201510/24 - Vulnérabilité critique affectant le plugin «Jetpack» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-jetpack-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Jetpack» a été corrigée. L’exploitation de cette     vulnérabilité peut permettre à un attaquant distant authentifié d’accéder à des informations     …| 15 octobre 2024|
+ |[ 50191410/24 - Vulnérabilités dans Moodle ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-moodle)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Moodle. L'exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter…| 15 octobre 2024|
+ |[ 50181410/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-9)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android.  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 14 octobre 2024|
+ |[ 50191410/24 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall-0)| Plusieurs vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires, de…| 14 octobre 2024|
+ |[ 50171410/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-9680 » affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du…| 14 octobre 2024|
+ |[ 50161110/24 - Vulnérabilité critique dans Synology DSM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-synology-dsm)| Une vulnérabilité critique a été corrigée dans Synology DSM. Un attaquant pourrait exploiter ces failles afin de contourner la politique de sécurité.| 11 octobre 2024|
+ |[ 50151110/24 - Vulnérabilités affectant VMware NSX ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-vmware-nsx)| Broadcom annonce la correction de trois vulnérabilités affectant les versions susmentionnées de sa plateforme de virtualisation de réseaux « VMware NSX ». L'exploitation de ces vulnérabilités peut …| 11 octobre 2024|
+ |[ 50141110/24 - Vulnérabilités affectant plusieurs produits de Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-juniper-0)| Juniper annonce la correction de plusieurs vulnérabilités   affectant  plusieurs versions de ses produits susmentionnés. Un attaquant distant  pourrait exploiter ces vulnérabilités  pour exécuter du…| 11 octobre 2024|
+ |[ 50131110/24 - Vulnérabilité critique affectant le module « Facets » sur le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-facets-sur-le-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique  au    niveau  du module « Facets » de son CMS. L’exploitation de cette vulnérabilité peut permettre à…| 11 octobre 2024|
+ |[ 50121110/24 - Vulnérabilité critique dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-industriels-de-schneider-electric)| Une vulnérabilité critique a été corrigée dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de cette faille permet à un attaquant de contourner la politique de…| 11 octobre 2024|
+ |[ 50111110/24 - Vulnérabilités critiques dans GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-gitlab)| GitLab a publié une mise à jour de sécurité pour corriger des vulnérabilités critiques dans ses éditions Community Edition (CE) et Enterprise Edition (EE). L'exploitation réussie de ces vulnérabilités…| 11 octobre 2024|
  
