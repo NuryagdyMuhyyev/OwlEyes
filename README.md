@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/10/2024 21:27:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/10/2024 22:18:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,18 @@
  |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,18 +72,6 @@
  |[USN-7068-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-7068-1-imagemagick-vulnerabilities.53364/)|Visit link for details.|Oct 15, 2024|
  |[DSA-5792-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5792-1-webkit2gtk-security-update.53363/)|Visit link for details.|Oct 15, 2024|
  |[USN-7040-2: ConfigObj vulnerability](https://www.linux.org/threads/usn-7040-2-configobj-vulnerability.53361/)|Visit link for details.|Oct 14, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -90,31 +90,21 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Oct 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Parallax Image <= 1.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via dd-parallax Shortcode (CVE-2024-9898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[SolarWinds Kiwi CatTools Sensitive Information Disclosure Vulnerability (CVE-2024-45713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[OpenSight Software FlashFXP FlashFXP.exe uncontrolled search path (CVE-2024-10068)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[CVE-2024-49386 (CVE-2024-49386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1411/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1410/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1409/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1408/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1407/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1406/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1405/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1404/)|Visit link for details|2024-10-15|
+ |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
+ |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
+ |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
+ |[F5 security advisory (AV24-594)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594)|Visit link for details|2024-10-16|
+ |[Atlassian security advisory (AV24-593)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593)|Visit link for details|2024-10-16|
+ |[[Control systems] ABB security advisory (AV24-592)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592)|Visit link for details|2024-10-16|
+ |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
+ |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
+ |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
+ |[Mozilla security advisory (AV24-588)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-588)|Visit link for details|2024-10-15|
+ |[[Control systems] CISA ICS security advisories (AV24–587)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587)|Visit link for details|2024-10-15|
  
 
 # EU-CERT
@@ -134,21 +124,18 @@
  |[2024-102: Traefik Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-102/)|On September 19, 2024, a security advisory was issued regarding a critical vulnerability, CVE-2024-45410, affecting Traefik. This vulnerability could allow an attacker to execute arbitrary commands via crafted HTTP requests, posing a significant risk to exposed services.|Tuesday, September 24, 2024 01:48:58 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
- |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
- |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
- |[F5 security advisory (AV24-594)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594)|Visit link for details|2024-10-16|
- |[Atlassian security advisory (AV24-593)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593)|Visit link for details|2024-10-16|
- |[[Control systems] ABB security advisory (AV24-592)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592)|Visit link for details|2024-10-16|
- |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
- |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
- |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
- |[Mozilla security advisory (AV24-588)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-588)|Visit link for details|2024-10-15|
- |[[Control systems] CISA ICS security advisories (AV24–587)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1411/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1410/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1409/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1408/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1407/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1406/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1405/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1404/)|Visit link for details|2024-10-15|
  
 
 # MA-CERT
@@ -183,4 +170,17 @@
  |[Oracle VirtualBox - CVE-2024-21259](https://www.cyberveille-sante.gouv.fr/alertes/oracle-virtualbox-cve-2024-21259-2024-10-16)|Visit link for details.|16/10/2024|
  |[Google Chrome - CVE-2024-9954](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9954-2024-10-16)|Visit link for details.|16/10/2024|
  |[GitHub - CVE-2024-9487](https://www.cyberveille-sante.gouv.fr/alertes/github-cve-2024-9487-2024-10-16)|Visit link for details.|16/10/2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Parallax Image <= 1.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via dd-parallax Shortcode (CVE-2024-9898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[SolarWinds Kiwi CatTools Sensitive Information Disclosure Vulnerability (CVE-2024-45713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[OpenSight Software FlashFXP FlashFXP.exe uncontrolled search path (CVE-2024-10068)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[CVE-2024-49386 (CVE-2024-49386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
