@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/10/2024 18:28:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/10/2024 19:20:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[Microsoft Releases October 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/10/08/microsoft-releases-october-2024-security-updates)|Visit link for details.|Oct 08, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -84,39 +90,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Oct 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Parallax Image <= 1.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via dd-parallax Shortcode (CVE-2024-9898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[SolarWinds Kiwi CatTools Sensitive Information Disclosure Vulnerability (CVE-2024-45713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[OpenSight Software FlashFXP FlashFXP.exe uncontrolled search path (CVE-2024-10068)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[CVE-2024-49386 (CVE-2024-49386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[CVE-2024-49389 (CVE-2024-49389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1411/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1410/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1409/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1408/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1407/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1406/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1405/)|Visit link for details|2024-10-15|
- |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1404/)|Visit link for details|2024-10-15|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -151,21 +124,31 @@
  |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 50271710/24 - Vulnérabilité critique dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-vmware)| VMware annonce la correction d’une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille peut  permettre  à un attaquant distant d’exécuter du code arbitraire à…| 17 octobre 2024|
- |[ 50261710/24 - Vulnérabilité dans Zimbra Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zimbra-desktop)| Une vulnérabilité a été corrigée dans Zimbra Desktop. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 17 octobre 2024|
- |[ 50251710/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-2)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 17 octobre 2024|
- |[ 50241610/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 16 octobre 2024|
- |[ 50231610/24 - Vulnérabilité critique dans les produits Fortigate activement exploitée ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate-activement-exploitee)| Fortigate a corrigée une vulnérabilité critique « CVE-2024-23113 »  affectant les produits Fortinet FortiOS, FortiPAM, FortiProxy, et FortiWeb. L’exploitation de cette faille permet à un attaquant…| 16 octobre 2024|
- |[ 50221610/24 - Vulnérabilités critiques affectant Splunk Enterprise et Splunk Cloud… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-splunk-enterprise-et-splunk-cloud-plateform)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de ses produits Splunk Entreprise et Cloud Plateform. L’exploitation de cette vulnérabilité peut permettre à un…| 16 octobre 2024|
- |[ 50211610/24 - Vulnérabilités critiques dans GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-github-enterprise-server)| GitHub a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant GitHub Enterprise Server (GHES). L'exploitation réussie de ces vulnérabilités pourrait permettre…| 16 octobre 2024|
- |[ 50201510/24 - Vulnérabilité critique affectant le plugin «Jetpack» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-jetpack-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Jetpack» a été corrigée. L’exploitation de cette     vulnérabilité peut permettre à un attaquant distant authentifié d’accéder à des informations     …| 15 octobre 2024|
- |[ 50191410/24 - Vulnérabilités dans Moodle ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-moodle)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Moodle. L'exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter…| 15 octobre 2024|
- |[ 50181410/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-9)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android.  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 14 octobre 2024|
- |[ 50191410/24 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall-0)| Plusieurs vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires, de…| 14 octobre 2024|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1411/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1410/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1409/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1408/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1407/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1406/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1405/)|Visit link for details|2024-10-15|
+ |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1404/)|Visit link for details|2024-10-15|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Parallax Image <= 1.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via dd-parallax Shortcode (CVE-2024-9898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[SolarWinds Kiwi CatTools Sensitive Information Disclosure Vulnerability (CVE-2024-45713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[OpenSight Software FlashFXP FlashFXP.exe uncontrolled search path (CVE-2024-10068)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[CVE-2024-49386 (CVE-2024-49386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # CERT-SANTE
@@ -183,4 +166,21 @@
  |[D-Link - CVE-2024-9914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9914-2024-10-15)|Visit link for details.|15/10/2024|
  |[GitLab - CVE-2024-8970](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8970-2024-10-15)|Visit link for details.|15/10/2024|
  |[Netgear - CVE-2024-35522](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35522-2024-10-15)|Visit link for details.|15/10/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50271710/24 - Vulnérabilité critique dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-vmware)| VMware annonce la correction d’une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille peut  permettre  à un attaquant distant d’exécuter du code arbitraire à…| 17 octobre 2024|
+ |[ 50261710/24 - Vulnérabilité dans Zimbra Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zimbra-desktop)| Une vulnérabilité a été corrigée dans Zimbra Desktop. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 17 octobre 2024|
+ |[ 50251710/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-2)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 17 octobre 2024|
+ |[ 50241610/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 16 octobre 2024|
+ |[ 50231610/24 - Vulnérabilité critique dans les produits Fortigate activement exploitée ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate-activement-exploitee)| Fortigate a corrigée une vulnérabilité critique « CVE-2024-23113 »  affectant les produits Fortinet FortiOS, FortiPAM, FortiProxy, et FortiWeb. L’exploitation de cette faille permet à un attaquant…| 16 octobre 2024|
+ |[ 50221610/24 - Vulnérabilités critiques affectant Splunk Enterprise et Splunk Cloud… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-splunk-enterprise-et-splunk-cloud-plateform)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de ses produits Splunk Entreprise et Cloud Plateform. L’exploitation de cette vulnérabilité peut permettre à un…| 16 octobre 2024|
+ |[ 50211610/24 - Vulnérabilités critiques dans GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-github-enterprise-server)| GitHub a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant GitHub Enterprise Server (GHES). L'exploitation réussie de ces vulnérabilités pourrait permettre…| 16 octobre 2024|
+ |[ 50201510/24 - Vulnérabilité critique affectant le plugin «Jetpack» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-jetpack-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Jetpack» a été corrigée. L’exploitation de cette     vulnérabilité peut permettre à un attaquant distant authentifié d’accéder à des informations     …| 15 octobre 2024|
+ |[ 50191410/24 - Vulnérabilités dans Moodle ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-moodle)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Moodle. L'exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter…| 15 octobre 2024|
+ |[ 50181410/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-9)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android.  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 14 octobre 2024|
+ |[ 50191410/24 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall-0)| Plusieurs vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires, de…| 14 octobre 2024|
  
