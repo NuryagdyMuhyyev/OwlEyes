@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/10/2024 16:17:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/10/2024 17:41:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,30 +45,7 @@
  |[Microsoft Releases October 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/10/08/microsoft-releases-october-2024-security-updates)|Visit link for details.|Oct 08, 2024|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7073-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7073-1-linux-kernel-vulnerabilities.53400/)|Visit link for details.|Oct 17, 2024|
- |[USN-7072-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7072-1-linux-kernel-vulnerabilities.53399/)|Visit link for details.|Oct 17, 2024|
- |[USN-7071-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-1-linux-kernel-vulnerability.53398/)|Visit link for details.|Oct 17, 2024|
- |[USN-7048-2: Vim vulnerability](https://www.linux.org/threads/usn-7048-2-vim-vulnerability.53392/)|Visit link for details.|Oct 16, 2024|
- |[USN-7070-1: libarchive vulnerabilities](https://www.linux.org/threads/usn-7070-1-libarchive-vulnerabilities.53391/)|Visit link for details.|Oct 16, 2024|
- |[USN-7038-2: APR vulnerability](https://www.linux.org/threads/usn-7038-2-apr-vulnerability.53390/)|Visit link for details.|Oct 16, 2024|
- |[USN-7069-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7069-1-linux-kernel-vulnerabilities.53372/)|Visit link for details.|Oct 16, 2024|
- |[USN-7064-1: nano vulnerability](https://www.linux.org/threads/usn-7064-1-nano-vulnerability.53369/)|Visit link for details.|Oct 15, 2024|
- |[USN-7068-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-7068-1-imagemagick-vulnerabilities.53364/)|Visit link for details.|Oct 15, 2024|
- |[DSA-5792-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5792-1-webkit2gtk-security-update.53363/)|Visit link for details.|Oct 15, 2024|
- |[USN-7040-2: ConfigObj vulnerability](https://www.linux.org/threads/usn-7040-2-configobj-vulnerability.53361/)|Visit link for details.|Oct 14, 2024|
- 
-
 # CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -90,17 +67,40 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 16 Oct 2024 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7073-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7073-1-linux-kernel-vulnerabilities.53400/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7072-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7072-1-linux-kernel-vulnerabilities.53399/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7071-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-1-linux-kernel-vulnerability.53398/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7048-2: Vim vulnerability](https://www.linux.org/threads/usn-7048-2-vim-vulnerability.53392/)|Visit link for details.|Oct 16, 2024|
+ |[USN-7070-1: libarchive vulnerabilities](https://www.linux.org/threads/usn-7070-1-libarchive-vulnerabilities.53391/)|Visit link for details.|Oct 16, 2024|
+ |[USN-7038-2: APR vulnerability](https://www.linux.org/threads/usn-7038-2-apr-vulnerability.53390/)|Visit link for details.|Oct 16, 2024|
+ |[USN-7069-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7069-1-linux-kernel-vulnerabilities.53372/)|Visit link for details.|Oct 16, 2024|
+ |[USN-7064-1: nano vulnerability](https://www.linux.org/threads/usn-7064-1-nano-vulnerability.53369/)|Visit link for details.|Oct 15, 2024|
+ |[USN-7068-1: ImageMagick vulnerabilities](https://www.linux.org/threads/usn-7068-1-imagemagick-vulnerabilities.53364/)|Visit link for details.|Oct 15, 2024|
+ |[DSA-5792-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5792-1-webkit2gtk-security-update.53363/)|Visit link for details.|Oct 15, 2024|
+ |[USN-7040-2: ConfigObj vulnerability](https://www.linux.org/threads/usn-7040-2-configobj-vulnerability.53361/)|Visit link for details.|Oct 14, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Forminator Forms – Contact Form, Payment Form & Custom Form Builder <= 1.35.1 - Cross-Site Request Forgery to Draft Quiz Creation (CVE-2024-9351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[Forminator Forms – Contact Form, Payment Form & Custom Form Builder <= 1.35.1 - Cross-Site Request Forgery to Draft Custom Form Creation (CVE-2024-9352)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[Flexmls® IDX Plugin <= 3.14.22 - Reflected Cross-Site Scripting (CVE-2024-8719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[Royal Elementor Addons and Templates <= 1.3.986 - Authenticated (Subscriber+) Private Post Disclosure (CVE-2024-7417)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[Parallax Image <= 1.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via dd-parallax Shortcode (CVE-2024-9898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[SolarWinds Kiwi CatTools Sensitive Information Disclosure Vulnerability (CVE-2024-45713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[OpenSight Software FlashFXP FlashFXP.exe uncontrolled search path (CVE-2024-10068)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[CVE-2024-49386 (CVE-2024-49386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[CVE-2024-49389 (CVE-2024-49389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -115,23 +115,6 @@
  |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1406/)|Visit link for details|2024-10-15|
  |[Delta Electronics CNCSoft-G2 ALM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1405/)|Visit link for details|2024-10-15|
  |[Delta Electronics CNCSoft-G2 DPAX File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1404/)|Visit link for details|2024-10-15|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
- |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
- |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
- |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
- |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
- |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
- |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
- |[2024-104: Critical Vulnerability in NVIDIA Container Toolkit](https://cert.europa.eu/publications/security-advisories/2024-104/)|On September 26, 2024, a security advisory was issued regarding a critical vulnerability, CCVE-2024-0132, affecting NVIDIA Container Toolkit. NVIDIA Container Toolkit is providing containerised AI applications with access to GPU resources. This vulnerability impacts any AI application that is running the vulnerable container toolkit to enable GPU support. |Friday, September 27, 2024 11:47:10 AM CEST|
- |[2024-103: Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/)|On September 26, 2024, a security researched released a blog post describing several vulnerabilities in CUPS, one of which being critical, allowing an attacker to replace existing printers' IPP URLs with a malicious one, resulting in a potential arbitrary command execution.|Friday, September 27, 2024 11:31:45 AM CEST|
- |[2024-102: Traefik Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-102/)|On September 19, 2024, a security advisory was issued regarding a critical vulnerability, CVE-2024-45410, affecting Traefik. This vulnerability could allow an attacker to execute arbitrary commands via crafted HTTP requests, posing a significant risk to exposed services.|Tuesday, September 24, 2024 01:48:58 PM CEST|
- |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
  
 
 # CA-CCS
@@ -151,21 +134,21 @@
  |[[Control systems] CISA ICS security advisories (AV24–587)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587)|Visit link for details|2024-10-15|
  
 
-# MA-CERT
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[ 50271710/24 - Vulnérabilité critique dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-vmware)| VMware annonce la correction d’une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille peut  permettre  à un attaquant distant d’exécuter du code arbitraire à…| 17 octobre 2024|
- |[ 50261710/24 - Vulnérabilité dans Zimbra Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zimbra-desktop)| Une vulnérabilité a été corrigée dans Zimbra Desktop. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 17 octobre 2024|
- |[ 50251710/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-2)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 17 octobre 2024|
- |[ 50241610/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 16 octobre 2024|
- |[ 50231610/24 - Vulnérabilité critique dans les produits Fortigate activement exploitée ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate-activement-exploitee)| Fortigate a corrigée une vulnérabilité critique « CVE-2024-23113 »  affectant les produits Fortinet FortiOS, FortiPAM, FortiProxy, et FortiWeb. L’exploitation de cette faille permet à un attaquant…| 16 octobre 2024|
- |[ 50221610/24 - Vulnérabilités critiques affectant Splunk Enterprise et Splunk Cloud… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-splunk-enterprise-et-splunk-cloud-plateform)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de ses produits Splunk Entreprise et Cloud Plateform. L’exploitation de cette vulnérabilité peut permettre à un…| 16 octobre 2024|
- |[ 50211610/24 - Vulnérabilités critiques dans GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-github-enterprise-server)| GitHub a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant GitHub Enterprise Server (GHES). L'exploitation réussie de ces vulnérabilités pourrait permettre…| 16 octobre 2024|
- |[ 50201510/24 - Vulnérabilité critique affectant le plugin «Jetpack» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-jetpack-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Jetpack» a été corrigée. L’exploitation de cette     vulnérabilité peut permettre à un attaquant distant authentifié d’accéder à des informations     …| 15 octobre 2024|
- |[ 50191410/24 - Vulnérabilités dans Moodle ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-moodle)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Moodle. L'exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter…| 15 octobre 2024|
- |[ 50181410/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-9)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android.  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 14 octobre 2024|
- |[ 50191410/24 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall-0)| Plusieurs vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires, de…| 14 octobre 2024|
+ |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
+ |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
+ |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
+ |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
+ |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
+ |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
+ |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
+ |[2024-104: Critical Vulnerability in NVIDIA Container Toolkit](https://cert.europa.eu/publications/security-advisories/2024-104/)|On September 26, 2024, a security advisory was issued regarding a critical vulnerability, CCVE-2024-0132, affecting NVIDIA Container Toolkit. NVIDIA Container Toolkit is providing containerised AI applications with access to GPU resources. This vulnerability impacts any AI application that is running the vulnerable container toolkit to enable GPU support. |Friday, September 27, 2024 11:47:10 AM CEST|
+ |[2024-103: Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/)|On September 26, 2024, a security researched released a blog post describing several vulnerabilities in CUPS, one of which being critical, allowing an attacker to replace existing printers' IPP URLs with a malicious one, resulting in a potential arbitrary command execution.|Friday, September 27, 2024 11:31:45 AM CEST|
+ |[2024-102: Traefik Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-102/)|On September 19, 2024, a security advisory was issued regarding a critical vulnerability, CVE-2024-45410, affecting Traefik. This vulnerability could allow an attacker to execute arbitrary commands via crafted HTTP requests, posing a significant risk to exposed services.|Tuesday, September 24, 2024 01:48:58 PM CEST|
+ |[2024-101: Critical SAML Authentication Bypass in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-101/)|On September 17, 2024, GitLab issued a security advisory addressing a critical vulnerability identified in GitLab’s SAML authentication implementation, potentially allowing attackers to bypass authentication. The vulnerability affects the Community Edition (CE) and the Enterprise Edition (EE) instances that utilise SAML for single sign-on (SSO).|Thursday, September 19, 2024 02:06:27 PM CEST|
  
 
 # CERT-SANTE
@@ -183,4 +166,21 @@
  |[D-Link - CVE-2024-9914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-9914-2024-10-15)|Visit link for details.|15/10/2024|
  |[GitLab - CVE-2024-8970](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8970-2024-10-15)|Visit link for details.|15/10/2024|
  |[Netgear - CVE-2024-35522](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-35522-2024-10-15)|Visit link for details.|15/10/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50271710/24 - Vulnérabilité critique dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-vmware)| VMware annonce la correction d’une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille peut  permettre  à un attaquant distant d’exécuter du code arbitraire à…| 17 octobre 2024|
+ |[ 50261710/24 - Vulnérabilité dans Zimbra Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zimbra-desktop)| Une vulnérabilité a été corrigée dans Zimbra Desktop. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 17 octobre 2024|
+ |[ 50251710/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-2)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 17 octobre 2024|
+ |[ 50241610/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 16 octobre 2024|
+ |[ 50231610/24 - Vulnérabilité critique dans les produits Fortigate activement exploitée ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate-activement-exploitee)| Fortigate a corrigée une vulnérabilité critique « CVE-2024-23113 »  affectant les produits Fortinet FortiOS, FortiPAM, FortiProxy, et FortiWeb. L’exploitation de cette faille permet à un attaquant…| 16 octobre 2024|
+ |[ 50221610/24 - Vulnérabilités critiques affectant Splunk Enterprise et Splunk Cloud… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-splunk-enterprise-et-splunk-cloud-plateform)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de ses produits Splunk Entreprise et Cloud Plateform. L’exploitation de cette vulnérabilité peut permettre à un…| 16 octobre 2024|
+ |[ 50211610/24 - Vulnérabilités critiques dans GitHub Enterprise Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-github-enterprise-server)| GitHub a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant GitHub Enterprise Server (GHES). L'exploitation réussie de ces vulnérabilités pourrait permettre…| 16 octobre 2024|
+ |[ 50201510/24 - Vulnérabilité critique affectant le plugin «Jetpack» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-jetpack-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Jetpack» a été corrigée. L’exploitation de cette     vulnérabilité peut permettre à un attaquant distant authentifié d’accéder à des informations     …| 15 octobre 2024|
+ |[ 50191410/24 - Vulnérabilités dans Moodle ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-moodle)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Moodle. L'exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter…| 15 octobre 2024|
+ |[ 50181410/24 - Vulnérabilités affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-systeme-dexploitation-android-9)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android.  L'exploitation de ces vulnérabilités peut         permettre  à un attaquant distant…| 14 octobre 2024|
+ |[ 50191410/24 - Vulnérabilités dans les produits SonicWall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-sonicwall-0)| Plusieurs vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d'exécuter des commandes système arbitraires, de…| 14 octobre 2024|
  
