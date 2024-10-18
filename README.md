@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/10/2024 03:19:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/10/2024 04:19:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -85,6 +79,12 @@
  
 
 # OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -151,23 +151,6 @@
  |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50341810/24 - Vulnérabilité critique affectant Grafana ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-grafana)| Grafana Labs annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de sa plateforme Grafana. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant…| 18 octobre 2024|
- |[ 50331810/24 - Vulnérabilités affectant des produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-f5-1)| F5 Networks annonce la correction de deux  vulnérabilités affectant ses produits susmentionnés. Un attaquant distant peut exploiter ces vulnérabilités pour élever ses privilèges ou pour injecter du…| 18 octobre 2024|
- |[ 50321810/24 - Vulnérabilité critique affectant Trend Micro Cloud Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-trend-micro-cloud-edge)| Trend Micro annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées  son produit Cloud Edge.  L'exploitation de cette vulnérabilité peut  permettre  à un attaquant…| 18 octobre 2024|
- |[ 50311810/24 - Vulnérabilité critique dans Kubernetes Image Builder ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-kubernetes-image-builder)| Kubernetes annonce la correction d’une vulnérabilité critique affectant Kubernetes Image Builder. L’exploitation de cette faille peut  permettre  à un attaquant d’avoir les privilèges d’utilisateur…| 18 octobre 2024|
- |[ 50301810/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-8)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 18 octobre 2024|
- |[ 50291810/24 - Vulnérabilités critiques dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans leur solution Web Help Desk. L'exploitation réussie de ces vulnérabilités peut permettre à un…| 18 octobre 2024|
- |[ 50281810/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-3)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 18 octobre 2024|
- |[ 50271710/24 - Vulnérabilité critique dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-vmware)| VMware annonce la correction d’une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille peut  permettre  à un attaquant distant d’exécuter du code arbitraire à…| 17 octobre 2024|
- |[ 50261710/24 - Vulnérabilité dans Zimbra Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zimbra-desktop)| Une vulnérabilité a été corrigée dans Zimbra Desktop. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 17 octobre 2024|
- |[ 50251710/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-2)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 17 octobre 2024|
- |[ 50241610/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 16 octobre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[Trend Micro - CVE-2024-48904](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48904-2024-10-17)|Visit link for details.|17/10/2024|
  |[Trend Micro - CVE-2024-48903](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48903-2024-10-17)|Visit link for details.|17/10/2024|
  |[SolarWinds - CVE-2024-28988](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28988-2024-10-17)|Visit link for details.|17/10/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50341810/24 - Vulnérabilité critique affectant Grafana ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-grafana)| Grafana Labs annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de sa plateforme Grafana. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant…| 18 octobre 2024|
+ |[ 50331810/24 - Vulnérabilités affectant des produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-f5-1)| F5 Networks annonce la correction de deux  vulnérabilités affectant ses produits susmentionnés. Un attaquant distant peut exploiter ces vulnérabilités pour élever ses privilèges ou pour injecter du…| 18 octobre 2024|
+ |[ 50321810/24 - Vulnérabilité critique affectant Trend Micro Cloud Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-trend-micro-cloud-edge)| Trend Micro annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées  son produit Cloud Edge.  L'exploitation de cette vulnérabilité peut  permettre  à un attaquant…| 18 octobre 2024|
+ |[ 50311810/24 - Vulnérabilité critique dans Kubernetes Image Builder ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-kubernetes-image-builder)| Kubernetes annonce la correction d’une vulnérabilité critique affectant Kubernetes Image Builder. L’exploitation de cette faille peut  permettre  à un attaquant d’avoir les privilèges d’utilisateur…| 18 octobre 2024|
+ |[ 50301810/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-8)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 18 octobre 2024|
+ |[ 50291810/24 - Vulnérabilités critiques dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans leur solution Web Help Desk. L'exploitation réussie de ces vulnérabilités peut permettre à un…| 18 octobre 2024|
+ |[ 50281810/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-3)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 18 octobre 2024|
+ |[ 50271710/24 - Vulnérabilité critique dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-vmware)| VMware annonce la correction d’une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille peut  permettre  à un attaquant distant d’exécuter du code arbitraire à…| 17 octobre 2024|
+ |[ 50261710/24 - Vulnérabilité dans Zimbra Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zimbra-desktop)| Une vulnérabilité a été corrigée dans Zimbra Desktop. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 17 octobre 2024|
+ |[ 50251710/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-2)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 17 octobre 2024|
+ |[ 50241610/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 16 octobre 2024|
  
