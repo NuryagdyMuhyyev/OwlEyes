@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/10/2024 22:17:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/10/2024 23:26:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,23 @@
  |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7069-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7069-2-linux-kernel-azure-vulnerabilities.53413/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7028-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7028-2-linux-kernel-azure-vulnerabilities.53412/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7076-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7076-1-linux-kernel-azure-vulnerabilities.53411/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7059-2: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-2-oath-toolkit-vulnerability.53410/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7073-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7073-2-linux-kernel-azure-vulnerabilities.53409/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7074-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7074-1-linux-kernel-azure-vulnerabilities.53408/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7073-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7073-1-linux-kernel-vulnerabilities.53400/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7072-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7072-1-linux-kernel-vulnerabilities.53399/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7071-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-1-linux-kernel-vulnerability.53398/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7048-2: Vim vulnerability](https://www.linux.org/threads/usn-7048-2-vim-vulnerability.53392/)|Visit link for details.|Oct 16, 2024|
+ |[USN-7070-1: libarchive vulnerabilities](https://www.linux.org/threads/usn-7070-1-libarchive-vulnerabilities.53391/)|Visit link for details.|Oct 16, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -67,29 +84,6 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 16 Oct 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7069-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7069-2-linux-kernel-azure-vulnerabilities.53413/)|Visit link for details.|Oct 17, 2024|
- |[USN-7028-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7028-2-linux-kernel-azure-vulnerabilities.53412/)|Visit link for details.|Oct 17, 2024|
- |[USN-7076-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7076-1-linux-kernel-azure-vulnerabilities.53411/)|Visit link for details.|Oct 17, 2024|
- |[USN-7059-2: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-2-oath-toolkit-vulnerability.53410/)|Visit link for details.|Oct 17, 2024|
- |[USN-7073-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7073-2-linux-kernel-azure-vulnerabilities.53409/)|Visit link for details.|Oct 17, 2024|
- |[USN-7074-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7074-1-linux-kernel-azure-vulnerabilities.53408/)|Visit link for details.|Oct 17, 2024|
- |[USN-7073-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7073-1-linux-kernel-vulnerabilities.53400/)|Visit link for details.|Oct 17, 2024|
- |[USN-7072-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7072-1-linux-kernel-vulnerabilities.53399/)|Visit link for details.|Oct 17, 2024|
- |[USN-7071-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-1-linux-kernel-vulnerability.53398/)|Visit link for details.|Oct 17, 2024|
- |[USN-7048-2: Vim vulnerability](https://www.linux.org/threads/usn-7048-2-vim-vulnerability.53392/)|Visit link for details.|Oct 16, 2024|
- |[USN-7070-1: libarchive vulnerabilities](https://www.linux.org/threads/usn-7070-1-libarchive-vulnerabilities.53391/)|Visit link for details.|Oct 16, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +95,26 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
+ |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
+ |[Oracle VirtualBox TPM Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1413/)|Visit link for details|2024-10-17|
  
 
 # EU-CERT
@@ -169,18 +183,4 @@
  |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
  |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
  |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
- |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
- |[Oracle VirtualBox TPM Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1413/)|Visit link for details|2024-10-17|
  
