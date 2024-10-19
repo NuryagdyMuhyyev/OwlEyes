@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/10/2024 16:16:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/10/2024 17:38:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,6 +62,12 @@
  |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -92,7 +98,7 @@
  |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-43579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
  |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-43596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
  |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-43587)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-43578)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -128,10 +134,21 @@
  |[2024-102: Traefik Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-102/)|On September 19, 2024, a security advisory was issued regarding a critical vulnerability, CVE-2024-45410, affecting Traefik. This vulnerability could allow an attacker to execute arbitrary commands via crafted HTTP requests, posing a significant risk to exposed services.|Tuesday, September 24, 2024 01:48:58 PM CEST|
  
 
-# CERT-FR
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[HPE security advisory (AV24-599)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-599)|Visit link for details|2024-10-18|
+ |[Microsoft Edge security advisory (AV24-598)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-598)|Visit link for details|2024-10-18|
+ |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
+ |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
+ |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
+ |[F5 security advisory (AV24-594)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594)|Visit link for details|2024-10-16|
+ |[Atlassian security advisory (AV24-593)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593)|Visit link for details|2024-10-16|
+ |[[Control systems] ABB security advisory (AV24-592)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592)|Visit link for details|2024-10-16|
+ |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
+ |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
+ |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[Trend Micro - CVE-2024-48904](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48904-2024-10-17)|Visit link for details.|17/10/2024|
  |[Trend Micro - CVE-2024-48903](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48903-2024-10-17)|Visit link for details.|17/10/2024|
  |[SolarWinds - CVE-2024-28988](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28988-2024-10-17)|Visit link for details.|17/10/2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE security advisory (AV24-599)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-599)|Visit link for details|2024-10-18|
- |[Microsoft Edge security advisory (AV24-598)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-598)|Visit link for details|2024-10-18|
- |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
- |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
- |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
- |[F5 security advisory (AV24-594)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594)|Visit link for details|2024-10-16|
- |[Atlassian security advisory (AV24-593)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593)|Visit link for details|2024-10-16|
- |[[Control systems] ABB security advisory (AV24-592)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592)|Visit link for details|2024-10-16|
- |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
- |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
- |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
  
