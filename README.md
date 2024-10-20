@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/10/2024 10:19:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/10/2024 11:28:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,22 +51,6 @@
  |---|---|---|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 18 Oct 2024 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 16 Oct 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-10-04]Updated Solutions, Vulnerability Identifier...| Release Date: 2 Oct 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and cross-site scripting on the targeted system. Note:No patch is currently available for CVE-2019-10768...|Release Date: 17 Oct 2024 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 17 Oct 2024 |
- |[Kubernetes Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/kubernetes-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Kubernetes. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and elevation of privilege on the targeted system.|Release Date: 17 Oct 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10...| Release Date: 3 Oct 2024 |
- |[Microsoft Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2024)|[Updated on 2024-10-17]Updated Risk, Description, Source and Related Links.CVE-2024-30088 is being exploited in the wild. This  is a Windows Kernel Time-of-check Time-of-use (TOCTOU) ...| Release Date: 12 Jun 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 16 Oct 2024 |
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -84,6 +68,28 @@
  |[USN-7070-1: libarchive vulnerabilities](https://www.linux.org/threads/usn-7070-1-libarchive-vulnerabilities.53391/)|Visit link for details.|Oct 16, 2024|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 18 Oct 2024 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 16 Oct 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-10-04]Updated Solutions, Vulnerability Identifier...| Release Date: 2 Oct 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and cross-site scripting on the targeted system. Note:No patch is currently available for CVE-2019-10768...|Release Date: 17 Oct 2024 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 17 Oct 2024 |
+ |[Kubernetes Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/kubernetes-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Kubernetes. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and elevation of privilege on the targeted system.|Release Date: 17 Oct 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10...| Release Date: 3 Oct 2024 |
+ |[Microsoft Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2024)|[Updated on 2024-10-17]Updated Risk, Description, Source and Related Links.CVE-2024-30088 is being exploited in the wild. This  is a Windows Kernel Time-of-check Time-of-use (TOCTOU) ...| Release Date: 12 Jun 2024 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 16 Oct 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -97,10 +103,35 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
+ |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
+ |[Oracle VirtualBox TPM Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1413/)|Visit link for details|2024-10-17|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE security advisory (AV24-599)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-599)|Visit link for details|2024-10-18|
+ |[Microsoft Edge security advisory (AV24-598)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-598)|Visit link for details|2024-10-18|
+ |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
+ |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
+ |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
+ |[F5 security advisory (AV24-594)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594)|Visit link for details|2024-10-16|
+ |[Atlassian security advisory (AV24-593)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593)|Visit link for details|2024-10-16|
+ |[[Control systems] ABB security advisory (AV24-592)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592)|Visit link for details|2024-10-16|
+ |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
+ |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
+ |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
  
 
 # EU-CERT
@@ -152,35 +183,4 @@
  |[ 50261710/24 - Vulnérabilité dans Zimbra Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zimbra-desktop)| Une vulnérabilité a été corrigée dans Zimbra Desktop. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 17 octobre 2024|
  |[ 50251710/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-2)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 17 octobre 2024|
  |[ 50241610/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 16 octobre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE security advisory (AV24-599)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-599)|Visit link for details|2024-10-18|
- |[Microsoft Edge security advisory (AV24-598)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-598)|Visit link for details|2024-10-18|
- |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
- |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
- |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
- |[F5 security advisory (AV24-594)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594)|Visit link for details|2024-10-16|
- |[Atlassian security advisory (AV24-593)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593)|Visit link for details|2024-10-16|
- |[[Control systems] ABB security advisory (AV24-592)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592)|Visit link for details|2024-10-16|
- |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
- |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
- |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
- |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
- |[Oracle VirtualBox TPM Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1413/)|Visit link for details|2024-10-17|
  
