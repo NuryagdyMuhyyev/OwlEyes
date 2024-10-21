@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/10/2024 20:23:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/10/2024 21:26:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 21, 2024|
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
  |[Oracle Releases Quarterly Critical Patch Update Advisory for October 2024](https://www.cisa.gov/news-events/alerts/2024/10/17/oracle-releases-quarterly-critical-patch-update-advisory-october-2024)|Visit link for details.|Oct 17, 2024|
@@ -42,7 +43,6 @@
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 15, 2024|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 15, 2024|
  |[CISA Releases Twenty-One Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/10/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Oct 10, 2024|
- |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
  
 
 # LINUX-SEC
@@ -68,12 +68,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -88,6 +82,39 @@
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 17 Oct 2024 |
  |[Kubernetes Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/kubernetes-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Kubernetes. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and elevation of privilege on the targeted system.|Release Date: 17 Oct 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10...| Release Date: 3 Oct 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WordPress LatePoint plugin <= 4.9.91 - Cross Site Request Forgery (CSRF) vulnerability (CVE-2024-43945)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
+ |[WordPress Recover WooCommerce Cart Abandonment, Newsletter, Email Marketing, Marketing Automation By FunnelKit plugin <= 3.1.2 - SQL Injection vulnerability (CVE-2024-47328)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
+ |[TS Poll – Survey, Versus Poll, Image Poll, Video Poll < 2.4.0 - Admin+ SQL Injection (CVE-2024-8625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
+ |[code-projects Pharmacy Management System Manage Medicines Page manage_medicine.php cross site scripting (CVE-2024-10199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
+ |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
+ |[Oracle VirtualBox TPM Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1413/)|Visit link for details|2024-10-17|
  
 
 # EU-CERT
@@ -124,23 +151,13 @@
  |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress LatePoint plugin <= 4.9.91 - Cross Site Request Forgery (CSRF) vulnerability (CVE-2024-43945)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
- |[WordPress Recover WooCommerce Cart Abandonment, Newsletter, Email Marketing, Marketing Automation By FunnelKit plugin <= 3.1.2 - SQL Injection vulnerability (CVE-2024-47328)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
- |[TS Poll – Survey, Versus Poll, Image Poll, Video Poll < 2.4.0 - Admin+ SQL Injection (CVE-2024-8625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
- |[code-projects Pharmacy Management System Manage Medicines Page manage_medicine.php cross site scripting (CVE-2024-10199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Plugin File Manager Pro - CVE-2024-8507](https://www.cyberveille-sante.gouv.fr/alertes/plugin-file-manager-pro-cve-2024-8507-2024-10-21)|Visit link for details.|21/10/2024|
+ |[Spring Framework - CVE-2024-38819](https://www.cyberveille-sante.gouv.fr/alertes/spring-framework-cve-2024-38819-2024-10-21)|Visit link for details.|21/10/2024|
+ |[Ivanti - CVE-2024-29821](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29821-2024-10-21)|Visit link for details.|21/10/2024|
  |[Foxit - CVE-2024-7723](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-7723-2024-10-21)|Visit link for details.|21/10/2024|
  |[Code-projects Hospital Management System - CVE-2024-10169](https://www.cyberveille-sante.gouv.fr/alertes/code-projects-hospital-management-system-cve-2024-10169-2024-10-21)|Visit link for details.|21/10/2024|
  |[Acronis - CVE-2024-49389](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-49389-2024-10-18)|Visit link for details.|18/10/2024|
@@ -149,23 +166,6 @@
  |[D-Link - CVE-2024-48638](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-48638-2024-10-18)|Visit link for details.|18/10/2024|
  |[Microsoft Edge - CVE-2024-43579](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-43579-2024-10-18)|Visit link for details.|18/10/2024|
  |[Google Chrome - CVE-2024-9954](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9954-2024-10-16)|Visit link for details.|18/10/2024|
- |[Cisco - CVE-2024-20458](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20458-2024-10-17)|Visit link for details.|17/10/2024|
- |[VMware - CVE-2024-38814](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38814-2024-10-17)|Visit link for details.|17/10/2024|
- |[Trend Micro - CVE-2024-48904](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48904-2024-10-17)|Visit link for details.|17/10/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
- |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
- |[Oracle VirtualBox TPM Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1413/)|Visit link for details|2024-10-17|
  
 
 # MA-CERT
