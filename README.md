@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/10/2024 21:26:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/10/2024 22:18:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -84,12 +84,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10...| Release Date: 3 Oct 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -98,7 +92,7 @@
  |[WordPress Recover WooCommerce Cart Abandonment, Newsletter, Email Marketing, Marketing Automation By FunnelKit plugin <= 3.1.2 - SQL Injection vulnerability (CVE-2024-47328)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
  |[TS Poll – Survey, Versus Poll, Image Poll, Video Poll < 2.4.0 - Admin+ SQL Injection (CVE-2024-8625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
  |[code-projects Pharmacy Management System Manage Medicines Page manage_medicine.php cross site scripting (CVE-2024-10199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[code-projects Pharmacy Management System Manage Supplier Page manage_supplier.php cross site scripting (CVE-2024-10197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -182,4 +176,10 @@
  |[ 50291810/24 - Vulnérabilités critiques dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans leur solution Web Help Desk. L'exploitation réussie de ces vulnérabilités peut permettre à un…| 18 octobre 2024|
  |[ 50281810/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-3)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 18 octobre 2024|
  |[ 50271710/24 - Vulnérabilité critique dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-vmware)| VMware annonce la correction d’une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille peut  permettre  à un attaquant distant d’exécuter du code arbitraire à…| 17 octobre 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
