@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/10/2024 09:25:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/10/2024 10:20:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5793-1 chromium - security update](https://www.linux.org/threads/dsa-5793-1-chromium-security-update.53453/)|Visit link for details.|Oct 20, 2024|
- |[USN-7069-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7069-2-linux-kernel-azure-vulnerabilities.53413/)|Visit link for details.|Oct 17, 2024|
- |[USN-7028-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7028-2-linux-kernel-azure-vulnerabilities.53412/)|Visit link for details.|Oct 17, 2024|
- |[USN-7076-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7076-1-linux-kernel-azure-vulnerabilities.53411/)|Visit link for details.|Oct 17, 2024|
- |[USN-7059-2: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-2-oath-toolkit-vulnerability.53410/)|Visit link for details.|Oct 17, 2024|
- |[USN-7073-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7073-2-linux-kernel-azure-vulnerabilities.53409/)|Visit link for details.|Oct 17, 2024|
- |[USN-7074-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7074-1-linux-kernel-azure-vulnerabilities.53408/)|Visit link for details.|Oct 17, 2024|
- |[USN-7073-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7073-1-linux-kernel-vulnerabilities.53400/)|Visit link for details.|Oct 17, 2024|
- |[USN-7072-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7072-1-linux-kernel-vulnerabilities.53399/)|Visit link for details.|Oct 17, 2024|
- |[USN-7071-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-1-linux-kernel-vulnerability.53398/)|Visit link for details.|Oct 17, 2024|
- |[USN-7048-2: Vim vulnerability](https://www.linux.org/threads/usn-7048-2-vim-vulnerability.53392/)|Visit link for details.|Oct 16, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -62,6 +45,35 @@
  |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7077-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-7077-1-amd-microcode-vulnerability.53458/)|Visit link for details.|Oct 21, 2024|
+ |[DSA-5793-1 chromium - security update](https://www.linux.org/threads/dsa-5793-1-chromium-security-update.53453/)|Visit link for details.|Oct 20, 2024|
+ |[USN-7069-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7069-2-linux-kernel-azure-vulnerabilities.53413/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7028-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7028-2-linux-kernel-azure-vulnerabilities.53412/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7076-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7076-1-linux-kernel-azure-vulnerabilities.53411/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7059-2: OATH Toolkit vulnerability](https://www.linux.org/threads/usn-7059-2-oath-toolkit-vulnerability.53410/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7073-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7073-2-linux-kernel-azure-vulnerabilities.53409/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7074-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7074-1-linux-kernel-azure-vulnerabilities.53408/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7073-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7073-1-linux-kernel-vulnerabilities.53400/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7072-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7072-1-linux-kernel-vulnerabilities.53399/)|Visit link for details.|Oct 17, 2024|
+ |[USN-7071-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-1-linux-kernel-vulnerability.53398/)|Visit link for details.|Oct 17, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -76,18 +88,6 @@
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 17 Oct 2024 |
  |[Kubernetes Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/kubernetes-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Kubernetes. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and elevation of privilege on the targeted system.|Release Date: 17 Oct 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10...| Release Date: 3 Oct 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
