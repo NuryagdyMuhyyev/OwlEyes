@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/10/2024 06:42:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/10/2024 07:56:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,45 +62,16 @@
  |[Best Practices to Configure BIG-IP LTM Systems to Encrypt HTTP Persistence Cookies](https://www.cisa.gov/news-events/alerts/2024/10/10/best-practices-configure-big-ip-ltm-systems-encrypt-http-persistence-cookies)|Visit link for details.|Oct 10, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# HK-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 18 Oct 2024 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 16 Oct 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-10-04]Updated Solutions, Vulnerability Identifier...| Release Date: 2 Oct 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and cross-site scripting on the targeted system. Note:No patch is currently available for CVE-2019-10768...|Release Date: 17 Oct 2024 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 17 Oct 2024 |
- |[Kubernetes Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/kubernetes-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Kubernetes. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and elevation of privilege on the targeted system.|Release Date: 17 Oct 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10...| Release Date: 3 Oct 2024 |
- |[Microsoft Monthly Security Update (June 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-june-2024)|[Updated on 2024-10-17]Updated Risk, Description, Source and Related Links.CVE-2024-30088 is being exploited in the wild. This  is a Windows Kernel Time-of-check Time-of-use (TOCTOU) ...| Release Date: 12 Jun 2024 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. |Release Date: 16 Oct 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-49023)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-43579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-43596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-43587)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -118,6 +89,69 @@
  |[2024-104: Critical Vulnerability in NVIDIA Container Toolkit](https://cert.europa.eu/publications/security-advisories/2024-104/)|On September 26, 2024, a security advisory was issued regarding a critical vulnerability, CCVE-2024-0132, affecting NVIDIA Container Toolkit. NVIDIA Container Toolkit is providing containerised AI applications with access to GPU resources. This vulnerability impacts any AI application that is running the vulnerable container toolkit to enable GPU support. |Friday, September 27, 2024 11:47:10 AM CEST|
  |[2024-103: Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/)|On September 26, 2024, a security researched released a blog post describing several vulnerabilities in CUPS, one of which being critical, allowing an attacker to replace existing printers' IPP URLs with a malicious one, resulting in a potential arbitrary command execution.|Friday, September 27, 2024 11:31:45 AM CEST|
  |[2024-102: Traefik Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-102/)|On September 19, 2024, a security advisory was issued regarding a critical vulnerability, CVE-2024-45410, affecting Traefik. This vulnerability could allow an attacker to execute arbitrary commands via crafted HTTP requests, posing a significant risk to exposed services.|Tuesday, September 24, 2024 01:48:58 PM CEST|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Acronis - CVE-2024-49389](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-49389-2024-10-18)|Visit link for details.|18/10/2024|
+ |[F5 Big-IP - CVE-2024-45844](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-45844-2024-10-18)|Visit link for details.|18/10/2024|
+ |[Grafana - CVE-2024-9264](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-9264-2024-10-18)|Visit link for details.|18/10/2024|
+ |[D-Link - CVE-2024-48638](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-48638-2024-10-18)|Visit link for details.|18/10/2024|
+ |[Microsoft Edge - CVE-2024-43579](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-43579-2024-10-18)|Visit link for details.|18/10/2024|
+ |[Google Chrome - CVE-2024-9954](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9954-2024-10-16)|Visit link for details.|18/10/2024|
+ |[Cisco - CVE-2024-20458](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20458-2024-10-17)|Visit link for details.|17/10/2024|
+ |[VMware - CVE-2024-38814](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38814-2024-10-17)|Visit link for details.|17/10/2024|
+ |[Trend Micro - CVE-2024-48904](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48904-2024-10-17)|Visit link for details.|17/10/2024|
+ |[Trend Micro - CVE-2024-48903](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48903-2024-10-17)|Visit link for details.|17/10/2024|
+ |[SolarWinds - CVE-2024-28988](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28988-2024-10-17)|Visit link for details.|17/10/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50341810/24 - Vulnérabilité critique affectant Grafana ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-grafana)| Grafana Labs annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de sa plateforme Grafana. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant…| 18 octobre 2024|
+ |[ 50331810/24 - Vulnérabilités affectant des produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-f5-1)| F5 Networks annonce la correction de deux  vulnérabilités affectant ses produits susmentionnés. Un attaquant distant peut exploiter ces vulnérabilités pour élever ses privilèges ou pour injecter du…| 18 octobre 2024|
+ |[ 50321810/24 - Vulnérabilité critique affectant Trend Micro Cloud Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-trend-micro-cloud-edge)| Trend Micro annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées  son produit Cloud Edge.  L'exploitation de cette vulnérabilité peut  permettre  à un attaquant…| 18 octobre 2024|
+ |[ 50311810/24 - Vulnérabilité critique dans Kubernetes Image Builder ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-kubernetes-image-builder)| Kubernetes annonce la correction d’une vulnérabilité critique affectant Kubernetes Image Builder. L’exploitation de cette faille peut  permettre  à un attaquant d’avoir les privilèges d’utilisateur…| 18 octobre 2024|
+ |[ 50301810/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-8)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 18 octobre 2024|
+ |[ 50291810/24 - Vulnérabilités critiques dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans leur solution Web Help Desk. L'exploitation réussie de ces vulnérabilités peut permettre à un…| 18 octobre 2024|
+ |[ 50281810/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-3)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 18 octobre 2024|
+ |[ 50271710/24 - Vulnérabilité critique dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-vmware)| VMware annonce la correction d’une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille peut  permettre  à un attaquant distant d’exécuter du code arbitraire à…| 17 octobre 2024|
+ |[ 50261710/24 - Vulnérabilité dans Zimbra Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zimbra-desktop)| Une vulnérabilité a été corrigée dans Zimbra Desktop. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 17 octobre 2024|
+ |[ 50251710/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-2)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 17 octobre 2024|
+ |[ 50241610/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 16 octobre 2024|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 21 Oct 2024 |
+ |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 21 Oct 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 18 Oct 2024 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 16 Oct 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-10-04]Updated Solutions, Vulnerability Identifier...| Release Date: 2 Oct 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and cross-site scripting on the targeted system. Note:No patch is currently available for CVE-2019-10768...|Release Date: 17 Oct 2024 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 17 Oct 2024 |
+ |[Kubernetes Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/kubernetes-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Kubernetes. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and elevation of privilege on the targeted system.|Release Date: 17 Oct 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10...| Release Date: 3 Oct 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-49023)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-43579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-43596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability (CVE-2024-43587)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -149,38 +183,4 @@
  |[Oracle security advisory – October 2024 quarterly rollup (AV24-591)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591)|Visit link for details|2024-10-16|
  |[GitHub security advisory (AV24-590)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av24-590)|Visit link for details|2024-10-15|
  |[Google Chrome security advisory (AV24-589)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-589)|Visit link for details|2024-10-15|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50341810/24 - Vulnérabilité critique affectant Grafana ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-grafana)| Grafana Labs annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de sa plateforme Grafana. L'exploitation de cette vulnérabilité peut  permettre  à un attaquant…| 18 octobre 2024|
- |[ 50331810/24 - Vulnérabilités affectant des produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-f5-1)| F5 Networks annonce la correction de deux  vulnérabilités affectant ses produits susmentionnés. Un attaquant distant peut exploiter ces vulnérabilités pour élever ses privilèges ou pour injecter du…| 18 octobre 2024|
- |[ 50321810/24 - Vulnérabilité critique affectant Trend Micro Cloud Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-trend-micro-cloud-edge)| Trend Micro annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées  son produit Cloud Edge.  L'exploitation de cette vulnérabilité peut  permettre  à un attaquant…| 18 octobre 2024|
- |[ 50311810/24 - Vulnérabilité critique dans Kubernetes Image Builder ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-kubernetes-image-builder)| Kubernetes annonce la correction d’une vulnérabilité critique affectant Kubernetes Image Builder. L’exploitation de cette faille peut  permettre  à un attaquant d’avoir les privilèges d’utilisateur…| 18 octobre 2024|
- |[ 50301810/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-8)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, de…| 18 octobre 2024|
- |[ 50291810/24 - Vulnérabilités critiques dans SolarWinds Web Help Desk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-solarwinds-web-help-desk)| SolarWinds a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans leur solution Web Help Desk. L'exploitation réussie de ces vulnérabilités peut permettre à un…| 18 octobre 2024|
- |[ 50281810/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-3)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 18 octobre 2024|
- |[ 50271710/24 - Vulnérabilité critique dans les produits VMware ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-vmware)| VMware annonce la correction d’une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille peut  permettre  à un attaquant distant d’exécuter du code arbitraire à…| 17 octobre 2024|
- |[ 50261710/24 - Vulnérabilité dans Zimbra Desktop ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zimbra-desktop)| Une vulnérabilité a été corrigée dans Zimbra Desktop. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.| 17 octobre 2024|
- |[ 50251710/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-2)| Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines…| 17 octobre 2024|
- |[ 50241610/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 16 octobre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Acronis - CVE-2024-49389](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-49389-2024-10-18)|Visit link for details.|18/10/2024|
- |[F5 Big-IP - CVE-2024-45844](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-45844-2024-10-18)|Visit link for details.|18/10/2024|
- |[Grafana - CVE-2024-9264](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-9264-2024-10-18)|Visit link for details.|18/10/2024|
- |[D-Link - CVE-2024-48638](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-48638-2024-10-18)|Visit link for details.|18/10/2024|
- |[Microsoft Edge - CVE-2024-43579](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-43579-2024-10-18)|Visit link for details.|18/10/2024|
- |[Google Chrome - CVE-2024-9954](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9954-2024-10-16)|Visit link for details.|18/10/2024|
- |[Cisco - CVE-2024-20458](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20458-2024-10-17)|Visit link for details.|17/10/2024|
- |[VMware - CVE-2024-38814](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38814-2024-10-17)|Visit link for details.|17/10/2024|
- |[Trend Micro - CVE-2024-48904](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48904-2024-10-17)|Visit link for details.|17/10/2024|
- |[Trend Micro - CVE-2024-48903](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48903-2024-10-17)|Visit link for details.|17/10/2024|
- |[SolarWinds - CVE-2024-28988](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-28988-2024-10-17)|Visit link for details.|17/10/2024|
  
