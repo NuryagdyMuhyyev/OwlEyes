@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/10/2024 18:28:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/10/2024 19:20:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Releases Twenty-One Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/10/cisa-releases-twenty-one-industrial-control-systems-advisories)|Visit link for details.|Oct 10, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,12 @@
  |[USN-7069-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7069-2-linux-kernel-azure-vulnerabilities.53413/)|Visit link for details.|Oct 17, 2024|
  |[USN-7028-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7028-2-linux-kernel-azure-vulnerabilities.53412/)|Visit link for details.|Oct 17, 2024|
  |[USN-7076-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7076-1-linux-kernel-azure-vulnerabilities.53411/)|Visit link for details.|Oct 17, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -103,21 +103,18 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
- |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
- |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
- |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
- |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
- |[HPE security advisory (AV24-599)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-599)|Visit link for details|2024-10-18|
- |[Microsoft Edge security advisory (AV24-598)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-598)|Visit link for details|2024-10-18|
- |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
- |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
- |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
- |[F5 security advisory (AV24-594)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594)|Visit link for details|2024-10-16|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
+ |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
+ |[Oracle VirtualBox TPM Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1413/)|Visit link for details|2024-10-17|
  
 
 # EU-CERT
@@ -141,6 +138,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Roundcube - CVE-2024-37383](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2024-37383-2024-06-26)|Visit link for details.|22/10/2024|
+ |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|22/10/2024|
  |[Plugin File Manager Pro - CVE-2024-8507](https://www.cyberveille-sante.gouv.fr/alertes/plugin-file-manager-pro-cve-2024-8507-2024-10-21)|Visit link for details.|21/10/2024|
  |[Spring Framework - CVE-2024-38819](https://www.cyberveille-sante.gouv.fr/alertes/spring-framework-cve-2024-38819-2024-10-21)|Visit link for details.|21/10/2024|
  |[Ivanti - CVE-2024-29821](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29821-2024-10-21)|Visit link for details.|21/10/2024|
@@ -150,37 +149,38 @@
  |[F5 Big-IP - CVE-2024-45844](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-45844-2024-10-18)|Visit link for details.|18/10/2024|
  |[Grafana - CVE-2024-9264](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-9264-2024-10-18)|Visit link for details.|18/10/2024|
  |[D-Link - CVE-2024-48638](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-48638-2024-10-18)|Visit link for details.|18/10/2024|
- |[Microsoft Edge - CVE-2024-43579](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-edge-cve-2024-43579-2024-10-18)|Visit link for details.|18/10/2024|
- |[Google Chrome - CVE-2024-9954](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-9954-2024-10-16)|Visit link for details.|18/10/2024|
  
 
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 50382210/24 - Vulnérabilité critique dans les produits ScienceLogic SL1 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-sciencelogic-sl1)| Une vulnérabilité critique de type zero_day a été corrigée dans ScienceLogic SL1 (anciennement EM7) une plateforme conçue pour surveiller et gérer l'infrastructure informatique, les applications et…| 22 octobre 2024|
+ |[ 50151110/24 - Vulnérabilités affectant VMware NSX ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-vmware-nsx)| Broadcom annonce la correction de trois vulnérabilités affectant les versions susmentionnées de sa plateforme de virtualisation de réseaux « VMware NSX ». L'exploitation de ces…| 11 octobre 2024|
+ |[ 50131110/24 - Vulnérabilité critique affectant le module « Facets » sur le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-module-facets-sur-le-cms-drupal)| Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité critique au niveau du module « Facets » de son CMS. L’exploitation de cette vulnérabilité peut permettre à un…| 11 octobre 2024|
+ |[ 50141110/24 - Vulnérabilités affectant plusieurs produits de Juniper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-juniper-0)| Juniper annonce la correction de plusieurs vulnérabilités affectant plusieurs versions de ses produits susmentionnés. Un attaquant distant pourrait exploiter ces vulnérabilités pour exécuter du code…| 11 octobre 2024|
+ |[ 50091010/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-11)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de deux vulnérabilités affectant ses produits susmentionnés.…| 10 octobre 2024|
  |[ 50081010/24 - Vulnérabilités critiques dans Palo Alto Networks ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-palo-alto-networks)| Palo Alto Networks a corrigée des failles de sécurité critiques dans la solution Expedition, qui aide à migrer les configurations d'autres fournisseurs Checkpoint, Cisco ou autres. Ces vulnérabilités…| 10 octobre 2024|
  |[ 50101010/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-23)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre…| 10 octobre 2024|
+ |[ 50101010/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-27)|  Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités…| 10 octobre 2024|
  |[ 50071010/24 - Zero-Day affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-navigateur-mozilla-firefox)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction d’un Zero-day critique au niveau du navigateur Mozilla Firefox. Cette…| 10 octobre 2024|
  |[ 50091010/24 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-des-produits-de-fortinet-8)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction de deux vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut…| 10 octobre 2024|
  |[ 50000910/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-13)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 09 octobre 2024|
- |[ 50020910/24 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-windows-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les  systèmes d’exploitation Windows susmentionnés.  L’exploitation de ces failles peut permettre à un attaquant de…| 09 octobre 2024|
- |[ 50040910/24 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-octobre-2024)| Deux vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance et de…| 09 octobre 2024|
- |[ 50060910/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Octobre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire,…| 09 octobre 2024|
- |[ 50010910/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 09 octobre 2024|
- |[ 50030910/24 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Octobre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-azure-patch-tuesday-octobre-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code…| 09 octobre 2024|
- |[ 50050910/24 - Vulnérabilités dans les outils de développement Microsoft (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-outils-de-developpement-microsoft-patch-tuesday-octobre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les outils de développement susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 09 octobre 2024|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
- |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
- |[Oracle VirtualBox TPM Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1413/)|Visit link for details|2024-10-17|
+ |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
+ |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
+ |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
+ |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
+ |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
+ |[HPE security advisory (AV24-599)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-599)|Visit link for details|2024-10-18|
+ |[Microsoft Edge security advisory (AV24-598)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-598)|Visit link for details|2024-10-18|
+ |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
+ |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
+ |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
+ |[F5 security advisory (AV24-594)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594)|Visit link for details|2024-10-16|
  
