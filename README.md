@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/10/2024 01:22:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/10/2024 02:19:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 22, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 21, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
- |[Oracle Releases Quarterly Critical Patch Update Advisory for October 2024](https://www.cisa.gov/news-events/alerts/2024/10/17/oracle-releases-quarterly-critical-patch-update-advisory-october-2024)|Visit link for details.|Oct 17, 2024|
- |[ CISA and FBI Release Joint Guidance on Product Security Bad Practices for Public Comment](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-and-fbi-release-joint-guidance-product-security-bad-practices-public-comment)|Visit link for details.|Oct 16, 2024|
- |[CISA, FBI, NSA, and International Partners Release Advisory on Iranian Cyber Actors Targeting Critical Infrastructure Organizations Using Brute Force](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-fbi-nsa-and-international-partners-release-advisory-iranian-cyber-actors-targeting-critical)|Visit link for details.|Oct 16, 2024|
- |[Guidance: Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM)](https://www.cisa.gov/news-events/alerts/2024/10/15/guidance-framing-software-component-transparency-establishing-common-software-bill-materials-sbom)|Visit link for details.|Oct 15, 2024|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 15, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +50,28 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 22, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 21, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
+ |[Oracle Releases Quarterly Critical Patch Update Advisory for October 2024](https://www.cisa.gov/news-events/alerts/2024/10/17/oracle-releases-quarterly-critical-patch-update-advisory-october-2024)|Visit link for details.|Oct 17, 2024|
+ |[ CISA and FBI Release Joint Guidance on Product Security Bad Practices for Public Comment](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-and-fbi-release-joint-guidance-product-security-bad-practices-public-comment)|Visit link for details.|Oct 16, 2024|
+ |[CISA, FBI, NSA, and International Partners Release Advisory on Iranian Cyber Actors Targeting Critical Infrastructure Organizations Using Brute Force](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-fbi-nsa-and-international-partners-release-advisory-iranian-cyber-actors-targeting-critical)|Visit link for details.|Oct 16, 2024|
+ |[Guidance: Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM)](https://www.cisa.gov/news-events/alerts/2024/10/15/guidance-framing-software-component-transparency-establishing-common-software-bill-materials-sbom)|Visit link for details.|Oct 15, 2024|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/15/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Oct 15, 2024|
  
 
 # HK-CERT
@@ -95,12 +101,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -134,21 +134,21 @@
  |[2024-102: Traefik Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-102/)|On September 19, 2024, a security advisory was issued regarding a critical vulnerability, CVE-2024-45410, affecting Traefik. This vulnerability could allow an attacker to execute arbitrary commands via crafted HTTP requests, posing a significant risk to exposed services.|Tuesday, September 24, 2024 01:48:58 PM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds - CVE-2024-45710](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-45710-2024-10-22)|Visit link for details.|22/10/2024|
- |[Online Clinic Management System- CVE-2024-48597](https://www.cyberveille-sante.gouv.fr/alertes/online-clinic-management-system-cve-2024-48597-2024-10-22)|Visit link for details.|22/10/2024|
- |[Docker - CVE-2024-9348](https://www.cyberveille-sante.gouv.fr/alertes/docker-cve-2024-9348-2024-10-22)|Visit link for details.|22/10/2024|
- |[D-Link - CVE-2024-48637](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-48637-2024-10-22)|Visit link for details.|22/10/2024|
- |[BitDefender - CVE-2024-49567](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-49567-2024-10-22)|Visit link for details.|22/10/2024|
- |[Roundcube - CVE-2024-37383](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2024-37383-2024-06-26)|Visit link for details.|22/10/2024|
- |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|22/10/2024|
- |[Mitel - CVE-2024-41714](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41714-2024-07-26)|Visit link for details.|22/10/2024|
- |[Plugin File Manager Pro - CVE-2024-8507](https://www.cyberveille-sante.gouv.fr/alertes/plugin-file-manager-pro-cve-2024-8507-2024-10-21)|Visit link for details.|21/10/2024|
- |[Spring Framework - CVE-2024-38819](https://www.cyberveille-sante.gouv.fr/alertes/spring-framework-cve-2024-38819-2024-10-21)|Visit link for details.|21/10/2024|
- |[Ivanti - CVE-2024-29821](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29821-2024-10-21)|Visit link for details.|21/10/2024|
+ |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
+ |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
+ |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
+ |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
+ |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
+ |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
+ |[HPE security advisory (AV24-599)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-599)|Visit link for details|2024-10-18|
+ |[Microsoft Edge security advisory (AV24-598)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-598)|Visit link for details|2024-10-18|
+ |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
+ |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
+ |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
  
 
 # MA-CERT
@@ -168,19 +168,19 @@
  |[ 50201510/24 - Vulnérabilité critique affectant le plugin «Jetpack» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-jetpack-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Jetpack» a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant authentifié d’accéder à des informations…| 15 octobre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
- |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
- |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
- |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
- |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
- |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
- |[HPE security advisory (AV24-599)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-599)|Visit link for details|2024-10-18|
- |[Microsoft Edge security advisory (AV24-598)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-598)|Visit link for details|2024-10-18|
- |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
- |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
- |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
+ |[SolarWinds - CVE-2024-45710](https://www.cyberveille-sante.gouv.fr/alertes/solarwinds-cve-2024-45710-2024-10-22)|Visit link for details.|22/10/2024|
+ |[Online Clinic Management System- CVE-2024-48597](https://www.cyberveille-sante.gouv.fr/alertes/online-clinic-management-system-cve-2024-48597-2024-10-22)|Visit link for details.|22/10/2024|
+ |[Docker - CVE-2024-9348](https://www.cyberveille-sante.gouv.fr/alertes/docker-cve-2024-9348-2024-10-22)|Visit link for details.|22/10/2024|
+ |[D-Link - CVE-2024-48637](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-48637-2024-10-22)|Visit link for details.|22/10/2024|
+ |[BitDefender - CVE-2024-49567](https://www.cyberveille-sante.gouv.fr/alertes/bitdefender-cve-2024-49567-2024-10-22)|Visit link for details.|22/10/2024|
+ |[Roundcube - CVE-2024-37383](https://www.cyberveille-sante.gouv.fr/alertes/roundcube-cve-2024-37383-2024-06-26)|Visit link for details.|22/10/2024|
+ |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|22/10/2024|
+ |[Mitel - CVE-2024-41714](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41714-2024-07-26)|Visit link for details.|22/10/2024|
+ |[Plugin File Manager Pro - CVE-2024-8507](https://www.cyberveille-sante.gouv.fr/alertes/plugin-file-manager-pro-cve-2024-8507-2024-10-21)|Visit link for details.|21/10/2024|
+ |[Spring Framework - CVE-2024-38819](https://www.cyberveille-sante.gouv.fr/alertes/spring-framework-cve-2024-38819-2024-10-21)|Visit link for details.|21/10/2024|
+ |[Ivanti - CVE-2024-29821](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29821-2024-10-21)|Visit link for details.|21/10/2024|
  
