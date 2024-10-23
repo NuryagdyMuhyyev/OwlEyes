@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/10/2024 03:20:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/10/2024 04:20:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,6 +50,12 @@
  |[USN-7062-2: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-2-libgsf-vulnerabilities.53471/)|Visit link for details.|Oct 21, 2024|
  |[USN-7042-3: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-3-cups-browsed-vulnerability.53470/)|Visit link for details.|Oct 21, 2024|
  |[USN-7077-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-7077-1-amd-microcode-vulnerability.53458/)|Visit link for details.|Oct 21, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # US-CERT
@@ -62,31 +74,6 @@
  |[Guidance: Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM)](https://www.cisa.gov/news-events/alerts/2024/10/15/guidance-framing-software-component-transparency-establishing-common-software-bill-materials-sbom)|Visit link for details.|Oct 15, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tenda RX9/RX9 Pro SetVirtualServerCfg sub_42EA38 stack-based overflow (CVE-2024-10282)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
- |[CVE-2024-47904 (CVE-2024-47904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
- |[CVE-2024-47903 (CVE-2024-47903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
- |[CVE-2024-47902 (CVE-2024-47902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -103,6 +90,19 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-10-04]Updated Solutions, Vulnerability Identifier...| Release Date: 2 Oct 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Tenda RX9/RX9 Pro SetVirtualServerCfg sub_42EA38 stack-based overflow (CVE-2024-10282)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
+ |[CVE-2024-47904 (CVE-2024-47904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
+ |[CVE-2024-47903 (CVE-2024-47903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
+ |[CVE-2024-47902 (CVE-2024-47902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -115,23 +115,6 @@
  |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
  |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco security advisory (AV24-609)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609)|Visit link for details|2024-10-23|
- |[Fortinet security advisory (AV24-608)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608)|Visit link for details|2024-10-23|
- |[[Control systems] ABB security advisory (AV24-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-607)|Visit link for details|2024-10-23|
- |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
- |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
- |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
- |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
- |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
- |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
- |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
- |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
  
 
 # EU-CERT
@@ -149,6 +132,23 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  |[2024-104: Critical Vulnerability in NVIDIA Container Toolkit](https://cert.europa.eu/publications/security-advisories/2024-104/)|On September 26, 2024, a security advisory was issued regarding a critical vulnerability, CCVE-2024-0132, affecting NVIDIA Container Toolkit. NVIDIA Container Toolkit is providing containerised AI applications with access to GPU resources. This vulnerability impacts any AI application that is running the vulnerable container toolkit to enable GPU support. |Friday, September 27, 2024 11:47:10 AM CEST|
  |[2024-103: Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/)|On September 26, 2024, a security researched released a blog post describing several vulnerabilities in CUPS, one of which being critical, allowing an attacker to replace existing printers' IPP URLs with a malicious one, resulting in a potential arbitrary command execution.|Friday, September 27, 2024 11:31:45 AM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco security advisory (AV24-609)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609)|Visit link for details|2024-10-23|
+ |[Fortinet security advisory (AV24-608)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608)|Visit link for details|2024-10-23|
+ |[[Control systems] ABB security advisory (AV24-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-607)|Visit link for details|2024-10-23|
+ |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
+ |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
+ |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
+ |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
+ |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
+ |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
+ |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
+ |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
  
 
 # MA-CERT
