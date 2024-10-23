@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/10/2024 17:41:06 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/10/2024 18:27:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -98,7 +98,7 @@
  |[Transients Manager <= 2.0.6 - Cross-Site Request Forgery (CVE-2024-10045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
  |[WordPress Responsive Lightbox & Gallery plugin <= 2.4.7 - Broken Access Control vulnerability (CVE-2024-43924)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
  |[ProfilePress - Pro <= 4.11.1 - Authentication Bypass (CVE-2024-9947)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -115,6 +115,23 @@
  |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
  |[Oracle VirtualBox TPM Heap-based Buffer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1413/)|Visit link for details|2024-10-17|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
+ |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
+ |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
+ |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
+ |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
+ |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
+ |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
+ |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
+ |[HPE security advisory (AV24-599)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-599)|Visit link for details|2024-10-18|
+ |[Microsoft Edge security advisory (AV24-598)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-598)|Visit link for details|2024-10-18|
+ |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
  
 
 # EU-CERT
@@ -134,6 +151,23 @@
  |[2024-102: Traefik Critical Vulnerability](https://cert.europa.eu/publications/security-advisories/2024-102/)|On September 19, 2024, a security advisory was issued regarding a critical vulnerability, CVE-2024-45410, affecting Traefik. This vulnerability could allow an attacker to execute arbitrary commands via crafted HTTP requests, posing a significant risk to exposed services.|Tuesday, September 24, 2024 01:48:58 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50442310/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service. | 23 octobre 2024|
+ |[ 50402310/24 - Vulnérabilité affectant des processeurs Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-samsung)| Samsung annonce la correction d’une vulnérabilité affectant ses processeurs Exynos susmentionnés. Cette vulnérabilité est activement exploitée  et peut permettre à un attaquant distant d’élever…| 23 octobre 2024|
+ |[ 50432310/24 - Vulnérabilités critiques dans VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vmware-vcenter)| VMware a déterminé que les correctifs vCenter publiés le 17 septembre 2024 ne traitaient pas entièrement les vulnérabilités « CVE-2024-38812 et CVE-2024-38813 ». Les utilisateurs des…| 23 octobre 2024|
+ |[ 50382210/24 - Vulnérabilité critique dans les produits ScienceLogic SL1 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-sciencelogic-sl1)| Une vulnérabilité critique de type zero_day a été corrigée dans ScienceLogic SL1 (anciennement EM7) une plateforme conçue pour surveiller et gérer l'infrastructure informatique, les applications et…| 22 octobre 2024|
+ |[ 50402210/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework-0)| Une vulnérabilité de traversée de chemin a été découverte dans les versions susmentionnées de Spring Framework, affectant les applications qui utilisent les frameworks web fonctionnels WebMvc.fn et…| 22 octobre 2024|
+ |[ 50392210/24 - Vulnérabilités dans les produits Hikvision HikCentral ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hikvision-hikcentral)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Hikvision HikCentral. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire…| 22 octobre 2024|
+ |[ 50372110/24 - Vulnérabilité affectant des processeurs AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-amd)| AMD annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. En exploitant cette vulnérabilité, un attaquant peut accéder à des données confidentielles.| 21 octobre 2024|
+ |[ 50362110/24 - Vulnérabilité affectant les processeurs Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-processeurs-intel)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité affectant plusieurs de ses processeurs. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 21 octobre 2024|
+ |[ 50341810/24 - Vulnérabilité critique affectant Grafana ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-grafana)| Grafana Labs annonce la correction d’une vulnérabilité critique affectant les versionssusmentionnées de sa plateforme Grafana. L'exploitation de cette vulnérabilité peut permettre à unattaquant…| 18 octobre 2024|
+ |[ 50321810/24 - Vulnérabilité critique affectant Trend Micro Cloud Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-trend-micro-cloud-edge)| Trend Micro annonce la correction d’une vulnérabilité critique affectant les versions                   susmentionnées  son produit Cloud Edge.…| 18 octobre 2024|
+ |[ 50331810/24 - Vulnérabilités affectant des produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-f5-1)| F5 Networks annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. Unattaquant distant peut exploiter ces vulnérabilités pour élever ses privilèges ou pour injecter du…| 18 octobre 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -149,38 +183,4 @@
  |[Plugin File Manager Pro - CVE-2024-8507](https://www.cyberveille-sante.gouv.fr/alertes/plugin-file-manager-pro-cve-2024-8507-2024-10-21)|Visit link for details.|21/10/2024|
  |[Spring Framework - CVE-2024-38819](https://www.cyberveille-sante.gouv.fr/alertes/spring-framework-cve-2024-38819-2024-10-21)|Visit link for details.|21/10/2024|
  |[Ivanti - CVE-2024-29821](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-29821-2024-10-21)|Visit link for details.|21/10/2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
- |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
- |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
- |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
- |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
- |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
- |[HPE security advisory (AV24-599)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-599)|Visit link for details|2024-10-18|
- |[Microsoft Edge security advisory (AV24-598)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-598)|Visit link for details|2024-10-18|
- |[VMware security advisory (AV24-597)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-597)|Visit link for details|2024-10-16|
- |[SolarWinds security advisory (AV24-596)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-596)|Visit link for details|2024-10-16|
- |[Cisco security advisory (AV24-595)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-595)|Visit link for details|2024-10-16|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50402310/24 - Vulnérabilité affectant des processeurs Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-samsung)| Samsung annonce la correction d’une vulnérabilité affectant ses processeurs Exynos susmentionnés. Cette vulnérabilité est activement exploitée  et peut permettre à un attaquant distant d’élever…| 23 octobre 2024|
- |[ 50382210/24 - Vulnérabilité critique dans les produits ScienceLogic SL1 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-sciencelogic-sl1)| Une vulnérabilité critique de type zero_day a été corrigée dans ScienceLogic SL1 (anciennement EM7) une plateforme conçue pour surveiller et gérer l'infrastructure informatique, les applications et…| 22 octobre 2024|
- |[ 50402210/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework-0)| Une vulnérabilité de traversée de chemin a été découverte dans les versions susmentionnées de Spring Framework, affectant les applications qui utilisent les frameworks web fonctionnels WebMvc.fn et…| 22 octobre 2024|
- |[ 50392210/24 - Vulnérabilités dans les produits Hikvision HikCentral ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hikvision-hikcentral)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Hikvision HikCentral. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire…| 22 octobre 2024|
- |[ 50362110/24 - Vulnérabilité affectant les processeurs Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-processeurs-intel)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité affectant plusieurs de ses processeurs. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 21 octobre 2024|
- |[ 50372110/24 - Vulnérabilité affectant des processeurs AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-amd)| AMD annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. En exploitant cette vulnérabilité, un attaquant peut accéder à des données confidentielles.| 21 octobre 2024|
- |[ 50341810/24 - Vulnérabilité critique affectant Grafana ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-grafana)| Grafana Labs annonce la correction d’une vulnérabilité critique affectant les versionssusmentionnées de sa plateforme Grafana. L'exploitation de cette vulnérabilité peut permettre à unattaquant…| 18 octobre 2024|
- |[ 50321810/24 - Vulnérabilité critique affectant Trend Micro Cloud Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-trend-micro-cloud-edge)| Trend Micro annonce la correction d’une vulnérabilité critique affectant les versions                   susmentionnées  son produit Cloud Edge.…| 18 octobre 2024|
- |[ 50331810/24 - Vulnérabilités affectant des produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-f5-1)| F5 Networks annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. Unattaquant distant peut exploiter ces vulnérabilités pour élever ses privilèges ou pour injecter du…| 18 octobre 2024|
- |[ 50251710/24 - Mises à jour de sécurité pour plusieurs produits d'oracle ](https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-2)| Oracle a publié des correctifs de sécurité pour corriger plusieurs vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines de…| 17 octobre 2024|
- |[ 50221610/24 - Vulnérabilités critiques affectant Splunk Enterprise et Splunk Cloud… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-splunk-enterprise-et-splunk-cloud-plateform)| Splunk annonce la  correction  d’une vulnérabilité affectant les versions susmentionnées de ses produits Splunk Entreprise et Cloud Plateform. L’exploitation de cette vulnérabilité peut…| 16 octobre 2024|
  
