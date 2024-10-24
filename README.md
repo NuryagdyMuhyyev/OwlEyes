@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/10/2024 15:22:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/10/2024 16:17:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[Guidance: Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM)](https://www.cisa.gov/news-events/alerts/2024/10/15/guidance-framing-software-component-transparency-establishing-common-software-bill-materials-sbom)|Visit link for details.|Oct 15, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,12 +68,6 @@
  |[USN-7077-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-7077-1-amd-microcode-vulnerability.53458/)|Visit link for details.|Oct 21, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -82,12 +82,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 18 Oct 2024 |
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 16 Oct 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -117,21 +111,10 @@
  |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco security advisory (AV24-609)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609)|Visit link for details|2024-10-23|
- |[Fortinet security advisory (AV24-608)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608)|Visit link for details|2024-10-23|
- |[[Control systems] ABB security advisory (AV24-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-607)|Visit link for details|2024-10-23|
- |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
- |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
- |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
- |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
- |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
- |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
- |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
- |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
  
 
 # EU-CERT
@@ -155,6 +138,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 50472410/24 - Zero-day activement exploité affectant Fortinet FortiManager ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-activement-exploite-affectant-fortinet-fortimanager)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            d’un « Zero-day » affectant   les versions…| 24 octobre 2024|
+ |[ 50462410/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-2)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Trois de ces vulnérabilités identifiées par «CVE-2024-20412 », …| 24 octobre 2024|
+ |[ 50452410/24 - Vulnérabilités affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab-0)| GitLab annonce la disponibilité de mises à jour permettant de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 24 octobre 2024|
  |[ 50422310/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-28)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 23 octobre 2024|
  |[ 50442310/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service. | 23 octobre 2024|
  |[ 50432310/24 - Vulnérabilités critiques dans VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vmware-vcenter)| VMware a déterminé que les correctifs vCenter publiés le 17 septembre 2024 ne traitaient pas entièrement les vulnérabilités « CVE-2024-38812 et CVE-2024-38813 ». Les utilisateurs des…| 23 octobre 2024|
@@ -163,9 +149,6 @@
  |[ 50402210/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework-0)| Une vulnérabilité de traversée de chemin a été découverte dans les versions susmentionnées de Spring Framework, affectant les applications qui utilisent les frameworks web fonctionnels WebMvc.fn et…| 22 octobre 2024|
  |[ 50372110/24 - Vulnérabilité affectant des processeurs AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-amd)| AMD annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. En exploitant cette vulnérabilité, un attaquant peut accéder à des données confidentielles.| 21 octobre 2024|
  |[ 50362110/24 - Vulnérabilité affectant les processeurs Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-processeurs-intel)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité affectant plusieurs de ses processeurs. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 21 octobre 2024|
- |[ 50341810/24 - Vulnérabilité critique affectant Grafana ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-grafana)| Grafana Labs annonce la correction d’une vulnérabilité critique affectant les versionssusmentionnées de sa plateforme Grafana. L'exploitation de cette vulnérabilité peut permettre à unattaquant…| 18 octobre 2024|
- |[ 50331810/24 - Vulnérabilités affectant des produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-f5-1)| F5 Networks annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. Unattaquant distant peut exploiter ces vulnérabilités pour élever ses privilèges ou pour injecter du…| 18 octobre 2024|
- |[ 50321810/24 - Vulnérabilité critique affectant Trend Micro Cloud Edge ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-trend-micro-cloud-edge)| Trend Micro annonce la correction d’une vulnérabilité critique affectant les versions                   susmentionnées  son produit Cloud Edge.…| 18 octobre 2024|
  
 
 # CERT-SANTE
@@ -183,4 +166,21 @@
  |[Google - CVE-2024-10229](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-10229-2024-10-23)|Visit link for details.|23/10/2024|
  |[Ivanti CSA - CVE-2024-9380](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-csa-cve-2024-9380-2024-10-09)|Visit link for details.|23/10/2024|
  |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|23/10/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco security advisory (AV24-609)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609)|Visit link for details|2024-10-23|
+ |[Fortinet security advisory (AV24-608)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608)|Visit link for details|2024-10-23|
+ |[[Control systems] ABB security advisory (AV24-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-607)|Visit link for details|2024-10-23|
+ |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
+ |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
+ |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
+ |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
+ |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
+ |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
+ |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
+ |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
  
