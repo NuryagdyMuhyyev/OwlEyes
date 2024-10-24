@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/10/2024 02:19:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/10/2024 03:19:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,33 +46,10 @@
  |[USN-7077-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-7077-1-amd-microcode-vulnerability.53458/)|Visit link for details.|Oct 21, 2024|
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241024)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-47575, a missing authentication for critical function vulnerability in...|Release Date: 24 Oct 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241023)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 23 Oct 2024 |
- |[Microsoft Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2024)|[Updated on 2024-10-23]Updated Description, Related Links.Proof of Concept exploit code Is publicly available for CVE-2024-43532. Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotes...| Release Date: 9 Oct 2024 |
- |[Microsoft Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2024)|[Updated on 2024-10-23]Updated Description, Related Links.CVE-2024-38094 is being exploited in the wild.  An authenticated attacker with Site Owner permissions can use the vulnerability to inject arbitrary code and execute this code in the context of...| Release Date: 10 Jul 2024 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-10-22]Updated Impact, System / Technologies affected, ...| Release Date: 17 Oct 2024 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 21 Oct 2024 |
- |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 21 Oct 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 18 Oct 2024 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 16 Oct 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[SourceCodeHero Clothes Recommendation System Admin Login Page index.php sql injection (CVE-2024-10336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
- |[SourceCodester Garbage Collection Management System login.php sql injection (CVE-2024-10335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
- |[Improper Access Control in Input in VIMESA VHF/FM Transmitter Blue Plus (CVE-2024-9692)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
- |[WordPress WP Flow Plus plugin <= 5.2.3 - Cross Site Scripting (XSS) vulnerability (CVE-2024-49695)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # US-CERT
@@ -91,16 +68,39 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
  
 
-# CERT-FR
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241024)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-47575, a missing authentication for critical function vulnerability in...|Release Date: 24 Oct 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241023)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 23 Oct 2024 |
+ |[Microsoft Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2024)|[Updated on 2024-10-23]Updated Description, Related Links.Proof of Concept exploit code Is publicly available for CVE-2024-43532. Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotes...| Release Date: 9 Oct 2024 |
+ |[Microsoft Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2024)|[Updated on 2024-10-23]Updated Description, Related Links.CVE-2024-38094 is being exploited in the wild.  An authenticated attacker with Site Owner permissions can use the vulnerability to inject arbitrary code and execute this code in the context of...| Release Date: 10 Jul 2024 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-10-22]Updated Impact, System / Technologies affected, ...| Release Date: 17 Oct 2024 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 21 Oct 2024 |
+ |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 21 Oct 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 18 Oct 2024 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 16 Oct 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SourceCodeHero Clothes Recommendation System Admin Login Page index.php sql injection (CVE-2024-10336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
+ |[SourceCodester Garbage Collection Management System login.php sql injection (CVE-2024-10335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
+ |[Improper Access Control in Input in VIMESA VHF/FM Transmitter Blue Plus (CVE-2024-9692)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
+ |[WordPress WP Flow Plus plugin <= 5.2.3 - Cross Site Scripting (XSS) vulnerability (CVE-2024-49695)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
