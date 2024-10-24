@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/10/2024 04:20:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/10/2024 06:40:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,26 +46,10 @@
  |[USN-7077-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-7077-1-amd-microcode-vulnerability.53458/)|Visit link for details.|Oct 21, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 22, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 21, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
- |[Oracle Releases Quarterly Critical Patch Update Advisory for October 2024](https://www.cisa.gov/news-events/alerts/2024/10/17/oracle-releases-quarterly-critical-patch-update-advisory-october-2024)|Visit link for details.|Oct 17, 2024|
- |[ CISA and FBI Release Joint Guidance on Product Security Bad Practices for Public Comment](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-and-fbi-release-joint-guidance-product-security-bad-practices-public-comment)|Visit link for details.|Oct 16, 2024|
- |[CISA, FBI, NSA, and International Partners Release Advisory on Iranian Cyber Actors Targeting Critical Infrastructure Organizations Using Brute Force](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-fbi-nsa-and-international-partners-release-advisory-iranian-cyber-actors-targeting-critical)|Visit link for details.|Oct 16, 2024|
- |[Guidance: Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM)](https://www.cisa.gov/news-events/alerts/2024/10/15/guidance-framing-software-component-transparency-establishing-common-software-bill-materials-sbom)|Visit link for details.|Oct 15, 2024|
  
 
 # HK-CERT
@@ -94,13 +72,19 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Tenda RX9/RX9 Pro SetVirtualServerCfg sub_42EA38 stack-based overflow (CVE-2024-10282)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
- |[CVE-2024-47904 (CVE-2024-47904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
- |[CVE-2024-47903 (CVE-2024-47903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
- |[CVE-2024-47902 (CVE-2024-47902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
+ |[HCL Sametime is impacted by generation of error messages containing sensitive information (CVE-2023-50355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
+ |[PHPGurukul Medical Card Generation System Search search-medicalcard.php sql injection (CVE-2024-10301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
+ |[PHPGurukul Medical Card Generation System View Enquiry Page view-enquiry.php sql injection (CVE-2024-10300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
+ |[PHPGurukul Medical Card Generation System Managecard View Detail Page view-card-detail.php sql injection (CVE-2024-10299)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 23, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -115,6 +99,22 @@
  |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
  |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 22, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 21, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
+ |[Oracle Releases Quarterly Critical Patch Update Advisory for October 2024](https://www.cisa.gov/news-events/alerts/2024/10/17/oracle-releases-quarterly-critical-patch-update-advisory-october-2024)|Visit link for details.|Oct 17, 2024|
+ |[ CISA and FBI Release Joint Guidance on Product Security Bad Practices for Public Comment](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-and-fbi-release-joint-guidance-product-security-bad-practices-public-comment)|Visit link for details.|Oct 16, 2024|
+ |[CISA, FBI, NSA, and International Partners Release Advisory on Iranian Cyber Actors Targeting Critical Infrastructure Organizations Using Brute Force](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-fbi-nsa-and-international-partners-release-advisory-iranian-cyber-actors-targeting-critical)|Visit link for details.|Oct 16, 2024|
+ |[Guidance: Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM)](https://www.cisa.gov/news-events/alerts/2024/10/15/guidance-framing-software-component-transparency-establishing-common-software-bill-materials-sbom)|Visit link for details.|Oct 15, 2024|
  
 
 # EU-CERT
