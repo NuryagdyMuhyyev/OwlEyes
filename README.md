@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 24/10/2024 18:27:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 24/10/2024 19:20:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,44 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 22, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 21, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
- |[Oracle Releases Quarterly Critical Patch Update Advisory for October 2024](https://www.cisa.gov/news-events/alerts/2024/10/17/oracle-releases-quarterly-critical-patch-update-advisory-october-2024)|Visit link for details.|Oct 17, 2024|
- |[ CISA and FBI Release Joint Guidance on Product Security Bad Practices for Public Comment](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-and-fbi-release-joint-guidance-product-security-bad-practices-public-comment)|Visit link for details.|Oct 16, 2024|
- |[CISA, FBI, NSA, and International Partners Release Advisory on Iranian Cyber Actors Targeting Critical Infrastructure Organizations Using Brute Force](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-fbi-nsa-and-international-partners-release-advisory-iranian-cyber-actors-targeting-critical)|Visit link for details.|Oct 16, 2024|
- |[Guidance: Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM)](https://www.cisa.gov/news-events/alerts/2024/10/15/guidance-framing-software-component-transparency-establishing-common-software-bill-materials-sbom)|Visit link for details.|Oct 15, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241024)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-47575, a missing authentication for critical function vulnerability in...|Release Date: 24 Oct 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241023)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 23 Oct 2024 |
- |[Microsoft Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2024)|[Updated on 2024-10-23]Updated Description, Related Links.Proof of Concept exploit code Is publicly available for CVE-2024-43532. Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotes...| Release Date: 9 Oct 2024 |
- |[Microsoft Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2024)|[Updated on 2024-10-23]Updated Description, Related Links.CVE-2024-38094 is being exploited in the wild.  An authenticated attacker with Site Owner permissions can use the vulnerability to inject arbitrary code and execute this code in the context of...| Release Date: 10 Jul 2024 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-10-22]Updated Impact, System / Technologies affected, ...| Release Date: 17 Oct 2024 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 21 Oct 2024 |
- |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 21 Oct 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 18 Oct 2024 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 16 Oct 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -84,6 +46,34 @@
  |[USN-7077-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-7077-1-amd-microcode-vulnerability.53458/)|Visit link for details.|Oct 21, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 24, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 22, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 21, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
+ |[Oracle Releases Quarterly Critical Patch Update Advisory for October 2024](https://www.cisa.gov/news-events/alerts/2024/10/17/oracle-releases-quarterly-critical-patch-update-advisory-october-2024)|Visit link for details.|Oct 17, 2024|
+ |[ CISA and FBI Release Joint Guidance on Product Security Bad Practices for Public Comment](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-and-fbi-release-joint-guidance-product-security-bad-practices-public-comment)|Visit link for details.|Oct 16, 2024|
+ |[CISA, FBI, NSA, and International Partners Release Advisory on Iranian Cyber Actors Targeting Critical Infrastructure Organizations Using Brute Force](https://www.cisa.gov/news-events/alerts/2024/10/16/cisa-fbi-nsa-and-international-partners-release-advisory-iranian-cyber-actors-targeting-critical)|Visit link for details.|Oct 16, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -97,41 +87,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# OBS-Vigilance
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
- |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mitel - CVE-2024-35287](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35287-2024-07-26)|Visit link for details.|24/10/2024|
- |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|24/10/2024|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|24/10/2024|
- |[Trend Micro - CVE-2024-48904](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48904-2024-10-17)|Visit link for details.|24/10/2024|
- |[Trend Micro - CVE-2024-45335](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-45335-2024-10-23)|Visit link for details.|23/10/2024|
- |[pfSense - CVE-2024-46538](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2024-46538-2024-10-23)|Visit link for details.|23/10/2024|
- |[Pandora - CVE-2024-9987](https://www.cyberveille-sante.gouv.fr/alertes/pandora-cve-2024-9987-2024-10-23)|Visit link for details.|23/10/2024|
- |[Microsoft - CVE-2024-38094](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38094-2024-10-23)|Visit link for details.|23/10/2024|
- |[Google - CVE-2024-10229](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-10229-2024-10-23)|Visit link for details.|23/10/2024|
- |[Ivanti CSA - CVE-2024-9380](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-csa-cve-2024-9380-2024-10-09)|Visit link for details.|23/10/2024|
- |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|23/10/2024|
+ |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241024)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-47575, a missing authentication for critical function vulnerability in...|Release Date: 24 Oct 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241023)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 23 Oct 2024 |
+ |[Microsoft Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2024)|[Updated on 2024-10-23]Updated Description, Related Links.Proof of Concept exploit code Is publicly available for CVE-2024-43532. Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotes...| Release Date: 9 Oct 2024 |
+ |[Microsoft Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2024)|[Updated on 2024-10-23]Updated Description, Related Links.CVE-2024-38094 is being exploited in the wild.  An authenticated attacker with Site Owner permissions can use the vulnerability to inject arbitrary code and execute this code in the context of...| Release Date: 10 Jul 2024 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-10-22]Updated Impact, System / Technologies affected, ...| Release Date: 17 Oct 2024 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 21 Oct 2024 |
+ |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 21 Oct 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 18 Oct 2024 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 16 Oct 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
  
 
 # EU-CERT
@@ -151,21 +120,18 @@
  |[2024-103: Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/)|On September 26, 2024, a security researched released a blog post describing several vulnerabilities in CUPS, one of which being critical, allowing an attacker to replace existing printers' IPP URLs with a malicious one, resulting in a potential arbitrary command execution.|Friday, September 27, 2024 11:31:45 AM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 50472410/24 - Zero-day activement exploité affectant Fortinet FortiManager ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-activement-exploite-affectant-fortinet-fortimanager)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            d’un « Zero-day » affectant   les versions…| 24 octobre 2024|
- |[ 50462410/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-2)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Trois de ces vulnérabilités identifiées par «CVE-2024-20412 », …| 24 octobre 2024|
- |[ 50452410/24 - Vulnérabilités affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab-0)| GitLab annonce la disponibilité de mises à jour permettant de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 24 octobre 2024|
- |[ 50422310/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-28)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 23 octobre 2024|
- |[ 50442310/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service. | 23 octobre 2024|
- |[ 50432310/24 - Vulnérabilités critiques dans VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vmware-vcenter)| VMware a déterminé que les correctifs vCenter publiés le 17 septembre 2024 ne traitaient pas entièrement les vulnérabilités « CVE-2024-38812 et CVE-2024-38813 ». Les utilisateurs des…| 23 octobre 2024|
- |[ 50412310/24 - Vulnérabilité affectant des processeurs Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-samsung)| Samsung annonce la correction d’une vulnérabilité affectant ses processeurs Exynos susmentionnés. Cette vulnérabilité est activement exploitée  et peut permettre à un attaquant distant d’élever…| 23 octobre 2024|
- |[ 50392210/24 - Vulnérabilités dans les produits Hikvision HikCentral ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hikvision-hikcentral)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Hikvision HikCentral. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire…| 22 octobre 2024|
- |[ 50402210/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework-0)| Une vulnérabilité de traversée de chemin a été découverte dans les versions susmentionnées de Spring Framework, affectant les applications qui utilisent les frameworks web fonctionnels WebMvc.fn et…| 22 octobre 2024|
- |[ 50372110/24 - Vulnérabilité affectant des processeurs AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-amd)| AMD annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. En exploitant cette vulnérabilité, un attaquant peut accéder à des données confidentielles.| 21 octobre 2024|
- |[ 50362110/24 - Vulnérabilité affectant les processeurs Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-processeurs-intel)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité affectant plusieurs de ses processeurs. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 21 octobre 2024|
+ |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
+ |[Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1414/)|Visit link for details|2024-10-17|
  
 
 # CA-CCS
@@ -183,4 +149,38 @@
  |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
  |[[Control systems] CISA ICS security advisories (AV24–601)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-601)|Visit link for details|2024-10-21|
  |[Ubuntu security advisory (AV24-600)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-600)|Visit link for details|2024-10-21|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50472410/24 - Zero-day activement exploité affectant Fortinet FortiManager ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-activement-exploite-affectant-fortinet-fortimanager)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            d’un « Zero-day » affectant   les versions…| 24 octobre 2024|
+ |[ 50462410/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-2)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Trois de ces vulnérabilités identifiées par «CVE-2024-20412 », …| 24 octobre 2024|
+ |[ 50452410/24 - Vulnérabilités affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab-0)| GitLab annonce la disponibilité de mises à jour permettant de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 24 octobre 2024|
+ |[ 50422310/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-28)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 23 octobre 2024|
+ |[ 50442310/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service. | 23 octobre 2024|
+ |[ 50432310/24 - Vulnérabilités critiques dans VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vmware-vcenter)| VMware a déterminé que les correctifs vCenter publiés le 17 septembre 2024 ne traitaient pas entièrement les vulnérabilités « CVE-2024-38812 et CVE-2024-38813 ». Les utilisateurs des…| 23 octobre 2024|
+ |[ 50412310/24 - Vulnérabilité affectant des processeurs Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-samsung)| Samsung annonce la correction d’une vulnérabilité affectant ses processeurs Exynos susmentionnés. Cette vulnérabilité est activement exploitée  et peut permettre à un attaquant distant d’élever…| 23 octobre 2024|
+ |[ 50392210/24 - Vulnérabilités dans les produits Hikvision HikCentral ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hikvision-hikcentral)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Hikvision HikCentral. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire…| 22 octobre 2024|
+ |[ 50402210/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework-0)| Une vulnérabilité de traversée de chemin a été découverte dans les versions susmentionnées de Spring Framework, affectant les applications qui utilisent les frameworks web fonctionnels WebMvc.fn et…| 22 octobre 2024|
+ |[ 50372110/24 - Vulnérabilité affectant des processeurs AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-amd)| AMD annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. En exploitant cette vulnérabilité, un attaquant peut accéder à des données confidentielles.| 21 octobre 2024|
+ |[ 50362110/24 - Vulnérabilité affectant les processeurs Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-processeurs-intel)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité affectant plusieurs de ses processeurs. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 21 octobre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitel - CVE-2024-35287](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35287-2024-07-26)|Visit link for details.|24/10/2024|
+ |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|24/10/2024|
+ |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|24/10/2024|
+ |[Trend Micro - CVE-2024-48904](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48904-2024-10-17)|Visit link for details.|24/10/2024|
+ |[Trend Micro - CVE-2024-45335](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-45335-2024-10-23)|Visit link for details.|23/10/2024|
+ |[pfSense - CVE-2024-46538](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2024-46538-2024-10-23)|Visit link for details.|23/10/2024|
+ |[Pandora - CVE-2024-9987](https://www.cyberveille-sante.gouv.fr/alertes/pandora-cve-2024-9987-2024-10-23)|Visit link for details.|23/10/2024|
+ |[Microsoft - CVE-2024-38094](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-38094-2024-10-23)|Visit link for details.|23/10/2024|
+ |[Google - CVE-2024-10229](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-10229-2024-10-23)|Visit link for details.|23/10/2024|
+ |[Ivanti CSA - CVE-2024-9380](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-csa-cve-2024-9380-2024-10-09)|Visit link for details.|23/10/2024|
+ |[Ivanti - CVE-2024-9379](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9379-2024-10-14)|Visit link for details.|23/10/2024|
  
