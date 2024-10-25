@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/10/2024 06:41:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/10/2024 07:54:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
+ |[USN-7081-1: Go vulnerabilities](https://www.linux.org/threads/usn-7081-1-go-vulnerabilities.53496/)|Visit link for details.|Oct 23, 2024|
+ |[USN-7080-1: Unbound vulnerability](https://www.linux.org/threads/usn-7080-1-unbound-vulnerability.53488/)|Visit link for details.|Oct 22, 2024|
+ |[USN-7079-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7079-1-webkitgtk-vulnerabilities.53487/)|Visit link for details.|Oct 22, 2024|
+ |[USN-7078-1: Firefox vulnerability](https://www.linux.org/threads/usn-7078-1-firefox-vulnerability.53478/)|Visit link for details.|Oct 22, 2024|
+ |[DSA-5795-1 python-sql - security update](https://www.linux.org/threads/dsa-5795-1-python-sql-security-update.53475/)|Visit link for details.|Oct 22, 2024|
+ |[DSA-5794-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5794-1-openjdk-17-security-update.53473/)|Visit link for details.|Oct 21, 2024|
+ |[USN-7072-2: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7072-2-linux-kernel-gke-vulnerabilities.53472/)|Visit link for details.|Oct 21, 2024|
+ |[USN-7062-2: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-2-libgsf-vulnerabilities.53471/)|Visit link for details.|Oct 21, 2024|
+ |[USN-7042-3: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-3-cups-browsed-vulnerability.53470/)|Visit link for details.|Oct 21, 2024|
+ |[USN-7077-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-7077-1-amd-microcode-vulnerability.53458/)|Visit link for details.|Oct 21, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -51,24 +68,13 @@
  |---|---|---|
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
- |[USN-7081-1: Go vulnerabilities](https://www.linux.org/threads/usn-7081-1-go-vulnerabilities.53496/)|Visit link for details.|Oct 23, 2024|
- |[USN-7080-1: Unbound vulnerability](https://www.linux.org/threads/usn-7080-1-unbound-vulnerability.53488/)|Visit link for details.|Oct 22, 2024|
- |[USN-7079-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7079-1-webkitgtk-vulnerabilities.53487/)|Visit link for details.|Oct 22, 2024|
- |[USN-7078-1: Firefox vulnerability](https://www.linux.org/threads/usn-7078-1-firefox-vulnerability.53478/)|Visit link for details.|Oct 22, 2024|
- |[DSA-5795-1 python-sql - security update](https://www.linux.org/threads/dsa-5795-1-python-sql-security-update.53475/)|Visit link for details.|Oct 22, 2024|
- |[DSA-5794-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5794-1-openjdk-17-security-update.53473/)|Visit link for details.|Oct 21, 2024|
- |[USN-7072-2: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7072-2-linux-kernel-gke-vulnerabilities.53472/)|Visit link for details.|Oct 21, 2024|
- |[USN-7062-2: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-2-libgsf-vulnerabilities.53471/)|Visit link for details.|Oct 21, 2024|
- |[USN-7042-3: cups-browsed vulnerability](https://www.linux.org/threads/usn-7042-3-cups-browsed-vulnerability.53470/)|Visit link for details.|Oct 21, 2024|
- |[USN-7077-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-7077-1-amd-microcode-vulnerability.53458/)|Visit link for details.|Oct 21, 2024|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
@@ -78,6 +84,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20241025)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system. Note...|Release Date: 25 Oct 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241025)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and cross-site scripting on the targeted system.|Release Date: 25 Oct 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241025)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 25 Oct 2024 |
  |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241024)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-47575, a missing authentication for critical function vulnerability in...|Release Date: 24 Oct 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241023)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 23 Oct 2024 |
  |[Microsoft Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2024)|[Updated on 2024-10-23]Updated Description, Related Links.Proof of Concept exploit code Is publicly available for CVE-2024-43532. Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotes...| Release Date: 9 Oct 2024 |
@@ -85,36 +94,6 @@
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-10-22]Updated Impact, System / Technologies affected, ...| Release Date: 17 Oct 2024 |
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 21 Oct 2024 |
  |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 21 Oct 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 18 Oct 2024 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20241016)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated...| Release Date: 16 Oct 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241002)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on 2024-10-...| Release Date: 2 Oct 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[SourceCodester Online Exam System admin-dashboard access control (CVE-2024-10353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
- |[Tenda RX9 Pro POST Request setMacFilterCfg sub_424CE0 stack-based overflow (CVE-2024-10351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
- |[code-projects Hospital Management System add-doctor.php sql injection (CVE-2024-10350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
- |[Snowflake Connector for Python has sensitive data in logs (CVE-2024-49750)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
- |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  
 
 # EU-CERT
@@ -134,21 +113,18 @@
  |[2024-103: Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/)|On September 26, 2024, a security researched released a blog post describing several vulnerabilities in CUPS, one of which being critical, allowing an attacker to replace existing printers' IPP URLs with a malicious one, resulting in a potential arbitrary command execution.|Friday, September 27, 2024 11:31:45 AM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Drupal security advisory (AV24-611)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-611)|Visit link for details|2024-10-24|
- |[GitLab security advisory (AV24-610)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-610)|Visit link for details|2024-10-24|
- |[Cisco security advisory (AV24-609)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609)|Visit link for details|2024-10-23|
- |[Fortinet security advisory (AV24-608)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608)|Visit link for details|2024-10-23|
- |[[Control systems] ABB security advisory (AV24-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-607)|Visit link for details|2024-10-23|
- |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
- |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
- |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
- |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
- |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
- |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
+ |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
+ |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  
 
 # MA-CERT
@@ -166,6 +142,23 @@
  |[ 50402210/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework-0)| Une vulnérabilité de traversée de chemin a été découverte dans les versions susmentionnées de Spring Framework, affectant les applications qui utilisent les frameworks web fonctionnels WebMvc.fn et…| 22 octobre 2024|
  |[ 50372110/24 - Vulnérabilité affectant des processeurs AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-amd)| AMD annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. En exploitant cette vulnérabilité, un attaquant peut accéder à des données confidentielles.| 21 octobre 2024|
  |[ 50362110/24 - Vulnérabilité affectant les processeurs Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-processeurs-intel)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité affectant plusieurs de ses processeurs. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 21 octobre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Drupal security advisory (AV24-611)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-611)|Visit link for details|2024-10-24|
+ |[GitLab security advisory (AV24-610)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-610)|Visit link for details|2024-10-24|
+ |[Cisco security advisory (AV24-609)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609)|Visit link for details|2024-10-23|
+ |[Fortinet security advisory (AV24-608)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608)|Visit link for details|2024-10-23|
+ |[[Control systems] ABB security advisory (AV24-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-607)|Visit link for details|2024-10-23|
+ |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
+ |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
+ |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
+ |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
+ |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
+ |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
  
 
 # CERT-SANTE
