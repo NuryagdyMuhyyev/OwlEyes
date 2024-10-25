@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/10/2024 15:22:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/10/2024 16:17:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,13 +62,13 @@
  |[USN-7077-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-7077-1-amd-microcode-vulnerability.53458/)|Visit link for details.|Oct 21, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -98,23 +98,9 @@
  |[UPS Live Rates and Access Points <= 2.3.11 - Missing Authorization to Plugin API key reset (CVE-2024-9109)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
  |[Order Notification for Telegram <= 1.0.1 - Missing Authorization to Unauthenticated Send Telegram Test Message (CVE-2024-9686)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
  |[chidiwilliams buzz model_loader.py download_model temp file (CVE-2024-10372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
+ |[SourceCodester Payroll Management System main login buffer overflow (CVE-2024-10371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
- |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  
 
 # EU-CERT
@@ -151,6 +137,23 @@
  |[ 50362110/24 - Vulnérabilité affectant les processeurs Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-processeurs-intel)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent une vulnérabilité affectant plusieurs de ses processeurs. L'exploitation de cette vulnérabilité peut permettre à un attaquant…| 21 octobre 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zimbra - CVE-2024-45518](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2024-45518-2024-10-24)|Visit link for details.|24/10/2024|
+ |[GitLab - CVE-2024-8312](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8312-2024-10-24)|Visit link for details.|24/10/2024|
+ |[Centreon - CVE-2024-45754](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45754-2024-10-24)|Visit link for details.|24/10/2024|
+ |[Fortinet - CVE-2024-47575](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47575-2024-10-24)|Visit link for details.|24/10/2024|
+ |[Cisco - CVE-2024-20424](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20424-2024-10-24)|Visit link for details.|24/10/2024|
+ |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|24/10/2024|
+ |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|24/10/2024|
+ |[Trend Micro - CVE-2024-48904](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48904-2024-10-17)|Visit link for details.|24/10/2024|
+ |[Mitel - CVE-2024-35287](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35287-2024-07-26)|Visit link for details.|24/10/2024|
+ |[Trend Micro - CVE-2024-45335](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-45335-2024-10-23)|Visit link for details.|23/10/2024|
+ |[pfSense - CVE-2024-46538](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2024-46538-2024-10-23)|Visit link for details.|23/10/2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -168,19 +171,16 @@
  |[Dell security advisory (AV24-602)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-602)|Visit link for details|2024-10-21|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Zimbra - CVE-2024-45518](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2024-45518-2024-10-24)|Visit link for details.|24/10/2024|
- |[GitLab - CVE-2024-8312](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8312-2024-10-24)|Visit link for details.|24/10/2024|
- |[Centreon - CVE-2024-45754](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45754-2024-10-24)|Visit link for details.|24/10/2024|
- |[Fortinet - CVE-2024-47575](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47575-2024-10-24)|Visit link for details.|24/10/2024|
- |[Cisco - CVE-2024-20424](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20424-2024-10-24)|Visit link for details.|24/10/2024|
- |[Mitel - CVE-2024-47223](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-47223-2024-10-11)|Visit link for details.|24/10/2024|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|24/10/2024|
- |[Trend Micro - CVE-2024-48904](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-48904-2024-10-17)|Visit link for details.|24/10/2024|
- |[Mitel - CVE-2024-35287](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35287-2024-07-26)|Visit link for details.|24/10/2024|
- |[Trend Micro - CVE-2024-45335](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-45335-2024-10-23)|Visit link for details.|23/10/2024|
- |[pfSense - CVE-2024-46538](https://www.cyberveille-sante.gouv.fr/alertes/pfsense-cve-2024-46538-2024-10-23)|Visit link for details.|23/10/2024|
+ |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
+ |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  
