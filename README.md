@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/10/2024 22:18:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/10/2024 23:28:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,29 +46,7 @@
  |[USN-7077-1: AMD Microcode vulnerability](https://www.linux.org/threads/usn-7077-1-amd-microcode-vulnerability.53458/)|Visit link for details.|Oct 21, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 24, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 24, 2024|
- |[CISA, US, and International Partners Release Joint Guidance to Assist Software Manufacturers with Safe Software Deployment Processes](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-us-and-international-partners-release-joint-guidance-assist-software-manufacturers-safe)|Visit link for details.|Oct 24, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 22, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 21, 2024|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
- 
-
 # CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -94,13 +72,35 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[WP-Members <= 3.4.9.5 - Authenticated (Contributor+) Stored Cross-Site Scripting via wpmem_loginout Shortcode (CVE-2024-10374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
- |[ESAFENET CDG DecryptApplicationService.java actionPassDecryptApplication1 sql injection (CVE-2024-10377)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
- |[ESAFENET CDG AutoSignService.java actionPassOrNotAutoSign sql injection (CVE-2024-10376)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
- |[CVE-2024-47481 (CVE-2024-47481)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
+ |[Image Map Pro <= 6.0.20 - Authenticated (Contributor+) Stored Cross-Site Scripting (CVE-2024-9585)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
+ |[Image Map Pro <= 6.0.20 - Missing Authorization to Authenticated (Contributor+) Map Project Add/Update/Delete (CVE-2024-9584)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
+ |[Rockwell Automation FactoryTalk ThinManager Denial-of-Service Vulnerability (CVE-2024-10387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
+ |[Rockwell Automation FactoryTalk ThinManager Authentication Vulnerability (CVE-2024-10386)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 24, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 24, 2024|
+ |[CISA, US, and International Partners Release Joint Guidance to Assist Software Manufacturers with Safe Software Deployment Processes](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-us-and-international-partners-release-joint-guidance-assist-software-manufacturers-safe)|Visit link for details.|Oct 24, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 22, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 21, 2024|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -115,6 +115,23 @@
  |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
  |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
  |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress - CVE-2024-7763](https://www.cyberveille-sante.gouv.fr/alertes/progress-cve-2024-7763-2024-10-25)|Visit link for details.|25/10/2024|
+ |[NVIDIA - CVE-2024-0132](https://www.cyberveille-sante.gouv.fr/alertes/nvidia-cve-2024-0132-2024-10-25)|Visit link for details.|25/10/2024|
+ |[Zoho ManageEngine - CVE-2024-5608](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5608-2024-10-25)|Visit link for details.|25/10/2024|
+ |[Cisco - CVE-2024-20329](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20329-2024-10-25)|Visit link for details.|25/10/2024|
+ |[Apple - CVE-2024-44185](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44185-2024-10-25)|Visit link for details.|25/10/2024|
+ |[Google - CVE-2024-10229](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-10229-2024-10-23)|Visit link for details.|25/10/2024|
+ |[Zimbra - CVE-2024-45518](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2024-45518-2024-10-24)|Visit link for details.|24/10/2024|
+ |[GitLab - CVE-2024-8312](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8312-2024-10-24)|Visit link for details.|24/10/2024|
+ |[Centreon - CVE-2024-45754](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45754-2024-10-24)|Visit link for details.|24/10/2024|
+ |[Fortinet - CVE-2024-47575](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47575-2024-10-24)|Visit link for details.|24/10/2024|
+ |[Cisco - CVE-2024-20424](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20424-2024-10-24)|Visit link for details.|24/10/2024|
  
 
 # EU-CERT
@@ -138,6 +155,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[HPE security advisory (AV24-613)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-613)|Visit link for details|2024-10-25|
  |[Microsoft Edge security advisory (AV24-612)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612)|Visit link for details|2024-10-25|
  |[Drupal security advisory (AV24-611)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-611)|Visit link for details|2024-10-24|
  |[GitLab security advisory (AV24-610)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-610)|Visit link for details|2024-10-24|
@@ -148,24 +166,6 @@
  |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
  |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
  |[Foxit security advisory (AV24-604)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-604)|Visit link for details|2024-10-21|
- |[IBM security advisory (AV24-603)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-603)|Visit link for details|2024-10-21|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Progress - CVE-2024-7763](https://www.cyberveille-sante.gouv.fr/alertes/progress-cve-2024-7763-2024-10-25)|Visit link for details.|25/10/2024|
- |[NVIDIA - CVE-2024-0132](https://www.cyberveille-sante.gouv.fr/alertes/nvidia-cve-2024-0132-2024-10-25)|Visit link for details.|25/10/2024|
- |[Zoho ManageEngine - CVE-2024-5608](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5608-2024-10-25)|Visit link for details.|25/10/2024|
- |[Cisco - CVE-2024-20329](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20329-2024-10-25)|Visit link for details.|25/10/2024|
- |[Apple - CVE-2024-44185](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44185-2024-10-25)|Visit link for details.|25/10/2024|
- |[Google - CVE-2024-10229](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-10229-2024-10-23)|Visit link for details.|25/10/2024|
- |[Zimbra - CVE-2024-45518](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2024-45518-2024-10-24)|Visit link for details.|24/10/2024|
- |[GitLab - CVE-2024-8312](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8312-2024-10-24)|Visit link for details.|24/10/2024|
- |[Centreon - CVE-2024-45754](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45754-2024-10-24)|Visit link for details.|24/10/2024|
- |[Fortinet - CVE-2024-47575](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47575-2024-10-24)|Visit link for details.|24/10/2024|
- |[Cisco - CVE-2024-20424](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20424-2024-10-24)|Visit link for details.|24/10/2024|
  
 
 # MA-CERT
