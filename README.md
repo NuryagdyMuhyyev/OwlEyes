@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/10/2024 21:24:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/10/2024 22:18:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,28 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20241025)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system. Note...|Release Date: 25 Oct 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241025)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and cross-site scripting on the targeted system.|Release Date: 25 Oct 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241025)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 25 Oct 2024 |
+ |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241024)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-47575, a missing authentication for critical function vulnerability in...|Release Date: 24 Oct 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241023)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 23 Oct 2024 |
+ |[Microsoft Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2024)|[Updated on 2024-10-23]Updated Description, Related Links.Proof of Concept exploit code Is publicly available for CVE-2024-43532. Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotes...| Release Date: 9 Oct 2024 |
+ |[Microsoft Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2024)|[Updated on 2024-10-23]Updated Description, Related Links.CVE-2024-38094 is being exploited in the wild.  An authenticated attacker with Site Owner permissions can use the vulnerability to inject arbitrary code and execute this code in the context of...| Release Date: 10 Jul 2024 |
+ |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-10-22]Updated Impact, System / Technologies affected, ...| Release Date: 17 Oct 2024 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 21 Oct 2024 |
+ |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 21 Oct 2024 |
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,18 +84,6 @@
  |[USN-7072-2: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7072-2-linux-kernel-gke-vulnerabilities.53472/)|Visit link for details.|Oct 21, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -87,20 +97,24 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# HK-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20241025)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system. Note...|Release Date: 25 Oct 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241025)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and cross-site scripting on the targeted system.|Release Date: 25 Oct 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241025)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 25 Oct 2024 |
- |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241024)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-47575, a missing authentication for critical function vulnerability in...|Release Date: 24 Oct 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241023)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system.|Release Date: 23 Oct 2024 |
- |[Microsoft Monthly Security Update (October 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2024)|[Updated on 2024-10-23]Updated Description, Related Links.Proof of Concept exploit code Is publicly available for CVE-2024-43532. Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotes...| Release Date: 9 Oct 2024 |
- |[Microsoft Monthly Security Update (July 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2024)|[Updated on 2024-10-23]Updated Description, Related Links.CVE-2024-38094 is being exploited in the wild.  An authenticated attacker with Site Owner permissions can use the vulnerability to inject arbitrary code and execute this code in the context of...| Release Date: 10 Jul 2024 |
- |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-10-22]Updated Impact, System / Technologies affected, ...| Release Date: 17 Oct 2024 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 21 Oct 2024 |
- |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 21 Oct 2024 |
+ |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
+ |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -120,35 +134,21 @@
  |[2024-104: Critical Vulnerability in NVIDIA Container Toolkit](https://cert.europa.eu/publications/security-advisories/2024-104/)|On September 26, 2024, a security advisory was issued regarding a critical vulnerability, CCVE-2024-0132, affecting NVIDIA Container Toolkit. NVIDIA Container Toolkit is providing containerised AI applications with access to GPU resources. This vulnerability impacts any AI application that is running the vulnerable container toolkit to enable GPU support. |Friday, September 27, 2024 11:47:10 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
- |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Siemens security advisory (AV24-614)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614)|Visit link for details|2024-10-25|
- |[HPE security advisory (AV24-613)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-613)|Visit link for details|2024-10-25|
- |[Microsoft Edge security advisory (AV24-612)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612)|Visit link for details|2024-10-25|
- |[Drupal security advisory (AV24-611)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-611)|Visit link for details|2024-10-24|
- |[GitLab security advisory (AV24-610)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-610)|Visit link for details|2024-10-24|
- |[Cisco security advisory (AV24-609)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609)|Visit link for details|2024-10-23|
- |[Fortinet security advisory (AV24-608)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608)|Visit link for details|2024-10-23|
- |[[Control systems] ABB security advisory (AV24-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-607)|Visit link for details|2024-10-23|
- |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
- |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
- |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
+ |[Progress - CVE-2024-7763](https://www.cyberveille-sante.gouv.fr/alertes/progress-cve-2024-7763-2024-10-25)|Visit link for details.|25/10/2024|
+ |[NVIDIA - CVE-2024-0132](https://www.cyberveille-sante.gouv.fr/alertes/nvidia-cve-2024-0132-2024-10-25)|Visit link for details.|25/10/2024|
+ |[Zoho ManageEngine - CVE-2024-5608](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5608-2024-10-25)|Visit link for details.|25/10/2024|
+ |[Cisco - CVE-2024-20329](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20329-2024-10-25)|Visit link for details.|25/10/2024|
+ |[Apple - CVE-2024-44185](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44185-2024-10-25)|Visit link for details.|25/10/2024|
+ |[Google - CVE-2024-10229](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-10229-2024-10-23)|Visit link for details.|25/10/2024|
+ |[Zimbra - CVE-2024-45518](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2024-45518-2024-10-24)|Visit link for details.|24/10/2024|
+ |[GitLab - CVE-2024-8312](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8312-2024-10-24)|Visit link for details.|24/10/2024|
+ |[Centreon - CVE-2024-45754](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45754-2024-10-24)|Visit link for details.|24/10/2024|
+ |[Fortinet - CVE-2024-47575](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47575-2024-10-24)|Visit link for details.|24/10/2024|
+ |[Cisco - CVE-2024-20424](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20424-2024-10-24)|Visit link for details.|24/10/2024|
  
 
 # MA-CERT
@@ -168,19 +168,19 @@
  |[ 50372110/24 - Vulnérabilité affectant des processeurs AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-amd)| AMD annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. En exploitant cette vulnérabilité, un attaquant peut accéder à des données confidentielles.| 21 octobre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Progress - CVE-2024-7763](https://www.cyberveille-sante.gouv.fr/alertes/progress-cve-2024-7763-2024-10-25)|Visit link for details.|25/10/2024|
- |[NVIDIA - CVE-2024-0132](https://www.cyberveille-sante.gouv.fr/alertes/nvidia-cve-2024-0132-2024-10-25)|Visit link for details.|25/10/2024|
- |[Zoho ManageEngine - CVE-2024-5608](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5608-2024-10-25)|Visit link for details.|25/10/2024|
- |[Cisco - CVE-2024-20329](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20329-2024-10-25)|Visit link for details.|25/10/2024|
- |[Apple - CVE-2024-44185](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44185-2024-10-25)|Visit link for details.|25/10/2024|
- |[Google - CVE-2024-10229](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-10229-2024-10-23)|Visit link for details.|25/10/2024|
- |[Zimbra - CVE-2024-45518](https://www.cyberveille-sante.gouv.fr/alertes/zimbra-cve-2024-45518-2024-10-24)|Visit link for details.|24/10/2024|
- |[GitLab - CVE-2024-8312](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8312-2024-10-24)|Visit link for details.|24/10/2024|
- |[Centreon - CVE-2024-45754](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45754-2024-10-24)|Visit link for details.|24/10/2024|
- |[Fortinet - CVE-2024-47575](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47575-2024-10-24)|Visit link for details.|24/10/2024|
- |[Cisco - CVE-2024-20424](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20424-2024-10-24)|Visit link for details.|24/10/2024|
+ |[[Control systems] Siemens security advisory (AV24-614)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614)|Visit link for details|2024-10-25|
+ |[HPE security advisory (AV24-613)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-613)|Visit link for details|2024-10-25|
+ |[Microsoft Edge security advisory (AV24-612)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612)|Visit link for details|2024-10-25|
+ |[Drupal security advisory (AV24-611)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-611)|Visit link for details|2024-10-24|
+ |[GitLab security advisory (AV24-610)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-610)|Visit link for details|2024-10-24|
+ |[Cisco security advisory (AV24-609)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609)|Visit link for details|2024-10-23|
+ |[Fortinet security advisory (AV24-608)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608)|Visit link for details|2024-10-23|
+ |[[Control systems] ABB security advisory (AV24-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-607)|Visit link for details|2024-10-23|
+ |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
+ |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
+ |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
  
