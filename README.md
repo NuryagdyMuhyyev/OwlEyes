@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/10/2024 13:24:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/10/2024 14:20:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[USN-7062-2: libgsf vulnerabilities](https://www.linux.org/threads/usn-7062-2-libgsf-vulnerabilities.53471/)|Visit link for details.|Oct 21, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -82,6 +76,12 @@
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-10-22]Updated Impact, System / Technologies affected, ...| Release Date: 17 Oct 2024 |
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 21 Oct 2024 |
  |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 21 Oct 2024 |
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
@@ -115,23 +115,6 @@
  |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
  |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
  |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Siemens security advisory (AV24-614)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614)|Visit link for details|2024-10-25|
- |[HPE security advisory (AV24-613)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-613)|Visit link for details|2024-10-25|
- |[Microsoft Edge security advisory (AV24-612)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612)|Visit link for details|2024-10-25|
- |[Drupal security advisory (AV24-611)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-611)|Visit link for details|2024-10-24|
- |[GitLab security advisory (AV24-610)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-610)|Visit link for details|2024-10-24|
- |[Cisco security advisory (AV24-609)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609)|Visit link for details|2024-10-23|
- |[Fortinet security advisory (AV24-608)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608)|Visit link for details|2024-10-23|
- |[[Control systems] ABB security advisory (AV24-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-607)|Visit link for details|2024-10-23|
- |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
- |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
- |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
  
 
 # EU-CERT
@@ -183,4 +166,21 @@
  |[ 50392210/24 - Vulnérabilités dans les produits Hikvision HikCentral ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hikvision-hikcentral)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Hikvision HikCentral. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire…| 22 octobre 2024|
  |[ 50402210/24 - Vulnérabilité dans Spring Framework ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-spring-framework-0)| Une vulnérabilité de traversée de chemin a été découverte dans les versions susmentionnées de Spring Framework, affectant les applications qui utilisent les frameworks web fonctionnels WebMvc.fn et…| 22 octobre 2024|
  |[ 50372110/24 - Vulnérabilité affectant des processeurs AMD ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-amd)| AMD annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. En exploitant cette vulnérabilité, un attaquant peut accéder à des données confidentielles.| 21 octobre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Siemens security advisory (AV24-614)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614)|Visit link for details|2024-10-25|
+ |[HPE security advisory (AV24-613)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-613)|Visit link for details|2024-10-25|
+ |[Microsoft Edge security advisory (AV24-612)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612)|Visit link for details|2024-10-25|
+ |[Drupal security advisory (AV24-611)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-611)|Visit link for details|2024-10-24|
+ |[GitLab security advisory (AV24-610)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-610)|Visit link for details|2024-10-24|
+ |[Cisco security advisory (AV24-609)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609)|Visit link for details|2024-10-23|
+ |[Fortinet security advisory (AV24-608)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608)|Visit link for details|2024-10-23|
+ |[[Control systems] ABB security advisory (AV24-607)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-607)|Visit link for details|2024-10-23|
+ |[Google Chrome security advisory (AV24-606)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606)|Visit link for details|2024-10-23|
+ |[HPE security advisory (AV24-605)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605)|Visit link for details|2024-10-23|
+ |[VMware security advisory (AV24-528) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-528)|Visit link for details|2024-10-22|
  
