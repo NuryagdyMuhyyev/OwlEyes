@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/10/2024 10:20:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/10/2024 11:28:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,21 +29,10 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5798-1 activemq - security update](https://www.linux.org/threads/dsa-5798-1-activemq-security-update.53538/)|Visit link for details.|Oct 26, 2024|
- |[DSA-5797-1 twisted - security update](https://www.linux.org/threads/dsa-5797-1-twisted-security-update.53527/)|Visit link for details.|Oct 25, 2024|
- |[DSA-5796-1 libheif - security update](https://www.linux.org/threads/dsa-5796-1-libheif-security-update.53526/)|Visit link for details.|Oct 25, 2024|
- |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
- |[USN-7081-1: Go vulnerabilities](https://www.linux.org/threads/usn-7081-1-go-vulnerabilities.53496/)|Visit link for details.|Oct 23, 2024|
- |[USN-7080-1: Unbound vulnerability](https://www.linux.org/threads/usn-7080-1-unbound-vulnerability.53488/)|Visit link for details.|Oct 22, 2024|
- |[USN-7079-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7079-1-webkitgtk-vulnerabilities.53487/)|Visit link for details.|Oct 22, 2024|
- |[USN-7078-1: Firefox vulnerability](https://www.linux.org/threads/usn-7078-1-firefox-vulnerability.53478/)|Visit link for details.|Oct 22, 2024|
- |[DSA-5795-1 python-sql - security update](https://www.linux.org/threads/dsa-5795-1-python-sql-security-update.53475/)|Visit link for details.|Oct 22, 2024|
- |[DSA-5794-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5794-1-openjdk-17-security-update.53473/)|Visit link for details.|Oct 21, 2024|
- |[USN-7072-2: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7072-2-linux-kernel-gke-vulnerabilities.53472/)|Visit link for details.|Oct 21, 2024|
  
 
 # US-CERT
@@ -62,29 +51,21 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
  
 
-# OBS-Vigilance
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[SourceCodester Petrol Pump Management Software edit_customer.php sql injection (CVE-2024-10407)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2024|
- |[SourceCodester Petrol Pump Management Software edit_fuel.php sql injection (CVE-2024-10406)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2024|
- |[Forminator Forms – Contact Form, Payment Form & Custom Form Builder <= 1.35.1 - Missing Authorization to Authenticated (Contributor+) Form Update and Creation (CVE-2024-10402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2024|
- |[WP Crowdfunding <= 2.1.11 - Authenticated (Contributor+) Stored Cross-Site Scripting via wpcf_donate Shortcode (CVE-2024-10117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[DSA-5798-1 activemq - security update](https://www.linux.org/threads/dsa-5798-1-activemq-security-update.53538/)|Visit link for details.|Oct 26, 2024|
+ |[DSA-5797-1 twisted - security update](https://www.linux.org/threads/dsa-5797-1-twisted-security-update.53527/)|Visit link for details.|Oct 25, 2024|
+ |[DSA-5796-1 libheif - security update](https://www.linux.org/threads/dsa-5796-1-libheif-security-update.53526/)|Visit link for details.|Oct 25, 2024|
+ |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
+ |[USN-7081-1: Go vulnerabilities](https://www.linux.org/threads/usn-7081-1-go-vulnerabilities.53496/)|Visit link for details.|Oct 23, 2024|
+ |[USN-7080-1: Unbound vulnerability](https://www.linux.org/threads/usn-7080-1-unbound-vulnerability.53488/)|Visit link for details.|Oct 22, 2024|
+ |[USN-7079-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7079-1-webkitgtk-vulnerabilities.53487/)|Visit link for details.|Oct 22, 2024|
+ |[USN-7078-1: Firefox vulnerability](https://www.linux.org/threads/usn-7078-1-firefox-vulnerability.53478/)|Visit link for details.|Oct 22, 2024|
+ |[DSA-5795-1 python-sql - security update](https://www.linux.org/threads/dsa-5795-1-python-sql-security-update.53475/)|Visit link for details.|Oct 22, 2024|
+ |[DSA-5794-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5794-1-openjdk-17-security-update.53473/)|Visit link for details.|Oct 21, 2024|
+ |[USN-7072-2: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7072-2-linux-kernel-gke-vulnerabilities.53472/)|Visit link for details.|Oct 21, 2024|
  
 
 # HK-CERT
@@ -101,6 +82,25 @@
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-10-22]Updated Impact, System / Technologies affected, ...| Release Date: 17 Oct 2024 |
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 21 Oct 2024 |
  |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241021)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass and denial of service condition on the targeted system.|Release Date: 21 Oct 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SourceCodester Online Hotel Reservation System controller.php doCheckout sql injection (CVE-2024-10411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2024|
+ |[SourceCodester Online Hotel Reservation System controller.php upload unrestricted upload (CVE-2024-10410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2024|
+ |[CVE-2024-50602 (CVE-2024-50602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2024|
+ |[SourceCodester Petrol Pump Management Software edit_customer.php sql injection (CVE-2024-10407)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
