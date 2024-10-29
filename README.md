@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/10/2024 17:41:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/10/2024 18:28:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7064-2: nano vulnerability](https://www.linux.org/threads/usn-7064-2-nano-vulnerability.53584/)|Visit link for details.|Oct 29, 2024|
+ |[DSA-5799-1 chromium - security update](https://www.linux.org/threads/dsa-5799-1-chromium-security-update.53556/)|Visit link for details.|Oct 28, 2024|
+ |[DSA-5798-1 activemq - security update](https://www.linux.org/threads/dsa-5798-1-activemq-security-update.53538/)|Visit link for details.|Oct 26, 2024|
+ |[DSA-5797-1 twisted - security update](https://www.linux.org/threads/dsa-5797-1-twisted-security-update.53527/)|Visit link for details.|Oct 25, 2024|
+ |[DSA-5796-1 libheif - security update](https://www.linux.org/threads/dsa-5796-1-libheif-security-update.53526/)|Visit link for details.|Oct 25, 2024|
+ |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
+ |[USN-7081-1: Go vulnerabilities](https://www.linux.org/threads/usn-7081-1-go-vulnerabilities.53496/)|Visit link for details.|Oct 23, 2024|
+ |[USN-7080-1: Unbound vulnerability](https://www.linux.org/threads/usn-7080-1-unbound-vulnerability.53488/)|Visit link for details.|Oct 22, 2024|
+ |[USN-7079-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7079-1-webkitgtk-vulnerabilities.53487/)|Visit link for details.|Oct 22, 2024|
+ |[USN-7078-1: Firefox vulnerability](https://www.linux.org/threads/usn-7078-1-firefox-vulnerability.53478/)|Visit link for details.|Oct 22, 2024|
+ |[DSA-5795-1 python-sql - security update](https://www.linux.org/threads/dsa-5795-1-python-sql-security-update.53475/)|Visit link for details.|Oct 22, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -43,23 +60,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 21, 2024|
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Oct 17, 2024|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 17, 2024|
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5799-1 chromium - security update](https://www.linux.org/threads/dsa-5799-1-chromium-security-update.53556/)|Visit link for details.|Oct 28, 2024|
- |[DSA-5798-1 activemq - security update](https://www.linux.org/threads/dsa-5798-1-activemq-security-update.53538/)|Visit link for details.|Oct 26, 2024|
- |[DSA-5797-1 twisted - security update](https://www.linux.org/threads/dsa-5797-1-twisted-security-update.53527/)|Visit link for details.|Oct 25, 2024|
- |[DSA-5796-1 libheif - security update](https://www.linux.org/threads/dsa-5796-1-libheif-security-update.53526/)|Visit link for details.|Oct 25, 2024|
- |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
- |[USN-7081-1: Go vulnerabilities](https://www.linux.org/threads/usn-7081-1-go-vulnerabilities.53496/)|Visit link for details.|Oct 23, 2024|
- |[USN-7080-1: Unbound vulnerability](https://www.linux.org/threads/usn-7080-1-unbound-vulnerability.53488/)|Visit link for details.|Oct 22, 2024|
- |[USN-7079-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7079-1-webkitgtk-vulnerabilities.53487/)|Visit link for details.|Oct 22, 2024|
- |[USN-7078-1: Firefox vulnerability](https://www.linux.org/threads/usn-7078-1-firefox-vulnerability.53478/)|Visit link for details.|Oct 22, 2024|
- |[DSA-5795-1 python-sql - security update](https://www.linux.org/threads/dsa-5795-1-python-sql-security-update.53475/)|Visit link for details.|Oct 22, 2024|
- |[DSA-5794-1 openjdk-17 - security update](https://www.linux.org/threads/dsa-5794-1-openjdk-17-security-update.53473/)|Visit link for details.|Oct 21, 2024|
  
 
 # CERT-FR
@@ -84,6 +84,12 @@
  |[IBM WebSphere Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20241017)|Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. [Updated on 2024-10-22]Updated Impact, System / Technologies affected, ...| Release Date: 17 Oct 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -95,26 +101,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
- |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  
 
 # EU-CERT
@@ -151,23 +137,6 @@
  |[Drupal security advisory (AV24-611)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-611)|Visit link for details|2024-10-24|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50442410/24 - Vulnérabilité dans les imprimantes Xerox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-imprimantes-xerox)| Une vulnérabilité a été corrigée dans plusieurs versions d'imprimantes Xerox. L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code arbitraire à distance (RCE) sur les…| 29 octobre 2024|
- |[ 50492810/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-15)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de réussir une élévation de…| 28 octobre 2024|
- |[ 50482510/24 - Vulnérabilités affectant les pilotes d’affichage de NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-pilotes-daffichage-de-nvidia-0)| Plusieurs vulnérabilités affectant certains pilotes d’affichage de NVIDIA  ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code,…| 25 octobre 2024|
- |[ 50472410/24 - Zero-day activement exploité affectant Fortinet FortiManager ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-activement-exploite-affectant-fortinet-fortimanager)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            d’un « Zero-day » affectant   les versions…| 24 octobre 2024|
- |[ 50462410/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-2)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Trois de ces vulnérabilités identifiées par «CVE-2024-20412 », …| 24 octobre 2024|
- |[ 50452410/24 - Vulnérabilités affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab-0)| GitLab annonce la disponibilité de mises à jour permettant de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 24 octobre 2024|
- |[ 50422310/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-28)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 23 octobre 2024|
- |[ 50442310/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service. | 23 octobre 2024|
- |[ 50432310/24 - Vulnérabilités critiques dans VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vmware-vcenter)| VMware a déterminé que les correctifs vCenter publiés le 17 septembre 2024 ne traitaient pas entièrement les vulnérabilités « CVE-2024-38812 et CVE-2024-38813 ». Les utilisateurs des…| 23 octobre 2024|
- |[ 50412310/24 - Vulnérabilité affectant des processeurs Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-samsung)| Samsung annonce la correction d’une vulnérabilité affectant ses processeurs Exynos susmentionnés. Cette vulnérabilité est activement exploitée  et peut permettre à un attaquant distant d’élever…| 23 octobre 2024|
- |[ 50392210/24 - Vulnérabilités dans les produits Hikvision HikCentral ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hikvision-hikcentral)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Hikvision HikCentral. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire…| 22 octobre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -183,4 +152,35 @@
  |[NVIDIA - CVE-2024-0132](https://www.cyberveille-sante.gouv.fr/alertes/nvidia-cve-2024-0132-2024-10-25)|Visit link for details.|25/10/2024|
  |[Zoho ManageEngine - CVE-2024-5608](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-5608-2024-10-25)|Visit link for details.|25/10/2024|
  |[Cisco - CVE-2024-20329](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20329-2024-10-25)|Visit link for details.|25/10/2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
+ |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50442410/24 - Vulnérabilité dans les imprimantes Xerox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-imprimantes-xerox)| Une vulnérabilité a été corrigée dans plusieurs versions d'imprimantes Xerox. L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code arbitraire à distance (RCE) sur les…| 29 octobre 2024|
+ |[ 50492810/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-15)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de réussir une élévation de…| 28 octobre 2024|
+ |[ 50482510/24 - Vulnérabilités affectant les pilotes d’affichage de NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-pilotes-daffichage-de-nvidia-0)| Plusieurs vulnérabilités affectant certains pilotes d’affichage de NVIDIA  ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code,…| 25 octobre 2024|
+ |[ 50472410/24 - Zero-day activement exploité affectant Fortinet FortiManager ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-activement-exploite-affectant-fortinet-fortimanager)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            d’un « Zero-day » affectant   les versions…| 24 octobre 2024|
+ |[ 50462410/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-2)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Trois de ces vulnérabilités identifiées par «CVE-2024-20412 », …| 24 octobre 2024|
+ |[ 50452410/24 - Vulnérabilités affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab-0)| GitLab annonce la disponibilité de mises à jour permettant de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 24 octobre 2024|
+ |[ 50422310/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-28)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 23 octobre 2024|
+ |[ 50442310/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service. | 23 octobre 2024|
+ |[ 50432310/24 - Vulnérabilités critiques dans VMware vCenter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-vmware-vcenter)| VMware a déterminé que les correctifs vCenter publiés le 17 septembre 2024 ne traitaient pas entièrement les vulnérabilités « CVE-2024-38812 et CVE-2024-38813 ». Les utilisateurs des…| 23 octobre 2024|
+ |[ 50412310/24 - Vulnérabilité affectant des processeurs Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-samsung)| Samsung annonce la correction d’une vulnérabilité affectant ses processeurs Exynos susmentionnés. Cette vulnérabilité est activement exploitée  et peut permettre à un attaquant distant d’élever…| 23 octobre 2024|
+ |[ 50392210/24 - Vulnérabilités dans les produits Hikvision HikCentral ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hikvision-hikcentral)| Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Hikvision HikCentral. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire…| 22 octobre 2024|
  
