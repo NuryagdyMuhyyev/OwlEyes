@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/10/2024 21:27:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/10/2024 22:19:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7064-2: nano vulnerability](https://www.linux.org/threads/usn-7064-2-nano-vulnerability.53584/)|Visit link for details.|Oct 29, 2024|
- |[DSA-5799-1 chromium - security update](https://www.linux.org/threads/dsa-5799-1-chromium-security-update.53556/)|Visit link for details.|Oct 28, 2024|
- |[DSA-5798-1 activemq - security update](https://www.linux.org/threads/dsa-5798-1-activemq-security-update.53538/)|Visit link for details.|Oct 26, 2024|
- |[DSA-5797-1 twisted - security update](https://www.linux.org/threads/dsa-5797-1-twisted-security-update.53527/)|Visit link for details.|Oct 25, 2024|
- |[DSA-5796-1 libheif - security update](https://www.linux.org/threads/dsa-5796-1-libheif-security-update.53526/)|Visit link for details.|Oct 25, 2024|
- |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
- |[USN-7081-1: Go vulnerabilities](https://www.linux.org/threads/usn-7081-1-go-vulnerabilities.53496/)|Visit link for details.|Oct 23, 2024|
- |[USN-7080-1: Unbound vulnerability](https://www.linux.org/threads/usn-7080-1-unbound-vulnerability.53488/)|Visit link for details.|Oct 22, 2024|
- |[USN-7079-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7079-1-webkitgtk-vulnerabilities.53487/)|Visit link for details.|Oct 22, 2024|
- |[USN-7078-1: Firefox vulnerability](https://www.linux.org/threads/usn-7078-1-firefox-vulnerability.53478/)|Visit link for details.|Oct 22, 2024|
- |[DSA-5795-1 python-sql - security update](https://www.linux.org/threads/dsa-5795-1-python-sql-security-update.53475/)|Visit link for details.|Oct 22, 2024|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -66,6 +49,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7064-2: nano vulnerability](https://www.linux.org/threads/usn-7064-2-nano-vulnerability.53584/)|Visit link for details.|Oct 29, 2024|
+ |[DSA-5799-1 chromium - security update](https://www.linux.org/threads/dsa-5799-1-chromium-security-update.53556/)|Visit link for details.|Oct 28, 2024|
+ |[DSA-5798-1 activemq - security update](https://www.linux.org/threads/dsa-5798-1-activemq-security-update.53538/)|Visit link for details.|Oct 26, 2024|
+ |[DSA-5797-1 twisted - security update](https://www.linux.org/threads/dsa-5797-1-twisted-security-update.53527/)|Visit link for details.|Oct 25, 2024|
+ |[DSA-5796-1 libheif - security update](https://www.linux.org/threads/dsa-5796-1-libheif-security-update.53526/)|Visit link for details.|Oct 25, 2024|
+ |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
+ |[USN-7081-1: Go vulnerabilities](https://www.linux.org/threads/usn-7081-1-go-vulnerabilities.53496/)|Visit link for details.|Oct 23, 2024|
+ |[USN-7080-1: Unbound vulnerability](https://www.linux.org/threads/usn-7080-1-unbound-vulnerability.53488/)|Visit link for details.|Oct 22, 2024|
+ |[USN-7079-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7079-1-webkitgtk-vulnerabilities.53487/)|Visit link for details.|Oct 22, 2024|
+ |[USN-7078-1: Firefox vulnerability](https://www.linux.org/threads/usn-7078-1-firefox-vulnerability.53478/)|Visit link for details.|Oct 22, 2024|
+ |[DSA-5795-1 python-sql - security update](https://www.linux.org/threads/dsa-5795-1-python-sql-security-update.53475/)|Visit link for details.|Oct 22, 2024|
  
 
 # HK-CERT
@@ -117,21 +117,21 @@
  |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
- |[HPE security advisory (AV24-621)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621)|Visit link for details|2024-10-28|
- |[Apple security advisory (AV24-620)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620)|Visit link for details|2024-10-28|
- |[[Control systems] CISA ICS security advisories (AV24–619)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619)|Visit link for details|2024-10-28|
- |[Red Hat security advisory (AV24-618)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618)|Visit link for details|2024-10-28|
- |[Ubuntu security advisory (AV24-617)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-617)|Visit link for details|2024-10-28|
- |[IBM security advisory (AV24-616)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616)|Visit link for details|2024-10-28|
- |[Dell security advisory (AV24-615)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-614)|Visit link for details|2024-10-28|
- |[[Control systems] Siemens security advisory (AV24-614)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614)|Visit link for details|2024-10-25|
- |[HPE security advisory (AV24-613)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-613)|Visit link for details|2024-10-25|
- |[Microsoft Edge security advisory (AV24-612)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612)|Visit link for details|2024-10-25|
+ |[WordPress AMP for WP - CVE-2024-9598](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-amp-wp-cve-2024-9598-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Squid - CVE-2024-45802](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-45802-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Hospital Management System - CVE-2024-48657](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2024-48657-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Cisco - CVE-2024-20495](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20495-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Apple - CVE-2024-44218](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44218-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Grafana - CVE-2024-9264](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-9264-2024-10-18)|Visit link for details.|29/10/2024|
+ |[Aruba - CVE-2023-43506](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-43506-2023-10-26)|Visit link for details.|29/10/2024|
+ |[WatchGuard - CVE-2023-26236](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26236-2023-10-09)|Visit link for details.|29/10/2024|
+ |[HP - CVE-2023-30912](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30912-2023-10-26)|Visit link for details.|29/10/2024|
+ |[Trend Micro - CVE-2024-45334](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-45334-2024-10-28)|Visit link for details.|28/10/2024|
+ |[Spring - CVE-2024-38821](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-38821-2024-10-28)|Visit link for details.|28/10/2024|
  
 
 # EU-CERT
@@ -168,19 +168,19 @@
  |[ 50412310/24 - Vulnérabilité affectant des processeurs Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-des-processeurs-samsung)| Samsung annonce la correction d’une vulnérabilité affectant ses processeurs Exynos susmentionnés. Cette vulnérabilité est activement exploitée  et peut permettre à un attaquant distant d’élever…| 23 octobre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress AMP for WP - CVE-2024-9598](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-amp-wp-cve-2024-9598-2024-10-29)|Visit link for details.|29/10/2024|
- |[Squid - CVE-2024-45802](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-45802-2024-10-29)|Visit link for details.|29/10/2024|
- |[Hospital Management System - CVE-2024-48657](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2024-48657-2024-10-29)|Visit link for details.|29/10/2024|
- |[Cisco - CVE-2024-20495](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20495-2024-10-29)|Visit link for details.|29/10/2024|
- |[Apple - CVE-2024-44218](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44218-2024-10-29)|Visit link for details.|29/10/2024|
- |[Grafana - CVE-2024-9264](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-9264-2024-10-18)|Visit link for details.|29/10/2024|
- |[Aruba - CVE-2023-43506](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-43506-2023-10-26)|Visit link for details.|29/10/2024|
- |[WatchGuard - CVE-2023-26236](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26236-2023-10-09)|Visit link for details.|29/10/2024|
- |[HP - CVE-2023-30912](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30912-2023-10-26)|Visit link for details.|29/10/2024|
- |[Trend Micro - CVE-2024-45334](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-45334-2024-10-28)|Visit link for details.|28/10/2024|
- |[Spring - CVE-2024-38821](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-38821-2024-10-28)|Visit link for details.|28/10/2024|
+ |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
+ |[HPE security advisory (AV24-621)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621)|Visit link for details|2024-10-28|
+ |[Apple security advisory (AV24-620)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620)|Visit link for details|2024-10-28|
+ |[[Control systems] CISA ICS security advisories (AV24–619)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619)|Visit link for details|2024-10-28|
+ |[Red Hat security advisory (AV24-618)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618)|Visit link for details|2024-10-28|
+ |[Ubuntu security advisory (AV24-617)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-617)|Visit link for details|2024-10-28|
+ |[IBM security advisory (AV24-616)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616)|Visit link for details|2024-10-28|
+ |[Dell security advisory (AV24-615)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-614)|Visit link for details|2024-10-28|
+ |[[Control systems] Siemens security advisory (AV24-614)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614)|Visit link for details|2024-10-25|
+ |[HPE security advisory (AV24-613)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-613)|Visit link for details|2024-10-25|
+ |[Microsoft Edge security advisory (AV24-612)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612)|Visit link for details|2024-10-25|
  
