@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/10/2024 01:22:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/10/2024 02:19:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
+ |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
+ |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 24, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 24, 2024|
+ |[CISA, US, and International Partners Release Joint Guidance to Assist Software Manufacturers with Safe Software Deployment Processes](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-us-and-international-partners-release-joint-guidance-assist-software-manufacturers-safe)|Visit link for details.|Oct 24, 2024|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2024|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,22 +62,6 @@
  |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
- |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
- |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 24, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 24, 2024|
- |[CISA, US, and International Partners Release Joint Guidance to Assist Software Manufacturers with Safe Software Deployment Processes](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-us-and-international-partners-release-joint-guidance-assist-software-manufacturers-safe)|Visit link for details.|Oct 24, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2024|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -72,6 +72,19 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[A stored XSS vulnerability has been discovered on OpenText™ Operations Agent (OA). (CVE-2024-5532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
+ |[The Chef Habitat builder is impacted by Indirect Object reference(IDOR) by deletion of personal access token (CVE-2024-9825)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
+ |[WordPress Magazine Blocks plugin <= 1.3.15 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
+ |[WordPress Breeze plugin <= 2.1.14 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50431)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -90,19 +103,6 @@
  |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241024)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-47575, a missing authentication for critical function vulnerability in...|Release Date: 24 Oct 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[A stored XSS vulnerability has been discovered on OpenText™ Operations Agent (OA). (CVE-2024-5532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
- |[The Chef Habitat builder is impacted by Indirect Object reference(IDOR) by deletion of personal access token (CVE-2024-9825)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
- |[WordPress Magazine Blocks plugin <= 1.3.15 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
- |[WordPress Breeze plugin <= 2.1.14 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50431)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -115,23 +115,6 @@
  |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
  |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
  |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
- |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
- |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
- |[HPE security advisory (AV24-621)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621)|Visit link for details|2024-10-28|
- |[Apple security advisory (AV24-620)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620)|Visit link for details|2024-10-28|
- |[[Control systems] CISA ICS security advisories (AV24–619)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619)|Visit link for details|2024-10-28|
- |[Red Hat security advisory (AV24-618)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618)|Visit link for details|2024-10-28|
- |[Ubuntu security advisory (AV24-617)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-617)|Visit link for details|2024-10-28|
- |[IBM security advisory (AV24-616)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616)|Visit link for details|2024-10-28|
- |[Dell security advisory (AV24-615)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-614)|Visit link for details|2024-10-28|
- |[[Control systems] Siemens security advisory (AV24-614)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614)|Visit link for details|2024-10-25|
  
 
 # EU-CERT
@@ -166,6 +149,23 @@
  |[ 50462410/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-2)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Trois de ces vulnérabilités identifiées par «CVE-2024-20412 », …| 24 octobre 2024|
  |[ 50452410/24 - Vulnérabilités affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab-0)| GitLab annonce la disponibilité de mises à jour permettant de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 24 octobre 2024|
  |[ 50422310/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-28)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 23 octobre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
+ |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
+ |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
+ |[HPE security advisory (AV24-621)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621)|Visit link for details|2024-10-28|
+ |[Apple security advisory (AV24-620)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620)|Visit link for details|2024-10-28|
+ |[[Control systems] CISA ICS security advisories (AV24–619)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619)|Visit link for details|2024-10-28|
+ |[Red Hat security advisory (AV24-618)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618)|Visit link for details|2024-10-28|
+ |[Ubuntu security advisory (AV24-617)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-617)|Visit link for details|2024-10-28|
+ |[IBM security advisory (AV24-616)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616)|Visit link for details|2024-10-28|
+ |[Dell security advisory (AV24-615)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-614)|Visit link for details|2024-10-28|
+ |[[Control systems] Siemens security advisory (AV24-614)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614)|Visit link for details|2024-10-25|
  
 
 # CERT-SANTE
