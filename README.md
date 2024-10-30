@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/10/2024 18:28:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/10/2024 19:19:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7085-1: X.Org X Server vulnerability](https://www.linux.org/threads/usn-7085-1-x-org-x-server-vulnerability.53598/)|Visit link for details.|Oct 30, 2024|
  |[DSA-5800-1 xorg-server - security update](https://www.linux.org/threads/dsa-5800-1-xorg-server-security-update.53592/)|Visit link for details.|Oct 30, 2024|
  |[USN-7084-1: urllib3 vulnerability](https://www.linux.org/threads/usn-7084-1-urllib3-vulnerability.53588/)|Visit link for details.|Oct 29, 2024|
  |[USN-7064-2: nano vulnerability](https://www.linux.org/threads/usn-7064-2-nano-vulnerability.53584/)|Visit link for details.|Oct 29, 2024|
@@ -59,7 +60,18 @@
  |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
  |[USN-7081-1: Go vulnerabilities](https://www.linux.org/threads/usn-7081-1-go-vulnerabilities.53496/)|Visit link for details.|Oct 23, 2024|
  |[USN-7080-1: Unbound vulnerability](https://www.linux.org/threads/usn-7080-1-unbound-vulnerability.53488/)|Visit link for details.|Oct 22, 2024|
- |[USN-7079-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7079-1-webkitgtk-vulnerabilities.53487/)|Visit link for details.|Oct 22, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -86,29 +98,9 @@
  |[The Chef Habitat builder is impacted by Indirect Object reference(IDOR) by deletion of personal access token (CVE-2024-9825)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
  |[WordPress Magazine Blocks plugin <= 1.3.15 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
  |[WordPress Breeze plugin <= 2.1.14 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50431)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
+ |[WordPress Post Grid and Gutenberg Blocks plugin <= 2.2.93 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
- |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  
 
 # EU-CERT
@@ -128,16 +120,25 @@
  |[2024-104: Critical Vulnerability in NVIDIA Container Toolkit](https://cert.europa.eu/publications/security-advisories/2024-104/)|On September 26, 2024, a security advisory was issued regarding a critical vulnerability, CCVE-2024-0132, affecting NVIDIA Container Toolkit. NVIDIA Container Toolkit is providing containerised AI applications with access to GPU resources. This vulnerability impacts any AI application that is running the vulnerable container toolkit to enable GPU support. |Friday, September 27, 2024 11:47:10 AM CEST|
  
 
-# CERT-FR
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
+ |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  
 
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 50483010/24 - Vulnérabilité critique dans les serveurs Xlight SFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-serveurs-xlight-sftp)| Une vulnérabilité critique a été corrigée affectant les serveurs Xlight SFTP, une solution FTP et SFTP populaire basée sur Windows. Cette vulnérabilité permet à un attaquant non authentifié ayant…| 30 octobre 2024|
  |[ 50473010/24 - Vulnérabilité critique affectant QNAP HBS 3 Hybrid Backup Sync ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-hbs-3-hybrid-backup-sync)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit HBS 3 Hybrid Backup Sync. L'exploitation  de cette…| 30 octobre 2024|
  |[ 50463010/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système…| 30 octobre 2024|
  |[ 50452910/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-2)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à…| 29 octobre 2024|
@@ -148,7 +149,6 @@
  |[ 50462410/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-2)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Trois de ces vulnérabilités identifiées par «CVE-2024-20412 », …| 24 octobre 2024|
  |[ 50452410/24 - Vulnérabilités affectant GitLab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab-0)| GitLab annonce la disponibilité de mises à jour permettant de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 24 octobre 2024|
  |[ 50422310/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-28)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 23 octobre 2024|
- |[ 50442310/24 - Vulnérabilité dans MongoDB Server ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-mongodb-server-2)| Une vulnérabilité a été corrigée dans les versions susmentionnées de MongoDB server. Une exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service. | 23 octobre 2024|
  
 
 # CA-CCS
@@ -172,6 +172,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[WithSecure - CVE-2023-43766](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-43766-2023-10-04)|Visit link for details.|30/10/2024|
+ |[Trend Micro Apex One - CVE-2023-41179](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-apex-one-cve-2023-41179-2023-09-20)|Visit link for details.|30/10/2024|
+ |[Oracle - CVE-2023-21987](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21987-2023-04-26)|Visit link for details.|30/10/2024|
  |[WordPress AMP for WP - CVE-2024-9598](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-amp-wp-cve-2024-9598-2024-10-29)|Visit link for details.|29/10/2024|
  |[Squid - CVE-2024-45802](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-45802-2024-10-29)|Visit link for details.|29/10/2024|
  |[Hospital Management System - CVE-2024-48657](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2024-48657-2024-10-29)|Visit link for details.|29/10/2024|
@@ -180,7 +183,4 @@
  |[Grafana - CVE-2024-9264](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-9264-2024-10-18)|Visit link for details.|29/10/2024|
  |[Aruba - CVE-2023-43506](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-43506-2023-10-26)|Visit link for details.|29/10/2024|
  |[WatchGuard - CVE-2023-26236](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26236-2023-10-09)|Visit link for details.|29/10/2024|
- |[HP - CVE-2023-30912](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2023-30912-2023-10-26)|Visit link for details.|29/10/2024|
- |[Trend Micro - CVE-2024-45334](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-45334-2024-10-28)|Visit link for details.|28/10/2024|
- |[Spring - CVE-2024-38821](https://www.cyberveille-sante.gouv.fr/alertes/spring-cve-2024-38821-2024-10-28)|Visit link for details.|28/10/2024|
  
