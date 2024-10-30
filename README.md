@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/10/2024 19:19:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/10/2024 20:23:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[USN-7080-1: Unbound vulnerability](https://www.linux.org/threads/usn-7080-1-unbound-vulnerability.53488/)|Visit link for details.|Oct 22, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -90,6 +84,26 @@
  |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241024)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:Exploit in the wild has been detected for CVE-2024-47575, a missing authentication for critical function vulnerability in...|Release Date: 24 Oct 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
+ |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -98,7 +112,7 @@
  |[The Chef Habitat builder is impacted by Indirect Object reference(IDOR) by deletion of personal access token (CVE-2024-9825)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
  |[WordPress Magazine Blocks plugin <= 1.3.15 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
  |[WordPress Breeze plugin <= 2.1.14 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50431)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
- |[WordPress Post Grid and Gutenberg Blocks plugin <= 2.2.93 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -120,18 +134,21 @@
  |[2024-104: Critical Vulnerability in NVIDIA Container Toolkit](https://cert.europa.eu/publications/security-advisories/2024-104/)|On September 26, 2024, a security advisory was issued regarding a critical vulnerability, CCVE-2024-0132, affecting NVIDIA Container Toolkit. NVIDIA Container Toolkit is providing containerised AI applications with access to GPU resources. This vulnerability impacts any AI application that is running the vulnerable container toolkit to enable GPU support. |Friday, September 27, 2024 11:47:10 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
- |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
+ |[WithSecure - CVE-2023-43766](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-43766-2023-10-04)|Visit link for details.|30/10/2024|
+ |[Trend Micro Apex One - CVE-2023-41179](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-apex-one-cve-2023-41179-2023-09-20)|Visit link for details.|30/10/2024|
+ |[Oracle - CVE-2023-21987](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21987-2023-04-26)|Visit link for details.|30/10/2024|
+ |[WordPress AMP for WP - CVE-2024-9598](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-amp-wp-cve-2024-9598-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Squid - CVE-2024-45802](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-45802-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Hospital Management System - CVE-2024-48657](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2024-48657-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Cisco - CVE-2024-20495](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20495-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Apple - CVE-2024-44218](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44218-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Grafana - CVE-2024-9264](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-9264-2024-10-18)|Visit link for details.|29/10/2024|
+ |[Aruba - CVE-2023-43506](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-43506-2023-10-26)|Visit link for details.|29/10/2024|
+ |[WatchGuard - CVE-2023-26236](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26236-2023-10-09)|Visit link for details.|29/10/2024|
  
 
 # MA-CERT
@@ -155,6 +172,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
  |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
  |[HPE security advisory (AV24-621)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621)|Visit link for details|2024-10-28|
  |[Apple security advisory (AV24-620)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620)|Visit link for details|2024-10-28|
@@ -165,22 +183,4 @@
  |[Dell security advisory (AV24-615)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-614)|Visit link for details|2024-10-28|
  |[[Control systems] Siemens security advisory (AV24-614)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614)|Visit link for details|2024-10-25|
  |[HPE security advisory (AV24-613)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-613)|Visit link for details|2024-10-25|
- |[Microsoft Edge security advisory (AV24-612)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612)|Visit link for details|2024-10-25|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WithSecure - CVE-2023-43766](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-43766-2023-10-04)|Visit link for details.|30/10/2024|
- |[Trend Micro Apex One - CVE-2023-41179](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-apex-one-cve-2023-41179-2023-09-20)|Visit link for details.|30/10/2024|
- |[Oracle - CVE-2023-21987](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21987-2023-04-26)|Visit link for details.|30/10/2024|
- |[WordPress AMP for WP - CVE-2024-9598](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-amp-wp-cve-2024-9598-2024-10-29)|Visit link for details.|29/10/2024|
- |[Squid - CVE-2024-45802](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-45802-2024-10-29)|Visit link for details.|29/10/2024|
- |[Hospital Management System - CVE-2024-48657](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2024-48657-2024-10-29)|Visit link for details.|29/10/2024|
- |[Cisco - CVE-2024-20495](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20495-2024-10-29)|Visit link for details.|29/10/2024|
- |[Apple - CVE-2024-44218](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44218-2024-10-29)|Visit link for details.|29/10/2024|
- |[Grafana - CVE-2024-9264](https://www.cyberveille-sante.gouv.fr/alertes/grafana-cve-2024-9264-2024-10-18)|Visit link for details.|29/10/2024|
- |[Aruba - CVE-2023-43506](https://www.cyberveille-sante.gouv.fr/alertes/aruba-cve-2023-43506-2023-10-26)|Visit link for details.|29/10/2024|
- |[WatchGuard - CVE-2023-26236](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2023-26236-2023-10-09)|Visit link for details.|29/10/2024|
  
