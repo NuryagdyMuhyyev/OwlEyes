@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/10/2024 20:22:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/10/2024 21:27:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,12 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
 
 # LINUX-SEC
 
@@ -69,6 +63,12 @@
  
 
 # OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -172,9 +172,9 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[PostgreSQL - CVE-2024-6238](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-6238-2024-07-03)|Visit link for details.|31/10/2024|
- |[Oracle - CVE-2023-21990](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21990-2023-04-19)|Visit link for details.|31/10/2024|
  |[Oracle - CVE-2023-21923](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21923-2023-04-19)|Visit link for details.|31/10/2024|
+ |[Oracle - CVE-2023-21990](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21990-2023-04-19)|Visit link for details.|31/10/2024|
+ |[PostgreSQL - CVE-2024-6238](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-6238-2024-07-03)|Visit link for details.|31/10/2024|
  |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|30/10/2024|
  |[Linux - CVE-2024-50086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50086-2024-10-30)|Visit link for details.|30/10/2024|
  |[Mozilla - CVE-2024-10459](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-10459-2024-10-30)|Visit link for details.|30/10/2024|
