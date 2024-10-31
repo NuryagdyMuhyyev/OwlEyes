@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/10/2024 10:21:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/10/2024 11:29:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7085-2: X.Org X Server vulnerability](https://www.linux.org/threads/usn-7085-2-x-org-x-server-vulnerability.53602/)|Visit link for details.|Oct 30, 2024|
+ |[USN-7084-2: pip vulnerability](https://www.linux.org/threads/usn-7084-2-pip-vulnerability.53601/)|Visit link for details.|Oct 30, 2024|
+ |[USN-7085-1: X.Org X Server vulnerability](https://www.linux.org/threads/usn-7085-1-x-org-x-server-vulnerability.53598/)|Visit link for details.|Oct 30, 2024|
+ |[DSA-5800-1 xorg-server - security update](https://www.linux.org/threads/dsa-5800-1-xorg-server-security-update.53592/)|Visit link for details.|Oct 30, 2024|
+ |[USN-7084-1: urllib3 vulnerability](https://www.linux.org/threads/usn-7084-1-urllib3-vulnerability.53588/)|Visit link for details.|Oct 29, 2024|
+ |[USN-7064-2: nano vulnerability](https://www.linux.org/threads/usn-7064-2-nano-vulnerability.53584/)|Visit link for details.|Oct 29, 2024|
+ |[DSA-5799-1 chromium - security update](https://www.linux.org/threads/dsa-5799-1-chromium-security-update.53556/)|Visit link for details.|Oct 28, 2024|
+ |[DSA-5798-1 activemq - security update](https://www.linux.org/threads/dsa-5798-1-activemq-security-update.53538/)|Visit link for details.|Oct 26, 2024|
+ |[DSA-5797-1 twisted - security update](https://www.linux.org/threads/dsa-5797-1-twisted-security-update.53527/)|Visit link for details.|Oct 25, 2024|
+ |[DSA-5796-1 libheif - security update](https://www.linux.org/threads/dsa-5796-1-libheif-security-update.53526/)|Visit link for details.|Oct 25, 2024|
+ |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,21 +62,10 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2024/10/22/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Oct 22, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-7085-2: X.Org X Server vulnerability](https://www.linux.org/threads/usn-7085-2-x-org-x-server-vulnerability.53602/)|Visit link for details.|Oct 30, 2024|
- |[USN-7084-2: pip vulnerability](https://www.linux.org/threads/usn-7084-2-pip-vulnerability.53601/)|Visit link for details.|Oct 30, 2024|
- |[USN-7085-1: X.Org X Server vulnerability](https://www.linux.org/threads/usn-7085-1-x-org-x-server-vulnerability.53598/)|Visit link for details.|Oct 30, 2024|
- |[DSA-5800-1 xorg-server - security update](https://www.linux.org/threads/dsa-5800-1-xorg-server-security-update.53592/)|Visit link for details.|Oct 30, 2024|
- |[USN-7084-1: urllib3 vulnerability](https://www.linux.org/threads/usn-7084-1-urllib3-vulnerability.53588/)|Visit link for details.|Oct 29, 2024|
- |[USN-7064-2: nano vulnerability](https://www.linux.org/threads/usn-7064-2-nano-vulnerability.53584/)|Visit link for details.|Oct 29, 2024|
- |[DSA-5799-1 chromium - security update](https://www.linux.org/threads/dsa-5799-1-chromium-security-update.53556/)|Visit link for details.|Oct 28, 2024|
- |[DSA-5798-1 activemq - security update](https://www.linux.org/threads/dsa-5798-1-activemq-security-update.53538/)|Visit link for details.|Oct 26, 2024|
- |[DSA-5797-1 twisted - security update](https://www.linux.org/threads/dsa-5797-1-twisted-security-update.53527/)|Visit link for details.|Oct 25, 2024|
- |[DSA-5796-1 libheif - security update](https://www.linux.org/threads/dsa-5796-1-libheif-security-update.53526/)|Visit link for details.|Oct 25, 2024|
- |[USN-7082-1: libheif vulnerability](https://www.linux.org/threads/usn-7082-1-libheif-vulnerability.53497/)|Visit link for details.|Oct 23, 2024|
  
 
 # HK-CERT
@@ -84,23 +90,31 @@
  |---|---|---|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress Qode Essential Addons plugin <= 1.6.3 - Local File Inclusion vulnerability (CVE-2024-50457)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
- |[A stored XSS vulnerability has been discovered on OpenText™ Operations Agent (OA). (CVE-2024-5532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
- |[The Chef Habitat builder is impacted by Indirect Object reference(IDOR) by deletion of personal access token (CVE-2024-9825)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
- |[WordPress Magazine Blocks plugin <= 1.3.15 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 28, 2024|
+ |[Certain HP Print Products–Potential Remote Code Execution and/or Elevation of Privilege with the HP Smart Universal Printing Driver (CVE-2024-9419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2024|
+ |[Cross-Site Scripting In Privileged Identity (CVE-2024-9110)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2024|
+ |[I, Librarian has a Stored XSS vulnerability in Supplemental Files (CVE-2024-50344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2024|
+ |[ICG.AspNetCore.Utilities.CloudStorage's Secure Token Durations Different Than Expected (CVE-2024-50353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
+ |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
+ |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
+ |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
+ |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
+ |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
+ |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  
 
 # EU-CERT
@@ -120,23 +134,6 @@
  |[2024-104: Critical Vulnerability in NVIDIA Container Toolkit](https://cert.europa.eu/publications/security-advisories/2024-104/)|On September 26, 2024, a security advisory was issued regarding a critical vulnerability, CCVE-2024-0132, affecting NVIDIA Container Toolkit. NVIDIA Container Toolkit is providing containerised AI applications with access to GPU resources. This vulnerability impacts any AI application that is running the vulnerable container toolkit to enable GPU support. |Friday, September 27, 2024 11:47:10 AM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|30/10/2024|
- |[Linux - CVE-2024-50086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50086-2024-10-30)|Visit link for details.|30/10/2024|
- |[Mozilla - CVE-2024-10459](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-10459-2024-10-30)|Visit link for details.|30/10/2024|
- |[ServiceNow - CVE-2024-8923](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-8923-2024-10-30)|Visit link for details.|30/10/2024|
- |[X.org - CVE-2024-9632](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-9632-2024-10-30)|Visit link for details.|30/10/2024|
- |[Trend Micro Apex One - CVE-2023-41179](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-apex-one-cve-2023-41179-2023-09-20)|Visit link for details.|30/10/2024|
- |[Oracle - CVE-2023-21987](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21987-2023-04-26)|Visit link for details.|30/10/2024|
- |[WithSecure - CVE-2023-43766](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-43766-2023-10-04)|Visit link for details.|30/10/2024|
- |[WordPress AMP for WP - CVE-2024-9598](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-amp-wp-cve-2024-9598-2024-10-29)|Visit link for details.|29/10/2024|
- |[Squid - CVE-2024-45802](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-45802-2024-10-29)|Visit link for details.|29/10/2024|
- |[Hospital Management System - CVE-2024-48657](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2024-48657-2024-10-29)|Visit link for details.|29/10/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -154,6 +151,23 @@
  |[ 50422310/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-28)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 23 octobre 2024|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|30/10/2024|
+ |[Linux - CVE-2024-50086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50086-2024-10-30)|Visit link for details.|30/10/2024|
+ |[Mozilla - CVE-2024-10459](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-10459-2024-10-30)|Visit link for details.|30/10/2024|
+ |[ServiceNow - CVE-2024-8923](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-8923-2024-10-30)|Visit link for details.|30/10/2024|
+ |[X.org - CVE-2024-9632](https://www.cyberveille-sante.gouv.fr/alertes/xorg-cve-2024-9632-2024-10-30)|Visit link for details.|30/10/2024|
+ |[Trend Micro Apex One - CVE-2023-41179](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-apex-one-cve-2023-41179-2023-09-20)|Visit link for details.|30/10/2024|
+ |[Oracle - CVE-2023-21987](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21987-2023-04-26)|Visit link for details.|30/10/2024|
+ |[WithSecure - CVE-2023-43766](https://www.cyberveille-sante.gouv.fr/alertes/withsecure-cve-2023-43766-2023-10-04)|Visit link for details.|30/10/2024|
+ |[WordPress AMP for WP - CVE-2024-9598](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-amp-wp-cve-2024-9598-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Squid - CVE-2024-45802](https://www.cyberveille-sante.gouv.fr/alertes/squid-cve-2024-45802-2024-10-29)|Visit link for details.|29/10/2024|
+ |[Hospital Management System - CVE-2024-48657](https://www.cyberveille-sante.gouv.fr/alertes/hospital-management-system-cve-2024-48657-2024-10-29)|Visit link for details.|29/10/2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -169,18 +183,4 @@
  |[IBM security advisory (AV24-616)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616)|Visit link for details|2024-10-28|
  |[Dell security advisory (AV24-615)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-614)|Visit link for details|2024-10-28|
  |[[Control systems] Siemens security advisory (AV24-614)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614)|Visit link for details|2024-10-25|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
- |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
  
