@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/11/2024 02:20:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/11/2024 03:19:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments ](https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments)|Visit link for details.|Oct 31, 2024|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2024|
  |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
  |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
@@ -42,7 +43,12 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 24, 2024|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 24, 2024|
  |[CISA, US, and International Partners Release Joint Guidance to Assist Software Manufacturers with Safe Software Deployment Processes](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-us-and-international-partners-release-joint-guidance-assist-software-manufacturers-safe)|Visit link for details.|Oct 24, 2024|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Oct 23, 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # LINUX-SEC
@@ -60,12 +66,6 @@
  |[USN-7085-1: X.Org X Server vulnerability](https://www.linux.org/threads/usn-7085-1-x-org-x-server-vulnerability.53598/)|Visit link for details.|Oct 30, 2024|
  |[DSA-5800-1 xorg-server - security update](https://www.linux.org/threads/dsa-5800-1-xorg-server-security-update.53592/)|Visit link for details.|Oct 30, 2024|
  |[USN-7084-1: urllib3 vulnerability](https://www.linux.org/threads/usn-7084-1-urllib3-vulnerability.53588/)|Visit link for details.|Oct 29, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
@@ -90,48 +90,24 @@
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241025)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and cross-site scripting on the targeted system.|Release Date: 25 Oct 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Certain HP Print Products–Potential Remote Code Execution and/or Elevation of Privilege with the HP Smart Universal Printing Driver (CVE-2024-9419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2024|
- |[Cross-Site Scripting In Privileged Identity (CVE-2024-9110)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2024|
- |[I, Librarian has a Stored XSS vulnerability in Supplemental Files (CVE-2024-50344)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2024|
- |[ICG.AspNetCore.Utilities.CloudStorage's Secure Token Durations Different Than Expected (CVE-2024-50353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2024|
- |[CVE-2024-31151 (CVE-2024-31151)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 30, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Nikon NEF Codec Thumbnail Provider NRW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1422/)|Visit link for details|2024-10-24|
- |[VMware HCX listExtensions SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1421/)|Visit link for details|2024-10-23|
- |[Schneider Electric EcoStruxure Data Center Expert XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1420/)|Visit link for details|2024-10-18|
- |[Trend Micro Deep Security Improper Access Control Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1419/)|Visit link for details|2024-10-17|
- |[Trend Micro Cloud Edge REST API Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1418/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1417/)|Visit link for details|2024-10-17|
- |[Schneider Electric EcoStruxure Data Center Expert Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1416/)|Visit link for details|2024-10-17|
- |[Schneider Electric Zelio Soft 2 ZM2 File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1415/)|Visit link for details|2024-10-17|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-625)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625)|Visit link for details|2024-10-31|
- |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
- |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
- |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
- |[HPE security advisory (AV24-621)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621)|Visit link for details|2024-10-28|
- |[Apple security advisory (AV24-620)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620)|Visit link for details|2024-10-28|
- |[[Control systems] CISA ICS security advisories (AV24–619)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619)|Visit link for details|2024-10-28|
- |[Red Hat security advisory (AV24-618)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618)|Visit link for details|2024-10-28|
- |[Ubuntu security advisory (AV24-617)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-617)|Visit link for details|2024-10-28|
- |[IBM security advisory (AV24-616)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616)|Visit link for details|2024-10-28|
- |[Dell security advisory (AV24-615)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-614)|Visit link for details|2024-10-28|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1451/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1450/)|Visit link for details|2024-10-31|
+ |[Apple macOS CoreFoundation Font Glyphs Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1449/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1448/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1447/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1446/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1445/)|Visit link for details|2024-10-31|
+ |[Apple SceneKit Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1444/)|Visit link for details|2024-10-31|
  
 
 # EU-CERT
@@ -183,4 +159,21 @@
  |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|30/10/2024|
  |[Linux - CVE-2024-50086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50086-2024-10-30)|Visit link for details.|30/10/2024|
  |[Mozilla - CVE-2024-10459](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-10459-2024-10-30)|Visit link for details.|30/10/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV24-625)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625)|Visit link for details|2024-10-31|
+ |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
+ |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
+ |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
+ |[HPE security advisory (AV24-621)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621)|Visit link for details|2024-10-28|
+ |[Apple security advisory (AV24-620)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620)|Visit link for details|2024-10-28|
+ |[[Control systems] CISA ICS security advisories (AV24–619)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619)|Visit link for details|2024-10-28|
+ |[Red Hat security advisory (AV24-618)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618)|Visit link for details|2024-10-28|
+ |[Ubuntu security advisory (AV24-617)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-617)|Visit link for details|2024-10-28|
+ |[IBM security advisory (AV24-616)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616)|Visit link for details|2024-10-28|
+ |[Dell security advisory (AV24-615)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-614)|Visit link for details|2024-10-28|
  
