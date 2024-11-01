@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/11/2024 12:20:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/11/2024 13:26:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,7 +62,7 @@
  |[USN-7084-1: urllib3 vulnerability](https://www.linux.org/threads/usn-7084-1-urllib3-vulnerability.53588/)|Visit link for details.|Oct 29, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -84,12 +84,6 @@
  |[Squid Products Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/squid-products-denial-of-service-vulnerability_20241029)|A vulnerability was identified in Squid Products. A remote user could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 29 Oct 2024 |
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +95,12 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -134,21 +134,21 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV24-625)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625)|Visit link for details|2024-10-31|
- |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
- |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
- |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
- |[HPE security advisory (AV24-621)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621)|Visit link for details|2024-10-28|
- |[Apple security advisory (AV24-620)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620)|Visit link for details|2024-10-28|
- |[[Control systems] CISA ICS security advisories (AV24–619)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619)|Visit link for details|2024-10-28|
- |[Red Hat security advisory (AV24-618)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618)|Visit link for details|2024-10-28|
- |[Ubuntu security advisory (AV24-617)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-617)|Visit link for details|2024-10-28|
- |[IBM security advisory (AV24-616)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616)|Visit link for details|2024-10-28|
- |[Dell security advisory (AV24-615)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-614)|Visit link for details|2024-10-28|
+ |[F5 BIG-IP - CVE-2024-41996](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-41996-2024-10-31)|Visit link for details.|31/10/2024|
+ |[ServiceNow - CVE-2024-8924](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-8924-2024-10-31)|Visit link for details.|31/10/2024|
+ |[HP - CVE-2024-9419](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2024-9419-2024-10-31)|Visit link for details.|31/10/2024|
+ |[Codezips Hospital Appointment System - CVE-2024-10449](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-appointment-system-cve-2024-10449-2024-10-31)|Visit link for details.|31/10/2024|
+ |[Apple - CVE-2024-44259](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44259-2024-10-31)|Visit link for details.|31/10/2024|
+ |[Oracle - CVE-2023-21923](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21923-2023-04-19)|Visit link for details.|31/10/2024|
+ |[Oracle - CVE-2023-21990](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21990-2023-04-19)|Visit link for details.|31/10/2024|
+ |[PostgreSQL - CVE-2024-6238](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-6238-2024-07-03)|Visit link for details.|31/10/2024|
+ |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|30/10/2024|
+ |[Linux - CVE-2024-50086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50086-2024-10-30)|Visit link for details.|30/10/2024|
+ |[Mozilla - CVE-2024-10459](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-10459-2024-10-30)|Visit link for details.|30/10/2024|
  
 
 # MA-CERT
@@ -168,19 +168,19 @@
  |[ 50462410/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-2)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Trois de ces vulnérabilités identifiées par «CVE-2024-20412 », …| 24 octobre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[F5 BIG-IP - CVE-2024-41996](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-41996-2024-10-31)|Visit link for details.|31/10/2024|
- |[ServiceNow - CVE-2024-8924](https://www.cyberveille-sante.gouv.fr/alertes/servicenow-cve-2024-8924-2024-10-31)|Visit link for details.|31/10/2024|
- |[HP - CVE-2024-9419](https://www.cyberveille-sante.gouv.fr/alertes/hp-cve-2024-9419-2024-10-31)|Visit link for details.|31/10/2024|
- |[Codezips Hospital Appointment System - CVE-2024-10449](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-appointment-system-cve-2024-10449-2024-10-31)|Visit link for details.|31/10/2024|
- |[Apple - CVE-2024-44259](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44259-2024-10-31)|Visit link for details.|31/10/2024|
- |[Oracle - CVE-2023-21923](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21923-2023-04-19)|Visit link for details.|31/10/2024|
- |[Oracle - CVE-2023-21990](https://www.cyberveille-sante.gouv.fr/alertes/oracle-cve-2023-21990-2023-04-19)|Visit link for details.|31/10/2024|
- |[PostgreSQL - CVE-2024-6238](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-6238-2024-07-03)|Visit link for details.|31/10/2024|
- |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|30/10/2024|
- |[Linux - CVE-2024-50086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50086-2024-10-30)|Visit link for details.|30/10/2024|
- |[Mozilla - CVE-2024-10459](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-10459-2024-10-30)|Visit link for details.|30/10/2024|
+ |[Google Chrome security advisory (AV24-625)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625)|Visit link for details|2024-10-31|
+ |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
+ |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
+ |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
+ |[HPE security advisory (AV24-621)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621)|Visit link for details|2024-10-28|
+ |[Apple security advisory (AV24-620)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620)|Visit link for details|2024-10-28|
+ |[[Control systems] CISA ICS security advisories (AV24–619)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619)|Visit link for details|2024-10-28|
+ |[Red Hat security advisory (AV24-618)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618)|Visit link for details|2024-10-28|
+ |[Ubuntu security advisory (AV24-617)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-617)|Visit link for details|2024-10-28|
+ |[IBM security advisory (AV24-616)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616)|Visit link for details|2024-10-28|
+ |[Dell security advisory (AV24-615)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-614)|Visit link for details|2024-10-28|
  
