@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/11/2024 17:42:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/11/2024 18:29:53 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -62,12 +62,6 @@
  |[USN-7084-2: pip vulnerability](https://www.linux.org/threads/usn-7084-2-pip-vulnerability.53601/)|Visit link for details.|Oct 30, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -88,6 +82,12 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition, data manipulation, elevation of privilege and security restriction bypass on the targeted system.[Updated...| Release Date: 3 Oct 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241030)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and data manipulation on the targeted system.|Release Date: 30 Oct 2024 |
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241030)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass and spoofing on the targeted system.|Release Date: 30 Oct 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -120,20 +120,6 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1451/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1450/)|Visit link for details|2024-10-31|
- |[Apple macOS CoreFoundation Font Glyphs Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1449/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1448/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1447/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1446/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1445/)|Visit link for details|2024-10-31|
- |[Apple SceneKit Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1444/)|Visit link for details|2024-10-31|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -151,21 +137,18 @@
  |[IBM security advisory (AV24-616)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616)|Visit link for details|2024-10-28|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 50503110/24 - Vulnérabilité dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-plugin-litespeed-cache-de-wordpress)| Une vulnérabilité a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut permettre à un…| 31 octobre 2024|
- |[ 50493110/24 - Zero-day affectant le service SMB sur QNAP ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-service-smb-sur-qnap)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant les versions susmentionnées du service SMB sur ses produits QNAP.…| 31 octobre 2024|
- |[ 50483010/24 - Vulnérabilité critique dans les serveurs Xlight SFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-serveurs-xlight-sftp)| Une vulnérabilité critique a été corrigée affectant les serveurs Xlight SFTP, une solution FTP et SFTP populaire basée sur Windows. Cette vulnérabilité permet à un attaquant non authentifié ayant…| 30 octobre 2024|
- |[ 50473010/24 - Vulnérabilité critique affectant QNAP HBS 3 Hybrid Backup Sync ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-hbs-3-hybrid-backup-sync)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit HBS 3 Hybrid Backup Sync. L'exploitation  de cette…| 30 octobre 2024|
- |[ 50463010/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système…| 30 octobre 2024|
- |[ 50452910/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-2)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à…| 29 octobre 2024|
- |[ 50442410/24 - Vulnérabilité dans les imprimantes Xerox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-imprimantes-xerox)| Une vulnérabilité a été corrigée dans plusieurs versions d'imprimantes Xerox. L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code arbitraire à distance (RCE) sur les…| 29 octobre 2024|
- |[ 50492810/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-15)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de réussir une élévation de…| 28 octobre 2024|
- |[ 50482510/24 - Vulnérabilités affectant les pilotes d’affichage de NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-pilotes-daffichage-de-nvidia-0)| Plusieurs vulnérabilités affectant certains pilotes d’affichage de NVIDIA  ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code,…| 25 octobre 2024|
- |[ 50472410/24 - Zero-day activement exploité affectant Fortinet FortiManager ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-activement-exploite-affectant-fortinet-fortimanager)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            d’un « Zero-day » affectant   les versions…| 24 octobre 2024|
- |[ 50462410/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-2)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Trois de ces vulnérabilités identifiées par «CVE-2024-20412 », …| 24 octobre 2024|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1451/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1450/)|Visit link for details|2024-10-31|
+ |[Apple macOS CoreFoundation Font Glyphs Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1449/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1448/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1447/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1446/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1445/)|Visit link for details|2024-10-31|
+ |[Apple SceneKit Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1444/)|Visit link for details|2024-10-31|
  
 
 # CERT-SANTE
@@ -183,4 +166,21 @@
  |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|30/10/2024|
  |[Linux - CVE-2024-50086](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50086-2024-10-30)|Visit link for details.|30/10/2024|
  |[Mozilla - CVE-2024-10459](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-10459-2024-10-30)|Visit link for details.|30/10/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50503110/24 - Vulnérabilité dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-plugin-litespeed-cache-de-wordpress)| Une vulnérabilité a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut permettre à un…| 31 octobre 2024|
+ |[ 50493110/24 - Zero-day affectant le service SMB sur QNAP ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-service-smb-sur-qnap)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant les versions susmentionnées du service SMB sur ses produits QNAP.…| 31 octobre 2024|
+ |[ 50483010/24 - Vulnérabilité critique dans les serveurs Xlight SFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-serveurs-xlight-sftp)| Une vulnérabilité critique a été corrigée affectant les serveurs Xlight SFTP, une solution FTP et SFTP populaire basée sur Windows. Cette vulnérabilité permet à un attaquant non authentifié ayant…| 30 octobre 2024|
+ |[ 50473010/24 - Vulnérabilité critique affectant QNAP HBS 3 Hybrid Backup Sync ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-hbs-3-hybrid-backup-sync)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit HBS 3 Hybrid Backup Sync. L'exploitation  de cette…| 30 octobre 2024|
+ |[ 50463010/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système…| 30 octobre 2024|
+ |[ 50452910/24 - Vulnérabilités critiques dans les produits Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-apple-2)| Apple a publié des mises à jour de sécurité d'urgence pour corriger plusieurs  vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à…| 29 octobre 2024|
+ |[ 50442410/24 - Vulnérabilité dans les imprimantes Xerox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-imprimantes-xerox)| Une vulnérabilité a été corrigée dans plusieurs versions d'imprimantes Xerox. L’exploitation de cette faille peut permettre à un attaquant d'exécuter du code arbitraire à distance (RCE) sur les…| 29 octobre 2024|
+ |[ 50492810/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-15)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de réussir une élévation de…| 28 octobre 2024|
+ |[ 50482510/24 - Vulnérabilités affectant les pilotes d’affichage de NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-pilotes-daffichage-de-nvidia-0)| Plusieurs vulnérabilités affectant certains pilotes d’affichage de NVIDIA  ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code,…| 25 octobre 2024|
+ |[ 50472410/24 - Zero-day activement exploité affectant Fortinet FortiManager ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-activement-exploite-affectant-fortinet-fortimanager)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            d’un « Zero-day » affectant   les versions…| 24 octobre 2024|
+ |[ 50462410/24 - Vulnérabilités affectant des produits de Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-cisco-2)| Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Trois de ces vulnérabilités identifiées par «CVE-2024-20412 », …| 24 octobre 2024|
  
