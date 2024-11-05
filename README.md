@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/11/2024 11:29:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/11/2024 12:19:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,29 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 24, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7083-1: OpenJPEG vulnerabilities](https://www.linux.org/threads/usn-7083-1-openjpeg-vulnerabilities.53665/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7089-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-2-linux-kernel-vulnerabilities.53663/)|Visit link for details.|Nov 4, 2024|
+ |[USN-7088-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-2-linux-kernel-vulnerabilities.53662/)|Visit link for details.|Nov 4, 2024|
+ |[DSA-5802-1 chromium - security update](https://www.linux.org/threads/dsa-5802-1-chromium-security-update.53655/)|Visit link for details.|Nov 4, 2024|
+ |[USN-7090-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7090-1-linux-kernel-vulnerabilities.53633/)|Visit link for details.|Nov 1, 2024|
+ |[USN-7089-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-1-linux-kernel-vulnerabilities.53632/)|Visit link for details.|Nov 1, 2024|
+ |[USN-7088-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-1-linux-kernel-vulnerabilities.53627/)|Visit link for details.|Oct 31, 2024|
+ |[DSA-5801-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5801-1-firefox-esr-security-update.53626/)|Visit link for details.|Oct 31, 2024|
+ |[USN-7076-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7076-2-linux-kernel-vulnerabilities.53623/)|Visit link for details.|Oct 31, 2024|
+ |[USN-7021-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-5-linux-kernel-vulnerabilities.53622/)|Visit link for details.|Oct 31, 2024|
+ |[USN-7086-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-7086-1-firefox-vulnerabilities.53621/)|Visit link for details.|Oct 31, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -67,23 +90,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition, data manipulation, elevation of privilege and security restriction bypass on the targeted system.[Updated...| Release Date: 3 Oct 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7083-1: OpenJPEG vulnerabilities](https://www.linux.org/threads/usn-7083-1-openjpeg-vulnerabilities.53665/)|Visit link for details.|Nov 5, 2024|
- |[USN-7089-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-2-linux-kernel-vulnerabilities.53663/)|Visit link for details.|Nov 4, 2024|
- |[USN-7088-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-2-linux-kernel-vulnerabilities.53662/)|Visit link for details.|Nov 4, 2024|
- |[DSA-5802-1 chromium - security update](https://www.linux.org/threads/dsa-5802-1-chromium-security-update.53655/)|Visit link for details.|Nov 4, 2024|
- |[USN-7090-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7090-1-linux-kernel-vulnerabilities.53633/)|Visit link for details.|Nov 1, 2024|
- |[USN-7089-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-1-linux-kernel-vulnerabilities.53632/)|Visit link for details.|Nov 1, 2024|
- |[USN-7088-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-1-linux-kernel-vulnerabilities.53627/)|Visit link for details.|Oct 31, 2024|
- |[DSA-5801-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5801-1-firefox-esr-security-update.53626/)|Visit link for details.|Oct 31, 2024|
- |[USN-7076-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7076-2-linux-kernel-vulnerabilities.53623/)|Visit link for details.|Oct 31, 2024|
- |[USN-7021-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7021-5-linux-kernel-vulnerabilities.53622/)|Visit link for details.|Oct 31, 2024|
- |[USN-7086-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-7086-1-firefox-vulnerabilities.53621/)|Visit link for details.|Oct 31, 2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -92,15 +98,9 @@
  |[code-projects E-Health Care System app_request.php sql injection (CVE-2024-10810)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2024|
  |[code-projects E-Health Care System chat.php sql injection (CVE-2024-10809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2024|
  |[iTop hub connector Information disclosure (CVE-2024-32870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 4, 2024|
- |[CSRF security issue on CSV import in Combodo iTop (CVE-2024-31998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 4, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -134,6 +134,23 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
+ |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
+ |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
+ |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
+ |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
+ |[Dell security advisory (AV24-627)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627)|Visit link for details|2024-11-04|
+ |[Microsoft Edge security advisory (AV24-626)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626)|Visit link for details|2024-11-01|
+ |[Google Chrome security advisory (AV24-625)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625)|Visit link for details|2024-10-31|
+ |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
+ |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
+ |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -165,21 +182,4 @@
  |[ 50492810/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-15)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de réussir une élévation de…| 28 octobre 2024|
  |[ 50482510/24 - Vulnérabilités affectant les pilotes d’affichage de NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-les-pilotes-daffichage-de-nvidia-0)| Plusieurs vulnérabilités affectant certains pilotes d’affichage de NVIDIA  ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code,…| 25 octobre 2024|
  |[ 50472410/24 - Zero-day activement exploité affectant Fortinet FortiManager ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-activement-exploite-affectant-fortinet-fortimanager)| Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            d’un « Zero-day » affectant   les versions…| 24 octobre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
- |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
- |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
- |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
- |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
- |[Dell security advisory (AV24-627)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627)|Visit link for details|2024-11-04|
- |[Microsoft Edge security advisory (AV24-626)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626)|Visit link for details|2024-11-01|
- |[Google Chrome security advisory (AV24-625)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625)|Visit link for details|2024-10-31|
- |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
- |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
- |[Mozilla security advisory (AV24-622)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622)|Visit link for details|2024-10-29|
  
