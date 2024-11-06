@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/11/2024 02:20:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/11/2024 03:20:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 24, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,12 +60,6 @@
  |[DSA-5802-1 chromium - security update](https://www.linux.org/threads/dsa-5802-1-chromium-security-update.53655/)|Visit link for details.|Nov 4, 2024|
  |[USN-7090-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7090-1-linux-kernel-vulnerabilities.53633/)|Visit link for details.|Nov 1, 2024|
  |[USN-7089-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-1-linux-kernel-vulnerabilities.53632/)|Visit link for details.|Nov 1, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -103,6 +91,18 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -118,6 +118,39 @@
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HP Poly - CVE-2024-9579](https://www.cyberveille-sante.gouv.fr/alertes/hp-poly-cve-2024-9579-2024-11-06)|Visit link for details.|06/11/2024|
+ |[Netgear - CVE-2024-51009](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-51009-2024-11-06)|Visit link for details.|06/11/2024|
+ |[Google Chome - CVE-2024-10826](https://www.cyberveille-sante.gouv.fr/alertes/google-chome-cve-2024-10826-2024-11-06)|Visit link for details.|06/11/2024|
+ |[D-Link - CVE-2024-10915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10915-2024-11-06)|Visit link for details.|06/11/2024|
+ |[HPE Aruba - CVE-2024-42509](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42509-2024-11-06)|Visit link for details.|06/11/2024|
+ |[Codezips Hospital Appointment System - CVE-2024-10791](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-appointment-system-cve-2024-10791-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Combodo iTop - CVE-2024-31448](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31448-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Combodo iTop - CVE-2024-31998](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31998-2024-11-05)|Visit link for details.|05/11/2024|
+ |[WordPress Loginizer - CVE-2024-10097](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-loginizer-cve-2024-10097-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Zoho ManageEngine - CVE-2024-9459](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-9459-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|05/11/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50560511/24 - Vulnérabilité critique dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-synology)| Une vulnérabilité critique a été corrigée dans les produits Synology susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 05 novembre 2024|
+ |[ 50550511/24 - Vulnérabilités dans les produits Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-samsung)| Samsung Mobile a publié des mises à jour de sécurité (SMR) afin de corriger plusieurs vulnérabilités. Une exploitation réussie de ces failles pourrait permettre à un attaquant de contourner la…| 05 novembre 2024|
+ |[ 50540511/24 - Vulnérabilité critique affectant QNAP QuRouter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-qurouter)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit QuRouter. L'exploitation de cette vulnérabilité peut…| 05 novembre 2024|
+ |[ 50530511/24 - Vulnérabilités critiques affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-systeme-dexploitation-android-0)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-43047»…| 05 novembre 2024|
+ |[ 50520511/24 - Vulnérabilités dans les produits Broadcom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-broadcom)| Une vulnérabilité critique a été corrigée dans les produits Broadcom susmentionnés.  Une exploitation réussie de cette faille pourrait permettre à un attaquant de contourner la politique de…| 05 novembre 2024|
+ |[ 50503110/24 - Vulnérabilité dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-plugin-litespeed-cache-de-wordpress)| Une vulnérabilité a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut permettre à un…| 31 octobre 2024|
+ |[ 50493110/24 - Zero-day affectant le service SMB sur QNAP ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-service-smb-sur-qnap)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant les versions susmentionnées du service SMB sur ses produits QNAP.…| 31 octobre 2024|
+ |[ 50483010/24 - Vulnérabilité critique dans les serveurs Xlight SFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-serveurs-xlight-sftp)| Une vulnérabilité critique a été corrigée affectant les serveurs Xlight SFTP, une solution FTP et SFTP populaire basée sur Windows. Cette vulnérabilité permet à un attaquant non authentifié ayant…| 30 octobre 2024|
+ |[ 50473010/24 - Vulnérabilité critique affectant QNAP HBS 3 Hybrid Backup Sync ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-hbs-3-hybrid-backup-sync)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit HBS 3 Hybrid Backup Sync. L'exploitation  de cette…| 30 octobre 2024|
+ |[ 50463010/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système…| 30 octobre 2024|
  
 
 # CA-CCS
@@ -141,45 +174,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Centreon updateContactHostCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1460/)|Visit link for details|2024-11-06|
+ |[Centreon updateAccessGroupLinks_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1459/)|Visit link for details|2024-11-06|
+ |[Centreon updateContactServiceCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1458/)|Visit link for details|2024-11-06|
+ |[Delta Electronics InfraSuite Device Master _gExtraInfo Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1457/)|Visit link for details|2024-11-06|
  |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1456/)|Visit link for details|2024-11-05|
  |[Linux Kernel Net Scheduler ATM Queuing Discipline Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1455/)|Visit link for details|2024-11-05|
  |[Linux Kernel nftables Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1454/)|Visit link for details|2024-11-05|
  |[X.Org Server XkbSetCompatMap Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1453/)|Visit link for details|2024-11-05|
- |[Autodesk AutoCAD CATPART File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1452/)|Visit link for details|2024-11-04|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1451/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1450/)|Visit link for details|2024-10-31|
- |[Apple macOS CoreFoundation Font Glyphs Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1449/)|Visit link for details|2024-10-31|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50560511/24 - Vulnérabilité critique dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-synology)| Une vulnérabilité critique a été corrigée dans les produits Synology susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 05 novembre 2024|
- |[ 50550511/24 - Vulnérabilités dans les produits Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-samsung)| Samsung Mobile a publié des mises à jour de sécurité (SMR) afin de corriger plusieurs vulnérabilités. Une exploitation réussie de ces failles pourrait permettre à un attaquant de contourner la…| 05 novembre 2024|
- |[ 50540511/24 - Vulnérabilité critique affectant QNAP QuRouter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-qurouter)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit QuRouter. L'exploitation de cette vulnérabilité peut…| 05 novembre 2024|
- |[ 50530511/24 - Vulnérabilités critiques affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-systeme-dexploitation-android-0)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-43047»…| 05 novembre 2024|
- |[ 50520511/24 - Vulnérabilités dans les produits Broadcom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-broadcom)| Une vulnérabilité critique a été corrigée dans les produits Broadcom susmentionnés.  Une exploitation réussie de cette faille pourrait permettre à un attaquant de contourner la politique de…| 05 novembre 2024|
- |[ 50503110/24 - Vulnérabilité dans plugin LiteSpeed Cache de WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-plugin-litespeed-cache-de-wordpress)| Une vulnérabilité a été corrigée dans LiteSpeed Cache, un plugin de mise en cache pour accélérer la navigation des utilisateurs des sites WordPress. L’exploitation de cette faille peut permettre à un…| 31 octobre 2024|
- |[ 50493110/24 - Zero-day affectant le service SMB sur QNAP ](https://www.dgssi.gov.ma/fr/bulletins/zero-day-affectant-le-service-smb-sur-qnap)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant les versions susmentionnées du service SMB sur ses produits QNAP.…| 31 octobre 2024|
- |[ 50483010/24 - Vulnérabilité critique dans les serveurs Xlight SFTP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-serveurs-xlight-sftp)| Une vulnérabilité critique a été corrigée affectant les serveurs Xlight SFTP, une solution FTP et SFTP populaire basée sur Windows. Cette vulnérabilité permet à un attaquant non authentifié ayant…| 30 octobre 2024|
- |[ 50473010/24 - Vulnérabilité critique affectant QNAP HBS 3 Hybrid Backup Sync ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-hbs-3-hybrid-backup-sync)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit HBS 3 Hybrid Backup Sync. L'exploitation  de cette…| 30 octobre 2024|
- |[ 50463010/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système…| 30 octobre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[HP Poly - CVE-2024-9579](https://www.cyberveille-sante.gouv.fr/alertes/hp-poly-cve-2024-9579-2024-11-06)|Visit link for details.|06/11/2024|
- |[Netgear - CVE-2024-51009](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-51009-2024-11-06)|Visit link for details.|06/11/2024|
- |[Google Chome - CVE-2024-10826](https://www.cyberveille-sante.gouv.fr/alertes/google-chome-cve-2024-10826-2024-11-06)|Visit link for details.|06/11/2024|
- |[D-Link - CVE-2024-10915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10915-2024-11-06)|Visit link for details.|06/11/2024|
- |[HPE Aruba - CVE-2024-42509](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42509-2024-11-06)|Visit link for details.|06/11/2024|
- |[Codezips Hospital Appointment System - CVE-2024-10791](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-appointment-system-cve-2024-10791-2024-11-05)|Visit link for details.|05/11/2024|
- |[Combodo iTop - CVE-2024-31448](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31448-2024-11-05)|Visit link for details.|05/11/2024|
- |[Combodo iTop - CVE-2024-31998](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31998-2024-11-05)|Visit link for details.|05/11/2024|
- |[WordPress Loginizer - CVE-2024-10097](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-loginizer-cve-2024-10097-2024-11-05)|Visit link for details.|05/11/2024|
- |[Zoho ManageEngine - CVE-2024-9459](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-9459-2024-11-05)|Visit link for details.|05/11/2024|
- |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|05/11/2024|
  
