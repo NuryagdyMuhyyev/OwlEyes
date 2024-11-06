@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/11/2024 18:26:29 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/11/2024 19:19:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7088-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-3-linux-kernel-vulnerabilities.53699/)|Visit link for details.|Nov 6, 2024|
  |[USN-7093-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-7093-1-werkzeug-vulnerability.53679/)|Visit link for details.|Nov 6, 2024|
  |[DSA-5803-1 thunderbird - security update](https://www.linux.org/threads/dsa-5803-1-thunderbird-security-update.53676/)|Visit link for details.|Nov 5, 2024|
  |[USN-7092-1: mpg123 vulnerability](https://www.linux.org/threads/usn-7092-1-mpg123-vulnerability.53674/)|Visit link for details.|Nov 5, 2024|
@@ -59,13 +60,31 @@
  |[DSA-5802-1 chromium - security update](https://www.linux.org/threads/dsa-5802-1-chromium-security-update.53655/)|Visit link for details.|Nov 4, 2024|
  |[USN-7090-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7090-1-linux-kernel-vulnerabilities.53633/)|Visit link for details.|Nov 1, 2024|
  |[USN-7089-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-1-linux-kernel-vulnerabilities.53632/)|Visit link for details.|Nov 1, 2024|
- |[USN-7088-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-1-linux-kernel-vulnerabilities.53627/)|Visit link for details.|Oct 31, 2024|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Pricing Tables WordPress Plugin – Easy Pricing Tables <= 3.2.6 - Authenticated (Contributor+) Stored Cross-Site Scripting via fontFamily Attribute (CVE-2024-8323)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
+ |[Active Products Tables for WooCommerce. Use constructor to create tables <= 1.0.6.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via woot_button Shortcode (CVE-2024-10168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
+ |[MapPress Maps for WordPress <= 2.94.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Map Block (CVE-2024-10715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -84,23 +103,18 @@
  |[QNAP NAS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20241031)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Oct 2024 |
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Pricing Tables WordPress Plugin – Easy Pricing Tables <= 3.2.6 - Authenticated (Contributor+) Stored Cross-Site Scripting via fontFamily Attribute (CVE-2024-8323)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
- |[Active Products Tables for WooCommerce. Use constructor to create tables <= 1.0.6.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via woot_button Shortcode (CVE-2024-10168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
- |[MapPress Maps for WordPress <= 2.94.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Map Block (CVE-2024-10715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
- |[Ansible-core: ansible-core user may read/write unauthorized content (CVE-2024-9902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1456/)|Visit link for details|2024-11-05|
+ |[Linux Kernel Net Scheduler ATM Queuing Discipline Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1455/)|Visit link for details|2024-11-05|
+ |[Linux Kernel nftables Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1454/)|Visit link for details|2024-11-05|
+ |[X.Org Server XkbSetCompatMap Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1453/)|Visit link for details|2024-11-05|
+ |[Autodesk AutoCAD CATPART File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1452/)|Visit link for details|2024-11-04|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1451/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1450/)|Visit link for details|2024-10-31|
+ |[Apple macOS CoreFoundation Font Glyphs Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1449/)|Visit link for details|2024-10-31|
  
 
 # EU-CERT
@@ -168,18 +182,4 @@
  |[Google Chrome - CVE-2024-10488](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10488-2024-11-04)|Visit link for details.|04/11/2024|
  |[F5 BIG-IP - CVE-2024-25062](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-25062-2024-11-04)|Visit link for details.|04/11/2024|
  |[Apple - CVE-2024-44126](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44126-2024-11-04)|Visit link for details.|04/11/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1456/)|Visit link for details|2024-11-05|
- |[Linux Kernel Net Scheduler ATM Queuing Discipline Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1455/)|Visit link for details|2024-11-05|
- |[Linux Kernel nftables Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1454/)|Visit link for details|2024-11-05|
- |[X.Org Server XkbSetCompatMap Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1453/)|Visit link for details|2024-11-05|
- |[Autodesk AutoCAD CATPART File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1452/)|Visit link for details|2024-11-04|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1451/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1450/)|Visit link for details|2024-10-31|
- |[Apple macOS CoreFoundation Font Glyphs Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1449/)|Visit link for details|2024-10-31|
  
