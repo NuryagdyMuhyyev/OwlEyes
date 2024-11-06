@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/11/2024 19:19:13 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/11/2024 20:22:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,19 +74,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Pricing Tables WordPress Plugin – Easy Pricing Tables <= 3.2.6 - Authenticated (Contributor+) Stored Cross-Site Scripting via fontFamily Attribute (CVE-2024-8323)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
- |[Active Products Tables for WooCommerce. Use constructor to create tables <= 1.0.6.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via woot_button Shortcode (CVE-2024-10168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
- |[MapPress Maps for WordPress <= 2.94.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Map Block (CVE-2024-10715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -101,6 +88,19 @@
  |[Synology Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/synology-products-remote-code-execution-vulnerability_20241104)|A vulnerability was identified in Synology products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Nov 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 1 Nov 2024 |
  |[QNAP NAS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20241031)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Oct 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Pricing Tables WordPress Plugin – Easy Pricing Tables <= 3.2.6 - Authenticated (Contributor+) Stored Cross-Site Scripting via fontFamily Attribute (CVE-2024-8323)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
+ |[Active Products Tables for WooCommerce. Use constructor to create tables <= 1.0.6.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via woot_button Shortcode (CVE-2024-10168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
+ |[MapPress Maps for WordPress <= 2.94.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Map Block (CVE-2024-10715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 6, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -134,21 +134,21 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
- |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
- |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
- |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
- |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
- |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
- |[Dell security advisory (AV24-627)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627)|Visit link for details|2024-11-04|
- |[Microsoft Edge security advisory (AV24-626)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626)|Visit link for details|2024-11-01|
- |[Google Chrome security advisory (AV24-625)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625)|Visit link for details|2024-10-31|
- |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
- |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
+ |[Codezips Hospital Appointment System - CVE-2024-10791](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-appointment-system-cve-2024-10791-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Combodo iTop - CVE-2024-31448](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31448-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Combodo iTop - CVE-2024-31998](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31998-2024-11-05)|Visit link for details.|05/11/2024|
+ |[WordPress Loginizer - CVE-2024-10097](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-loginizer-cve-2024-10097-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Zoho ManageEngine - CVE-2024-9459](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-9459-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|05/11/2024|
+ |[WordPress BuddyPress - CVE-2024-10011](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-buddypress-cve-2024-10011-2024-11-04)|Visit link for details.|04/11/2024|
+ |[Linux - CVE-2024-50080](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50080-2024-11-04)|Visit link for details.|04/11/2024|
+ |[Google Chrome - CVE-2024-10488](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10488-2024-11-04)|Visit link for details.|04/11/2024|
+ |[F5 BIG-IP - CVE-2024-25062](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-25062-2024-11-04)|Visit link for details.|04/11/2024|
+ |[Apple - CVE-2024-44126](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44126-2024-11-04)|Visit link for details.|04/11/2024|
  
 
 # MA-CERT
@@ -167,19 +167,19 @@
  |[ 50463010/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système…| 30 octobre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Codezips Hospital Appointment System - CVE-2024-10791](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-appointment-system-cve-2024-10791-2024-11-05)|Visit link for details.|05/11/2024|
- |[Combodo iTop - CVE-2024-31448](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31448-2024-11-05)|Visit link for details.|05/11/2024|
- |[Combodo iTop - CVE-2024-31998](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31998-2024-11-05)|Visit link for details.|05/11/2024|
- |[WordPress Loginizer - CVE-2024-10097](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-loginizer-cve-2024-10097-2024-11-05)|Visit link for details.|05/11/2024|
- |[Zoho ManageEngine - CVE-2024-9459](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-9459-2024-11-05)|Visit link for details.|05/11/2024|
- |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|05/11/2024|
- |[WordPress BuddyPress - CVE-2024-10011](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-buddypress-cve-2024-10011-2024-11-04)|Visit link for details.|04/11/2024|
- |[Linux - CVE-2024-50080](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50080-2024-11-04)|Visit link for details.|04/11/2024|
- |[Google Chrome - CVE-2024-10488](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10488-2024-11-04)|Visit link for details.|04/11/2024|
- |[F5 BIG-IP - CVE-2024-25062](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-25062-2024-11-04)|Visit link for details.|04/11/2024|
- |[Apple - CVE-2024-44126](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44126-2024-11-04)|Visit link for details.|04/11/2024|
+ |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
+ |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
+ |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
+ |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
+ |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
+ |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
+ |[Dell security advisory (AV24-627)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627)|Visit link for details|2024-11-04|
+ |[Microsoft Edge security advisory (AV24-626)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626)|Visit link for details|2024-11-01|
+ |[Google Chrome security advisory (AV24-625)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625)|Visit link for details|2024-10-31|
+ |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
+ |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
  
