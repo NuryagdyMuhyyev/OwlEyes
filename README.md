@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/11/2024 04:20:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/11/2024 06:38:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7093-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-7093-1-werkzeug-vulnerability.53679/)|Visit link for details.|Nov 6, 2024|
+ |[DSA-5803-1 thunderbird - security update](https://www.linux.org/threads/dsa-5803-1-thunderbird-security-update.53676/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7092-1: mpg123 vulnerability](https://www.linux.org/threads/usn-7092-1-mpg123-vulnerability.53674/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7091-1: Ruby vulnerabilities](https://www.linux.org/threads/usn-7091-1-ruby-vulnerabilities.53668/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7083-1: OpenJPEG vulnerabilities](https://www.linux.org/threads/usn-7083-1-openjpeg-vulnerabilities.53665/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7089-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-2-linux-kernel-vulnerabilities.53663/)|Visit link for details.|Nov 4, 2024|
+ |[USN-7088-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-2-linux-kernel-vulnerabilities.53662/)|Visit link for details.|Nov 4, 2024|
+ |[DSA-5802-1 chromium - security update](https://www.linux.org/threads/dsa-5802-1-chromium-security-update.53655/)|Visit link for details.|Nov 4, 2024|
+ |[USN-7090-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7090-1-linux-kernel-vulnerabilities.53633/)|Visit link for details.|Nov 1, 2024|
+ |[USN-7089-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-1-linux-kernel-vulnerabilities.53632/)|Visit link for details.|Nov 1, 2024|
+ |[USN-7088-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-1-linux-kernel-vulnerabilities.53627/)|Visit link for details.|Oct 31, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -45,30 +62,13 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 24, 2024|
  
 
-# LINUX-SEC
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[DSA-5803-1 thunderbird - security update](https://www.linux.org/threads/dsa-5803-1-thunderbird-security-update.53676/)|Visit link for details.|Nov 5, 2024|
- |[USN-7092-1: mpg123 vulnerability](https://www.linux.org/threads/usn-7092-1-mpg123-vulnerability.53674/)|Visit link for details.|Nov 5, 2024|
- |[USN-7091-1: Ruby vulnerabilities](https://www.linux.org/threads/usn-7091-1-ruby-vulnerabilities.53668/)|Visit link for details.|Nov 5, 2024|
- |[USN-7083-1: OpenJPEG vulnerabilities](https://www.linux.org/threads/usn-7083-1-openjpeg-vulnerabilities.53665/)|Visit link for details.|Nov 5, 2024|
- |[USN-7089-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-2-linux-kernel-vulnerabilities.53663/)|Visit link for details.|Nov 4, 2024|
- |[USN-7088-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-2-linux-kernel-vulnerabilities.53662/)|Visit link for details.|Nov 4, 2024|
- |[DSA-5802-1 chromium - security update](https://www.linux.org/threads/dsa-5802-1-chromium-security-update.53655/)|Visit link for details.|Nov 4, 2024|
- |[USN-7090-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7090-1-linux-kernel-vulnerabilities.53633/)|Visit link for details.|Nov 1, 2024|
- |[USN-7089-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-1-linux-kernel-vulnerabilities.53632/)|Visit link for details.|Nov 1, 2024|
- |[USN-7088-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-1-linux-kernel-vulnerabilities.53627/)|Visit link for details.|Oct 31, 2024|
- |[DSA-5801-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5801-1-firefox-esr-security-update.53626/)|Visit link for details.|Oct 31, 2024|
  
 
 # OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -90,6 +90,33 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241003)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition, data manipulation, elevation of privilege and security restriction bypass on the targeted system.[Updated...| Release Date: 3 Oct 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Authenticated Path Traversal Vulnerability Leads to a Remote Unauthorized Access to Files (CVE-2024-47464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2024|
+ |[Authenticated Arbitrary Remote Command Execution (RCE) in Instant AOS-8 and AOS-10 (CVE-2024-47461)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2024|
+ |[Unauthenticated Command Injection Vulnerability in the CLI Service Accessed by the PAPI Protocol (CVE-2024-47460)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2024|
+ |[Unauthenticated Command Injection Vulnerability in the CLI Service Accessed by the PAPI Protocol (CVE-2024-42509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1456/)|Visit link for details|2024-11-05|
+ |[Linux Kernel Net Scheduler ATM Queuing Discipline Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1455/)|Visit link for details|2024-11-05|
+ |[Linux Kernel nftables Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1454/)|Visit link for details|2024-11-05|
+ |[X.Org Server XkbSetCompatMap Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1453/)|Visit link for details|2024-11-05|
+ |[Autodesk AutoCAD CATPART File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1452/)|Visit link for details|2024-11-04|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1451/)|Visit link for details|2024-10-31|
+ |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1450/)|Visit link for details|2024-10-31|
+ |[Apple macOS CoreFoundation Font Glyphs Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1449/)|Visit link for details|2024-10-31|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -107,48 +134,21 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[net: fec: don't save PTP state if PTP is unsupported (CVE-2024-50097)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2024|
- |[nouveau/dmem: Fix vulnerability in migrate_to_ram upon copy error (CVE-2024-50096)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2024|
- |[RDMA/mad: Improve handling of timed out WRs of mad agent (CVE-2024-50095)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2024|
- |[sfc: Don't invoke xdp_do_flush() from netpoll. (CVE-2024-50094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 5, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Codezips Hospital Appointment System - CVE-2024-10791](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-appointment-system-cve-2024-10791-2024-11-05)|Visit link for details.|05/11/2024|
- |[Combodo iTop - CVE-2024-31448](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31448-2024-11-05)|Visit link for details.|05/11/2024|
- |[Combodo iTop - CVE-2024-31998](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31998-2024-11-05)|Visit link for details.|05/11/2024|
- |[WordPress Loginizer - CVE-2024-10097](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-loginizer-cve-2024-10097-2024-11-05)|Visit link for details.|05/11/2024|
- |[Zoho ManageEngine - CVE-2024-9459](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-9459-2024-11-05)|Visit link for details.|05/11/2024|
- |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|05/11/2024|
- |[WordPress BuddyPress - CVE-2024-10011](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-buddypress-cve-2024-10011-2024-11-04)|Visit link for details.|04/11/2024|
- |[Linux - CVE-2024-50080](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50080-2024-11-04)|Visit link for details.|04/11/2024|
- |[Google Chrome - CVE-2024-10488](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10488-2024-11-04)|Visit link for details.|04/11/2024|
- |[F5 BIG-IP - CVE-2024-25062](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-25062-2024-11-04)|Visit link for details.|04/11/2024|
- |[Apple - CVE-2024-44126](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44126-2024-11-04)|Visit link for details.|04/11/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[X.Org Server XkbSetCompatMap Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1453/)|Visit link for details|2024-11-05|
- |[Autodesk AutoCAD CATPART File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1452/)|Visit link for details|2024-11-04|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1451/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1450/)|Visit link for details|2024-10-31|
- |[Apple macOS CoreFoundation Font Glyphs Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1449/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1448/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1447/)|Visit link for details|2024-10-31|
- |[Apple macOS ICC Profile Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1446/)|Visit link for details|2024-10-31|
+ |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
+ |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
+ |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
+ |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
+ |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
+ |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
+ |[Dell security advisory (AV24-627)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627)|Visit link for details|2024-11-04|
+ |[Microsoft Edge security advisory (AV24-626)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626)|Visit link for details|2024-11-01|
+ |[Google Chrome security advisory (AV24-625)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625)|Visit link for details|2024-10-31|
+ |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
+ |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
  
 
 # MA-CERT
@@ -167,19 +167,19 @@
  |[ 50463010/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-15)| Google a publié des mises à jour de sécurité pour corriger deux vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système…| 30 octobre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
- |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
- |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
- |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
- |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
- |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
- |[Dell security advisory (AV24-627)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627)|Visit link for details|2024-11-04|
- |[Microsoft Edge security advisory (AV24-626)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626)|Visit link for details|2024-11-01|
- |[Google Chrome security advisory (AV24-625)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625)|Visit link for details|2024-10-31|
- |[ServiceNow security advisory (AV24-624)](https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av24-624)|Visit link for details|2024-10-30|
- |[Apple security advisory (AV24-623)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-623)|Visit link for details|2024-10-30|
+ |[Codezips Hospital Appointment System - CVE-2024-10791](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-appointment-system-cve-2024-10791-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Combodo iTop - CVE-2024-31448](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31448-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Combodo iTop - CVE-2024-31998](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31998-2024-11-05)|Visit link for details.|05/11/2024|
+ |[WordPress Loginizer - CVE-2024-10097](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-loginizer-cve-2024-10097-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Zoho ManageEngine - CVE-2024-9459](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-9459-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|05/11/2024|
+ |[WordPress BuddyPress - CVE-2024-10011](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-buddypress-cve-2024-10011-2024-11-04)|Visit link for details.|04/11/2024|
+ |[Linux - CVE-2024-50080](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50080-2024-11-04)|Visit link for details.|04/11/2024|
+ |[Google Chrome - CVE-2024-10488](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10488-2024-11-04)|Visit link for details.|04/11/2024|
+ |[F5 BIG-IP - CVE-2024-25062](https://www.cyberveille-sante.gouv.fr/alertes/f5-big-ip-cve-2024-25062-2024-11-04)|Visit link for details.|04/11/2024|
+ |[Apple - CVE-2024-44126](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44126-2024-11-04)|Visit link for details.|04/11/2024|
  
