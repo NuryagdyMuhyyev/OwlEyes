@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/11/2024 20:21:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/11/2024 21:26:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,29 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7088-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-4-linux-kernel-vulnerabilities.53717/)|Visit link for details.|Nov 7, 2024|
+ |[LSN-0107-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0107-1-kernel-live-patch-security-notice.53716/)|Visit link for details.|Nov 7, 2024|
+ |[USN-7095-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7095-1-linux-kernel-vulnerabilities.53713/)|Visit link for details.|Nov 7, 2024|
+ |[USN-7089-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-3-linux-kernel-vulnerabilities.53712/)|Visit link for details.|Nov 7, 2024|
+ |[USN-7088-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-3-linux-kernel-vulnerabilities.53699/)|Visit link for details.|Nov 6, 2024|
+ |[USN-7093-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-7093-1-werkzeug-vulnerability.53679/)|Visit link for details.|Nov 6, 2024|
+ |[DSA-5803-1 thunderbird - security update](https://www.linux.org/threads/dsa-5803-1-thunderbird-security-update.53676/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7092-1: mpg123 vulnerability](https://www.linux.org/threads/usn-7092-1-mpg123-vulnerability.53674/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7091-1: Ruby vulnerabilities](https://www.linux.org/threads/usn-7091-1-ruby-vulnerabilities.53668/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7083-1: OpenJPEG vulnerabilities](https://www.linux.org/threads/usn-7083-1-openjpeg-vulnerabilities.53665/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7089-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-2-linux-kernel-vulnerabilities.53663/)|Visit link for details.|Nov 4, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 07, 2024|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 04, 2024|
  |[Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments ](https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments)|Visit link for details.|Oct 31, 2024|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2024|
@@ -41,8 +60,12 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
  |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 24, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 24, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
@@ -67,23 +90,6 @@
  |[Synology Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/synology-products-remote-code-execution-vulnerability_20241104)|A vulnerability was identified in Synology products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Nov 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7088-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-4-linux-kernel-vulnerabilities.53717/)|Visit link for details.|Nov 7, 2024|
- |[LSN-0107-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0107-1-kernel-live-patch-security-notice.53716/)|Visit link for details.|Nov 7, 2024|
- |[USN-7095-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7095-1-linux-kernel-vulnerabilities.53713/)|Visit link for details.|Nov 7, 2024|
- |[USN-7089-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-3-linux-kernel-vulnerabilities.53712/)|Visit link for details.|Nov 7, 2024|
- |[USN-7088-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-3-linux-kernel-vulnerabilities.53699/)|Visit link for details.|Nov 6, 2024|
- |[USN-7093-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-7093-1-werkzeug-vulnerability.53679/)|Visit link for details.|Nov 6, 2024|
- |[DSA-5803-1 thunderbird - security update](https://www.linux.org/threads/dsa-5803-1-thunderbird-security-update.53676/)|Visit link for details.|Nov 5, 2024|
- |[USN-7092-1: mpg123 vulnerability](https://www.linux.org/threads/usn-7092-1-mpg123-vulnerability.53674/)|Visit link for details.|Nov 5, 2024|
- |[USN-7091-1: Ruby vulnerabilities](https://www.linux.org/threads/usn-7091-1-ruby-vulnerabilities.53668/)|Visit link for details.|Nov 5, 2024|
- |[USN-7083-1: OpenJPEG vulnerabilities](https://www.linux.org/threads/usn-7083-1-openjpeg-vulnerabilities.53665/)|Visit link for details.|Nov 5, 2024|
- |[USN-7089-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-2-linux-kernel-vulnerabilities.53663/)|Visit link for details.|Nov 4, 2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -91,30 +97,10 @@
  |[Moodle: lfi vulnerability when restoring malformed block backups (CVE-2024-43440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
  |[Moodle: idor in feedback non-respondents report allows messaging arbitrary site users (CVE-2024-43438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
  |[Prime Slider - Addons For Elementor (Revolution of a slider, Hero Slider, Ecommerce Slider <= 3.15.18 - Authenticated (Contributor+) Stored Cross-Site Scripting via Blog Widget (CVE-2024-8442)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[RDMA/bnxt_re: Fix a possible memory leak (CVE-2024-50172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Centreon updateContactHostCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1460/)|Visit link for details|2024-11-06|
- |[Centreon updateAccessGroupLinks_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1459/)|Visit link for details|2024-11-06|
- |[Centreon updateContactServiceCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1458/)|Visit link for details|2024-11-06|
- |[Delta Electronics InfraSuite Device Master _gExtraInfo Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1457/)|Visit link for details|2024-11-06|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1456/)|Visit link for details|2024-11-05|
- |[Linux Kernel Net Scheduler ATM Queuing Discipline Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1455/)|Visit link for details|2024-11-05|
- |[Linux Kernel nftables Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1454/)|Visit link for details|2024-11-05|
- |[X.Org Server XkbSetCompatMap Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1453/)|Visit link for details|2024-11-05|
  
 
 # EU-CERT
@@ -134,6 +120,20 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Centreon updateContactHostCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1460/)|Visit link for details|2024-11-06|
+ |[Centreon updateAccessGroupLinks_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1459/)|Visit link for details|2024-11-06|
+ |[Centreon updateContactServiceCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1458/)|Visit link for details|2024-11-06|
+ |[Delta Electronics InfraSuite Device Master _gExtraInfo Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1457/)|Visit link for details|2024-11-06|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1456/)|Visit link for details|2024-11-05|
+ |[Linux Kernel Net Scheduler ATM Queuing Discipline Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1455/)|Visit link for details|2024-11-05|
+ |[Linux Kernel nftables Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1454/)|Visit link for details|2024-11-05|
+ |[X.Org Server XkbSetCompatMap Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1453/)|Visit link for details|2024-11-05|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -151,22 +151,6 @@
  |[Zoho ManageEngine - CVE-2024-9459](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-9459-2024-11-05)|Visit link for details.|05/11/2024|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50610711/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter…| 07 novembre 2024|
- |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
- |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
- |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
- |[ 50570711/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-9)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifiés d'effectuer des…| 07 novembre 2024|
- |[ 50560511/24 - Vulnérabilité critique dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-synology)| Une vulnérabilité critique a été corrigée dans les produits Synology susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 05 novembre 2024|
- |[ 50550511/24 - Vulnérabilités dans les produits Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-samsung)| Samsung Mobile a publié des mises à jour de sécurité (SMR) afin de corriger plusieurs vulnérabilités. Une exploitation réussie de ces failles pourrait permettre à un attaquant de contourner la…| 05 novembre 2024|
- |[ 50540511/24 - Vulnérabilité critique affectant QNAP QuRouter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-qurouter)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit QuRouter. L'exploitation de cette vulnérabilité peut…| 05 novembre 2024|
- |[ 50530511/24 - Vulnérabilités critiques affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-systeme-dexploitation-android-0)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-43047»…| 05 novembre 2024|
- |[ 50520511/24 - Vulnérabilités dans les produits Broadcom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-broadcom)| Une vulnérabilité critique a été corrigée dans les produits Broadcom susmentionnés.  Une exploitation réussie de cette faille pourrait permettre à un attaquant de contourner la politique de…| 05 novembre 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -182,4 +166,20 @@
  |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
  |[Dell security advisory (AV24-627)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627)|Visit link for details|2024-11-04|
  |[Microsoft Edge security advisory (AV24-626)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626)|Visit link for details|2024-11-01|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50610711/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter…| 07 novembre 2024|
+ |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
+ |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
+ |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
+ |[ 50570711/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-9)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifiés d'effectuer des…| 07 novembre 2024|
+ |[ 50560511/24 - Vulnérabilité critique dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-synology)| Une vulnérabilité critique a été corrigée dans les produits Synology susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 05 novembre 2024|
+ |[ 50550511/24 - Vulnérabilités dans les produits Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-samsung)| Samsung Mobile a publié des mises à jour de sécurité (SMR) afin de corriger plusieurs vulnérabilités. Une exploitation réussie de ces failles pourrait permettre à un attaquant de contourner la…| 05 novembre 2024|
+ |[ 50540511/24 - Vulnérabilité critique affectant QNAP QuRouter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-qurouter)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit QuRouter. L'exploitation de cette vulnérabilité peut…| 05 novembre 2024|
+ |[ 50530511/24 - Vulnérabilités critiques affectant le système d’exploitation Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-le-systeme-dexploitation-android-0)| Google annonce la correction de plusieurs vulnérabilités affectant  son système d’exploitation     Android. Deux  de ces vulnérabilités, identifiées par  «CVE-2024-43047»…| 05 novembre 2024|
+ |[ 50520511/24 - Vulnérabilités dans les produits Broadcom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-broadcom)| Une vulnérabilité critique a été corrigée dans les produits Broadcom susmentionnés.  Une exploitation réussie de cette faille pourrait permettre à un attaquant de contourner la politique de…| 05 novembre 2024|
  
