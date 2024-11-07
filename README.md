@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/11/2024 18:25:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/11/2024 19:19:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 24, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +60,12 @@
  |[USN-7089-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-2-linux-kernel-vulnerabilities.53663/)|Visit link for details.|Nov 4, 2024|
  |[USN-7088-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-2-linux-kernel-vulnerabilities.53662/)|Visit link for details.|Nov 4, 2024|
  |[DSA-5802-1 chromium - security update](https://www.linux.org/threads/dsa-5802-1-chromium-security-update.53655/)|Visit link for details.|Nov 4, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -84,23 +84,37 @@
  |[Synology Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/synology-products-remote-code-execution-vulnerability_20241104)|A vulnerability was identified in Synology products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Nov 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Moodle: lfi vulnerability when restoring malformed block backups (CVE-2024-43440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[Moodle: idor in feedback non-respondents report allows messaging arbitrary site users (CVE-2024-43438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[Prime Slider - Addons For Elementor (Revolution of a slider, Hero Slider, Ecommerce Slider <= 3.15.18 - Authenticated (Contributor+) Stored Cross-Site Scripting via Blog Widget (CVE-2024-8442)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[RDMA/bnxt_re: Fix a possible memory leak (CVE-2024-50172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[RDMA/bnxt_re: Fix a possible memory leak (CVE-2024-50172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
- |[net: systemport: fix potential memory leak in bcm_sysport_xmit() (CVE-2024-50171)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
- |[net: bcmasp: fix potential memory leak in bcmasp_xmit() (CVE-2024-50170)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
- |[vsock: Update rx_bytes on read_skb() (CVE-2024-50169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
- |[net/sun3_82586: fix potential memory leak in sun3_82586_send_packet() (CVE-2024-50168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Centreon updateContactHostCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1460/)|Visit link for details|2024-11-06|
+ |[Centreon updateAccessGroupLinks_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1459/)|Visit link for details|2024-11-06|
+ |[Centreon updateContactServiceCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1458/)|Visit link for details|2024-11-06|
+ |[Delta Electronics InfraSuite Device Master _gExtraInfo Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1457/)|Visit link for details|2024-11-06|
+ |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1456/)|Visit link for details|2024-11-05|
+ |[Linux Kernel Net Scheduler ATM Queuing Discipline Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1455/)|Visit link for details|2024-11-05|
+ |[Linux Kernel nftables Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1454/)|Visit link for details|2024-11-05|
+ |[X.Org Server XkbSetCompatMap Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1453/)|Visit link for details|2024-11-05|
  
 
 # EU-CERT
@@ -120,21 +134,21 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
- |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
- |[HPE security advisory (AV24-634)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634)|Visit link for details|2024-11-06|
- |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
- |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
- |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
- |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
- |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
- |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
- |[Dell security advisory (AV24-627)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627)|Visit link for details|2024-11-04|
- |[Microsoft Edge security advisory (AV24-626)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626)|Visit link for details|2024-11-01|
+ |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|07/11/2024|
+ |[HP Poly - CVE-2024-9579](https://www.cyberveille-sante.gouv.fr/alertes/hp-poly-cve-2024-9579-2024-11-06)|Visit link for details.|06/11/2024|
+ |[Netgear - CVE-2024-51009](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-51009-2024-11-06)|Visit link for details.|06/11/2024|
+ |[Google Chome - CVE-2024-10826](https://www.cyberveille-sante.gouv.fr/alertes/google-chome-cve-2024-10826-2024-11-06)|Visit link for details.|06/11/2024|
+ |[D-Link - CVE-2024-10915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10915-2024-11-06)|Visit link for details.|06/11/2024|
+ |[HPE Aruba - CVE-2024-42509](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42509-2024-11-06)|Visit link for details.|06/11/2024|
+ |[Codezips Hospital Appointment System - CVE-2024-10791](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-appointment-system-cve-2024-10791-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Combodo iTop - CVE-2024-31448](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31448-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Combodo iTop - CVE-2024-31998](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31998-2024-11-05)|Visit link for details.|05/11/2024|
+ |[WordPress Loginizer - CVE-2024-10097](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-loginizer-cve-2024-10097-2024-11-05)|Visit link for details.|05/11/2024|
+ |[Zoho ManageEngine - CVE-2024-9459](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-9459-2024-11-05)|Visit link for details.|05/11/2024|
  
 
 # MA-CERT
@@ -153,33 +167,19 @@
  |[ 50520511/24 - Vulnérabilités dans les produits Broadcom ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-broadcom)| Une vulnérabilité critique a été corrigée dans les produits Broadcom susmentionnés.  Une exploitation réussie de cette faille pourrait permettre à un attaquant de contourner la politique de…| 05 novembre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[HP Poly - CVE-2024-9579](https://www.cyberveille-sante.gouv.fr/alertes/hp-poly-cve-2024-9579-2024-11-06)|Visit link for details.|06/11/2024|
- |[Netgear - CVE-2024-51009](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-51009-2024-11-06)|Visit link for details.|06/11/2024|
- |[Google Chome - CVE-2024-10826](https://www.cyberveille-sante.gouv.fr/alertes/google-chome-cve-2024-10826-2024-11-06)|Visit link for details.|06/11/2024|
- |[D-Link - CVE-2024-10915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10915-2024-11-06)|Visit link for details.|06/11/2024|
- |[HPE Aruba - CVE-2024-42509](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42509-2024-11-06)|Visit link for details.|06/11/2024|
- |[Codezips Hospital Appointment System - CVE-2024-10791](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-appointment-system-cve-2024-10791-2024-11-05)|Visit link for details.|05/11/2024|
- |[Combodo iTop - CVE-2024-31448](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31448-2024-11-05)|Visit link for details.|05/11/2024|
- |[Combodo iTop - CVE-2024-31998](https://www.cyberveille-sante.gouv.fr/alertes/combodo-itop-cve-2024-31998-2024-11-05)|Visit link for details.|05/11/2024|
- |[WordPress Loginizer - CVE-2024-10097](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-loginizer-cve-2024-10097-2024-11-05)|Visit link for details.|05/11/2024|
- |[Zoho ManageEngine - CVE-2024-9459](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-9459-2024-11-05)|Visit link for details.|05/11/2024|
- |[Google Chrome - CVE-2024-10487](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10487-2024-10-30)|Visit link for details.|05/11/2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Centreon updateContactHostCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1460/)|Visit link for details|2024-11-06|
- |[Centreon updateAccessGroupLinks_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1459/)|Visit link for details|2024-11-06|
- |[Centreon updateContactServiceCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1458/)|Visit link for details|2024-11-06|
- |[Delta Electronics InfraSuite Device Master _gExtraInfo Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1457/)|Visit link for details|2024-11-06|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1456/)|Visit link for details|2024-11-05|
- |[Linux Kernel Net Scheduler ATM Queuing Discipline Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1455/)|Visit link for details|2024-11-05|
- |[Linux Kernel nftables Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1454/)|Visit link for details|2024-11-05|
- |[X.Org Server XkbSetCompatMap Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1453/)|Visit link for details|2024-11-05|
+ |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
+ |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
+ |[HPE security advisory (AV24-634)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634)|Visit link for details|2024-11-06|
+ |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
+ |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
+ |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
+ |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
+ |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
+ |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
+ |[Dell security advisory (AV24-627)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627)|Visit link for details|2024-11-04|
+ |[Microsoft Edge security advisory (AV24-626)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626)|Visit link for details|2024-11-01|
  
