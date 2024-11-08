@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/11/2024 04:19:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/11/2024 06:38:58 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 07, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 04, 2024|
- |[Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments ](https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments)|Visit link for details.|Oct 31, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2024|
- |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
- |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
- |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +50,22 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 04, 2024|
+ |[Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments ](https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments)|Visit link for details.|Oct 31, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2024|
+ |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
+ |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
+ |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
  
 
 # OBS-Vigilance
@@ -94,11 +94,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Logic bug in ajax.render.php allows for bypass of 'backOffice' access control in Combodo iTop (CVE-2024-51995)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
- |[Cross-site Scripting (XSS) Vulnerability in PasswordPusher (CVE-2024-51989)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
- |[Exported files stored in default (`public`) filesystem if not reconfigured in filament (CVE-2024-51758)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
- |[Dataease arbitrary interface access vulnerability (CVE-2024-47073)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
- |[emqx neuron JSON File schema information disclosure (CVE-2024-10965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[HTTP Client uses incorrect token after refresh in Duende.AccessTokenManagement.OpenIdConnect (CVE-2024-51987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[Path traversal using file URI scheme without supplying hostname in changedetection.io (CVE-2024-51998)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[WatchGuard Endpoint Protection Privilege Escalation in PSANHost Enables Arbitrary File Delete as SYSTEM (CVE-2024-8424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[Adobe Experience Manager  Cross-site Scripting (Stored XSS) (CWE-79) (CVE-2024-49523)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
+ |[Adobe Experience Manager  Cross-site Scripting (DOM-based XSS) (CWE-79) (CVE-2024-49524)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 7, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
