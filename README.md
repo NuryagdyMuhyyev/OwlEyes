@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/11/2024 20:21:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/11/2024 21:31:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,12 +66,6 @@
  |[DSA-5803-1 thunderbird - security update](https://www.linux.org/threads/dsa-5803-1-thunderbird-security-update.53676/)|Visit link for details.|Nov 5, 2024|
  |[USN-7092-1: mpg123 vulnerability](https://www.linux.org/threads/usn-7092-1-mpg123-vulnerability.53674/)|Visit link for details.|Nov 5, 2024|
  |[USN-7091-1: Ruby vulnerabilities](https://www.linux.org/threads/usn-7091-1-ruby-vulnerabilities.53668/)|Visit link for details.|Nov 5, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -107,14 +107,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Centreon updateContactHostCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1460/)|Visit link for details|2024-11-06|
- |[Centreon updateAccessGroupLinks_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1459/)|Visit link for details|2024-11-06|
- |[Centreon updateContactServiceCommands_MC SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1458/)|Visit link for details|2024-11-06|
- |[Delta Electronics InfraSuite Device Master _gExtraInfo Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1457/)|Visit link for details|2024-11-06|
- |[Linux Kernel ksmbd Session Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1456/)|Visit link for details|2024-11-05|
- |[Linux Kernel Net Scheduler ATM Queuing Discipline Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1455/)|Visit link for details|2024-11-05|
- |[Linux Kernel nftables Improper Validation of Array Index Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1454/)|Visit link for details|2024-11-05|
- |[X.Org Server XkbSetCompatMap Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1453/)|Visit link for details|2024-11-05|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1470/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1469/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1468/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1467/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1466/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1463/)|Visit link for details|2024-11-08|
  
 
 # EU-CERT
@@ -151,6 +151,23 @@
  |[Dell security advisory (AV24-627)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627)|Visit link for details|2024-11-04|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WatchGuard - CVE-2024-8424](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-8424-2024-11-08)|Visit link for details.|08/11/2024|
+ |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Cisco - CVE-2024-20484](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20484-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Check Point - CVE-2024-24914](https://www.cyberveille-sante.gouv.fr/alertes/check-point-cve-2024-24914-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Veeam - CVE-2024-40715](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-40715-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Palo Alto - CVE-2024-5910](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-5910-2024-07-11)|Visit link for details.|08/11/2024|
+ |[HPE Aruba - CVE-2024-47460](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-47460-2024-11-07)|Visit link for details.|07/11/2024|
+ |[Zoho ManageEngine - CVE-2024-36485](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-36485-2024-11-07)|Visit link for details.|07/11/2024|
+ |[Google Chrome - CVE-2024-10827](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10827-2024-11-07)|Visit link for details.|07/11/2024|
+ |[Cisco - CVE-2024-20536](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20536-2024-11-07)|Visit link for details.|07/11/2024|
+ |[Cisco - CVE-2024-20418](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20418-2024-11-07)|Visit link for details.|07/11/2024|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -166,21 +183,4 @@
  |[ 50560511/24 - Vulnérabilité critique dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-synology)| Une vulnérabilité critique a été corrigée dans les produits Synology susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 05 novembre 2024|
  |[ 50550511/24 - Vulnérabilités dans les produits Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-samsung)| Samsung Mobile a publié des mises à jour de sécurité (SMR) afin de corriger plusieurs vulnérabilités. Une exploitation réussie de ces failles pourrait permettre à un attaquant de contourner la…| 05 novembre 2024|
  |[ 50540511/24 - Vulnérabilité critique affectant QNAP QuRouter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-qurouter)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit QuRouter. L'exploitation de cette vulnérabilité peut…| 05 novembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE Aruba - CVE-2024-47460](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-47460-2024-11-07)|Visit link for details.|07/11/2024|
- |[Zoho ManageEngine - CVE-2024-36485](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-36485-2024-11-07)|Visit link for details.|07/11/2024|
- |[Google Chrome - CVE-2024-10827](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10827-2024-11-07)|Visit link for details.|07/11/2024|
- |[Cisco - CVE-2024-20536](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20536-2024-11-07)|Visit link for details.|07/11/2024|
- |[Cisco - CVE-2024-20418](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20418-2024-11-07)|Visit link for details.|07/11/2024|
- |[VMware - CVE-2023-20900](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2023-20900-2023-09-01)|Visit link for details.|07/11/2024|
- |[HP Poly - CVE-2024-9579](https://www.cyberveille-sante.gouv.fr/alertes/hp-poly-cve-2024-9579-2024-11-06)|Visit link for details.|06/11/2024|
- |[Netgear - CVE-2024-51009](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-51009-2024-11-06)|Visit link for details.|06/11/2024|
- |[Google Chome - CVE-2024-10826](https://www.cyberveille-sante.gouv.fr/alertes/google-chome-cve-2024-10826-2024-11-06)|Visit link for details.|06/11/2024|
- |[D-Link - CVE-2024-10915](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10915-2024-11-06)|Visit link for details.|06/11/2024|
- |[HPE Aruba - CVE-2024-42509](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-42509-2024-11-06)|Visit link for details.|06/11/2024|
  
