@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/11/2024 06:35:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/11/2024 07:44:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,23 @@
  |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5804-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5804-1-webkit2gtk-security-update.53730/)|Visit link for details.|Nov 8, 2024|
+ |[USN-6882-2: Cinder regression](https://www.linux.org/threads/usn-6882-2-cinder-regression.53725/)|Visit link for details.|Nov 7, 2024|
+ |[USN-7088-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-4-linux-kernel-vulnerabilities.53717/)|Visit link for details.|Nov 7, 2024|
+ |[LSN-0107-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0107-1-kernel-live-patch-security-notice.53716/)|Visit link for details.|Nov 7, 2024|
+ |[USN-7095-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7095-1-linux-kernel-vulnerabilities.53713/)|Visit link for details.|Nov 7, 2024|
+ |[USN-7089-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-3-linux-kernel-vulnerabilities.53712/)|Visit link for details.|Nov 7, 2024|
+ |[USN-7088-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-3-linux-kernel-vulnerabilities.53699/)|Visit link for details.|Nov 6, 2024|
+ |[USN-7093-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-7093-1-werkzeug-vulnerability.53679/)|Visit link for details.|Nov 6, 2024|
+ |[DSA-5803-1 thunderbird - security update](https://www.linux.org/threads/dsa-5803-1-thunderbird-security-update.53676/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7092-1: mpg123 vulnerability](https://www.linux.org/threads/usn-7092-1-mpg123-vulnerability.53674/)|Visit link for details.|Nov 5, 2024|
+ |[USN-7091-1: Ruby vulnerabilities](https://www.linux.org/threads/usn-7091-1-ruby-vulnerabilities.53668/)|Visit link for details.|Nov 5, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -67,23 +84,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5804-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5804-1-webkit2gtk-security-update.53730/)|Visit link for details.|Nov 8, 2024|
- |[USN-6882-2: Cinder regression](https://www.linux.org/threads/usn-6882-2-cinder-regression.53725/)|Visit link for details.|Nov 7, 2024|
- |[USN-7088-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-4-linux-kernel-vulnerabilities.53717/)|Visit link for details.|Nov 7, 2024|
- |[LSN-0107-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0107-1-kernel-live-patch-security-notice.53716/)|Visit link for details.|Nov 7, 2024|
- |[USN-7095-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7095-1-linux-kernel-vulnerabilities.53713/)|Visit link for details.|Nov 7, 2024|
- |[USN-7089-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-3-linux-kernel-vulnerabilities.53712/)|Visit link for details.|Nov 7, 2024|
- |[USN-7088-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-3-linux-kernel-vulnerabilities.53699/)|Visit link for details.|Nov 6, 2024|
- |[USN-7093-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-7093-1-werkzeug-vulnerability.53679/)|Visit link for details.|Nov 6, 2024|
- |[DSA-5803-1 thunderbird - security update](https://www.linux.org/threads/dsa-5803-1-thunderbird-security-update.53676/)|Visit link for details.|Nov 5, 2024|
- |[USN-7092-1: mpg123 vulnerability](https://www.linux.org/threads/usn-7092-1-mpg123-vulnerability.53674/)|Visit link for details.|Nov 5, 2024|
- |[USN-7091-1: Ruby vulnerabilities](https://www.linux.org/threads/usn-7091-1-ruby-vulnerabilities.53668/)|Visit link for details.|Nov 5, 2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -92,9 +92,15 @@
  |[Portal user is able to access forbidden services information in Combodo iTop (CVE-2024-52001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[Cross-Site Request Forgery (CSRF) in several iTop pages (CVE-2024-52002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[Intelligent Apps Freenow App Keystore SSL.java hard-coded password (CVE-2024-11026)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[CVE-2024-21994 Denial of Service Vulnerability in StorageGRID (formerly StorageGRID Webscale) (CVE-2024-21994)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -109,12 +115,6 @@
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1463/)|Visit link for details|2024-11-08|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
