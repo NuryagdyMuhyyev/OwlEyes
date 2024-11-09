@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/11/2024 07:44:25 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/11/2024 08:24:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5805-1 guix - security update](https://www.linux.org/threads/dsa-5805-1-guix-security-update.53750/)|Visit link for details.|Nov 9, 2024|
  |[DSA-5804-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5804-1-webkit2gtk-security-update.53730/)|Visit link for details.|Nov 8, 2024|
  |[USN-6882-2: Cinder regression](https://www.linux.org/threads/usn-6882-2-cinder-regression.53725/)|Visit link for details.|Nov 7, 2024|
  |[USN-7088-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-4-linux-kernel-vulnerabilities.53717/)|Visit link for details.|Nov 7, 2024|
@@ -59,7 +60,6 @@
  |[USN-7093-1: Werkzeug vulnerability](https://www.linux.org/threads/usn-7093-1-werkzeug-vulnerability.53679/)|Visit link for details.|Nov 6, 2024|
  |[DSA-5803-1 thunderbird - security update](https://www.linux.org/threads/dsa-5803-1-thunderbird-security-update.53676/)|Visit link for details.|Nov 5, 2024|
  |[USN-7092-1: mpg123 vulnerability](https://www.linux.org/threads/usn-7092-1-mpg123-vulnerability.53674/)|Visit link for details.|Nov 5, 2024|
- |[USN-7091-1: Ruby vulnerabilities](https://www.linux.org/threads/usn-7091-1-ruby-vulnerabilities.53668/)|Visit link for details.|Nov 5, 2024|
  
 
 # CERT-FR
@@ -101,20 +101,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1470/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1469/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1468/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1467/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1466/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1463/)|Visit link for details|2024-11-08|
  
 
 # EU-CERT
@@ -166,6 +152,20 @@
  |[ 50560511/24 - Vulnérabilité critique dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-synology)| Une vulnérabilité critique a été corrigée dans les produits Synology susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 05 novembre 2024|
  |[ 50550511/24 - Vulnérabilités dans les produits Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-samsung)| Samsung Mobile a publié des mises à jour de sécurité (SMR) afin de corriger plusieurs vulnérabilités. Une exploitation réussie de ces failles pourrait permettre à un attaquant de contourner la…| 05 novembre 2024|
  |[ 50540511/24 - Vulnérabilité critique affectant QNAP QuRouter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-qurouter)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit QuRouter. L'exploitation de cette vulnérabilité peut…| 05 novembre 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1470/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1469/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1468/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1467/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1466/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1463/)|Visit link for details|2024-11-08|
  
 
 # CA-CCS
