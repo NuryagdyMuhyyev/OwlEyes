@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/11/2024 04:20:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/11/2024 06:43:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -98,7 +98,7 @@
  |[Portal user is able to access forbidden services information in Combodo iTop (CVE-2024-52001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[Cross-Site Request Forgery (CSRF) in several iTop pages (CVE-2024-52002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[Confidential Containers Trustee security bypass (CVE-2024-51997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[CVE-2024-45763 (CVE-2024-45763)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -151,23 +151,6 @@
  |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50640811/24 - Vulnérabilité dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-f5)| Une vulnérabilité a été corrigée dans les versions susmentionnées de F5. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité. | 08 novembre 2024|
- |[ 50630811/24 - Vulnérabilités dans les routeurs Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-routeurs-netgear)| Netgear a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter…| 08 novembre 2024|
- |[ 50620811/24 - Vulnérabilité affectant NetBackup ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-netbackup)| Veritas annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité affectant les versions susmentionnées de son produit NetBackup. L'exploitation  de…| 08 novembre 2024|
- |[ 50610711/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter…| 07 novembre 2024|
- |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
- |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
- |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
- |[ 50570711/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-9)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifiés d'effectuer des…| 07 novembre 2024|
- |[ 50560511/24 - Vulnérabilité critique dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-synology)| Une vulnérabilité critique a été corrigée dans les produits Synology susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 05 novembre 2024|
- |[ 50550511/24 - Vulnérabilités dans les produits Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-samsung)| Samsung Mobile a publié des mises à jour de sécurité (SMR) afin de corriger plusieurs vulnérabilités. Une exploitation réussie de ces failles pourrait permettre à un attaquant de contourner la…| 05 novembre 2024|
- |[ 50540511/24 - Vulnérabilité critique affectant QNAP QuRouter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-qurouter)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit QuRouter. L'exploitation de cette vulnérabilité peut…| 05 novembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[Google Chrome - CVE-2024-10827](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10827-2024-11-07)|Visit link for details.|07/11/2024|
  |[Cisco - CVE-2024-20536](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20536-2024-11-07)|Visit link for details.|07/11/2024|
  |[Cisco - CVE-2024-20418](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20418-2024-11-07)|Visit link for details.|07/11/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50640811/24 - Vulnérabilité dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-f5)| Une vulnérabilité a été corrigée dans les versions susmentionnées de F5. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité. | 08 novembre 2024|
+ |[ 50630811/24 - Vulnérabilités dans les routeurs Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-routeurs-netgear)| Netgear a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter…| 08 novembre 2024|
+ |[ 50620811/24 - Vulnérabilité affectant NetBackup ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-netbackup)| Veritas annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité affectant les versions susmentionnées de son produit NetBackup. L'exploitation  de…| 08 novembre 2024|
+ |[ 50610711/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter…| 07 novembre 2024|
+ |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
+ |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
+ |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
+ |[ 50570711/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-9)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifiés d'effectuer des…| 07 novembre 2024|
+ |[ 50560511/24 - Vulnérabilité critique dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-synology)| Une vulnérabilité critique a été corrigée dans les produits Synology susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 05 novembre 2024|
+ |[ 50550511/24 - Vulnérabilités dans les produits Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-samsung)| Samsung Mobile a publié des mises à jour de sécurité (SMR) afin de corriger plusieurs vulnérabilités. Une exploitation réussie de ces failles pourrait permettre à un attaquant de contourner la…| 05 novembre 2024|
+ |[ 50540511/24 - Vulnérabilité critique affectant QNAP QuRouter ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-qnap-qurouter)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité critique affectant son produit QuRouter. L'exploitation de cette vulnérabilité peut…| 05 novembre 2024|
  
