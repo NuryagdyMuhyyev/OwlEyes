@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/11/2024 21:26:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/11/2024 22:17:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,23 +51,6 @@
  |---|---|---|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7098-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-7098-1-openjdk-17-vulnerabilities.53795/)|Visit link for details.|Nov 11, 2024|
- |[USN-7097-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-7097-1-openjdk-11-vulnerabilities.53794/)|Visit link for details.|Nov 11, 2024|
- |[USN-7096-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-7096-1-openjdk-8-vulnerabilities.53793/)|Visit link for details.|Nov 11, 2024|
- |[USN-7099-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-7099-1-openjdk-21-vulnerabilities.53792/)|Visit link for details.|Nov 11, 2024|
- |[USN-7094-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-7094-1-qemu-vulnerabilities.53785/)|Visit link for details.|Nov 11, 2024|
- |[DSA-5807-1 nss - security update](https://www.linux.org/threads/dsa-5807-1-nss-security-update.53782/)|Visit link for details.|Nov 10, 2024|
- |[DSA-5806-1 libarchive - security update](https://www.linux.org/threads/dsa-5806-1-libarchive-security-update.53762/)|Visit link for details.|Nov 9, 2024|
- |[DSA-5805-1 guix - security update](https://www.linux.org/threads/dsa-5805-1-guix-security-update.53750/)|Visit link for details.|Nov 9, 2024|
- |[DSA-5804-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5804-1-webkit2gtk-security-update.53730/)|Visit link for details.|Nov 8, 2024|
- |[USN-6882-2: Cinder regression](https://www.linux.org/threads/usn-6882-2-cinder-regression.53725/)|Visit link for details.|Nov 7, 2024|
- |[USN-7088-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-4-linux-kernel-vulnerabilities.53717/)|Visit link for details.|Nov 7, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,6 +67,23 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. |Release Date: 6 Nov 2024 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7100-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7100-1-linux-kernel-vulnerabilities.53802/)|Visit link for details.|Nov 11, 2024|
+ |[USN-7098-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-7098-1-openjdk-17-vulnerabilities.53795/)|Visit link for details.|Nov 11, 2024|
+ |[USN-7097-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-7097-1-openjdk-11-vulnerabilities.53794/)|Visit link for details.|Nov 11, 2024|
+ |[USN-7096-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-7096-1-openjdk-8-vulnerabilities.53793/)|Visit link for details.|Nov 11, 2024|
+ |[USN-7099-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-7099-1-openjdk-21-vulnerabilities.53792/)|Visit link for details.|Nov 11, 2024|
+ |[USN-7094-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-7094-1-qemu-vulnerabilities.53785/)|Visit link for details.|Nov 11, 2024|
+ |[DSA-5807-1 nss - security update](https://www.linux.org/threads/dsa-5807-1-nss-security-update.53782/)|Visit link for details.|Nov 10, 2024|
+ |[DSA-5806-1 libarchive - security update](https://www.linux.org/threads/dsa-5806-1-libarchive-security-update.53762/)|Visit link for details.|Nov 9, 2024|
+ |[DSA-5805-1 guix - security update](https://www.linux.org/threads/dsa-5805-1-guix-security-update.53750/)|Visit link for details.|Nov 9, 2024|
+ |[DSA-5804-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5804-1-webkit2gtk-security-update.53730/)|Visit link for details.|Nov 8, 2024|
+ |[USN-6882-2: Cinder regression](https://www.linux.org/threads/usn-6882-2-cinder-regression.53725/)|Visit link for details.|Nov 7, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -92,7 +92,7 @@
  |[Portal user is able to access forbidden services information in Combodo iTop (CVE-2024-52001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[Cross-Site Request Forgery (CSRF) in several iTop pages (CVE-2024-52002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[Confidential Containers Trustee security bypass (CVE-2024-51997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[CVE-2024-45763 (CVE-2024-45763)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -117,23 +117,6 @@
  |---|---|---|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WatchGuard - CVE-2024-8424](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-8424-2024-11-08)|Visit link for details.|08/11/2024|
- |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|08/11/2024|
- |[Cisco - CVE-2024-20484](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20484-2024-11-08)|Visit link for details.|08/11/2024|
- |[Check Point - CVE-2024-24914](https://www.cyberveille-sante.gouv.fr/alertes/check-point-cve-2024-24914-2024-11-08)|Visit link for details.|08/11/2024|
- |[Veeam - CVE-2024-40715](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-40715-2024-11-08)|Visit link for details.|08/11/2024|
- |[Palo Alto - CVE-2024-5910](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-5910-2024-07-11)|Visit link for details.|08/11/2024|
- |[HPE Aruba - CVE-2024-47460](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-47460-2024-11-07)|Visit link for details.|07/11/2024|
- |[Zoho ManageEngine - CVE-2024-36485](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-36485-2024-11-07)|Visit link for details.|07/11/2024|
- |[Google Chrome - CVE-2024-10827](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10827-2024-11-07)|Visit link for details.|07/11/2024|
- |[Cisco - CVE-2024-20536](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20536-2024-11-07)|Visit link for details.|07/11/2024|
- |[Cisco - CVE-2024-20418](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20418-2024-11-07)|Visit link for details.|07/11/2024|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -149,6 +132,23 @@
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WatchGuard - CVE-2024-8424](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-8424-2024-11-08)|Visit link for details.|08/11/2024|
+ |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Cisco - CVE-2024-20484](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20484-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Check Point - CVE-2024-24914](https://www.cyberveille-sante.gouv.fr/alertes/check-point-cve-2024-24914-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Veeam - CVE-2024-40715](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-40715-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Palo Alto - CVE-2024-5910](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-5910-2024-07-11)|Visit link for details.|08/11/2024|
+ |[HPE Aruba - CVE-2024-47460](https://www.cyberveille-sante.gouv.fr/alertes/hpe-aruba-cve-2024-47460-2024-11-07)|Visit link for details.|07/11/2024|
+ |[Zoho ManageEngine - CVE-2024-36485](https://www.cyberveille-sante.gouv.fr/alertes/zoho-manageengine-cve-2024-36485-2024-11-07)|Visit link for details.|07/11/2024|
+ |[Google Chrome - CVE-2024-10827](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10827-2024-11-07)|Visit link for details.|07/11/2024|
+ |[Cisco - CVE-2024-20536](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20536-2024-11-07)|Visit link for details.|07/11/2024|
+ |[Cisco - CVE-2024-20418](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20418-2024-11-07)|Visit link for details.|07/11/2024|
  
 
 # MA-CERT
