@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/11/2024 02:18:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/11/2024 03:19:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,18 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -82,25 +94,6 @@
  |[Veeam Backup & Replication Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-security-restriction-bypass-vulnerability_20241107)|A vulnerability was identified in Veeam Backup & Replication.  A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.  |Release Date: 7 Nov 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 6 Nov 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. |Release Date: 6 Nov 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Reflected Cross-site Scripting exploit in Combodo iTop (CVE-2024-52000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[Portal user is able to access forbidden services information in Combodo iTop (CVE-2024-52001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[Cross-Site Request Forgery (CSRF) in several iTop pages (CVE-2024-52002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[Confidential Containers Trustee security bypass (CVE-2024-51997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
