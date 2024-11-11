@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/11/2024 23:27:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/11/2024 00:15:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,22 +68,6 @@
  |---|---|---|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Netgear Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netgear-products-multiple-vulnerabilities_20241111)|Multiple vulnerabilities were identified in Netgear Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, sensitive information disclosure, remote code execution, elevation of privilege, denial of service condition and security restriction bypass on the targeted...|Release Date: 11 Nov 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
- |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241111)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, spoofing, data manipulation and remote code execution on the targeted system.|Release Date: 11 Nov 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20241105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition, elevation of privilege and remote code execution on the targeted system. Note:CVE-2024-43093 is being exploited...| Release Date: 5 Nov 2024 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20241108)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure, security restriction bypass, spoofing and data manipulation.|Release Date: 8 Nov 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241108)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 8 Nov 2024 |
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20241107)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 7 Nov 2024 |
- |[Veeam Backup & Replication Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-security-restriction-bypass-vulnerability_20241107)|A vulnerability was identified in Veeam Backup & Replication.  A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.  |Release Date: 7 Nov 2024 |
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 6 Nov 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. |Release Date: 6 Nov 2024 |
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -98,23 +82,25 @@
  |[Portal user is able to access forbidden services information in Combodo iTop (CVE-2024-52001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[Cross-Site Request Forgery (CSRF) in several iTop pages (CVE-2024-52002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[Confidential Containers Trustee security bypass (CVE-2024-51997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1470/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1469/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1468/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1467/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1466/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1463/)|Visit link for details|2024-11-08|
+ |[Netgear Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netgear-products-multiple-vulnerabilities_20241111)|Multiple vulnerabilities were identified in Netgear Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, sensitive information disclosure, remote code execution, elevation of privilege, denial of service condition and security restriction bypass on the targeted...|Release Date: 11 Nov 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
+ |[Synology Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20241111)|Multiple vulnerabilities were identified in Synology products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, spoofing, data manipulation and remote code execution on the targeted system.|Release Date: 11 Nov 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20241105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition, elevation of privilege and remote code execution on the targeted system. Note:CVE-2024-43093 is being exploited...| Release Date: 5 Nov 2024 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20241108)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure, security restriction bypass, spoofing and data manipulation.|Release Date: 8 Nov 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241108)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 8 Nov 2024 |
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20241107)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.|Release Date: 7 Nov 2024 |
+ |[Veeam Backup & Replication Security Restriction Bypass Vulnerability](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-security-restriction-bypass-vulnerability_20241107)|A vulnerability was identified in Veeam Backup & Replication.  A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.  |Release Date: 7 Nov 2024 |
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 6 Nov 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. |Release Date: 6 Nov 2024 |
  
 
 # EU-CERT
@@ -132,6 +118,37 @@
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1470/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1469/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1468/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1467/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1466/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1463/)|Visit link for details|2024-11-08|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
+ |[Veeam security advisory (AV24-637)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-637)|Visit link for details|2024-11-08|
+ |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
+ |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
+ |[HPE security advisory (AV24-634)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634)|Visit link for details|2024-11-06|
+ |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
+ |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
+ |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
+ |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
+ |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
+ |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
  
 
 # CERT-SANTE
@@ -166,21 +183,4 @@
  |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
  |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
  |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
- |[Veeam security advisory (AV24-637)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-637)|Visit link for details|2024-11-08|
- |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
- |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
- |[HPE security advisory (AV24-634)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634)|Visit link for details|2024-11-06|
- |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
- |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
- |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
- |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
- |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
- |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
  
