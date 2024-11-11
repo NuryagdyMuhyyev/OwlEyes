@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/11/2024 19:20:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/11/2024 20:21:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,12 +66,6 @@
  |[DSA-5804-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5804-1-webkit2gtk-security-update.53730/)|Visit link for details.|Nov 8, 2024|
  |[USN-6882-2: Cinder regression](https://www.linux.org/threads/usn-6882-2-cinder-regression.53725/)|Visit link for details.|Nov 7, 2024|
  |[USN-7088-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-4-linux-kernel-vulnerabilities.53717/)|Visit link for details.|Nov 7, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -117,23 +117,6 @@
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1463/)|Visit link for details|2024-11-08|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
- |[Veeam security advisory (AV24-637)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-637)|Visit link for details|2024-11-08|
- |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
- |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
- |[HPE security advisory (AV24-634)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634)|Visit link for details|2024-11-06|
- |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
- |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
- |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
- |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
- |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
- |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -151,10 +134,28 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
+ |[Veeam security advisory (AV24-637)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-637)|Visit link for details|2024-11-08|
+ |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
+ |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
+ |[HPE security advisory (AV24-634)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634)|Visit link for details|2024-11-06|
+ |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
+ |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
+ |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
+ |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
+ |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
+ |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 50681111/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas-0)| Une faille critique d'injection de commande affecte plusieurs modèles d'appareils NAS D-Link. Cette vulnérabilité permet à des attaquants distants d'exécuter des commandes arbitraires sans…| 11 novembre 2024|
  |[ 50661111/24 - Vulnérabilité critique affectant le plugin «WPLMS» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wplms-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WPLMS»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant non authentifié d’accéder à…| 11 novembre 2024|
  |[ 50671111/24 - Vulnérabilité dans WatchGuard et Panda ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-watchguard-et-panda)| Une vulnérabilité a été corrigée dans WatchGuard EPDR,  Panda AD360 et Panda Dome. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant de supprimer des fichiers…| 11 novembre 2024|
  |[ 50651111/24 - Vulnérabilité critique dans Apache ZooKeeper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-zookeeper)| Une vulnérabilité critique (CVE-2024-51504) existe dans le composant Admin Server d'Apache ZooKeeper. Cette faille permet à un attaquant de contourner l'authentification par usurpation d'adresse IP,…| 11 novembre 2024|
@@ -165,7 +166,6 @@
  |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
  |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
  |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
- |[ 50570711/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-9)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifiés d'effectuer des…| 07 novembre 2024|
  
 
 # CERT-SANTE
