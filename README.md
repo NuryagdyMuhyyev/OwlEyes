@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/11/2024 22:17:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/11/2024 23:27:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,23 @@
  |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7100-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7100-1-linux-kernel-vulnerabilities.53802/)|Visit link for details.|Nov 11, 2024|
+ |[USN-7098-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-7098-1-openjdk-17-vulnerabilities.53795/)|Visit link for details.|Nov 11, 2024|
+ |[USN-7097-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-7097-1-openjdk-11-vulnerabilities.53794/)|Visit link for details.|Nov 11, 2024|
+ |[USN-7096-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-7096-1-openjdk-8-vulnerabilities.53793/)|Visit link for details.|Nov 11, 2024|
+ |[USN-7099-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-7099-1-openjdk-21-vulnerabilities.53792/)|Visit link for details.|Nov 11, 2024|
+ |[USN-7094-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-7094-1-qemu-vulnerabilities.53785/)|Visit link for details.|Nov 11, 2024|
+ |[DSA-5807-1 nss - security update](https://www.linux.org/threads/dsa-5807-1-nss-security-update.53782/)|Visit link for details.|Nov 10, 2024|
+ |[DSA-5806-1 libarchive - security update](https://www.linux.org/threads/dsa-5806-1-libarchive-security-update.53762/)|Visit link for details.|Nov 9, 2024|
+ |[DSA-5805-1 guix - security update](https://www.linux.org/threads/dsa-5805-1-guix-security-update.53750/)|Visit link for details.|Nov 9, 2024|
+ |[DSA-5804-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5804-1-webkit2gtk-security-update.53730/)|Visit link for details.|Nov 8, 2024|
+ |[USN-6882-2: Cinder regression](https://www.linux.org/threads/usn-6882-2-cinder-regression.53725/)|Visit link for details.|Nov 7, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -67,21 +84,10 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. |Release Date: 6 Nov 2024 |
  
 
-# LINUX-SEC
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[USN-7100-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7100-1-linux-kernel-vulnerabilities.53802/)|Visit link for details.|Nov 11, 2024|
- |[USN-7098-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-7098-1-openjdk-17-vulnerabilities.53795/)|Visit link for details.|Nov 11, 2024|
- |[USN-7097-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-7097-1-openjdk-11-vulnerabilities.53794/)|Visit link for details.|Nov 11, 2024|
- |[USN-7096-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-7096-1-openjdk-8-vulnerabilities.53793/)|Visit link for details.|Nov 11, 2024|
- |[USN-7099-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-7099-1-openjdk-21-vulnerabilities.53792/)|Visit link for details.|Nov 11, 2024|
- |[USN-7094-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-7094-1-qemu-vulnerabilities.53785/)|Visit link for details.|Nov 11, 2024|
- |[DSA-5807-1 nss - security update](https://www.linux.org/threads/dsa-5807-1-nss-security-update.53782/)|Visit link for details.|Nov 10, 2024|
- |[DSA-5806-1 libarchive - security update](https://www.linux.org/threads/dsa-5806-1-libarchive-security-update.53762/)|Visit link for details.|Nov 9, 2024|
- |[DSA-5805-1 guix - security update](https://www.linux.org/threads/dsa-5805-1-guix-security-update.53750/)|Visit link for details.|Nov 9, 2024|
- |[DSA-5804-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5804-1-webkit2gtk-security-update.53730/)|Visit link for details.|Nov 8, 2024|
- |[USN-6882-2: Cinder regression](https://www.linux.org/threads/usn-6882-2-cinder-regression.53725/)|Visit link for details.|Nov 7, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -92,7 +98,7 @@
  |[Portal user is able to access forbidden services information in Combodo iTop (CVE-2024-52001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[Cross-Site Request Forgery (CSRF) in several iTop pages (CVE-2024-52002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
  |[Confidential Containers Trustee security bypass (CVE-2024-51997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[CVE-2024-45763 (CVE-2024-45763)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -109,12 +115,6 @@
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1463/)|Visit link for details|2024-11-08|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
