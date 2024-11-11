@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/11/2024 17:40:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/11/2024 18:26:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,12 +28,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
 
 # US-CERT
 
@@ -68,6 +62,12 @@
  |[USN-7088-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-4-linux-kernel-vulnerabilities.53717/)|Visit link for details.|Nov 7, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,12 +84,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. |Release Date: 6 Nov 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +95,12 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -132,23 +132,6 @@
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
- |[Veeam security advisory (AV24-637)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-637)|Visit link for details|2024-11-08|
- |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
- |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
- |[HPE security advisory (AV24-634)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634)|Visit link for details|2024-11-06|
- |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
- |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
- |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
- |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
- |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
- |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[Google Chrome - CVE-2024-10827](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10827-2024-11-07)|Visit link for details.|07/11/2024|
  |[Cisco - CVE-2024-20536](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20536-2024-11-07)|Visit link for details.|07/11/2024|
  |[Cisco - CVE-2024-20418](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20418-2024-11-07)|Visit link for details.|07/11/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
+ |[Veeam security advisory (AV24-637)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-637)|Visit link for details|2024-11-08|
+ |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
+ |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
+ |[HPE security advisory (AV24-634)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634)|Visit link for details|2024-11-06|
+ |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
+ |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
+ |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
+ |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
+ |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
+ |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
  
