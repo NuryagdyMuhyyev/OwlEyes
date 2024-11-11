@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/11/2024 14:23:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/11/2024 15:22:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 07, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 04, 2024|
- |[Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments ](https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments)|Visit link for details.|Oct 31, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2024|
- |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
- |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
- |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,23 +46,32 @@
  |[USN-7088-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-4-linux-kernel-vulnerabilities.53717/)|Visit link for details.|Nov 7, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 04, 2024|
+ |[Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments ](https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments)|Visit link for details.|Oct 31, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2024|
+ |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
+ |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
+ |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Reflected Cross-site Scripting exploit in Combodo iTop (CVE-2024-52000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[Portal user is able to access forbidden services information in Combodo iTop (CVE-2024-52001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[Cross-Site Request Forgery (CSRF) in several iTop pages (CVE-2024-52002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[Confidential Containers Trustee security bypass (CVE-2024-51997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -97,10 +90,17 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. |Release Date: 6 Nov 2024 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Reflected Cross-site Scripting exploit in Combodo iTop (CVE-2024-52000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
+ |[Portal user is able to access forbidden services information in Combodo iTop (CVE-2024-52001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
+ |[Cross-Site Request Forgery (CSRF) in several iTop pages (CVE-2024-52002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
+ |[Confidential Containers Trustee security bypass (CVE-2024-51997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
+ |[CVE-2024-45763 (CVE-2024-45763)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -134,10 +134,29 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
+ |[Veeam security advisory (AV24-637)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-637)|Visit link for details|2024-11-08|
+ |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
+ |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
+ |[HPE security advisory (AV24-634)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634)|Visit link for details|2024-11-06|
+ |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
+ |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
+ |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
+ |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
+ |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
+ |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 50661111/24 - Vulnérabilité critique affectant le plugin «WPLMS» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wplms-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WPLMS»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant non authentifié d’accéder à…| 11 novembre 2024|
+ |[ 50671111/24 - Vulnérabilité dans WatchGuard et Panda ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-watchguard-et-panda)| Une vulnérabilité a été corrigée dans WatchGuard EPDR,  Panda AD360 et Panda Dome. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant de supprimer des fichiers…| 11 novembre 2024|
  |[ 50651111/24 - Vulnérabilité critique dans Apache ZooKeeper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-zookeeper)| Une vulnérabilité critique (CVE-2024-51504) existe dans le composant Admin Server d'Apache ZooKeeper. Cette faille permet à un attaquant de contourner l'authentification par usurpation d'adresse IP,…| 11 novembre 2024|
  |[ 50640811/24 - Vulnérabilité dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-f5)| Une vulnérabilité a été corrigée dans les versions susmentionnées de F5. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité. | 08 novembre 2024|
  |[ 50630811/24 - Vulnérabilités dans les routeurs Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-routeurs-netgear)| Netgear a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter…| 08 novembre 2024|
@@ -147,8 +166,6 @@
  |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
  |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
  |[ 50570711/24 - Vulnérabilités critiques dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-9)| Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifiés d'effectuer des…| 07 novembre 2024|
- |[ 50560511/24 - Vulnérabilité critique dans les produits Synology ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-synology)| Une vulnérabilité critique a été corrigée dans les produits Synology susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 05 novembre 2024|
- |[ 50550511/24 - Vulnérabilités dans les produits Samsung ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-samsung)| Samsung Mobile a publié des mises à jour de sécurité (SMR) afin de corriger plusieurs vulnérabilités. Une exploitation réussie de ces failles pourrait permettre à un attaquant de contourner la…| 05 novembre 2024|
  
 
 # CERT-SANTE
@@ -166,21 +183,4 @@
  |[Google Chrome - CVE-2024-10827](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10827-2024-11-07)|Visit link for details.|07/11/2024|
  |[Cisco - CVE-2024-20536](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20536-2024-11-07)|Visit link for details.|07/11/2024|
  |[Cisco - CVE-2024-20418](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20418-2024-11-07)|Visit link for details.|07/11/2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
- |[Veeam security advisory (AV24-637)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-637)|Visit link for details|2024-11-08|
- |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
- |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
- |[HPE security advisory (AV24-634)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634)|Visit link for details|2024-11-06|
- |[Google Chrome security advisory (AV24-633)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633)|Visit link for details|2024-11-05|
- |[Android security advisory – November 2024 Monthly Rollup (AV24-632)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632)|Visit link for details|2024-11-04|
- |[[Control systems] CISA ICS security advisories (AV24-631)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631)|Visit link for details|2024-11-04|
- |[Red Hat security advisory (AV24-630)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630)|Visit link for details|2024-11-04|
- |[Ubuntu security advisory (AV24-629)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629)|Visit link for details|2024-11-04|
- |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
  
