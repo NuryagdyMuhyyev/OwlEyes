@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/11/2024 04:19:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/11/2024 06:37:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5811-1 mpg123 - security update](https://www.linux.org/threads/dsa-5811-1-mpg123-security-update.53810/)|Visit link for details.|Nov 12, 2024|
+ |[DSA-5810-1 chromium - security update](https://www.linux.org/threads/dsa-5810-1-chromium-security-update.53809/)|Visit link for details.|Nov 12, 2024|
  |[DSA-5809-1 symfony - security update](https://www.linux.org/threads/dsa-5809-1-symfony-security-update.53804/)|Visit link for details.|Nov 11, 2024|
  |[DSA-5808-1 ghostscript - security update](https://www.linux.org/threads/dsa-5808-1-ghostscript-security-update.53803/)|Visit link for details.|Nov 11, 2024|
  |[USN-7100-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7100-1-linux-kernel-vulnerabilities.53802/)|Visit link for details.|Nov 11, 2024|
@@ -58,11 +60,15 @@
  |[USN-7099-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-7099-1-openjdk-21-vulnerabilities.53792/)|Visit link for details.|Nov 11, 2024|
  |[USN-7094-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-7094-1-qemu-vulnerabilities.53785/)|Visit link for details.|Nov 11, 2024|
  |[DSA-5807-1 nss - security update](https://www.linux.org/threads/dsa-5807-1-nss-security-update.53782/)|Visit link for details.|Nov 10, 2024|
- |[DSA-5806-1 libarchive - security update](https://www.linux.org/threads/dsa-5806-1-libarchive-security-update.53762/)|Visit link for details.|Nov 9, 2024|
- |[DSA-5805-1 guix - security update](https://www.linux.org/threads/dsa-5805-1-guix-security-update.53750/)|Visit link for details.|Nov 9, 2024|
  
 
 # CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -84,20 +90,14 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. |Release Date: 6 Nov 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Reflected Cross-site Scripting exploit in Combodo iTop (CVE-2024-52000)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[Portal user is able to access forbidden services information in Combodo iTop (CVE-2024-52001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[Cross-Site Request Forgery (CSRF) in several iTop pages (CVE-2024-52002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
- |[Confidential Containers Trustee security bypass (CVE-2024-51997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 8, 2024|
+ |[Ansible-core: unsafe tagging bypass via hostvars object in ansible-core (CVE-2024-11079)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
+ |[Access rules for PingAccess may be circumvented with URL-encoded characters (CVE-2024-23983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
+ |[Insufficient Validation in Controllers (Activation/Deactivation) in Ampache (CVE-2024-51484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
+ |[Insufficient Validation in Plugins (Activation/Deactivation) in Ampache (CVE-2024-51485)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
@@ -107,6 +107,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Panda Security Dome PSANHost Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1471/)|Visit link for details|2024-11-11|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1470/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1469/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1468/)|Visit link for details|2024-11-08|
@@ -114,7 +115,6 @@
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1466/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1463/)|Visit link for details|2024-11-08|
  
 
 # EU-CERT
@@ -151,23 +151,6 @@
  |[IBM security advisory (AV24-628)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628)|Visit link for details|2024-11-04|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50681111/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas-0)| Une faille critique d'injection de commande affecte plusieurs modèles d'appareils NAS D-Link. Cette vulnérabilité permet à des attaquants distants d'exécuter des commandes arbitraires sans…| 11 novembre 2024|
- |[ 50661111/24 - Vulnérabilité critique affectant le plugin «WPLMS» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wplms-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WPLMS»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant non authentifié d’accéder à…| 11 novembre 2024|
- |[ 50671111/24 - Vulnérabilité dans WatchGuard et Panda ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-watchguard-et-panda)| Une vulnérabilité a été corrigée dans WatchGuard EPDR,  Panda AD360 et Panda Dome. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant de supprimer des fichiers…| 11 novembre 2024|
- |[ 50651111/24 - Vulnérabilité critique dans Apache ZooKeeper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-zookeeper)| Une vulnérabilité critique (CVE-2024-51504) existe dans le composant Admin Server d'Apache ZooKeeper. Cette faille permet à un attaquant de contourner l'authentification par usurpation d'adresse IP,…| 11 novembre 2024|
- |[ 50640811/24 - Vulnérabilité dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-f5)| Une vulnérabilité a été corrigée dans les versions susmentionnées de F5. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité. | 08 novembre 2024|
- |[ 50630811/24 - Vulnérabilités dans les routeurs Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-routeurs-netgear)| Netgear a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter…| 08 novembre 2024|
- |[ 50620811/24 - Vulnérabilité affectant NetBackup ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-netbackup)| Veritas annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité affectant les versions susmentionnées de son produit NetBackup. L'exploitation  de…| 08 novembre 2024|
- |[ 50610711/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter…| 07 novembre 2024|
- |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
- |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
- |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[Google Chrome - CVE-2024-10827](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10827-2024-11-07)|Visit link for details.|07/11/2024|
  |[Cisco - CVE-2024-20536](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20536-2024-11-07)|Visit link for details.|07/11/2024|
  |[Cisco - CVE-2024-20418](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20418-2024-11-07)|Visit link for details.|07/11/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50681111/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas-0)| Une faille critique d'injection de commande affecte plusieurs modèles d'appareils NAS D-Link. Cette vulnérabilité permet à des attaquants distants d'exécuter des commandes arbitraires sans…| 11 novembre 2024|
+ |[ 50661111/24 - Vulnérabilité critique affectant le plugin «WPLMS» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wplms-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WPLMS»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant non authentifié d’accéder à…| 11 novembre 2024|
+ |[ 50671111/24 - Vulnérabilité dans WatchGuard et Panda ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-watchguard-et-panda)| Une vulnérabilité a été corrigée dans WatchGuard EPDR,  Panda AD360 et Panda Dome. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant de supprimer des fichiers…| 11 novembre 2024|
+ |[ 50651111/24 - Vulnérabilité critique dans Apache ZooKeeper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-zookeeper)| Une vulnérabilité critique (CVE-2024-51504) existe dans le composant Admin Server d'Apache ZooKeeper. Cette faille permet à un attaquant de contourner l'authentification par usurpation d'adresse IP,…| 11 novembre 2024|
+ |[ 50640811/24 - Vulnérabilité dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-f5)| Une vulnérabilité a été corrigée dans les versions susmentionnées de F5. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité. | 08 novembre 2024|
+ |[ 50630811/24 - Vulnérabilités dans les routeurs Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-routeurs-netgear)| Netgear a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter…| 08 novembre 2024|
+ |[ 50620811/24 - Vulnérabilité affectant NetBackup ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-netbackup)| Veritas annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité affectant les versions susmentionnées de son produit NetBackup. L'exploitation  de…| 08 novembre 2024|
+ |[ 50610711/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter…| 07 novembre 2024|
+ |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
+ |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
+ |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
  
