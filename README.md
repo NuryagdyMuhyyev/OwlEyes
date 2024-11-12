@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/11/2024 13:26:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/11/2024 14:21:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,22 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 04, 2024|
+ |[Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments ](https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments)|Visit link for details.|Oct 31, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2024|
+ |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
+ |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
+ |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -46,22 +62,6 @@
  |[DSA-5807-1 nss - security update](https://www.linux.org/threads/dsa-5807-1-nss-security-update.53782/)|Visit link for details.|Nov 10, 2024|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 07, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 04, 2024|
- |[Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments ](https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments)|Visit link for details.|Oct 31, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2024|
- |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
- |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
- |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -72,19 +72,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[code-projects Job Recruitment login.php sql injection (CVE-2024-11099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
- |[SourceCodester Student Record Management System Main Menu infinite loop (CVE-2024-11097)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
- |[Ansible-core: unsafe tagging bypass via hostvars object in ansible-core (CVE-2024-11079)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
- |[Access rules for PingAccess may be circumvented with URL-encoded characters (CVE-2024-23983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
- |[Insufficient Validation in Controllers (Activation/Deactivation) in Ampache (CVE-2024-51484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -103,18 +90,17 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 6 Nov 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Panda Security Dome PSANHost Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1471/)|Visit link for details|2024-11-11|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1470/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1469/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1468/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1467/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1466/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
+ |[code-projects Job Recruitment login.php sql injection (CVE-2024-11099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
+ |[SourceCodester Student Record Management System Main Menu infinite loop (CVE-2024-11097)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
+ |[Ansible-core: unsafe tagging bypass via hostvars object in ansible-core (CVE-2024-11079)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
+ |[Access rules for PingAccess may be circumvented with URL-encoded characters (CVE-2024-23983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
+ |[Insufficient Validation in Controllers (Activation/Deactivation) in Ampache (CVE-2024-51484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -132,6 +118,20 @@
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Panda Security Dome PSANHost Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1471/)|Visit link for details|2024-11-11|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1470/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1469/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1468/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1467/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1466/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
+ |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
  
 
 # CA-CCS
@@ -155,6 +155,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 50691211/24 - Vulnérabilités critiques dans les produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-4)| SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un…| 12 novembre 2024|
  |[ 50681111/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas-0)| Une faille critique d'injection de commande affecte plusieurs modèles d'appareils NAS D-Link. Cette vulnérabilité permet à des attaquants distants d'exécuter des commandes arbitraires sans…| 11 novembre 2024|
  |[ 50661111/24 - Vulnérabilité critique affectant le plugin «WPLMS» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wplms-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WPLMS»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant non authentifié d’accéder à…| 11 novembre 2024|
  |[ 50671111/24 - Vulnérabilité dans WatchGuard et Panda ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-watchguard-et-panda)| Une vulnérabilité a été corrigée dans WatchGuard EPDR,  Panda AD360 et Panda Dome. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant de supprimer des fichiers…| 11 novembre 2024|
@@ -165,7 +166,6 @@
  |[ 50610711/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter…| 07 novembre 2024|
  |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
  |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
- |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
  
 
 # CERT-SANTE
