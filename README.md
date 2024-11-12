@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/11/2024 09:24:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/11/2024 10:20:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,28 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 07, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 04, 2024|
- |[Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments ](https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments)|Visit link for details.|Oct 31, 2024|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2024|
- |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
- |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
- |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,6 +44,12 @@
  |[USN-7099-1: OpenJDK 21 vulnerabilities](https://www.linux.org/threads/usn-7099-1-openjdk-21-vulnerabilities.53792/)|Visit link for details.|Nov 11, 2024|
  |[USN-7094-1: QEMU vulnerabilities](https://www.linux.org/threads/usn-7094-1-qemu-vulnerabilities.53785/)|Visit link for details.|Nov 11, 2024|
  |[DSA-5807-1 nss - security update](https://www.linux.org/threads/dsa-5807-1-nss-security-update.53782/)|Visit link for details.|Nov 10, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -84,6 +68,28 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 6 Nov 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 07, 2024|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 04, 2024|
+ |[Foreign Threat Actor Conducting Large-Scale Spear-Phishing Campaign with RDP Attachments ](https://www.cisa.gov/news-events/alerts/2024/10/31/foreign-threat-actor-conducting-large-scale-spear-phishing-campaign-rdp-attachments)|Visit link for details.|Oct 31, 2024|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/31/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Oct 31, 2024|
+ |[Fortinet Updates Guidance and Indicators of Compromise following FortiManager Vulnerability Exploitation](https://www.cisa.gov/news-events/alerts/2024/10/30/fortinet-updates-guidance-and-indicators-compromise-following-fortimanager-vulnerability)|Visit link for details.|Oct 30, 2024|
+ |[JCDC’s Industry-Government Collaboration Speeds Mitigation of CrowdStrike IT Outage](https://www.cisa.gov/news-events/alerts/2024/10/29/jcdcs-industry-government-collaboration-speeds-mitigation-crowdstrike-it-outage)|Visit link for details.|Oct 29, 2024|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/10/29/apple-releases-security-updates-multiple-products)|Visit link for details.|Oct 29, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/10/29/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Oct 29, 2024|
+ |[Cisco Releases Security Bundle for Cisco ASA, FMC, and FTD Software](https://www.cisa.gov/news-events/alerts/2024/10/24/cisco-releases-security-bundle-cisco-asa-fmc-and-ftd-software)|Visit link for details.|Oct 24, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -92,15 +98,9 @@
  |[Access rules for PingAccess may be circumvented with URL-encoded characters (CVE-2024-23983)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
  |[Insufficient Validation in Controllers (Activation/Deactivation) in Ampache (CVE-2024-51484)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
  |[Insufficient Validation in Plugins (Activation/Deactivation) in Ampache (CVE-2024-51485)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
- |[Insufficient Validation in Catalog (Activation/Deactivation) in Ampache (CVE-2024-51487)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 11, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -134,23 +134,6 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50681111/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas-0)| Une faille critique d'injection de commande affecte plusieurs modèles d'appareils NAS D-Link. Cette vulnérabilité permet à des attaquants distants d'exécuter des commandes arbitraires sans…| 11 novembre 2024|
- |[ 50661111/24 - Vulnérabilité critique affectant le plugin «WPLMS» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wplms-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WPLMS»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant non authentifié d’accéder à…| 11 novembre 2024|
- |[ 50671111/24 - Vulnérabilité dans WatchGuard et Panda ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-watchguard-et-panda)| Une vulnérabilité a été corrigée dans WatchGuard EPDR,  Panda AD360 et Panda Dome. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant de supprimer des fichiers…| 11 novembre 2024|
- |[ 50651111/24 - Vulnérabilité critique dans Apache ZooKeeper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-zookeeper)| Une vulnérabilité critique (CVE-2024-51504) existe dans le composant Admin Server d'Apache ZooKeeper. Cette faille permet à un attaquant de contourner l'authentification par usurpation d'adresse IP,…| 11 novembre 2024|
- |[ 50640811/24 - Vulnérabilité dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-f5)| Une vulnérabilité a été corrigée dans les versions susmentionnées de F5. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité. | 08 novembre 2024|
- |[ 50630811/24 - Vulnérabilités dans les routeurs Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-routeurs-netgear)| Netgear a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter…| 08 novembre 2024|
- |[ 50620811/24 - Vulnérabilité affectant NetBackup ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-netbackup)| Veritas annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité affectant les versions susmentionnées de son produit NetBackup. L'exploitation  de…| 08 novembre 2024|
- |[ 50610711/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter…| 07 novembre 2024|
- |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
- |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
- |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -166,6 +149,23 @@
  |[Google Chrome - CVE-2024-10827](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-10827-2024-11-07)|Visit link for details.|07/11/2024|
  |[Cisco - CVE-2024-20536](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20536-2024-11-07)|Visit link for details.|07/11/2024|
  |[Cisco - CVE-2024-20418](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20418-2024-11-07)|Visit link for details.|07/11/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50681111/24 - Vulnérabilité critique dans D-Link NAS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-d-link-nas-0)| Une faille critique d'injection de commande affecte plusieurs modèles d'appareils NAS D-Link. Cette vulnérabilité permet à des attaquants distants d'exécuter des commandes arbitraires sans…| 11 novembre 2024|
+ |[ 50661111/24 - Vulnérabilité critique affectant le plugin «WPLMS» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wplms-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WPLMS»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant non authentifié d’accéder à…| 11 novembre 2024|
+ |[ 50671111/24 - Vulnérabilité dans WatchGuard et Panda ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-watchguard-et-panda)| Une vulnérabilité a été corrigée dans WatchGuard EPDR,  Panda AD360 et Panda Dome. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant de supprimer des fichiers…| 11 novembre 2024|
+ |[ 50651111/24 - Vulnérabilité critique dans Apache ZooKeeper ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-zookeeper)| Une vulnérabilité critique (CVE-2024-51504) existe dans le composant Admin Server d'Apache ZooKeeper. Cette faille permet à un attaquant de contourner l'authentification par usurpation d'adresse IP,…| 11 novembre 2024|
+ |[ 50640811/24 - Vulnérabilité dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-f5)| Une vulnérabilité a été corrigée dans les versions susmentionnées de F5. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité. | 08 novembre 2024|
+ |[ 50630811/24 - Vulnérabilités dans les routeurs Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-routeurs-netgear)| Netgear a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter…| 08 novembre 2024|
+ |[ 50620811/24 - Vulnérabilité affectant NetBackup ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-netbackup)| Veritas annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité affectant les versions susmentionnées de son produit NetBackup. L'exploitation  de…| 08 novembre 2024|
+ |[ 50610711/24 - Vulnérabilités dans les produits HPE Aruba Networking ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-hpe-aruba-networking-0)| Plusieurs vulnérabilités ont été corrigées dans les produits HPE Aruba Networking susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter…| 07 novembre 2024|
+ |[ 50600711/24 - Vulnérabilité dans Veeam Backup Enterprise Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-veeam-backup-enterprise-manager)| Une vulnérabilité a été corrigée dans Veeam Backup Enterprise Manager (VBEM). Un attaquant pourrait exploiter cette faille afin d'obtenir un accès non autorisé, ce qui peut compromettre l'intégrité et…| 07 novembre 2024|
+ |[ 50590711/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal)| Une vulnérabilité critique a été corrigée dans le module « Basic HTTP Authentication » du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner les…| 07 novembre 2024|
+ |[ 50580711/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-26)| Google vient de publier une mise à jour de sécurité qui permet de corriger deux vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 07 novembre 2024|
  
 
 # CA-CCS
