@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/11/2024 02:19:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/11/2024 03:19:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -49,6 +49,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7103-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-7103-1-ghostscript-vulnerabilities.53822/)|Visit link for details.|Nov 12, 2024|
  |[USN-7100-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7100-2-linux-kernel-vulnerabilities.53820/)|Visit link for details.|Nov 12, 2024|
  |[USN-7102-1: MySQL vulnerabilities](https://www.linux.org/threads/usn-7102-1-mysql-vulnerabilities.53819/)|Visit link for details.|Nov 12, 2024|
  |[USN-7101-1: Pydantic vulnerability](https://www.linux.org/threads/usn-7101-1-pydantic-vulnerability.53817/)|Visit link for details.|Nov 12, 2024|
@@ -59,10 +60,9 @@
  |[USN-7100-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7100-1-linux-kernel-vulnerabilities.53802/)|Visit link for details.|Nov 11, 2024|
  |[USN-7098-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-7098-1-openjdk-17-vulnerabilities.53795/)|Visit link for details.|Nov 11, 2024|
  |[USN-7097-1: OpenJDK 11 vulnerabilities](https://www.linux.org/threads/usn-7097-1-openjdk-11-vulnerabilities.53794/)|Visit link for details.|Nov 11, 2024|
- |[USN-7096-1: OpenJDK 8 vulnerabilities](https://www.linux.org/threads/usn-7096-1-openjdk-8-vulnerabilities.53793/)|Visit link for details.|Nov 11, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -84,7 +84,7 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 6 Nov 2024 |
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -98,7 +98,7 @@
  |[CVE-2024-10971 (CVE-2024-10971)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
  |[Denial of Service attack on windows app using Netty (CVE-2024-47535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
  |[Decidim-Awesome: SQL injection in AdminAccountability (CVE-2024-43415)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[CVE-2024-50327 (CVE-2024-50327)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -107,6 +107,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Veeam Backup Enterprise Manager AuthorizeByVMwareSsoToken Improper Certificate Validation Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1472/)|Visit link for details|2024-11-12|
  |[Panda Security Dome PSANHost Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1471/)|Visit link for details|2024-11-11|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1470/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1469/)|Visit link for details|2024-11-08|
@@ -114,7 +115,6 @@
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1467/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1466/)|Visit link for details|2024-11-08|
  |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1465/)|Visit link for details|2024-11-08|
- |[Delta Electronics DIAScreen DPA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1464/)|Visit link for details|2024-11-08|
  
 
 # EU-CERT
@@ -171,6 +171,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[HPE security advisory (AV24-647)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-647)|Visit link for details|2024-11-12|
+ |[[Control systems] Schneider Electric security advisory (AV24-646)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-646)|Visit link for details|2024-11-12|
  |[SAP security advisory – November 2024 monthly rollup (AV24-645)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-november-2024-monthly-rollup-av24-645)|Visit link for details|2024-11-12|
  |[Citrix security advisory (AV24-644)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-644)|Visit link for details|2024-11-12|
  |[[Control systems] Siemens security advisory (AV24-643)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-643)|Visit link for details|2024-11-12|
@@ -180,6 +182,4 @@
  |[IBM security advisory (AV24-639)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-639)|Visit link for details|2024-11-12|
  |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
  |[Veeam security advisory (AV24-637)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-637)|Visit link for details|2024-11-08|
- |[Drupal security advisory (AV24-636)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636)|Visit link for details|2024-11-06|
- |[Cisco security advisory (AV24-635)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635)|Visit link for details|2024-11-06|
  
