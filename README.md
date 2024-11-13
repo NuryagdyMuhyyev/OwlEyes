@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/11/2024 10:20:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/11/2024 11:29:31 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,12 @@
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,18 +66,6 @@
  |[DSA-5808-1 ghostscript - security update](https://www.linux.org/threads/dsa-5808-1-ghostscript-security-update.53803/)|Visit link for details.|Nov 11, 2024|
  |[USN-7100-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7100-1-linux-kernel-vulnerabilities.53802/)|Visit link for details.|Nov 11, 2024|
  |[USN-7098-1: OpenJDK 17 vulnerabilities](https://www.linux.org/threads/usn-7098-1-openjdk-17-vulnerabilities.53795/)|Visit link for details.|Nov 11, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -90,6 +84,12 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20241108)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure, security restriction bypass, spoofing and data manipulation.|Release Date: 8 Nov 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,6 +101,23 @@
  |[CVE-2024-21957 (CVE-2024-21957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SAP - CVE-2024-47590](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47590-2024-11-12)|Visit link for details.|12/11/2024|
+ |[ManageEngine - CVE-2024-24409](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-24409-2024-11-12)|Visit link for details.|12/11/2024|
+ |[Libtom/IBM - CVE-2023-36328](https://www.cyberveille-sante.gouv.fr/alertes/libtomibm-cve-2023-36328-2024-11-12)|Visit link for details.|12/11/2024|
+ |[D-Link - CVE-2024-11068](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-11068-2024-11-12)|Visit link for details.|12/11/2024|
+ |[Dell - CVE-2024-48837](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-48837-2024-11-12)|Visit link for details.|12/11/2024|
+ |[Python - CVE-2024-8088](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2024-8088-2024-08-27)|Visit link for details.|12/11/2024|
+ |[Libexpat/Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/libexpattenable-cve-2024-45492-2024-09-18)|Visit link for details.|12/11/2024|
+ |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|12/11/2024|
+ |[WatchGuard - CVE-2024-8424](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-8424-2024-11-08)|Visit link for details.|08/11/2024|
+ |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Cisco - CVE-2024-20484](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20484-2024-11-08)|Visit link for details.|08/11/2024|
  
 
 # EU-CERT
@@ -134,23 +151,6 @@
  |[ 50640811/24 - Vulnérabilité dans les produits F5 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-les-produits-f5)| Une vulnérabilité a été corrigée dans les versions susmentionnées de F5. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité. | 08 novembre 2024|
  |[ 50630811/24 - Vulnérabilités dans les routeurs Netgear ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-routeurs-netgear)| Netgear a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter…| 08 novembre 2024|
  |[ 50620811/24 - Vulnérabilité affectant NetBackup ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-netbackup)| Veritas annonce la disponibilité de mises à jour de sécurité permettant la correction  d’une vulnérabilité affectant les versions susmentionnées de son produit NetBackup. L'exploitation  de…| 08 novembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SAP - CVE-2024-47590](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47590-2024-11-12)|Visit link for details.|12/11/2024|
- |[ManageEngine - CVE-2024-24409](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-24409-2024-11-12)|Visit link for details.|12/11/2024|
- |[Libtom/IBM - CVE-2023-36328](https://www.cyberveille-sante.gouv.fr/alertes/libtomibm-cve-2023-36328-2024-11-12)|Visit link for details.|12/11/2024|
- |[D-Link - CVE-2024-11068](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-11068-2024-11-12)|Visit link for details.|12/11/2024|
- |[Dell - CVE-2024-48837](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-48837-2024-11-12)|Visit link for details.|12/11/2024|
- |[Python - CVE-2024-8088](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2024-8088-2024-08-27)|Visit link for details.|12/11/2024|
- |[Libexpat/Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/libexpattenable-cve-2024-45492-2024-09-18)|Visit link for details.|12/11/2024|
- |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|12/11/2024|
- |[WatchGuard - CVE-2024-8424](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-8424-2024-11-08)|Visit link for details.|08/11/2024|
- |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|08/11/2024|
- |[Cisco - CVE-2024-20484](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20484-2024-11-08)|Visit link for details.|08/11/2024|
  
 
 # CA-CCS
