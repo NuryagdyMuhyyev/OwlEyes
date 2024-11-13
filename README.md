@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/11/2024 20:22:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/11/2024 21:25:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,7 +46,23 @@
  |[USN-7100-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7100-1-linux-kernel-vulnerabilities.53802/)|Visit link for details.|Nov 11, 2024|
  
 
-# OBS-Vigilance
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
+ |[Microsoft Releases November 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/11/12/microsoft-releases-november-2024-security-updates)|Visit link for details.|Nov 12, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
+ |[Ivanti Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/ivanti-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
+ |[JCDC’s Collaborative Efforts Enhance Cybersecurity for the 2024 Olympic and Paralympic Games](https://www.cisa.gov/news-events/alerts/2024/11/12/jcdcs-collaborative-efforts-enhance-cybersecurity-2024-olympic-and-paralympic-games)|Visit link for details.|Nov 12, 2024|
+ |[Citrix Releases Security Updates for NetScaler and Citrix Session Recording](https://www.cisa.gov/news-events/alerts/2024/11/12/citrix-releases-security-updates-netscaler-and-citrix-session-recording)|Visit link for details.|Nov 12, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 12, 2024|
+ |[CISA, FBI, NSA, and International Partners Release Joint Advisory on 2023 Top Routinely Exploited Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-fbi-nsa-and-international-partners-release-joint-advisory-2023-top-routinely-exploited)|Visit link for details.|Nov 12, 2024|
+ |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 12, 2024|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -74,20 +84,10 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20241108)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure, security restriction bypass, spoofing and data manipulation.|Release Date: 8 Nov 2024 |
  
 
-# US-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
- |[Microsoft Releases November 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/11/12/microsoft-releases-november-2024-security-updates)|Visit link for details.|Nov 12, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
- |[Ivanti Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/ivanti-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
- |[JCDC’s Collaborative Efforts Enhance Cybersecurity for the 2024 Olympic and Paralympic Games](https://www.cisa.gov/news-events/alerts/2024/11/12/jcdcs-collaborative-efforts-enhance-cybersecurity-2024-olympic-and-paralympic-games)|Visit link for details.|Nov 12, 2024|
- |[Citrix Releases Security Updates for NetScaler and Citrix Session Recording](https://www.cisa.gov/news-events/alerts/2024/11/12/citrix-releases-security-updates-netscaler-and-citrix-session-recording)|Visit link for details.|Nov 12, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 12, 2024|
- |[CISA, FBI, NSA, and International Partners Release Joint Advisory on 2023 Top Routinely Exploited Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-fbi-nsa-and-international-partners-release-joint-advisory-2023-top-routinely-exploited)|Visit link for details.|Nov 12, 2024|
- |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 12, 2024|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Nov 07, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -98,26 +98,23 @@
  |[CVE-2024-21975 (CVE-2024-21975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
  |[CVE-2024-21974 (CVE-2024-21974)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
  |[CVE-2024-21958 (CVE-2024-21958)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[CVE-2024-21957 (CVE-2024-21957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 12, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe security advisory (AV24–648)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-648)|Visit link for details|2024-11-13|
- |[HPE security advisory (AV24-647)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-647)|Visit link for details|2024-11-12|
- |[[Control systems] Schneider Electric security advisory (AV24-646)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-646)|Visit link for details|2024-11-12|
- |[SAP security advisory – November 2024 monthly rollup (AV24-645)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-november-2024-monthly-rollup-av24-645)|Visit link for details|2024-11-12|
- |[Citrix security advisory (AV24-644)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-644)|Visit link for details|2024-11-12|
- |[[Control systems] Siemens security advisory (AV24-643)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-643)|Visit link for details|2024-11-12|
- |[Red Hat security advisory (AV24-642)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-642)|Visit link for details|2024-11-12|
- |[Ubuntu security advisory (AV24-641)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-641)|Visit link for details|2024-11-12|
- |[[Control systems] CISA ICS security advisories (AV24-640)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-640)|Visit link for details|2024-11-12|
- |[IBM security advisory (AV24-639)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-639)|Visit link for details|2024-11-12|
- |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
+ |[(0Day) G DATA Total Security Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1486/)|Visit link for details|2024-11-12|
+ |[(0Day) Trimble SketchUp Viewer SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1485/)|Visit link for details|2024-11-12|
+ |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1484/)|Visit link for details|2024-11-12|
+ |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1483/)|Visit link for details|2024-11-12|
+ |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1482/)|Visit link for details|2024-11-12|
+ |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1481/)|Visit link for details|2024-11-12|
+ |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1480/)|Visit link for details|2024-11-12|
+ |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1479/)|Visit link for details|2024-11-12|
  
 
 # EU-CERT
@@ -137,35 +134,21 @@
  |[2024-105: Multiple Vulnerabilities in WhatsUp Gold](https://cert.europa.eu/publications/security-advisories/2024-105/)|On September 24, 2024, the WhatsUp Gold team released a security advisory addressing six vulnerabilities of various severities, the most critical reaching the score of 9.8 out of 10.|Monday, September 30, 2024 09:50:00 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) G DATA Total Security Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1486/)|Visit link for details|2024-11-12|
- |[(0Day) Trimble SketchUp Viewer SKP File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1485/)|Visit link for details|2024-11-12|
- |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1484/)|Visit link for details|2024-11-12|
- |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1483/)|Visit link for details|2024-11-12|
- |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1482/)|Visit link for details|2024-11-12|
- |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1481/)|Visit link for details|2024-11-12|
- |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1480/)|Visit link for details|2024-11-12|
- |[(0Day) Trimble SketchUp Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1479/)|Visit link for details|2024-11-12|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[SAP - CVE-2024-47590](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47590-2024-11-12)|Visit link for details.|12/11/2024|
- |[ManageEngine - CVE-2024-24409](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-24409-2024-11-12)|Visit link for details.|12/11/2024|
- |[Libtom/IBM - CVE-2023-36328](https://www.cyberveille-sante.gouv.fr/alertes/libtomibm-cve-2023-36328-2024-11-12)|Visit link for details.|12/11/2024|
- |[D-Link - CVE-2024-11068](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-11068-2024-11-12)|Visit link for details.|12/11/2024|
- |[Dell - CVE-2024-48837](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-48837-2024-11-12)|Visit link for details.|12/11/2024|
- |[Python - CVE-2024-8088](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2024-8088-2024-08-27)|Visit link for details.|12/11/2024|
- |[Libexpat/Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/libexpattenable-cve-2024-45492-2024-09-18)|Visit link for details.|12/11/2024|
- |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|12/11/2024|
- |[WatchGuard - CVE-2024-8424](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-8424-2024-11-08)|Visit link for details.|08/11/2024|
- |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|08/11/2024|
- |[Cisco - CVE-2024-20484](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20484-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Adobe security advisory (AV24–648)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-648)|Visit link for details|2024-11-13|
+ |[HPE security advisory (AV24-647)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-647)|Visit link for details|2024-11-12|
+ |[[Control systems] Schneider Electric security advisory (AV24-646)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-646)|Visit link for details|2024-11-12|
+ |[SAP security advisory – November 2024 monthly rollup (AV24-645)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-november-2024-monthly-rollup-av24-645)|Visit link for details|2024-11-12|
+ |[Citrix security advisory (AV24-644)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-644)|Visit link for details|2024-11-12|
+ |[[Control systems] Siemens security advisory (AV24-643)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-643)|Visit link for details|2024-11-12|
+ |[Red Hat security advisory (AV24-642)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-642)|Visit link for details|2024-11-12|
+ |[Ubuntu security advisory (AV24-641)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-641)|Visit link for details|2024-11-12|
+ |[[Control systems] CISA ICS security advisories (AV24-640)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-640)|Visit link for details|2024-11-12|
+ |[IBM security advisory (AV24-639)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-639)|Visit link for details|2024-11-12|
+ |[Microsoft Edge security advisory (AV24-638)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-638)|Visit link for details|2024-11-08|
  
 
 # MA-CERT
@@ -183,4 +166,21 @@
  |[ 50751311/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Novembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-novembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 13 novembre 2024|
  |[ 50741311/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-29)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 13 novembre 2024|
  |[ 50731311/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-17)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SAP - CVE-2024-47590](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47590-2024-11-12)|Visit link for details.|12/11/2024|
+ |[ManageEngine - CVE-2024-24409](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-24409-2024-11-12)|Visit link for details.|12/11/2024|
+ |[Libtom/IBM - CVE-2023-36328](https://www.cyberveille-sante.gouv.fr/alertes/libtomibm-cve-2023-36328-2024-11-12)|Visit link for details.|12/11/2024|
+ |[D-Link - CVE-2024-11068](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-11068-2024-11-12)|Visit link for details.|12/11/2024|
+ |[Dell - CVE-2024-48837](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-48837-2024-11-12)|Visit link for details.|12/11/2024|
+ |[Python - CVE-2024-8088](https://www.cyberveille-sante.gouv.fr/alertes/python-cve-2024-8088-2024-08-27)|Visit link for details.|12/11/2024|
+ |[Libexpat/Tenable - CVE-2024-45492](https://www.cyberveille-sante.gouv.fr/alertes/libexpattenable-cve-2024-45492-2024-09-18)|Visit link for details.|12/11/2024|
+ |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|12/11/2024|
+ |[WatchGuard - CVE-2024-8424](https://www.cyberveille-sante.gouv.fr/alertes/watchguard-cve-2024-8424-2024-11-08)|Visit link for details.|08/11/2024|
+ |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|08/11/2024|
+ |[Cisco - CVE-2024-20484](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2024-20484-2024-11-08)|Visit link for details.|08/11/2024|
  
