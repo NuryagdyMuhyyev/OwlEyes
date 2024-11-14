@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/11/2024 22:19:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/11/2024 23:29:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -88,10 +88,10 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Reflected XSS in ITG Computer Technology's vSRM Supplier Relationship Management System (CVE-2024-7787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
- |[Automation By Autonami < 3.3.0 - Unauthenticated SQLi (CVE-2024-9186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
- |[Simple File List < 6.1.13 - Reflected Cross-Site Scripting (CVE-2024-10146)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
- |[Nexus Repository 2 - Stored XSS (CVE-2024-5083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
+ |[WordPress Matix Popup Builder plugin <= 1.0.0 - Arbitrary Option Update to Privilege Escalation vulnerability (CVE-2024-52382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
+ |[Remote Code Execution on click of <a> Link in markdown preview (CVE-2024-49362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
+ |[WordPress Ai Auto Tool Content Writing Assistant plugin <= 2.1.2 - Broken Access Control vulnerability (CVE-2024-52383)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
+ |[XSS and Open Redirect via SVG File Upload in parisneo/lollms-webui (CVE-2024-5125)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
