@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/11/2024 15:23:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/11/2024 16:17:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,12 +45,6 @@
  |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 12, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -66,19 +60,6 @@
  |[DSA-5810-1 chromium - security update](https://www.linux.org/threads/dsa-5810-1-chromium-security-update.53809/)|Visit link for details.|Nov 12, 2024|
  |[DSA-5809-1 symfony - security update](https://www.linux.org/threads/dsa-5809-1-symfony-security-update.53804/)|Visit link for details.|Nov 11, 2024|
  |[DSA-5808-1 ghostscript - security update](https://www.linux.org/threads/dsa-5808-1-ghostscript-security-update.53803/)|Visit link for details.|Nov 11, 2024|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Nexus Repository 2 - Stored XSS (CVE-2024-5083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
- |[Intel Quartus Prime Pro Edition software for Windows privilege escalation (CVE-2024-38383)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2024|
- |[Intel Quartus Prime Standard Edition software privilege escalation (CVE-2024-38668)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2024|
- |[Intel Graphics Driver privilege escalation (CVE-2024-38387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -97,24 +78,46 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20241108)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure, security restriction bypass, spoofing and data manipulation.|Release Date: 8 Nov 2024 |
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager OnSaveToDB Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1503/)|Visit link for details|2024-11-13|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Nexus Repository 2 - Stored XSS (CVE-2024-5083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
+ |[Intel Quartus Prime Pro Edition software for Windows privilege escalation (CVE-2024-38383)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2024|
+ |[Intel Quartus Prime Standard Edition software privilege escalation (CVE-2024-38668)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2024|
+ |[Intel Graphics Driver privilege escalation (CVE-2024-38387)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2024|
+ |[CVE-2024-21799 (CVE-2024-21799)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 13, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
+ |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
+ |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
+ |[Intel security advisory (AV24-655)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-655)|Visit link for details|2024-11-13|
+ |[Drupal security advisory (AV24-654)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-654)|Visit link for details|2024-11-13|
+ |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
+ |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
+ |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
+ |[Ivanti security advisory (AV24-650)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-650)|Visit link for details|2024-11-13|
+ |[Microsoft security advisory – November 2024 monthly rollup (AV24–649)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-november-2024-monthly-rollup-av24-649)|Visit link for details|2024-11-13|
+ |[Adobe security advisory (AV24–648)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-648)|Visit link for details|2024-11-13|
  
 
 # EU-CERT
@@ -134,21 +137,18 @@
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Task Scheduler - CVE-2024-49039](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-task-scheduler-cve-2024-49039-2024-11-13)|Visit link for details.|13/11/2024|
- |[Microsoft Active Directory - CVE-2024-49019](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-active-directory-cve-2024-49019-2024-11-13)|Visit link for details.|13/11/2024|
- |[Ivanti Connect Secure - CVE-2024-38655](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connect-secure-cve-2024-38655-2024-11-13)|Visit link for details.|13/11/2024|
- |[Citrix NetScaler - CVE-2024-8535](https://www.cyberveille-sante.gouv.fr/alertes/citrix-netscaler-cve-2024-8535-2024-11-13)|Visit link for details.|13/11/2024|
- |[Citrix - CVE-2024-8068](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-8068-2024-11-13)|Visit link for details.|13/11/2024|
- |[SAP - CVE-2024-47590](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47590-2024-11-12)|Visit link for details.|12/11/2024|
- |[ManageEngine - CVE-2024-24409](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-24409-2024-11-12)|Visit link for details.|12/11/2024|
- |[Libtom/IBM - CVE-2023-36328](https://www.cyberveille-sante.gouv.fr/alertes/libtomibm-cve-2023-36328-2024-11-12)|Visit link for details.|12/11/2024|
- |[D-Link - CVE-2024-11068](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-11068-2024-11-12)|Visit link for details.|12/11/2024|
- |[Dell - CVE-2024-48837](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-48837-2024-11-12)|Visit link for details.|12/11/2024|
- |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|12/11/2024|
+ |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager OnSaveToDB Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1503/)|Visit link for details|2024-11-13|
  
 
 # MA-CERT
@@ -165,22 +165,21 @@
  |[ 50771311/24 - Vulnérabilités critiques dans les produits Microsoft SQL Server (Patch… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-sql-server-patch-tuesday-novembre)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à…| 13 novembre 2024|
  |[ 50761311/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Novembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-novembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft Windows. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du…| 13 novembre 2024|
  |[ 50751311/24 - Vulnérabilités dans Microsoft Office (Patch Tuesday Novembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-office-patch-tuesday-novembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft office. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du code…| 13 novembre 2024|
- |[ 50741311/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-29)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 13 novembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
- |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
- |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
- |[Intel security advisory (AV24-655)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-655)|Visit link for details|2024-11-13|
- |[Drupal security advisory (AV24-654)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-654)|Visit link for details|2024-11-13|
- |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
- |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
- |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
- |[Ivanti security advisory (AV24-650)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-650)|Visit link for details|2024-11-13|
- |[Microsoft security advisory – November 2024 monthly rollup (AV24–649)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-november-2024-monthly-rollup-av24-649)|Visit link for details|2024-11-13|
- |[Adobe security advisory (AV24–648)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-648)|Visit link for details|2024-11-13|
+ |[Microsoft Task Scheduler - CVE-2024-49039](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-task-scheduler-cve-2024-49039-2024-11-13)|Visit link for details.|13/11/2024|
+ |[Microsoft Active Directory - CVE-2024-49019](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-active-directory-cve-2024-49019-2024-11-13)|Visit link for details.|13/11/2024|
+ |[Ivanti Connect Secure - CVE-2024-38655](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connect-secure-cve-2024-38655-2024-11-13)|Visit link for details.|13/11/2024|
+ |[Citrix NetScaler - CVE-2024-8535](https://www.cyberveille-sante.gouv.fr/alertes/citrix-netscaler-cve-2024-8535-2024-11-13)|Visit link for details.|13/11/2024|
+ |[Citrix - CVE-2024-8068](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-8068-2024-11-13)|Visit link for details.|13/11/2024|
+ |[SAP - CVE-2024-47590](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47590-2024-11-12)|Visit link for details.|12/11/2024|
+ |[ManageEngine - CVE-2024-24409](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-24409-2024-11-12)|Visit link for details.|12/11/2024|
+ |[Libtom/IBM - CVE-2023-36328](https://www.cyberveille-sante.gouv.fr/alertes/libtomibm-cve-2023-36328-2024-11-12)|Visit link for details.|12/11/2024|
+ |[D-Link - CVE-2024-11068](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-11068-2024-11-12)|Visit link for details.|12/11/2024|
+ |[Dell - CVE-2024-48837](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-48837-2024-11-12)|Visit link for details.|12/11/2024|
+ |[Expat/Tenable Nessus - CVE-2024-45491](https://www.cyberveille-sante.gouv.fr/alertes/expattenable-nessus-cve-2024-45491-2024-09-16)|Visit link for details.|12/11/2024|
  
