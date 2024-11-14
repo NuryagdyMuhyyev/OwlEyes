@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/11/2024 00:16:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/11/2024 01:23:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,22 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Nineteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-releases-nineteen-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2024|
- |[Palo Alto Networks Emphasizes Hardening Guidance](https://www.cisa.gov/news-events/alerts/2024/11/13/palo-alto-networks-emphasizes-hardening-guidance)|Visit link for details.|Nov 13, 2024|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
- |[Microsoft Releases November 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/11/12/microsoft-releases-november-2024-security-updates)|Visit link for details.|Nov 12, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
- |[Ivanti Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/ivanti-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
- |[JCDC’s Collaborative Efforts Enhance Cybersecurity for the 2024 Olympic and Paralympic Games](https://www.cisa.gov/news-events/alerts/2024/11/12/jcdcs-collaborative-efforts-enhance-cybersecurity-2024-olympic-and-paralympic-games)|Visit link for details.|Nov 12, 2024|
- |[Citrix Releases Security Updates for NetScaler and Citrix Session Recording](https://www.cisa.gov/news-events/alerts/2024/11/12/citrix-releases-security-updates-netscaler-and-citrix-session-recording)|Visit link for details.|Nov 12, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 12, 2024|
- |[CISA, FBI, NSA, and International Partners Release Joint Advisory on 2023 Top Routinely Exploited Vulnerabilities](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-fbi-nsa-and-international-partners-release-joint-advisory-2023-top-routinely-exploited)|Visit link for details.|Nov 12, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -60,6 +44,28 @@
  |[USN-7105-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7105-1-net-vulnerabilities.53823/)|Visit link for details.|Nov 13, 2024|
  |[USN-7103-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-7103-1-ghostscript-vulnerabilities.53822/)|Visit link for details.|Nov 12, 2024|
  |[USN-7100-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7100-2-linux-kernel-vulnerabilities.53820/)|Visit link for details.|Nov 12, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 14, 2024|
+ |[CISA Releases Nineteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-releases-nineteen-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2024|
+ |[Palo Alto Networks Emphasizes Hardening Guidance](https://www.cisa.gov/news-events/alerts/2024/11/13/palo-alto-networks-emphasizes-hardening-guidance)|Visit link for details.|Nov 13, 2024|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
+ |[Microsoft Releases November 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/11/12/microsoft-releases-november-2024-security-updates)|Visit link for details.|Nov 12, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
+ |[Ivanti Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/ivanti-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
+ |[JCDC’s Collaborative Efforts Enhance Cybersecurity for the 2024 Olympic and Paralympic Games](https://www.cisa.gov/news-events/alerts/2024/11/12/jcdcs-collaborative-efforts-enhance-cybersecurity-2024-olympic-and-paralympic-games)|Visit link for details.|Nov 12, 2024|
+ |[Citrix Releases Security Updates for NetScaler and Citrix Session Recording](https://www.cisa.gov/news-events/alerts/2024/11/12/citrix-releases-security-updates-netscaler-and-citrix-session-recording)|Visit link for details.|Nov 12, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 12, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -86,21 +92,29 @@
  |[Remote Code Execution on click of <a> Link in markdown preview (CVE-2024-49362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
  |[WordPress Ai Auto Tool Content Writing Assistant plugin <= 2.1.2 - Broken Access Control vulnerability (CVE-2024-52383)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
  |[XSS and Open Redirect via SVG File Upload in parisneo/lollms-webui (CVE-2024-5125)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
- |[Lack of login attempt rate-limiting in zenml-io/zenml (CVE-2024-4311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
+ |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
  
 
 # CA-CCS
@@ -137,18 +151,21 @@
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager OnSaveToDB Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1503/)|Visit link for details|2024-11-13|
+ |[Microsoft - CVE-2024-43639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43639-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Microsoft - CVE-2024-43498](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43498-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Ivanti EPM - CVE-2024-50330](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-epm-cve-2024-50330-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Fortinet - CVE-2024-36513](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-36513-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Dell - CVE-2024-45763](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-45763-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Fortinet - CVE-2024-47575](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47575-2024-10-24)|Visit link for details.|14/11/2024|
+ |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|14/11/2024|
+ |[Microsoft Task Scheduler - CVE-2024-49039](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-task-scheduler-cve-2024-49039-2024-11-13)|Visit link for details.|13/11/2024|
+ |[Microsoft Active Directory - CVE-2024-49019](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-active-directory-cve-2024-49019-2024-11-13)|Visit link for details.|13/11/2024|
+ |[Ivanti Connect Secure - CVE-2024-38655](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connect-secure-cve-2024-38655-2024-11-13)|Visit link for details.|13/11/2024|
+ |[Citrix NetScaler - CVE-2024-8535](https://www.cyberveille-sante.gouv.fr/alertes/citrix-netscaler-cve-2024-8535-2024-11-13)|Visit link for details.|13/11/2024|
  
 
 # MA-CERT
@@ -165,21 +182,4 @@
  |[ 50781311/24 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Novembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-azure-patch-tuesday-novembre-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et d’exécuter du code…| 13 novembre 2024|
  |[ 50771311/24 - Vulnérabilités critiques dans les produits Microsoft SQL Server (Patch… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-sql-server-patch-tuesday-novembre)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à…| 13 novembre 2024|
  |[ 50761311/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Novembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-novembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft Windows. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du…| 13 novembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2024-43639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43639-2024-11-14)|Visit link for details.|14/11/2024|
- |[Microsoft - CVE-2024-43498](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43498-2024-11-14)|Visit link for details.|14/11/2024|
- |[Ivanti EPM - CVE-2024-50330](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-epm-cve-2024-50330-2024-11-14)|Visit link for details.|14/11/2024|
- |[Fortinet - CVE-2024-36513](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-36513-2024-11-14)|Visit link for details.|14/11/2024|
- |[Dell - CVE-2024-45763](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-45763-2024-11-14)|Visit link for details.|14/11/2024|
- |[Fortinet - CVE-2024-47575](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47575-2024-10-24)|Visit link for details.|14/11/2024|
- |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|14/11/2024|
- |[Microsoft Task Scheduler - CVE-2024-49039](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-task-scheduler-cve-2024-49039-2024-11-13)|Visit link for details.|13/11/2024|
- |[Microsoft Active Directory - CVE-2024-49019](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-active-directory-cve-2024-49019-2024-11-13)|Visit link for details.|13/11/2024|
- |[Ivanti Connect Secure - CVE-2024-38655](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connect-secure-cve-2024-38655-2024-11-13)|Visit link for details.|13/11/2024|
- |[Citrix NetScaler - CVE-2024-8535](https://www.cyberveille-sante.gouv.fr/alertes/citrix-netscaler-cve-2024-8535-2024-11-13)|Visit link for details.|13/11/2024|
  
