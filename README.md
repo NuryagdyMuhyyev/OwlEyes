@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/11/2024 09:26:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/11/2024 10:20:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7112-1: GD Graphics Library vulnerability](https://www.linux.org/threads/usn-7112-1-gd-graphics-library-vulnerability.53865/)|Visit link for details.|Nov 15, 2024|
+ |[USN-7111-1: Go vulnerabilities](https://www.linux.org/threads/usn-7111-1-go-vulnerabilities.53863/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7088-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-5-linux-kernel-vulnerabilities.53860/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7089-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-5-linux-kernel-vulnerabilities.53859/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7071-2: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-2-linux-kernel-vulnerability.53858/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7110-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7110-1-linux-kernel-vulnerabilities.53857/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7049-2: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-2-php-vulnerabilities.53856/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7109-1: Go vulnerabilities](https://www.linux.org/threads/usn-7109-1-go-vulnerabilities.53847/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7107-1: zlib vulnerability](https://www.linux.org/threads/usn-7107-1-zlib-vulnerability.53839/)|Visit link for details.|Nov 13, 2024|
+ |[USN-7089-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-4-linux-kernel-vulnerabilities.53830/)|Visit link for details.|Nov 13, 2024|
+ |[USN-7105-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7105-1-net-vulnerabilities.53823/)|Visit link for details.|Nov 13, 2024|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
  |---|---|---|
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7112-1: GD Graphics Library vulnerability](https://www.linux.org/threads/usn-7112-1-gd-graphics-library-vulnerability.53865/)|Visit link for details.|Nov 15, 2024|
- |[USN-7111-1: Go vulnerabilities](https://www.linux.org/threads/usn-7111-1-go-vulnerabilities.53863/)|Visit link for details.|Nov 14, 2024|
- |[USN-7088-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-5-linux-kernel-vulnerabilities.53860/)|Visit link for details.|Nov 14, 2024|
- |[USN-7089-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-5-linux-kernel-vulnerabilities.53859/)|Visit link for details.|Nov 14, 2024|
- |[USN-7071-2: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-2-linux-kernel-vulnerability.53858/)|Visit link for details.|Nov 14, 2024|
- |[USN-7110-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7110-1-linux-kernel-vulnerabilities.53857/)|Visit link for details.|Nov 14, 2024|
- |[USN-7049-2: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-2-php-vulnerabilities.53856/)|Visit link for details.|Nov 14, 2024|
- |[USN-7109-1: Go vulnerabilities](https://www.linux.org/threads/usn-7109-1-go-vulnerabilities.53847/)|Visit link for details.|Nov 14, 2024|
- |[USN-7107-1: zlib vulnerability](https://www.linux.org/threads/usn-7107-1-zlib-vulnerability.53839/)|Visit link for details.|Nov 13, 2024|
- |[USN-7089-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-4-linux-kernel-vulnerabilities.53830/)|Visit link for details.|Nov 13, 2024|
- |[USN-7105-1: .NET vulnerabilities](https://www.linux.org/threads/usn-7105-1-net-vulnerabilities.53823/)|Visit link for details.|Nov 13, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,6 +84,12 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -92,65 +98,9 @@
  |[Life2000 ventilator and Service PC lack sufficient audit logging capabilities (CVE-2024-48967)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
  |[Life2000 service tools for test and calibration do not support user authentication (CVE-2024-48966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
  |[WordPress WP Course Manager plugin <= 1.3 - CSRF to Stored XSS vulnerability (CVE-2024-51658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
- |[WordPress Twitter @Anywhere Plus plugin <= 2.0 - CSRF to Stored XSS vulnerability (CVE-2024-51659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 14, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2024-43639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43639-2024-11-14)|Visit link for details.|14/11/2024|
- |[Microsoft - CVE-2024-43498](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43498-2024-11-14)|Visit link for details.|14/11/2024|
- |[Ivanti EPM - CVE-2024-50330](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-epm-cve-2024-50330-2024-11-14)|Visit link for details.|14/11/2024|
- |[Fortinet - CVE-2024-36513](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-36513-2024-11-14)|Visit link for details.|14/11/2024|
- |[Dell - CVE-2024-45763](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-45763-2024-11-14)|Visit link for details.|14/11/2024|
- |[Fortinet - CVE-2024-47575](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47575-2024-10-24)|Visit link for details.|14/11/2024|
- |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|14/11/2024|
- |[Microsoft Task Scheduler - CVE-2024-49039](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-task-scheduler-cve-2024-49039-2024-11-13)|Visit link for details.|13/11/2024|
- |[Microsoft Active Directory - CVE-2024-49019](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-active-directory-cve-2024-49019-2024-11-13)|Visit link for details.|13/11/2024|
- |[Ivanti Connect Secure - CVE-2024-38655](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connect-secure-cve-2024-38655-2024-11-13)|Visit link for details.|13/11/2024|
- |[Citrix NetScaler - CVE-2024-8535](https://www.cyberveille-sante.gouv.fr/alertes/citrix-netscaler-cve-2024-8535-2024-11-13)|Visit link for details.|13/11/2024|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
- |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
- |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
- |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
- |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
- |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
- |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
- |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
- |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
- |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
- |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50861411/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird-0)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-11159» affectant Mozilla Thunderbird.  La vulnérabilité provient de la façon dont Thunderbird…| 14 novembre 2024|
- |[ 50841411/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-1)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 novembre 2024|
- |[ 50821411/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-5)| Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés. L’exploit pour deux de ces vulnérabilités identifiées par « CVE-2024-8068 » et…| 13 novembre 2024|
- |[ 50831311/24 - Vulnérabilités critiques dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortigate)| Fortigate a corrigée plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles permet à un attaquant distant non authentifié d'exécuter du code ou des…| 13 novembre 2024|
- |[ 50811311/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-0)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
- |[ 50801311/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Novembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire,…| 13 novembre 2024|
- |[ 50791311/24 - Vulnérabilités critiques dans les outils de développement Microsoft (Patch… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-outils-de-developpement-microsoft-patch-tuesday)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les outils de développement susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter…| 13 novembre 2024|
- |[ 50781311/24 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Novembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-azure-patch-tuesday-novembre-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et d’exécuter du code…| 13 novembre 2024|
- |[ 50771311/24 - Vulnérabilités critiques dans les produits Microsoft SQL Server (Patch… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-sql-server-patch-tuesday-novembre)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à…| 13 novembre 2024|
- |[ 50761311/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Novembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-novembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft Windows. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du…| 13 novembre 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -182,4 +132,54 @@
  |[Ivanti security advisory (AV24-650)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-650)|Visit link for details|2024-11-13|
  |[Microsoft security advisory – November 2024 monthly rollup (AV24–649)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-november-2024-monthly-rollup-av24-649)|Visit link for details|2024-11-13|
  |[Adobe security advisory (AV24–648)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-648)|Visit link for details|2024-11-13|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
+ |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
+ |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
+ |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
+ |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
+ |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
+ |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
+ |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
+ |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
+ |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
+ |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2024-43639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43639-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Microsoft - CVE-2024-43498](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43498-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Ivanti EPM - CVE-2024-50330](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-epm-cve-2024-50330-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Fortinet - CVE-2024-36513](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-36513-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Dell - CVE-2024-45763](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-45763-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Fortinet - CVE-2024-47575](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47575-2024-10-24)|Visit link for details.|14/11/2024|
+ |[D-Link - CVE-2024-10914](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-10914-2024-11-08)|Visit link for details.|14/11/2024|
+ |[Microsoft Task Scheduler - CVE-2024-49039](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-task-scheduler-cve-2024-49039-2024-11-13)|Visit link for details.|13/11/2024|
+ |[Microsoft Active Directory - CVE-2024-49019](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-active-directory-cve-2024-49019-2024-11-13)|Visit link for details.|13/11/2024|
+ |[Ivanti Connect Secure - CVE-2024-38655](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-connect-secure-cve-2024-38655-2024-11-13)|Visit link for details.|13/11/2024|
+ |[Citrix NetScaler - CVE-2024-8535](https://www.cyberveille-sante.gouv.fr/alertes/citrix-netscaler-cve-2024-8535-2024-11-13)|Visit link for details.|13/11/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50861411/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird-0)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-11159» affectant Mozilla Thunderbird.  La vulnérabilité provient de la façon dont Thunderbird…| 14 novembre 2024|
+ |[ 50841411/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-1)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 novembre 2024|
+ |[ 50821411/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-5)| Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés. L’exploit pour deux de ces vulnérabilités identifiées par « CVE-2024-8068 » et…| 13 novembre 2024|
+ |[ 50831311/24 - Vulnérabilités critiques dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortigate)| Fortigate a corrigée plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles permet à un attaquant distant non authentifié d'exécuter du code ou des…| 13 novembre 2024|
+ |[ 50811311/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-0)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
+ |[ 50801311/24 - Vulnérabilités dans plusieurs produits Microsoft (Patch Tuesday Novembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire,…| 13 novembre 2024|
+ |[ 50791311/24 - Vulnérabilités critiques dans les outils de développement Microsoft (Patch… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-outils-de-developpement-microsoft-patch-tuesday)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les outils de développement susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter…| 13 novembre 2024|
+ |[ 50781311/24 - Vulnérabilités dans Microsoft Azure (Patch Tuesday Novembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-microsoft-azure-patch-tuesday-novembre-2024)| Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et d’exécuter du code…| 13 novembre 2024|
+ |[ 50771311/24 - Vulnérabilités critiques dans les produits Microsoft SQL Server (Patch… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-sql-server-patch-tuesday-novembre)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à…| 13 novembre 2024|
+ |[ 50761311/24 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Novembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-novembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft Windows. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant d’exécuter du…| 13 novembre 2024|
  
