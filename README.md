@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/11/2024 22:18:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/11/2024 23:29:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Palo Alto Networks Emphasizes Hardening Guidance](https://www.cisa.gov/news-events/alerts/2024/11/13/palo-alto-networks-emphasizes-hardening-guidance)|Visit link for details.|Nov 13, 2024|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 14, 2024|
- |[CISA Releases Nineteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-releases-nineteen-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2024|
- |[Palo Alto Networks Emphasizes Hardening Guidance](https://www.cisa.gov/news-events/alerts/2024/11/13/palo-alto-networks-emphasizes-hardening-guidance)|Visit link for details.|Nov 13, 2024|
- |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
- |[Microsoft Releases November 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/11/12/microsoft-releases-november-2024-security-updates)|Visit link for details.|Nov 12, 2024|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
- |[Ivanti Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/ivanti-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
- |[JCDC’s Collaborative Efforts Enhance Cybersecurity for the 2024 Olympic and Paralympic Games](https://www.cisa.gov/news-events/alerts/2024/11/12/jcdcs-collaborative-efforts-enhance-cybersecurity-2024-olympic-and-paralympic-games)|Visit link for details.|Nov 12, 2024|
- |[Citrix Releases Security Updates for NetScaler and Citrix Session Recording](https://www.cisa.gov/news-events/alerts/2024/11/12/citrix-releases-security-updates-netscaler-and-citrix-session-recording)|Visit link for details.|Nov 12, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 12, 2024|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -63,13 +46,29 @@
  |[USN-7089-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-4-linux-kernel-vulnerabilities.53830/)|Visit link for details.|Nov 13, 2024|
  
 
-# OBS-Vigilance
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 14, 2024|
+ |[CISA Releases Nineteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-releases-nineteen-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2024|
+ |[Palo Alto Networks Emphasizes Hardening Guidance](https://www.cisa.gov/news-events/alerts/2024/11/13/palo-alto-networks-emphasizes-hardening-guidance)|Visit link for details.|Nov 13, 2024|
+ |[Fortinet Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/fortinet-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
+ |[Microsoft Releases November 2024 Security Updates](https://www.cisa.gov/news-events/alerts/2024/11/12/microsoft-releases-november-2024-security-updates)|Visit link for details.|Nov 12, 2024|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/adobe-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
+ |[Ivanti Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/ivanti-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
+ |[JCDC’s Collaborative Efforts Enhance Cybersecurity for the 2024 Olympic and Paralympic Games](https://www.cisa.gov/news-events/alerts/2024/11/12/jcdcs-collaborative-efforts-enhance-cybersecurity-2024-olympic-and-paralympic-games)|Visit link for details.|Nov 12, 2024|
+ |[Citrix Releases Security Updates for NetScaler and Citrix Session Recording](https://www.cisa.gov/news-events/alerts/2024/11/12/citrix-releases-security-updates-netscaler-and-citrix-session-recording)|Visit link for details.|Nov 12, 2024|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 12, 2024|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -95,27 +94,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Improper Access Control in Dataprom Informatics' PACS-ACSS (CVE-2024-10534)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
- |[CSRF in wallabag/wallabag (CVE-2023-0737)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
- |[Remote Command Execution in gogs/gogs (CVE-2022-1884)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
- |[Improper Authorization in dolibarr/dolibarr (CVE-2021-3991)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
- |[Cross-site Scripting (XSS) in janeczku/calibre-web (CVE-2021-3988)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
+ |[Nextcloud Mail app does not respect download permissions in shares (CVE-2024-52509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
+ |[Nextcloud Mail auto configurator can be tricked into sending account information to wrong servers (CVE-2024-52508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
+ |[code-projects Inventory Management editProduct.php sql injection (CVE-2024-11250)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
+ |[Share information of the Nextcloud Tables app is not limited to affected users (CVE-2024-52507)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
- |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -135,21 +120,18 @@
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
- |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
- |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
- |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
- |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
- |[Intel security advisory (AV24-655)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-655)|Visit link for details|2024-11-13|
- |[Drupal security advisory (AV24-654)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-654)|Visit link for details|2024-11-13|
- |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
- |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
- |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
- |[Ivanti security advisory (AV24-650)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-650)|Visit link for details|2024-11-13|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
+ |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
  
 
 # MA-CERT
@@ -166,6 +148,23 @@
  |[ 50821411/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-5)| Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés. L’exploit pour deux de ces vulnérabilités identifiées par « CVE-2024-8068 » et…| 13 novembre 2024|
  |[ 50831311/24 - Vulnérabilités critiques dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortigate)| Fortigate a corrigée plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles permet à un attaquant distant non authentifié d'exécuter du code ou des…| 13 novembre 2024|
  |[ 50811311/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-0)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
+ |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
+ |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
+ |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
+ |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
+ |[Intel security advisory (AV24-655)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-655)|Visit link for details|2024-11-13|
+ |[Drupal security advisory (AV24-654)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-654)|Visit link for details|2024-11-13|
+ |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
+ |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
+ |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
+ |[Ivanti security advisory (AV24-650)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-650)|Visit link for details|2024-11-13|
  
 
 # CERT-SANTE
