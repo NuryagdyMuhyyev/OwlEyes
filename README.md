@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/11/2024 06:43:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/11/2024 07:56:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,16 +29,13 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5814-1 thunderbird - security update](https://www.linux.org/threads/dsa-5814-1-thunderbird-security-update.53883/)|Visit link for details.|Nov 16, 2024|
+ |[DSA-5813-1 symfony - security update](https://www.linux.org/threads/dsa-5813-1-symfony-security-update.53882/)|Visit link for details.|Nov 16, 2024|
+ |[DSA-5812-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5812-1-postgresql-15-security-update.53881/)|Visit link for details.|Nov 16, 2024|
  |[USN-7089-6: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-6-linux-kernel-vulnerabilities.53868/)|Visit link for details.|Nov 15, 2024|
  |[USN-7112-1: GD Graphics Library vulnerability](https://www.linux.org/threads/usn-7112-1-gd-graphics-library-vulnerability.53865/)|Visit link for details.|Nov 15, 2024|
  |[USN-7111-1: Go vulnerabilities](https://www.linux.org/threads/usn-7111-1-go-vulnerabilities.53863/)|Visit link for details.|Nov 14, 2024|
@@ -47,9 +44,12 @@
  |[USN-7071-2: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-2-linux-kernel-vulnerability.53858/)|Visit link for details.|Nov 14, 2024|
  |[USN-7110-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7110-1-linux-kernel-vulnerabilities.53857/)|Visit link for details.|Nov 14, 2024|
  |[USN-7049-2: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-2-php-vulnerabilities.53856/)|Visit link for details.|Nov 14, 2024|
- |[USN-7109-1: Go vulnerabilities](https://www.linux.org/threads/usn-7109-1-go-vulnerabilities.53847/)|Visit link for details.|Nov 14, 2024|
- |[USN-7107-1: zlib vulnerability](https://www.linux.org/threads/usn-7107-1-zlib-vulnerability.53839/)|Visit link for details.|Nov 13, 2024|
- |[USN-7089-4: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-4-linux-kernel-vulnerabilities.53830/)|Visit link for details.|Nov 13, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # US-CERT
@@ -99,9 +99,26 @@
  |[SourceCodester Student Record Management System View All Student Marks main stack-based overflow (CVE-2024-11262)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
  |[CVE-2017-13313 (CVE-2017-13313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
  |[SourceCodester Student Record Management System Number of Students Menu StudentRecordManagementSystem.cpp memory corruption (CVE-2024-11261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
+ |[CVE-2017-13312 (CVE-2017-13312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
+ |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
+ |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
+ |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
+ |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
+ |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
+ |[Intel security advisory (AV24-655)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-655)|Visit link for details|2024-11-13|
+ |[Drupal security advisory (AV24-654)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-654)|Visit link for details|2024-11-13|
+ |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
+ |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
+ |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
  
 
 # EU-CERT
@@ -119,6 +136,20 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
+ |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
  
 
 # CERT-SANTE
@@ -152,35 +183,4 @@
  |[ 50821411/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-5)| Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés. L’exploit pour deux de ces vulnérabilités identifiées par « CVE-2024-8068 » et…| 13 novembre 2024|
  |[ 50831311/24 - Vulnérabilités critiques dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortigate)| Fortigate a corrigée plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles permet à un attaquant distant non authentifié d'exécuter du code ou des…| 13 novembre 2024|
  |[ 50811311/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-0)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
- |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
- |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
- |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
- |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
- |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
- |[Intel security advisory (AV24-655)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-655)|Visit link for details|2024-11-13|
- |[Drupal security advisory (AV24-654)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-654)|Visit link for details|2024-11-13|
- |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
- |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
- |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
- |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
  
