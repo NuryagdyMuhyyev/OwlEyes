@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/11/2024 14:21:42 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/11/2024 15:21:16 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -69,6 +69,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -85,12 +91,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -99,23 +99,9 @@
  |[CVE-2024-52872 (CVE-2024-52872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2024|
  |[CVE-2024-52871 (CVE-2024-52871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2024|
  |[WordPress CDI plugin <= 5.5.3 - Arbitrary File Upload vulnerability (CVE-2024-52398)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2024|
- |[WordPress Writer Helper plugin <= 3.1.6 - Arbitrary File Upload vulnerability (CVE-2024-52399)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
- |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -150,6 +136,20 @@
  |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
  |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
  |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
+ |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
  
 
 # MA-CERT
