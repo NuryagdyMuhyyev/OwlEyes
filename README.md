@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/11/2024 09:25:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/11/2024 10:21:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -63,29 +63,13 @@
  |[USN-7049-2: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-2-php-vulnerabilities.53856/)|Visit link for details.|Nov 14, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-8068 and...|Release Date: 15 Nov 2024 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, security restriction bypass, data manipulation, and elevation of privilege on the targeted system. |Release Date: 15 Nov 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, cross-site scripting, remote code execution, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
- |[Ivanti Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger denial of service condition, remote code execution, elevation of privilege, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 15 Nov 2024 |
- |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20241115)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
- |[Palo Alto PAN-OS Multiple vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Palo Alto PAN-OS. A remote user could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, denial of service, sensitive information disclosure, and security restriction bypass on the targeted system.|Release Date: 15 Nov 2024 |
- |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
- 
-
 # OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -102,6 +86,22 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-8068 and...|Release Date: 15 Nov 2024 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, security restriction bypass, data manipulation, and elevation of privilege on the targeted system. |Release Date: 15 Nov 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, cross-site scripting, remote code execution, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
+ |[Ivanti Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger denial of service condition, remote code execution, elevation of privilege, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 15 Nov 2024 |
+ |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20241115)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
+ |[Palo Alto PAN-OS Multiple vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Palo Alto PAN-OS. A remote user could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, denial of service, sensitive information disclosure, and security restriction bypass on the targeted system.|Release Date: 15 Nov 2024 |
+ |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
  
 
 # ZERODAYINITIATIVE
