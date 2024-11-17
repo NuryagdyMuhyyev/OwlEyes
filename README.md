@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/11/2024 20:20:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/11/2024 21:24:12 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,12 +46,6 @@
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 12, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -69,6 +63,18 @@
  |[USN-7049-2: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-2-php-vulnerabilities.53856/)|Visit link for details.|Nov 14, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -83,12 +89,6 @@
  |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -135,21 +135,21 @@
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress Really Simple Security - CVE-2024-10924](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-really-simple-security-cve-2024-10924-2024-11-15)|Visit link for details.|15/11/2024|
- |[Icinga - CVE-2024-49369](https://www.cyberveille-sante.gouv.fr/alertes/icinga-cve-2024-49369-2024-11-15)|Visit link for details.|15/11/2024|
- |[Citrix - CVE-2024-8069](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-8069-2024-11-15)|Visit link for details.|15/11/2024|
- |[Baxter Life2000 - CVE-2024-48967](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48967-2024-11-15)|Visit link for details.|15/11/2024|
- |[Baxter Life2000 - CVE-2024-48966](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48966-2024-11-15)|Visit link for details.|15/11/2024|
- |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|15/11/2024|
- |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|15/11/2024|
- |[Citrix - CVE-2024-8068](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-8068-2024-11-13)|Visit link for details.|15/11/2024|
- |[Microsoft - CVE-2024-43639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43639-2024-11-14)|Visit link for details.|14/11/2024|
- |[Microsoft - CVE-2024-43498](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43498-2024-11-14)|Visit link for details.|14/11/2024|
- |[Ivanti EPM - CVE-2024-50330](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-epm-cve-2024-50330-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
+ |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
+ |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
+ |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
+ |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
+ |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
+ |[Intel security advisory (AV24-655)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-655)|Visit link for details|2024-11-13|
+ |[Drupal security advisory (AV24-654)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-654)|Visit link for details|2024-11-13|
+ |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
+ |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
+ |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
  
 
 # MA-CERT
@@ -168,19 +168,19 @@
  |[ 50811311/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-0)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
- |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
- |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
- |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
- |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
- |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
- |[Intel security advisory (AV24-655)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-655)|Visit link for details|2024-11-13|
- |[Drupal security advisory (AV24-654)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-654)|Visit link for details|2024-11-13|
- |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
- |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
- |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
+ |[WordPress Really Simple Security - CVE-2024-10924](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-really-simple-security-cve-2024-10924-2024-11-15)|Visit link for details.|15/11/2024|
+ |[Icinga - CVE-2024-49369](https://www.cyberveille-sante.gouv.fr/alertes/icinga-cve-2024-49369-2024-11-15)|Visit link for details.|15/11/2024|
+ |[Citrix - CVE-2024-8069](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-8069-2024-11-15)|Visit link for details.|15/11/2024|
+ |[Baxter Life2000 - CVE-2024-48967](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48967-2024-11-15)|Visit link for details.|15/11/2024|
+ |[Baxter Life2000 - CVE-2024-48966](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48966-2024-11-15)|Visit link for details.|15/11/2024|
+ |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|15/11/2024|
+ |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|15/11/2024|
+ |[Citrix - CVE-2024-8068](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-8068-2024-11-13)|Visit link for details.|15/11/2024|
+ |[Microsoft - CVE-2024-43639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43639-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Microsoft - CVE-2024-43498](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43498-2024-11-14)|Visit link for details.|14/11/2024|
+ |[Ivanti EPM - CVE-2024-50330](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-epm-cve-2024-50330-2024-11-14)|Visit link for details.|14/11/2024|
  
