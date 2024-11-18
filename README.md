@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/11/2024 06:47:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/11/2024 08:02:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -63,6 +63,12 @@
  |[USN-7049-2: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-2-php-vulnerabilities.53856/)|Visit link for details.|Nov 14, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -73,6 +79,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ruckus Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ruckus-products-remote-code-execution-vulnerability_20241118)|A vulnerability was identified in Ruckus Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 18 Nov 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
  |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-8068 and...|Release Date: 15 Nov 2024 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, security restriction bypass, data manipulation, and elevation of privilege on the targeted system. |Release Date: 15 Nov 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, cross-site scripting, remote code execution, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
@@ -81,8 +89,6 @@
  |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20241115)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
  |[Palo Alto PAN-OS Multiple vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Palo Alto PAN-OS. A remote user could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, denial of service, sensitive information disclosure, and security restriction bypass on the targeted system.|Release Date: 15 Nov 2024 |
  |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -96,26 +102,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
- |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
  
 
 # EU-CERT
@@ -135,6 +121,20 @@
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
+ |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -152,22 +152,6 @@
  |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50911511/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-1)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les…| 15 novembre 2024|
- |[ 50901511/24 - Vulnérabilité critique affectant le plugin «Chartify» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-chartify-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Chartify» pour WordPress a été corrigée. Cette     vulnérabilité est activement exploitée et elle peut permettre à un attaquant…| 15 novembre 2024|
- |[ 50891511/24 - Vulnérabilité critique dans le plugin WordPress Really Simple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-plugin-wordpress-really-simple)| Une vulnérabilité critique a été corrigée dans les plugins du CMS WordPress  susmentionnés. Cette vulnérabilité affecte Really Simple Security, anciennement connu sous le nom de Really Simple…| 15 novembre 2024|
- |[ 50881511/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-0)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. L’exploitation de ces failles peut permettre à un attaquant de contourner la…| 15 novembre 2024|
- |[ 50871411/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-1)| Gitlab annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service,…| 15 novembre 2024|
- |[ 50861411/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird-0)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-11159» affectant Mozilla Thunderbird.  La vulnérabilité provient de la façon dont Thunderbird…| 14 novembre 2024|
- |[ 50841411/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-1)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 novembre 2024|
- |[ 50821411/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-5)| Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés. L’exploit pour deux de ces vulnérabilités identifiées par « CVE-2024-8068 » et…| 13 novembre 2024|
- |[ 50831311/24 - Vulnérabilités critiques dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortigate)| Fortigate a corrigée plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles permet à un attaquant distant non authentifié d'exécuter du code ou des…| 13 novembre 2024|
- |[ 50811311/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-0)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -183,4 +167,20 @@
  |[Microsoft - CVE-2024-43639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43639-2024-11-14)|Visit link for details.|14/11/2024|
  |[Microsoft - CVE-2024-43498](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43498-2024-11-14)|Visit link for details.|14/11/2024|
  |[Ivanti EPM - CVE-2024-50330](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-epm-cve-2024-50330-2024-11-14)|Visit link for details.|14/11/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50911511/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-1)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les…| 15 novembre 2024|
+ |[ 50901511/24 - Vulnérabilité critique affectant le plugin «Chartify» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-chartify-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Chartify» pour WordPress a été corrigée. Cette     vulnérabilité est activement exploitée et elle peut permettre à un attaquant…| 15 novembre 2024|
+ |[ 50891511/24 - Vulnérabilité critique dans le plugin WordPress Really Simple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-plugin-wordpress-really-simple)| Une vulnérabilité critique a été corrigée dans les plugins du CMS WordPress  susmentionnés. Cette vulnérabilité affecte Really Simple Security, anciennement connu sous le nom de Really Simple…| 15 novembre 2024|
+ |[ 50881511/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-0)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. L’exploitation de ces failles peut permettre à un attaquant de contourner la…| 15 novembre 2024|
+ |[ 50871411/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-1)| Gitlab annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service,…| 15 novembre 2024|
+ |[ 50861411/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird-0)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-11159» affectant Mozilla Thunderbird.  La vulnérabilité provient de la façon dont Thunderbird…| 14 novembre 2024|
+ |[ 50841411/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-1)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 novembre 2024|
+ |[ 50821411/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-5)| Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés. L’exploit pour deux de ces vulnérabilités identifiées par « CVE-2024-8068 » et…| 13 novembre 2024|
+ |[ 50831311/24 - Vulnérabilités critiques dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortigate)| Fortigate a corrigée plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles permet à un attaquant distant non authentifié d'exécuter du code ou des…| 13 novembre 2024|
+ |[ 50811311/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-0)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
  
