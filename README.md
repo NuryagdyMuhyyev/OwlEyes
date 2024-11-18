@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/11/2024 20:24:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/11/2024 21:28:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,23 @@
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 12, 2024|
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7108-1: AsyncSSH vulnerabilities](https://www.linux.org/threads/usn-7108-1-asyncssh-vulnerabilities.53923/)|Visit link for details.|Nov 18, 2024|
+ |[DSA-5814-1 thunderbird - security update](https://www.linux.org/threads/dsa-5814-1-thunderbird-security-update.53883/)|Visit link for details.|Nov 16, 2024|
+ |[DSA-5813-1 symfony - security update](https://www.linux.org/threads/dsa-5813-1-symfony-security-update.53882/)|Visit link for details.|Nov 16, 2024|
+ |[DSA-5812-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5812-1-postgresql-15-security-update.53881/)|Visit link for details.|Nov 16, 2024|
+ |[USN-7089-6: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-6-linux-kernel-vulnerabilities.53868/)|Visit link for details.|Nov 15, 2024|
+ |[USN-7112-1: GD Graphics Library vulnerability](https://www.linux.org/threads/usn-7112-1-gd-graphics-library-vulnerability.53865/)|Visit link for details.|Nov 15, 2024|
+ |[USN-7111-1: Go vulnerabilities](https://www.linux.org/threads/usn-7111-1-go-vulnerabilities.53863/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7088-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-5-linux-kernel-vulnerabilities.53860/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7089-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-5-linux-kernel-vulnerabilities.53859/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7071-2: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-2-linux-kernel-vulnerability.53858/)|Visit link for details.|Nov 14, 2024|
+ |[USN-7110-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7110-1-linux-kernel-vulnerabilities.53857/)|Visit link for details.|Nov 14, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -66,23 +83,6 @@
  |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20241115)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
  |[Palo Alto PAN-OS Multiple vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Palo Alto PAN-OS. A remote user could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, denial of service, sensitive information disclosure, and security restriction bypass on the targeted system.|Release Date: 15 Nov 2024 |
  |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7108-1: AsyncSSH vulnerabilities](https://www.linux.org/threads/usn-7108-1-asyncssh-vulnerabilities.53923/)|Visit link for details.|Nov 18, 2024|
- |[DSA-5814-1 thunderbird - security update](https://www.linux.org/threads/dsa-5814-1-thunderbird-security-update.53883/)|Visit link for details.|Nov 16, 2024|
- |[DSA-5813-1 symfony - security update](https://www.linux.org/threads/dsa-5813-1-symfony-security-update.53882/)|Visit link for details.|Nov 16, 2024|
- |[DSA-5812-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5812-1-postgresql-15-security-update.53881/)|Visit link for details.|Nov 16, 2024|
- |[USN-7089-6: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-6-linux-kernel-vulnerabilities.53868/)|Visit link for details.|Nov 15, 2024|
- |[USN-7112-1: GD Graphics Library vulnerability](https://www.linux.org/threads/usn-7112-1-gd-graphics-library-vulnerability.53865/)|Visit link for details.|Nov 15, 2024|
- |[USN-7111-1: Go vulnerabilities](https://www.linux.org/threads/usn-7111-1-go-vulnerabilities.53863/)|Visit link for details.|Nov 14, 2024|
- |[USN-7088-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-5-linux-kernel-vulnerabilities.53860/)|Visit link for details.|Nov 14, 2024|
- |[USN-7089-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-5-linux-kernel-vulnerabilities.53859/)|Visit link for details.|Nov 14, 2024|
- |[USN-7071-2: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-2-linux-kernel-vulnerability.53858/)|Visit link for details.|Nov 14, 2024|
- |[USN-7110-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7110-1-linux-kernel-vulnerabilities.53857/)|Visit link for details.|Nov 14, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -118,6 +118,23 @@
  |[Ivanti Endpoint Manager TestAllowedSQL SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1504/)|Visit link for details|2024-11-13|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
+ |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
+ |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
+ |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
+ |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
+ |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
+ |[Intel security advisory (AV24-655)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-655)|Visit link for details|2024-11-13|
+ |[Drupal security advisory (AV24-654)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-654)|Visit link for details|2024-11-13|
+ |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
+ |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
+ |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -139,17 +156,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[GLPI - CVE-2024-40638](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-40638-2024-11-18)|Visit link for details.|18/11/2024|
+ |[PostgreSQL - CVE-2024-10979](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-10979-2024-11-18)|Visit link for details.|18/11/2024|
+ |[Veritas NetBackup - CVE-2024-52945](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2024-52945-2024-11-18)|Visit link for details.|18/11/2024|
+ |[PrimX - CVE-2024-46464](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2024-46464-2024-11-18)|Visit link for details.|18/11/2024|
+ |[Synology - CVE-2024-10443](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-10443-2024-11-18)|Visit link for details.|18/11/2024|
  |[WordPress Really Simple Security - CVE-2024-10924](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-really-simple-security-cve-2024-10924-2024-11-15)|Visit link for details.|15/11/2024|
  |[Icinga - CVE-2024-49369](https://www.cyberveille-sante.gouv.fr/alertes/icinga-cve-2024-49369-2024-11-15)|Visit link for details.|15/11/2024|
  |[Citrix - CVE-2024-8069](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-8069-2024-11-15)|Visit link for details.|15/11/2024|
  |[Baxter Life2000 - CVE-2024-48967](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48967-2024-11-15)|Visit link for details.|15/11/2024|
  |[Baxter Life2000 - CVE-2024-48966](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48966-2024-11-15)|Visit link for details.|15/11/2024|
  |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|15/11/2024|
- |[Palo Alto - CVE-2024-9463](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9463-2024-10-11)|Visit link for details.|15/11/2024|
- |[Citrix - CVE-2024-8068](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-8068-2024-11-13)|Visit link for details.|15/11/2024|
- |[Microsoft - CVE-2024-43639](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43639-2024-11-14)|Visit link for details.|14/11/2024|
- |[Microsoft - CVE-2024-43498](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-43498-2024-11-14)|Visit link for details.|14/11/2024|
- |[Ivanti EPM - CVE-2024-50330](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-epm-cve-2024-50330-2024-11-14)|Visit link for details.|14/11/2024|
  
 
 # MA-CERT
@@ -166,21 +183,4 @@
  |[ 50821411/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-5)| Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés. L’exploit pour deux de ces vulnérabilités identifiées par « CVE-2024-8068 » et…| 13 novembre 2024|
  |[ 50831311/24 - Vulnérabilités critiques dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortigate)| Fortigate a corrigée plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles permet à un attaquant distant non authentifié d'exécuter du code ou des…| 13 novembre 2024|
  |[ 50811311/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-0)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
- |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
- |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
- |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
- |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
- |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
- |[Intel security advisory (AV24-655)](https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av24-655)|Visit link for details|2024-11-13|
- |[Drupal security advisory (AV24-654)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-654)|Visit link for details|2024-11-13|
- |[GitLab security advisory (AV24-653)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-653)|Visit link for details|2024-11-13|
- |[Mozilla security advisory (AV24-652)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-652)|Visit link for details|2024-11-13|
- |[Google Chrome security advisory (AV24-651)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-651)|Visit link for details|2024-11-13|
  
