@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/11/2024 01:22:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/11/2024 02:18:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,18 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7114-1: GLib vulnerability](https://www.linux.org/threads/usn-7114-1-glib-vulnerability.53935/)|Visit link for details.|Nov 18, 2024|
+ |[USN-7104-1: curl vulnerability](https://www.linux.org/threads/usn-7104-1-curl-vulnerability.53934/)|Visit link for details.|Nov 18, 2024|
  |[USN-7113-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7113-1-webkitgtk-vulnerabilities.53932/)|Visit link for details.|Nov 18, 2024|
  |[USN-7108-1: AsyncSSH vulnerabilities](https://www.linux.org/threads/usn-7108-1-asyncssh-vulnerabilities.53923/)|Visit link for details.|Nov 18, 2024|
  |[DSA-5814-1 thunderbird - security update](https://www.linux.org/threads/dsa-5814-1-thunderbird-security-update.53883/)|Visit link for details.|Nov 16, 2024|
@@ -42,8 +50,6 @@
  |[USN-7112-1: GD Graphics Library vulnerability](https://www.linux.org/threads/usn-7112-1-gd-graphics-library-vulnerability.53865/)|Visit link for details.|Nov 15, 2024|
  |[USN-7111-1: Go vulnerabilities](https://www.linux.org/threads/usn-7111-1-go-vulnerabilities.53863/)|Visit link for details.|Nov 14, 2024|
  |[USN-7088-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-5-linux-kernel-vulnerabilities.53860/)|Visit link for details.|Nov 14, 2024|
- |[USN-7089-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-5-linux-kernel-vulnerabilities.53859/)|Visit link for details.|Nov 14, 2024|
- |[USN-7071-2: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-2-linux-kernel-vulnerability.53858/)|Visit link for details.|Nov 14, 2024|
  
 
 # US-CERT
@@ -51,6 +57,7 @@
  |Title|Description|Date|
  |---|---|---|
  |[Palo Alto Networks Emphasizes Hardening Guidance](https://www.cisa.gov/news-events/alerts/2024/11/13/palo-alto-networks-emphasizes-hardening-guidance)|Visit link for details.|Nov 13, 2024|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/18/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 18, 2024|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 14, 2024|
  |[CISA Releases Nineteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-releases-nineteen-industrial-control-systems-advisories)|Visit link for details.|Nov 14, 2024|
  |[Palo Alto Networks Emphasizes Hardening Guidance](https://www.cisa.gov/news-events/alerts/2024/11/13/palo-alto-networks-emphasizes-hardening-guidance)|Visit link for details.|Nov 13, 2024|
@@ -60,13 +67,6 @@
  |[Ivanti Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2024/11/12/ivanti-releases-security-updates-multiple-products)|Visit link for details.|Nov 12, 2024|
  |[JCDC’s Collaborative Efforts Enhance Cybersecurity for the 2024 Olympic and Paralympic Games](https://www.cisa.gov/news-events/alerts/2024/11/12/jcdcs-collaborative-efforts-enhance-cybersecurity-2024-olympic-and-paralympic-games)|Visit link for details.|Nov 12, 2024|
  |[Citrix Releases Security Updates for NetScaler and Citrix Session Recording](https://www.cisa.gov/news-events/alerts/2024/11/12/citrix-releases-security-updates-netscaler-and-citrix-session-recording)|Visit link for details.|Nov 12, 2024|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 12, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -85,6 +85,12 @@
  |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -96,12 +102,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -135,23 +135,6 @@
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Cyber [Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
- |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
- |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
- |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
- |[Dell security advisory (AV24-661)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-661)|Visit link for details|2024-11-18|
- |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
- |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
- |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
- |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
- |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
- |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -183,4 +166,21 @@
  |[ 50821411/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-5)| Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés. L’exploit pour deux de ces vulnérabilités identifiées par « CVE-2024-8068 » et…| 13 novembre 2024|
  |[ 50831311/24 - Vulnérabilités critiques dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortigate)| Fortigate a corrigée plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles permet à un attaquant distant non authentifié d'exécuter du code ou des…| 13 novembre 2024|
  |[ 50811311/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-0)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cyber [Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
+ |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
+ |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
+ |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
+ |[Dell security advisory (AV24-661)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-661)|Visit link for details|2024-11-18|
+ |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
+ |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
+ |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
+ |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
+ |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
+ |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
  
