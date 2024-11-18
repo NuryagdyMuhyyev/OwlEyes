@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/11/2024 16:18:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/11/2024 17:44:48 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,16 +46,11 @@
  |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Nov 12, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7108-1: AsyncSSH vulnerabilities](https://www.linux.org/threads/usn-7108-1-asyncssh-vulnerabilities.53923/)|Visit link for details.|Nov 18, 2024|
  |[DSA-5814-1 thunderbird - security update](https://www.linux.org/threads/dsa-5814-1-thunderbird-security-update.53883/)|Visit link for details.|Nov 16, 2024|
  |[DSA-5813-1 symfony - security update](https://www.linux.org/threads/dsa-5813-1-symfony-security-update.53882/)|Visit link for details.|Nov 16, 2024|
  |[DSA-5812-1 postgresql-15 - security update](https://www.linux.org/threads/dsa-5812-1-postgresql-15-security-update.53881/)|Visit link for details.|Nov 16, 2024|
@@ -66,7 +61,6 @@
  |[USN-7089-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7089-5-linux-kernel-vulnerabilities.53859/)|Visit link for details.|Nov 14, 2024|
  |[USN-7071-2: Linux kernel vulnerability](https://www.linux.org/threads/usn-7071-2-linux-kernel-vulnerability.53858/)|Visit link for details.|Nov 14, 2024|
  |[USN-7110-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7110-1-linux-kernel-vulnerabilities.53857/)|Visit link for details.|Nov 14, 2024|
- |[USN-7049-2: PHP vulnerabilities](https://www.linux.org/threads/usn-7049-2-php-vulnerabilities.53856/)|Visit link for details.|Nov 14, 2024|
  
 
 # HK-CERT
@@ -85,23 +79,29 @@
  |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Tomcat: Request/response mix-up with HTTP/2 (CVE-2024-52317)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
+ |[Apache Tomcat: Authentication bypass when using Jakarta Authentication API (CVE-2024-52316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
+ |[Moodle: idor when fetching report schedules (CVE-2024-48901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
+ |[WAGO: CODESYS V3 Configuration Authentication Bypass in Multiple Devices (CVE-2024-41969)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Gnome-maps: gnome maps is vulnerable to a code injection attack (similar to xss) via its service.json (CVE-2023-43091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2024|
- |[Kube-controller-manager: malformed hpa v1 manifest causes crash (CVE-2024-0793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2024|
- |[Debezium: script injection via connector parameter (CVE-2023-1419)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2024|
- |[Keycloak: impersonation via logout token exchange (CVE-2023-0657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 17, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
