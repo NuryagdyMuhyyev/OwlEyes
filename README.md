@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/11/2024 04:21:07 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/11/2024 06:45:39 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,12 +46,6 @@
  |[USN-7088-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-5-linux-kernel-vulnerabilities.53860/)|Visit link for details.|Nov 14, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -72,27 +66,19 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenCTI May Bypass Introspection Restriction (CVE-2024-37155)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
- |[WordPress Post SMTP plugin <= 2.9.9 - SQL Injection vulnerability (CVE-2024-52436)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
- |[WordPress My Geo Posts Free plugin <= 1.2 - PHP Object Injection vulnerability (CVE-2024-52433)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
- |[WordPress Event Tickets with Ticket Scanner plugin <= 2.3.11 - Remote Code Execution (RCE) vulnerability (CVE-2024-52427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
+ |[WordPress Stylish Internal Links plugin <= 1.9 - Cross Site Scripting (XSS) vulnerability (CVE-2024-51939)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
+ |[WordPress WP Responsive Video plugin <= 1.0 - Cross Site Scripting (XSS) vulnerability (CVE-2024-51940)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
+ |[WordPress Mage Front End Forms plugin <= 1.1.4 - Cross Site Scripting (XSS) vulnerability (CVE-2024-52339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
+ |[Harden-Runner has command injection weaknesses in `setup.ts` and `arc-runner.ts` (CVE-2024-52587)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Progress Software WhatsUp Gold getReport Missing Authentication Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1512/)|Visit link for details|2024-11-18|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
- |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
  
 
 # OBS-Vigilance
@@ -135,21 +121,18 @@
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[GLPI - CVE-2024-40638](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-40638-2024-11-18)|Visit link for details.|18/11/2024|
- |[PostgreSQL - CVE-2024-10979](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-10979-2024-11-18)|Visit link for details.|18/11/2024|
- |[Veritas NetBackup - CVE-2024-52945](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2024-52945-2024-11-18)|Visit link for details.|18/11/2024|
- |[PrimX - CVE-2024-46464](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2024-46464-2024-11-18)|Visit link for details.|18/11/2024|
- |[Synology - CVE-2024-10443](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-10443-2024-11-18)|Visit link for details.|18/11/2024|
- |[WordPress Really Simple Security - CVE-2024-10924](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-really-simple-security-cve-2024-10924-2024-11-15)|Visit link for details.|15/11/2024|
- |[Icinga - CVE-2024-49369](https://www.cyberveille-sante.gouv.fr/alertes/icinga-cve-2024-49369-2024-11-15)|Visit link for details.|15/11/2024|
- |[Citrix - CVE-2024-8069](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-8069-2024-11-15)|Visit link for details.|15/11/2024|
- |[Baxter Life2000 - CVE-2024-48967](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48967-2024-11-15)|Visit link for details.|15/11/2024|
- |[Baxter Life2000 - CVE-2024-48966](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48966-2024-11-15)|Visit link for details.|15/11/2024|
- |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|15/11/2024|
+ |[Progress Software WhatsUp Gold getReport Missing Authentication Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1512/)|Visit link for details|2024-11-18|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
+ |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
  
 
 # MA-CERT
@@ -166,6 +149,23 @@
  |[ 50821411/24 - Vulnérabilités affectant plusieurs produits de Citrix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-de-citrix-5)| Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés. L’exploit pour deux de ces vulnérabilités identifiées par « CVE-2024-8068 » et…| 13 novembre 2024|
  |[ 50831311/24 - Vulnérabilités critiques dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-fortigate)| Fortigate a corrigée plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles permet à un attaquant distant non authentifié d'exécuter du code ou des…| 13 novembre 2024|
  |[ 50811311/24 - Vulnérabilités affectant Ivanti Endpoint Manager ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-0)| Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 13 novembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GLPI - CVE-2024-40638](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-40638-2024-11-18)|Visit link for details.|18/11/2024|
+ |[PostgreSQL - CVE-2024-10979](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-10979-2024-11-18)|Visit link for details.|18/11/2024|
+ |[Veritas NetBackup - CVE-2024-52945](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2024-52945-2024-11-18)|Visit link for details.|18/11/2024|
+ |[PrimX - CVE-2024-46464](https://www.cyberveille-sante.gouv.fr/alertes/primx-cve-2024-46464-2024-11-18)|Visit link for details.|18/11/2024|
+ |[Synology - CVE-2024-10443](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-10443-2024-11-18)|Visit link for details.|18/11/2024|
+ |[WordPress Really Simple Security - CVE-2024-10924](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-really-simple-security-cve-2024-10924-2024-11-15)|Visit link for details.|15/11/2024|
+ |[Icinga - CVE-2024-49369](https://www.cyberveille-sante.gouv.fr/alertes/icinga-cve-2024-49369-2024-11-15)|Visit link for details.|15/11/2024|
+ |[Citrix - CVE-2024-8069](https://www.cyberveille-sante.gouv.fr/alertes/citrix-cve-2024-8069-2024-11-15)|Visit link for details.|15/11/2024|
+ |[Baxter Life2000 - CVE-2024-48967](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48967-2024-11-15)|Visit link for details.|15/11/2024|
+ |[Baxter Life2000 - CVE-2024-48966](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48966-2024-11-15)|Visit link for details.|15/11/2024|
+ |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|15/11/2024|
  
 
 # US-CERT
