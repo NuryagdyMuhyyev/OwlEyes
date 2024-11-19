@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/11/2024 17:43:19 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/11/2024 18:30:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,12 +52,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -74,6 +68,12 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 15 Nov 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -85,6 +85,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Progress Software WhatsUp Gold getReport Missing Authentication Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1512/)|Visit link for details|2024-11-18|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
+ |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
  
 
 # EU-CERT
@@ -104,18 +118,37 @@
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Progress Software WhatsUp Gold getReport Missing Authentication Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1512/)|Visit link for details|2024-11-18|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
- |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
+ |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
+ |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
+ |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
+ |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
+ |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
+ |[Dell security advisory (AV24-661)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-661)|Visit link for details|2024-11-18|
+ |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
+ |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
+ |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
+ |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
+ |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50941911/24 - Des vulnérabilités critiques affectant VMware vCenter et Cloud sont… ](https://www.dgssi.gov.ma/fr/bulletins/des-vulnerabilites-critiques-affectant-vmware-vcenter-et-cloud-sont-activement-exploitees)| Broadcom annonce que deux vulnérabilités critiques affectant ses produits vCenter Server et cloud Foundation sont activement exploitées. Ces vulnérabilités qui ont déjà fait l’objet d’un bulletin de…| 19 novembre 2024|
+ |[ 50931911/24 - Vulnérabilité affectant PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postgresql)| PostgreSQL Global Development Group annonce la correction d’une vulnérabilité affectant son produit PostgreSQL. L’exploitation de cette vulnérabilité peut   permettre à un attaquant…| 19 novembre 2024|
+ |[ 50921911/24 - Vulnérabilités affectant Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat)| Apache annonce la correction de trois vulnérabilités affectant son produit Apache Tomcat. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’injecter du code…| 19 novembre 2024|
+ |[ 50911511/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-1)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les…| 15 novembre 2024|
+ |[ 50901511/24 - Vulnérabilité critique affectant le plugin «Chartify» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-chartify-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Chartify» pour WordPress a été corrigée. Cette     vulnérabilité est activement exploitée et elle peut permettre à un attaquant…| 15 novembre 2024|
+ |[ 50891511/24 - Vulnérabilité critique dans le plugin WordPress Really Simple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-plugin-wordpress-really-simple)| Une vulnérabilité critique a été corrigée dans les plugins du CMS WordPress  susmentionnés. Cette vulnérabilité affecte Really Simple Security, anciennement connu sous le nom de Really Simple…| 15 novembre 2024|
+ |[ 50881511/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-0)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. L’exploitation de ces failles peut permettre à un attaquant de contourner la…| 15 novembre 2024|
+ |[ 50871411/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-1)| Gitlab annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service,…| 15 novembre 2024|
+ |[ 50861411/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird-0)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-11159» affectant Mozilla Thunderbird.  La vulnérabilité provient de la façon dont Thunderbird…| 14 novembre 2024|
+ |[ 50841411/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-1)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 novembre 2024|
  
 
 # CERT-SANTE
@@ -133,39 +166,6 @@
  |[Baxter Life2000 - CVE-2024-48967](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48967-2024-11-15)|Visit link for details.|15/11/2024|
  |[Baxter Life2000 - CVE-2024-48966](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48966-2024-11-15)|Visit link for details.|15/11/2024|
  |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|15/11/2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Cyber [Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
- |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
- |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
- |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
- |[Dell security advisory (AV24-661)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-661)|Visit link for details|2024-11-18|
- |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
- |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
- |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
- |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
- |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
- |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50941911/24 - Des vulnérabilités critiques affectant VMware vCenter et Cloud sont… ](https://www.dgssi.gov.ma/fr/bulletins/des-vulnerabilites-critiques-affectant-vmware-vcenter-et-cloud-sont-activement-exploitees)| Broadcom annonce que deux vulnérabilités critiques affectant ses produits vCenter Server et cloud Foundation sont activement exploitées. Ces vulnérabilités qui ont déjà fait l’objet d’un bulletin de…| 19 novembre 2024|
- |[ 50931911/24 - Vulnérabilité affectant PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postgresql)| PostgreSQL Global Development Group annonce la correction d’une vulnérabilité affectant son produit PostgreSQL. L’exploitation de cette vulnérabilité peut   permettre à un attaquant…| 19 novembre 2024|
- |[ 50921911/24 - Vulnérabilités affectant Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat)| Apache annonce la correction de trois vulnérabilités affectant son produit Apache Tomcat. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’injecter du code…| 19 novembre 2024|
- |[ 50911511/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-1)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les…| 15 novembre 2024|
- |[ 50901511/24 - Vulnérabilité critique affectant le plugin «Chartify» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-chartify-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Chartify» pour WordPress a été corrigée. Cette     vulnérabilité est activement exploitée et elle peut permettre à un attaquant…| 15 novembre 2024|
- |[ 50891511/24 - Vulnérabilité critique dans le plugin WordPress Really Simple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-plugin-wordpress-really-simple)| Une vulnérabilité critique a été corrigée dans les plugins du CMS WordPress  susmentionnés. Cette vulnérabilité affecte Really Simple Security, anciennement connu sous le nom de Really Simple…| 15 novembre 2024|
- |[ 50881511/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-0)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. L’exploitation de ces failles peut permettre à un attaquant de contourner la…| 15 novembre 2024|
- |[ 50871411/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-1)| Gitlab annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service,…| 15 novembre 2024|
- |[ 50861411/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird-0)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-11159» affectant Mozilla Thunderbird.  La vulnérabilité provient de la façon dont Thunderbird…| 14 novembre 2024|
- |[ 50841411/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-1)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 novembre 2024|
  
 
 # US-CERT
