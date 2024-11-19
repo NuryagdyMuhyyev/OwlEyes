@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/11/2024 06:45:39 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/11/2024 07:58:54 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,10 +46,25 @@
  |[USN-7088-5: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7088-5-linux-kernel-vulnerabilities.53860/)|Visit link for details.|Nov 14, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20241119)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and information disclosure on the targeted system.|Release Date: 19 Nov 2024 |
+ |[Palo Alto PAN-OS Multiple vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-multiple-vulnerabilities_20241119)|Multiple vulnerabilities were identified in Palo Alto PAN-OS. A remote user could exploit these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system. Note: CVE-2024-0012 and CVE-2024-9474 are actively exploited in...|Release Date: 19 Nov 2024 |
+ |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in VMware products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. [Updated on 2024-11-19]Updated Description and Risk level changed to extremely high....| Release Date: 19 Sep 2024 |
  |[Ruckus Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ruckus-products-remote-code-execution-vulnerability_20241118)|A vulnerability was identified in Ruckus Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 18 Nov 2024 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
  |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-8068 and...|Release Date: 15 Nov 2024 |
@@ -57,9 +72,6 @@
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, cross-site scripting, remote code execution, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
  |[Ivanti Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger denial of service condition, remote code execution, elevation of privilege, data manipulation and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 15 Nov 2024 |
- |[Mozilla Thunderbird Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-information-disclosure-vulnerability_20241115)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
- |[Palo Alto PAN-OS Multiple vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Palo Alto PAN-OS. A remote user could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, denial of service, sensitive information disclosure, and security restriction bypass on the targeted system.|Release Date: 15 Nov 2024 |
- |[Xen Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/xen-multiple-vulnerabilities_20241115)|Multiple vulnerabilities have been identified in Xen. An attacker can exploit these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -75,33 +87,18 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-FR
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Cyber [Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
- |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
- |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
- |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
- |[Dell security advisory (AV24-661)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-661)|Visit link for details|2024-11-18|
- |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
- |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
- |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
- |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
- |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
- |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
+ |[Progress Software WhatsUp Gold getReport Missing Authentication Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1512/)|Visit link for details|2024-11-18|
+ |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
+ |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
+ |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
  
 
 # EU-CERT
@@ -121,18 +118,21 @@
  |[2024-106: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/publications/security-advisories/2024-106/)|On October 8, 2024, Microsoft addressed 118 vulnerabilities in its October 2024 Patch Tuesday update, including five zero-day vulnerabilities. This Patch Tuesday also fixes three critical vulnerabilities.|Wednesday, October 09, 2024 06:06:57 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Progress Software WhatsUp Gold getReport Missing Authentication Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1512/)|Visit link for details|2024-11-18|
- |[Microsoft Office PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1511/)|Visit link for details|2024-11-14|
- |[Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1510/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager vulscan Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1509/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetDetectedVulnerabilitiesDataTable SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1508/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager ROI SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1507/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager serverStorage SQL Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1506/)|Visit link for details|2024-11-13|
- |[Ivanti Endpoint Manager GetFilePath Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1505/)|Visit link for details|2024-11-13|
+ |[Cyber [Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
+ |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
+ |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
+ |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
+ |[Dell security advisory (AV24-661)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-661)|Visit link for details|2024-11-18|
+ |[Securing Palo Alto management interfaces from exploitation](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-15|
+ |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
+ |[Microsoft Edge security advisory (AV24-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-659)|Visit link for details|2024-11-15|
+ |[Jenkins security advisory (AV24-658)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-658)|Visit link for details|2024-11-13|
+ |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
+ |[[Control systems] Siemens security advisory (AV24-656)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-656)|Visit link for details|2024-11-13|
  
 
 # MA-CERT
