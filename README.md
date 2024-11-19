@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/11/2024 18:30:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/11/2024 19:22:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,12 +68,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, security restriction bypass and remote code execution on the targeted system.|Release Date: 15 Nov 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -81,10 +75,16 @@
  |[Classified Listing – Classified ads & Business Directory Plugin <= 3.1.15.1 - Authenticated (Subscriber+) Limited Arbitrary Option Update (CVE-2024-11194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
  |[Email Subscription Popup <= 1.2.22 - Authenticated (Contributor+) Stored Cross-Site Scripting via print_email_subscribe_form Shortcode (CVE-2024-11195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
  |[GamiPress – The #1 gamification plugin to reward points, achievements, badges & ranks in WordPress <= 7.1.5 - Unauthenticated Arbitrary Shortcode Execution via gamipress_get_user_earnings (CVE-2024-11036)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
- |[WPB Popup for Contact Form 7 – Showing The Contact Form 7 Popup on Button Click – CF7 Popup <= 1.7.5 - Unauthenticated Arbitrary Shortcode Execution via wpb_pcf_fire_contact_form (CVE-2024-11038)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -135,22 +135,6 @@
  |[Palo Alto Networks security advisory (AV24-657)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-657)|Visit link for details|2024-11-13|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 50941911/24 - Des vulnérabilités critiques affectant VMware vCenter et Cloud sont… ](https://www.dgssi.gov.ma/fr/bulletins/des-vulnerabilites-critiques-affectant-vmware-vcenter-et-cloud-sont-activement-exploitees)| Broadcom annonce que deux vulnérabilités critiques affectant ses produits vCenter Server et cloud Foundation sont activement exploitées. Ces vulnérabilités qui ont déjà fait l’objet d’un bulletin de…| 19 novembre 2024|
- |[ 50931911/24 - Vulnérabilité affectant PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postgresql)| PostgreSQL Global Development Group annonce la correction d’une vulnérabilité affectant son produit PostgreSQL. L’exploitation de cette vulnérabilité peut   permettre à un attaquant…| 19 novembre 2024|
- |[ 50921911/24 - Vulnérabilités affectant Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat)| Apache annonce la correction de trois vulnérabilités affectant son produit Apache Tomcat. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’injecter du code…| 19 novembre 2024|
- |[ 50911511/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-1)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les…| 15 novembre 2024|
- |[ 50901511/24 - Vulnérabilité critique affectant le plugin «Chartify» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-chartify-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Chartify» pour WordPress a été corrigée. Cette     vulnérabilité est activement exploitée et elle peut permettre à un attaquant…| 15 novembre 2024|
- |[ 50891511/24 - Vulnérabilité critique dans le plugin WordPress Really Simple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-plugin-wordpress-really-simple)| Une vulnérabilité critique a été corrigée dans les plugins du CMS WordPress  susmentionnés. Cette vulnérabilité affecte Really Simple Security, anciennement connu sous le nom de Really Simple…| 15 novembre 2024|
- |[ 50881511/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-0)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. L’exploitation de ces failles peut permettre à un attaquant de contourner la…| 15 novembre 2024|
- |[ 50871411/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-1)| Gitlab annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service,…| 15 novembre 2024|
- |[ 50861411/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird-0)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-11159» affectant Mozilla Thunderbird.  La vulnérabilité provient de la façon dont Thunderbird…| 14 novembre 2024|
- |[ 50841411/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-1)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 novembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -166,6 +150,22 @@
  |[Baxter Life2000 - CVE-2024-48967](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48967-2024-11-15)|Visit link for details.|15/11/2024|
  |[Baxter Life2000 - CVE-2024-48966](https://www.cyberveille-sante.gouv.fr/alertes/baxter-life2000-cve-2024-48966-2024-11-15)|Visit link for details.|15/11/2024|
  |[Palo Alto - CVE-2024-9465](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-9465-2024-10-10)|Visit link for details.|15/11/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 50941911/24 - Des vulnérabilités critiques affectant VMware vCenter et Cloud sont… ](https://www.dgssi.gov.ma/fr/bulletins/des-vulnerabilites-critiques-affectant-vmware-vcenter-et-cloud-sont-activement-exploitees)| Broadcom annonce que deux vulnérabilités critiques affectant ses produits vCenter Server et cloud Foundation sont activement exploitées. Ces vulnérabilités qui ont déjà fait l’objet d’un bulletin de…| 19 novembre 2024|
+ |[ 50931911/24 - Vulnérabilité affectant PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postgresql)| PostgreSQL Global Development Group annonce la correction d’une vulnérabilité affectant son produit PostgreSQL. L’exploitation de cette vulnérabilité peut   permettre à un attaquant…| 19 novembre 2024|
+ |[ 50921911/24 - Vulnérabilités affectant Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat)| Apache annonce la correction de trois vulnérabilités affectant son produit Apache Tomcat. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’injecter du code…| 19 novembre 2024|
+ |[ 50911511/24 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-1)| Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les…| 15 novembre 2024|
+ |[ 50901511/24 - Vulnérabilité critique affectant le plugin «Chartify» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-chartify-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Chartify» pour WordPress a été corrigée. Cette     vulnérabilité est activement exploitée et elle peut permettre à un attaquant…| 15 novembre 2024|
+ |[ 50891511/24 - Vulnérabilité critique dans le plugin WordPress Really Simple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-plugin-wordpress-really-simple)| Une vulnérabilité critique a été corrigée dans les plugins du CMS WordPress  susmentionnés. Cette vulnérabilité affecte Really Simple Security, anciennement connu sous le nom de Really Simple…| 15 novembre 2024|
+ |[ 50881511/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-0)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant son système et plusieurs plugins. L’exploitation de ces failles peut permettre à un attaquant de contourner la…| 15 novembre 2024|
+ |[ 50871411/24 - Vulnérabilités dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-gitlab-1)| Gitlab annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de service,…| 15 novembre 2024|
+ |[ 50861411/24 - Vulnérabilité critique dans Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-mozilla-thunderbird-0)| Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité critique « CVE-2024-11159» affectant Mozilla Thunderbird.  La vulnérabilité provient de la façon dont Thunderbird…| 14 novembre 2024|
+ |[ 50841411/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-1)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 novembre 2024|
  
 
 # US-CERT
