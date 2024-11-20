@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/11/2024 16:18:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/11/2024 17:43:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,6 +52,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -66,12 +72,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]Updated Solutions and Related Links. [Updated...| Release Date: 4 Nov 2024 |
  |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-8068 and...|Release Date: 15 Nov 2024 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, security restriction bypass, data manipulation, and elevation of privilege on the targeted system. |Release Date: 15 Nov 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -101,23 +101,6 @@
  |[Siemens Tecnomatix Plant Simulation WRL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1524/)|Visit link for details|2024-11-19|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
- |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
- |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
- |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
- |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
- |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
- |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
- |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
- |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
- |[Dell security advisory (AV24-661)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-661)|Visit link for details|2024-11-18|
- |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -133,6 +116,23 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
+ |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
+ |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
+ |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
+ |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
+ |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
+ |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
+ |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
+ |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
+ |[Dell security advisory (AV24-661)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-661)|Visit link for details|2024-11-18|
+ |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
  
 
 # CERT-SANTE
