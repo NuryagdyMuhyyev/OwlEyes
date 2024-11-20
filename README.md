@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/11/2024 08:33:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/11/2024 09:26:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,12 @@
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, cross-site scripting, remote code execution, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 15 Nov 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -76,15 +82,9 @@
  |[WordPress Events Manager Pro – extended plugin <= 0.1 - CSRF to Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-50532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
  |[WordPress Domain Sharding plugin <= 1.2.1 - CSRF to Stored Cross Site Scripting (XSS) vulnerability (CVE-2024-50533)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
  |[WordPress World Prayer Time plugin <= 2.0 - CSRF to Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-50534)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
+ |[WordPress Ninja Forms – The Contact Form Builder That Grows With You plugin <= 3.8.16 - Cross Site Scripting (XSS) vulnerability (CVE-2024-50514)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -118,21 +118,21 @@
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Palo Alto Networks - CVE-2024-0012](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-0012-2024-11-19)|Visit link for details.|19/11/2024|
- |[Fortinet - CVE-2024-47574](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47574-2024-11-19)|Visit link for details.|19/11/2024|
- |[GitLab - CVE-2024-9693](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9693-2024-11-19)|Visit link for details.|19/11/2024|
- |[Linux - CVE-2024-50291](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50291-2024-11-19)|Visit link for details.|19/11/2024|
- |[ManageEngine - CVE-2024-49574](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-49574-2024-11-19)|Visit link for details.|19/11/2024|
- |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|19/11/2024|
- |[Progress LoadMaster - CVE-2024-1212](https://www.cyberveille-sante.gouv.fr/alertes/progress-loadmaster-cve-2024-1212-2024-02-23)|Visit link for details.|19/11/2024|
- |[VMware - CVE-2024-38813](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38813-2024-09-20)|Visit link for details.|19/11/2024|
- |[GLPI - CVE-2024-40638](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-40638-2024-11-18)|Visit link for details.|18/11/2024|
- |[PostgreSQL - CVE-2024-10979](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-10979-2024-11-18)|Visit link for details.|18/11/2024|
- |[Veritas NetBackup - CVE-2024-52945](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2024-52945-2024-11-18)|Visit link for details.|18/11/2024|
+ |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
+ |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
+ |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
+ |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
+ |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
+ |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
+ |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
+ |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
+ |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
+ |[Dell security advisory (AV24-661)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-661)|Visit link for details|2024-11-18|
+ |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
  
 
 # MA-CERT
@@ -151,21 +151,21 @@
  |[ 50841411/24 - Vulnérabilités affectant des produits d’Intel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-dintel-1)| Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant…| 14 novembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
- |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
- |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
- |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
- |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
- |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
- |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
- |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
- |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
- |[Dell security advisory (AV24-661)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-661)|Visit link for details|2024-11-18|
- |[HPE security advisory (AV24-660)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-660)|Visit link for details|2024-11-15|
+ |[Palo Alto Networks - CVE-2024-0012](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-0012-2024-11-19)|Visit link for details.|19/11/2024|
+ |[Fortinet - CVE-2024-47574](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47574-2024-11-19)|Visit link for details.|19/11/2024|
+ |[GitLab - CVE-2024-9693](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9693-2024-11-19)|Visit link for details.|19/11/2024|
+ |[Linux - CVE-2024-50291](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50291-2024-11-19)|Visit link for details.|19/11/2024|
+ |[ManageEngine - CVE-2024-49574](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-49574-2024-11-19)|Visit link for details.|19/11/2024|
+ |[VMware - CVE-2024-38812](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38812-2024-09-18)|Visit link for details.|19/11/2024|
+ |[Progress LoadMaster - CVE-2024-1212](https://www.cyberveille-sante.gouv.fr/alertes/progress-loadmaster-cve-2024-1212-2024-02-23)|Visit link for details.|19/11/2024|
+ |[VMware - CVE-2024-38813](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38813-2024-09-20)|Visit link for details.|19/11/2024|
+ |[GLPI - CVE-2024-40638](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-40638-2024-11-18)|Visit link for details.|18/11/2024|
+ |[PostgreSQL - CVE-2024-10979](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-10979-2024-11-18)|Visit link for details.|18/11/2024|
+ |[Veritas NetBackup - CVE-2024-52945](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2024-52945-2024-11-18)|Visit link for details.|18/11/2024|
  
 
 # US-CERT
