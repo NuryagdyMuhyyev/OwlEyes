@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/11/2024 02:20:28 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/11/2024 03:20:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -58,6 +52,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -74,24 +74,38 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, security restriction bypass, data manipulation, and elevation of privilege on the targeted system. |Release Date: 15 Nov 2024 |
  
 
-# OBS-Vigilance
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apple - CVE-2024-44309](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44309-2024-11-20)|Visit link for details.|20/11/2024|
+ |[Apple - CVE-2024-44308](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44308-2024-11-20)|Visit link for details.|20/11/2024|
+ |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|20/11/2024|
+ |[Trend Micro - CVE-2024-51503](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-51503-2024-11-20)|Visit link for details.|20/11/2024|
+ |[WordPress Essential Addons for Elementor - CVE-2024-8979](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-essential-addons-elementor-cve-2024-8979-2024-11-20)|Visit link for details.|20/11/2024|
+ |[Zyxel - CVE-2024-42057](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-42057-2024-09-03)|Visit link for details.|20/11/2024|
+ |[Palo Alto Networks - CVE-2024-0012](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-0012-2024-11-19)|Visit link for details.|19/11/2024|
+ |[Fortinet - CVE-2024-47574](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47574-2024-11-19)|Visit link for details.|19/11/2024|
+ |[GitLab - CVE-2024-9693](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9693-2024-11-19)|Visit link for details.|19/11/2024|
+ |[Linux - CVE-2024-50291](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50291-2024-11-19)|Visit link for details.|19/11/2024|
+ |[ManageEngine - CVE-2024-49574](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-49574-2024-11-19)|Visit link for details.|19/11/2024|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft SharePoint Server FindSpecific Unsafe Reflection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1534/)|Visit link for details|2024-11-20|
- |[Panda Security Dome PSANHost Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1533/)|Visit link for details|2024-11-20|
- |[7-Zip Zstandard Decompression Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1532/)|Visit link for details|2024-11-20|
- |[RSA Security SecureID Software Token for Microsoft Windows Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1531/)|Visit link for details|2024-11-19|
- |[WordPress Core maybe_unserialize Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1530/)|Visit link for details|2024-11-19|
- |[Dassault Systèmes eDrawings Viewer X_B File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1529/)|Visit link for details|2024-11-19|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1528/)|Visit link for details|2024-11-19|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1527/)|Visit link for details|2024-11-19|
+ |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
+ |[Oracle security advisory (AV24-671)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av24-671)|Visit link for details|2024-11-20|
+ |[Palo Alto Networks security advisory (AV24-670)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-670)|Visit link for details|2024-11-20|
+ |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
+ |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
+ |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
+ |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
+ |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
+ |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
+ |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
+ |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
  
 
 # EU-CERT
@@ -111,21 +125,18 @@
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Oracle security advisory (AV24-671)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av24-671)|Visit link for details|2024-11-20|
- |[Palo Alto Networks security advisory (AV24-670)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-670)|Visit link for details|2024-11-20|
- |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
- |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
- |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
- |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
- |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
- |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
- |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
- |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
- |[IBM security advisory (AV24-662)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-662)|Visit link for details|2024-11-18|
+ |[Microsoft SharePoint Server FindSpecific Unsafe Reflection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1534/)|Visit link for details|2024-11-20|
+ |[Panda Security Dome PSANHost Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1533/)|Visit link for details|2024-11-20|
+ |[7-Zip Zstandard Decompression Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1532/)|Visit link for details|2024-11-20|
+ |[RSA Security SecureID Software Token for Microsoft Windows Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1531/)|Visit link for details|2024-11-19|
+ |[WordPress Core maybe_unserialize Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1530/)|Visit link for details|2024-11-19|
+ |[Dassault Systèmes eDrawings Viewer X_B File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1529/)|Visit link for details|2024-11-19|
+ |[Dassault Systèmes eDrawings Viewer SAT File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1528/)|Visit link for details|2024-11-19|
+ |[Siemens Tecnomatix Plant Simulation WRL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1527/)|Visit link for details|2024-11-19|
  
 
 # MA-CERT
@@ -145,21 +156,17 @@
  |[ 50901511/24 - Vulnérabilité critique affectant le plugin «Chartify» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-chartify-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Chartify» pour WordPress a été corrigée. Cette     vulnérabilité est activement exploitée et elle peut permettre à un attaquant…| 15 novembre 2024|
  
 
-# CERT-SANTE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple - CVE-2024-44309](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44309-2024-11-20)|Visit link for details.|20/11/2024|
- |[Apple - CVE-2024-44308](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44308-2024-11-20)|Visit link for details.|20/11/2024|
- |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|20/11/2024|
- |[Trend Micro - CVE-2024-51503](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-51503-2024-11-20)|Visit link for details.|20/11/2024|
- |[WordPress Essential Addons for Elementor - CVE-2024-8979](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-essential-addons-elementor-cve-2024-8979-2024-11-20)|Visit link for details.|20/11/2024|
- |[Zyxel - CVE-2024-42057](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-42057-2024-09-03)|Visit link for details.|20/11/2024|
- |[Palo Alto Networks - CVE-2024-0012](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-0012-2024-11-19)|Visit link for details.|19/11/2024|
- |[Fortinet - CVE-2024-47574](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-47574-2024-11-19)|Visit link for details.|19/11/2024|
- |[GitLab - CVE-2024-9693](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-9693-2024-11-19)|Visit link for details.|19/11/2024|
- |[Linux - CVE-2024-50291](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50291-2024-11-19)|Visit link for details.|19/11/2024|
- |[ManageEngine - CVE-2024-49574](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-49574-2024-11-19)|Visit link for details.|19/11/2024|
+ |[WordPress Crowdsignal Polls & Ratings plugin <= 3.1.2 - Cross Site Request Forgery (CSRF) vulnerability (CVE-2024-43338)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
+ |[WordPress Events Manager Pro – extended plugin <= 0.1 - CSRF to Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-50532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
+ |[WordPress Domain Sharding plugin <= 1.2.1 - CSRF to Stored Cross Site Scripting (XSS) vulnerability (CVE-2024-50533)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
+ |[WordPress World Prayer Time plugin <= 2.0 - CSRF to Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-50534)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # US-CERT
