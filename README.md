@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/11/2024 14:23:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/11/2024 15:23:37 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,23 +46,10 @@
  |[DSA-5816-1 libmodule-scandeps-perl - security update](https://www.linux.org/threads/dsa-5816-1-libmodule-scandeps-perl-security-update.53953/)|Visit link for details.|Nov 19, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.4 - Authenticated (Contributor+) Post Disclosure (CVE-2024-10671)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[My Contador lesr <= 2.0 - Missing Authorization to Unauthenticated User Registration CSV Export (CVE-2024-11334)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Activity Log – Monitor & Record User Changes <= 2.11.1 - Unauthenticated Stored Cross-Site Scripting via Event Context (CVE-2024-10788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[StreamWeasels Online Status Bar <= 2.1.9 - Authenticated (Contributor+) Stored Cross-Site Scripting (CVE-2024-11438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -85,6 +66,25 @@
  |[Ruckus Products Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/ruckus-products-remote-code-execution-vulnerability_20241118)|A vulnerability was identified in Ruckus Products. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 18 Nov 2024 |
  |[Citrix Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system. Note:Proof of concept exploit for CVE-2024-8068 and...|Release Date: 15 Nov 2024 |
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, security restriction bypass, data manipulation, and elevation of privilege on the targeted system. |Release Date: 15 Nov 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.4 - Authenticated (Contributor+) Post Disclosure (CVE-2024-10671)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[My Contador lesr <= 2.0 - Missing Authorization to Unauthenticated User Registration CSV Export (CVE-2024-11334)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Activity Log – Monitor & Record User Changes <= 2.11.1 - Unauthenticated Stored Cross-Site Scripting via Event Context (CVE-2024-10788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[StreamWeasels Online Status Bar <= 2.1.9 - Authenticated (Contributor+) Stored Cross-Site Scripting (CVE-2024-11438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -139,6 +139,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 51032011/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-4)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 21 novembre 2024|
  |[ 51032111/24 - Vulnérabilité affectant Trend Micro Deep Security Agent ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-trend-micro-deep-security-agent)| Trend Micro annonce la correction d’une vulnérabilité  affectant les versions susmentionnées de ses produits Deep Security Agent et Deep Security Notifier.  L'exploitation de cette…| 21 novembre 2024|
  |[ 51022111/24 - Vulnérabilité critique affectant Laravel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-laravel)| Une vulnérabilité critique affectant le Framewrok Laravel a été corrigée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant le contournement de mesures de sécurité.| 21 novembre 2024|
  |[ 51012011/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal-0)| Une vulnérabilité critique de type cross-site scripting (XSS) existe dans le module Overlay de Drupal 7 core. Cette vulnérabilité permet aux attaquants d'exécuter des scripts malveillants dans les…| 21 novembre 2024|
@@ -149,7 +150,6 @@
  |[ 50962011/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-30)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités…| 20 novembre 2024|
  |[ 50952011/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de deux vulnérabilités affectant ses produits susmentionnés. Ces vulnérabilités sont susceptibles d’être activement exploitées et elles peuvent  permettre…| 20 novembre 2024|
  |[ 50941911/24 - Des vulnérabilités critiques affectant VMware vCenter et Cloud sont… ](https://www.dgssi.gov.ma/fr/bulletins/des-vulnerabilites-critiques-affectant-vmware-vcenter-et-cloud-sont-activement-exploitees)| Broadcom annonce que deux vulnérabilités critiques affectant ses produits vCenter Server et cloud Foundation sont activement exploitées. Ces vulnérabilités qui ont déjà fait l’objet d’un bulletin de…| 19 novembre 2024|
- |[ 50931911/24 - Vulnérabilité affectant PostgreSQL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-postgresql)| PostgreSQL Global Development Group annonce la correction d’une vulnérabilité affectant son produit PostgreSQL. L’exploitation de cette vulnérabilité peut   permettre à un attaquant…| 19 novembre 2024|
  
 
 # CA-CCS
