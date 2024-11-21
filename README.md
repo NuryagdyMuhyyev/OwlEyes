@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/11/2024 01:23:59 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/11/2024 02:20:15 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,6 +44,18 @@
  |[USN-7119-1: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-7119-1-linux-kernel-iot-vulnerabilities.53959/)|Visit link for details.|Nov 20, 2024|
  |[USN-7089-7: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-7089-7-linux-kernel-low-latency-vulnerabilities.53958/)|Visit link for details.|Nov 20, 2024|
  |[USN-7117-1: needrestart and Module::ScanDeps vulnerabilities](https://www.linux.org/threads/usn-7117-1-needrestart-and-module-scandeps-vulnerabilities.53955/)|Visit link for details.|Nov 19, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -76,46 +82,9 @@
  |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft SharePoint Server FindSpecific Unsafe Reflection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1534/)|Visit link for details|2024-11-20|
- |[Panda Security Dome PSANHost Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1533/)|Visit link for details|2024-11-20|
- |[7-Zip Zstandard Decompression Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1532/)|Visit link for details|2024-11-20|
- |[RSA Security SecureID Software Token for Microsoft Windows Uncontrolled Search Path Element Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1531/)|Visit link for details|2024-11-19|
- |[WordPress Core maybe_unserialize Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1530/)|Visit link for details|2024-11-19|
- |[Dassault Systèmes eDrawings Viewer X_B File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1529/)|Visit link for details|2024-11-19|
- |[Dassault Systèmes eDrawings Viewer SAT File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1528/)|Visit link for details|2024-11-19|
- |[Siemens Tecnomatix Plant Simulation WRL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1527/)|Visit link for details|2024-11-19|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[7-Zip - CVE-2024-11477](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2024-11477-2024-11-21)|Visit link for details.|21/11/2024|
- |[Linux - CVE-2024-50290](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50290-2024-11-21)|Visit link for details.|21/11/2024|
- |[M-Files - CVE-2024-10127](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-10127-2024-11-21)|Visit link for details.|21/11/2024|
- |[TP-Link - CVE-2024-11237](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-11237-2024-11-21)|Visit link for details.|21/11/2024|
- |[Zyxel - CVE-2024-11494](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-11494-2024-11-21)|Visit link for details.|21/11/2024|
- |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|21/11/2024|
- |[PostgreSQL - CVE-2024-10979](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-10979-2024-11-18)|Visit link for details.|21/11/2024|
- |[Apple - CVE-2024-44309](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44309-2024-11-20)|Visit link for details.|20/11/2024|
- |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|20/11/2024|
- |[Trend Micro - CVE-2024-51503](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-51503-2024-11-20)|Visit link for details.|20/11/2024|
- |[WordPress Essential Addons for Elementor - CVE-2024-8979](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-essential-addons-elementor-cve-2024-8979-2024-11-20)|Visit link for details.|20/11/2024|
  
 
 # EU-CERT
@@ -135,21 +104,18 @@
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 51042011/24 - Vulnérabilité critique dans Kubernetes ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-kubernetes)| Kubernetes annonce la correction d’une vulnérabilité critique affectant Kubernetes. L’exploitation de cette faille peut  permettre  à un attaquant d’exécuter des commandes arbitraires à…| 21 novembre 2024|
- |[ 51032011/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-4)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 21 novembre 2024|
- |[ 51032111/24 - Vulnérabilité affectant Trend Micro Deep Security Agent ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-trend-micro-deep-security-agent)| Trend Micro annonce la correction d’une vulnérabilité  affectant les versions susmentionnées de ses produits Deep Security Agent et Deep Security Notifier.  L'exploitation de cette…| 21 novembre 2024|
- |[ 51022111/24 - Vulnérabilité critique affectant Laravel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-laravel)| Une vulnérabilité critique affectant le Framewrok Laravel a été corrigée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant le contournement de mesures de sécurité.| 21 novembre 2024|
- |[ 51012011/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal-0)| Une vulnérabilité critique de type cross-site scripting (XSS) existe dans le module Overlay de Drupal 7 core. Cette vulnérabilité permet aux attaquants d'exécuter des scripts malveillants dans les…| 21 novembre 2024|
- |[ 51002011/24 - Vulnérabilités critiques dans Apache Traffic Server (ATS) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-apache-traffic-server-ats)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour Apache Traffic Server (ATS), qui corrige plusieurs vulnérabilités, dont une critique ayant de graves conséquences pour…| 20 novembre 2024|
- |[ 50992011/24 - Vulnérabilités d'exécution de code à distance via l'interface de… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dexecution-de-code-distance-linterface-de-gestion-de-pan-ossuite)| Palo Alto Networks a publié un bulletin de sécurité critique concernant deux vulnérabilités liées à l'interface de gestion des appareils PAN-OS. Un attaquant non authentifié peut exploiter ces failles…| 20 novembre 2024|
- |[ 50982011/24 - Vulnérabilité critique dans Oracle Agile Product Lifecycle Management ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-oracle-agile-product-lifecycle-management)| Oracle a publié une mise à jour de sécurité pour une vulnérabilité critique dans Oracle Agile Product Lifecycle Management (PLM). Cette faille pourrait permettre une exploitation à distance sans…| 20 novembre 2024|
- |[ 50972011/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia-0)| Deux vulnérabilités critiques ont été corrigées dans le composant CMDaemon de NVIDIA Base Command Manager. L’exploitation de ces failles pourrait potentiellement permettre à un attaquant d'exécuter du…| 20 novembre 2024|
- |[ 50962011/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-30)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités…| 20 novembre 2024|
- |[ 50952011/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de deux vulnérabilités affectant ses produits susmentionnés. Ces vulnérabilités sont susceptibles d’être activement exploitées et elles peuvent  permettre…| 20 novembre 2024|
+ |[Adobe InDesign JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1605/)|Visit link for details|2024-11-21|
+ |[IrfanView DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1604/)|Visit link for details|2024-11-21|
+ |[IrfanView DXF File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1603/)|Visit link for details|2024-11-21|
+ |[IrfanView SVG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1602/)|Visit link for details|2024-11-21|
+ |[IrfanView ECW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1601/)|Visit link for details|2024-11-21|
+ |[IrfanView JPM File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1600/)|Visit link for details|2024-11-21|
+ |[IrfanView ECW File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1599/)|Visit link for details|2024-11-21|
+ |[IrfanView JPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1598/)|Visit link for details|2024-11-21|
  
 
 # CA-CCS
@@ -167,6 +133,40 @@
  |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
  |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
  |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51042011/24 - Vulnérabilité critique dans Kubernetes ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-kubernetes)| Kubernetes annonce la correction d’une vulnérabilité critique affectant Kubernetes. L’exploitation de cette faille peut  permettre  à un attaquant d’exécuter des commandes arbitraires à…| 21 novembre 2024|
+ |[ 51032011/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-4)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 21 novembre 2024|
+ |[ 51032111/24 - Vulnérabilité affectant Trend Micro Deep Security Agent ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-trend-micro-deep-security-agent)| Trend Micro annonce la correction d’une vulnérabilité  affectant les versions susmentionnées de ses produits Deep Security Agent et Deep Security Notifier.  L'exploitation de cette…| 21 novembre 2024|
+ |[ 51022111/24 - Vulnérabilité critique affectant Laravel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-laravel)| Une vulnérabilité critique affectant le Framewrok Laravel a été corrigée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant le contournement de mesures de sécurité.| 21 novembre 2024|
+ |[ 51012011/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal-0)| Une vulnérabilité critique de type cross-site scripting (XSS) existe dans le module Overlay de Drupal 7 core. Cette vulnérabilité permet aux attaquants d'exécuter des scripts malveillants dans les…| 21 novembre 2024|
+ |[ 51002011/24 - Vulnérabilités critiques dans Apache Traffic Server (ATS) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-apache-traffic-server-ats)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour Apache Traffic Server (ATS), qui corrige plusieurs vulnérabilités, dont une critique ayant de graves conséquences pour…| 20 novembre 2024|
+ |[ 50992011/24 - Vulnérabilités d'exécution de code à distance via l'interface de… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dexecution-de-code-distance-linterface-de-gestion-de-pan-ossuite)| Palo Alto Networks a publié un bulletin de sécurité critique concernant deux vulnérabilités liées à l'interface de gestion des appareils PAN-OS. Un attaquant non authentifié peut exploiter ces failles…| 20 novembre 2024|
+ |[ 50982011/24 - Vulnérabilité critique dans Oracle Agile Product Lifecycle Management ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-oracle-agile-product-lifecycle-management)| Oracle a publié une mise à jour de sécurité pour une vulnérabilité critique dans Oracle Agile Product Lifecycle Management (PLM). Cette faille pourrait permettre une exploitation à distance sans…| 20 novembre 2024|
+ |[ 50972011/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia-0)| Deux vulnérabilités critiques ont été corrigées dans le composant CMDaemon de NVIDIA Base Command Manager. L’exploitation de ces failles pourrait potentiellement permettre à un attaquant d'exécuter du…| 20 novembre 2024|
+ |[ 50962011/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-30)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités…| 20 novembre 2024|
+ |[ 50952011/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de deux vulnérabilités affectant ses produits susmentionnés. Ces vulnérabilités sont susceptibles d’être activement exploitées et elles peuvent  permettre…| 20 novembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[7-Zip - CVE-2024-11477](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2024-11477-2024-11-21)|Visit link for details.|21/11/2024|
+ |[Linux - CVE-2024-50290](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50290-2024-11-21)|Visit link for details.|21/11/2024|
+ |[M-Files - CVE-2024-10127](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-10127-2024-11-21)|Visit link for details.|21/11/2024|
+ |[TP-Link - CVE-2024-11237](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-11237-2024-11-21)|Visit link for details.|21/11/2024|
+ |[Zyxel - CVE-2024-11494](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-11494-2024-11-21)|Visit link for details.|21/11/2024|
+ |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|21/11/2024|
+ |[PostgreSQL - CVE-2024-10979](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-10979-2024-11-18)|Visit link for details.|21/11/2024|
+ |[Apple - CVE-2024-44309](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44309-2024-11-20)|Visit link for details.|20/11/2024|
+ |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|20/11/2024|
+ |[Trend Micro - CVE-2024-51503](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-51503-2024-11-20)|Visit link for details.|20/11/2024|
+ |[WordPress Essential Addons for Elementor - CVE-2024-8979](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-essential-addons-elementor-cve-2024-8979-2024-11-20)|Visit link for details.|20/11/2024|
  
 
 # US-CERT
