@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/11/2024 22:19:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/11/2024 23:30:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,16 +29,11 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7118-1: ZBar vulnerabilities](https://www.linux.org/threads/usn-7118-1-zbar-vulnerabilities.54004/)|Visit link for details.|Nov 21, 2024|
  |[USN-7091-2: Ruby vulnerabilities](https://www.linux.org/threads/usn-7091-2-ruby-vulnerabilities.53994/)|Visit link for details.|Nov 21, 2024|
  |[USN-7120-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7120-2-linux-kernel-vulnerabilities.53986/)|Visit link for details.|Nov 20, 2024|
  |[USN-7121-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7121-2-linux-kernel-azure-vulnerabilities.53985/)|Visit link for details.|Nov 20, 2024|
@@ -49,7 +44,12 @@
  |[USN-7119-1: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-7119-1-linux-kernel-iot-vulnerabilities.53959/)|Visit link for details.|Nov 20, 2024|
  |[USN-7089-7: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-7089-7-linux-kernel-low-latency-vulnerabilities.53958/)|Visit link for details.|Nov 20, 2024|
  |[USN-7117-1: needrestart and Module::ScanDeps vulnerabilities](https://www.linux.org/threads/usn-7117-1-needrestart-and-module-scandeps-vulnerabilities.53955/)|Visit link for details.|Nov 19, 2024|
- |[DSA-5816-1 libmodule-scandeps-perl - security update](https://www.linux.org/threads/dsa-5816-1-libmodule-scandeps-perl-security-update.53953/)|Visit link for details.|Nov 19, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -68,12 +68,6 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20241115)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, security restriction bypass, data manipulation, and elevation of privilege on the targeted system. |Release Date: 15 Nov 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -85,6 +79,12 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -99,23 +99,6 @@
  |[Dassault Systèmes eDrawings Viewer X_B File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1529/)|Visit link for details|2024-11-19|
  |[Dassault Systèmes eDrawings Viewer SAT File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1528/)|Visit link for details|2024-11-19|
  |[Siemens Tecnomatix Plant Simulation WRL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1527/)|Visit link for details|2024-11-19|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
- |[Oracle security advisory (AV24-671)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av24-671)|Visit link for details|2024-11-20|
- |[Palo Alto Networks security advisory (AV24-670)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-670)|Visit link for details|2024-11-20|
- |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
- |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
- |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
- |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
- |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
- |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
- |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
- |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
  
 
 # EU-CERT
@@ -167,6 +150,23 @@
  |[ 50972011/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia-0)| Deux vulnérabilités critiques ont été corrigées dans le composant CMDaemon de NVIDIA Base Command Manager. L’exploitation de ces failles pourrait potentiellement permettre à un attaquant d'exécuter du…| 20 novembre 2024|
  |[ 50962011/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-30)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités…| 20 novembre 2024|
  |[ 50952011/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de deux vulnérabilités affectant ses produits susmentionnés. Ces vulnérabilités sont susceptibles d’être activement exploitées et elles peuvent  permettre…| 20 novembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
+ |[Oracle security advisory (AV24-671)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av24-671)|Visit link for details|2024-11-20|
+ |[Palo Alto Networks security advisory (AV24-670)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-670)|Visit link for details|2024-11-20|
+ |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
+ |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
+ |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
+ |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
+ |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
+ |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
+ |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
+ |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
  
 
 # US-CERT
