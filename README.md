@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/11/2024 10:20:50 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/11/2024 11:30:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7015-6: Python regressions](https://www.linux.org/threads/usn-7015-6-python-regressions.54014/)|Visit link for details.|Nov 22, 2024|
  |[USN-7120-3: Linux kernel (Low Latency) vulnerabilities](https://www.linux.org/threads/usn-7120-3-linux-kernel-low-latency-vulnerabilities.54008/)|Visit link for details.|Nov 22, 2024|
  |[DSA-5812-2 postgresql-15 - regression update](https://www.linux.org/threads/dsa-5812-2-postgresql-15-regression-update.54007/)|Visit link for details.|Nov 22, 2024|
  |[USN-7118-1: ZBar vulnerabilities](https://www.linux.org/threads/usn-7118-1-zbar-vulnerabilities.54004/)|Visit link for details.|Nov 21, 2024|
@@ -43,13 +44,6 @@
  |[USN-7122-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7122-1-linux-kernel-vulnerability.53962/)|Visit link for details.|Nov 20, 2024|
  |[USN-7121-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7121-1-linux-kernel-vulnerabilities.53961/)|Visit link for details.|Nov 20, 2024|
  |[USN-7120-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7120-1-linux-kernel-vulnerabilities.53960/)|Visit link for details.|Nov 20, 2024|
- |[USN-7119-1: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-7119-1-linux-kernel-iot-vulnerabilities.53959/)|Visit link for details.|Nov 20, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -68,6 +62,12 @@
  |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in VMware products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. [Updated on 2024-11-19]Updated Description and Risk level changed to extremely high....| Release Date: 19 Sep 2024 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -82,9 +82,23 @@
  |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
+ |[7-Zip CopyCoder Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
  
 
 # EU-CERT
@@ -102,23 +116,6 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
- |[Oracle security advisory (AV24-671)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av24-671)|Visit link for details|2024-11-20|
- |[Palo Alto Networks security advisory (AV24-670)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-670)|Visit link for details|2024-11-20|
- |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
- |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
- |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
- |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
- |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
- |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
- |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
- |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
  
 
 # CERT-SANTE
@@ -155,18 +152,21 @@
  |[ 50952011/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de deux vulnérabilités affectant ses produits susmentionnés. Ces vulnérabilités sont susceptibles d’être activement exploitées et elles peuvent  permettre…| 20 novembre 2024|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
- |[7-Zip CopyCoder Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
+ |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
+ |[Oracle security advisory (AV24-671)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av24-671)|Visit link for details|2024-11-20|
+ |[Palo Alto Networks security advisory (AV24-670)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-670)|Visit link for details|2024-11-20|
+ |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
+ |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
+ |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
+ |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
+ |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
+ |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
+ |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
+ |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
  
 
 # US-CERT
