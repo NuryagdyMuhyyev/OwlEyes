@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/11/2024 13:28:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/11/2024 14:23:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,22 @@
  |---|---|---|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Drupal Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in Drupal Core. A remote attacker could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 22 Nov 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
+ |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 22 Nov 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]...| Release Date: 4 Nov 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20241120)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-44308 and CVE-2024-44309 are actively exploited...|Release Date: 20 Nov 2024 |
+ |[Google Chrome Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-denial-of-service-vulnerability_20241120)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 20 Nov 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
+ |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20241119)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and information disclosure on the targeted system.|Release Date: 19 Nov 2024 |
+ |[Palo Alto PAN-OS Multiple vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-multiple-vulnerabilities_20241119)|Multiple vulnerabilities were identified in Palo Alto PAN-OS. A remote user could exploit these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system. Note: CVE-2024-0012 and CVE-2024-9474 are actively exploited in...|Release Date: 19 Nov 2024 |
+ |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in VMware products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. [Updated on 2024-11-19]Updated Description and Risk level changed to extremely high....| Release Date: 19 Sep 2024 |
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,22 +68,6 @@
  |[USN-7120-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7120-1-linux-kernel-vulnerabilities.53960/)|Visit link for details.|Nov 20, 2024|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Drupal Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in Drupal Core. A remote attacker could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 22 Nov 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
- |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 22 Nov 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]...| Release Date: 4 Nov 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20241120)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-44308 and CVE-2024-44309 are actively exploited...|Release Date: 20 Nov 2024 |
- |[Google Chrome Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-denial-of-service-vulnerability_20241120)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 20 Nov 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
- |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20241119)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and information disclosure on the targeted system.|Release Date: 19 Nov 2024 |
- |[Palo Alto PAN-OS Multiple vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-multiple-vulnerabilities_20241119)|Multiple vulnerabilities were identified in Palo Alto PAN-OS. A remote user could exploit these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system. Note: CVE-2024-0012 and CVE-2024-9474 are actively exploited in...|Release Date: 19 Nov 2024 |
- |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in VMware products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. [Updated on 2024-11-19]Updated Description and Risk level changed to extremely high....| Release Date: 19 Sep 2024 |
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -79,12 +79,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -101,21 +95,10 @@
  |[7-Zip CopyCoder Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
  
 
-# EU-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[2024-117: Zero-Day Vulnerabilities in Palo Alto Networks PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-117/)|Palo Alto Networks released security updates for two actively exploited zero-day vulnerabilities in Palo Alto Networks PAN-OS. If exploited, these vulnerabilities could allow a remote unauthenticated attacker to gain administrator privileges, or a PAN-OS administrator to perform actions on the firewall with root privileges.|Tuesday, November 19, 2024 10:55:57 AM CET|
- |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
- |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
- |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
- |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
- |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
- |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
- |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
- |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
- |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
- |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  
 
 # CERT-SANTE
@@ -133,6 +116,23 @@
  |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|20/11/2024|
  |[Trend Micro - CVE-2024-51503](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-51503-2024-11-20)|Visit link for details.|20/11/2024|
  |[WordPress Essential Addons for Elementor - CVE-2024-8979](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-essential-addons-elementor-cve-2024-8979-2024-11-20)|Visit link for details.|20/11/2024|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-117: Zero-Day Vulnerabilities in Palo Alto Networks PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-117/)|Palo Alto Networks released security updates for two actively exploited zero-day vulnerabilities in Palo Alto Networks PAN-OS. If exploited, these vulnerabilities could allow a remote unauthenticated attacker to gain administrator privileges, or a PAN-OS administrator to perform actions on the firewall with root privileges.|Tuesday, November 19, 2024 10:55:57 AM CET|
+ |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
+ |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
+ |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
+ |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
+ |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
+ |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
+ |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
+ |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
+ |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
+ |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  
 
 # MA-CERT
