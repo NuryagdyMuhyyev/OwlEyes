@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/11/2024 09:26:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/11/2024 10:20:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,6 +68,12 @@
  |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in VMware products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. [Updated on 2024-11-19]Updated Description and Risk level changed to extremely high....| Release Date: 19 Sep 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -79,43 +85,6 @@
  |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
- |[7-Zip CopyCoder Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[7-Zip - CVE-2024-11477](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2024-11477-2024-11-21)|Visit link for details.|21/11/2024|
- |[Linux - CVE-2024-50290](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50290-2024-11-21)|Visit link for details.|21/11/2024|
- |[M-Files - CVE-2024-10127](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-10127-2024-11-21)|Visit link for details.|21/11/2024|
- |[TP-Link - CVE-2024-11237](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-11237-2024-11-21)|Visit link for details.|21/11/2024|
- |[Zyxel - CVE-2024-11494](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-11494-2024-11-21)|Visit link for details.|21/11/2024|
- |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|21/11/2024|
- |[PostgreSQL - CVE-2024-10979](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-10979-2024-11-18)|Visit link for details.|21/11/2024|
- |[Apple - CVE-2024-44309](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44309-2024-11-20)|Visit link for details.|20/11/2024|
- |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|20/11/2024|
- |[Trend Micro - CVE-2024-51503](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-51503-2024-11-20)|Visit link for details.|20/11/2024|
- |[WordPress Essential Addons for Elementor - CVE-2024-8979](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-essential-addons-elementor-cve-2024-8979-2024-11-20)|Visit link for details.|20/11/2024|
  
 
 # EU-CERT
@@ -152,6 +121,23 @@
  |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[7-Zip - CVE-2024-11477](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2024-11477-2024-11-21)|Visit link for details.|21/11/2024|
+ |[Linux - CVE-2024-50290](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50290-2024-11-21)|Visit link for details.|21/11/2024|
+ |[M-Files - CVE-2024-10127](https://www.cyberveille-sante.gouv.fr/alertes/m-files-cve-2024-10127-2024-11-21)|Visit link for details.|21/11/2024|
+ |[TP-Link - CVE-2024-11237](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-11237-2024-11-21)|Visit link for details.|21/11/2024|
+ |[Zyxel - CVE-2024-11494](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-11494-2024-11-21)|Visit link for details.|21/11/2024|
+ |[SAP - CVE-2024-41730](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-41730-2024-08-13)|Visit link for details.|21/11/2024|
+ |[PostgreSQL - CVE-2024-10979](https://www.cyberveille-sante.gouv.fr/alertes/postgresql-cve-2024-10979-2024-11-18)|Visit link for details.|21/11/2024|
+ |[Apple - CVE-2024-44309](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44309-2024-11-20)|Visit link for details.|20/11/2024|
+ |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|20/11/2024|
+ |[Trend Micro - CVE-2024-51503](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-51503-2024-11-20)|Visit link for details.|20/11/2024|
+ |[WordPress Essential Addons for Elementor - CVE-2024-8979](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-essential-addons-elementor-cve-2024-8979-2024-11-20)|Visit link for details.|20/11/2024|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -167,6 +153,20 @@
  |[ 50972011/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia-0)| Deux vulnérabilités critiques ont été corrigées dans le composant CMDaemon de NVIDIA Base Command Manager. L’exploitation de ces failles pourrait potentiellement permettre à un attaquant d'exécuter du…| 20 novembre 2024|
  |[ 50962011/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-30)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités…| 20 novembre 2024|
  |[ 50952011/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de deux vulnérabilités affectant ses produits susmentionnés. Ces vulnérabilités sont susceptibles d’être activement exploitées et elles peuvent  permettre…| 20 novembre 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
+ |[7-Zip CopyCoder Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
  
 
 # US-CERT
