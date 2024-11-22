@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 22/11/2024 12:20:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 22/11/2024 13:28:23 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,18 +50,6 @@
  |[USN-7122-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7122-1-linux-kernel-vulnerability.53962/)|Visit link for details.|Nov 20, 2024|
  |[USN-7121-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7121-1-linux-kernel-vulnerabilities.53961/)|Visit link for details.|Nov 20, 2024|
  |[USN-7120-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7120-1-linux-kernel-vulnerabilities.53960/)|Visit link for details.|Nov 20, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -85,6 +79,12 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -118,23 +118,6 @@
  |[2024-107: Critical Vulnerability in Firefox](https://cert.europa.eu/publications/security-advisories/2024-107/)|On October 9th, 2024, the Mozilla Foundation issued a security advisory regarding a critical use-after-free vulnerability (CVE-2024-9680) in Firefox. |Friday, October 11, 2024 10:08:06 AM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
- |[Oracle security advisory (AV24-671)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av24-671)|Visit link for details|2024-11-20|
- |[Palo Alto Networks security advisory (AV24-670)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-670)|Visit link for details|2024-11-20|
- |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
- |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
- |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
- |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
- |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
- |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
- |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
- |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -156,6 +139,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 51052211/24 - Vulnérabilités dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-php-3)| PHP a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant les versions susmentionnées de PHP. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 22 novembre 2024|
  |[ 51042011/24 - Vulnérabilité critique dans Kubernetes ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-kubernetes)| Kubernetes annonce la correction d’une vulnérabilité critique affectant Kubernetes. L’exploitation de cette faille peut  permettre  à un attaquant d’exécuter des commandes arbitraires à…| 21 novembre 2024|
  |[ 51032011/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-4)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 21 novembre 2024|
  |[ 51032111/24 - Vulnérabilité affectant Trend Micro Deep Security Agent ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-trend-micro-deep-security-agent)| Trend Micro annonce la correction d’une vulnérabilité  affectant les versions susmentionnées de ses produits Deep Security Agent et Deep Security Notifier.  L'exploitation de cette…| 21 novembre 2024|
@@ -166,7 +150,23 @@
  |[ 50982011/24 - Vulnérabilité critique dans Oracle Agile Product Lifecycle Management ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-oracle-agile-product-lifecycle-management)| Oracle a publié une mise à jour de sécurité pour une vulnérabilité critique dans Oracle Agile Product Lifecycle Management (PLM). Cette faille pourrait permettre une exploitation à distance sans…| 20 novembre 2024|
  |[ 50972011/24 - Vulnérabilités dans les produits NVIDIA ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-nvidia-0)| Deux vulnérabilités critiques ont été corrigées dans le composant CMDaemon de NVIDIA Base Command Manager. L’exploitation de ces failles pourrait potentiellement permettre à un attaquant d'exécuter du…| 20 novembre 2024|
  |[ 50962011/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-30)| Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités…| 20 novembre 2024|
- |[ 50952011/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-3)| Apple annonce la  correction  de deux vulnérabilités affectant ses produits susmentionnés. Ces vulnérabilités sont susceptibles d’être activement exploitées et elles peuvent  permettre…| 20 novembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
+ |[Oracle security advisory (AV24-671)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av24-671)|Visit link for details|2024-11-20|
+ |[Palo Alto Networks security advisory (AV24-670)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-670)|Visit link for details|2024-11-20|
+ |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
+ |[Atlassian security advisory (AV24-669)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-669)|Visit link for details|2024-11-19|
+ |[Apple security advisory (AV24-668)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-668)|Visit link for details|2024-11-19|
+ |[Google Chrome security advisory (AV24-667)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-667)|Visit link for details|2024-11-19|
+ |[[Control systems] Siemens security advisory (AV24-666)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-666)|Visit link for details|2024-11-19|
+ |[[Control systems] CISA ICS security advisories (AV24–665)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-665)|Visit link for details|2024-11-18|
+ |[Red Hat security advisory (AV24-664)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-664)|Visit link for details|2024-11-18|
+ |[Ubuntu security advisory (AV24-663)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-663)|Visit link for details|2024-11-18|
  
 
 # US-CERT
