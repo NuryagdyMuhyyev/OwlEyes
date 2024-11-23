@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/11/2024 17:40:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/11/2024 18:25:38 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,6 +44,25 @@
  |[USN-7122-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7122-1-linux-kernel-vulnerability.53962/)|Visit link for details.|Nov 20, 2024|
  |[USN-7121-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7121-1-linux-kernel-vulnerabilities.53961/)|Visit link for details.|Nov 20, 2024|
  |[USN-7120-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7120-1-linux-kernel-vulnerabilities.53960/)|Visit link for details.|Nov 20, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
@@ -72,19 +85,6 @@
  |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20241119)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and information disclosure on the targeted system.|Release Date: 19 Nov 2024 |
  |[Palo Alto PAN-OS Multiple vulnerabilities](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-multiple-vulnerabilities_20241119)|Multiple vulnerabilities were identified in Palo Alto PAN-OS. A remote user could exploit these vulnerabilities to trigger elevation of privilege and security restriction bypass on the targeted system. Note: CVE-2024-0012 and CVE-2024-9474 are actively exploited in...|Release Date: 19 Nov 2024 |
  |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20240919)|Multiple vulnerabilities were identified in VMware products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system. [Updated on 2024-11-19]Updated Description and Risk level changed to extremely high....| Release Date: 19 Sep 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -121,6 +121,23 @@
  |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|20/11/2024|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51072211/24 - Vulnérabilité critique affectant les routeurs D-link ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-routeurs-d-link)| D-Link annonce la découverte d’une vulnérabilité critique affectant ses routeurs susmentionnés. L'exploitation de cette vulnérabilité peut  permettre à un attaquant distant non authentifié…| 22 novembre 2024|
+ |[ 51062211/24 - Vulnérabilité critique dans AnyDesk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-anydesk)| Une vulnérabilité de type "zero-day" a été détectée dans les versions susmentionnées d’AnyDesk. Cette faille dans la fonction "Autoriser les connexions directes" peut exposer les adresses IP publiques…| 22 novembre 2024|
+ |[ 51052211/24 - Vulnérabilités dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-php-3)| PHP a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant les versions susmentionnées de PHP. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 22 novembre 2024|
+ |[ 51042011/24 - Vulnérabilité critique dans Kubernetes ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-kubernetes)| Kubernetes annonce la correction d’une vulnérabilité critique affectant Kubernetes. L’exploitation de cette faille peut  permettre  à un attaquant d’exécuter des commandes arbitraires à…| 21 novembre 2024|
+ |[ 51032011/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-4)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 21 novembre 2024|
+ |[ 51032111/24 - Vulnérabilité affectant Trend Micro Deep Security Agent ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-trend-micro-deep-security-agent)| Trend Micro annonce la correction d’une vulnérabilité  affectant les versions susmentionnées de ses produits Deep Security Agent et Deep Security Notifier.  L'exploitation de cette…| 21 novembre 2024|
+ |[ 51022111/24 - Vulnérabilité critique affectant Laravel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-laravel)| Une vulnérabilité critique affectant le Framewrok Laravel a été corrigée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant le contournement de mesures de sécurité.| 21 novembre 2024|
+ |[ 51012011/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal-0)| Une vulnérabilité critique de type cross-site scripting (XSS) existe dans le module Overlay de Drupal 7 core. Cette vulnérabilité permet aux attaquants d'exécuter des scripts malveillants dans les…| 21 novembre 2024|
+ |[ 51002011/24 - Vulnérabilités critiques dans Apache Traffic Server (ATS) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-apache-traffic-server-ats)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour Apache Traffic Server (ATS), qui corrige plusieurs vulnérabilités, dont une critique ayant de graves conséquences pour…| 20 novembre 2024|
+ |[ 50992011/24 - Vulnérabilités d'exécution de code à distance via l'interface de… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dexecution-de-code-distance-linterface-de-gestion-de-pan-ossuite)| Palo Alto Networks a publié un bulletin de sécurité critique concernant deux vulnérabilités liées à l'interface de gestion des appareils PAN-OS. Un attaquant non authentifié peut exploiter ces failles…| 20 novembre 2024|
+ |[ 50982011/24 - Vulnérabilité critique dans Oracle Agile Product Lifecycle Management ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-oracle-agile-product-lifecycle-management)| Oracle a publié une mise à jour de sécurité pour une vulnérabilité critique dans Oracle Agile Product Lifecycle Management (PLM). Cette faille pourrait permettre une exploitation à distance sans…| 20 novembre 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -150,23 +167,6 @@
  |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
  |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
  |[7-Zip CopyCoder Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51072211/24 - Vulnérabilité critique affectant les routeurs D-link ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-routeurs-d-link)| D-Link annonce la découverte d’une vulnérabilité critique affectant ses routeurs susmentionnés. L'exploitation de cette vulnérabilité peut  permettre à un attaquant distant non authentifié…| 22 novembre 2024|
- |[ 51062211/24 - Vulnérabilité critique dans AnyDesk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-anydesk)| Une vulnérabilité de type "zero-day" a été détectée dans les versions susmentionnées d’AnyDesk. Cette faille dans la fonction "Autoriser les connexions directes" peut exposer les adresses IP publiques…| 22 novembre 2024|
- |[ 51052211/24 - Vulnérabilités dans PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-php-3)| PHP a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant les versions susmentionnées de PHP. L'exploitation réussie de ces vulnérabilités pourrait permettre à un…| 22 novembre 2024|
- |[ 51042011/24 - Vulnérabilité critique dans Kubernetes ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-kubernetes)| Kubernetes annonce la correction d’une vulnérabilité critique affectant Kubernetes. L’exploitation de cette faille peut  permettre  à un attaquant d’exécuter des commandes arbitraires à…| 21 novembre 2024|
- |[ 51032011/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-4)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 21 novembre 2024|
- |[ 51032111/24 - Vulnérabilité affectant Trend Micro Deep Security Agent ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-trend-micro-deep-security-agent)| Trend Micro annonce la correction d’une vulnérabilité  affectant les versions susmentionnées de ses produits Deep Security Agent et Deep Security Notifier.  L'exploitation de cette…| 21 novembre 2024|
- |[ 51022111/24 - Vulnérabilité critique affectant Laravel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-laravel)| Une vulnérabilité critique affectant le Framewrok Laravel a été corrigée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant le contournement de mesures de sécurité.| 21 novembre 2024|
- |[ 51012011/24 - Vulnérabilité critique dans le CMS Drupal ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-cms-drupal-0)| Une vulnérabilité critique de type cross-site scripting (XSS) existe dans le module Overlay de Drupal 7 core. Cette vulnérabilité permet aux attaquants d'exécuter des scripts malveillants dans les…| 21 novembre 2024|
- |[ 51002011/24 - Vulnérabilités critiques dans Apache Traffic Server (ATS) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-apache-traffic-server-ats)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour Apache Traffic Server (ATS), qui corrige plusieurs vulnérabilités, dont une critique ayant de graves conséquences pour…| 20 novembre 2024|
- |[ 50992011/24 - Vulnérabilités d'exécution de code à distance via l'interface de… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dexecution-de-code-distance-linterface-de-gestion-de-pan-ossuite)| Palo Alto Networks a publié un bulletin de sécurité critique concernant deux vulnérabilités liées à l'interface de gestion des appareils PAN-OS. Un attaquant non authentifié peut exploiter ces failles…| 20 novembre 2024|
- |[ 50982011/24 - Vulnérabilité critique dans Oracle Agile Product Lifecycle Management ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-oracle-agile-product-lifecycle-management)| Oracle a publié une mise à jour de sécurité pour une vulnérabilité critique dans Oracle Agile Product Lifecycle Management (PLM). Cette faille pourrait permettre une exploitation à distance sans…| 20 novembre 2024|
  
 
 # US-CERT
