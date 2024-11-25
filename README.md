@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 25/11/2024 19:21:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 25/11/2024 20:24:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,12 +50,6 @@
  |[USN-7120-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7120-2-linux-kernel-vulnerabilities.53986/)|Visit link for details.|Nov 20, 2024|
  |[USN-7121-2: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7121-2-linux-kernel-azure-vulnerabilities.53985/)|Visit link for details.|Nov 20, 2024|
  |[USN-7123-1: Linux kernel (Azure) vulnerabilities](https://www.linux.org/threads/usn-7123-1-linux-kernel-azure-vulnerabilities.53984/)|Visit link for details.|Nov 20, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
@@ -82,23 +82,9 @@
  |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
- |[7-Zip CopyCoder Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -167,6 +153,20 @@
  |[ 51032011/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-4)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 21 novembre 2024|
  |[ 51032111/24 - Vulnérabilité affectant Trend Micro Deep Security Agent ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-trend-micro-deep-security-agent)| Trend Micro annonce la correction d’une vulnérabilité  affectant les versions susmentionnées de ses produits Deep Security Agent et Deep Security Notifier.  L'exploitation de cette…| 21 novembre 2024|
  |[ 51022111/24 - Vulnérabilité critique affectant Laravel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-laravel)| Une vulnérabilité critique affectant le Framewrok Laravel a été corrigée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant le contournement de mesures de sécurité.| 21 novembre 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
+ |[7-Zip CopyCoder Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
  
 
 # US-CERT
