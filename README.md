@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/11/2024 04:21:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/11/2024 06:46:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,6 +28,12 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
 
 # LINUX-SEC
 
@@ -68,6 +74,12 @@
  |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20241119)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and information disclosure on the targeted system.|Release Date: 19 Nov 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -76,15 +88,9 @@
  |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -167,10 +173,4 @@
  |[ 51032011/24 - Vulnérabilités dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-atlassian-4)| Plusieurs vulnérabilités ont été corrigées dans les produits Atlassian susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de contourner la…| 21 novembre 2024|
  |[ 51032111/24 - Vulnérabilité affectant Trend Micro Deep Security Agent ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-trend-micro-deep-security-agent)| Trend Micro annonce la correction d’une vulnérabilité  affectant les versions susmentionnées de ses produits Deep Security Agent et Deep Security Notifier.  L'exploitation de cette…| 21 novembre 2024|
  |[ 51022111/24 - Vulnérabilité critique affectant Laravel ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-laravel)| Une vulnérabilité critique affectant le Framewrok Laravel a été corrigée.  L'exploitation de cette vulnérabilité peut permettre à un attaquant le contournement de mesures de sécurité.| 21 novembre 2024|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
