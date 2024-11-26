@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/11/2024 20:24:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/11/2024 21:29:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,18 +52,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -78,6 +66,18 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20241120)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-44308 and CVE-2024-44309 are actively exploited...|Release Date: 20 Nov 2024 |
  |[Google Chrome Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-denial-of-service-vulnerability_20241120)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 20 Nov 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -162,15 +162,15 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Snappy-java - CVE-2023-34455](https://www.cyberveille-sante.gouv.fr/alertes/snappy-java-cve-2023-34455-2024-11-26)|Visit link for details.|26/11/2024|
+ |[QNAP - CVE-2024-50396](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50396-2024-11-26)|Visit link for details.|26/11/2024|
+ |[CodeAstro Hospital Management System - CVE-2024-11674](https://www.cyberveille-sante.gouv.fr/alertes/codeastro-hospital-management-system-cve-2024-11674-2024-11-26)|Visit link for details.|26/11/2024|
+ |[Centreon - CVE-2024-45755](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45755-2024-11-26)|Visit link for details.|26/11/2024|
+ |[Apple - CVE-2024-44206](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44206-2024-11-26)|Visit link for details.|26/11/2024|
  |[Plugin WordPress FluentSMTP - CVE-2024-9511](https://www.cyberveille-sante.gouv.fr/alertes/plugin-wordpress-fluentsmtp-cve-2024-9511-2024-11-25)|Visit link for details.|25/11/2024|
  |[Kubernetes - CVE-2024-10220](https://www.cyberveille-sante.gouv.fr/alertes/kubernetes-cve-2024-10220-2024-11-25)|Visit link for details.|25/11/2024|
  |[QNAP - CVE-2024-38645](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-38645-2024-11-25)|Visit link for details.|25/11/2024|
  |[OpenText - CVE-2023-24467](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2023-24467-2024-11-25)|Visit link for details.|25/11/2024|
  |[QNAP - CVE-2024-48860](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48860-2024-11-25)|Visit link for details.|25/11/2024|
  |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|25/11/2024|
- |[Wireshark - CVE-2024-11596](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2024-11596-2024-11-22)|Visit link for details.|22/11/2024|
- |[Wireshark - CVE-2024-11595](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2024-11595-2024-11-22)|Visit link for details.|22/11/2024|
- |[Linux - CVE-2024-50288](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50288-2024-11-22)|Visit link for details.|22/11/2024|
- |[PHP - CVE-2024-8932](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-8932-2024-11-22)|Visit link for details.|22/11/2024|
- |[Apple - CVE-2024-44307](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44307-2024-11-22)|Visit link for details.|22/11/2024|
  
