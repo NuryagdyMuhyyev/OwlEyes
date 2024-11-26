@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/11/2024 09:26:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/11/2024 10:21:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,12 +58,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -80,6 +74,12 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -91,20 +91,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
- |[7-Zip CopyCoder Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
  
 
 # EU-CERT
@@ -122,6 +108,23 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Plugin WordPress FluentSMTP - CVE-2024-9511](https://www.cyberveille-sante.gouv.fr/alertes/plugin-wordpress-fluentsmtp-cve-2024-9511-2024-11-25)|Visit link for details.|25/11/2024|
+ |[Kubernetes - CVE-2024-10220](https://www.cyberveille-sante.gouv.fr/alertes/kubernetes-cve-2024-10220-2024-11-25)|Visit link for details.|25/11/2024|
+ |[QNAP - CVE-2024-38645](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-38645-2024-11-25)|Visit link for details.|25/11/2024|
+ |[OpenText - CVE-2023-24467](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2023-24467-2024-11-25)|Visit link for details.|25/11/2024|
+ |[QNAP - CVE-2024-48860](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48860-2024-11-25)|Visit link for details.|25/11/2024|
+ |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|25/11/2024|
+ |[Wireshark - CVE-2024-11596](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2024-11596-2024-11-22)|Visit link for details.|22/11/2024|
+ |[Wireshark - CVE-2024-11595](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2024-11595-2024-11-22)|Visit link for details.|22/11/2024|
+ |[Linux - CVE-2024-50288](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50288-2024-11-22)|Visit link for details.|22/11/2024|
+ |[PHP - CVE-2024-8932](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-8932-2024-11-22)|Visit link for details.|22/11/2024|
+ |[Apple - CVE-2024-44307](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44307-2024-11-22)|Visit link for details.|22/11/2024|
  
 
 # MA-CERT
@@ -158,19 +161,16 @@
  |[Securing Palo Alto management interfaces from exploitation - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/securing-palo-alto-management-interfaces-exploitation)|Visit link for details|2024-11-19|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Plugin WordPress FluentSMTP - CVE-2024-9511](https://www.cyberveille-sante.gouv.fr/alertes/plugin-wordpress-fluentsmtp-cve-2024-9511-2024-11-25)|Visit link for details.|25/11/2024|
- |[Kubernetes - CVE-2024-10220](https://www.cyberveille-sante.gouv.fr/alertes/kubernetes-cve-2024-10220-2024-11-25)|Visit link for details.|25/11/2024|
- |[QNAP - CVE-2024-38645](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-38645-2024-11-25)|Visit link for details.|25/11/2024|
- |[OpenText - CVE-2023-24467](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2023-24467-2024-11-25)|Visit link for details.|25/11/2024|
- |[QNAP - CVE-2024-48860](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48860-2024-11-25)|Visit link for details.|25/11/2024|
- |[Google Chrome - CVE-2024-11395](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-11395-2024-11-20)|Visit link for details.|25/11/2024|
- |[Wireshark - CVE-2024-11596](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2024-11596-2024-11-22)|Visit link for details.|22/11/2024|
- |[Wireshark - CVE-2024-11595](https://www.cyberveille-sante.gouv.fr/alertes/wireshark-cve-2024-11595-2024-11-22)|Visit link for details.|22/11/2024|
- |[Linux - CVE-2024-50288](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-50288-2024-11-22)|Visit link for details.|22/11/2024|
- |[PHP - CVE-2024-8932](https://www.cyberveille-sante.gouv.fr/alertes/php-cve-2024-8932-2024-11-22)|Visit link for details.|22/11/2024|
- |[Apple - CVE-2024-44307](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44307-2024-11-22)|Visit link for details.|22/11/2024|
+ |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
+ |[7-Zip CopyCoder Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
  
