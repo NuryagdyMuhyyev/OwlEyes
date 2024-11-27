@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/11/2024 16:18:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/11/2024 17:45:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -72,12 +78,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]...| Release Date: 4 Nov 2024 |
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20241120)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-44308 and CVE-2024-44309 are actively exploited...|Release Date: 20 Nov 2024 |
  |[Google Chrome Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-denial-of-service-vulnerability_20241120)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 20 Nov 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -141,23 +141,6 @@
  |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
- |[Snappy-java - CVE-2023-34455](https://www.cyberveille-sante.gouv.fr/alertes/snappy-java-cve-2023-34455-2024-11-26)|Visit link for details.|26/11/2024|
- |[QNAP - CVE-2024-50396](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50396-2024-11-26)|Visit link for details.|26/11/2024|
- |[CodeAstro Hospital Management System - CVE-2024-11674](https://www.cyberveille-sante.gouv.fr/alertes/codeastro-hospital-management-system-cve-2024-11674-2024-11-26)|Visit link for details.|26/11/2024|
- |[Centreon - CVE-2024-45755](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45755-2024-11-26)|Visit link for details.|26/11/2024|
- |[Apple - CVE-2024-44206](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44206-2024-11-26)|Visit link for details.|26/11/2024|
- |[Plugin WordPress FluentSMTP - CVE-2024-9511](https://www.cyberveille-sante.gouv.fr/alertes/plugin-wordpress-fluentsmtp-cve-2024-9511-2024-11-25)|Visit link for details.|25/11/2024|
- |[Kubernetes - CVE-2024-10220](https://www.cyberveille-sante.gouv.fr/alertes/kubernetes-cve-2024-10220-2024-11-25)|Visit link for details.|25/11/2024|
- |[QNAP - CVE-2024-38645](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-38645-2024-11-25)|Visit link for details.|25/11/2024|
- |[OpenText - CVE-2023-24467](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2023-24467-2024-11-25)|Visit link for details.|25/11/2024|
- |[QNAP - CVE-2024-48860](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48860-2024-11-25)|Visit link for details.|25/11/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -173,4 +156,21 @@
  |[ 51082511/24 - Vulnérabilité dans WinZip ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-winzip)| Une vulnérabilité a été corrigée dans les versions susmentionnées du logiciel populaire de compression et d'archivage de fichiers WinZip. Cette vulnérabilité pourrait permettre à des attaquants de…| 25 novembre 2024|
  |[ 51072211/24 - Vulnérabilité critique affectant les routeurs D-link ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-routeurs-d-link)| D-Link annonce la découverte d’une vulnérabilité critique affectant ses routeurs susmentionnés. L'exploitation de cette vulnérabilité peut  permettre à un attaquant distant non authentifié…| 22 novembre 2024|
  |[ 51062211/24 - Vulnérabilité critique dans AnyDesk ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-anydesk)| Une vulnérabilité de type "zero-day" a été détectée dans les versions susmentionnées d’AnyDesk. Cette faille dans la fonction "Autoriser les connexions directes" peut exposer les adresses IP publiques…| 22 novembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
+ |[Snappy-java - CVE-2023-34455](https://www.cyberveille-sante.gouv.fr/alertes/snappy-java-cve-2023-34455-2024-11-26)|Visit link for details.|26/11/2024|
+ |[QNAP - CVE-2024-50396](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50396-2024-11-26)|Visit link for details.|26/11/2024|
+ |[CodeAstro Hospital Management System - CVE-2024-11674](https://www.cyberveille-sante.gouv.fr/alertes/codeastro-hospital-management-system-cve-2024-11674-2024-11-26)|Visit link for details.|26/11/2024|
+ |[Centreon - CVE-2024-45755](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45755-2024-11-26)|Visit link for details.|26/11/2024|
+ |[Apple - CVE-2024-44206](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44206-2024-11-26)|Visit link for details.|26/11/2024|
+ |[Plugin WordPress FluentSMTP - CVE-2024-9511](https://www.cyberveille-sante.gouv.fr/alertes/plugin-wordpress-fluentsmtp-cve-2024-9511-2024-11-25)|Visit link for details.|25/11/2024|
+ |[Kubernetes - CVE-2024-10220](https://www.cyberveille-sante.gouv.fr/alertes/kubernetes-cve-2024-10220-2024-11-25)|Visit link for details.|25/11/2024|
+ |[QNAP - CVE-2024-38645](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-38645-2024-11-25)|Visit link for details.|25/11/2024|
+ |[OpenText - CVE-2023-24467](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2023-24467-2024-11-25)|Visit link for details.|25/11/2024|
+ |[QNAP - CVE-2024-48860](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48860-2024-11-25)|Visit link for details.|25/11/2024|
  
