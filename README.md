@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/11/2024 20:23:32 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/11/2024 21:28:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,22 @@
  |---|---|---|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass, data manipulation and spoofing on the targeted system.|Release Date: 27 Nov 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20241126)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 26 Nov 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241125)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and spoofing on the targeted system.|Release Date: 25 Nov 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20241125)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 25 Nov 2024 |
+ |[Drupal Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in Drupal Core. A remote attacker could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 22 Nov 2024 |
+ |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 22 Nov 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]...| Release Date: 4 Nov 2024 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20241120)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-44308 and CVE-2024-44309 are actively exploited...|Release Date: 20 Nov 2024 |
+ |[Google Chrome Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-denial-of-service-vulnerability_20241120)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 20 Nov 2024 |
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,32 +68,16 @@
  |[USN-7124-1: OpenJDK 23 vulnerabilities](https://www.linux.org/threads/usn-7124-1-openjdk-23-vulnerabilities.54046/)|Visit link for details.|Nov 25, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# HK-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass, data manipulation and spoofing on the targeted system.|Release Date: 27 Nov 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20241126)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 26 Nov 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241125)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and spoofing on the targeted system.|Release Date: 25 Nov 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20241125)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 25 Nov 2024 |
- |[Drupal Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in Drupal Core. A remote attacker could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 22 Nov 2024 |
- |[PHP Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in PHP. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 22 Nov 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241104)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-11-05]...| Release Date: 4 Nov 2024 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20241120)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system. Note:CVE-2024-44308 and CVE-2024-44309 are actively exploited...|Release Date: 20 Nov 2024 |
- |[Google Chrome Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-denial-of-service-vulnerability_20241120)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 20 Nov 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -91,6 +91,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
+ |[7-Zip Qcow Handler Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
  
 
 # EU-CERT
@@ -110,52 +124,21 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
- |[7-Zip Qcow Handler Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
- |[VMware security advisory (AV24-681)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-681)|Visit link for details|2024-11-26|
- |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
- |[HPE security advisory (AV24-679)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-679)|Visit link for details|2024-11-25|
- |[[Control systems] CISA ICS security advisories (AV24–678)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-678)|Visit link for details|2024-11-25|
- |[Red Hat security advisory (AV24-677)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-677)|Visit link for details|2024-11-25|
- |[Ubuntu security advisory (AV24-676)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-676)|Visit link for details|2024-11-25|
- |[IBM security advisory (AV24-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-675)|Visit link for details|2024-11-25|
- |[[Control systems] Siemens security advisory (AV24-674)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-674)|Visit link for details|2024-11-22|
- |[Microsoft Edge security advisory (AV24-673)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-673)|Visit link for details|2024-11-22|
- |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
+ |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
+ |[Palo Alto Networks - CVE-2024-5921](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-5921-2024-11-27)|Visit link for details.|27/11/2024|
+ |[needrestart - CVE-2024-48990](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-cve-2024-48990-2024-11-27)|Visit link for details.|27/11/2024|
+ |[Mozilla - CVE-2024-11691](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-11691-2024-11-27)|Visit link for details.|27/11/2024|
+ |[GitLab - CVE-2024-8114](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8114-2024-11-27)|Visit link for details.|27/11/2024|
  |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
  |[Snappy-java - CVE-2023-34455](https://www.cyberveille-sante.gouv.fr/alertes/snappy-java-cve-2023-34455-2024-11-26)|Visit link for details.|26/11/2024|
  |[QNAP - CVE-2024-50396](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50396-2024-11-26)|Visit link for details.|26/11/2024|
  |[CodeAstro Hospital Management System - CVE-2024-11674](https://www.cyberveille-sante.gouv.fr/alertes/codeastro-hospital-management-system-cve-2024-11674-2024-11-26)|Visit link for details.|26/11/2024|
  |[Centreon - CVE-2024-45755](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45755-2024-11-26)|Visit link for details.|26/11/2024|
  |[Apple - CVE-2024-44206](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44206-2024-11-26)|Visit link for details.|26/11/2024|
- |[Plugin WordPress FluentSMTP - CVE-2024-9511](https://www.cyberveille-sante.gouv.fr/alertes/plugin-wordpress-fluentsmtp-cve-2024-9511-2024-11-25)|Visit link for details.|25/11/2024|
- |[Kubernetes - CVE-2024-10220](https://www.cyberveille-sante.gouv.fr/alertes/kubernetes-cve-2024-10220-2024-11-25)|Visit link for details.|25/11/2024|
- |[QNAP - CVE-2024-38645](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-38645-2024-11-25)|Visit link for details.|25/11/2024|
- |[OpenText - CVE-2023-24467](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2023-24467-2024-11-25)|Visit link for details.|25/11/2024|
- |[QNAP - CVE-2024-48860](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48860-2024-11-25)|Visit link for details.|25/11/2024|
  
 
 # MA-CERT
@@ -173,4 +156,21 @@
  |[ 51092511/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-16)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la politique de…| 25 novembre 2024|
  |[ 51102511/24 - Vulnérabilité critique affectant le plugin «FluentSMTP» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-fluentsmtp-pour-wordpress)| Une vulnérabilité critique affectant le plugin « FluentSMTP»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié…| 25 novembre 2024|
  |[ 51082511/24 - Vulnérabilité dans WinZip ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-winzip)| Une vulnérabilité a été corrigée dans les versions susmentionnées du logiciel populaire de compression et d'archivage de fichiers WinZip. Cette vulnérabilité pourrait permettre à des attaquants de…| 25 novembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
+ |[VMware security advisory (AV24-681)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-681)|Visit link for details|2024-11-26|
+ |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
+ |[HPE security advisory (AV24-679)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-679)|Visit link for details|2024-11-25|
+ |[[Control systems] CISA ICS security advisories (AV24–678)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-678)|Visit link for details|2024-11-25|
+ |[Red Hat security advisory (AV24-677)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-677)|Visit link for details|2024-11-25|
+ |[Ubuntu security advisory (AV24-676)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-676)|Visit link for details|2024-11-25|
+ |[IBM security advisory (AV24-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-675)|Visit link for details|2024-11-25|
+ |[[Control systems] Siemens security advisory (AV24-674)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-674)|Visit link for details|2024-11-22|
+ |[Microsoft Edge security advisory (AV24-673)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-673)|Visit link for details|2024-11-22|
+ |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
  
