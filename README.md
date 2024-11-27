@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/11/2024 21:28:36 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/11/2024 22:19:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,7 +29,7 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -55,6 +55,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7092-2: mpg123 vulnerability](https://www.linux.org/threads/usn-7092-2-mpg123-vulnerability.54085/)|Visit link for details.|Nov 27, 2024|
  |[USN-7126-1: libsoup vulnerabilities](https://www.linux.org/threads/usn-7126-1-libsoup-vulnerabilities.54079/)|Visit link for details.|Nov 27, 2024|
  |[USN-7127-1: libsoup3 vulnerabilities](https://www.linux.org/threads/usn-7127-1-libsoup3-vulnerabilities.54078/)|Visit link for details.|Nov 27, 2024|
  |[DSA-5819-1 php8.2 - security update](https://www.linux.org/threads/dsa-5819-1-php8-2-security-update.54077/)|Visit link for details.|Nov 27, 2024|
@@ -65,16 +66,9 @@
  |[USN-7117-2: needrestart regression](https://www.linux.org/threads/usn-7117-2-needrestart-regression.54068/)|Visit link for details.|Nov 26, 2024|
  |[USN-7125-1: RapidJSON vulnerability](https://www.linux.org/threads/usn-7125-1-rapidjson-vulnerability.54060/)|Visit link for details.|Nov 25, 2024|
  |[USN-7121-3: Linux kernel (Oracle) vulnerabilities](https://www.linux.org/threads/usn-7121-3-linux-kernel-oracle-vulnerabilities.54051/)|Visit link for details.|Nov 25, 2024|
- |[USN-7124-1: OpenJDK 23 vulnerabilities](https://www.linux.org/threads/usn-7124-1-openjdk-23-vulnerabilities.54046/)|Visit link for details.|Nov 25, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
@@ -88,9 +82,15 @@
  |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
