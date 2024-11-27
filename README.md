@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/11/2024 02:20:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/11/2024 03:21:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -80,17 +80,21 @@
  |[Google Chrome Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-denial-of-service-vulnerability_20241120)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 20 Nov 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
+ |[Palo Alto Networks - CVE-2024-5921](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-5921-2024-11-27)|Visit link for details.|27/11/2024|
+ |[needrestart - CVE-2024-48990](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-cve-2024-48990-2024-11-27)|Visit link for details.|27/11/2024|
+ |[Mozilla - CVE-2024-11691](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-11691-2024-11-27)|Visit link for details.|27/11/2024|
+ |[GitLab - CVE-2024-8114](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8114-2024-11-27)|Visit link for details.|27/11/2024|
+ |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
+ |[Snappy-java - CVE-2023-34455](https://www.cyberveille-sante.gouv.fr/alertes/snappy-java-cve-2023-34455-2024-11-26)|Visit link for details.|26/11/2024|
+ |[QNAP - CVE-2024-50396](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50396-2024-11-26)|Visit link for details.|26/11/2024|
+ |[CodeAstro Hospital Management System - CVE-2024-11674](https://www.cyberveille-sante.gouv.fr/alertes/codeastro-hospital-management-system-cve-2024-11674-2024-11-26)|Visit link for details.|26/11/2024|
+ |[Centreon - CVE-2024-45755](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45755-2024-11-26)|Visit link for details.|26/11/2024|
+ |[Apple - CVE-2024-44206](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44206-2024-11-26)|Visit link for details.|26/11/2024|
  
 
 # EU-CERT
@@ -110,21 +114,31 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
- |[Palo Alto Networks - CVE-2024-5921](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-5921-2024-11-27)|Visit link for details.|27/11/2024|
- |[needrestart - CVE-2024-48990](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-cve-2024-48990-2024-11-27)|Visit link for details.|27/11/2024|
- |[Mozilla - CVE-2024-11691](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-11691-2024-11-27)|Visit link for details.|27/11/2024|
- |[GitLab - CVE-2024-8114](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8114-2024-11-27)|Visit link for details.|27/11/2024|
- |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
- |[Snappy-java - CVE-2023-34455](https://www.cyberveille-sante.gouv.fr/alertes/snappy-java-cve-2023-34455-2024-11-26)|Visit link for details.|26/11/2024|
- |[QNAP - CVE-2024-50396](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50396-2024-11-26)|Visit link for details.|26/11/2024|
- |[CodeAstro Hospital Management System - CVE-2024-11674](https://www.cyberveille-sante.gouv.fr/alertes/codeastro-hospital-management-system-cve-2024-11674-2024-11-26)|Visit link for details.|26/11/2024|
- |[Centreon - CVE-2024-45755](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45755-2024-11-26)|Visit link for details.|26/11/2024|
- |[Apple - CVE-2024-44206](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44206-2024-11-26)|Visit link for details.|26/11/2024|
+ |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1630/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1629/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1628/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1627/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1626/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1625/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1624/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Monitouch V-SFT V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1623/)|Visit link for details|2024-11-27|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # MA-CERT
@@ -142,20 +156,6 @@
  |[ 51092511/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-16)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la politique de…| 25 novembre 2024|
  |[ 51102511/24 - Vulnérabilité critique affectant le plugin «FluentSMTP» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-fluentsmtp-pour-wordpress)| Une vulnérabilité critique affectant le plugin « FluentSMTP»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié…| 25 novembre 2024|
  |[ 51082511/24 - Vulnérabilité dans WinZip ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-winzip)| Une vulnérabilité a été corrigée dans les versions susmentionnées du logiciel populaire de compression et d'archivage de fichiers WinZip. Cette vulnérabilité pourrait permettre à des attaquants de…| 25 novembre 2024|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1630/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1629/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1628/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1627/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1626/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1625/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1624/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Monitouch V-SFT V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1623/)|Visit link for details|2024-11-27|
  
 
 # CA-CCS
