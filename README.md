@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 27/11/2024 19:20:47 UTC+5 (Asia/Ashgabat)
+ > Last Updated 27/11/2024 20:23:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,13 +52,13 @@
  |[USN-7124-1: OpenJDK 23 vulnerabilities](https://www.linux.org/threads/usn-7124-1-openjdk-23-vulnerabilities.54046/)|Visit link for details.|Nov 25, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -93,20 +93,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
- |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
- |[7-Zip Qcow Handler Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -122,6 +108,20 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Intel Driver & Support Assistant Log Folder Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1613/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1612/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot ABC File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1611/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1610/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1609/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot SKP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1608/)|Visit link for details|2024-11-21|
+ |[Luxion KeyShot 3DS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1607/)|Visit link for details|2024-11-21|
+ |[7-Zip Qcow Handler Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1606/)|Visit link for details|2024-11-21|
  
 
 # CA-CCS
@@ -141,23 +141,6 @@
  |[Drupal security advisory (AV24-672)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-672)|Visit link for details|2024-11-20|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51172711/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-4)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 27 novembre 2024|
- |[ 51162711/24 - Vulnérabilités critiques affectant PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-php)| Plusieurs vulnérabilités critiques ont été corrigées dans PHP. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, accéder à des…| 27 novembre 2024|
- |[ 51152711/24 - Vulnérabilités dans VMware Aria Operations ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-0)| VMware annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de VMware Aria Operations. L’exploitation de ces vulnérabilités peut permettre  à un attaquant…| 27 novembre 2024|
- |[ 51142711/24 - Vulnérabilité critique affectant le plugin «Anti-Spam by CleanTalk» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-anti-spam-cleantalk-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Anti-Spam by CleanTalk»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non…| 27 novembre 2024|
- |[ 51132611/24 - Vulnérabilité affectant Palo Alto GlobalProtect App ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-palo-alto-globalprotect-app-0)| Palo Alto Networks annonce la correction d’une vulnérabilité critique  affectant les versions susmentionnées de son produit GlobalProtect App. L’exploit de cette vulnérabilité est…| 26 novembre 2024|
- |[ 51122611/24 - Vulnérabilités critiques dans QNAP Notes Station 3 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-qnap-notes-station-3)| Plusieurs vulnérabilités critiques ont été corrigées dans Qnap Notes Station 3. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de contourner la…| 26 novembre 2024|
- |[ 51112511/24 - Vulnérabilité affectant 7-Zip ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-7-zip)| Une vulnérabilité affectant les versions susmentionnées de 7-Zip a été corrigée.  L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code…| 25 novembre 2024|
- |[ 51092511/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-16)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la politique de…| 25 novembre 2024|
- |[ 51102511/24 - Vulnérabilité critique affectant le plugin «FluentSMTP» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-fluentsmtp-pour-wordpress)| Une vulnérabilité critique affectant le plugin « FluentSMTP»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié…| 25 novembre 2024|
- |[ 51082511/24 - Vulnérabilité dans WinZip ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-winzip)| Une vulnérabilité a été corrigée dans les versions susmentionnées du logiciel populaire de compression et d'archivage de fichiers WinZip. Cette vulnérabilité pourrait permettre à des attaquants de…| 25 novembre 2024|
- |[ 51072211/24 - Vulnérabilité critique affectant les routeurs D-link ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-les-routeurs-d-link)| D-Link annonce la découverte d’une vulnérabilité critique affectant ses routeurs susmentionnés. L'exploitation de cette vulnérabilité peut  permettre à un attaquant distant non authentifié…| 22 novembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -173,4 +156,21 @@
  |[QNAP - CVE-2024-38645](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-38645-2024-11-25)|Visit link for details.|25/11/2024|
  |[OpenText - CVE-2023-24467](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2023-24467-2024-11-25)|Visit link for details.|25/11/2024|
  |[QNAP - CVE-2024-48860](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48860-2024-11-25)|Visit link for details.|25/11/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51182711/24 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-industriels-de-schneider-electric-2)| Deux vulnérabilités ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service et de…| 27 novembre 2024|
+ |[ 51172711/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-4)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 27 novembre 2024|
+ |[ 51162711/24 - Vulnérabilités critiques affectant PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-php)| Plusieurs vulnérabilités critiques ont été corrigées dans PHP. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, accéder à des…| 27 novembre 2024|
+ |[ 51152711/24 - Vulnérabilités dans VMware Aria Operations ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-0)| VMware annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de VMware Aria Operations. L’exploitation de ces vulnérabilités peut permettre  à un attaquant…| 27 novembre 2024|
+ |[ 51142711/24 - Vulnérabilité critique affectant le plugin «Anti-Spam by CleanTalk» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-anti-spam-cleantalk-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Anti-Spam by CleanTalk»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non…| 27 novembre 2024|
+ |[ 51132611/24 - Vulnérabilité affectant Palo Alto GlobalProtect App ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-palo-alto-globalprotect-app-0)| Palo Alto Networks annonce la correction d’une vulnérabilité critique  affectant les versions susmentionnées de son produit GlobalProtect App. L’exploit de cette vulnérabilité est…| 26 novembre 2024|
+ |[ 51122611/24 - Vulnérabilités critiques dans QNAP Notes Station 3 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-qnap-notes-station-3)| Plusieurs vulnérabilités critiques ont été corrigées dans Qnap Notes Station 3. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de contourner la…| 26 novembre 2024|
+ |[ 51112511/24 - Vulnérabilité affectant 7-Zip ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-7-zip)| Une vulnérabilité affectant les versions susmentionnées de 7-Zip a été corrigée.  L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code…| 25 novembre 2024|
+ |[ 51092511/24 - Vulnérabilités dans les produits IBM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-16)| Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la politique de…| 25 novembre 2024|
+ |[ 51102511/24 - Vulnérabilité critique affectant le plugin «FluentSMTP» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-fluentsmtp-pour-wordpress)| Une vulnérabilité critique affectant le plugin « FluentSMTP»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié…| 25 novembre 2024|
+ |[ 51082511/24 - Vulnérabilité dans WinZip ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-winzip)| Une vulnérabilité a été corrigée dans les versions susmentionnées du logiciel populaire de compression et d'archivage de fichiers WinZip. Cette vulnérabilité pourrait permettre à des attaquants de…| 25 novembre 2024|
  
