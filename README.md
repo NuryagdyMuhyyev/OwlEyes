@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/11/2024 21:27:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/11/2024 22:18:55 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,18 +35,6 @@
  |---|---|---|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -62,6 +50,18 @@
  |[USN-6988-2: Twisted vulnerability](https://www.linux.org/threads/usn-6988-2-twisted-vulnerability.54075/)|Visit link for details.|Nov 27, 2024|
  |[USN-7129-1: TinyGLTF vulnerability](https://www.linux.org/threads/usn-7129-1-tinygltf-vulnerability.54070/)|Visit link for details.|Nov 26, 2024|
  |[USN-7128-1: Pygments vulnerability](https://www.linux.org/threads/usn-7128-1-pygments-vulnerability.54069/)|Visit link for details.|Nov 26, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
