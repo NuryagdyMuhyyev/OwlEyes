@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/11/2024 20:23:21 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/11/2024 21:27:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,18 @@
  |---|---|---|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,18 +62,6 @@
  |[USN-6988-2: Twisted vulnerability](https://www.linux.org/threads/usn-6988-2-twisted-vulnerability.54075/)|Visit link for details.|Nov 27, 2024|
  |[USN-7129-1: TinyGLTF vulnerability](https://www.linux.org/threads/usn-7129-1-tinygltf-vulnerability.54070/)|Visit link for details.|Nov 26, 2024|
  |[USN-7128-1: Pygments vulnerability](https://www.linux.org/threads/usn-7128-1-pygments-vulnerability.54069/)|Visit link for details.|Nov 26, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -141,6 +141,23 @@
  |[Microsoft Edge security advisory (AV24-673)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-673)|Visit link for details|2024-11-22|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitHub CLI - CVE-2024-52308](https://www.cyberveille-sante.gouv.fr/alertes/github-cli-cve-2024-52308-2024-11-28)|Visit link for details.|28/11/2024|
+ |[ManageEngine - CVE-2024-52323](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-52323-2024-11-28)|Visit link for details.|28/11/2024|
+ |[Zabbix - CVE-2024-42327](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42327-2024-11-28)|Visit link for details.|28/11/2024|
+ |[WordPress - CVE-2024-10542](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-10542-2024-11-28)|Visit link for details.|28/11/2024|
+ |[PHPGurukul COVID19 Testing Management System - CVE-2024-53603](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-covid19-testing-management-system-cve-2024-53603-2024-11-28)|Visit link for details.|28/11/2024|
+ |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
+ |[Palo Alto Networks - CVE-2024-5921](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-5921-2024-11-27)|Visit link for details.|27/11/2024|
+ |[needrestart - CVE-2024-48990](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-cve-2024-48990-2024-11-27)|Visit link for details.|27/11/2024|
+ |[Mozilla - CVE-2024-11691](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-11691-2024-11-27)|Visit link for details.|27/11/2024|
+ |[GitLab - CVE-2024-8114](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8114-2024-11-27)|Visit link for details.|27/11/2024|
+ |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -156,21 +173,4 @@
  |[ 51152711/24 - Vulnérabilités dans VMware Aria Operations ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-0)| VMware annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de VMware Aria Operations. L’exploitation de ces vulnérabilités peut permettre  à un attaquant…| 27 novembre 2024|
  |[ 51142711/24 - Vulnérabilité critique affectant le plugin «Anti-Spam by CleanTalk» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-anti-spam-cleantalk-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Anti-Spam by CleanTalk»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non…| 27 novembre 2024|
  |[ 51132611/24 - Vulnérabilité affectant Palo Alto GlobalProtect App ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-palo-alto-globalprotect-app-0)| Palo Alto Networks annonce la correction d’une vulnérabilité critique  affectant les versions susmentionnées de son produit GlobalProtect App. L’exploit de cette vulnérabilité est…| 26 novembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
- |[Palo Alto Networks - CVE-2024-5921](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-5921-2024-11-27)|Visit link for details.|27/11/2024|
- |[needrestart - CVE-2024-48990](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-cve-2024-48990-2024-11-27)|Visit link for details.|27/11/2024|
- |[Mozilla - CVE-2024-11691](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-11691-2024-11-27)|Visit link for details.|27/11/2024|
- |[GitLab - CVE-2024-8114](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8114-2024-11-27)|Visit link for details.|27/11/2024|
- |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
- |[Snappy-java - CVE-2023-34455](https://www.cyberveille-sante.gouv.fr/alertes/snappy-java-cve-2023-34455-2024-11-26)|Visit link for details.|26/11/2024|
- |[QNAP - CVE-2024-50396](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50396-2024-11-26)|Visit link for details.|26/11/2024|
- |[CodeAstro Hospital Management System - CVE-2024-11674](https://www.cyberveille-sante.gouv.fr/alertes/codeastro-hospital-management-system-cve-2024-11674-2024-11-26)|Visit link for details.|26/11/2024|
- |[Centreon - CVE-2024-45755](https://www.cyberveille-sante.gouv.fr/alertes/centreon-cve-2024-45755-2024-11-26)|Visit link for details.|26/11/2024|
- |[Apple - CVE-2024-44206](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44206-2024-11-26)|Visit link for details.|26/11/2024|
  
