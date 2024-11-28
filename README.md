@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/11/2024 02:20:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/11/2024 03:20:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,6 +44,12 @@
  |[USN-6988-2: Twisted vulnerability](https://www.linux.org/threads/usn-6988-2-twisted-vulnerability.54075/)|Visit link for details.|Nov 27, 2024|
  |[USN-7129-1: TinyGLTF vulnerability](https://www.linux.org/threads/usn-7129-1-tinygltf-vulnerability.54070/)|Visit link for details.|Nov 26, 2024|
  |[USN-7128-1: Pygments vulnerability](https://www.linux.org/threads/usn-7128-1-pygments-vulnerability.54069/)|Visit link for details.|Nov 26, 2024|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
@@ -82,7 +82,7 @@
  |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -124,21 +124,21 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[GitHub CLI - CVE-2024-52308](https://www.cyberveille-sante.gouv.fr/alertes/github-cli-cve-2024-52308-2024-11-28)|Visit link for details.|28/11/2024|
- |[ManageEngine - CVE-2024-52323](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-52323-2024-11-28)|Visit link for details.|28/11/2024|
- |[Zabbix - CVE-2024-42327](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42327-2024-11-28)|Visit link for details.|28/11/2024|
- |[WordPress - CVE-2024-10542](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-10542-2024-11-28)|Visit link for details.|28/11/2024|
- |[PHPGurukul COVID19 Testing Management System - CVE-2024-53603](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-covid19-testing-management-system-cve-2024-53603-2024-11-28)|Visit link for details.|28/11/2024|
- |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
- |[Palo Alto Networks - CVE-2024-5921](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-5921-2024-11-27)|Visit link for details.|27/11/2024|
- |[needrestart - CVE-2024-48990](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-cve-2024-48990-2024-11-27)|Visit link for details.|27/11/2024|
- |[Mozilla - CVE-2024-11691](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-11691-2024-11-27)|Visit link for details.|27/11/2024|
- |[GitLab - CVE-2024-8114](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8114-2024-11-27)|Visit link for details.|27/11/2024|
- |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
+ |[Jenkins security advisory (AV24-683)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-683)|Visit link for details|2024-11-27|
+ |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
+ |[VMware security advisory (AV24-681)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-681)|Visit link for details|2024-11-26|
+ |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
+ |[HPE security advisory (AV24-679)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-679)|Visit link for details|2024-11-25|
+ |[[Control systems] CISA ICS security advisories (AV24–678)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-678)|Visit link for details|2024-11-25|
+ |[Red Hat security advisory (AV24-677)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-677)|Visit link for details|2024-11-25|
+ |[Ubuntu security advisory (AV24-676)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-676)|Visit link for details|2024-11-25|
+ |[IBM security advisory (AV24-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-675)|Visit link for details|2024-11-25|
+ |[[Control systems] Siemens security advisory (AV24-674)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-674)|Visit link for details|2024-11-22|
+ |[Microsoft Edge security advisory (AV24-673)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-673)|Visit link for details|2024-11-22|
  
 
 # MA-CERT
@@ -158,19 +158,19 @@
  |[ 51132611/24 - Vulnérabilité affectant Palo Alto GlobalProtect App ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-palo-alto-globalprotect-app-0)| Palo Alto Networks annonce la correction d’une vulnérabilité critique  affectant les versions susmentionnées de son produit GlobalProtect App. L’exploit de cette vulnérabilité est…| 26 novembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Jenkins security advisory (AV24-683)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-683)|Visit link for details|2024-11-27|
- |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
- |[VMware security advisory (AV24-681)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-681)|Visit link for details|2024-11-26|
- |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
- |[HPE security advisory (AV24-679)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-679)|Visit link for details|2024-11-25|
- |[[Control systems] CISA ICS security advisories (AV24–678)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-678)|Visit link for details|2024-11-25|
- |[Red Hat security advisory (AV24-677)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-677)|Visit link for details|2024-11-25|
- |[Ubuntu security advisory (AV24-676)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-676)|Visit link for details|2024-11-25|
- |[IBM security advisory (AV24-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-675)|Visit link for details|2024-11-25|
- |[[Control systems] Siemens security advisory (AV24-674)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-674)|Visit link for details|2024-11-22|
- |[Microsoft Edge security advisory (AV24-673)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-673)|Visit link for details|2024-11-22|
+ |[GitHub CLI - CVE-2024-52308](https://www.cyberveille-sante.gouv.fr/alertes/github-cli-cve-2024-52308-2024-11-28)|Visit link for details.|28/11/2024|
+ |[ManageEngine - CVE-2024-52323](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-52323-2024-11-28)|Visit link for details.|28/11/2024|
+ |[Zabbix - CVE-2024-42327](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42327-2024-11-28)|Visit link for details.|28/11/2024|
+ |[WordPress - CVE-2024-10542](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-10542-2024-11-28)|Visit link for details.|28/11/2024|
+ |[PHPGurukul COVID19 Testing Management System - CVE-2024-53603](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-covid19-testing-management-system-cve-2024-53603-2024-11-28)|Visit link for details.|28/11/2024|
+ |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
+ |[Palo Alto Networks - CVE-2024-5921](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-5921-2024-11-27)|Visit link for details.|27/11/2024|
+ |[needrestart - CVE-2024-48990](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-cve-2024-48990-2024-11-27)|Visit link for details.|27/11/2024|
+ |[Mozilla - CVE-2024-11691](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-11691-2024-11-27)|Visit link for details.|27/11/2024|
+ |[GitLab - CVE-2024-8114](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8114-2024-11-27)|Visit link for details.|27/11/2024|
+ |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
  
