@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/11/2024 09:27:08 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/11/2024 10:21:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,13 +52,13 @@
  |[USN-7128-1: Pygments vulnerability](https://www.linux.org/threads/usn-7128-1-pygments-vulnerability.54069/)|Visit link for details.|Nov 26, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -91,20 +91,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1630/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1629/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1628/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1627/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1626/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1625/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1624/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Monitouch V-SFT V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1623/)|Visit link for details|2024-11-27|
  
 
 # EU-CERT
@@ -141,21 +127,18 @@
  |[Microsoft Edge security advisory (AV24-673)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-673)|Visit link for details|2024-11-22|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 51222811/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-1)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique…| 28 novembre 2024|
- |[ 51222811/24 - Vulnérabilités critiques affectant Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-zabbix)| Zabbix annonce la disponibilité d’une mise à jour de sécurité permettant la correction  de deux vulnérabilités critiques affectant les versions susmentionnées de sa solution de supervision.…| 28 novembre 2024|
- |[ 51202811/24 - Vulnérabilité affectant NVIDIA UFM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-nvidia-ufm)| NVIDIA annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit UFM. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses…| 28 novembre 2024|
- |[ 51212811/24 - Vulnérabilité critique dans ProjectSend ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-projectsend)| Une vulnérabilité critique de contournement de l'authentification dans ProjectSend, une application web open-source de partage de fichiers, est activement exploitée. Une exploitation réussie permet…| 28 novembre 2024|
- |[ 51192811/24 - Vulnérabilités dans plusieurs produits Microsoft ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft)| Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de contourner la…| 28 novembre 2024|
- |[ 51182711/24 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-industriels-de-schneider-electric-2)| Deux vulnérabilités ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service et de…| 27 novembre 2024|
- |[ 51172711/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-4)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 27 novembre 2024|
- |[ 51162711/24 - Vulnérabilités critiques affectant PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-php)| Plusieurs vulnérabilités critiques ont été corrigées dans PHP. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, accéder à des…| 27 novembre 2024|
- |[ 51152711/24 - Vulnérabilités dans VMware Aria Operations ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-0)| VMware annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de VMware Aria Operations. L’exploitation de ces vulnérabilités peut permettre  à un attaquant…| 27 novembre 2024|
- |[ 51142711/24 - Vulnérabilité critique affectant le plugin «Anti-Spam by CleanTalk» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-anti-spam-cleantalk-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Anti-Spam by CleanTalk»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non…| 27 novembre 2024|
- |[ 51132611/24 - Vulnérabilité affectant Palo Alto GlobalProtect App ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-palo-alto-globalprotect-app-0)| Palo Alto Networks annonce la correction d’une vulnérabilité critique  affectant les versions susmentionnées de son produit GlobalProtect App. L’exploit de cette vulnérabilité est…| 26 novembre 2024|
+ |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1630/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1629/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1628/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1627/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1626/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1625/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1624/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Monitouch V-SFT V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1623/)|Visit link for details|2024-11-27|
  
 
 # CERT-SANTE
@@ -173,4 +156,21 @@
  |[Mozilla - CVE-2024-11691](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-11691-2024-11-27)|Visit link for details.|27/11/2024|
  |[GitLab - CVE-2024-8114](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8114-2024-11-27)|Visit link for details.|27/11/2024|
  |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51222811/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-1)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique…| 28 novembre 2024|
+ |[ 51222811/24 - Vulnérabilités critiques affectant Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-zabbix)| Zabbix annonce la disponibilité d’une mise à jour de sécurité permettant la correction  de deux vulnérabilités critiques affectant les versions susmentionnées de sa solution de supervision.…| 28 novembre 2024|
+ |[ 51202811/24 - Vulnérabilité affectant NVIDIA UFM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-nvidia-ufm)| NVIDIA annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit UFM. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses…| 28 novembre 2024|
+ |[ 51212811/24 - Vulnérabilité critique dans ProjectSend ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-projectsend)| Une vulnérabilité critique de contournement de l'authentification dans ProjectSend, une application web open-source de partage de fichiers, est activement exploitée. Une exploitation réussie permet…| 28 novembre 2024|
+ |[ 51192811/24 - Vulnérabilités dans plusieurs produits Microsoft ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft)| Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de contourner la…| 28 novembre 2024|
+ |[ 51182711/24 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-industriels-de-schneider-electric-2)| Deux vulnérabilités ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service et de…| 27 novembre 2024|
+ |[ 51172711/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-4)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 27 novembre 2024|
+ |[ 51162711/24 - Vulnérabilités critiques affectant PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-php)| Plusieurs vulnérabilités critiques ont été corrigées dans PHP. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, accéder à des…| 27 novembre 2024|
+ |[ 51152711/24 - Vulnérabilités dans VMware Aria Operations ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-0)| VMware annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de VMware Aria Operations. L’exploitation de ces vulnérabilités peut permettre  à un attaquant…| 27 novembre 2024|
+ |[ 51142711/24 - Vulnérabilité critique affectant le plugin «Anti-Spam by CleanTalk» pour… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-anti-spam-cleantalk-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Anti-Spam by CleanTalk»  pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non…| 27 novembre 2024|
+ |[ 51132611/24 - Vulnérabilité affectant Palo Alto GlobalProtect App ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-palo-alto-globalprotect-app-0)| Palo Alto Networks annonce la correction d’une vulnérabilité critique  affectant les versions susmentionnées de son produit GlobalProtect App. L’exploit de cette vulnérabilité est…| 26 novembre 2024|
  
