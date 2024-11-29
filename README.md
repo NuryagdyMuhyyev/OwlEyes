@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/11/2024 16:18:24 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/11/2024 17:43:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,12 @@
  |---|---|---|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,18 +56,6 @@
  |[USN-6988-2: Twisted vulnerability](https://www.linux.org/threads/usn-6988-2-twisted-vulnerability.54075/)|Visit link for details.|Nov 27, 2024|
  |[USN-7129-1: TinyGLTF vulnerability](https://www.linux.org/threads/usn-7129-1-tinygltf-vulnerability.54070/)|Visit link for details.|Nov 26, 2024|
  |[USN-7128-1: Pygments vulnerability](https://www.linux.org/threads/usn-7128-1-pygments-vulnerability.54069/)|Visit link for details.|Nov 26, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -88,7 +82,7 @@
  |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -107,6 +101,12 @@
  |[(0Day) Fuji Electric Monitouch V-SFT V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1623/)|Visit link for details|2024-11-27|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -122,23 +122,6 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Jenkins security advisory (AV24-683)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-683)|Visit link for details|2024-11-27|
- |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
- |[VMware security advisory (AV24-681)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-681)|Visit link for details|2024-11-26|
- |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
- |[HPE security advisory (AV24-679)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-679)|Visit link for details|2024-11-25|
- |[[Control systems] CISA ICS security advisories (AV24–678)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-678)|Visit link for details|2024-11-25|
- |[Red Hat security advisory (AV24-677)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-677)|Visit link for details|2024-11-25|
- |[Ubuntu security advisory (AV24-676)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-676)|Visit link for details|2024-11-25|
- |[IBM security advisory (AV24-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-675)|Visit link for details|2024-11-25|
- |[[Control systems] Siemens security advisory (AV24-674)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-674)|Visit link for details|2024-11-22|
- |[Microsoft Edge security advisory (AV24-673)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-673)|Visit link for details|2024-11-22|
  
 
 # MA-CERT
@@ -173,4 +156,21 @@
  |[Mozilla - CVE-2024-11691](https://www.cyberveille-sante.gouv.fr/alertes/mozilla-cve-2024-11691-2024-11-27)|Visit link for details.|27/11/2024|
  |[GitLab - CVE-2024-8114](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-8114-2024-11-27)|Visit link for details.|27/11/2024|
  |[OpenSSH - CVE-2023-38408](https://www.cyberveille-sante.gouv.fr/alertes/openssh-cve-2023-38408-2023-07-20)|Visit link for details.|27/11/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Jenkins security advisory (AV24-683)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-683)|Visit link for details|2024-11-27|
+ |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
+ |[VMware security advisory (AV24-681)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-681)|Visit link for details|2024-11-26|
+ |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
+ |[HPE security advisory (AV24-679)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-679)|Visit link for details|2024-11-25|
+ |[[Control systems] CISA ICS security advisories (AV24–678)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-678)|Visit link for details|2024-11-25|
+ |[Red Hat security advisory (AV24-677)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-677)|Visit link for details|2024-11-25|
+ |[Ubuntu security advisory (AV24-676)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-676)|Visit link for details|2024-11-25|
+ |[IBM security advisory (AV24-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-675)|Visit link for details|2024-11-25|
+ |[[Control systems] Siemens security advisory (AV24-674)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-674)|Visit link for details|2024-11-22|
+ |[Microsoft Edge security advisory (AV24-673)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-673)|Visit link for details|2024-11-22|
  
