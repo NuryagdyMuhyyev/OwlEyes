@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/12/2024 02:19:23 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/12/2024 03:19:46 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,18 +52,6 @@
  |[USN-7128-1: Pygments vulnerability](https://www.linux.org/threads/usn-7128-1-pygments-vulnerability.54069/)|Visit link for details.|Nov 26, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -91,6 +79,18 @@
  |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
