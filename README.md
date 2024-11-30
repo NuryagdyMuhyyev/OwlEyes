@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 30/11/2024 12:20:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 30/11/2024 13:26:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -107,6 +107,23 @@
  |[(0Day) Fuji Electric Monitouch V-SFT V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1623/)|Visit link for details|2024-11-27|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zyxel - CVE-2024-11667](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-11667-2024-11-29)|Visit link for details.|29/11/2024|
+ |[Zabbix - CVE-2024-42330](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42330-2024-11-29)|Visit link for details.|29/11/2024|
+ |[VMware - CVE-2024-38830](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38830-2024-11-29)|Visit link for details.|29/11/2024|
+ |[D-Link - CVE-2024-52759](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-52759-2024-11-29)|Visit link for details.|29/11/2024|
+ |[Palo Alto Networks - CVE-2024-9474](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-9474-2024-11-29)|Visit link for details.|29/11/2024|
+ |[GitHub CLI - CVE-2024-52308](https://www.cyberveille-sante.gouv.fr/alertes/github-cli-cve-2024-52308-2024-11-28)|Visit link for details.|28/11/2024|
+ |[ManageEngine - CVE-2024-52323](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-52323-2024-11-28)|Visit link for details.|28/11/2024|
+ |[Zabbix - CVE-2024-42327](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42327-2024-11-28)|Visit link for details.|28/11/2024|
+ |[WordPress - CVE-2024-10542](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-10542-2024-11-28)|Visit link for details.|28/11/2024|
+ |[PHPGurukul COVID19 Testing Management System - CVE-2024-53603](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-covid19-testing-management-system-cve-2024-53603-2024-11-28)|Visit link for details.|28/11/2024|
+ |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -139,23 +156,6 @@
  |[ 51172711/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-4)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 27 novembre 2024|
  |[ 51162711/24 - Vulnérabilités critiques affectant PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-php)| Plusieurs vulnérabilités critiques ont été corrigées dans PHP. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, accéder à des…| 27 novembre 2024|
  |[ 51152711/24 - Vulnérabilités dans VMware Aria Operations ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-0)| VMware annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de VMware Aria Operations. L’exploitation de ces vulnérabilités peut permettre  à un attaquant…| 27 novembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zyxel - CVE-2024-11667](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-11667-2024-11-29)|Visit link for details.|29/11/2024|
- |[Zabbix - CVE-2024-42330](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42330-2024-11-29)|Visit link for details.|29/11/2024|
- |[VMware - CVE-2024-38830](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38830-2024-11-29)|Visit link for details.|29/11/2024|
- |[D-Link - CVE-2024-52759](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-52759-2024-11-29)|Visit link for details.|29/11/2024|
- |[Palo Alto Networks - CVE-2024-9474](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-9474-2024-11-29)|Visit link for details.|29/11/2024|
- |[GitHub CLI - CVE-2024-52308](https://www.cyberveille-sante.gouv.fr/alertes/github-cli-cve-2024-52308-2024-11-28)|Visit link for details.|28/11/2024|
- |[ManageEngine - CVE-2024-52323](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-52323-2024-11-28)|Visit link for details.|28/11/2024|
- |[Zabbix - CVE-2024-42327](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42327-2024-11-28)|Visit link for details.|28/11/2024|
- |[WordPress - CVE-2024-10542](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-10542-2024-11-28)|Visit link for details.|28/11/2024|
- |[PHPGurukul COVID19 Testing Management System - CVE-2024-53603](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-covid19-testing-management-system-cve-2024-53603-2024-11-28)|Visit link for details.|28/11/2024|
- |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
  
 
 # CA-CCS
