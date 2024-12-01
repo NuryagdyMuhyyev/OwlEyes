@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/12/2024 17:41:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/12/2024 18:27:25 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,29 +46,16 @@
  |[USN-7128-1: Pygments vulnerability](https://www.linux.org/threads/usn-7128-1-pygments-vulnerability.54069/)|Visit link for details.|Nov 26, 2024|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -93,18 +74,23 @@
  |[Drupal Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in Drupal Core. A remote attacker could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 22 Nov 2024 |
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1630/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1629/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1628/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1627/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1626/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1625/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1624/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Monitouch V-SFT V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1623/)|Visit link for details|2024-11-27|
+ |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CA-CCS
@@ -141,21 +127,18 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Zyxel - CVE-2024-11667](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-11667-2024-11-29)|Visit link for details.|29/11/2024|
- |[Zabbix - CVE-2024-42330](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42330-2024-11-29)|Visit link for details.|29/11/2024|
- |[VMware - CVE-2024-38830](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38830-2024-11-29)|Visit link for details.|29/11/2024|
- |[D-Link - CVE-2024-52759](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-52759-2024-11-29)|Visit link for details.|29/11/2024|
- |[Palo Alto Networks - CVE-2024-9474](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-9474-2024-11-29)|Visit link for details.|29/11/2024|
- |[GitHub CLI - CVE-2024-52308](https://www.cyberveille-sante.gouv.fr/alertes/github-cli-cve-2024-52308-2024-11-28)|Visit link for details.|28/11/2024|
- |[ManageEngine - CVE-2024-52323](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-52323-2024-11-28)|Visit link for details.|28/11/2024|
- |[Zabbix - CVE-2024-42327](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42327-2024-11-28)|Visit link for details.|28/11/2024|
- |[WordPress - CVE-2024-10542](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-10542-2024-11-28)|Visit link for details.|28/11/2024|
- |[PHPGurukul COVID19 Testing Management System - CVE-2024-53603](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-covid19-testing-management-system-cve-2024-53603-2024-11-28)|Visit link for details.|28/11/2024|
- |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
+ |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1630/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1629/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1628/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1627/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1626/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1625/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1624/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Monitouch V-SFT V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1623/)|Visit link for details|2024-11-27|
  
 
 # MA-CERT
@@ -173,4 +156,21 @@
  |[ 51172711/24 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-mozilla-4)| Mozilla a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la…| 27 novembre 2024|
  |[ 51162711/24 - Vulnérabilités critiques affectant PHP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-php)| Plusieurs vulnérabilités critiques ont été corrigées dans PHP. L'exploitation   de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, accéder à des…| 27 novembre 2024|
  |[ 51152711/24 - Vulnérabilités dans VMware Aria Operations ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-vmware-aria-operations-0)| VMware annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de VMware Aria Operations. L’exploitation de ces vulnérabilités peut permettre  à un attaquant…| 27 novembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zyxel - CVE-2024-11667](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-11667-2024-11-29)|Visit link for details.|29/11/2024|
+ |[Zabbix - CVE-2024-42330](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42330-2024-11-29)|Visit link for details.|29/11/2024|
+ |[VMware - CVE-2024-38830](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38830-2024-11-29)|Visit link for details.|29/11/2024|
+ |[D-Link - CVE-2024-52759](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-52759-2024-11-29)|Visit link for details.|29/11/2024|
+ |[Palo Alto Networks - CVE-2024-9474](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-9474-2024-11-29)|Visit link for details.|29/11/2024|
+ |[GitHub CLI - CVE-2024-52308](https://www.cyberveille-sante.gouv.fr/alertes/github-cli-cve-2024-52308-2024-11-28)|Visit link for details.|28/11/2024|
+ |[ManageEngine - CVE-2024-52323](https://www.cyberveille-sante.gouv.fr/alertes/manageengine-cve-2024-52323-2024-11-28)|Visit link for details.|28/11/2024|
+ |[Zabbix - CVE-2024-42327](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-42327-2024-11-28)|Visit link for details.|28/11/2024|
+ |[WordPress - CVE-2024-10542](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-10542-2024-11-28)|Visit link for details.|28/11/2024|
+ |[PHPGurukul COVID19 Testing Management System - CVE-2024-53603](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-covid19-testing-management-system-cve-2024-53603-2024-11-28)|Visit link for details.|28/11/2024|
+ |[HPE - CVE-2024-53676](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-53676-2024-11-27)|Visit link for details.|27/11/2024|
  
