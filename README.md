@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/12/2024 10:22:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/12/2024 11:32:51 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,22 +33,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241129)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, elevation of privilege, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 29 Nov 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in F5 Products, attacker can exploit this vulnerability to trigger denial of service condition and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2023-34410 and CVE-2023-32573...|Release Date: 28 Nov 2024 |
- |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and denial of service on the targeted system.|Release Date: 28 Nov 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass, data manipulation and spoofing on the targeted system.|Release Date: 27 Nov 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20241126)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 26 Nov 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241125)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and spoofing on the targeted system.|Release Date: 25 Nov 2024 |
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20241125)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 25 Nov 2024 |
- |[Drupal Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in Drupal Core. A remote attacker could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 22 Nov 2024 |
  
 
 # LINUX-SEC
@@ -91,6 +75,36 @@
  |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241129)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, elevation of privilege, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 29 Nov 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in F5 Products, attacker can exploit this vulnerability to trigger denial of service condition and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2023-34410 and CVE-2023-32573...|Release Date: 28 Nov 2024 |
+ |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and denial of service on the targeted system.|Release Date: 28 Nov 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass, data manipulation and spoofing on the targeted system.|Release Date: 27 Nov 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20241126)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 26 Nov 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241125)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and spoofing on the targeted system.|Release Date: 25 Nov 2024 |
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20241125)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 25 Nov 2024 |
+ |[Drupal Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20241122)|Multiple vulnerabilities were identified in Drupal Core. A remote attacker could exploit these vulnerabilities to trigger cross-site scripting, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 22 Nov 2024 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1630/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1629/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1628/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1627/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1626/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1625/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1624/)|Visit link for details|2024-11-27|
+ |[(0Day) Fuji Electric Monitouch V-SFT V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1623/)|Visit link for details|2024-11-27|
  
 
 # EU-CERT
@@ -159,18 +173,4 @@
  |[Ubuntu security advisory (AV24-676)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-676)|Visit link for details|2024-11-25|
  |[IBM security advisory (AV24-675)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-675)|Visit link for details|2024-11-25|
  |[[Control systems] Siemens security advisory (AV24-674)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-674)|Visit link for details|2024-11-22|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1630/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1629/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-Based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1628/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1627/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1626/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1625/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Monitouch V-SFT X1 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1624/)|Visit link for details|2024-11-27|
- |[(0Day) Fuji Electric Monitouch V-SFT V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1623/)|Visit link for details|2024-11-27|
  
