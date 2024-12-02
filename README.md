@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/12/2024 01:23:18 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/12/2024 02:20:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -82,15 +88,9 @@
  |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -141,22 +141,6 @@
  |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
- |[ 51250212/24 - Vulnérabilités critiques dans HPE Insight Remote Support ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-hpe-insight-remote-support)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées HPE Insight Remote Support. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à…| 02 décembre 2024|
- |[ 51242911/24 - Vulnérabilité critique dans pare-feux ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pare-feux-zyxel)| Zyxel annonce la correction d’une vulnérabilité critique exploitée par des acteurs malveillants ciblant les pare-feux Zyxel. Une vulnérabilité de traversée de répertoire dans l'interface de gestion…| 29 novembre 2024|
- |[ 51232911/24 - Vulnérabilités critiques dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-gitlab-0)| Gitlab annonce la correction de plusieurs vulnérabilités critiques dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de…| 29 novembre 2024|
- |[ 51222811/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-1)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique…| 28 novembre 2024|
- |[ 51222811/24 - Vulnérabilités critiques affectant Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-zabbix)| Zabbix annonce la disponibilité d’une mise à jour de sécurité permettant la correction  de deux vulnérabilités critiques affectant les versions susmentionnées de sa solution de supervision.…| 28 novembre 2024|
- |[ 51202811/24 - Vulnérabilité affectant NVIDIA UFM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-nvidia-ufm)| NVIDIA annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit UFM. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses…| 28 novembre 2024|
- |[ 51212811/24 - Vulnérabilité critique dans ProjectSend ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-projectsend)| Une vulnérabilité critique de contournement de l'authentification dans ProjectSend, une application web open-source de partage de fichiers, est activement exploitée. Une exploitation réussie permet…| 28 novembre 2024|
- |[ 51192811/24 - Vulnérabilités dans plusieurs produits Microsoft ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft)| Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de contourner la…| 28 novembre 2024|
- |[ 51182711/24 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-industriels-de-schneider-electric-2)| Deux vulnérabilités ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service et de…| 27 novembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -172,4 +156,20 @@
  |[VMware - CVE-2024-38830](https://www.cyberveille-sante.gouv.fr/alertes/vmware-cve-2024-38830-2024-11-29)|Visit link for details.|29/11/2024|
  |[D-Link - CVE-2024-52759](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-52759-2024-11-29)|Visit link for details.|29/11/2024|
  |[Palo Alto Networks - CVE-2024-9474](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-networks-cve-2024-9474-2024-11-29)|Visit link for details.|29/11/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
+ |[ 51250212/24 - Vulnérabilités critiques dans HPE Insight Remote Support ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-hpe-insight-remote-support)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées HPE Insight Remote Support. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à…| 02 décembre 2024|
+ |[ 51242911/24 - Vulnérabilité critique dans pare-feux ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pare-feux-zyxel)| Zyxel annonce la correction d’une vulnérabilité critique exploitée par des acteurs malveillants ciblant les pare-feux Zyxel. Une vulnérabilité de traversée de répertoire dans l'interface de gestion…| 29 novembre 2024|
+ |[ 51232911/24 - Vulnérabilités critiques dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-gitlab-0)| Gitlab annonce la correction de plusieurs vulnérabilités critiques dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de…| 29 novembre 2024|
+ |[ 51222811/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-1)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique…| 28 novembre 2024|
+ |[ 51222811/24 - Vulnérabilités critiques affectant Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-zabbix)| Zabbix annonce la disponibilité d’une mise à jour de sécurité permettant la correction  de deux vulnérabilités critiques affectant les versions susmentionnées de sa solution de supervision.…| 28 novembre 2024|
+ |[ 51202811/24 - Vulnérabilité affectant NVIDIA UFM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-nvidia-ufm)| NVIDIA annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit UFM. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses…| 28 novembre 2024|
+ |[ 51212811/24 - Vulnérabilité critique dans ProjectSend ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-projectsend)| Une vulnérabilité critique de contournement de l'authentification dans ProjectSend, une application web open-source de partage de fichiers, est activement exploitée. Une exploitation réussie permet…| 28 novembre 2024|
+ |[ 51192811/24 - Vulnérabilités dans plusieurs produits Microsoft ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft)| Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de contourner la…| 28 novembre 2024|
+ |[ 51182711/24 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-industriels-de-schneider-electric-2)| Deux vulnérabilités ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service et de…| 27 novembre 2024|
  
