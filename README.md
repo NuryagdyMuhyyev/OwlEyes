@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/12/2024 01:25:01 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/12/2024 02:21:05 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,7 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 3 Dec 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.| Release Date: 3 Dec 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:...|Release Date: 3 Dec 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241129)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, elevation of privilege, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 29 Nov 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in F5 Products, attacker can exploit this vulnerability to trigger denial of service condition and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2023-34410 and CVE-2023-32573...|Release Date: 28 Nov 2024 |
- |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and denial of service on the targeted system.|Release Date: 28 Nov 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass, data manipulation and spoofing on the targeted system.|Release Date: 27 Nov 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
- |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20241126)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 26 Nov 2024 |
- 
-
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -68,6 +52,28 @@
  |[USN-7131-1: Vim vulnerability](https://www.linux.org/threads/usn-7131-1-vim-vulnerability.54092/)|Visit link for details.|Nov 27, 2024|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 3 Dec 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.| Release Date: 3 Dec 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:...|Release Date: 3 Dec 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241129)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, elevation of privilege, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 29 Nov 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in F5 Products, attacker can exploit this vulnerability to trigger denial of service condition and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2023-34410 and CVE-2023-32573...|Release Date: 28 Nov 2024 |
+ |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and denial of service on the targeted system.|Release Date: 28 Nov 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass, data manipulation and spoofing on the targeted system.|Release Date: 27 Nov 2024 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
+ |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20241126)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 26 Nov 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -81,16 +87,11 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Intel Computing Improvement Program PyInstaller Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1641/)|Visit link for details|2024-12-03|
  |[XnSoft XnView Classic RWZ File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1640/)|Visit link for details|2024-12-02|
  |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
  |[Hewlett Packard Enterprise Insight Remote Support validateAgainstXSD XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1638/)|Visit link for details|2024-12-02|
@@ -98,24 +99,6 @@
  |[Hewlett Packard Enterprise Insight Remote Support DESTA Service Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1636/)|Visit link for details|2024-12-02|
  |[Hewlett Packard Enterprise Insight Remote Support setInputStream XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1635/)|Visit link for details|2024-12-02|
  |[Hewlett Packard Enterprise AutoPass License Server XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1634/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise AutoPass License Server SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1633/)|Visit link for details|2024-12-02|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
- |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
- |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
- |[[Control systems] CISA ICS security advisories (AV24–687)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-687)|Visit link for details|2024-12-02|
- |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
- |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
- |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
- |[Jenkins security advisory (AV24-683)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-683)|Visit link for details|2024-11-27|
- |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
- |[VMware security advisory (AV24-681)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-681)|Visit link for details|2024-11-26|
- |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
  
 
 # EU-CERT
@@ -150,6 +133,23 @@
  |[REXML / F5 - CVE-2024-41123](https://www.cyberveille-sante.gouv.fr/alertes/rexml-f5-cve-2024-41123-2024-12-02)|Visit link for details.|02/12/2024|
  |[D-Link - CVE-2024-51151](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-51151-2024-12-02)|Visit link for details.|02/12/2024|
  |[7-Zip - CVE-2024-11477](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2024-11477-2024-11-21)|Visit link for details.|02/12/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
+ |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
+ |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
+ |[[Control systems] CISA ICS security advisories (AV24–687)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-687)|Visit link for details|2024-12-02|
+ |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
+ |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
+ |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
+ |[Jenkins security advisory (AV24-683)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-683)|Visit link for details|2024-11-27|
+ |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
+ |[VMware security advisory (AV24-681)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-681)|Visit link for details|2024-11-26|
+ |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
  
 
 # MA-CERT
