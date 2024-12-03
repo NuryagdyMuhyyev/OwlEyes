@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/12/2024 13:29:11 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/12/2024 14:24:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -64,19 +64,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -91,6 +78,19 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass, data manipulation and spoofing on the targeted system.|Release Date: 27 Nov 2024 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
  |[Debian Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20241126)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 26 Nov 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -145,6 +145,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
  |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
  |[ 51250212/24 - Vulnérabilités critiques dans HPE Insight Remote Support ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-hpe-insight-remote-support)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées HPE Insight Remote Support. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à…| 02 décembre 2024|
  |[ 51242911/24 - Vulnérabilité critique dans pare-feux ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pare-feux-zyxel)| Zyxel annonce la correction d’une vulnérabilité critique exploitée par des acteurs malveillants ciblant les pare-feux Zyxel. Une vulnérabilité de traversée de répertoire dans l'interface de gestion…| 29 novembre 2024|
@@ -154,7 +155,6 @@
  |[ 51202811/24 - Vulnérabilité affectant NVIDIA UFM ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-nvidia-ufm)| NVIDIA annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit UFM. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’élever ses…| 28 novembre 2024|
  |[ 51212811/24 - Vulnérabilité critique dans ProjectSend ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-projectsend)| Une vulnérabilité critique de contournement de l'authentification dans ProjectSend, une application web open-source de partage de fichiers, est activement exploitée. Une exploitation réussie permet…| 28 novembre 2024|
  |[ 51192811/24 - Vulnérabilités dans plusieurs produits Microsoft ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft)| Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de contourner la…| 28 novembre 2024|
- |[ 51182711/24 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-industriels-de-schneider-electric-2)| Deux vulnérabilités ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service et de…| 27 novembre 2024|
  
 
 # CERT-SANTE
