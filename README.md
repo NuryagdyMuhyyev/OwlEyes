@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/12/2024 17:45:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/12/2024 18:31:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,6 +44,12 @@
  |[DSA-5821-1 thunderbird - security update](https://www.linux.org/threads/dsa-5821-1-thunderbird-security-update.54094/)|Visit link for details.|Nov 28, 2024|
  |[DSA-5820-1 firefox-esr - security update](https://www.linux.org/threads/dsa-5820-1-firefox-esr-security-update.54093/)|Visit link for details.|Nov 28, 2024|
  |[USN-7131-1: Vim vulnerability](https://www.linux.org/threads/usn-7131-1-vim-vulnerability.54092/)|Visit link for details.|Nov 27, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -81,41 +81,10 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel nftables Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1642/)|Visit link for details|2024-12-03|
- |[Intel Computing Improvement Program PyInstaller Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1641/)|Visit link for details|2024-12-03|
- |[XnSoft XnView Classic RWZ File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1640/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support validateAgainstXSD XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1638/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support getDocumentRootElement XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1637/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support DESTA Service Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1636/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support setInputStream XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1635/)|Visit link for details|2024-12-02|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Zyxel - CVE-2024-8748](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-8748-2024-12-03)|Visit link for details.|03/12/2024|
- |[WordPress Widget Options- CVE-2024-8672](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-widget-options-cve-2024-8672-2024-12-03)|Visit link for details.|03/12/2024|
- |[TP-Link - CVE-2024-53375](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-53375-2024-12-03)|Visit link for details.|03/12/2024|
- |[HPE - CVE-2024-51768](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-51768-2024-12-03)|Visit link for details.|03/12/2024|
- |[Qt/F5 - CVE-2023-38197](https://www.cyberveille-sante.gouv.fr/alertes/qtf5-cve-2023-38197-2024-12-03)|Visit link for details.|03/12/2024|
- |[Zabbix - CVE-2024-36466](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-36466-2024-12-02)|Visit link for details.|02/12/2024|
- |[needrestart / Ubuntu - CVE-2024-48991](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-ubuntu-cve-2024-48991-2024-12-02)|Visit link for details.|02/12/2024|
- |[Hewlett Packard Enterprise (HPE) - CVE-2024-53673](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-hpe-cve-2024-53673-2024-12-02)|Visit link for details.|02/12/2024|
- |[REXML / F5 - CVE-2024-41123](https://www.cyberveille-sante.gouv.fr/alertes/rexml-f5-cve-2024-41123-2024-12-02)|Visit link for details.|02/12/2024|
- |[D-Link - CVE-2024-51151](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-51151-2024-12-02)|Visit link for details.|02/12/2024|
- |[7-Zip - CVE-2024-11477](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2024-11477-2024-11-21)|Visit link for details.|02/12/2024|
  
 
 # EU-CERT
@@ -135,19 +104,18 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
- |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
- |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
- |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
- |[ 51250212/24 - Vulnérabilités critiques dans HPE Insight Remote Support ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-hpe-insight-remote-support)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées HPE Insight Remote Support. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à…| 02 décembre 2024|
- |[ 51242911/24 - Vulnérabilité critique dans pare-feux ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pare-feux-zyxel)| Zyxel annonce la correction d’une vulnérabilité critique exploitée par des acteurs malveillants ciblant les pare-feux Zyxel. Une vulnérabilité de traversée de répertoire dans l'interface de gestion…| 29 novembre 2024|
- |[ 51232911/24 - Vulnérabilités critiques dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-gitlab-0)| Gitlab annonce la correction de plusieurs vulnérabilités critiques dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de…| 29 novembre 2024|
- |[ 51222811/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-1)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique…| 28 novembre 2024|
- |[ 51222811/24 - Vulnérabilités critiques affectant Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-zabbix)| Zabbix annonce la disponibilité d’une mise à jour de sécurité permettant la correction  de deux vulnérabilités critiques affectant les versions susmentionnées de sa solution de supervision.…| 28 novembre 2024|
+ |[Linux Kernel nftables Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1642/)|Visit link for details|2024-12-03|
+ |[Intel Computing Improvement Program PyInstaller Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1641/)|Visit link for details|2024-12-03|
+ |[XnSoft XnView Classic RWZ File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1640/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support validateAgainstXSD XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1638/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support getDocumentRootElement XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1637/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support DESTA Service Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1636/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support setInputStream XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1635/)|Visit link for details|2024-12-02|
  
 
 # CA-CCS
@@ -165,6 +133,38 @@
  |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
  |[VMware security advisory (AV24-681)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-681)|Visit link for details|2024-11-26|
  |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zyxel - CVE-2024-8748](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-8748-2024-12-03)|Visit link for details.|03/12/2024|
+ |[WordPress Widget Options- CVE-2024-8672](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-widget-options-cve-2024-8672-2024-12-03)|Visit link for details.|03/12/2024|
+ |[TP-Link - CVE-2024-53375](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-53375-2024-12-03)|Visit link for details.|03/12/2024|
+ |[HPE - CVE-2024-51768](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-51768-2024-12-03)|Visit link for details.|03/12/2024|
+ |[Qt/F5 - CVE-2023-38197](https://www.cyberveille-sante.gouv.fr/alertes/qtf5-cve-2023-38197-2024-12-03)|Visit link for details.|03/12/2024|
+ |[Zabbix - CVE-2024-36466](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-36466-2024-12-02)|Visit link for details.|02/12/2024|
+ |[needrestart / Ubuntu - CVE-2024-48991](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-ubuntu-cve-2024-48991-2024-12-02)|Visit link for details.|02/12/2024|
+ |[Hewlett Packard Enterprise (HPE) - CVE-2024-53673](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-hpe-cve-2024-53673-2024-12-02)|Visit link for details.|02/12/2024|
+ |[REXML / F5 - CVE-2024-41123](https://www.cyberveille-sante.gouv.fr/alertes/rexml-f5-cve-2024-41123-2024-12-02)|Visit link for details.|02/12/2024|
+ |[D-Link - CVE-2024-51151](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-51151-2024-12-02)|Visit link for details.|02/12/2024|
+ |[7-Zip - CVE-2024-11477](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2024-11477-2024-11-21)|Visit link for details.|02/12/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
+ |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
+ |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
+ |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
+ |[ 51250212/24 - Vulnérabilités critiques dans HPE Insight Remote Support ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-hpe-insight-remote-support)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées HPE Insight Remote Support. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à…| 02 décembre 2024|
+ |[ 51242911/24 - Vulnérabilité critique dans pare-feux ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pare-feux-zyxel)| Zyxel annonce la correction d’une vulnérabilité critique exploitée par des acteurs malveillants ciblant les pare-feux Zyxel. Une vulnérabilité de traversée de répertoire dans l'interface de gestion…| 29 novembre 2024|
+ |[ 51232911/24 - Vulnérabilités critiques dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-gitlab-0)| Gitlab annonce la correction de plusieurs vulnérabilités critiques dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de…| 29 novembre 2024|
+ |[ 51222811/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-1)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique…| 28 novembre 2024|
+ |[ 51222811/24 - Vulnérabilités critiques affectant Zabbix ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-zabbix)| Zabbix annonce la disponibilité d’une mise à jour de sécurité permettant la correction  de deux vulnérabilités critiques affectant les versions susmentionnées de sa solution de supervision.…| 28 novembre 2024|
  
 
 # US-CERT
