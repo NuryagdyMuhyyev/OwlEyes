@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/12/2024 09:26:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/12/2024 10:21:33 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,12 @@
  |[USN-7131-1: Vim vulnerability](https://www.linux.org/threads/usn-7131-1-vim-vulnerability.54092/)|Visit link for details.|Nov 27, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -62,18 +68,6 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -82,9 +76,15 @@
  |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -118,21 +118,21 @@
  |[Mozilla security advisory (AV24-680)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680)|Visit link for details|2024-11-26|
  
 
-# CERT-SANTE
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Zyxel - CVE-2024-8748](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-8748-2024-12-03)|Visit link for details.|03/12/2024|
- |[WordPress Widget Options- CVE-2024-8672](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-widget-options-cve-2024-8672-2024-12-03)|Visit link for details.|03/12/2024|
- |[TP-Link - CVE-2024-53375](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-53375-2024-12-03)|Visit link for details.|03/12/2024|
- |[HPE - CVE-2024-51768](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-51768-2024-12-03)|Visit link for details.|03/12/2024|
- |[Qt/F5 - CVE-2023-38197](https://www.cyberveille-sante.gouv.fr/alertes/qtf5-cve-2023-38197-2024-12-03)|Visit link for details.|03/12/2024|
- |[Zabbix - CVE-2024-36466](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-36466-2024-12-02)|Visit link for details.|02/12/2024|
- |[needrestart / Ubuntu - CVE-2024-48991](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-ubuntu-cve-2024-48991-2024-12-02)|Visit link for details.|02/12/2024|
- |[Hewlett Packard Enterprise (HPE) - CVE-2024-53673](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-hpe-cve-2024-53673-2024-12-02)|Visit link for details.|02/12/2024|
- |[REXML / F5 - CVE-2024-41123](https://www.cyberveille-sante.gouv.fr/alertes/rexml-f5-cve-2024-41123-2024-12-02)|Visit link for details.|02/12/2024|
- |[D-Link - CVE-2024-51151](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-51151-2024-12-02)|Visit link for details.|02/12/2024|
- |[7-Zip - CVE-2024-11477](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2024-11477-2024-11-21)|Visit link for details.|02/12/2024|
+ |[2024-118: Critical Vulnerability in 7-Zip](https://cert.europa.eu/publications/security-advisories/2024-118/)|A severe security vulnerability has been discovered in 7-Zip, the popular file compression utility, allowing remote attackers to execute malicious code through specially crafted archives. The vulnerability tracked as CVE-2024-11477 has received a high CVSS score of 7.8.|Monday, November 25, 2024 09:34:13 AM CET|
+ |[2024-117: Zero-Day Vulnerabilities in Palo Alto Networks PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-117/)|Palo Alto Networks released security updates for two actively exploited zero-day vulnerabilities in Palo Alto Networks PAN-OS. If exploited, these vulnerabilities could allow a remote unauthenticated attacker to gain administrator privileges, or a PAN-OS administrator to perform actions on the firewall with root privileges.|Tuesday, November 19, 2024 10:55:57 AM CET|
+ |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
+ |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
+ |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
+ |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
+ |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
+ |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
+ |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
+ |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
+ |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
 # MA-CERT
@@ -151,21 +151,21 @@
  |[ 51192811/24 - Vulnérabilités dans plusieurs produits Microsoft ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft)| Plusieurs vulnérabilités ont été corrigées dans les produits Microsoft susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de contourner la…| 28 novembre 2024|
  
 
-# EU-CERT
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[2024-118: Critical Vulnerability in 7-Zip](https://cert.europa.eu/publications/security-advisories/2024-118/)|A severe security vulnerability has been discovered in 7-Zip, the popular file compression utility, allowing remote attackers to execute malicious code through specially crafted archives. The vulnerability tracked as CVE-2024-11477 has received a high CVSS score of 7.8.|Monday, November 25, 2024 09:34:13 AM CET|
- |[2024-117: Zero-Day Vulnerabilities in Palo Alto Networks PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-117/)|Palo Alto Networks released security updates for two actively exploited zero-day vulnerabilities in Palo Alto Networks PAN-OS. If exploited, these vulnerabilities could allow a remote unauthenticated attacker to gain administrator privileges, or a PAN-OS administrator to perform actions on the firewall with root privileges.|Tuesday, November 19, 2024 10:55:57 AM CET|
- |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
- |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
- |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
- |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
- |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
- |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
- |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
- |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
- |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
+ |[Zyxel - CVE-2024-8748](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-8748-2024-12-03)|Visit link for details.|03/12/2024|
+ |[WordPress Widget Options- CVE-2024-8672](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-widget-options-cve-2024-8672-2024-12-03)|Visit link for details.|03/12/2024|
+ |[TP-Link - CVE-2024-53375](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-53375-2024-12-03)|Visit link for details.|03/12/2024|
+ |[HPE - CVE-2024-51768](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-51768-2024-12-03)|Visit link for details.|03/12/2024|
+ |[Qt/F5 - CVE-2023-38197](https://www.cyberveille-sante.gouv.fr/alertes/qtf5-cve-2023-38197-2024-12-03)|Visit link for details.|03/12/2024|
+ |[Zabbix - CVE-2024-36466](https://www.cyberveille-sante.gouv.fr/alertes/zabbix-cve-2024-36466-2024-12-02)|Visit link for details.|02/12/2024|
+ |[needrestart / Ubuntu - CVE-2024-48991](https://www.cyberveille-sante.gouv.fr/alertes/needrestart-ubuntu-cve-2024-48991-2024-12-02)|Visit link for details.|02/12/2024|
+ |[Hewlett Packard Enterprise (HPE) - CVE-2024-53673](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-hpe-cve-2024-53673-2024-12-02)|Visit link for details.|02/12/2024|
+ |[REXML / F5 - CVE-2024-41123](https://www.cyberveille-sante.gouv.fr/alertes/rexml-f5-cve-2024-41123-2024-12-02)|Visit link for details.|02/12/2024|
+ |[D-Link - CVE-2024-51151](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-51151-2024-12-02)|Visit link for details.|02/12/2024|
+ |[7-Zip - CVE-2024-11477](https://www.cyberveille-sante.gouv.fr/alertes/7-zip-cve-2024-11477-2024-11-21)|Visit link for details.|02/12/2024|
  
 
 # US-CERT
