@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 06/12/2024 03:21:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 06/12/2024 04:22:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,33 +74,6 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass, data manipulation and spoofing on the targeted system.|Release Date: 27 Nov 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel nftables Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1642/)|Visit link for details|2024-12-03|
- |[Intel Computing Improvement Program PyInstaller Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1641/)|Visit link for details|2024-12-03|
- |[XnSoft XnView Classic RWZ File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1640/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support validateAgainstXSD XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1638/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support getDocumentRootElement XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1637/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support DESTA Service Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1636/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support setInputStream XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1635/)|Visit link for details|2024-12-02|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -116,23 +89,6 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
- |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
- |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
- |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
- |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
- |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
- |[[Control systems] CISA ICS security advisories (AV24–687)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-687)|Visit link for details|2024-12-02|
- |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
- |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
- |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
- |[Jenkins security advisory (AV24-683)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-683)|Visit link for details|2024-11-27|
  
 
 # CERT-SANTE
@@ -152,6 +108,20 @@
  |[Progress WhatsUp Gold - CVE-2024-8785](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-8785-2024-10-02)|Visit link for details.|04/12/2024|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel nftables Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1642/)|Visit link for details|2024-12-03|
+ |[Intel Computing Improvement Program PyInstaller Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1641/)|Visit link for details|2024-12-03|
+ |[XnSoft XnView Classic RWZ File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1640/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support validateAgainstXSD XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1638/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support getDocumentRootElement XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1637/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support DESTA Service Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1636/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support setInputStream XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1635/)|Visit link for details|2024-12-02|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -165,6 +135,36 @@
  |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
  |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
  |[ 51250212/24 - Vulnérabilités critiques dans HPE Insight Remote Support ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-hpe-insight-remote-support)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées HPE Insight Remote Support. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à…| 02 décembre 2024|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
+ |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
+ |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
+ |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
+ |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
+ |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
+ |[[Control systems] CISA ICS security advisories (AV24–687)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-687)|Visit link for details|2024-12-02|
+ |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
+ |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
+ |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
+ |[Jenkins security advisory (AV24-683)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-683)|Visit link for details|2024-11-27|
  
 
 # US-CERT
