@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/12/2024 06:49:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/12/2024 08:05:00 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,29 +46,13 @@
  |[USN-6846-2: Ansible regression](https://www.linux.org/threads/usn-6846-2-ansible-regression.54156/)|Visit link for details.|Dec 2, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20241204)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Dec 2024 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 3 Dec 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.| Release Date: 3 Dec 2024 |
- |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:...|Release Date: 3 Dec 2024 |
- |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241129)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, elevation of privilege, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 29 Nov 2024 |
- |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in F5 Products, attacker can exploit this vulnerability to trigger denial of service condition and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2023-34410 and CVE-2023-32573...|Release Date: 28 Nov 2024 |
- |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and denial of service on the targeted system.|Release Date: 28 Nov 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass, data manipulation and spoofing on the targeted system.|Release Date: 27 Nov 2024 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241106)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-11-15]...| Release Date: 6 Nov 2024 |
- 
-
 # CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -82,9 +66,25 @@
  |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241205)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. ...|Release Date: 5 Dec 2024 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20241204)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Dec 2024 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 3 Dec 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system.| Release Date: 3 Dec 2024 |
+ |[Samsung Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, data manipulation and sensitive information disclosure on the targeted system. Note:...|Release Date: 3 Dec 2024 |
+ |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241129)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service, elevation of privilege, security restriction bypass, and sensitive information disclosure on the targeted system.|Release Date: 29 Nov 2024 |
+ |[F5 Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in F5 Products, attacker can exploit this vulnerability to trigger denial of service condition and data manipulation on the targeted system. Note:No patch or mitigation is currently available for CVE-2023-34410 and CVE-2023-32573...|Release Date: 28 Nov 2024 |
+ |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and denial of service on the targeted system.|Release Date: 28 Nov 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, sensitive information disclosure, remote code execution, security restriction bypass, data manipulation and spoofing on the targeted system.|Release Date: 27 Nov 2024 |
  
 
 # ZERODAYINITIATIVE
@@ -135,6 +135,21 @@
  |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51320412/24 - Vulnérabilité dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-google-chrome)| Google a publié des mises à jour de sécurité pour corriger une vulnérabilité affectant Google chrome. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à…| 04 décembre 2024|
+ |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
+ |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
+ |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
+ |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
+ |[ 51250212/24 - Vulnérabilités critiques dans HPE Insight Remote Support ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-hpe-insight-remote-support)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées HPE Insight Remote Support. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à…| 02 décembre 2024|
+ |[ 51242911/24 - Vulnérabilité critique dans pare-feux ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pare-feux-zyxel)| Zyxel annonce la correction d’une vulnérabilité critique exploitée par des acteurs malveillants ciblant les pare-feux Zyxel. Une vulnérabilité de traversée de répertoire dans l'interface de gestion…| 29 novembre 2024|
+ |[ 51232911/24 - Vulnérabilités critiques dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-gitlab-0)| Gitlab annonce la correction de plusieurs vulnérabilités critiques dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de…| 29 novembre 2024|
+ |[ 51222811/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-1)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique…| 28 novembre 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -150,21 +165,6 @@
  |[WordPress Widget Options- CVE-2024-8672](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-widget-options-cve-2024-8672-2024-12-03)|Visit link for details.|03/12/2024|
  |[TP-Link - CVE-2024-53375](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-53375-2024-12-03)|Visit link for details.|03/12/2024|
  |[HPE - CVE-2024-51768](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-51768-2024-12-03)|Visit link for details.|03/12/2024|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51320412/24 - Vulnérabilité dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-google-chrome)| Google a publié des mises à jour de sécurité pour corriger une vulnérabilité affectant Google chrome. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à…| 04 décembre 2024|
- |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
- |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
- |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
- |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
- |[ 51250212/24 - Vulnérabilités critiques dans HPE Insight Remote Support ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-hpe-insight-remote-support)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées HPE Insight Remote Support. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à…| 02 décembre 2024|
- |[ 51242911/24 - Vulnérabilité critique dans pare-feux ZyXEL ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-pare-feux-zyxel)| Zyxel annonce la correction d’une vulnérabilité critique exploitée par des acteurs malveillants ciblant les pare-feux Zyxel. Une vulnérabilité de traversée de répertoire dans l'interface de gestion…| 29 novembre 2024|
- |[ 51232911/24 - Vulnérabilités critiques dans les produits Gitlab ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-gitlab-0)| Gitlab annonce la correction de plusieurs vulnérabilités critiques dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de causer un déni de…| 29 novembre 2024|
- |[ 51222811/24 - Vulnérabilités dans les produits Jenkins ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jenkins-1)| Jenkins a publié un avis de sécurité corrigeant de multiples vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique…| 28 novembre 2024|
  
 
 # US-CERT
