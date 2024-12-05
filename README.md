@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/12/2024 20:24:55 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/12/2024 21:29:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -118,21 +118,21 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
- |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
- |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
- |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
- |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
- |[[Control systems] CISA ICS security advisories (AV24–687)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-687)|Visit link for details|2024-12-02|
- |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
- |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
- |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
- |[Jenkins security advisory (AV24-683)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-683)|Visit link for details|2024-11-27|
- |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
+ |[Veritas NetBackup - CVE-2024-54664](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2024-54664-2024-12-04)|Visit link for details.|04/12/2024|
+ |[Veeam Service Provider - CVE-2024-42448](https://www.cyberveille-sante.gouv.fr/alertes/veeam-service-provider-cve-2024-42448-2024-12-04)|Visit link for details.|04/12/2024|
+ |[Veeam Backup & Replication - CVE-2024-40717](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40717-2024-12-04)|Visit link for details.|04/12/2024|
+ |[Google Chrome - CVE-2024-12053](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12053-2024-12-04)|Visit link for details.|04/12/2024|
+ |[Dell - CVE-2024-42422](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-42422-2024-12-04)|Visit link for details.|04/12/2024|
+ |[Progress WhatsUp Gold - CVE-2024-8785](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-8785-2024-10-02)|Visit link for details.|04/12/2024|
+ |[Microsoft Task Scheduler - CVE-2024-49039](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-task-scheduler-cve-2024-49039-2024-11-13)|Visit link for details.|04/12/2024|
+ |[Zyxel - CVE-2024-8748](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-8748-2024-12-03)|Visit link for details.|03/12/2024|
+ |[WordPress Widget Options- CVE-2024-8672](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-widget-options-cve-2024-8672-2024-12-03)|Visit link for details.|03/12/2024|
+ |[TP-Link - CVE-2024-53375](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-53375-2024-12-03)|Visit link for details.|03/12/2024|
+ |[HPE - CVE-2024-51768](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-51768-2024-12-03)|Visit link for details.|03/12/2024|
  
 
 # MA-CERT
@@ -150,21 +150,21 @@
  |[ 51250212/24 - Vulnérabilités critiques dans HPE Insight Remote Support ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-hpe-insight-remote-support)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées HPE Insight Remote Support. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à…| 02 décembre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Veritas NetBackup - CVE-2024-54664](https://www.cyberveille-sante.gouv.fr/alertes/veritas-netbackup-cve-2024-54664-2024-12-04)|Visit link for details.|04/12/2024|
- |[Veeam Service Provider - CVE-2024-42448](https://www.cyberveille-sante.gouv.fr/alertes/veeam-service-provider-cve-2024-42448-2024-12-04)|Visit link for details.|04/12/2024|
- |[Veeam Backup & Replication - CVE-2024-40717](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-40717-2024-12-04)|Visit link for details.|04/12/2024|
- |[Google Chrome - CVE-2024-12053](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12053-2024-12-04)|Visit link for details.|04/12/2024|
- |[Dell - CVE-2024-42422](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-42422-2024-12-04)|Visit link for details.|04/12/2024|
- |[Progress WhatsUp Gold - CVE-2024-8785](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-8785-2024-10-02)|Visit link for details.|04/12/2024|
- |[Microsoft Task Scheduler - CVE-2024-49039](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-task-scheduler-cve-2024-49039-2024-11-13)|Visit link for details.|04/12/2024|
- |[Zyxel - CVE-2024-8748](https://www.cyberveille-sante.gouv.fr/alertes/zyxel-cve-2024-8748-2024-12-03)|Visit link for details.|03/12/2024|
- |[WordPress Widget Options- CVE-2024-8672](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-widget-options-cve-2024-8672-2024-12-03)|Visit link for details.|03/12/2024|
- |[TP-Link - CVE-2024-53375](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-53375-2024-12-03)|Visit link for details.|03/12/2024|
- |[HPE - CVE-2024-51768](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2024-51768-2024-12-03)|Visit link for details.|03/12/2024|
+ |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
+ |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
+ |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
+ |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
+ |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
+ |[[Control systems] CISA ICS security advisories (AV24–687)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-687)|Visit link for details|2024-12-02|
+ |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
+ |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
+ |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
+ |[Jenkins security advisory (AV24-683)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-683)|Visit link for details|2024-11-27|
+ |[GitLab security advisory (AV24-682)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-682)|Visit link for details|2024-11-26|
  
 
 # US-CERT
