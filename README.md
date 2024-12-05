@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 05/12/2024 04:22:09 UTC+5 (Asia/Ashgabat)
+ > Last Updated 05/12/2024 06:49:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,12 @@
  |[USN-6846-2: Ansible regression](https://www.linux.org/threads/usn-6846-2-ansible-regression.54156/)|Visit link for details.|Dec 2, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -79,12 +85,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
