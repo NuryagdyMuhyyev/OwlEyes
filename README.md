@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 07/12/2024 15:23:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 07/12/2024 16:16:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,7 +29,24 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5825-1 ceph - security update](https://www.linux.org/threads/dsa-5825-1-ceph-security-update.54228/)|Visit link for details.|Dec 6, 2024|
+ |[DSA-5824-1 chromium - security update](https://www.linux.org/threads/dsa-5824-1-chromium-security-update.54227/)|Visit link for details.|Dec 6, 2024|
+ |[USN-7117-3: needrestart regression](https://www.linux.org/threads/usn-7117-3-needrestart-regression.54215/)|Visit link for details.|Dec 6, 2024|
+ |[USN-7139-1: Apache Shiro vulnerability](https://www.linux.org/threads/usn-7139-1-apache-shiro-vulnerability.54205/)|Visit link for details.|Dec 5, 2024|
+ |[USN-7138-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-7138-1-ghostscript-vulnerabilities.54204/)|Visit link for details.|Dec 5, 2024|
+ |[USN-7137-1: recutils vulnerabilities](https://www.linux.org/threads/usn-7137-1-recutils-vulnerabilities.54178/)|Visit link for details.|Dec 4, 2024|
+ |[USN-7136-2: Django vulnerability](https://www.linux.org/threads/usn-7136-2-django-vulnerability.54177/)|Visit link for details.|Dec 4, 2024|
+ |[USN-7136-1: Django vulnerabilities](https://www.linux.org/threads/usn-7136-1-django-vulnerabilities.54176/)|Visit link for details.|Dec 4, 2024|
+ |[USN-7135-1: HAProxy vulnerability](https://www.linux.org/threads/usn-7135-1-haproxy-vulnerability.54165/)|Visit link for details.|Dec 3, 2024|
+ |[USN-7134-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-7134-1-firefox-vulnerabilities.54164/)|Visit link for details.|Dec 3, 2024|
+ |[USN-7133-1: HAProxy vulnerability](https://www.linux.org/threads/usn-7133-1-haproxy-vulnerability.54162/)|Visit link for details.|Dec 3, 2024|
+ 
+
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,23 +68,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5825-1 ceph - security update](https://www.linux.org/threads/dsa-5825-1-ceph-security-update.54228/)|Visit link for details.|Dec 6, 2024|
- |[DSA-5824-1 chromium - security update](https://www.linux.org/threads/dsa-5824-1-chromium-security-update.54227/)|Visit link for details.|Dec 6, 2024|
- |[USN-7117-3: needrestart regression](https://www.linux.org/threads/usn-7117-3-needrestart-regression.54215/)|Visit link for details.|Dec 6, 2024|
- |[USN-7139-1: Apache Shiro vulnerability](https://www.linux.org/threads/usn-7139-1-apache-shiro-vulnerability.54205/)|Visit link for details.|Dec 5, 2024|
- |[USN-7138-1: Ghostscript vulnerabilities](https://www.linux.org/threads/usn-7138-1-ghostscript-vulnerabilities.54204/)|Visit link for details.|Dec 5, 2024|
- |[USN-7137-1: recutils vulnerabilities](https://www.linux.org/threads/usn-7137-1-recutils-vulnerabilities.54178/)|Visit link for details.|Dec 4, 2024|
- |[USN-7136-2: Django vulnerability](https://www.linux.org/threads/usn-7136-2-django-vulnerability.54177/)|Visit link for details.|Dec 4, 2024|
- |[USN-7136-1: Django vulnerabilities](https://www.linux.org/threads/usn-7136-1-django-vulnerabilities.54176/)|Visit link for details.|Dec 4, 2024|
- |[USN-7135-1: HAProxy vulnerability](https://www.linux.org/threads/usn-7135-1-haproxy-vulnerability.54165/)|Visit link for details.|Dec 3, 2024|
- |[USN-7134-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-7134-1-firefox-vulnerabilities.54164/)|Visit link for details.|Dec 3, 2024|
- |[USN-7133-1: HAProxy vulnerability](https://www.linux.org/threads/usn-7133-1-haproxy-vulnerability.54162/)|Visit link for details.|Dec 3, 2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -81,7 +81,7 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
