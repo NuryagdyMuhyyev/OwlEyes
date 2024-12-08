@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/12/2024 19:19:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/12/2024 20:22:30 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,12 +46,6 @@
  |[USN-7133-1: HAProxy vulnerability](https://www.linux.org/threads/usn-7133-1-haproxy-vulnerability.54162/)|Visit link for details.|Dec 3, 2024|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -68,6 +62,18 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241101)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, remote code execution and security restriction bypass on the targeted system. [Updated on 2024-11-05]Updated...| Release Date: 1 Nov 2024 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -81,24 +87,21 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Epic Games Launcher Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1646/)|Visit link for details|2024-12-04|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1645/)|Visit link for details|2024-12-06|
- |[(Pwn2Own) iXsystems TrueNAS fetch_plugin_packagesites tar Cleartext Transmission of Sensitive Information Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1644/)|Visit link for details|2024-12-06|
- |[(Pwn2Own) iXsystems TrueNAS tarfile.extractall Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1643/)|Visit link for details|2024-12-06|
- |[Linux Kernel nftables Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1642/)|Visit link for details|2024-12-03|
- |[Intel Computing Improvement Program PyInstaller Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1641/)|Visit link for details|2024-12-03|
- |[XnSoft XnView Classic RWZ File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1640/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
+ |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
+ |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
+ |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
+ |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
+ |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
+ |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
+ |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
+ |[[Control systems] CISA ICS security advisories (AV24–687)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-687)|Visit link for details|2024-12-02|
+ |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
+ |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
+ |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
  
 
 # EU-CERT
@@ -118,6 +121,21 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51360612/24 - Vulnérabilité critique dans TP-Link Archer AXE75 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-tp-link-archer-axe75)| Une grave vulnérabilité d'exécution de code à distance (RCE) « CVE-2024-53375 » a été identifiée dans le routeur TP-Link Archer AXE75. Cette faille affecte la fonctionnalité…| 06 décembre 2024|
+ |[ 51350512/24 - Vulnérabilités critiques dans SonicWall SMA100 SSL-VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-sonicwall-sma100-ssl-vpn)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de SonicWall SMA100 SSL-VPN. L'exploitation de ces failles peut permettre à un attaquant de causer un…| 05 décembre 2024|
+ |[ 51340512/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-0)| Une vulnérabilité critique a été corrigée dans le bootloader du logiciel Cisco NX-OS. Un attaquant pourrait exploiter cette vulnérabilité en exécutant une série de commandes afin de contourner la…| 05 décembre 2024|
+ |[ 51330512/24 - Vulnérabilité dans SolarWinds Platform ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-platform)| SolarWinds a publié une mise à jour de sécurité corrigeant une vulnérabilité dans SolarWinds Platform. L'exploitation réussie de cette vulnérabilité peut permettre à un attaquant d’injecter du code…| 05 décembre 2024|
+ |[ 51320412/24 - Vulnérabilité dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-google-chrome)| Google a publié des mises à jour de sécurité pour corriger une vulnérabilité affectant Google chrome. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à…| 04 décembre 2024|
+ |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
+ |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
+ |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
+ |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -135,36 +153,18 @@
  |[Synology - CVE-2024-11398](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-11398-2024-12-05)|Visit link for details.|05/12/2024|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 51360612/24 - Vulnérabilité critique dans TP-Link Archer AXE75 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-tp-link-archer-axe75)| Une grave vulnérabilité d'exécution de code à distance (RCE) « CVE-2024-53375 » a été identifiée dans le routeur TP-Link Archer AXE75. Cette faille affecte la fonctionnalité…| 06 décembre 2024|
- |[ 51350512/24 - Vulnérabilités critiques dans SonicWall SMA100 SSL-VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-sonicwall-sma100-ssl-vpn)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de SonicWall SMA100 SSL-VPN. L'exploitation de ces failles peut permettre à un attaquant de causer un…| 05 décembre 2024|
- |[ 51340512/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-0)| Une vulnérabilité critique a été corrigée dans le bootloader du logiciel Cisco NX-OS. Un attaquant pourrait exploiter cette vulnérabilité en exécutant une série de commandes afin de contourner la…| 05 décembre 2024|
- |[ 51330512/24 - Vulnérabilité dans SolarWinds Platform ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-platform)| SolarWinds a publié une mise à jour de sécurité corrigeant une vulnérabilité dans SolarWinds Platform. L'exploitation réussie de cette vulnérabilité peut permettre à un attaquant d’injecter du code…| 05 décembre 2024|
- |[ 51320412/24 - Vulnérabilité dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-google-chrome)| Google a publié des mises à jour de sécurité pour corriger une vulnérabilité affectant Google chrome. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à…| 04 décembre 2024|
- |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
- |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
- |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
- |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
- |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
- |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
- |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
- |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
- |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
- |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
- |[[Control systems] CISA ICS security advisories (AV24–687)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-687)|Visit link for details|2024-12-02|
- |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
- |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
- |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
+ |[Epic Games Launcher Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1646/)|Visit link for details|2024-12-04|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1645/)|Visit link for details|2024-12-06|
+ |[(Pwn2Own) iXsystems TrueNAS fetch_plugin_packagesites tar Cleartext Transmission of Sensitive Information Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1644/)|Visit link for details|2024-12-06|
+ |[(Pwn2Own) iXsystems TrueNAS tarfile.extractall Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1643/)|Visit link for details|2024-12-06|
+ |[Linux Kernel nftables Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1642/)|Visit link for details|2024-12-03|
+ |[Intel Computing Improvement Program PyInstaller Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1641/)|Visit link for details|2024-12-03|
+ |[XnSoft XnView Classic RWZ File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1640/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
  
 
 # US-CERT
