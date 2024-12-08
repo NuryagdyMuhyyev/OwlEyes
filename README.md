@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 08/12/2024 10:20:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 08/12/2024 11:29:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,17 +46,10 @@
  |[USN-7133-1: HAProxy vulnerability](https://www.linux.org/threads/usn-7133-1-haproxy-vulnerability.54162/)|Visit link for details.|Dec 3, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -85,6 +72,19 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -135,21 +135,6 @@
  |[Synology - CVE-2024-11398](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-11398-2024-12-05)|Visit link for details.|05/12/2024|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51360612/24 - Vulnérabilité critique dans TP-Link Archer AXE75 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-tp-link-archer-axe75)| Une grave vulnérabilité d'exécution de code à distance (RCE) « CVE-2024-53375 » a été identifiée dans le routeur TP-Link Archer AXE75. Cette faille affecte la fonctionnalité…| 06 décembre 2024|
- |[ 51350512/24 - Vulnérabilités critiques dans SonicWall SMA100 SSL-VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-sonicwall-sma100-ssl-vpn)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de SonicWall SMA100 SSL-VPN. L'exploitation de ces failles peut permettre à un attaquant de causer un…| 05 décembre 2024|
- |[ 51340512/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-0)| Une vulnérabilité critique a été corrigée dans le bootloader du logiciel Cisco NX-OS. Un attaquant pourrait exploiter cette vulnérabilité en exécutant une série de commandes afin de contourner la…| 05 décembre 2024|
- |[ 51330512/24 - Vulnérabilité dans SolarWinds Platform ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-platform)| SolarWinds a publié une mise à jour de sécurité corrigeant une vulnérabilité dans SolarWinds Platform. L'exploitation réussie de cette vulnérabilité peut permettre à un attaquant d’injecter du code…| 05 décembre 2024|
- |[ 51320412/24 - Vulnérabilité dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-google-chrome)| Google a publié des mises à jour de sécurité pour corriger une vulnérabilité affectant Google chrome. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à…| 04 décembre 2024|
- |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
- |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
- |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
- |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -165,6 +150,21 @@
  |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
  |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
  |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51360612/24 - Vulnérabilité critique dans TP-Link Archer AXE75 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-tp-link-archer-axe75)| Une grave vulnérabilité d'exécution de code à distance (RCE) « CVE-2024-53375 » a été identifiée dans le routeur TP-Link Archer AXE75. Cette faille affecte la fonctionnalité…| 06 décembre 2024|
+ |[ 51350512/24 - Vulnérabilités critiques dans SonicWall SMA100 SSL-VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-sonicwall-sma100-ssl-vpn)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de SonicWall SMA100 SSL-VPN. L'exploitation de ces failles peut permettre à un attaquant de causer un…| 05 décembre 2024|
+ |[ 51340512/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-0)| Une vulnérabilité critique a été corrigée dans le bootloader du logiciel Cisco NX-OS. Un attaquant pourrait exploiter cette vulnérabilité en exécutant une série de commandes afin de contourner la…| 05 décembre 2024|
+ |[ 51330512/24 - Vulnérabilité dans SolarWinds Platform ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-platform)| SolarWinds a publié une mise à jour de sécurité corrigeant une vulnérabilité dans SolarWinds Platform. L'exploitation réussie de cette vulnérabilité peut permettre à un attaquant d’injecter du code…| 05 décembre 2024|
+ |[ 51320412/24 - Vulnérabilité dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-google-chrome)| Google a publié des mises à jour de sécurité pour corriger une vulnérabilité affectant Google chrome. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à…| 04 décembre 2024|
+ |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
+ |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
+ |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
+ |[ 51260212/24 - Vulnérabilité critique dans Ivanti Endpoint Manager Mobile (EPMM) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ivanti-endpoint-manager-mobile-epmm)| Une vulnérabilité critique a été corrigée dans Ivanti Endpoint Manager Mobile (EPMM). L’exploitation de cette faille pourrait permettre à un attaquant local authentifié de modifier des composants…| 02 décembre 2024|
  
 
 # US-CERT
