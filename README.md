@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/12/2024 20:24:41 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/12/2024 21:29:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,19 +52,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[Buffer Over-read in Wireshark (CVE-2024-11596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -87,6 +74,19 @@
  |---|---|---|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sky Addons for Elementor <= 2.6.1 - Authenticated (Contributor+) Sensitive Information Exposure via Content Switcher Widget Elementor Template (CVE-2024-9542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Stratum – Elementor Widgets <= 1.4.4 - Authenticated (Contributor+) Sensitive Information Exposure via Elementor Templates (CVE-2024-10316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Command Injection leading to RCE via LDAP Misconfiguration (CVE-2024-11320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[Easiest Funnel Builder For WordPress & WooCommerce by WPFunnels <= 3.5.5 - Reflected Cross-Site Scripting (CVE-2024-10792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 21, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -101,37 +101,21 @@
  |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[TP-Link - CVE-2024-54126](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-54126-2024-12-06)|Visit link for details.|06/12/2024|
- |[Veeam - CVE-2024-45207](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-45207-2024-12-06)|Visit link for details.|06/12/2024|
- |[SonicWall - CVE-2024-45318](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-45318-2024-12-06)|Visit link for details.|06/12/2024|
- |[Linux / F5 - CVE-2024-41090](https://www.cyberveille-sante.gouv.fr/alertes/linux-f5-cve-2024-41090-2024-12-06)|Visit link for details.|06/12/2024|
- |[Dell - CVE-2024-47476](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47476-2024-12-06)|Visit link for details.|06/12/2024|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|06/12/2024|
- |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|06/12/2024|
- |[Progress WhatsUp Gold - CVE-2024-8785](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-8785-2024-10-02)|Visit link for details.|06/12/2024|
- |[Progress WhatsUp Gold - CVE-2024-46909](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-46909-2024-10-03)|Visit link for details.|06/12/2024|
- |[Veeam Backup & Replication - CVE-2024-42452](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-42452-2024-12-05)|Visit link for details.|05/12/2024|
- |[Synology - CVE-2024-11398](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-11398-2024-12-05)|Visit link for details.|05/12/2024|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51380912/24 - Vulnérabilité critique affectant le plugin «WP Umbrella» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-umbrella-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP Umbrella» pour Wordpress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle…| 09 décembre 2024|
- |[ 51370912/24 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-qnap-2)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités…| 09 décembre 2024|
- |[ 51360612/24 - Vulnérabilité critique dans TP-Link Archer AXE75 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-tp-link-archer-axe75)| Une grave vulnérabilité d'exécution de code à distance (RCE) « CVE-2024-53375 » a été identifiée dans le routeur TP-Link Archer AXE75. Cette faille affecte la fonctionnalité…| 06 décembre 2024|
- |[ 51350512/24 - Vulnérabilités critiques dans SonicWall SMA100 SSL-VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-sonicwall-sma100-ssl-vpn)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de SonicWall SMA100 SSL-VPN. L'exploitation de ces failles peut permettre à un attaquant de causer un…| 05 décembre 2024|
- |[ 51340512/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-0)| Une vulnérabilité critique a été corrigée dans le bootloader du logiciel Cisco NX-OS. Un attaquant pourrait exploiter cette vulnérabilité en exécutant une série de commandes afin de contourner la…| 05 décembre 2024|
- |[ 51330512/24 - Vulnérabilité dans SolarWinds Platform ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-platform)| SolarWinds a publié une mise à jour de sécurité corrigeant une vulnérabilité dans SolarWinds Platform. L'exploitation réussie de cette vulnérabilité peut permettre à un attaquant d’injecter du code…| 05 décembre 2024|
- |[ 51320412/24 - Vulnérabilité dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-google-chrome)| Google a publié des mises à jour de sécurité pour corriger une vulnérabilité affectant Google chrome. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à…| 04 décembre 2024|
- |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
- |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
- |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
+ |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
+ |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
+ |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
+ |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
+ |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
+ |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
+ |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
+ |[[Control systems] CISA ICS security advisories (AV24–687)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-687)|Visit link for details|2024-12-02|
+ |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
+ |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
+ |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
  
 
 # EU-CERT
@@ -151,21 +135,37 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
-# CA-CCS
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
- |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
- |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
- |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
- |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
- |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
- |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
- |[[Control systems] CISA ICS security advisories (AV24–687)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-687)|Visit link for details|2024-12-02|
- |[IBM security advisory (AV24-686)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-686)|Visit link for details|2024-12-02|
- |[Ubuntu security advisory (AV24-685)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-685)|Visit link for details|2024-12-02|
- |[[Control systems] ABB security advisory (AV24-684)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-684)|Visit link for details|2024-11-29|
+ |[ 51380912/24 - Vulnérabilité critique affectant le plugin «WP Umbrella» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-umbrella-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP Umbrella» pour Wordpress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle…| 09 décembre 2024|
+ |[ 51370912/24 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-qnap-2)| QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction  de plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités…| 09 décembre 2024|
+ |[ 51360612/24 - Vulnérabilité critique dans TP-Link Archer AXE75 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-tp-link-archer-axe75)| Une grave vulnérabilité d'exécution de code à distance (RCE) « CVE-2024-53375 » a été identifiée dans le routeur TP-Link Archer AXE75. Cette faille affecte la fonctionnalité…| 06 décembre 2024|
+ |[ 51350512/24 - Vulnérabilités critiques dans SonicWall SMA100 SSL-VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-sonicwall-sma100-ssl-vpn)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de SonicWall SMA100 SSL-VPN. L'exploitation de ces failles peut permettre à un attaquant de causer un…| 05 décembre 2024|
+ |[ 51340512/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-0)| Une vulnérabilité critique a été corrigée dans le bootloader du logiciel Cisco NX-OS. Un attaquant pourrait exploiter cette vulnérabilité en exécutant une série de commandes afin de contourner la…| 05 décembre 2024|
+ |[ 51330512/24 - Vulnérabilité dans SolarWinds Platform ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-solarwinds-platform)| SolarWinds a publié une mise à jour de sécurité corrigeant une vulnérabilité dans SolarWinds Platform. L'exploitation réussie de cette vulnérabilité peut permettre à un attaquant d’injecter du code…| 05 décembre 2024|
+ |[ 51320412/24 - Vulnérabilité dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-google-chrome)| Google a publié des mises à jour de sécurité pour corriger une vulnérabilité affectant Google chrome. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à…| 04 décembre 2024|
+ |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
+ |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
+ |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-Link - CVE-2024-54126](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-54126-2024-12-06)|Visit link for details.|06/12/2024|
+ |[Veeam - CVE-2024-45207](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-45207-2024-12-06)|Visit link for details.|06/12/2024|
+ |[SonicWall - CVE-2024-45318](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-45318-2024-12-06)|Visit link for details.|06/12/2024|
+ |[Linux / F5 - CVE-2024-41090](https://www.cyberveille-sante.gouv.fr/alertes/linux-f5-cve-2024-41090-2024-12-06)|Visit link for details.|06/12/2024|
+ |[Dell - CVE-2024-47476](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47476-2024-12-06)|Visit link for details.|06/12/2024|
+ |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|06/12/2024|
+ |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|06/12/2024|
+ |[Progress WhatsUp Gold - CVE-2024-8785](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-8785-2024-10-02)|Visit link for details.|06/12/2024|
+ |[Progress WhatsUp Gold - CVE-2024-46909](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-46909-2024-10-03)|Visit link for details.|06/12/2024|
+ |[Veeam Backup & Replication - CVE-2024-42452](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-42452-2024-12-05)|Visit link for details.|05/12/2024|
+ |[Synology - CVE-2024-11398](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-11398-2024-12-05)|Visit link for details.|05/12/2024|
  
 
 # US-CERT
