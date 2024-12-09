@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/12/2024 21:29:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/12/2024 22:20:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -155,17 +155,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Siemens Healthineers - CVE-2024-52335](https://www.cyberveille-sante.gouv.fr/alertes/siemens-healthineers-cve-2024-52335-2024-12-09)|Visit link for details.|09/12/2024|
+ |[QNAP - CVE-2024-50388](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50388-2024-12-09)|Visit link for details.|09/12/2024|
+ |[QNAP - CVE-2024-48863](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48863-2024-12-09)|Visit link for details.|09/12/2024|
+ |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|09/12/2024|
+ |[IBM - CVE-2024-47115](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-47115-2024-12-09)|Visit link for details.|09/12/2024|
+ |[Google Chrome - CVE-2024-12053](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12053-2024-12-04)|Visit link for details.|09/12/2024|
+ |[TP-Link - CVE-2024-53375](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-53375-2024-12-03)|Visit link for details.|09/12/2024|
  |[TP-Link - CVE-2024-54126](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-54126-2024-12-06)|Visit link for details.|06/12/2024|
  |[Veeam - CVE-2024-45207](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-45207-2024-12-06)|Visit link for details.|06/12/2024|
  |[SonicWall - CVE-2024-45318](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-45318-2024-12-06)|Visit link for details.|06/12/2024|
  |[Linux / F5 - CVE-2024-41090](https://www.cyberveille-sante.gouv.fr/alertes/linux-f5-cve-2024-41090-2024-12-06)|Visit link for details.|06/12/2024|
- |[Dell - CVE-2024-47476](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47476-2024-12-06)|Visit link for details.|06/12/2024|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|06/12/2024|
- |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|06/12/2024|
- |[Progress WhatsUp Gold - CVE-2024-8785](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-8785-2024-10-02)|Visit link for details.|06/12/2024|
- |[Progress WhatsUp Gold - CVE-2024-46909](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-46909-2024-10-03)|Visit link for details.|06/12/2024|
- |[Veeam Backup & Replication - CVE-2024-42452](https://www.cyberveille-sante.gouv.fr/alertes/veeam-backup-replication-cve-2024-42452-2024-12-05)|Visit link for details.|05/12/2024|
- |[Synology - CVE-2024-11398](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-11398-2024-12-05)|Visit link for details.|05/12/2024|
  
 
 # US-CERT
