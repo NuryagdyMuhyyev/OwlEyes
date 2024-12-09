@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 09/12/2024 18:32:00 UTC+5 (Asia/Ashgabat)
+ > Last Updated 09/12/2024 19:21:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,12 @@
  |[USN-7134-1: Firefox vulnerabilities](https://www.linux.org/threads/usn-7134-1-firefox-vulnerabilities.54164/)|Visit link for details.|Dec 3, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -76,12 +82,6 @@
  
 
 # OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
