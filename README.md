@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/12/2024 17:47:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/12/2024 18:31:49 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,6 +52,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -68,20 +74,14 @@
  |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and denial of service on the targeted system.|Release Date: 28 Nov 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress Open edX LMS plugin <= 2.6.1 - Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-52452)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 2, 2024|
- |[WordPress Library Bookshelves plugin <= 5.8 - Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-52453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 2, 2024|
- |[hv_sock: Initializing vsk->trans to NULL to prevent a dangling pointer (CVE-2024-53103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 2, 2024|
- |[WordPress Multilevel Referral Affiliate Plugin for WooCommerce plugin <= 2.27 - Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-53742)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 1, 2024|
+ |[Slider & Popup Builder by Depicter – Add Image Slider, Carousel Slider, Exit Intent Popup, Popup Modal, Coupon Popup, Post Slider Carousel <= 3.2.1- Authenticated (Author+) Stored Cross-Site Scripting (CVE-2024-4633)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2024|
+ |[Swift Performance Lite <= 2.3.7.1 - Unauthenticated Local PHP File Inclusion via 'ajaxify' (CVE-2024-10516)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2024|
+ |[Reflected XSS in Hi e-learning's Learning Management System (LMS) (CVE-2024-11321)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 6, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
