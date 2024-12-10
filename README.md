@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/12/2024 12:24:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/12/2024 13:30:06 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -65,12 +65,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -87,6 +81,12 @@
  |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and denial of service on the targeted system.|Release Date: 28 Nov 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -101,21 +101,21 @@
  |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Drupal security advisory (AV24-698)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-698)|Visit link for details|2024-12-09|
- |[[Control systems] CISA ICS security advisories (AV24–697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-697)|Visit link for details|2024-12-09|
- |[Dell security advisory (AV24-696)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-696)|Visit link for details|2024-12-09|
- |[IBM security advisory (AV24-695)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-695)|Visit link for details|2024-12-09|
- |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
- |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
- |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
- |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
- |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
- |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
- |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
+ |[Siemens Healthineers - CVE-2024-52335](https://www.cyberveille-sante.gouv.fr/alertes/siemens-healthineers-cve-2024-52335-2024-12-09)|Visit link for details.|09/12/2024|
+ |[QNAP - CVE-2024-50388](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50388-2024-12-09)|Visit link for details.|09/12/2024|
+ |[QNAP - CVE-2024-48863](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48863-2024-12-09)|Visit link for details.|09/12/2024|
+ |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|09/12/2024|
+ |[IBM - CVE-2024-47115](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-47115-2024-12-09)|Visit link for details.|09/12/2024|
+ |[Google Chrome - CVE-2024-12053](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12053-2024-12-04)|Visit link for details.|09/12/2024|
+ |[TP-Link - CVE-2024-53375](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-53375-2024-12-03)|Visit link for details.|09/12/2024|
+ |[TP-Link - CVE-2024-54126](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-54126-2024-12-06)|Visit link for details.|06/12/2024|
+ |[Veeam - CVE-2024-45207](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-45207-2024-12-06)|Visit link for details.|06/12/2024|
+ |[SonicWall - CVE-2024-45318](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-45318-2024-12-06)|Visit link for details.|06/12/2024|
+ |[Linux / F5 - CVE-2024-41090](https://www.cyberveille-sante.gouv.fr/alertes/linux-f5-cve-2024-41090-2024-12-06)|Visit link for details.|06/12/2024|
  
 
 # EU-CERT
@@ -135,6 +135,23 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Drupal security advisory (AV24-698)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-698)|Visit link for details|2024-12-09|
+ |[[Control systems] CISA ICS security advisories (AV24–697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-697)|Visit link for details|2024-12-09|
+ |[Dell security advisory (AV24-696)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-696)|Visit link for details|2024-12-09|
+ |[IBM security advisory (AV24-695)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-695)|Visit link for details|2024-12-09|
+ |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
+ |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
+ |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
+ |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
+ |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
+ |[Zyxel security advisory (AV24-689)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av24-689)|Visit link for details|2024-12-02|
+ |[Trellix security advisory (AV24-688)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av24-688)|Visit link for details|2024-12-02|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -149,23 +166,6 @@
  |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
  |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
  |[ 51280312/24 - Vulnérabilités critiques dans Google Android ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-android-0)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les appareils Android. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non…| 03 décembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Healthineers - CVE-2024-52335](https://www.cyberveille-sante.gouv.fr/alertes/siemens-healthineers-cve-2024-52335-2024-12-09)|Visit link for details.|09/12/2024|
- |[QNAP - CVE-2024-50388](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50388-2024-12-09)|Visit link for details.|09/12/2024|
- |[QNAP - CVE-2024-48863](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48863-2024-12-09)|Visit link for details.|09/12/2024|
- |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|09/12/2024|
- |[IBM - CVE-2024-47115](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-47115-2024-12-09)|Visit link for details.|09/12/2024|
- |[Google Chrome - CVE-2024-12053](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12053-2024-12-04)|Visit link for details.|09/12/2024|
- |[TP-Link - CVE-2024-53375](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-53375-2024-12-03)|Visit link for details.|09/12/2024|
- |[TP-Link - CVE-2024-54126](https://www.cyberveille-sante.gouv.fr/alertes/tp-link-cve-2024-54126-2024-12-06)|Visit link for details.|06/12/2024|
- |[Veeam - CVE-2024-45207](https://www.cyberveille-sante.gouv.fr/alertes/veeam-cve-2024-45207-2024-12-06)|Visit link for details.|06/12/2024|
- |[SonicWall - CVE-2024-45318](https://www.cyberveille-sante.gouv.fr/alertes/sonicwall-cve-2024-45318-2024-12-06)|Visit link for details.|06/12/2024|
- |[Linux / F5 - CVE-2024-41090](https://www.cyberveille-sante.gouv.fr/alertes/linux-f5-cve-2024-41090-2024-12-06)|Visit link for details.|06/12/2024|
  
 
 # US-CERT
