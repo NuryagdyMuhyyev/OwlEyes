@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 10/12/2024 21:29:49 UTC+5 (Asia/Ashgabat)
+ > Last Updated 10/12/2024 22:19:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -87,6 +87,20 @@
  |---|---|---|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Epic Games Launcher Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1646/)|Visit link for details|2024-12-04|
+ |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1645/)|Visit link for details|2024-12-06|
+ |[(Pwn2Own) iXsystems TrueNAS fetch_plugin_packagesites tar Cleartext Transmission of Sensitive Information Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1644/)|Visit link for details|2024-12-06|
+ |[(Pwn2Own) iXsystems TrueNAS tarfile.extractall Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1643/)|Visit link for details|2024-12-06|
+ |[Linux Kernel nftables Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1642/)|Visit link for details|2024-12-03|
+ |[Intel Computing Improvement Program PyInstaller Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1641/)|Visit link for details|2024-12-03|
+ |[XnSoft XnView Classic RWZ File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1640/)|Visit link for details|2024-12-02|
+ |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -121,18 +135,21 @@
  |[2024-108: Palo Alto Critical Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-108/)|Palo Alto Networks has disclosed multiple critical vulnerabilities in its Expedition tool that can lead to unauthorised access to firewall credentials and sensitive data, including usernames, passwords, and API keys. The vulnerabilities allow attackers to execute arbitrary commands, read or write files, and exploit SQL injection flaws. Successful exploitation could result in a full takeover of affected systems.|Friday, October 11, 2024 10:22:58 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Epic Games Launcher Incorrect Default Permissions Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1646/)|Visit link for details|2024-12-04|
- |[Progress Software WhatsUp Gold WriteDataFile Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1645/)|Visit link for details|2024-12-06|
- |[(Pwn2Own) iXsystems TrueNAS fetch_plugin_packagesites tar Cleartext Transmission of Sensitive Information Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1644/)|Visit link for details|2024-12-06|
- |[(Pwn2Own) iXsystems TrueNAS tarfile.extractall Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1643/)|Visit link for details|2024-12-06|
- |[Linux Kernel nftables Type Confusion Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1642/)|Visit link for details|2024-12-03|
- |[Intel Computing Improvement Program PyInstaller Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1641/)|Visit link for details|2024-12-03|
- |[XnSoft XnView Classic RWZ File Parsing Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1640/)|Visit link for details|2024-12-02|
- |[Hewlett Packard Enterprise Insight Remote Support processAtatchmentDataStream Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1639/)|Visit link for details|2024-12-02|
+ |[Dell - CVE-2024-37143](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37143-2024-12-10)|Visit link for details.|10/12/2024|
+ |[SAP - CVE-2024-47578](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47578-2024-12-10)|Visit link for details.|10/12/2024|
+ |[WordPress WPForms - CVE-2024-11205](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2024-11205-2024-12-10)|Visit link for details.|10/12/2024|
+ |[SAP - CVE-2024-54198](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54198-2024-12-10)|Visit link for details.|10/12/2024|
+ |[QNAP - CVE-2024-50393](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50393-2024-12-10)|Visit link for details.|10/12/2024|
+ |[Siemens Healthineers - CVE-2024-52335](https://www.cyberveille-sante.gouv.fr/alertes/siemens-healthineers-cve-2024-52335-2024-12-09)|Visit link for details.|09/12/2024|
+ |[QNAP - CVE-2024-50388](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50388-2024-12-09)|Visit link for details.|09/12/2024|
+ |[QNAP - CVE-2024-48863](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48863-2024-12-09)|Visit link for details.|09/12/2024|
+ |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|09/12/2024|
+ |[IBM - CVE-2024-47115](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-47115-2024-12-09)|Visit link for details.|09/12/2024|
+ |[Google Chrome - CVE-2024-12053](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12053-2024-12-04)|Visit link for details.|09/12/2024|
  
 
 # MA-CERT
@@ -150,23 +167,6 @@
  |[ 51320412/24 - Vulnérabilité dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-google-chrome)| Google a publié des mises à jour de sécurité pour corriger une vulnérabilité affectant Google chrome. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à…| 04 décembre 2024|
  |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
  |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell - CVE-2024-37143](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37143-2024-12-10)|Visit link for details.|10/12/2024|
- |[SAP - CVE-2024-47578](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47578-2024-12-10)|Visit link for details.|10/12/2024|
- |[WordPress WPForms - CVE-2024-11205](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2024-11205-2024-12-10)|Visit link for details.|10/12/2024|
- |[SAP - CVE-2024-54198](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54198-2024-12-10)|Visit link for details.|10/12/2024|
- |[QNAP - CVE-2024-50393](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50393-2024-12-10)|Visit link for details.|10/12/2024|
- |[Siemens Healthineers - CVE-2024-52335](https://www.cyberveille-sante.gouv.fr/alertes/siemens-healthineers-cve-2024-52335-2024-12-09)|Visit link for details.|09/12/2024|
- |[QNAP - CVE-2024-50388](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50388-2024-12-09)|Visit link for details.|09/12/2024|
- |[QNAP - CVE-2024-48863](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-48863-2024-12-09)|Visit link for details.|09/12/2024|
- |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|09/12/2024|
- |[IBM - CVE-2024-47115](https://www.cyberveille-sante.gouv.fr/alertes/ibm-cve-2024-47115-2024-12-09)|Visit link for details.|09/12/2024|
- |[Google Chrome - CVE-2024-12053](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12053-2024-12-04)|Visit link for details.|09/12/2024|
  
 
 # US-CERT
