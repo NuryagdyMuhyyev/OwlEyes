@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/12/2024 17:45:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/12/2024 18:31:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,12 @@
  |[USN-7142-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7142-1-webkitgtk-vulnerabilities.54281/)|Visit link for details.|Dec 9, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -79,43 +85,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1655/)|Visit link for details|2024-12-10|
- |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1654/)|Visit link for details|2024-12-10|
- |[Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1653/)|Visit link for details|2024-12-10|
- |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1652/)|Visit link for details|2024-12-10|
- |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1651/)|Visit link for details|2024-12-10|
- |[Rockwell Automation Arena Simulation DOE File Parsing Use of Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1650/)|Visit link for details|2024-12-10|
- |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1649/)|Visit link for details|2024-12-10|
- |[Linux Kernel Bluetooth HCI Request Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1648/)|Visit link for details|2024-12-10|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Siemens security advisory (AV24-700)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-700)|Visit link for details|2024-12-10|
- |[SAP security advisory – December 2024 monthly rollup (AV24-699)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2024-monthly-rollup-av24-699)|Visit link for details|2024-12-10|
- |[Drupal security advisory (AV24-698)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-698)|Visit link for details|2024-12-09|
- |[[Control systems] CISA ICS security advisories (AV24–697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-697)|Visit link for details|2024-12-09|
- |[Dell security advisory (AV24-696)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-696)|Visit link for details|2024-12-09|
- |[IBM security advisory (AV24-695)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-695)|Visit link for details|2024-12-09|
- |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
- |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
- |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
- |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
- |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
  
 
 # EU-CERT
@@ -167,6 +136,37 @@
  |[ 51360612/24 - Vulnérabilité critique dans TP-Link Archer AXE75 ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-tp-link-archer-axe75)| Une grave vulnérabilité d'exécution de code à distance (RCE) « CVE-2024-53375 » a été identifiée dans le routeur TP-Link Archer AXE75. Cette faille affecte la fonctionnalité…| 06 décembre 2024|
  |[ 51350512/24 - Vulnérabilités critiques dans SonicWall SMA100 SSL-VPN ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-sonicwall-sma100-ssl-vpn)| Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de SonicWall SMA100 SSL-VPN. L'exploitation de ces failles peut permettre à un attaquant de causer un…| 05 décembre 2024|
  |[ 51340512/24 - Vulnérabilité critique dans les produits Cisco ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-cisco-0)| Une vulnérabilité critique a été corrigée dans le bootloader du logiciel Cisco NX-OS. Un attaquant pourrait exploiter cette vulnérabilité en exécutant une série de commandes afin de contourner la…| 05 décembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Siemens security advisory (AV24-700)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-700)|Visit link for details|2024-12-10|
+ |[SAP security advisory – December 2024 monthly rollup (AV24-699)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2024-monthly-rollup-av24-699)|Visit link for details|2024-12-10|
+ |[Drupal security advisory (AV24-698)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-698)|Visit link for details|2024-12-09|
+ |[[Control systems] CISA ICS security advisories (AV24–697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-697)|Visit link for details|2024-12-09|
+ |[Dell security advisory (AV24-696)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-696)|Visit link for details|2024-12-09|
+ |[IBM security advisory (AV24-695)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-695)|Visit link for details|2024-12-09|
+ |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
+ |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
+ |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
+ |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
+ |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1655/)|Visit link for details|2024-12-10|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1654/)|Visit link for details|2024-12-10|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1653/)|Visit link for details|2024-12-10|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1652/)|Visit link for details|2024-12-10|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1651/)|Visit link for details|2024-12-10|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Use of Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1650/)|Visit link for details|2024-12-10|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1649/)|Visit link for details|2024-12-10|
+ |[Linux Kernel Bluetooth HCI Request Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1648/)|Visit link for details|2024-12-10|
  
 
 # US-CERT
