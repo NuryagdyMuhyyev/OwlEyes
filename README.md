@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/12/2024 13:30:20 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/12/2024 14:24:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7149-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7149-1-intel-microcode-vulnerabilities.54317/)|Visit link for details.|Dec 11, 2024|
+ |[DSA-5827-1 proftpd-dfsg - security update](https://www.linux.org/threads/dsa-5827-1-proftpd-dfsg-security-update.54316/)|Visit link for details.|Dec 11, 2024|
+ |[USN-7148-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7148-1-linux-kernel-vulnerabilities.54311/)|Visit link for details.|Dec 11, 2024|
+ |[DSA-5826-1 smarty3 - security update](https://www.linux.org/threads/dsa-5826-1-smarty3-security-update.54310/)|Visit link for details.|Dec 10, 2024|
+ |[USN-7147-1: Apache Shiro vulnerabilities](https://www.linux.org/threads/usn-7147-1-apache-shiro-vulnerabilities.54307/)|Visit link for details.|Dec 10, 2024|
+ |[USN-7145-1: Expat vulnerability](https://www.linux.org/threads/usn-7145-1-expat-vulnerability.54306/)|Visit link for details.|Dec 10, 2024|
+ |[USN-7146-1: Dogtag PKI vulnerabilities](https://www.linux.org/threads/usn-7146-1-dogtag-pki-vulnerabilities.54297/)|Visit link for details.|Dec 10, 2024|
+ |[USN-7141-1: oFono vulnerabilities](https://www.linux.org/threads/usn-7141-1-ofono-vulnerabilities.54287/)|Visit link for details.|Dec 10, 2024|
+ |[USN-7144-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-7144-1-linux-kernel-intel-iotg-vulnerabilities.54283/)|Visit link for details.|Dec 9, 2024|
+ |[USN-7143-1: RabbitMQ Server vulnerabilities](https://www.linux.org/threads/usn-7143-1-rabbitmq-server-vulnerabilities.54282/)|Visit link for details.|Dec 9, 2024|
+ |[USN-7142-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7142-1-webkitgtk-vulnerabilities.54281/)|Visit link for details.|Dec 9, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 3 Dec 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7149-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7149-1-intel-microcode-vulnerabilities.54317/)|Visit link for details.|Dec 11, 2024|
- |[DSA-5827-1 proftpd-dfsg - security update](https://www.linux.org/threads/dsa-5827-1-proftpd-dfsg-security-update.54316/)|Visit link for details.|Dec 11, 2024|
- |[USN-7148-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7148-1-linux-kernel-vulnerabilities.54311/)|Visit link for details.|Dec 11, 2024|
- |[DSA-5826-1 smarty3 - security update](https://www.linux.org/threads/dsa-5826-1-smarty3-security-update.54310/)|Visit link for details.|Dec 10, 2024|
- |[USN-7147-1: Apache Shiro vulnerabilities](https://www.linux.org/threads/usn-7147-1-apache-shiro-vulnerabilities.54307/)|Visit link for details.|Dec 10, 2024|
- |[USN-7145-1: Expat vulnerability](https://www.linux.org/threads/usn-7145-1-expat-vulnerability.54306/)|Visit link for details.|Dec 10, 2024|
- |[USN-7146-1: Dogtag PKI vulnerabilities](https://www.linux.org/threads/usn-7146-1-dogtag-pki-vulnerabilities.54297/)|Visit link for details.|Dec 10, 2024|
- |[USN-7141-1: oFono vulnerabilities](https://www.linux.org/threads/usn-7141-1-ofono-vulnerabilities.54287/)|Visit link for details.|Dec 10, 2024|
- |[USN-7144-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-7144-1-linux-kernel-intel-iotg-vulnerabilities.54283/)|Visit link for details.|Dec 9, 2024|
- |[USN-7143-1: RabbitMQ Server vulnerabilities](https://www.linux.org/threads/usn-7143-1-rabbitmq-server-vulnerabilities.54282/)|Visit link for details.|Dec 9, 2024|
- |[USN-7142-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7142-1-webkitgtk-vulnerabilities.54281/)|Visit link for details.|Dec 9, 2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -76,7 +76,7 @@
  |[CVE-2024-11772 (CVE-2024-11772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
  |[CVE-2024-11639 (CVE-2024-11639)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
  |[CVE-2024-7572 (CVE-2024-7572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[CVE-2024-8540 (CVE-2024-8540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -99,23 +99,6 @@
  |[Rockwell Automation Arena Simulation DOE File Parsing Use of Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1650/)|Visit link for details|2024-12-10|
  |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1649/)|Visit link for details|2024-12-10|
  |[Linux Kernel Bluetooth HCI Request Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1648/)|Visit link for details|2024-12-10|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Siemens security advisory (AV24-700)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-700)|Visit link for details|2024-12-10|
- |[SAP security advisory – December 2024 monthly rollup (AV24-699)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2024-monthly-rollup-av24-699)|Visit link for details|2024-12-10|
- |[Drupal security advisory (AV24-698)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-698)|Visit link for details|2024-12-09|
- |[[Control systems] CISA ICS security advisories (AV24–697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-697)|Visit link for details|2024-12-09|
- |[Dell security advisory (AV24-696)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-696)|Visit link for details|2024-12-09|
- |[IBM security advisory (AV24-695)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-695)|Visit link for details|2024-12-09|
- |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
- |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
- |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
- |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
- |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
  
 
 # EU-CERT
@@ -167,6 +150,23 @@
  |[ 51320412/24 - Vulnérabilité dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-google-chrome)| Google a publié des mises à jour de sécurité pour corriger une vulnérabilité affectant Google chrome. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à…| 04 décembre 2024|
  |[ 51310412/24 - Vulnérabilité critique dans Cisco Adaptive Security Appliance (ASA) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-cisco-adaptive-security-appliance-asa)| Une vulnérabilité critique a été corrigée dans Cisco Adaptive Security Appliance (ASA). Un attaquant pourrait exploiter cette vulnérabilité en convainquant un utilisateur d'accéder à un lien…| 04 décembre 2024|
  |[ 51300412/24 - Vulnérabilités critiques dans Veeam Service Provider Console ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-veeam-service-provider-console)| Deux vulnérabilités critiques ont été corrigées dans Veeam Service Provider Console (VSPC). Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de contourner la…| 04 décembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Siemens security advisory (AV24-700)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-700)|Visit link for details|2024-12-10|
+ |[SAP security advisory – December 2024 monthly rollup (AV24-699)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2024-monthly-rollup-av24-699)|Visit link for details|2024-12-10|
+ |[Drupal security advisory (AV24-698)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-698)|Visit link for details|2024-12-09|
+ |[[Control systems] CISA ICS security advisories (AV24–697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-697)|Visit link for details|2024-12-09|
+ |[Dell security advisory (AV24-696)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-696)|Visit link for details|2024-12-09|
+ |[IBM security advisory (AV24-695)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-695)|Visit link for details|2024-12-09|
+ |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
+ |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
+ |[Veeam security advisory (AV24-692)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av24-692)|Visit link for details|2024-12-04|
+ |[Google Chrome security advisory (AV24-691)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-691)|Visit link for details|2024-12-04|
+ |[Android security advisory – December 2024 Monthly Rollup (AV24-690)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-december-2024-monthly-rollup-av24-690)|Visit link for details|2024-12-02|
  
 
 # US-CERT
