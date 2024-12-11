@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/12/2024 23:31:58 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/12/2024 00:18:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,12 +50,6 @@
  |[USN-7141-1: oFono vulnerabilities](https://www.linux.org/threads/usn-7141-1-ofono-vulnerabilities.54287/)|Visit link for details.|Dec 10, 2024|
  |[USN-7144-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-7144-1-linux-kernel-intel-iotg-vulnerabilities.54283/)|Visit link for details.|Dec 9, 2024|
  |[USN-7143-1: RabbitMQ Server vulnerabilities](https://www.linux.org/threads/usn-7143-1-rabbitmq-server-vulnerabilities.54282/)|Visit link for details.|Dec 9, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -91,6 +91,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[GitLab security advisory (AV24-706)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-706)|Visit link for details|2024-12-11|
+ |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
+ |[Ivanti security advisory (AV24-704)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-704)|Visit link for details|2024-12-11|
  |[Google Chrome security advisory (AV24-703)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-703)|Visit link for details|2024-12-11|
  |[Adobe security advisory (AV24–702)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-702)|Visit link for details|2024-12-11|
  |[Microsoft security advisory – December 2024 monthly rollup (AV24–701)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2024-monthly-rollup-av24-701)|Visit link for details|2024-12-11|
@@ -99,9 +102,6 @@
  |[Drupal security advisory (AV24-698)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-698)|Visit link for details|2024-12-09|
  |[[Control systems] CISA ICS security advisories (AV24–697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-697)|Visit link for details|2024-12-09|
  |[Dell security advisory (AV24-696)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-696)|Visit link for details|2024-12-09|
- |[IBM security advisory (AV24-695)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-695)|Visit link for details|2024-12-09|
- |[Microsoft Edge security advisory (AV24-694)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-694)|Visit link for details|2024-12-06|
- |[SonicWall security advisory (AV24-693)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av24-693)|Visit link for details|2024-12-05|
  
 
 # EU-CERT
@@ -135,23 +135,6 @@
  |[Veritas Enterprise Vault Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1665/)|Visit link for details|2024-12-11|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
- |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
- |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
- |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
- |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
- |[ 51431112/24 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Windows. Une de ces vulnérabilités, identifiée par   …| 11 décembre 2024|
- |[ 51421112/24 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut …| 11 décembre 2024|
- |[ 51411112/22 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
- |[ 51401012/24 - Vulnérabilité affectant le plugin «WPForms» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wpforms-pour-wordpress)| Une vulnérabilité affectant le plugin « WPForms» pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner des mesures de sécurité.| 10 décembre 2024|
- |[ 51391012/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-16)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 décembre 2024|
- |[ 51380912/24 - Vulnérabilité critique affectant le plugin «WP Umbrella» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-umbrella-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP Umbrella» pour Wordpress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle…| 09 décembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -167,6 +150,23 @@
  |[WordPress WPForms - CVE-2024-11205](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2024-11205-2024-12-10)|Visit link for details.|10/12/2024|
  |[SAP - CVE-2024-54198](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54198-2024-12-10)|Visit link for details.|10/12/2024|
  |[QNAP - CVE-2024-50393](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50393-2024-12-10)|Visit link for details.|10/12/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
+ |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
+ |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
+ |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
+ |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
+ |[ 51431112/24 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Windows. Une de ces vulnérabilités, identifiée par   …| 11 décembre 2024|
+ |[ 51421112/24 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut …| 11 décembre 2024|
+ |[ 51411112/22 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
+ |[ 51401012/24 - Vulnérabilité affectant le plugin «WPForms» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wpforms-pour-wordpress)| Une vulnérabilité affectant le plugin « WPForms» pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner des mesures de sécurité.| 10 décembre 2024|
+ |[ 51391012/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-16)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 décembre 2024|
+ |[ 51380912/24 - Vulnérabilité critique affectant le plugin «WP Umbrella» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-umbrella-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP Umbrella» pour Wordpress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle…| 09 décembre 2024|
  
 
 # US-CERT
