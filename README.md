@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 11/12/2024 04:21:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 11/12/2024 06:49:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7148-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7148-1-linux-kernel-vulnerabilities.54311/)|Visit link for details.|Dec 11, 2024|
+ |[DSA-5826-1 smarty3 - security update](https://www.linux.org/threads/dsa-5826-1-smarty3-security-update.54310/)|Visit link for details.|Dec 10, 2024|
  |[USN-7147-1: Apache Shiro vulnerabilities](https://www.linux.org/threads/usn-7147-1-apache-shiro-vulnerabilities.54307/)|Visit link for details.|Dec 10, 2024|
  |[USN-7145-1: Expat vulnerability](https://www.linux.org/threads/usn-7145-1-expat-vulnerability.54306/)|Visit link for details.|Dec 10, 2024|
  |[USN-7146-1: Dogtag PKI vulnerabilities](https://www.linux.org/threads/usn-7146-1-dogtag-pki-vulnerabilities.54297/)|Visit link for details.|Dec 10, 2024|
@@ -42,8 +44,12 @@
  |[USN-7142-1: WebKitGTK vulnerabilities](https://www.linux.org/threads/usn-7142-1-webkitgtk-vulnerabilities.54281/)|Visit link for details.|Dec 9, 2024|
  |[USN-7140-1: Tinyproxy vulnerability](https://www.linux.org/threads/usn-7140-1-tinyproxy-vulnerability.54269/)|Visit link for details.|Dec 9, 2024|
  |[DSA-5825-1 ceph - security update](https://www.linux.org/threads/dsa-5825-1-ceph-security-update.54228/)|Visit link for details.|Dec 6, 2024|
- |[DSA-5824-1 chromium - security update](https://www.linux.org/threads/dsa-5824-1-chromium-security-update.54227/)|Visit link for details.|Dec 6, 2024|
- |[USN-7117-3: needrestart regression](https://www.linux.org/threads/usn-7117-3-needrestart-regression.54215/)|Visit link for details.|Dec 6, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
@@ -68,20 +74,14 @@
  |[Jenkins Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20241128)|Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, cross-site scripting and denial of service on the targeted system.|Release Date: 28 Nov 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Property Hive Mortgage Calculator <= 1.0.6 - Authenticated (Contributor+) Stored Cross-Site Scripting via price Parameter (CVE-2024-11940)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[SolarWinds Web Help Desk Local File Read Vulnerability (CVE-2024-45709)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[System Dashboard < 2.8.15 - Admin+ Path Traversal (CVE-2024-10708)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[CVE-2024-21542 (CVE-2024-21542)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
+ |[CVE-2024-11773 (CVE-2024-11773)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
+ |[CVE-2024-11772 (CVE-2024-11772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
+ |[CVE-2024-11639 (CVE-2024-11639)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
+ |[CVE-2024-7572 (CVE-2024-7572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
