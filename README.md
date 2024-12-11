@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/12/2024 00:18:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/12/2024 01:25:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,6 +44,18 @@
  |[USN-7141-1: oFono vulnerabilities](https://www.linux.org/threads/usn-7141-1-ofono-vulnerabilities.54287/)|Visit link for details.|Dec 10, 2024|
  |[USN-7144-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-7144-1-linux-kernel-intel-iotg-vulnerabilities.54283/)|Visit link for details.|Dec 9, 2024|
  |[USN-7143-1: RabbitMQ Server vulnerabilities](https://www.linux.org/threads/usn-7143-1-rabbitmq-server-vulnerabilities.54282/)|Visit link for details.|Dec 9, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -68,12 +74,6 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege and remote code execution on the targeted system.|Release Date: 3 Dec 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -87,21 +87,18 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[GitLab security advisory (AV24-706)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-706)|Visit link for details|2024-12-11|
- |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
- |[Ivanti security advisory (AV24-704)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-704)|Visit link for details|2024-12-11|
- |[Google Chrome security advisory (AV24-703)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-703)|Visit link for details|2024-12-11|
- |[Adobe security advisory (AV24–702)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-702)|Visit link for details|2024-12-11|
- |[Microsoft security advisory – December 2024 monthly rollup (AV24–701)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2024-monthly-rollup-av24-701)|Visit link for details|2024-12-11|
- |[[Control systems] Siemens security advisory (AV24-700)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-700)|Visit link for details|2024-12-10|
- |[SAP security advisory – December 2024 monthly rollup (AV24-699)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2024-monthly-rollup-av24-699)|Visit link for details|2024-12-10|
- |[Drupal security advisory (AV24-698)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-698)|Visit link for details|2024-12-09|
- |[[Control systems] CISA ICS security advisories (AV24–697)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-697)|Visit link for details|2024-12-09|
- |[Dell security advisory (AV24-696)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-696)|Visit link for details|2024-12-09|
+ |[ManageEngine Analytics Plus getOAToken Exposed Dangerous Method Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1676/)|Visit link for details|2024-12-11|
+ |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1675/)|Visit link for details|2024-12-11|
+ |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1674/)|Visit link for details|2024-12-11|
+ |[AutomationDirect C-More EA9 EAP9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1673/)|Visit link for details|2024-12-11|
+ |[GFI Archiver Store Service Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1672/)|Visit link for details|2024-12-11|
+ |[GFI Archiver Telerik Web UI Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1671/)|Visit link for details|2024-12-11|
+ |[GFI Archiver Core Service Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1670/)|Visit link for details|2024-12-11|
+ |[Veritas Enterprise Vault MonitoringMiddleTier Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1669/)|Visit link for details|2024-12-11|
  
 
 # EU-CERT
@@ -121,35 +118,21 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[GFI Archiver Store Service Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1672/)|Visit link for details|2024-12-11|
- |[GFI Archiver Telerik Web UI Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1671/)|Visit link for details|2024-12-11|
- |[GFI Archiver Core Service Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1670/)|Visit link for details|2024-12-11|
- |[Veritas Enterprise Vault MonitoringMiddleTier Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1669/)|Visit link for details|2024-12-11|
- |[Veritas Enterprise Vault Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1668/)|Visit link for details|2024-12-11|
- |[Veritas Enterprise Vault Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1667/)|Visit link for details|2024-12-11|
- |[Veritas Enterprise Vault Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1666/)|Visit link for details|2024-12-11|
- |[Veritas Enterprise Vault Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1665/)|Visit link for details|2024-12-11|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2024-49138](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49138-2024-12-11)|Visit link for details.|11/12/2024|
- |[Microsoft - CVE-2024-49117](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49117-2024-12-11)|Visit link for details.|11/12/2024|
- |[Microsoft - CVE-2024-49112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49112-2024-12-11)|Visit link for details.|11/12/2024|
- |[Ivanti - CVE-2024-11633](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11633-2024-12-11)|Visit link for details.|11/12/2024|
- |[Ivanti - CVE-2024-11639](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11639-2024-12-11)|Visit link for details.|11/12/2024|
- |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|11/12/2024|
- |[Dell - CVE-2024-37143](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37143-2024-12-10)|Visit link for details.|10/12/2024|
- |[SAP - CVE-2024-47578](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47578-2024-12-10)|Visit link for details.|10/12/2024|
- |[WordPress WPForms - CVE-2024-11205](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2024-11205-2024-12-10)|Visit link for details.|10/12/2024|
- |[SAP - CVE-2024-54198](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54198-2024-12-10)|Visit link for details.|10/12/2024|
- |[QNAP - CVE-2024-50393](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50393-2024-12-10)|Visit link for details.|10/12/2024|
+ |[[Control systems] Schneider Electric security advisory (AV24-707)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-707)|Visit link for details|2024-12-11|
+ |[GitLab security advisory (AV24-706)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-706)|Visit link for details|2024-12-11|
+ |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
+ |[Ivanti security advisory (AV24-704)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-704)|Visit link for details|2024-12-11|
+ |[Vulnerability impacting all versions of Cleo VLTrader, Harmony, and LexiCom software](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-all-versions-cleo-vltrader-harmony-and-lexicom-software)|Visit link for details|2024-12-11|
+ |[Google Chrome security advisory (AV24-703)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-703)|Visit link for details|2024-12-11|
+ |[Adobe security advisory (AV24–702)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-702)|Visit link for details|2024-12-11|
+ |[Microsoft security advisory – December 2024 monthly rollup (AV24–701)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2024-monthly-rollup-av24-701)|Visit link for details|2024-12-11|
+ |[[Control systems] Siemens security advisory (AV24-700)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-700)|Visit link for details|2024-12-10|
+ |[SAP security advisory – December 2024 monthly rollup (AV24-699)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2024-monthly-rollup-av24-699)|Visit link for details|2024-12-10|
+ |[Drupal security advisory (AV24-698)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-698)|Visit link for details|2024-12-09|
  
 
 # MA-CERT
@@ -167,6 +150,23 @@
  |[ 51401012/24 - Vulnérabilité affectant le plugin «WPForms» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-plugin-wpforms-pour-wordpress)| Une vulnérabilité affectant le plugin « WPForms» pour WordPress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner des mesures de sécurité.| 10 décembre 2024|
  |[ 51391012/24 - Vulnérabilités affectant plusieurs produits SAP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-sap-16)| SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…| 10 décembre 2024|
  |[ 51380912/24 - Vulnérabilité critique affectant le plugin «WP Umbrella» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-wp-umbrella-pour-wordpress)| Une vulnérabilité critique affectant le plugin « WP Umbrella» pour Wordpress a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de prendre le contrôle…| 09 décembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2024-49138](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49138-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Microsoft - CVE-2024-49117](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49117-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Microsoft - CVE-2024-49112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49112-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Ivanti - CVE-2024-11633](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11633-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Ivanti - CVE-2024-11639](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11639-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|11/12/2024|
+ |[Dell - CVE-2024-37143](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37143-2024-12-10)|Visit link for details.|10/12/2024|
+ |[SAP - CVE-2024-47578](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47578-2024-12-10)|Visit link for details.|10/12/2024|
+ |[WordPress WPForms - CVE-2024-11205](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2024-11205-2024-12-10)|Visit link for details.|10/12/2024|
+ |[SAP - CVE-2024-54198](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54198-2024-12-10)|Visit link for details.|10/12/2024|
+ |[QNAP - CVE-2024-50393](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50393-2024-12-10)|Visit link for details.|10/12/2024|
  
 
 # US-CERT
