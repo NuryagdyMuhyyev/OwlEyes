@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/12/2024 23:31:45 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/12/2024 00:18:10 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,13 +46,13 @@
  |[USN-7145-1: Expat vulnerability](https://www.linux.org/threads/usn-7145-1-expat-vulnerability.54306/)|Visit link for details.|Dec 10, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -87,20 +87,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Tungsten Automation Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1681/)|Visit link for details|2024-12-11|
- |[Tungsten Automation Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1680/)|Visit link for details|2024-12-11|
- |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1679/)|Visit link for details|2024-12-11|
- |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1678/)|Visit link for details|2024-12-11|
- |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1677/)|Visit link for details|2024-12-11|
- |[ManageEngine Analytics Plus getOAToken Exposed Dangerous Method Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1676/)|Visit link for details|2024-12-11|
- |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1675/)|Visit link for details|2024-12-11|
- |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1674/)|Visit link for details|2024-12-11|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -116,6 +102,20 @@
  |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Tungsten Automation Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1681/)|Visit link for details|2024-12-11|
+ |[Tungsten Automation Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1680/)|Visit link for details|2024-12-11|
+ |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1679/)|Visit link for details|2024-12-11|
+ |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1678/)|Visit link for details|2024-12-11|
+ |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1677/)|Visit link for details|2024-12-11|
+ |[ManageEngine Analytics Plus getOAToken Exposed Dangerous Method Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1676/)|Visit link for details|2024-12-11|
+ |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1675/)|Visit link for details|2024-12-11|
+ |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1674/)|Visit link for details|2024-12-11|
  
 
 # CA-CCS
@@ -135,23 +135,6 @@
  |[Adobe security advisory (AV24–702)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-702)|Visit link for details|2024-12-11|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
- |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
- |[ 51491212/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-18)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2024|
- |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
- |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
- |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
- |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
- |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
- |[ 51431112/24 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Windows. Une de ces vulnérabilités, identifiée par   …| 11 décembre 2024|
- |[ 51421112/24 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut …| 11 décembre 2024|
- |[ 51411112/22 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -167,6 +150,23 @@
  |[Ivanti - CVE-2024-11633](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11633-2024-12-11)|Visit link for details.|11/12/2024|
  |[Ivanti - CVE-2024-11639](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11639-2024-12-11)|Visit link for details.|11/12/2024|
  |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|11/12/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
+ |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
+ |[ 51491212/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-18)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2024|
+ |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
+ |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
+ |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
+ |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
+ |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
+ |[ 51431112/24 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Windows. Une de ces vulnérabilités, identifiée par   …| 11 décembre 2024|
+ |[ 51421112/24 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut …| 11 décembre 2024|
+ |[ 51411112/22 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
  
 
 # US-CERT
