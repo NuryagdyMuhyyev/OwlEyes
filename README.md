@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/12/2024 19:21:40 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/12/2024 20:25:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,20 +46,13 @@
  |[USN-7141-1: oFono vulnerabilities](https://www.linux.org/threads/usn-7141-1-ofono-vulnerabilities.54287/)|Visit link for details.|Dec 10, 2024|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[SourceCodester Kortex Lite Advocate Office Management System client_data.php cross site scripting (CVE-2024-12536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2024|
- |[1000 Projects Attendance Tracking Management System check_admin_login.php sql injection (CVE-2024-12497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
- |[code-projects Farmacia visualizar-usuario.php sql injection (CVE-2024-12492)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
- |[CVE-2024-54505 (CVE-2024-54505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -81,10 +74,17 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20241204)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Dec 2024 |
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[SourceCodester Kortex Lite Advocate Office Management System client_data.php cross site scripting (CVE-2024-12536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2024|
+ |[1000 Projects Attendance Tracking Management System check_admin_login.php sql injection (CVE-2024-12497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
+ |[code-projects Farmacia visualizar-usuario.php sql injection (CVE-2024-12492)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
+ |[CVE-2024-54505 (CVE-2024-54505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
@@ -99,6 +99,23 @@
  |[ManageEngine Analytics Plus getOAToken Exposed Dangerous Method Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1676/)|Visit link for details|2024-12-11|
  |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1675/)|Visit link for details|2024-12-11|
  |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1674/)|Visit link for details|2024-12-11|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache security advisory (AV24-708)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-708)|Visit link for details|2024-12-11|
+ |[[Control systems] Schneider Electric security advisory (AV24-707)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-707)|Visit link for details|2024-12-11|
+ |[GitLab security advisory (AV24-706)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-706)|Visit link for details|2024-12-11|
+ |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
+ |[Ivanti security advisory (AV24-704)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-704)|Visit link for details|2024-12-11|
+ |[Vulnerability impacting all versions of Cleo VLTrader, Harmony, and LexiCom software](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-all-versions-cleo-vltrader-harmony-and-lexicom-software)|Visit link for details|2024-12-11|
+ |[Google Chrome security advisory (AV24-703)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-703)|Visit link for details|2024-12-11|
+ |[Adobe security advisory (AV24–702)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-702)|Visit link for details|2024-12-11|
+ |[Microsoft security advisory – December 2024 monthly rollup (AV24–701)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2024-monthly-rollup-av24-701)|Visit link for details|2024-12-11|
+ |[[Control systems] Siemens security advisory (AV24-700)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-700)|Visit link for details|2024-12-10|
+ |[SAP security advisory – December 2024 monthly rollup (AV24-699)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2024-monthly-rollup-av24-699)|Visit link for details|2024-12-10|
  
 
 # EU-CERT
@@ -118,23 +135,6 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2024-49138](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49138-2024-12-11)|Visit link for details.|11/12/2024|
- |[Microsoft - CVE-2024-49117](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49117-2024-12-11)|Visit link for details.|11/12/2024|
- |[Microsoft - CVE-2024-49112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49112-2024-12-11)|Visit link for details.|11/12/2024|
- |[Ivanti - CVE-2024-11633](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11633-2024-12-11)|Visit link for details.|11/12/2024|
- |[Ivanti - CVE-2024-11639](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11639-2024-12-11)|Visit link for details.|11/12/2024|
- |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|11/12/2024|
- |[Dell - CVE-2024-37143](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37143-2024-12-10)|Visit link for details.|10/12/2024|
- |[SAP - CVE-2024-47578](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47578-2024-12-10)|Visit link for details.|10/12/2024|
- |[WordPress WPForms - CVE-2024-11205](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2024-11205-2024-12-10)|Visit link for details.|10/12/2024|
- |[SAP - CVE-2024-54198](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54198-2024-12-10)|Visit link for details.|10/12/2024|
- |[QNAP - CVE-2024-50393](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50393-2024-12-10)|Visit link for details.|10/12/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -152,21 +152,21 @@
  |[ 51411112/22 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache security advisory (AV24-708)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-708)|Visit link for details|2024-12-11|
- |[[Control systems] Schneider Electric security advisory (AV24-707)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-707)|Visit link for details|2024-12-11|
- |[GitLab security advisory (AV24-706)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-706)|Visit link for details|2024-12-11|
- |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
- |[Ivanti security advisory (AV24-704)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-704)|Visit link for details|2024-12-11|
- |[Vulnerability impacting all versions of Cleo VLTrader, Harmony, and LexiCom software](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-all-versions-cleo-vltrader-harmony-and-lexicom-software)|Visit link for details|2024-12-11|
- |[Google Chrome security advisory (AV24-703)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-703)|Visit link for details|2024-12-11|
- |[Adobe security advisory (AV24–702)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-702)|Visit link for details|2024-12-11|
- |[Microsoft security advisory – December 2024 monthly rollup (AV24–701)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2024-monthly-rollup-av24-701)|Visit link for details|2024-12-11|
- |[[Control systems] Siemens security advisory (AV24-700)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-700)|Visit link for details|2024-12-10|
- |[SAP security advisory – December 2024 monthly rollup (AV24-699)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2024-monthly-rollup-av24-699)|Visit link for details|2024-12-10|
+ |[Microsoft - CVE-2024-49138](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49138-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Microsoft - CVE-2024-49117](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49117-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Microsoft - CVE-2024-49112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49112-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Ivanti - CVE-2024-11633](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11633-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Ivanti - CVE-2024-11639](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11639-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|11/12/2024|
+ |[Dell - CVE-2024-37143](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37143-2024-12-10)|Visit link for details.|10/12/2024|
+ |[SAP - CVE-2024-47578](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47578-2024-12-10)|Visit link for details.|10/12/2024|
+ |[WordPress WPForms - CVE-2024-11205](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2024-11205-2024-12-10)|Visit link for details.|10/12/2024|
+ |[SAP - CVE-2024-54198](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54198-2024-12-10)|Visit link for details.|10/12/2024|
+ |[QNAP - CVE-2024-50393](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50393-2024-12-10)|Visit link for details.|10/12/2024|
  
 
 # US-CERT
