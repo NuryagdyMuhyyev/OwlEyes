@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/12/2024 09:27:04 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/12/2024 10:22:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7151-1: oFono vulnerabilities](https://www.linux.org/threads/usn-7151-1-ofono-vulnerabilities.54334/)|Visit link for details.|Dec 12, 2024|
  |[DSA-5828-1 python-aiohttp - security update](https://www.linux.org/threads/dsa-5828-1-python-aiohttp-security-update.54328/)|Visit link for details.|Dec 11, 2024|
  |[USN-7150-1: Tornado vulnerabilities](https://www.linux.org/threads/usn-7150-1-tornado-vulnerabilities.54323/)|Visit link for details.|Dec 11, 2024|
  |[USN-7149-1: Intel Microcode vulnerabilities](https://www.linux.org/threads/usn-7149-1-intel-microcode-vulnerabilities.54317/)|Visit link for details.|Dec 11, 2024|
@@ -43,29 +44,15 @@
  |[USN-7145-1: Expat vulnerability](https://www.linux.org/threads/usn-7145-1-expat-vulnerability.54306/)|Visit link for details.|Dec 10, 2024|
  |[USN-7146-1: Dogtag PKI vulnerabilities](https://www.linux.org/threads/usn-7146-1-dogtag-pki-vulnerabilities.54297/)|Visit link for details.|Dec 10, 2024|
  |[USN-7141-1: oFono vulnerabilities](https://www.linux.org/threads/usn-7141-1-ofono-vulnerabilities.54287/)|Visit link for details.|Dec 10, 2024|
- |[USN-7144-1: Linux kernel (Intel IoTG) vulnerabilities](https://www.linux.org/threads/usn-7144-1-linux-kernel-intel-iotg-vulnerabilities.54283/)|Visit link for details.|Dec 9, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[CVE-2024-11773 (CVE-2024-11773)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[CVE-2024-11772 (CVE-2024-11772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[CVE-2024-11639 (CVE-2024-11639)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[CVE-2024-7572 (CVE-2024-7572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -87,6 +74,19 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20241204)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Dec 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CVE-2024-11773 (CVE-2024-11773)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
+ |[CVE-2024-11772 (CVE-2024-11772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
+ |[CVE-2024-11639 (CVE-2024-11639)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
+ |[CVE-2024-7572 (CVE-2024-7572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -99,23 +99,6 @@
  |[ManageEngine Analytics Plus getOAToken Exposed Dangerous Method Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1676/)|Visit link for details|2024-12-11|
  |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1675/)|Visit link for details|2024-12-11|
  |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1674/)|Visit link for details|2024-12-11|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache security advisory (AV24-708)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-708)|Visit link for details|2024-12-11|
- |[[Control systems] Schneider Electric security advisory (AV24-707)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-707)|Visit link for details|2024-12-11|
- |[GitLab security advisory (AV24-706)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-706)|Visit link for details|2024-12-11|
- |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
- |[Ivanti security advisory (AV24-704)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-704)|Visit link for details|2024-12-11|
- |[Vulnerability impacting all versions of Cleo VLTrader, Harmony, and LexiCom software](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-all-versions-cleo-vltrader-harmony-and-lexicom-software)|Visit link for details|2024-12-11|
- |[Google Chrome security advisory (AV24-703)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-703)|Visit link for details|2024-12-11|
- |[Adobe security advisory (AV24–702)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-702)|Visit link for details|2024-12-11|
- |[Microsoft security advisory – December 2024 monthly rollup (AV24–701)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2024-monthly-rollup-av24-701)|Visit link for details|2024-12-11|
- |[[Control systems] Siemens security advisory (AV24-700)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-700)|Visit link for details|2024-12-10|
- |[SAP security advisory – December 2024 monthly rollup (AV24-699)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2024-monthly-rollup-av24-699)|Visit link for details|2024-12-10|
  
 
 # EU-CERT
@@ -133,6 +116,23 @@
  |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache security advisory (AV24-708)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-708)|Visit link for details|2024-12-11|
+ |[[Control systems] Schneider Electric security advisory (AV24-707)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-707)|Visit link for details|2024-12-11|
+ |[GitLab security advisory (AV24-706)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-706)|Visit link for details|2024-12-11|
+ |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
+ |[Ivanti security advisory (AV24-704)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-704)|Visit link for details|2024-12-11|
+ |[Vulnerability impacting all versions of Cleo VLTrader, Harmony, and LexiCom software](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-all-versions-cleo-vltrader-harmony-and-lexicom-software)|Visit link for details|2024-12-11|
+ |[Google Chrome security advisory (AV24-703)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-703)|Visit link for details|2024-12-11|
+ |[Adobe security advisory (AV24–702)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-702)|Visit link for details|2024-12-11|
+ |[Microsoft security advisory – December 2024 monthly rollup (AV24–701)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-december-2024-monthly-rollup-av24-701)|Visit link for details|2024-12-11|
+ |[[Control systems] Siemens security advisory (AV24-700)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-700)|Visit link for details|2024-12-10|
+ |[SAP security advisory – December 2024 monthly rollup (AV24-699)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-december-2024-monthly-rollup-av24-699)|Visit link for details|2024-12-10|
  
 
 # CERT-SANTE
