@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/12/2024 10:22:17 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/12/2024 11:32:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,18 +46,6 @@
  |[USN-7141-1: oFono vulnerabilities](https://www.linux.org/threads/usn-7141-1-ofono-vulnerabilities.54287/)|Visit link for details.|Dec 10, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -74,14 +62,26 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20241204)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Dec 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[CVE-2024-11773 (CVE-2024-11773)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[CVE-2024-11772 (CVE-2024-11772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[CVE-2024-11639 (CVE-2024-11639)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
- |[CVE-2024-7572 (CVE-2024-7572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 10, 2024|
+ |[SourceCodester Kortex Lite Advocate Office Management System client_data.php cross site scripting (CVE-2024-12536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2024|
+ |[1000 Projects Attendance Tracking Management System check_admin_login.php sql injection (CVE-2024-12497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
+ |[code-projects Farmacia visualizar-usuario.php sql injection (CVE-2024-12492)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
+ |[CVE-2024-54505 (CVE-2024-54505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
