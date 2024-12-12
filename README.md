@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 12/12/2024 17:46:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 12/12/2024 18:31:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,12 +50,6 @@
  |[USN-7145-1: Expat vulnerability](https://www.linux.org/threads/usn-7145-1-expat-vulnerability.54306/)|Visit link for details.|Dec 10, 2024|
  |[USN-7146-1: Dogtag PKI vulnerabilities](https://www.linux.org/threads/usn-7146-1-dogtag-pki-vulnerabilities.54297/)|Visit link for details.|Dec 10, 2024|
  |[USN-7141-1: oFono vulnerabilities](https://www.linux.org/threads/usn-7141-1-ofono-vulnerabilities.54287/)|Visit link for details.|Dec 10, 2024|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
@@ -74,31 +74,44 @@
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20241204)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 4 Dec 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[SourceCodester Kortex Lite Advocate Office Management System client_data.php cross site scripting (CVE-2024-12536)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 12, 2024|
- |[1000 Projects Attendance Tracking Management System check_admin_login.php sql injection (CVE-2024-12497)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
- |[code-projects Farmacia visualizar-usuario.php sql injection (CVE-2024-12492)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
- |[CVE-2024-54505 (CVE-2024-54505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 11, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Tungsten Automation Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1681/)|Visit link for details|2024-12-11|
- |[Tungsten Automation Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1680/)|Visit link for details|2024-12-11|
- |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1679/)|Visit link for details|2024-12-11|
- |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1678/)|Visit link for details|2024-12-11|
- |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1677/)|Visit link for details|2024-12-11|
- |[ManageEngine Analytics Plus getOAToken Exposed Dangerous Method Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1676/)|Visit link for details|2024-12-11|
- |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1675/)|Visit link for details|2024-12-11|
- |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1674/)|Visit link for details|2024-12-11|
+ |[Microsoft - CVE-2024-49138](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49138-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Microsoft - CVE-2024-49117](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49117-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Microsoft - CVE-2024-49112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49112-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Ivanti - CVE-2024-11633](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11633-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Ivanti - CVE-2024-11639](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11639-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|11/12/2024|
+ |[Dell - CVE-2024-37143](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37143-2024-12-10)|Visit link for details.|10/12/2024|
+ |[SAP - CVE-2024-47578](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47578-2024-12-10)|Visit link for details.|10/12/2024|
+ |[WordPress WPForms - CVE-2024-11205](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2024-11205-2024-12-10)|Visit link for details.|10/12/2024|
+ |[SAP - CVE-2024-54198](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54198-2024-12-10)|Visit link for details.|10/12/2024|
+ |[QNAP - CVE-2024-50393](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50393-2024-12-10)|Visit link for details.|10/12/2024|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-119: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-119/)|On December 10, 2024, Ivanti has released critical security updates addressing multiple vulnerabilities in its Cloud Services Appliance (CSA) and Connect Secure products. These flaws could allow attackers to escalate privileges or execute arbitrary code.|Wednesday, December 11, 2024 04:31:06 PM CET|
+ |[2024-118: Critical Vulnerability in 7-Zip](https://cert.europa.eu/publications/security-advisories/2024-118/)|A severe security vulnerability has been discovered in 7-Zip, the popular file compression utility, allowing remote attackers to execute malicious code through specially crafted archives. The vulnerability tracked as CVE-2024-11477 has received a high CVSS score of 7.8.|Monday, November 25, 2024 09:34:13 AM CET|
+ |[2024-117: Zero-Day Vulnerabilities in Palo Alto Networks PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-117/)|Palo Alto Networks released security updates for two actively exploited zero-day vulnerabilities in Palo Alto Networks PAN-OS. If exploited, these vulnerabilities could allow a remote unauthenticated attacker to gain administrator privileges, or a PAN-OS administrator to perform actions on the firewall with root privileges.|Tuesday, November 19, 2024 10:55:57 AM CET|
+ |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
+ |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
+ |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
+ |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
+ |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
+ |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
+ |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
+ |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
 # CA-CCS
@@ -135,38 +148,18 @@
  |[ 51411112/22 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft - CVE-2024-49138](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49138-2024-12-11)|Visit link for details.|11/12/2024|
- |[Microsoft - CVE-2024-49117](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49117-2024-12-11)|Visit link for details.|11/12/2024|
- |[Microsoft - CVE-2024-49112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49112-2024-12-11)|Visit link for details.|11/12/2024|
- |[Ivanti - CVE-2024-11633](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11633-2024-12-11)|Visit link for details.|11/12/2024|
- |[Ivanti - CVE-2024-11639](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11639-2024-12-11)|Visit link for details.|11/12/2024|
- |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|11/12/2024|
- |[Dell - CVE-2024-37143](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37143-2024-12-10)|Visit link for details.|10/12/2024|
- |[SAP - CVE-2024-47578](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-47578-2024-12-10)|Visit link for details.|10/12/2024|
- |[WordPress WPForms - CVE-2024-11205](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-wpforms-cve-2024-11205-2024-12-10)|Visit link for details.|10/12/2024|
- |[SAP - CVE-2024-54198](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54198-2024-12-10)|Visit link for details.|10/12/2024|
- |[QNAP - CVE-2024-50393](https://www.cyberveille-sante.gouv.fr/alertes/qnap-cve-2024-50393-2024-12-10)|Visit link for details.|10/12/2024|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-119: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-119/)|On December 10, 2024, Ivanti has released critical security updates addressing multiple vulnerabilities in its Cloud Services Appliance (CSA) and Connect Secure products. These flaws could allow attackers to escalate privileges or execute arbitrary code.|Wednesday, December 11, 2024 04:31:06 PM CET|
- |[2024-118: Critical Vulnerability in 7-Zip](https://cert.europa.eu/publications/security-advisories/2024-118/)|A severe security vulnerability has been discovered in 7-Zip, the popular file compression utility, allowing remote attackers to execute malicious code through specially crafted archives. The vulnerability tracked as CVE-2024-11477 has received a high CVSS score of 7.8.|Monday, November 25, 2024 09:34:13 AM CET|
- |[2024-117: Zero-Day Vulnerabilities in Palo Alto Networks PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-117/)|Palo Alto Networks released security updates for two actively exploited zero-day vulnerabilities in Palo Alto Networks PAN-OS. If exploited, these vulnerabilities could allow a remote unauthenticated attacker to gain administrator privileges, or a PAN-OS administrator to perform actions on the firewall with root privileges.|Tuesday, November 19, 2024 10:55:57 AM CET|
- |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
- |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
- |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
- |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
- |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
- |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
- |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
- |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
+ |[Tungsten Automation Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1681/)|Visit link for details|2024-12-11|
+ |[Tungsten Automation Power PDF JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1680/)|Visit link for details|2024-12-11|
+ |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1679/)|Visit link for details|2024-12-11|
+ |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1678/)|Visit link for details|2024-12-11|
+ |[Tungsten Automation Power PDF JP2 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1677/)|Visit link for details|2024-12-11|
+ |[ManageEngine Analytics Plus getOAToken Exposed Dangerous Method Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1676/)|Visit link for details|2024-12-11|
+ |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1675/)|Visit link for details|2024-12-11|
+ |[AutomationDirect C-More EA9 EAP9 File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1674/)|Visit link for details|2024-12-11|
  
 
 # US-CERT
