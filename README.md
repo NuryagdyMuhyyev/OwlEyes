@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/12/2024 10:21:48 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/12/2024 11:31:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,12 @@
  |[DSA-5828-1 python-aiohttp - security update](https://www.linux.org/threads/dsa-5828-1-python-aiohttp-security-update.54328/)|Visit link for details.|Dec 11, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -66,12 +72,6 @@
  |[Ivanti Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ivanti-products-multiple-vulnerabilities_20241211)|Multiple vulnerabilities have been identified in Ivanti Products. A remote attacker could exploit these vulnerability to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system.|Release Date: 11 Dec 2024 |
  |[Microsoft Monthly Security Update (December 2024)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-december-2024)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSystem Center Medium RiskElevation of PrivilegeSpoofing Microsoft Office Medium RiskElevation of PrivilegeInformation DisclosureRemote Code Execution Windows...|Release Date: 11 Dec 2024 |
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20241209)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 9 Dec 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -101,23 +101,6 @@
  |[Tungsten Automation Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1681/)|Visit link for details|2024-12-11|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
- |[Drupal security advisory (AV24-710)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-710)|Visit link for details|2024-12-12|
- |[Apple security advisory (AV24-709)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-709)|Visit link for details|2024-12-12|
- |[Apache security advisory (AV24-708)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-708)|Visit link for details|2024-12-11|
- |[[Control systems] Schneider Electric security advisory (AV24-707)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-707)|Visit link for details|2024-12-11|
- |[GitLab security advisory (AV24-706)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-706)|Visit link for details|2024-12-11|
- |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
- |[Ivanti security advisory (AV24-704)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-704)|Visit link for details|2024-12-11|
- |[Vulnerability impacting all versions of Cleo VLTrader, Harmony, and LexiCom software](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-all-versions-cleo-vltrader-harmony-and-lexicom-software)|Visit link for details|2024-12-11|
- |[Google Chrome security advisory (AV24-703)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-703)|Visit link for details|2024-12-11|
- |[Adobe security advisory (AV24–702)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-702)|Visit link for details|2024-12-11|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -135,21 +118,21 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Google - CVE-2024-12381](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12381-2024-12-12)|Visit link for details.|12/12/2024|
- |[GLPI - CVE-2024-50339](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-50339-2024-12-12)|Visit link for details.|12/12/2024|
- |[GitLab - CVE-2024-11274](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-11274-2024-12-12)|Visit link for details.|12/12/2024|
- |[cURL - CVE-2024-11053](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-11053-2024-12-12)|Visit link for details.|12/12/2024|
- |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|12/12/2024|
- |[Microsoft - CVE-2024-49138](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49138-2024-12-11)|Visit link for details.|11/12/2024|
- |[Microsoft - CVE-2024-49117](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49117-2024-12-11)|Visit link for details.|11/12/2024|
- |[Microsoft - CVE-2024-49112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49112-2024-12-11)|Visit link for details.|11/12/2024|
- |[Ivanti - CVE-2024-11633](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11633-2024-12-11)|Visit link for details.|11/12/2024|
- |[Ivanti - CVE-2024-11639](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11639-2024-12-11)|Visit link for details.|11/12/2024|
- |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|11/12/2024|
+ |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
+ |[Drupal security advisory (AV24-710)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-710)|Visit link for details|2024-12-12|
+ |[Apple security advisory (AV24-709)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-709)|Visit link for details|2024-12-12|
+ |[Apache security advisory (AV24-708)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-708)|Visit link for details|2024-12-11|
+ |[[Control systems] Schneider Electric security advisory (AV24-707)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-707)|Visit link for details|2024-12-11|
+ |[GitLab security advisory (AV24-706)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-706)|Visit link for details|2024-12-11|
+ |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
+ |[Ivanti security advisory (AV24-704)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-704)|Visit link for details|2024-12-11|
+ |[Vulnerability impacting all versions of Cleo VLTrader, Harmony, and LexiCom software](https://www.cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-all-versions-cleo-vltrader-harmony-and-lexicom-software)|Visit link for details|2024-12-11|
+ |[Google Chrome security advisory (AV24-703)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-703)|Visit link for details|2024-12-11|
+ |[Adobe security advisory (AV24–702)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-702)|Visit link for details|2024-12-11|
  
 
 # MA-CERT
@@ -167,6 +150,23 @@
  |[ 51431112/24 - Vulnérabilités affectant Microsoft Windows ESU (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-esu-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Windows. Une de ces vulnérabilités, identifiée par   …| 11 décembre 2024|
  |[ 51421112/24 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées  de son système d’exploitation Microsoft Windows. L’exploitation de ces vulnérabilités peut …| 11 décembre 2024|
  |[ 51411112/22 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2024) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2024)| Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google - CVE-2024-12381](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12381-2024-12-12)|Visit link for details.|12/12/2024|
+ |[GLPI - CVE-2024-50339](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-50339-2024-12-12)|Visit link for details.|12/12/2024|
+ |[GitLab - CVE-2024-11274](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-11274-2024-12-12)|Visit link for details.|12/12/2024|
+ |[cURL - CVE-2024-11053](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-11053-2024-12-12)|Visit link for details.|12/12/2024|
+ |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|12/12/2024|
+ |[Microsoft - CVE-2024-49138](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49138-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Microsoft - CVE-2024-49117](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49117-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Microsoft - CVE-2024-49112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49112-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Ivanti - CVE-2024-11633](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11633-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Ivanti - CVE-2024-11639](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11639-2024-12-11)|Visit link for details.|11/12/2024|
+ |[Qlik - CVE-2024-55579](https://www.cyberveille-sante.gouv.fr/alertes/qlik-cve-2024-55579-2024-12-09)|Visit link for details.|11/12/2024|
  
 
 # US-CERT
