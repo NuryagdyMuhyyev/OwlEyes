@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 13/12/2024 20:23:57 UTC+5 (Asia/Ashgabat)
+ > Last Updated 13/12/2024 21:27:59 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,12 +46,6 @@
  |[DSA-5828-1 python-aiohttp - security update](https://www.linux.org/threads/dsa-5828-1-python-aiohttp-security-update.54328/)|Visit link for details.|Dec 11, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -74,6 +68,12 @@
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20241209)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 9 Dec 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -85,6 +85,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
+ |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1687/)|Visit link for details|2024-12-12|
+ |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1686/)|Visit link for details|2024-12-12|
+ |[Progress Software WhatsUp Gold GetOrderByClause SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1685/)|Visit link for details|2024-12-12|
+ |[Progress Software WhatsUp Gold GetSqlWhereClause SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1684/)|Visit link for details|2024-12-12|
+ |[Wacom Center WTabletServicePro Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1683/)|Visit link for details|2024-12-12|
+ |[GeoVision GV-ASManager Missing Authorization Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1682/)|Visit link for details|2024-12-12|
+ |[Tungsten Automation Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1681/)|Visit link for details|2024-12-11|
  
 
 # EU-CERT
@@ -121,20 +135,6 @@
  |[Google Chrome security advisory (AV24-703)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-703)|Visit link for details|2024-12-11|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1687/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1686/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetOrderByClause SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1685/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetSqlWhereClause SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1684/)|Visit link for details|2024-12-12|
- |[Wacom Center WTabletServicePro Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1683/)|Visit link for details|2024-12-12|
- |[GeoVision GV-ASManager Missing Authorization Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1682/)|Visit link for details|2024-12-12|
- |[Tungsten Automation Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1681/)|Visit link for details|2024-12-11|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -156,17 +156,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft - CVE-2024-49147](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49147-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Dell - CVE-2024-47484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47484-2024-12-13)|Visit link for details.|13/12/2024|
+ |[WordPress MainWP Child - CVE-2024-10783](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-mainwp-child-cve-2024-10783-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Apple - CVE-2024-54506](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-54506-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Ivanti - CVE-2024-8540](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8540-2024-12-13)|Visit link for details.|13/12/2024|
  |[GitLab - CVE-2024-11274](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-11274-2024-12-12)|Visit link for details.|13/12/2024|
  |[Veeam Service Provider - CVE-2024-42448](https://www.cyberveille-sante.gouv.fr/alertes/veeam-service-provider-cve-2024-42448-2024-12-04)|Visit link for details.|13/12/2024|
  |[Google - CVE-2024-12381](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12381-2024-12-12)|Visit link for details.|12/12/2024|
  |[GLPI - CVE-2024-50339](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-50339-2024-12-12)|Visit link for details.|12/12/2024|
  |[cURL - CVE-2024-11053](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-11053-2024-12-12)|Visit link for details.|12/12/2024|
  |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|12/12/2024|
- |[Microsoft - CVE-2024-49138](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49138-2024-12-11)|Visit link for details.|11/12/2024|
- |[Microsoft - CVE-2024-49117](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49117-2024-12-11)|Visit link for details.|11/12/2024|
- |[Microsoft - CVE-2024-49112](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49112-2024-12-11)|Visit link for details.|11/12/2024|
- |[Ivanti - CVE-2024-11633](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11633-2024-12-11)|Visit link for details.|11/12/2024|
- |[Ivanti - CVE-2024-11639](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-11639-2024-12-11)|Visit link for details.|11/12/2024|
  
 
 # US-CERT
