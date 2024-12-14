@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/12/2024 17:40:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 14/12/2024 18:26:01 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -104,23 +104,6 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51531312/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-1)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette …| 13 décembre 2024|
- |[ 51531312/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-4)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits                  susmentionnés. Ces…| 13 décembre 2024|
- |[ 51521312/24 - Vulnérabilités critiques affectant des produits de Dell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-dell)| Dell  annonce la correction  de deux  vulnérabilités critiques affectant  ses produits susmentionnés.  L'exploitation de  ces vulnérabilités peut permettre à un…| 13 décembre 2024|
- |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
- |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
- |[ 51491212/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-18)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2024|
- |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
- |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
- |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
- |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
- |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -136,6 +119,23 @@
  |[GLPI - CVE-2024-50339](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-50339-2024-12-12)|Visit link for details.|12/12/2024|
  |[cURL - CVE-2024-11053](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-11053-2024-12-12)|Visit link for details.|12/12/2024|
  |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|12/12/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51531312/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-1)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette …| 13 décembre 2024|
+ |[ 51531312/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-4)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits                  susmentionnés. Ces…| 13 décembre 2024|
+ |[ 51521312/24 - Vulnérabilités critiques affectant des produits de Dell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-dell)| Dell  annonce la correction  de deux  vulnérabilités critiques affectant  ses produits susmentionnés.  L'exploitation de  ces vulnérabilités peut permettre à un…| 13 décembre 2024|
+ |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
+ |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
+ |[ 51491212/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-18)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2024|
+ |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
+ |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
+ |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
+ |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
+ |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
  
 
 # CA-CCS
