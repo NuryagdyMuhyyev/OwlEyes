@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 14/12/2024 23:28:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/12/2024 00:16:24 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,13 +46,13 @@
  |[USN-7108-2: AsyncSSH vulnerabilities](https://www.linux.org/threads/usn-7108-2-asyncssh-vulnerabilities.54339/)|Visit link for details.|Dec 12, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -82,7 +82,7 @@
  |[WP Job Portal <= 2.2.2 - Missing Authorization to Unauthenticated Arbitrary Resume Download (CVE-2024-11712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
  |[WP Job Portal <= 2.2.2 - Authenticated (Admin+) SQL Injection (CVE-2024-11710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
  |[WP Job Portal <= 2.2.2 - Authenticated (Admin+) SQL Injection via getFieldsForVisibleCombobox() (CVE-2024-11714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
- |[WP Job Portal <= 2.2.2 - Authenticated (Admin+) SQL Injection via wpjobportal_deactivate() (CVE-2024-11713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
