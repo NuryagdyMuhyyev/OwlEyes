@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/12/2024 08:10:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/12/2024 09:26:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,6 +52,19 @@
  |---|---|---|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WP Job Portal <= 2.2.1 - Unauthenticated SQL Injection (CVE-2024-11711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
+ |[WP Job Portal <= 2.2.2 - Missing Authorization to Unauthenticated Arbitrary Resume Download (CVE-2024-11712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
+ |[WP Job Portal <= 2.2.2 - Authenticated (Admin+) SQL Injection (CVE-2024-11710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
+ |[WP Job Portal <= 2.2.2 - Authenticated (Admin+) SQL Injection via getFieldsForVisibleCombobox() (CVE-2024-11714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -72,19 +85,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[WP Job Portal <= 2.2.1 - Unauthenticated SQL Injection (CVE-2024-11711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
- |[WP Job Portal <= 2.2.2 - Missing Authorization to Unauthenticated Arbitrary Resume Download (CVE-2024-11712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
- |[WP Job Portal <= 2.2.2 - Authenticated (Admin+) SQL Injection (CVE-2024-11710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
- |[WP Job Portal <= 2.2.2 - Authenticated (Admin+) SQL Injection via getFieldsForVisibleCombobox() (CVE-2024-11714)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
