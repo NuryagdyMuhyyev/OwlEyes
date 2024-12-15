@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 15/12/2024 19:18:53 UTC+5 (Asia/Ashgabat)
+ > Last Updated 15/12/2024 20:21:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,31 +50,6 @@
  |[USN-7154-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7154-1-linux-kernel-vulnerabilities.54344/)|Visit link for details.|Dec 12, 2024|
  |[DSA-5829-1 chromium - security update](https://www.linux.org/threads/dsa-5829-1-chromium-security-update.54343/)|Visit link for details.|Dec 12, 2024|
  |[USN-7153-1: PHP vulnerability](https://www.linux.org/threads/usn-7153-1-php-vulnerability.54340/)|Visit link for details.|Dec 12, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[CVE-2024-56082 (CVE-2024-56082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2024|
- |[CVE-2024-55970 (CVE-2024-55970)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2024|
- |[WP Job Portal <= 2.2.1 - Unauthenticated SQL Injection (CVE-2024-11711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
- |[WP Job Portal <= 2.2.2 - Missing Authorization to Unauthenticated Arbitrary Resume Download (CVE-2024-11712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
- |[WP Job Portal <= 2.2.2 - Authenticated (Admin+) SQL Injection (CVE-2024-11710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -87,6 +68,19 @@
  |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20241209)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition, remote code execution, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 9 Dec 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CVE-2024-56082 (CVE-2024-56082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2024|
+ |[CVE-2024-55970 (CVE-2024-55970)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 15, 2024|
+ |[WP Job Portal <= 2.2.1 - Unauthenticated SQL Injection (CVE-2024-11711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
+ |[WP Job Portal <= 2.2.2 - Missing Authorization to Unauthenticated Arbitrary Resume Download (CVE-2024-11712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
+ |[WP Job Portal <= 2.2.2 - Authenticated (Admin+) SQL Injection (CVE-2024-11710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 14, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -99,6 +93,12 @@
  |[Wacom Center WTabletServicePro Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1683/)|Visit link for details|2024-12-12|
  |[GeoVision GV-ASManager Missing Authorization Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1682/)|Visit link for details|2024-12-12|
  |[Tungsten Automation Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1681/)|Visit link for details|2024-12-11|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
