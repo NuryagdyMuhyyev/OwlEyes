@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/12/2024 18:31:38 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/12/2024 19:21:44 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,30 +29,7 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7160-1: Mpmath vulnerability](https://www.linux.org/threads/usn-7160-1-mpmath-vulnerability.54390/)|Visit link for details.|Dec 16, 2024|
- |[DSA-5831-1 gst-plugins-base1.0 - security update](https://www.linux.org/threads/dsa-5831-1-gst-plugins-base1-0-security-update.54366/)|Visit link for details.|Dec 14, 2024|
- |[USN-7157-2: PHP regression](https://www.linux.org/threads/usn-7157-2-php-regression.54357/)|Visit link for details.|Dec 14, 2024|
- |[USN-7157-1: PHP vulnerabilities](https://www.linux.org/threads/usn-7157-1-php-vulnerabilities.54356/)|Visit link for details.|Dec 13, 2024|
- |[USN-7158-1: Smarty vulnerabilities](https://www.linux.org/threads/usn-7158-1-smarty-vulnerabilities.54350/)|Visit link for details.|Dec 13, 2024|
- |[DSA-5830-1 smarty4 - security update](https://www.linux.org/threads/dsa-5830-1-smarty4-security-update.54349/)|Visit link for details.|Dec 13, 2024|
- |[USN-7159-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7159-1-linux-kernel-vulnerabilities.54347/)|Visit link for details.|Dec 12, 2024|
- |[USN-7156-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7156-1-linux-kernel-gke-vulnerabilities.54346/)|Visit link for details.|Dec 12, 2024|
- |[USN-7155-1: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-7155-1-linux-kernel-nvidia-vulnerabilities.54345/)|Visit link for details.|Dec 12, 2024|
- |[USN-7154-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7154-1-linux-kernel-vulnerabilities.54344/)|Visit link for details.|Dec 12, 2024|
- |[DSA-5829-1 chromium - security update](https://www.linux.org/threads/dsa-5829-1-chromium-security-update.54343/)|Visit link for details.|Dec 12, 2024|
- 
-
 # CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
@@ -72,6 +49,29 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-12...| Release Date: 3 Dec 2024 |
  |[Adobe Monthly Security Update (December 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskRemote Code ExecutionCross-site ScriptingSecurity Restriction Bypass APSB24-69Adobe...|Release Date: 11 Dec 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241211)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 11 Dec 2024 |
+ 
+
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7160-1: Mpmath vulnerability](https://www.linux.org/threads/usn-7160-1-mpmath-vulnerability.54390/)|Visit link for details.|Dec 16, 2024|
+ |[DSA-5831-1 gst-plugins-base1.0 - security update](https://www.linux.org/threads/dsa-5831-1-gst-plugins-base1-0-security-update.54366/)|Visit link for details.|Dec 14, 2024|
+ |[USN-7157-2: PHP regression](https://www.linux.org/threads/usn-7157-2-php-regression.54357/)|Visit link for details.|Dec 14, 2024|
+ |[USN-7157-1: PHP vulnerabilities](https://www.linux.org/threads/usn-7157-1-php-vulnerabilities.54356/)|Visit link for details.|Dec 13, 2024|
+ |[USN-7158-1: Smarty vulnerabilities](https://www.linux.org/threads/usn-7158-1-smarty-vulnerabilities.54350/)|Visit link for details.|Dec 13, 2024|
+ |[DSA-5830-1 smarty4 - security update](https://www.linux.org/threads/dsa-5830-1-smarty4-security-update.54349/)|Visit link for details.|Dec 13, 2024|
+ |[USN-7159-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7159-1-linux-kernel-vulnerabilities.54347/)|Visit link for details.|Dec 12, 2024|
+ |[USN-7156-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7156-1-linux-kernel-gke-vulnerabilities.54346/)|Visit link for details.|Dec 12, 2024|
+ |[USN-7155-1: Linux kernel (NVIDIA) vulnerabilities](https://www.linux.org/threads/usn-7155-1-linux-kernel-nvidia-vulnerabilities.54345/)|Visit link for details.|Dec 12, 2024|
+ |[USN-7154-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7154-1-linux-kernel-vulnerabilities.54344/)|Visit link for details.|Dec 12, 2024|
+ |[DSA-5829-1 chromium - security update](https://www.linux.org/threads/dsa-5829-1-chromium-security-update.54343/)|Visit link for details.|Dec 12, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -104,6 +104,40 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft - CVE-2024-49147](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49147-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Dell - CVE-2024-47484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47484-2024-12-13)|Visit link for details.|13/12/2024|
+ |[WordPress MainWP Child - CVE-2024-10783](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-mainwp-child-cve-2024-10783-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Apple - CVE-2024-54506](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-54506-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Ivanti - CVE-2024-8540](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8540-2024-12-13)|Visit link for details.|13/12/2024|
+ |[GitLab - CVE-2024-11274](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-11274-2024-12-12)|Visit link for details.|13/12/2024|
+ |[Veeam Service Provider - CVE-2024-42448](https://www.cyberveille-sante.gouv.fr/alertes/veeam-service-provider-cve-2024-42448-2024-12-04)|Visit link for details.|13/12/2024|
+ |[Google - CVE-2024-12381](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12381-2024-12-12)|Visit link for details.|12/12/2024|
+ |[GLPI - CVE-2024-50339](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-50339-2024-12-12)|Visit link for details.|12/12/2024|
+ |[cURL - CVE-2024-11053](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-11053-2024-12-12)|Visit link for details.|12/12/2024|
+ |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|12/12/2024|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51531312/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-1)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette …| 13 décembre 2024|
+ |[ 51531312/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-4)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits                  susmentionnés. Ces…| 13 décembre 2024|
+ |[ 51521312/24 - Vulnérabilités critiques affectant des produits de Dell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-dell)| Dell  annonce la correction  de deux  vulnérabilités critiques affectant  ses produits susmentionnés.  L'exploitation de  ces vulnérabilités peut permettre à un…| 13 décembre 2024|
+ |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
+ |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
+ |[ 51491212/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-18)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2024|
+ |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
+ |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
+ |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
+ |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
+ |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -133,40 +167,6 @@
  |[Wacom Center WTabletServicePro Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1683/)|Visit link for details|2024-12-12|
  |[GeoVision GV-ASManager Missing Authorization Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1682/)|Visit link for details|2024-12-12|
  |[Tungsten Automation Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1681/)|Visit link for details|2024-12-11|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51531312/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-1)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette …| 13 décembre 2024|
- |[ 51531312/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-4)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits                  susmentionnés. Ces…| 13 décembre 2024|
- |[ 51521312/24 - Vulnérabilités critiques affectant des produits de Dell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-dell)| Dell  annonce la correction  de deux  vulnérabilités critiques affectant  ses produits susmentionnés.  L'exploitation de  ces vulnérabilités peut permettre à un…| 13 décembre 2024|
- |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
- |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
- |[ 51491212/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-18)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2024|
- |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
- |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
- |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
- |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
- |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2024-49147](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49147-2024-12-13)|Visit link for details.|13/12/2024|
- |[Dell - CVE-2024-47484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47484-2024-12-13)|Visit link for details.|13/12/2024|
- |[WordPress MainWP Child - CVE-2024-10783](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-mainwp-child-cve-2024-10783-2024-12-13)|Visit link for details.|13/12/2024|
- |[Apple - CVE-2024-54506](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-54506-2024-12-13)|Visit link for details.|13/12/2024|
- |[Ivanti - CVE-2024-8540](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8540-2024-12-13)|Visit link for details.|13/12/2024|
- |[GitLab - CVE-2024-11274](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-11274-2024-12-12)|Visit link for details.|13/12/2024|
- |[Veeam Service Provider - CVE-2024-42448](https://www.cyberveille-sante.gouv.fr/alertes/veeam-service-provider-cve-2024-42448-2024-12-04)|Visit link for details.|13/12/2024|
- |[Google - CVE-2024-12381](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12381-2024-12-12)|Visit link for details.|12/12/2024|
- |[GLPI - CVE-2024-50339](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-50339-2024-12-12)|Visit link for details.|12/12/2024|
- |[cURL - CVE-2024-11053](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-11053-2024-12-12)|Visit link for details.|12/12/2024|
- |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|12/12/2024|
  
 
 # US-CERT
