@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/12/2024 22:18:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/12/2024 23:31:40 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,23 +68,37 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241211)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 11 Dec 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[InvoicePlane 1 upload_file unrestricted upload (CVE-2024-12478)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
- |[InvoicePlane invoices.php download path traversal (CVE-2024-12362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
- |[Zipbomb DoS via Missing Slack Import Validation (CVE-2024-54682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
- |[DoS via lack of type validation in Calls (CVE-2024-54083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
- |[Bypass of "Max failed attempts" restriction via race condition (CVE-2024-48872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IObit Advanced SystemCare Utimate IOCTL AscRegistryFilter.sys 0x8001E004 null pointer dereference (CVE-2024-12659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
+ |[IObit Advanced SystemCare Utimate IOCTL AscRegistryFilter.sys 0x8001E01C null pointer dereference (CVE-2024-12658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
+ |[CVE-2024-8058 (CVE-2024-8058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
+ |[Race Condition with LightFTP (CVE-2024-11144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
+ |[IObit Advanced SystemCare Utimate IOCTL AscRegistryFilter.sys 0x8001E000 null pointer dereference (CVE-2024-12657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
+ |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
+ |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1687/)|Visit link for details|2024-12-12|
+ |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1686/)|Visit link for details|2024-12-12|
  
 
 # EU-CERT
@@ -104,21 +118,21 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti - CVE-2024-9845](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9845-2024-12-16)|Visit link for details.|16/12/2024|
- |[Hewlett Packard Enterprise - CVE-2024-54008](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2024-54008-2024-12-16)|Visit link for details.|16/12/2024|
- |[F5 - CVE-2024-26923](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-26923-2024-12-16)|Visit link for details.|16/12/2024|
- |[Combodo - CVE-2024-54139](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2024-54139-2024-12-16)|Visit link for details.|16/12/2024|
- |[Adobe - CVE-2024-49530](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-49530-2024-12-16)|Visit link for details.|16/12/2024|
- |[Microsoft - CVE-2024-49147](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49147-2024-12-13)|Visit link for details.|13/12/2024|
- |[Dell - CVE-2024-47484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47484-2024-12-13)|Visit link for details.|13/12/2024|
- |[WordPress MainWP Child - CVE-2024-10783](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-mainwp-child-cve-2024-10783-2024-12-13)|Visit link for details.|13/12/2024|
- |[Apple - CVE-2024-54506](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-54506-2024-12-13)|Visit link for details.|13/12/2024|
- |[Ivanti - CVE-2024-8540](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8540-2024-12-13)|Visit link for details.|13/12/2024|
- |[GitLab - CVE-2024-11274](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-11274-2024-12-12)|Visit link for details.|13/12/2024|
+ |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
+ |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
+ |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
+ |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
+ |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
+ |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
+ |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
+ |[Drupal security advisory (AV24-710)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-710)|Visit link for details|2024-12-12|
+ |[Apple security advisory (AV24-709)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-709)|Visit link for details|2024-12-12|
+ |[Apache security advisory (AV24-708)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-708)|Visit link for details|2024-12-11|
+ |[[Control systems] Schneider Electric security advisory (AV24-707)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-707)|Visit link for details|2024-12-11|
  
 
 # MA-CERT
@@ -138,35 +152,21 @@
  |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
- |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
- |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
- |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
- |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
- |[Drupal security advisory (AV24-710)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-710)|Visit link for details|2024-12-12|
- |[Apple security advisory (AV24-709)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-709)|Visit link for details|2024-12-12|
- |[Apache security advisory (AV24-708)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-708)|Visit link for details|2024-12-11|
- |[[Control systems] Schneider Electric security advisory (AV24-707)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-707)|Visit link for details|2024-12-11|
- |[GitLab security advisory (AV24-706)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-706)|Visit link for details|2024-12-11|
- |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1687/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1686/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetOrderByClause SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1685/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetSqlWhereClause SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1684/)|Visit link for details|2024-12-12|
- |[Wacom Center WTabletServicePro Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1683/)|Visit link for details|2024-12-12|
- |[GeoVision GV-ASManager Missing Authorization Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1682/)|Visit link for details|2024-12-12|
- |[Tungsten Automation Power PDF JPF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1681/)|Visit link for details|2024-12-11|
+ |[Ivanti - CVE-2024-9845](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9845-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Hewlett Packard Enterprise - CVE-2024-54008](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2024-54008-2024-12-16)|Visit link for details.|16/12/2024|
+ |[F5 - CVE-2024-26923](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-26923-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Combodo - CVE-2024-54139](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2024-54139-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Adobe - CVE-2024-49530](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-49530-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Kubernetes - CVE-2024-10220](https://www.cyberveille-sante.gouv.fr/alertes/kubernetes-cve-2024-10220-2024-11-25)|Visit link for details.|16/12/2024|
+ |[Google - CVE-2024-12381](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12381-2024-12-12)|Visit link for details.|16/12/2024|
+ |[Microsoft - CVE-2024-49147](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49147-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Dell - CVE-2024-47484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47484-2024-12-13)|Visit link for details.|13/12/2024|
+ |[WordPress MainWP Child - CVE-2024-10783](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-mainwp-child-cve-2024-10783-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Apple - CVE-2024-54506](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-54506-2024-12-13)|Visit link for details.|13/12/2024|
  
 
 # US-CERT
