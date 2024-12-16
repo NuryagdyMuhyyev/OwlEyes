@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 16/12/2024 20:24:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 16/12/2024 21:29:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,12 +52,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -74,6 +68,12 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241211)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 11 Dec 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -82,7 +82,7 @@
  |[InvoicePlane invoices.php download path traversal (CVE-2024-12362)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
  |[Zipbomb DoS via Missing Slack Import Validation (CVE-2024-54682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
  |[DoS via lack of type validation in Calls (CVE-2024-54083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
- |[Bypass of "Max failed attempts" restriction via race condition (CVE-2024-48872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -135,6 +135,23 @@
  |[Atlassian security advisory (AV24-705)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-705)|Visit link for details|2024-12-11|
  
 
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti - CVE-2024-9845](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9845-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Hewlett Packard Enterprise - CVE-2024-54008](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2024-54008-2024-12-16)|Visit link for details.|16/12/2024|
+ |[F5 - CVE-2024-26923](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-26923-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Combodo - CVE-2024-54139](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2024-54139-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Adobe - CVE-2024-49530](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-49530-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Microsoft - CVE-2024-49147](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49147-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Dell - CVE-2024-47484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47484-2024-12-13)|Visit link for details.|13/12/2024|
+ |[WordPress MainWP Child - CVE-2024-10783](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-mainwp-child-cve-2024-10783-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Apple - CVE-2024-54506](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-54506-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Ivanti - CVE-2024-8540](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8540-2024-12-13)|Visit link for details.|13/12/2024|
+ |[GitLab - CVE-2024-11274](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-11274-2024-12-12)|Visit link for details.|13/12/2024|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -150,23 +167,6 @@
  |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
  |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
  |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft - CVE-2024-49147](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49147-2024-12-13)|Visit link for details.|13/12/2024|
- |[Dell - CVE-2024-47484](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47484-2024-12-13)|Visit link for details.|13/12/2024|
- |[WordPress MainWP Child - CVE-2024-10783](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-mainwp-child-cve-2024-10783-2024-12-13)|Visit link for details.|13/12/2024|
- |[Apple - CVE-2024-54506](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-54506-2024-12-13)|Visit link for details.|13/12/2024|
- |[Ivanti - CVE-2024-8540](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-8540-2024-12-13)|Visit link for details.|13/12/2024|
- |[GitLab - CVE-2024-11274](https://www.cyberveille-sante.gouv.fr/alertes/gitlab-cve-2024-11274-2024-12-12)|Visit link for details.|13/12/2024|
- |[Veeam Service Provider - CVE-2024-42448](https://www.cyberveille-sante.gouv.fr/alertes/veeam-service-provider-cve-2024-42448-2024-12-04)|Visit link for details.|13/12/2024|
- |[Google - CVE-2024-12381](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12381-2024-12-12)|Visit link for details.|12/12/2024|
- |[GLPI - CVE-2024-50339](https://www.cyberveille-sante.gouv.fr/alertes/glpi-cve-2024-50339-2024-12-12)|Visit link for details.|12/12/2024|
- |[cURL - CVE-2024-11053](https://www.cyberveille-sante.gouv.fr/alertes/curl-cve-2024-11053-2024-12-12)|Visit link for details.|12/12/2024|
- |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|12/12/2024|
  
 
 # US-CERT
