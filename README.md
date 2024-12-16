@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/12/2024 02:21:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/12/2024 03:20:03 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,12 +46,6 @@
  |[USN-7156-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7156-1-linux-kernel-gke-vulnerabilities.54346/)|Visit link for details.|Dec 12, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -82,9 +76,15 @@
  |[IObit Advanced SystemCare Utimate IOCTL AscRegistryFilter.sys 0x8001E01C null pointer dereference (CVE-2024-12658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
  |[CVE-2024-8058 (CVE-2024-8058)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
  |[Race Condition with LightFTP (CVE-2024-11144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
- |[IObit Advanced SystemCare Utimate IOCTL AscRegistryFilter.sys 0x8001E000 null pointer dereference (CVE-2024-12657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -99,6 +99,23 @@
  |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
  |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1687/)|Visit link for details|2024-12-12|
  |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1686/)|Visit link for details|2024-12-12|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
+ |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
+ |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
+ |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
+ |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
+ |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
+ |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
+ |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
+ |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
+ |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
+ |[Drupal security advisory (AV24-710)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-710)|Visit link for details|2024-12-12|
  
 
 # EU-CERT
@@ -150,23 +167,6 @@
  |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
  |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
  |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
- |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
- |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
- |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
- |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
- |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
- |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
- |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
- |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
- |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
- |[Drupal security advisory (AV24-710)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-710)|Visit link for details|2024-12-12|
  
 
 # US-CERT
