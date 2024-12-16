@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/12/2024 00:18:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/12/2024 01:25:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7163-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7163-1-linux-kernel-vulnerability.54402/)|Visit link for details.|Dec 16, 2024|
+ |[USN-7161-1: Docker vulnerabilities](https://www.linux.org/threads/usn-7161-1-docker-vulnerabilities.54401/)|Visit link for details.|Dec 16, 2024|
+ |[USN-7162-1: curl vulnerability](https://www.linux.org/threads/usn-7162-1-curl-vulnerability.54400/)|Visit link for details.|Dec 16, 2024|
+ |[USN-7160-1: Mpmath vulnerability](https://www.linux.org/threads/usn-7160-1-mpmath-vulnerability.54390/)|Visit link for details.|Dec 16, 2024|
+ |[DSA-5831-1 gst-plugins-base1.0 - security update](https://www.linux.org/threads/dsa-5831-1-gst-plugins-base1-0-security-update.54366/)|Visit link for details.|Dec 14, 2024|
+ |[USN-7157-2: PHP regression](https://www.linux.org/threads/usn-7157-2-php-regression.54357/)|Visit link for details.|Dec 14, 2024|
+ |[USN-7157-1: PHP vulnerabilities](https://www.linux.org/threads/usn-7157-1-php-vulnerabilities.54356/)|Visit link for details.|Dec 13, 2024|
+ |[USN-7158-1: Smarty vulnerabilities](https://www.linux.org/threads/usn-7158-1-smarty-vulnerabilities.54350/)|Visit link for details.|Dec 13, 2024|
+ |[DSA-5830-1 smarty4 - security update](https://www.linux.org/threads/dsa-5830-1-smarty4-security-update.54349/)|Visit link for details.|Dec 13, 2024|
+ |[USN-7159-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7159-1-linux-kernel-vulnerabilities.54347/)|Visit link for details.|Dec 12, 2024|
+ |[USN-7156-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7156-1-linux-kernel-gke-vulnerabilities.54346/)|Visit link for details.|Dec 12, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -49,23 +66,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-12...| Release Date: 3 Dec 2024 |
  |[Adobe Monthly Security Update (December 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-december-2024)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Experience Manager Medium RiskRemote Code ExecutionCross-site ScriptingSecurity Restriction Bypass APSB24-69Adobe...|Release Date: 11 Dec 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241211)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 11 Dec 2024 |
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7163-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7163-1-linux-kernel-vulnerability.54402/)|Visit link for details.|Dec 16, 2024|
- |[USN-7161-1: Docker vulnerabilities](https://www.linux.org/threads/usn-7161-1-docker-vulnerabilities.54401/)|Visit link for details.|Dec 16, 2024|
- |[USN-7162-1: curl vulnerability](https://www.linux.org/threads/usn-7162-1-curl-vulnerability.54400/)|Visit link for details.|Dec 16, 2024|
- |[USN-7160-1: Mpmath vulnerability](https://www.linux.org/threads/usn-7160-1-mpmath-vulnerability.54390/)|Visit link for details.|Dec 16, 2024|
- |[DSA-5831-1 gst-plugins-base1.0 - security update](https://www.linux.org/threads/dsa-5831-1-gst-plugins-base1-0-security-update.54366/)|Visit link for details.|Dec 14, 2024|
- |[USN-7157-2: PHP regression](https://www.linux.org/threads/usn-7157-2-php-regression.54357/)|Visit link for details.|Dec 14, 2024|
- |[USN-7157-1: PHP vulnerabilities](https://www.linux.org/threads/usn-7157-1-php-vulnerabilities.54356/)|Visit link for details.|Dec 13, 2024|
- |[USN-7158-1: Smarty vulnerabilities](https://www.linux.org/threads/usn-7158-1-smarty-vulnerabilities.54350/)|Visit link for details.|Dec 13, 2024|
- |[DSA-5830-1 smarty4 - security update](https://www.linux.org/threads/dsa-5830-1-smarty4-security-update.54349/)|Visit link for details.|Dec 13, 2024|
- |[USN-7159-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7159-1-linux-kernel-vulnerabilities.54347/)|Visit link for details.|Dec 12, 2024|
- |[USN-7156-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7156-1-linux-kernel-gke-vulnerabilities.54346/)|Visit link for details.|Dec 12, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -118,23 +118,6 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
- |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
- |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
- |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
- |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
- |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
- |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
- |[Drupal security advisory (AV24-710)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-710)|Visit link for details|2024-12-12|
- |[Apple security advisory (AV24-709)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-709)|Visit link for details|2024-12-12|
- |[Apache security advisory (AV24-708)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-708)|Visit link for details|2024-12-11|
- |[[Control systems] Schneider Electric security advisory (AV24-707)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-707)|Visit link for details|2024-12-11|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -167,6 +150,23 @@
  |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
  |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
  |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
+ |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
+ |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
+ |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
+ |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
+ |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
+ |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
+ |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
+ |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
+ |[Drupal security advisory (AV24-710)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-710)|Visit link for details|2024-12-12|
+ |[Apple security advisory (AV24-709)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-709)|Visit link for details|2024-12-12|
  
 
 # US-CERT
