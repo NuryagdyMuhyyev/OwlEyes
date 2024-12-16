@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/12/2024 03:20:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/12/2024 04:21:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5832-1 gstreamer1.0 - security update](https://www.linux.org/threads/dsa-5832-1-gstreamer1-0-security-update.54403/)|Visit link for details.|Dec 16, 2024|
  |[USN-7163-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7163-1-linux-kernel-vulnerability.54402/)|Visit link for details.|Dec 16, 2024|
  |[USN-7161-1: Docker vulnerabilities](https://www.linux.org/threads/usn-7161-1-docker-vulnerabilities.54401/)|Visit link for details.|Dec 16, 2024|
  |[USN-7162-1: curl vulnerability](https://www.linux.org/threads/usn-7162-1-curl-vulnerability.54400/)|Visit link for details.|Dec 16, 2024|
@@ -43,7 +44,6 @@
  |[USN-7158-1: Smarty vulnerabilities](https://www.linux.org/threads/usn-7158-1-smarty-vulnerabilities.54350/)|Visit link for details.|Dec 13, 2024|
  |[DSA-5830-1 smarty4 - security update](https://www.linux.org/threads/dsa-5830-1-smarty4-security-update.54349/)|Visit link for details.|Dec 13, 2024|
  |[USN-7159-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7159-1-linux-kernel-vulnerabilities.54347/)|Visit link for details.|Dec 12, 2024|
- |[USN-7156-1: Linux kernel (GKE) vulnerabilities](https://www.linux.org/threads/usn-7156-1-linux-kernel-gke-vulnerabilities.54346/)|Visit link for details.|Dec 12, 2024|
  
 
 # CERT-FR
@@ -68,6 +68,12 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241211)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service condition on the targeted system.|Release Date: 11 Dec 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -79,12 +85,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
