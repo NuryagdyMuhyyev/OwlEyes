@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/12/2024 15:24:26 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/12/2024 16:18:52 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -87,21 +87,18 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|17/12/2024|
- |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|17/12/2024|
- |[Cisco - CVE-2023-20192](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20192-2023-06-09)|Visit link for details.|17/12/2024|
- |[Ivanti - CVE-2024-9845](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9845-2024-12-16)|Visit link for details.|16/12/2024|
- |[Hewlett Packard Enterprise - CVE-2024-54008](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2024-54008-2024-12-16)|Visit link for details.|16/12/2024|
- |[F5 - CVE-2024-26923](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-26923-2024-12-16)|Visit link for details.|16/12/2024|
- |[Combodo - CVE-2024-54139](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2024-54139-2024-12-16)|Visit link for details.|16/12/2024|
- |[Adobe - CVE-2024-49530](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-49530-2024-12-16)|Visit link for details.|16/12/2024|
- |[Kubernetes - CVE-2024-10220](https://www.cyberveille-sante.gouv.fr/alertes/kubernetes-cve-2024-10220-2024-11-25)|Visit link for details.|16/12/2024|
- |[Google - CVE-2024-12381](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12381-2024-12-12)|Visit link for details.|16/12/2024|
- |[Microsoft - CVE-2024-49147](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49147-2024-12-13)|Visit link for details.|13/12/2024|
+ |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
+ |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
+ |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1687/)|Visit link for details|2024-12-12|
+ |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1686/)|Visit link for details|2024-12-12|
  
 
 # EU-CERT
@@ -121,6 +118,23 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
+ |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
+ |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
+ |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
+ |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
+ |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
+ |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
+ |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
+ |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
+ |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
+ |[Drupal security advisory (AV24-710)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-710)|Visit link for details|2024-12-12|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -138,35 +152,21 @@
  |[ 51441112/24 - Vulnérabilité affectant le navigateur Microsoft Edge (Patch Tuesday… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-microsoft-edge-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger une  vulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un…| 11 décembre 2024|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
- |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1687/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1686/)|Visit link for details|2024-12-12|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
- |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
- |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
- |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
- |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
- |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
- |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
- |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
- |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
- |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
- |[Drupal security advisory (AV24-710)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-710)|Visit link for details|2024-12-12|
+ |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|17/12/2024|
+ |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|17/12/2024|
+ |[Cisco - CVE-2023-20192](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20192-2023-06-09)|Visit link for details.|17/12/2024|
+ |[Ivanti - CVE-2024-9845](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9845-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Hewlett Packard Enterprise - CVE-2024-54008](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2024-54008-2024-12-16)|Visit link for details.|16/12/2024|
+ |[F5 - CVE-2024-26923](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-26923-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Combodo - CVE-2024-54139](https://www.cyberveille-sante.gouv.fr/alertes/combodo-cve-2024-54139-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Adobe - CVE-2024-49530](https://www.cyberveille-sante.gouv.fr/alertes/adobe-cve-2024-49530-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Kubernetes - CVE-2024-10220](https://www.cyberveille-sante.gouv.fr/alertes/kubernetes-cve-2024-10220-2024-11-25)|Visit link for details.|16/12/2024|
+ |[Google - CVE-2024-12381](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12381-2024-12-12)|Visit link for details.|16/12/2024|
+ |[Microsoft - CVE-2024-49147](https://www.cyberveille-sante.gouv.fr/alertes/microsoft-cve-2024-49147-2024-12-13)|Visit link for details.|13/12/2024|
  
 
 # US-CERT
