@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/12/2024 02:18:33 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/12/2024 03:20:42 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,10 +58,17 @@
  |---|---|---|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[IBM Security Guardium Key Lifecycle Manager information disclosure (CVE-2024-49816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
+ |[IBM Security Guardium Key Lifecycle Manager information disclosure (CVE-2024-49820)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
+ |[IBM Security Guardium Key Lifecycle Manager information disclosure (CVE-2024-49819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
+ |[IBM Security Guardium Key Lifecycle Manager information disclosure (CVE-2024-49818)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -74,17 +87,18 @@
  |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20241212)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 12 Dec 2024 |
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM Security Guardium Key Lifecycle Manager information disclosure (CVE-2024-49816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
- |[IBM Security Guardium Key Lifecycle Manager information disclosure (CVE-2024-49820)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
- |[IBM Security Guardium Key Lifecycle Manager information disclosure (CVE-2024-49819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
- |[IBM Security Guardium Key Lifecycle Manager information disclosure (CVE-2024-49818)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Ivanti Avalanche FileStoreConfig Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1695/)|Visit link for details|2024-12-17|
+ |[Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1694/)|Visit link for details|2024-12-17|
+ |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
+ |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
  
 
 # EU-CERT
@@ -104,20 +118,6 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
- |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1687/)|Visit link for details|2024-12-12|
- |[Progress Software WhatsUp Gold GetFilterCriteria SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1686/)|Visit link for details|2024-12-12|
- 
-
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -135,23 +135,6 @@
  |[F5 - CVE-2024-26923](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-26923-2024-12-16)|Visit link for details.|16/12/2024|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
- |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
- |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
- |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
- |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
- |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
- |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
- |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
- |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
- |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
- |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -167,6 +150,23 @@
  |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
  |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
  |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
+ |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
+ |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
+ |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
+ |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
+ |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
+ |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
+ |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
+ |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
+ |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
+ |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
  
 
 # US-CERT
