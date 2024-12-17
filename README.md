@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 17/12/2024 11:31:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 17/12/2024 12:22:50 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -50,6 +44,12 @@
  |[USN-7158-1: Smarty vulnerabilities](https://www.linux.org/threads/usn-7158-1-smarty-vulnerabilities.54350/)|Visit link for details.|Dec 13, 2024|
  |[DSA-5830-1 smarty4 - security update](https://www.linux.org/threads/dsa-5830-1-smarty4-security-update.54349/)|Visit link for details.|Dec 13, 2024|
  |[USN-7159-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7159-1-linux-kernel-vulnerabilities.54347/)|Visit link for details.|Dec 12, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
@@ -82,7 +82,7 @@
  |[Information disclosure vulnerability in Weather module (CVE-2021-26279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
  |[Sensitive information leakage vulnerability in wifi module (CVE-2021-26278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
  |[CRM Perks – WordPress HelpDesk Integration – Zendesk, Freshdesk, HelpScout <= 1.1.6 - Authenticated (Contributor+) Stored Cross-Site Scripting (CVE-2024-12443)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[WordPress Stop Registration Spam Plugin <= 1.23 - CSRF to Stored XSS vulnerability (CVE-2024-56017)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 16, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
