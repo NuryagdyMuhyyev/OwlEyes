@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/12/2024 07:58:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/12/2024 08:34:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,17 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5833-1 dpdk - security update](https://www.linux.org/threads/dsa-5833-1-dpdk-security-update.54435/)|Visit link for details.|Dec 18, 2024|
  |[USN-7173-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7173-1-linux-kernel-vulnerabilities.54426/)|Visit link for details.|Dec 17, 2024|
  |[USN-7170-1: Linux kernel (OEM) vulnerabilities](https://www.linux.org/threads/usn-7170-1-linux-kernel-oem-vulnerabilities.54425/)|Visit link for details.|Dec 17, 2024|
  |[USN-7169-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7169-1-linux-kernel-vulnerabilities.54424/)|Visit link for details.|Dec 17, 2024|
@@ -43,13 +50,6 @@
  |[DSA-5832-1 gstreamer1.0 - security update](https://www.linux.org/threads/dsa-5832-1-gstreamer1-0-security-update.54403/)|Visit link for details.|Dec 16, 2024|
  |[USN-7163-1: Linux kernel vulnerability](https://www.linux.org/threads/usn-7163-1-linux-kernel-vulnerability.54402/)|Visit link for details.|Dec 16, 2024|
  |[USN-7161-1: Docker vulnerabilities](https://www.linux.org/threads/usn-7161-1-docker-vulnerabilities.54401/)|Visit link for details.|Dec 16, 2024|
- |[USN-7162-1: curl vulnerability](https://www.linux.org/threads/usn-7162-1-curl-vulnerability.54400/)|Visit link for details.|Dec 16, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -82,23 +82,26 @@
  |[Path Traversal in pghoard (CVE-2024-56142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
  |[Elasticsearch Incorrect Authorization (CVE-2024-12539)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
  |[CVE-2024-11993 (CVE-2024-11993)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
+ |[A stack overflow Segmentation Fault (SEGV) and Memory Leak in pdftools (CVE-2024-56139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 17, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti Avalanche FileStoreConfig Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1695/)|Visit link for details|2024-12-17|
- |[Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1694/)|Visit link for details|2024-12-17|
- |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
- |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
+ |[WordPress - CVE-2024-12293](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-12293-2024-12-17)|Visit link for details.|17/12/2024|
+ |[SAP - CVE-2024-54197](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54197-2024-12-17)|Visit link for details.|17/12/2024|
+ |[Online Nurse Hiring System - CVE-2024-55103](https://www.cyberveille-sante.gouv.fr/alertes/online-nurse-hiring-system-cve-2024-55103-2024-12-17)|Visit link for details.|17/12/2024|
+ |[Dell - CVE-2024-37144](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37144-2024-12-17)|Visit link for details.|17/12/2024|
+ |[Apple - CVE-2024-44242](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44242-2024-12-17)|Visit link for details.|17/12/2024|
+ |[Cisco - CVE-2023-20192](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20192-2023-06-09)|Visit link for details.|17/12/2024|
+ |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|17/12/2024|
+ |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|17/12/2024|
+ |[Ivanti - CVE-2024-9845](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9845-2024-12-16)|Visit link for details.|16/12/2024|
+ |[Hewlett Packard Enterprise - CVE-2024-54008](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2024-54008-2024-12-16)|Visit link for details.|16/12/2024|
+ |[F5 - CVE-2024-26923](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-26923-2024-12-16)|Visit link for details.|16/12/2024|
  
 
 # EU-CERT
@@ -135,23 +138,6 @@
  |[Ivanti security advisory (AV24-711)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-711)|Visit link for details|2024-12-12|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress - CVE-2024-12293](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-12293-2024-12-17)|Visit link for details.|17/12/2024|
- |[SAP - CVE-2024-54197](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54197-2024-12-17)|Visit link for details.|17/12/2024|
- |[Online Nurse Hiring System - CVE-2024-55103](https://www.cyberveille-sante.gouv.fr/alertes/online-nurse-hiring-system-cve-2024-55103-2024-12-17)|Visit link for details.|17/12/2024|
- |[Dell - CVE-2024-37144](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37144-2024-12-17)|Visit link for details.|17/12/2024|
- |[Apple - CVE-2024-44242](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44242-2024-12-17)|Visit link for details.|17/12/2024|
- |[Cisco - CVE-2023-20192](https://www.cyberveille-sante.gouv.fr/alertes/cisco-cve-2023-20192-2023-06-09)|Visit link for details.|17/12/2024|
- |[Mitel - CVE-2024-41713](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-41713-2024-10-11)|Visit link for details.|17/12/2024|
- |[Mitel - CVE-2024-35286](https://www.cyberveille-sante.gouv.fr/alertes/mitel-cve-2024-35286-2024-05-28)|Visit link for details.|17/12/2024|
- |[Ivanti - CVE-2024-9845](https://www.cyberveille-sante.gouv.fr/alertes/ivanti-cve-2024-9845-2024-12-16)|Visit link for details.|16/12/2024|
- |[Hewlett Packard Enterprise - CVE-2024-54008](https://www.cyberveille-sante.gouv.fr/alertes/hewlett-packard-enterprise-cve-2024-54008-2024-12-16)|Visit link for details.|16/12/2024|
- |[F5 - CVE-2024-26923](https://www.cyberveille-sante.gouv.fr/alertes/f5-cve-2024-26923-2024-12-16)|Visit link for details.|16/12/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -167,6 +153,20 @@
  |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
  |[ 51461112/24 - Vulnérabilités critiques affectant Ivanti Cloud Services Application ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-ivanti-cloud-services-application)| Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant les versions susmentionnées de son produit Cloud Services Application. L’exploitation de ces…| 11 décembre 2024|
  |[ 51451112/24 - Vulnérabilité affectant Microsoft System center (Patch Tuesday Décembre… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-microsoft-system-center-patch-tuesday-decembre-2024)| Microsoft vient de publier une mise à jour de sécurité qui permet de corriger deux  vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 11 décembre 2024|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche FileStoreConfig Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1695/)|Visit link for details|2024-12-17|
+ |[Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1694/)|Visit link for details|2024-12-17|
+ |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
+ |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
  
 
 # US-CERT
