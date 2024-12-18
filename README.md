@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/12/2024 21:27:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/12/2024 22:19:26 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,6 +52,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -68,12 +74,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241213)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 13 Dec 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -82,7 +82,7 @@
  |[WordPress Order Delivery & Pickup Location Date Time plugin <= 1.1.0 - Settings Change vulnerability (CVE-2024-55997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
  |[WordPress Bootstrap Buttons plugin <= 1.2 - Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-49677)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
  |[WordPress Saoshyant Element plugin <= 1.2 - Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-51646)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[WordPress Device Detector Plugin <= 4.2.0 - Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-56010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -139,6 +139,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[TrendMicro - CVE-2024-52048](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52048-2024-12-18)|Visit link for details.|18/12/2024|
  |[Express.js - CVE-2024-45590](https://www.cyberveille-sante.gouv.fr/alertes/expressjs-cve-2024-45590-2024-12-18)|Visit link for details.|18/12/2024|
  |[D-Link - CVE-2024-37605](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37605-2024-12-18)|Visit link for details.|18/12/2024|
  |[BD Diagnostic Solutions - CVE-2024-10476](https://www.cyberveille-sante.gouv.fr/alertes/bd-diagnostic-solutions-cve-2024-10476-2024-12-18)|Visit link for details.|18/12/2024|
@@ -149,7 +150,6 @@
  |[SAP - CVE-2024-54197](https://www.cyberveille-sante.gouv.fr/alertes/sap-cve-2024-54197-2024-12-17)|Visit link for details.|17/12/2024|
  |[Online Nurse Hiring System - CVE-2024-55103](https://www.cyberveille-sante.gouv.fr/alertes/online-nurse-hiring-system-cve-2024-55103-2024-12-17)|Visit link for details.|17/12/2024|
  |[Dell - CVE-2024-37144](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37144-2024-12-17)|Visit link for details.|17/12/2024|
- |[Apple - CVE-2024-44242](https://www.cyberveille-sante.gouv.fr/alertes/apple-cve-2024-44242-2024-12-17)|Visit link for details.|17/12/2024|
  
 
 # MA-CERT
