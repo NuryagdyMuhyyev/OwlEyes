@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/12/2024 18:29:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/12/2024 19:20:20 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,12 @@
  |[USN-7164-1: ImageMagick vulnerability](https://www.linux.org/threads/usn-7164-1-imagemagick-vulnerability.54416/)|Visit link for details.|Dec 17, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -62,12 +68,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241213)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 13 Dec 2024 |
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -82,7 +82,7 @@
  |[WordPress Order Delivery & Pickup Location Date Time plugin <= 1.1.0 - Settings Change vulnerability (CVE-2024-55997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
  |[WordPress Bootstrap Buttons plugin <= 1.2 - Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-49677)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
  |[WordPress Saoshyant Element plugin <= 1.2 - Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-51646)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[WordPress Device Detector Plugin <= 4.2.0 - Reflected Cross Site Scripting (XSS) vulnerability (CVE-2024-56010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -139,6 +139,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ 51571812/24 - Vulnérabilité critique dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-siemens)| Une vulnérabilité  critique a été corrigée dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 18 décembre 2024|
  |[ 51561812/24 - Vulnérabilités affectant Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat-0)| Apache annonce la correction de deux vulnérabilités affectant son produit Apache Tomcat. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 18 décembre 2024|
  |[ 51551812/24 - Vulnérabilités critiques dans les routeurs SHARP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-sharp)| Plusieurs vulnérabilités critiques ont été corrigées dans les routeurs SHARP. L'exploitation de ces failles peut permettre à un attaquant d'exécuter du code arbitraire avec des privilèges «…| 18 décembre 2024|
  |[ 51541712/24 - Vulnérabilité critique dans les produits Hitachi ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-hitachi)| Une vulnérabilité critique de contournement d'authentification a été corrigée dans Hitachi Infrastructure Analytics Advisor et Hitachi Ops Center Analyzer. L'exploitation de cette faille ne nécessite…| 17 décembre 2024|
@@ -149,7 +150,6 @@
  |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
  |[ 51491212/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-18)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2024|
  |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
- |[ 51471112/24 - Vulnérabilités affectant le navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-31)| Google vient de publier une mise à jour de sécurité qui permet de corriger trois vulnérabilités    affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…| 11 décembre 2024|
  
 
 # CERT-SANTE
