@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 18/12/2024 13:28:56 UTC+5 (Asia/Ashgabat)
+ > Last Updated 18/12/2024 14:23:41 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,6 +52,19 @@
  |---|---|---|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ose-olm-catalogd-container: incomplete fix for rapid reset (cve-2023-39325/cve-2023-44487) (CVE-2024-12698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[CVE-2024-56174 (CVE-2024-56174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[CVE-2024-56173 (CVE-2024-56173)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[CVE-2024-56175 (CVE-2024-56175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[CVE-2024-56169 (CVE-2024-56169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -72,19 +85,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ose-olm-catalogd-container: incomplete fix for rapid reset (cve-2023-39325/cve-2023-44487) (CVE-2024-12698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[CVE-2024-56174 (CVE-2024-56174)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[CVE-2024-56173 (CVE-2024-56173)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[CVE-2024-56175 (CVE-2024-56175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[CVE-2024-56169 (CVE-2024-56169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
