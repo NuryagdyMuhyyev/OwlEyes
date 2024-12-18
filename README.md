@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/12/2024 01:24:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/12/2024 02:18:08 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,12 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -44,12 +50,6 @@
  |[USN-7159-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7159-3-linux-kernel-vulnerabilities.54437/)|Visit link for details.|Dec 18, 2024|
  |[USN-7166-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-7166-2-linux-kernel-aws-vulnerabilities.54436/)|Visit link for details.|Dec 18, 2024|
  |[DSA-5833-1 dpdk - security update](https://www.linux.org/threads/dsa-5833-1-dpdk-security-update.54435/)|Visit link for details.|Dec 18, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -68,12 +68,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241213)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 13 Dec 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -82,23 +76,15 @@
  |[CVE-2024-49576 (CVE-2024-49576)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
  |[CVE-2024-47810 (CVE-2024-47810)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
  |[Rockwell Automation PowerMonitor™ 1000 Denial of Service (CVE-2024-12373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[IBM Storage Defender - Resiliency Service information disclosure (CVE-2023-50956)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Ivanti Avalanche FileStoreConfig Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1695/)|Visit link for details|2024-12-17|
- |[Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1694/)|Visit link for details|2024-12-17|
- |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
- |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
  
 
 # EU-CERT
@@ -118,10 +104,28 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51571812/24 - Vulnérabilité critique dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-siemens)| Une vulnérabilité  critique a été corrigée dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 18 décembre 2024|
+ |[ 51561812/24 - Vulnérabilités affectant Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat-0)| Apache annonce la correction de deux vulnérabilités affectant son produit Apache Tomcat. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 18 décembre 2024|
+ |[ 51551812/24 - Vulnérabilités critiques dans les routeurs SHARP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-sharp)| Plusieurs vulnérabilités critiques ont été corrigées dans les routeurs SHARP. L'exploitation de ces failles peut permettre à un attaquant d'exécuter du code arbitraire avec des privilèges «…| 18 décembre 2024|
+ |[ 51541712/24 - Vulnérabilité critique dans les produits Hitachi ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-hitachi)| Une vulnérabilité critique de contournement d'authentification a été corrigée dans Hitachi Infrastructure Analytics Advisor et Hitachi Ops Center Analyzer. L'exploitation de cette faille ne nécessite…| 17 décembre 2024|
+ |[ 51531312/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-1)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette …| 13 décembre 2024|
+ |[ 51531312/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-4)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits                  susmentionnés. Ces…| 13 décembre 2024|
+ |[ 51521312/24 - Vulnérabilités critiques affectant des produits de Dell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-dell)| Dell  annonce la correction  de deux  vulnérabilités critiques affectant  ses produits susmentionnés.  L'exploitation de  ces vulnérabilités peut permettre à un…| 13 décembre 2024|
+ |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
+ |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
+ |[ 51491212/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-18)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2024|
+ |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
  |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
  |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
  |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
@@ -132,7 +136,6 @@
  |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
  |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
  |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
- |[Microsoft Edge security advisory (AV24-712)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-712)|Visit link for details|2024-12-13|
  
 
 # CERT-SANTE
@@ -152,21 +155,18 @@
  |[Dell - CVE-2024-37144](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37144-2024-12-17)|Visit link for details.|17/12/2024|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[ 51571812/24 - Vulnérabilité critique dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-siemens)| Une vulnérabilité  critique a été corrigée dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 18 décembre 2024|
- |[ 51561812/24 - Vulnérabilités affectant Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat-0)| Apache annonce la correction de deux vulnérabilités affectant son produit Apache Tomcat. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 18 décembre 2024|
- |[ 51551812/24 - Vulnérabilités critiques dans les routeurs SHARP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-sharp)| Plusieurs vulnérabilités critiques ont été corrigées dans les routeurs SHARP. L'exploitation de ces failles peut permettre à un attaquant d'exécuter du code arbitraire avec des privilèges «…| 18 décembre 2024|
- |[ 51541712/24 - Vulnérabilité critique dans les produits Hitachi ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-hitachi)| Une vulnérabilité critique de contournement d'authentification a été corrigée dans Hitachi Infrastructure Analytics Advisor et Hitachi Ops Center Analyzer. L'exploitation de cette faille ne nécessite…| 17 décembre 2024|
- |[ 51531312/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-1)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette …| 13 décembre 2024|
- |[ 51531312/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-4)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits                  susmentionnés. Ces…| 13 décembre 2024|
- |[ 51521312/24 - Vulnérabilités critiques affectant des produits de Dell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-dell)| Dell  annonce la correction  de deux  vulnérabilités critiques affectant  ses produits susmentionnés.  L'exploitation de  ces vulnérabilités peut permettre à un…| 13 décembre 2024|
- |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
- |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
- |[ 51491212/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-18)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2024|
- |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
+ |[Ivanti Avalanche FileStoreConfig Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1695/)|Visit link for details|2024-12-17|
+ |[Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1694/)|Visit link for details|2024-12-17|
+ |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
+ |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
  
 
 # US-CERT
