@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/12/2024 21:25:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/12/2024 22:17:19 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,29 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[USN-7178-1: DPDK vulnerability](https://www.linux.org/threads/usn-7178-1-dpdk-vulnerability.54472/)|Visit link for details.|Dec 19, 2024|
+ |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
+ |[USN-7177-1: YARA vulnerability](https://www.linux.org/threads/usn-7177-1-yara-vulnerability.54458/)|Visit link for details.|Dec 18, 2024|
+ |[USN-7169-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-7169-2-linux-kernel-gcp-vulnerabilities.54457/)|Visit link for details.|Dec 18, 2024|
+ |[USN-7172-1: libvpx vulnerability](https://www.linux.org/threads/usn-7172-1-libvpx-vulnerability.54454/)|Visit link for details.|Dec 18, 2024|
+ |[USN-7176-1: GStreamer Good Plugins vulnerabilities](https://www.linux.org/threads/usn-7176-1-gstreamer-good-plugins-vulnerabilities.54453/)|Visit link for details.|Dec 18, 2024|
+ |[USN-7175-1: GStreamer Base Plugins vulnerabilities](https://www.linux.org/threads/usn-7175-1-gstreamer-base-plugins-vulnerabilities.54452/)|Visit link for details.|Dec 18, 2024|
+ |[USN-7174-1: GStreamer vulnerability](https://www.linux.org/threads/usn-7174-1-gstreamer-vulnerability.54451/)|Visit link for details.|Dec 18, 2024|
+ |[USN-7171-1: PHPUnit vulnerability](https://www.linux.org/threads/usn-7171-1-phpunit-vulnerability.54450/)|Visit link for details.|Dec 18, 2024|
+ |[USN-7168-1: EditorConfig vulnerabilities](https://www.linux.org/threads/usn-7168-1-editorconfig-vulnerabilities.54443/)|Visit link for details.|Dec 18, 2024|
+ |[USN-7159-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7159-3-linux-kernel-vulnerabilities.54437/)|Visit link for details.|Dec 18, 2024|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -51,23 +74,6 @@
  |[Adobe Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2024)|[Updated on 2024-12-17]Updated Risk, Description, Impact, Source and Related Links.CVE-2024-20767 is being exploited in the wild. An attacker who successfully exploited this vulnerability could access or modify restricted files via an internet-...| Release Date: 13 Mar 2024 |
  
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7177-1: YARA vulnerability](https://www.linux.org/threads/usn-7177-1-yara-vulnerability.54458/)|Visit link for details.|Dec 18, 2024|
- |[USN-7169-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-7169-2-linux-kernel-gcp-vulnerabilities.54457/)|Visit link for details.|Dec 18, 2024|
- |[USN-7172-1: libvpx vulnerability](https://www.linux.org/threads/usn-7172-1-libvpx-vulnerability.54454/)|Visit link for details.|Dec 18, 2024|
- |[USN-7176-1: GStreamer Good Plugins vulnerabilities](https://www.linux.org/threads/usn-7176-1-gstreamer-good-plugins-vulnerabilities.54453/)|Visit link for details.|Dec 18, 2024|
- |[USN-7175-1: GStreamer Base Plugins vulnerabilities](https://www.linux.org/threads/usn-7175-1-gstreamer-base-plugins-vulnerabilities.54452/)|Visit link for details.|Dec 18, 2024|
- |[USN-7174-1: GStreamer vulnerability](https://www.linux.org/threads/usn-7174-1-gstreamer-vulnerability.54451/)|Visit link for details.|Dec 18, 2024|
- |[USN-7171-1: PHPUnit vulnerability](https://www.linux.org/threads/usn-7171-1-phpunit-vulnerability.54450/)|Visit link for details.|Dec 18, 2024|
- |[USN-7168-1: EditorConfig vulnerabilities](https://www.linux.org/threads/usn-7168-1-editorconfig-vulnerabilities.54443/)|Visit link for details.|Dec 18, 2024|
- |[USN-7159-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7159-3-linux-kernel-vulnerabilities.54437/)|Visit link for details.|Dec 18, 2024|
- |[USN-7166-2: Linux kernel (AWS) vulnerabilities](https://www.linux.org/threads/usn-7166-2-linux-kernel-aws-vulnerabilities.54436/)|Visit link for details.|Dec 18, 2024|
- |[DSA-5833-1 dpdk - security update](https://www.linux.org/threads/dsa-5833-1-dpdk-security-update.54435/)|Visit link for details.|Dec 18, 2024|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -79,12 +85,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -122,6 +122,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Dell - CVE-2024-51532](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51532-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Fortinet - CVE-2023-34990](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34990-2024-12-19)|Visit link for details.|19/12/2024|
  |[Foxit - CVE-2024-47810](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-47810-2024-12-19)|Visit link for details.|19/12/2024|
  |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|19/12/2024|
  |[Synology - CVE-2024-4464](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-4464-2024-12-19)|Visit link for details.|19/12/2024|
@@ -131,8 +133,23 @@
  |[BD Diagnostic Solutions - CVE-2024-10476](https://www.cyberveille-sante.gouv.fr/alertes/bd-diagnostic-solutions-cve-2024-10476-2024-12-18)|Visit link for details.|18/12/2024|
  |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|18/12/2024|
  |[HPE - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30905-2023-06-21)|Visit link for details.|18/12/2024|
- |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|18/12/2024|
- |[WordPress - CVE-2024-12293](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-12293-2024-12-17)|Visit link for details.|17/12/2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
+ |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
+ |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
+ |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
+ |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
+ |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
+ |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
+ |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
+ |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
+ |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
+ |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
  
 
 # MA-CERT
@@ -150,23 +167,6 @@
  |[ 51521312/24 - Vulnérabilités critiques affectant des produits de Dell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-dell)| Dell  annonce la correction  de deux  vulnérabilités critiques affectant  ses produits susmentionnés.  L'exploitation de  ces vulnérabilités peut permettre à un…| 13 décembre 2024|
  |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
  |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
- |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
- |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
- |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
- |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
- |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
- |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
- |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
- |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
- |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
- |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
  
 
 # US-CERT
