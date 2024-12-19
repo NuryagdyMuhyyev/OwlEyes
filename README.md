@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/12/2024 04:20:31 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/12/2024 06:46:21 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,6 +46,31 @@
  |[DSA-5833-1 dpdk - security update](https://www.linux.org/threads/dsa-5833-1-dpdk-security-update.54435/)|Visit link for details.|Dec 18, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CVE-2022-40733 (CVE-2022-40733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[CVE-2022-40732 (CVE-2022-40732)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[Bypass of CSRF Middleware in Astro (CVE-2024-56140)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[Non-linear parsing of case-insensitive content in golang.org/x/net/html (CVE-2024-45338)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[RCE when PHP `register_argc_argv` config setting is enabled in craftcms/cms (CVE-2024-56145)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -66,73 +85,6 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20241216)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service condition and remote code execution on the targeted system. |Release Date: 16 Dec 2024 |
  |[GitLab Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20241213)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit these vulnerabilities to trigger denial of service condition, cross-site scripting and sensitive information disclosure on the targeted system.|Release Date: 13 Dec 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241213)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 13 Dec 2024 |
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Cognos Analytics HTTP open redirection (CVE-2024-45082)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[CVE-2024-49576 (CVE-2024-49576)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[CVE-2024-47810 (CVE-2024-47810)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[Rockwell Automation PowerMonitor™ 1000 Denial of Service (CVE-2024-12373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[IBM Storage Defender - Resiliency Service information disclosure (CVE-2023-50956)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 18, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Avalanche FileStoreConfig Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1695/)|Visit link for details|2024-12-17|
- |[Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1694/)|Visit link for details|2024-12-17|
- |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
- |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-119: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-119/)|On December 10, 2024, Ivanti has released critical security updates addressing multiple vulnerabilities in its Cloud Services Appliance (CSA) and Connect Secure products. These flaws could allow attackers to escalate privileges or execute arbitrary code.|Wednesday, December 11, 2024 04:31:06 PM CET|
- |[2024-118: Critical Vulnerability in 7-Zip](https://cert.europa.eu/publications/security-advisories/2024-118/)|A severe security vulnerability has been discovered in 7-Zip, the popular file compression utility, allowing remote attackers to execute malicious code through specially crafted archives. The vulnerability tracked as CVE-2024-11477 has received a high CVSS score of 7.8.|Monday, November 25, 2024 09:34:13 AM CET|
- |[2024-117: Zero-Day Vulnerabilities in Palo Alto Networks PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-117/)|Palo Alto Networks released security updates for two actively exploited zero-day vulnerabilities in Palo Alto Networks PAN-OS. If exploited, these vulnerabilities could allow a remote unauthenticated attacker to gain administrator privileges, or a PAN-OS administrator to perform actions on the firewall with root privileges.|Tuesday, November 19, 2024 10:55:57 AM CET|
- |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
- |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
- |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
- |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
- |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
- |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
- |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
- |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
- |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
- |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
- |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
- |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
- |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
- |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
- |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
- |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
- |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
- |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
  
 
 # CERT-SANTE
@@ -152,6 +104,23 @@
  |[Dell - CVE-2024-37144](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-37144-2024-12-17)|Visit link for details.|17/12/2024|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-119: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-119/)|On December 10, 2024, Ivanti has released critical security updates addressing multiple vulnerabilities in its Cloud Services Appliance (CSA) and Connect Secure products. These flaws could allow attackers to escalate privileges or execute arbitrary code.|Wednesday, December 11, 2024 04:31:06 PM CET|
+ |[2024-118: Critical Vulnerability in 7-Zip](https://cert.europa.eu/publications/security-advisories/2024-118/)|A severe security vulnerability has been discovered in 7-Zip, the popular file compression utility, allowing remote attackers to execute malicious code through specially crafted archives. The vulnerability tracked as CVE-2024-11477 has received a high CVSS score of 7.8.|Monday, November 25, 2024 09:34:13 AM CET|
+ |[2024-117: Zero-Day Vulnerabilities in Palo Alto Networks PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-117/)|Palo Alto Networks released security updates for two actively exploited zero-day vulnerabilities in Palo Alto Networks PAN-OS. If exploited, these vulnerabilities could allow a remote unauthenticated attacker to gain administrator privileges, or a PAN-OS administrator to perform actions on the firewall with root privileges.|Tuesday, November 19, 2024 10:55:57 AM CET|
+ |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
+ |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
+ |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
+ |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
+ |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
+ |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
+ |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
+ |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -167,6 +136,37 @@
  |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
  |[ 51491212/24 - Vulnérabilités affectant plusieurs produits d’Adobe ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-18)| Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…| 12 décembre 2024|
  |[ 51481112/24 - Vulnérabilités critiques affectant des produits de Schneider Electric ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-schneider-electric)| Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…| 11 décembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
+ |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
+ |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
+ |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
+ |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
+ |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
+ |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
+ |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
+ |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
+ |[HPE security advisory (AV24-714)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-714)|Visit link for details|2024-12-16|
+ |[Mozilla security advisory (AV24-713)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-713)|Visit link for details|2024-12-13|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche FileStoreConfig Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1695/)|Visit link for details|2024-12-17|
+ |[Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1694/)|Visit link for details|2024-12-17|
+ |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
+ |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
  
 
 # US-CERT
