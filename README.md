@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 19/12/2024 14:23:46 UTC+5 (Asia/Ashgabat)
+ > Last Updated 19/12/2024 15:23:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -53,6 +47,12 @@
  
 
 # OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -87,6 +87,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ivanti Avalanche FileStoreConfig Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1695/)|Visit link for details|2024-12-17|
+ |[Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1694/)|Visit link for details|2024-12-17|
+ |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
+ |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
+ |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -102,20 +116,6 @@
  |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Ivanti Avalanche FileStoreConfig Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1695/)|Visit link for details|2024-12-17|
- |[Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1694/)|Visit link for details|2024-12-17|
- |[Dell Avamar Web Restore Login Action SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1693/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1692/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1691/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1690/)|Visit link for details|2024-12-16|
- |[Dell Avamar Fitness Analyzer API SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1689/)|Visit link for details|2024-12-16|
- |[Linux Kernel ksmbd PreviousSessionId Race Condition Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1688/)|Visit link for details|2024-12-12|
  
 
 # CA-CCS
