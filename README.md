@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/12/2024 07:52:10 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/12/2024 08:25:57 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -76,7 +76,7 @@
  |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -101,23 +101,6 @@
  |[(0Day) Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1713/)|Visit link for details|2024-12-19|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
- |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
- |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
- |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
- |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
- |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
- |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
- |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
- |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
- |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
- |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -135,21 +118,21 @@
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Dell - CVE-2024-51532](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51532-2024-12-19)|Visit link for details.|19/12/2024|
- |[Fortinet - CVE-2023-34990](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34990-2024-12-19)|Visit link for details.|19/12/2024|
- |[Foxit - CVE-2024-47810](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-47810-2024-12-19)|Visit link for details.|19/12/2024|
- |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|19/12/2024|
- |[Synology - CVE-2024-4464](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-4464-2024-12-19)|Visit link for details.|19/12/2024|
- |[TrendMicro - CVE-2024-52048](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52048-2024-12-18)|Visit link for details.|18/12/2024|
- |[Express.js - CVE-2024-45590](https://www.cyberveille-sante.gouv.fr/alertes/expressjs-cve-2024-45590-2024-12-18)|Visit link for details.|18/12/2024|
- |[D-Link - CVE-2024-37605](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37605-2024-12-18)|Visit link for details.|18/12/2024|
- |[BD Diagnostic Solutions - CVE-2024-10476](https://www.cyberveille-sante.gouv.fr/alertes/bd-diagnostic-solutions-cve-2024-10476-2024-12-18)|Visit link for details.|18/12/2024|
- |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|18/12/2024|
- |[HPE - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30905-2023-06-21)|Visit link for details.|18/12/2024|
+ |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
+ |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
+ |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
+ |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
+ |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
+ |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
+ |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
+ |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
+ |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
+ |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
+ |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
  
 
 # MA-CERT
@@ -167,6 +150,23 @@
  |[ 51521312/24 - Vulnérabilités critiques affectant des produits de Dell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-dell)| Dell  annonce la correction  de deux  vulnérabilités critiques affectant  ses produits susmentionnés.  L'exploitation de  ces vulnérabilités peut permettre à un…| 13 décembre 2024|
  |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
  |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell - CVE-2024-51532](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51532-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Fortinet - CVE-2023-34990](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34990-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Foxit - CVE-2024-47810](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-47810-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Synology - CVE-2024-4464](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-4464-2024-12-19)|Visit link for details.|19/12/2024|
+ |[TrendMicro - CVE-2024-52048](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52048-2024-12-18)|Visit link for details.|18/12/2024|
+ |[Express.js - CVE-2024-45590](https://www.cyberveille-sante.gouv.fr/alertes/expressjs-cve-2024-45590-2024-12-18)|Visit link for details.|18/12/2024|
+ |[D-Link - CVE-2024-37605](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37605-2024-12-18)|Visit link for details.|18/12/2024|
+ |[BD Diagnostic Solutions - CVE-2024-10476](https://www.cyberveille-sante.gouv.fr/alertes/bd-diagnostic-solutions-cve-2024-10476-2024-12-18)|Visit link for details.|18/12/2024|
+ |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|18/12/2024|
+ |[HPE - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30905-2023-06-21)|Visit link for details.|18/12/2024|
  
 
 # US-CERT
