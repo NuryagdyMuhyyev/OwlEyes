@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/12/2024 04:19:35 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/12/2024 06:41:09 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,12 +52,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -74,6 +68,12 @@
  |[Adobe Monthly Security Update (March 2024)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2024)|[Updated on 2024-12-17]Updated Risk, Description, Impact, Source and Related Links.CVE-2024-20767 is being exploited in the wild. An attacker who successfully exploited this vulnerability could access or modify restricted files via an internet-...| Release Date: 13 Mar 2024 |
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -82,9 +82,23 @@
  |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
+ |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
+ |[(0Day) Arista NG Firewall custom_handler Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1718/)|Visit link for details|2024-12-19|
+ |[(0Day) Arista NG Firewall ExecManagerImpl Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1717/)|Visit link for details|2024-12-19|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1716/)|Visit link for details|2024-12-19|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1715/)|Visit link for details|2024-12-19|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1714/)|Visit link for details|2024-12-19|
+ |[(0Day) Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1713/)|Visit link for details|2024-12-19|
  
 
 # EU-CERT
@@ -102,23 +116,6 @@
  |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell - CVE-2024-51532](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51532-2024-12-19)|Visit link for details.|19/12/2024|
- |[Fortinet - CVE-2023-34990](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34990-2024-12-19)|Visit link for details.|19/12/2024|
- |[Foxit - CVE-2024-47810](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-47810-2024-12-19)|Visit link for details.|19/12/2024|
- |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|19/12/2024|
- |[Synology - CVE-2024-4464](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-4464-2024-12-19)|Visit link for details.|19/12/2024|
- |[TrendMicro - CVE-2024-52048](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52048-2024-12-18)|Visit link for details.|18/12/2024|
- |[Express.js - CVE-2024-45590](https://www.cyberveille-sante.gouv.fr/alertes/expressjs-cve-2024-45590-2024-12-18)|Visit link for details.|18/12/2024|
- |[D-Link - CVE-2024-37605](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37605-2024-12-18)|Visit link for details.|18/12/2024|
- |[BD Diagnostic Solutions - CVE-2024-10476](https://www.cyberveille-sante.gouv.fr/alertes/bd-diagnostic-solutions-cve-2024-10476-2024-12-18)|Visit link for details.|18/12/2024|
- |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|18/12/2024|
- |[HPE - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30905-2023-06-21)|Visit link for details.|18/12/2024|
  
 
 # CA-CCS
@@ -155,18 +152,21 @@
  |[ 51501212/24 - Vulnérabilité critique affectant Apache Struts ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-struts)| Apache annonce la correction d’une vulnérabilité critique affectant  les versions susmentionnées d’Apache Struts. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant…| 12 décembre 2024|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[AnyDesk Link Following Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1711/)|Visit link for details|2024-12-19|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1710/)|Visit link for details|2024-12-19|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1709/)|Visit link for details|2024-12-19|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1708/)|Visit link for details|2024-12-19|
- |[Autodesk Navisworks Freedom DWFX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1707/)|Visit link for details|2024-12-19|
- |[Autodesk Navisworks Freedom DWFX File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1706/)|Visit link for details|2024-12-19|
- |[Autodesk Navisworks Freedom DWF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1705/)|Visit link for details|2024-12-19|
- |[Autodesk Navisworks Freedom DWFX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1704/)|Visit link for details|2024-12-19|
+ |[Dell - CVE-2024-51532](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51532-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Fortinet - CVE-2023-34990](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34990-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Foxit - CVE-2024-47810](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-47810-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Synology - CVE-2024-4464](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-4464-2024-12-19)|Visit link for details.|19/12/2024|
+ |[TrendMicro - CVE-2024-52048](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52048-2024-12-18)|Visit link for details.|18/12/2024|
+ |[Express.js - CVE-2024-45590](https://www.cyberveille-sante.gouv.fr/alertes/expressjs-cve-2024-45590-2024-12-18)|Visit link for details.|18/12/2024|
+ |[D-Link - CVE-2024-37605](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37605-2024-12-18)|Visit link for details.|18/12/2024|
+ |[BD Diagnostic Solutions - CVE-2024-10476](https://www.cyberveille-sante.gouv.fr/alertes/bd-diagnostic-solutions-cve-2024-10476-2024-12-18)|Visit link for details.|18/12/2024|
+ |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|18/12/2024|
+ |[HPE - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30905-2023-06-21)|Visit link for details.|18/12/2024|
  
 
 # US-CERT
