@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 20/12/2024 17:40:14 UTC+5 (Asia/Ashgabat)
+ > Last Updated 20/12/2024 18:25:11 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,10 +29,19 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[USN-7166-3: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-7166-3-linux-kernel-hwe-vulnerabilities.54484/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7159-4: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-7159-4-linux-kernel-iot-vulnerabilities.54483/)|Visit link for details.|Dec 20, 2024|
+ |[DSA-5834-1 chromium - security update](https://www.linux.org/threads/dsa-5834-1-chromium-security-update.54482/)|Visit link for details.|Dec 20, 2024|
  |[USN-7178-1: DPDK vulnerability](https://www.linux.org/threads/usn-7178-1-dpdk-vulnerability.54472/)|Visit link for details.|Dec 19, 2024|
  |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
  |[USN-7177-1: YARA vulnerability](https://www.linux.org/threads/usn-7177-1-yara-vulnerability.54458/)|Visit link for details.|Dec 18, 2024|
@@ -41,15 +50,6 @@
  |[USN-7176-1: GStreamer Good Plugins vulnerabilities](https://www.linux.org/threads/usn-7176-1-gstreamer-good-plugins-vulnerabilities.54453/)|Visit link for details.|Dec 18, 2024|
  |[USN-7175-1: GStreamer Base Plugins vulnerabilities](https://www.linux.org/threads/usn-7175-1-gstreamer-base-plugins-vulnerabilities.54452/)|Visit link for details.|Dec 18, 2024|
  |[USN-7174-1: GStreamer vulnerability](https://www.linux.org/threads/usn-7174-1-gstreamer-vulnerability.54451/)|Visit link for details.|Dec 18, 2024|
- |[USN-7171-1: PHPUnit vulnerability](https://www.linux.org/threads/usn-7171-1-phpunit-vulnerability.54450/)|Visit link for details.|Dec 18, 2024|
- |[USN-7168-1: EditorConfig vulnerabilities](https://www.linux.org/threads/usn-7168-1-editorconfig-vulnerabilities.54443/)|Visit link for details.|Dec 18, 2024|
- |[USN-7159-3: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7159-3-linux-kernel-vulnerabilities.54437/)|Visit link for details.|Dec 18, 2024|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -67,12 +67,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-12...| Release Date: 3 Dec 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -81,40 +75,15 @@
  |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
- |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
- |[(0Day) Arista NG Firewall custom_handler Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1718/)|Visit link for details|2024-12-19|
- |[(0Day) Arista NG Firewall ExecManagerImpl Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1717/)|Visit link for details|2024-12-19|
- |[Rockwell Automation Arena Simulation DOE File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1716/)|Visit link for details|2024-12-19|
- |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1715/)|Visit link for details|2024-12-19|
- |[Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1714/)|Visit link for details|2024-12-19|
- |[(0Day) Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1713/)|Visit link for details|2024-12-19|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell - CVE-2024-51532](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51532-2024-12-19)|Visit link for details.|19/12/2024|
- |[Fortinet - CVE-2023-34990](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34990-2024-12-19)|Visit link for details.|19/12/2024|
- |[Foxit - CVE-2024-47810](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-47810-2024-12-19)|Visit link for details.|19/12/2024|
- |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|19/12/2024|
- |[Synology - CVE-2024-4464](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-4464-2024-12-19)|Visit link for details.|19/12/2024|
- |[TrendMicro - CVE-2024-52048](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52048-2024-12-18)|Visit link for details.|18/12/2024|
- |[Express.js - CVE-2024-45590](https://www.cyberveille-sante.gouv.fr/alertes/expressjs-cve-2024-45590-2024-12-18)|Visit link for details.|18/12/2024|
- |[D-Link - CVE-2024-37605](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37605-2024-12-18)|Visit link for details.|18/12/2024|
- |[BD Diagnostic Solutions - CVE-2024-10476](https://www.cyberveille-sante.gouv.fr/alertes/bd-diagnostic-solutions-cve-2024-10476-2024-12-18)|Visit link for details.|18/12/2024|
- |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|18/12/2024|
- |[HPE - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30905-2023-06-21)|Visit link for details.|18/12/2024|
  
 
 # EU-CERT
@@ -132,6 +101,23 @@
  |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  |[2024-109: Critical vulnerabilities in Gitlab](https://cert.europa.eu/publications/security-advisories/2024-109/)|On October 9, 2024, GitLab released an advisory addressing several critical vulnerabilities in GitLab EE/CE affecting versions from 8.16 to 17.4.1.|Friday, October 11, 2024 04:26:55 PM CEST|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell - CVE-2024-51532](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51532-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Fortinet - CVE-2023-34990](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34990-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Foxit - CVE-2024-47810](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-47810-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Synology - CVE-2024-4464](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-4464-2024-12-19)|Visit link for details.|19/12/2024|
+ |[TrendMicro - CVE-2024-52048](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52048-2024-12-18)|Visit link for details.|18/12/2024|
+ |[Express.js - CVE-2024-45590](https://www.cyberveille-sante.gouv.fr/alertes/expressjs-cve-2024-45590-2024-12-18)|Visit link for details.|18/12/2024|
+ |[D-Link - CVE-2024-37605](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-37605-2024-12-18)|Visit link for details.|18/12/2024|
+ |[BD Diagnostic Solutions - CVE-2024-10476](https://www.cyberveille-sante.gouv.fr/alertes/bd-diagnostic-solutions-cve-2024-10476-2024-12-18)|Visit link for details.|18/12/2024|
+ |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|18/12/2024|
+ |[HPE - CVE-2023-30905](https://www.cyberveille-sante.gouv.fr/alertes/hpe-cve-2023-30905-2023-06-21)|Visit link for details.|18/12/2024|
  
 
 # MA-CERT
@@ -166,6 +152,20 @@
  |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
  |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
  |[Dell security advisory (AV24-715)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-715)|Visit link for details|2024-12-16|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
+ |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
+ |[(0Day) Arista NG Firewall custom_handler Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1718/)|Visit link for details|2024-12-19|
+ |[(0Day) Arista NG Firewall ExecManagerImpl Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1717/)|Visit link for details|2024-12-19|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1716/)|Visit link for details|2024-12-19|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1715/)|Visit link for details|2024-12-19|
+ |[Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1714/)|Visit link for details|2024-12-19|
+ |[(0Day) Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1713/)|Visit link for details|2024-12-19|
  
 
 # US-CERT
