@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/12/2024 20:19:12 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/12/2024 21:23:34 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,12 +58,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -77,6 +71,19 @@
  |[Apache Tomcat Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20241218)|Multiple vulnerabilities were identified in Apache Tomcat, a remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 18 Dec 2024 |
  |[Apache Struts Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/apache-struts-remote-code-execution-vulnerability_20241216)|A vulnerability has been identified in Apache Struts. A remote attacker can exploit this vulnerability to trigger remote code execution and sensitive information disclosure on the targeted system. [Updated on 2024-12-18]Updated Impact and Description. Proof of Concept exploit code Is...| Release Date: 16 Dec 2024 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-12...| Release Date: 3 Dec 2024 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sensitive Information in Driver’s Log File (CVE-2024-12569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
