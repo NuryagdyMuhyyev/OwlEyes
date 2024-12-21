@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 21/12/2024 09:24:16 UTC+5 (Asia/Ashgabat)
+ > Last Updated 21/12/2024 10:18:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,18 +46,6 @@
  |[USN-7176-1: GStreamer Good Plugins vulnerabilities](https://www.linux.org/threads/usn-7176-1-gstreamer-good-plugins-vulnerabilities.54453/)|Visit link for details.|Dec 18, 2024|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -81,9 +69,35 @@
  |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel ksmbd TCP Connection Memory Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1726/)|Visit link for details|2024-12-20|
+ |[Webmin CGI Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1725/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1724/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD ICS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1723/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1722/)|Visit link for details|2024-12-20|
+ |[Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1721/)|Visit link for details|2024-12-20|
+ |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
+ |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
  
 
 # EU-CERT
@@ -103,35 +117,21 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux Kernel ksmbd TCP Connection Memory Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1726/)|Visit link for details|2024-12-20|
- |[Webmin CGI Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1725/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1724/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD ICS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1723/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1722/)|Visit link for details|2024-12-20|
- |[Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1721/)|Visit link for details|2024-12-20|
- |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
- |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
- |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
- |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
- |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
- |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
- |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
- |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
- |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
- |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
- |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
- |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
+ |[WordPress - CVE-2024-11740](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-11740-2024-12-20)|Visit link for details.|20/12/2024|
+ |[TrendMicro - CVE-2024-52049](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52049-2024-12-20)|Visit link for details.|20/12/2024|
+ |[Sophos - CVE-2024-12727](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12727-2024-12-20)|Visit link for details.|20/12/2024|
+ |[OpenText - CVE-2024-12111](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-12111-2024-12-20)|Visit link for details.|20/12/2024|
+ |[Fortinet - CVE-2024-48889](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-48889-2024-12-20)|Visit link for details.|20/12/2024|
+ |[Dell - CVE-2024-51532](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51532-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Fortinet - CVE-2023-34990](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34990-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Foxit - CVE-2024-47810](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-47810-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|19/12/2024|
+ |[Synology - CVE-2024-4464](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-4464-2024-12-19)|Visit link for details.|19/12/2024|
+ |[TrendMicro - CVE-2024-52048](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52048-2024-12-18)|Visit link for details.|18/12/2024|
  
 
 # MA-CERT
@@ -151,21 +151,21 @@
  |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[WordPress - CVE-2024-11740](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-11740-2024-12-20)|Visit link for details.|20/12/2024|
- |[TrendMicro - CVE-2024-52049](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52049-2024-12-20)|Visit link for details.|20/12/2024|
- |[Sophos - CVE-2024-12727](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12727-2024-12-20)|Visit link for details.|20/12/2024|
- |[OpenText - CVE-2024-12111](https://www.cyberveille-sante.gouv.fr/alertes/opentext-cve-2024-12111-2024-12-20)|Visit link for details.|20/12/2024|
- |[Fortinet - CVE-2024-48889](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2024-48889-2024-12-20)|Visit link for details.|20/12/2024|
- |[Dell - CVE-2024-51532](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51532-2024-12-19)|Visit link for details.|19/12/2024|
- |[Fortinet - CVE-2023-34990](https://www.cyberveille-sante.gouv.fr/alertes/fortinet-cve-2023-34990-2024-12-19)|Visit link for details.|19/12/2024|
- |[Foxit - CVE-2024-47810](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-47810-2024-12-19)|Visit link for details.|19/12/2024|
- |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|19/12/2024|
- |[Synology - CVE-2024-4464](https://www.cyberveille-sante.gouv.fr/alertes/synology-cve-2024-4464-2024-12-19)|Visit link for details.|19/12/2024|
- |[TrendMicro - CVE-2024-52048](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52048-2024-12-18)|Visit link for details.|18/12/2024|
+ |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
+ |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
+ |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
+ |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
+ |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
+ |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
+ |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
+ |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
+ |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
+ |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
+ |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
  
 
 # US-CERT
