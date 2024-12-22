@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/12/2024 01:20:37 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/12/2024 02:17:56 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,18 @@
  |[USN-7176-1: GStreamer Good Plugins vulnerabilities](https://www.linux.org/threads/usn-7176-1-gstreamer-good-plugins-vulnerabilities.54453/)|Visit link for details.|Dec 18, 2024|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -74,32 +86,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel ksmbd TCP Connection Memory Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1726/)|Visit link for details|2024-12-20|
- |[Webmin CGI Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1725/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1724/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD ICS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1723/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1722/)|Visit link for details|2024-12-20|
- |[Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1721/)|Visit link for details|2024-12-20|
- |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
- |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -117,21 +103,21 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  
 
-# MA-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
- |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
- |[ 51581912/24 - Vulnérabilité critique dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate)| Fortigate a corrigée une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille permet à un attaquant distant non authentifié d'exécuter du code arbitraire à…| 19 décembre 2024|
- |[ 51571812/24 - Vulnérabilité critique dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-siemens)| Une vulnérabilité  critique a été corrigée dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 18 décembre 2024|
- |[ 51561812/24 - Vulnérabilités affectant Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat-0)| Apache annonce la correction de deux vulnérabilités affectant son produit Apache Tomcat. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 18 décembre 2024|
- |[ 51551812/24 - Vulnérabilités critiques dans les routeurs SHARP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-sharp)| Plusieurs vulnérabilités critiques ont été corrigées dans les routeurs SHARP. L'exploitation de ces failles peut permettre à un attaquant d'exécuter du code arbitraire avec des privilèges «…| 18 décembre 2024|
- |[ 51541712/24 - Vulnérabilité critique dans les produits Hitachi ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-hitachi)| Une vulnérabilité critique de contournement d'authentification a été corrigée dans Hitachi Infrastructure Analytics Advisor et Hitachi Ops Center Analyzer. L'exploitation de cette faille ne nécessite…| 17 décembre 2024|
- |[ 51531312/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-1)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette …| 13 décembre 2024|
- |[ 51531312/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-4)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits                  susmentionnés. Ces…| 13 décembre 2024|
- |[ 51521312/24 - Vulnérabilités critiques affectant des produits de Dell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-dell)| Dell  annonce la correction  de deux  vulnérabilités critiques affectant  ses produits susmentionnés.  L'exploitation de  ces vulnérabilités peut permettre à un…| 13 décembre 2024|
- |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
+ |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
+ |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
+ |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
+ |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
+ |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
+ |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
+ |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
+ |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
+ |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
+ |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
+ |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
  
 
 # CERT-SANTE
@@ -151,21 +137,35 @@
  |[TrendMicro - CVE-2024-52048](https://www.cyberveille-sante.gouv.fr/alertes/trendmicro-cve-2024-52048-2024-12-18)|Visit link for details.|18/12/2024|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
- |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
- |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
- |[Apache security advisory (AV24-722)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-18|
- |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
- |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
- |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
- |[CVE-2024-53677 - Vulnerability impacting Apache Struts 2](https://www.cyber.gc.ca/en/alerts-advisories/cve-2024-53677-vulnerability-impacting-apache-struts-2)|Visit link for details|2024-12-16|
- |[Ubuntu security advisory (AV24-718)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-718)|Visit link for details|2024-12-16|
- |[IBM security advisory (AV24-717)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-717)|Visit link for details|2024-12-16|
- |[[Control systems] CISA ICS security advisories (AV24–716)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-716)|Visit link for details|2024-12-16|
+ |[Linux Kernel ksmbd TCP Connection Memory Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1726/)|Visit link for details|2024-12-20|
+ |[Webmin CGI Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1725/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1724/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD ICS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1723/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1722/)|Visit link for details|2024-12-20|
+ |[Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1721/)|Visit link for details|2024-12-20|
+ |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
+ |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
+ |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
+ |[ 51581912/24 - Vulnérabilité critique dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate)| Fortigate a corrigée une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille permet à un attaquant distant non authentifié d'exécuter du code arbitraire à…| 19 décembre 2024|
+ |[ 51571812/24 - Vulnérabilité critique dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-siemens)| Une vulnérabilité  critique a été corrigée dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 18 décembre 2024|
+ |[ 51561812/24 - Vulnérabilités affectant Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat-0)| Apache annonce la correction de deux vulnérabilités affectant son produit Apache Tomcat. L’exploitation de ces vulnérabilités peut  permettre  à un attaquant distant d’exécuter du code…| 18 décembre 2024|
+ |[ 51551812/24 - Vulnérabilités critiques dans les routeurs SHARP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-sharp)| Plusieurs vulnérabilités critiques ont été corrigées dans les routeurs SHARP. L'exploitation de ces failles peut permettre à un attaquant d'exécuter du code arbitraire avec des privilèges «…| 18 décembre 2024|
+ |[ 51541712/24 - Vulnérabilité critique dans les produits Hitachi ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-hitachi)| Une vulnérabilité critique de contournement d'authentification a été corrigée dans Hitachi Infrastructure Analytics Advisor et Hitachi Ops Center Analyzer. L'exploitation de cette faille ne nécessite…| 17 décembre 2024|
+ |[ 51531312/24 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird-1)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette …| 13 décembre 2024|
+ |[ 51531312/24 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dapple-4)| Apple annonce la  correction  de plusieurs vulnérabilités affectant     ses produits                  susmentionnés. Ces…| 13 décembre 2024|
+ |[ 51521312/24 - Vulnérabilités critiques affectant des produits de Dell ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-dell)| Dell  annonce la correction  de deux  vulnérabilités critiques affectant  ses produits susmentionnés.  L'exploitation de  ces vulnérabilités peut permettre à un…| 13 décembre 2024|
+ |[ 51511212/24 - Vulnérabilité critique affectant le plugin «Hunk Companion» pour WordPress ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-hunk-companion-pour-wordpress)| Une vulnérabilité critique affectant le plugin « Hunk Companion» pour WordPress a été corrigée. Cette vulnérabilité est activement exploitée et elle peut permettre à un attaquant distant…| 12 décembre 2024|
  
 
 # US-CERT
