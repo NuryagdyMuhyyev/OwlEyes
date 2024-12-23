@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 23/12/2024 12:20:15 UTC+5 (Asia/Ashgabat)
+ > Last Updated 23/12/2024 13:27:29 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -81,7 +81,7 @@
  |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
