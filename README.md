@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/12/2024 20:21:05 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/12/2024 21:25:32 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,18 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -56,6 +44,12 @@
  |[USN-7177-1: YARA vulnerability](https://www.linux.org/threads/usn-7177-1-yara-vulnerability.54458/)|Visit link for details.|Dec 18, 2024|
  |[USN-7169-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-7169-2-linux-kernel-gcp-vulnerabilities.54457/)|Visit link for details.|Dec 18, 2024|
  |[USN-7172-1: libvpx vulnerability](https://www.linux.org/threads/usn-7172-1-libvpx-vulnerability.54454/)|Visit link for details.|Dec 18, 2024|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -81,9 +75,15 @@
  |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -101,39 +101,6 @@
  |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
  |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
- 
-
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro - CVE-2024-52050](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-52050-2024-12-24)|Visit link for details.|24/12/2024|
- |[Golang / NetApp - CVE-2023-45287](https://www.cyberveille-sante.gouv.fr/alertes/golang-netapp-cve-2023-45287-2024-12-24)|Visit link for details.|24/12/2024|
- |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|24/12/2024|
- |[Sophos - CVE-2024-12729](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12729-2024-12-23)|Visit link for details.|23/12/2024|
- |[Sophos - CVE-2024-12728](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12728-2024-12-23)|Visit link for details.|23/12/2024|
- |[PHPGurukul Online Nurse Hiring System - CVE-2024-55104](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-online-nurse-hiring-system-cve-2024-55104-2024-12-23)|Visit link for details.|23/12/2024|
- |[Foxit - CVE-2024-49576](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-49576-2024-12-23)|Visit link for details.|23/12/2024|
- |[Google Chrome - CVE-2024-12693](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12693-2024-12-23)|Visit link for details.|23/12/2024|
- |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|23/12/2024|
- |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|23/12/2024|
- |[WordPress - CVE-2024-11740](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-11740-2024-12-20)|Visit link for details.|20/12/2024|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51662612/24 - Vulnérabilité critique dans Apache Traffic Control ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-traffic-control)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour corriger une vulnérabilité critique ( 9.9 CVSS) au niveau d'Apache Traffic Control. L’exploitation de cette faille…| 26 décembre 2024|
- |[ 51662612/24 - Vulnérabilité critique dans le package « npm systeminformation » ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-package-npm-systeminformation)| Une vulnérabilité critique d'injection de commande a été corrigée dans le populaire package « npm systeminformation ». L’exploitation de cette faille pourrait permettre à un attaquant…| 26 décembre 2024|
- |[ 51652512/24 - Vulnérabilité critique affectant l’outil d’administration Webmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-dadministration-webmin)| Une vulnérabilité critique affectant l’outil d’administration Webmin a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code…| 25 décembre 2024|
- |[ 51632412/24 - Vulnérabilité critique dans Adobe ColdFusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-adobe-coldfusion)| Adobe annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées d’adobe ColdFusion. L’exploitation de cette faille peut permettre à un attaquant de lire des fichiers…| 24 décembre 2024|
- |[ 51642412/24 - Vulnérabilité critique dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-tomcat)| Apache Software Foundation a récemment publié une mise à jour de sécurité corrigeant une vulnérabilité critique pour le serveur Tomcat. L’exploitation de cette faille pourrait permettre à un attaquant…| 24 décembre 2024|
- |[ 51612312/24 - Vulnérabilités dans Sophos Firewall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sophos-firewall)| Plusieurs vulnérabilités ont été corrigées dans Sophos Firewall. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et d’exécuter du code arbitraire à…| 23 décembre 2024|
- |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
- |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
- |[ 51581912/24 - Vulnérabilité critique dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate)| Fortigate a corrigée une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille permet à un attaquant distant non authentifié d'exécuter du code arbitraire à…| 19 décembre 2024|
- |[ 51571812/24 - Vulnérabilité critique dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-siemens)| Une vulnérabilité  critique a été corrigée dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 18 décembre 2024|
  
 
 # CA-CCS
@@ -165,6 +132,39 @@
  |[Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1721/)|Visit link for details|2024-12-20|
  |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
  |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51662612/24 - Vulnérabilité critique dans Apache Traffic Control ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-traffic-control)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour corriger une vulnérabilité critique ( 9.9 CVSS) au niveau d'Apache Traffic Control. L’exploitation de cette faille…| 26 décembre 2024|
+ |[ 51662612/24 - Vulnérabilité critique dans le package « npm systeminformation » ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-package-npm-systeminformation)| Une vulnérabilité critique d'injection de commande a été corrigée dans le populaire package « npm systeminformation ». L’exploitation de cette faille pourrait permettre à un attaquant…| 26 décembre 2024|
+ |[ 51652512/24 - Vulnérabilité critique affectant l’outil d’administration Webmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-dadministration-webmin)| Une vulnérabilité critique affectant l’outil d’administration Webmin a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code…| 25 décembre 2024|
+ |[ 51632412/24 - Vulnérabilité critique dans Adobe ColdFusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-adobe-coldfusion)| Adobe annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées d’adobe ColdFusion. L’exploitation de cette faille peut permettre à un attaquant de lire des fichiers…| 24 décembre 2024|
+ |[ 51642412/24 - Vulnérabilité critique dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-tomcat)| Apache Software Foundation a récemment publié une mise à jour de sécurité corrigeant une vulnérabilité critique pour le serveur Tomcat. L’exploitation de cette faille pourrait permettre à un attaquant…| 24 décembre 2024|
+ |[ 51612312/24 - Vulnérabilités dans Sophos Firewall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sophos-firewall)| Plusieurs vulnérabilités ont été corrigées dans Sophos Firewall. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et d’exécuter du code arbitraire à…| 23 décembre 2024|
+ |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
+ |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
+ |[ 51581912/24 - Vulnérabilité critique dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate)| Fortigate a corrigée une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille permet à un attaquant distant non authentifié d'exécuter du code arbitraire à…| 19 décembre 2024|
+ |[ 51571812/24 - Vulnérabilité critique dans les produits Siemens ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-siemens)| Une vulnérabilité  critique a été corrigée dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.| 18 décembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro - CVE-2024-52050](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-52050-2024-12-24)|Visit link for details.|24/12/2024|
+ |[Golang / NetApp - CVE-2023-45287](https://www.cyberveille-sante.gouv.fr/alertes/golang-netapp-cve-2023-45287-2024-12-24)|Visit link for details.|24/12/2024|
+ |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|24/12/2024|
+ |[Sophos - CVE-2024-12729](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12729-2024-12-23)|Visit link for details.|23/12/2024|
+ |[Sophos - CVE-2024-12728](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12728-2024-12-23)|Visit link for details.|23/12/2024|
+ |[PHPGurukul Online Nurse Hiring System - CVE-2024-55104](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-online-nurse-hiring-system-cve-2024-55104-2024-12-23)|Visit link for details.|23/12/2024|
+ |[Foxit - CVE-2024-49576](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-49576-2024-12-23)|Visit link for details.|23/12/2024|
+ |[Google Chrome - CVE-2024-12693](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12693-2024-12-23)|Visit link for details.|23/12/2024|
+ |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|23/12/2024|
+ |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|23/12/2024|
+ |[WordPress - CVE-2024-11740](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-11740-2024-12-20)|Visit link for details.|20/12/2024|
  
 
 # US-CERT
