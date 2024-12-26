@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 26/12/2024 08:25:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 26/12/2024 09:25:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,23 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5835-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5835-1-webkit2gtk-security-update.54588/)|Visit link for details.|Dec 26, 2024|
+ |[USN-7179-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7179-1-linux-kernel-vulnerabilities.54488/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7173-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7173-2-linux-kernel-vulnerabilities.54487/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7166-3: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-7166-3-linux-kernel-hwe-vulnerabilities.54484/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7159-4: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-7159-4-linux-kernel-iot-vulnerabilities.54483/)|Visit link for details.|Dec 20, 2024|
+ |[DSA-5834-1 chromium - security update](https://www.linux.org/threads/dsa-5834-1-chromium-security-update.54482/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7178-1: DPDK vulnerability](https://www.linux.org/threads/usn-7178-1-dpdk-vulnerability.54472/)|Visit link for details.|Dec 19, 2024|
+ |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
+ |[USN-7177-1: YARA vulnerability](https://www.linux.org/threads/usn-7177-1-yara-vulnerability.54458/)|Visit link for details.|Dec 18, 2024|
+ |[USN-7169-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-7169-2-linux-kernel-gcp-vulnerabilities.54457/)|Visit link for details.|Dec 18, 2024|
+ |[USN-7172-1: libvpx vulnerability](https://www.linux.org/threads/usn-7172-1-libvpx-vulnerability.54454/)|Visit link for details.|Dec 18, 2024|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -48,23 +65,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241220)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 20 Dec 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241219)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and data manipulation on the targeted system.|Release Date: 19 Dec 2024 |
  |[Mozilla Thunderbird Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20241127)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and data manipulation on the targeted system.|Release Date: 19 Dec 2024 |
- 
-
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[USN-7179-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7179-1-linux-kernel-vulnerabilities.54488/)|Visit link for details.|Dec 20, 2024|
- |[USN-7173-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7173-2-linux-kernel-vulnerabilities.54487/)|Visit link for details.|Dec 20, 2024|
- |[USN-7166-3: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-7166-3-linux-kernel-hwe-vulnerabilities.54484/)|Visit link for details.|Dec 20, 2024|
- |[USN-7159-4: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-7159-4-linux-kernel-iot-vulnerabilities.54483/)|Visit link for details.|Dec 20, 2024|
- |[DSA-5834-1 chromium - security update](https://www.linux.org/threads/dsa-5834-1-chromium-security-update.54482/)|Visit link for details.|Dec 20, 2024|
- |[USN-7178-1: DPDK vulnerability](https://www.linux.org/threads/usn-7178-1-dpdk-vulnerability.54472/)|Visit link for details.|Dec 19, 2024|
- |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
- |[USN-7177-1: YARA vulnerability](https://www.linux.org/threads/usn-7177-1-yara-vulnerability.54458/)|Visit link for details.|Dec 18, 2024|
- |[USN-7169-2: Linux kernel (GCP) vulnerabilities](https://www.linux.org/threads/usn-7169-2-linux-kernel-gcp-vulnerabilities.54457/)|Visit link for details.|Dec 18, 2024|
- |[USN-7172-1: libvpx vulnerability](https://www.linux.org/threads/usn-7172-1-libvpx-vulnerability.54454/)|Visit link for details.|Dec 18, 2024|
- |[USN-7176-1: GStreamer Good Plugins vulnerabilities](https://www.linux.org/threads/usn-7176-1-gstreamer-good-plugins-vulnerabilities.54453/)|Visit link for details.|Dec 18, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -117,21 +117,21 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Trend Micro - CVE-2024-52050](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-52050-2024-12-24)|Visit link for details.|24/12/2024|
- |[Golang / NetApp - CVE-2023-45287](https://www.cyberveille-sante.gouv.fr/alertes/golang-netapp-cve-2023-45287-2024-12-24)|Visit link for details.|24/12/2024|
- |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|24/12/2024|
- |[Sophos - CVE-2024-12729](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12729-2024-12-23)|Visit link for details.|23/12/2024|
- |[Sophos - CVE-2024-12728](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12728-2024-12-23)|Visit link for details.|23/12/2024|
- |[PHPGurukul Online Nurse Hiring System - CVE-2024-55104](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-online-nurse-hiring-system-cve-2024-55104-2024-12-23)|Visit link for details.|23/12/2024|
- |[Foxit - CVE-2024-49576](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-49576-2024-12-23)|Visit link for details.|23/12/2024|
- |[Google Chrome - CVE-2024-12693](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12693-2024-12-23)|Visit link for details.|23/12/2024|
- |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|23/12/2024|
- |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|23/12/2024|
- |[WordPress - CVE-2024-11740](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-11740-2024-12-20)|Visit link for details.|20/12/2024|
+ |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
+ |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
+ |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
+ |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
+ |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
+ |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
+ |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
+ |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
+ |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
+ |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
+ |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
  
 
 # MA-CERT
@@ -150,21 +150,21 @@
  |[ 51551812/24 - Vulnérabilités critiques dans les routeurs SHARP ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-sharp)| Plusieurs vulnérabilités critiques ont été corrigées dans les routeurs SHARP. L'exploitation de ces failles peut permettre à un attaquant d'exécuter du code arbitraire avec des privilèges «…| 18 décembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
- |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
- |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
- |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
- |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
- |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
- |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
- |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
- |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
- |[Foxit security advisory (AV24-720)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av24-720)|Visit link for details|2024-12-17|
- |[[Control systems] Siemens security advisory (AV24-719)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-719)|Visit link for details|2024-12-16|
+ |[Trend Micro - CVE-2024-52050](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-52050-2024-12-24)|Visit link for details.|24/12/2024|
+ |[Golang / NetApp - CVE-2023-45287](https://www.cyberveille-sante.gouv.fr/alertes/golang-netapp-cve-2023-45287-2024-12-24)|Visit link for details.|24/12/2024|
+ |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|24/12/2024|
+ |[Sophos - CVE-2024-12729](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12729-2024-12-23)|Visit link for details.|23/12/2024|
+ |[Sophos - CVE-2024-12728](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12728-2024-12-23)|Visit link for details.|23/12/2024|
+ |[PHPGurukul Online Nurse Hiring System - CVE-2024-55104](https://www.cyberveille-sante.gouv.fr/alertes/phpgurukul-online-nurse-hiring-system-cve-2024-55104-2024-12-23)|Visit link for details.|23/12/2024|
+ |[Foxit - CVE-2024-49576](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-49576-2024-12-23)|Visit link for details.|23/12/2024|
+ |[Google Chrome - CVE-2024-12693](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12693-2024-12-23)|Visit link for details.|23/12/2024|
+ |[Apache Struts - CVE-2024-53677](https://www.cyberveille-sante.gouv.fr/alertes/apache-struts-cve-2024-53677-2024-12-12)|Visit link for details.|23/12/2024|
+ |[Google - CVE-2024-12692](https://www.cyberveille-sante.gouv.fr/alertes/google-cve-2024-12692-2024-12-19)|Visit link for details.|23/12/2024|
+ |[WordPress - CVE-2024-11740](https://www.cyberveille-sante.gouv.fr/alertes/wordpress-cve-2024-11740-2024-12-20)|Visit link for details.|20/12/2024|
  
 
 # US-CERT
