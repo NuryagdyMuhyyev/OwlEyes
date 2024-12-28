@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/12/2024 18:21:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/12/2024 19:17:04 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -103,6 +103,20 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel ksmbd TCP Connection Memory Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1726/)|Visit link for details|2024-12-20|
+ |[Webmin CGI Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1725/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1724/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD ICS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1723/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1722/)|Visit link for details|2024-12-20|
+ |[Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1721/)|Visit link for details|2024-12-20|
+ |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
+ |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -151,20 +165,6 @@
  |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
  |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
  |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel ksmbd TCP Connection Memory Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1726/)|Visit link for details|2024-12-20|
- |[Webmin CGI Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1725/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1724/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD ICS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1723/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1722/)|Visit link for details|2024-12-20|
- |[Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1721/)|Visit link for details|2024-12-20|
- |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
- |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
  
 
 # US-CERT
