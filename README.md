@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 28/12/2024 07:47:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 28/12/2024 08:23:17 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5837-1 fastnetmon - security update](https://www.linux.org/threads/dsa-5837-1-fastnetmon-security-update.54600/)|Visit link for details.|Dec 26, 2024|
- |[DSA-5836-1 xen - security update](https://www.linux.org/threads/dsa-5836-1-xen-security-update.54599/)|Visit link for details.|Dec 26, 2024|
- |[DSA-5835-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5835-1-webkit2gtk-security-update.54588/)|Visit link for details.|Dec 26, 2024|
- |[USN-7179-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7179-1-linux-kernel-vulnerabilities.54488/)|Visit link for details.|Dec 20, 2024|
- |[USN-7173-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7173-2-linux-kernel-vulnerabilities.54487/)|Visit link for details.|Dec 20, 2024|
- |[USN-7166-3: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-7166-3-linux-kernel-hwe-vulnerabilities.54484/)|Visit link for details.|Dec 20, 2024|
- |[USN-7159-4: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-7159-4-linux-kernel-iot-vulnerabilities.54483/)|Visit link for details.|Dec 20, 2024|
- |[DSA-5834-1 chromium - security update](https://www.linux.org/threads/dsa-5834-1-chromium-security-update.54482/)|Visit link for details.|Dec 20, 2024|
- |[USN-7178-1: DPDK vulnerability](https://www.linux.org/threads/usn-7178-1-dpdk-vulnerability.54472/)|Visit link for details.|Dec 19, 2024|
- |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
- |[USN-7177-1: YARA vulnerability](https://www.linux.org/threads/usn-7177-1-yara-vulnerability.54458/)|Visit link for details.|Dec 18, 2024|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -67,10 +50,21 @@
  |---|---|---|
  
 
-# OBS-Vigilance
+# LINUX-SEC
 
  |Title|Description|Date|
  |---|---|---|
+ |[DSA-5837-1 fastnetmon - security update](https://www.linux.org/threads/dsa-5837-1-fastnetmon-security-update.54600/)|Visit link for details.|Dec 26, 2024|
+ |[DSA-5836-1 xen - security update](https://www.linux.org/threads/dsa-5836-1-xen-security-update.54599/)|Visit link for details.|Dec 26, 2024|
+ |[DSA-5835-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5835-1-webkit2gtk-security-update.54588/)|Visit link for details.|Dec 26, 2024|
+ |[USN-7179-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7179-1-linux-kernel-vulnerabilities.54488/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7173-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7173-2-linux-kernel-vulnerabilities.54487/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7166-3: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-7166-3-linux-kernel-hwe-vulnerabilities.54484/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7159-4: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-7159-4-linux-kernel-iot-vulnerabilities.54483/)|Visit link for details.|Dec 20, 2024|
+ |[DSA-5834-1 chromium - security update](https://www.linux.org/threads/dsa-5834-1-chromium-security-update.54482/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7178-1: DPDK vulnerability](https://www.linux.org/threads/usn-7178-1-dpdk-vulnerability.54472/)|Visit link for details.|Dec 19, 2024|
+ |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
+ |[USN-7177-1: YARA vulnerability](https://www.linux.org/threads/usn-7177-1-yara-vulnerability.54458/)|Visit link for details.|Dec 18, 2024|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -86,21 +80,24 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
-# CA-CCS
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache security advisory (AV24-731)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731)|Visit link for details|2024-12-27|
- |[Palo Alto Networks security advisory (AV24-730)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-730)|Visit link for details|2024-12-27|
- |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
- |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
- |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
- |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
- |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
- |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
- |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
- |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
- |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel ksmbd TCP Connection Memory Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1726/)|Visit link for details|2024-12-20|
+ |[Webmin CGI Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1725/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1724/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD ICS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1723/)|Visit link for details|2024-12-20|
+ |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1722/)|Visit link for details|2024-12-20|
+ |[Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1721/)|Visit link for details|2024-12-20|
+ |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
+ |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
  
 
 # EU-CERT
@@ -120,18 +117,20 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux Kernel ksmbd TCP Connection Memory Exhaustion Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1726/)|Visit link for details|2024-12-20|
- |[Webmin CGI Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1725/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1724/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD ICS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1723/)|Visit link for details|2024-12-20|
- |[(0Day) Delta Electronics DRASimuCAD STP File Parsing Type Confusion Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1722/)|Visit link for details|2024-12-20|
- |[Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1721/)|Visit link for details|2024-12-20|
- |[(0Day) Arista NG Firewall uvm_login Incorrect Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1720/)|Visit link for details|2024-12-19|
- |[(0Day) Arista NG Firewall ReportEntry SQL Injection Arbitrary File Read and Write Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1719/)|Visit link for details|2024-12-19|
+ |[ 51682712/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os-0)| Palo Alto Networks a corrigée une faille de sécurité critique dans PAN-OS qui affecte la fonction « DNS Security ». L’exploitation de cette faille peut permettre à un attaquant non…| 27 décembre 2024|
+ |[ 51672612/24 - Vulnérabilité critique dans Apache Traffic Control ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-traffic-control)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour corriger une vulnérabilité critique ( 9.9 CVSS) au niveau d'Apache Traffic Control. L’exploitation de cette faille…| 26 décembre 2024|
+ |[ 51662612/24 - Vulnérabilité critique dans le package « npm systeminformation » ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-package-npm-systeminformation)| Une vulnérabilité critique d'injection de commande a été corrigée dans le populaire package « npm systeminformation ». L’exploitation de cette faille pourrait permettre à un attaquant…| 26 décembre 2024|
+ |[ 51652512/24 - Vulnérabilité critique affectant l’outil d’administration Webmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-dadministration-webmin)| Une vulnérabilité critique affectant l’outil d’administration Webmin a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code…| 25 décembre 2024|
+ |[ 51632412/24 - Vulnérabilité critique dans Adobe ColdFusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-adobe-coldfusion)| Adobe annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées d’adobe ColdFusion. L’exploitation de cette faille peut permettre à un attaquant de lire des fichiers…| 24 décembre 2024|
+ |[ 51642412/24 - Vulnérabilité critique dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-tomcat)| Apache Software Foundation a récemment publié une mise à jour de sécurité corrigeant une vulnérabilité critique pour le serveur Tomcat. L’exploitation de cette faille pourrait permettre à un attaquant…| 24 décembre 2024|
+ |[ 51612312/24 - Vulnérabilités dans Sophos Firewall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sophos-firewall)| Plusieurs vulnérabilités ont été corrigées dans Sophos Firewall. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et d’exécuter du code arbitraire à…| 23 décembre 2024|
+ |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
+ |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
+ |[ 51581912/24 - Vulnérabilité critique dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate)| Fortigate a corrigée une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille permet à un attaquant distant non authentifié d'exécuter du code arbitraire à…| 19 décembre 2024|
  
 
 # CERT-SANTE
@@ -151,20 +150,21 @@
  |[Sophos - CVE-2024-12729](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12729-2024-12-23)|Visit link for details.|23/12/2024|
  
 
-# MA-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[ 51682712/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os-0)| Palo Alto Networks a corrigée une faille de sécurité critique dans PAN-OS qui affecte la fonction « DNS Security ». L’exploitation de cette faille peut permettre à un attaquant non…| 27 décembre 2024|
- |[ 51672612/24 - Vulnérabilité critique dans Apache Traffic Control ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-traffic-control)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour corriger une vulnérabilité critique ( 9.9 CVSS) au niveau d'Apache Traffic Control. L’exploitation de cette faille…| 26 décembre 2024|
- |[ 51662612/24 - Vulnérabilité critique dans le package « npm systeminformation » ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-package-npm-systeminformation)| Une vulnérabilité critique d'injection de commande a été corrigée dans le populaire package « npm systeminformation ». L’exploitation de cette faille pourrait permettre à un attaquant…| 26 décembre 2024|
- |[ 51652512/24 - Vulnérabilité critique affectant l’outil d’administration Webmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-dadministration-webmin)| Une vulnérabilité critique affectant l’outil d’administration Webmin a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code…| 25 décembre 2024|
- |[ 51632412/24 - Vulnérabilité critique dans Adobe ColdFusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-adobe-coldfusion)| Adobe annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées d’adobe ColdFusion. L’exploitation de cette faille peut permettre à un attaquant de lire des fichiers…| 24 décembre 2024|
- |[ 51642412/24 - Vulnérabilité critique dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-tomcat)| Apache Software Foundation a récemment publié une mise à jour de sécurité corrigeant une vulnérabilité critique pour le serveur Tomcat. L’exploitation de cette faille pourrait permettre à un attaquant…| 24 décembre 2024|
- |[ 51612312/24 - Vulnérabilités dans Sophos Firewall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sophos-firewall)| Plusieurs vulnérabilités ont été corrigées dans Sophos Firewall. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et d’exécuter du code arbitraire à…| 23 décembre 2024|
- |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
- |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
- |[ 51581912/24 - Vulnérabilité critique dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate)| Fortigate a corrigée une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille permet à un attaquant distant non authentifié d'exécuter du code arbitraire à…| 19 décembre 2024|
+ |[Apache security advisory (AV24-731)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731)|Visit link for details|2024-12-27|
+ |[Palo Alto Networks security advisory (AV24-730)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-730)|Visit link for details|2024-12-27|
+ |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
+ |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
+ |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
+ |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
+ |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
+ |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
+ |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
+ |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
+ |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
  
 
 # US-CERT
