@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 29/12/2024 06:48:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 29/12/2024 07:57:18 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,12 +52,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,6 +78,29 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache security advisory (AV24-731)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731)|Visit link for details|2024-12-27|
+ |[Palo Alto Networks security advisory (AV24-730)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-730)|Visit link for details|2024-12-27|
+ |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
+ |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
+ |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
+ |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
+ |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
+ |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
+ |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
+ |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
+ |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
  
 
 # ZERODAYINITIATIVE
@@ -117,23 +134,6 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[CodeZips Hospital Management System - CVE-2024-12976](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12976-2024-12-27)|Visit link for details.|27/12/2024|
- |[Dell - CVE-2024-47978](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47978-2024-12-27)|Visit link for details.|27/12/2024|
- |[Palo Alto - CVE-2024-3393](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3393-2024-12-27)|Visit link for details.|27/12/2024|
- |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|27/12/2024|
- |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|27/12/2024|
- |[Codezips Hospital Management System - CVE-2024-12947](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12947-2024-12-26)|Visit link for details.|26/12/2024|
- |[Dell - CVE-2024-51540](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51540-2024-12-26)|Visit link for details.|26/12/2024|
- |[D-Link - CVE-2024-36832](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36832-2024-12-26)|Visit link for details.|26/12/2024|
- |[Trend Micro - CVE-2024-52050](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-52050-2024-12-24)|Visit link for details.|24/12/2024|
- |[Golang / NetApp - CVE-2023-45287](https://www.cyberveille-sante.gouv.fr/alertes/golang-netapp-cve-2023-45287-2024-12-24)|Visit link for details.|24/12/2024|
- |[Sophos - CVE-2024-12729](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12729-2024-12-23)|Visit link for details.|23/12/2024|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -150,21 +150,21 @@
  |[ 51581912/24 - Vulnérabilité critique dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate)| Fortigate a corrigée une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille permet à un attaquant distant non authentifié d'exécuter du code arbitraire à…| 19 décembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache security advisory (AV24-731)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731)|Visit link for details|2024-12-27|
- |[Palo Alto Networks security advisory (AV24-730)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-730)|Visit link for details|2024-12-27|
- |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
- |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
- |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
- |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
- |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
- |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
- |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
- |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
- |[Fortinet security advisory (AV24-721)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-721)|Visit link for details|2024-12-18|
+ |[CodeZips Hospital Management System - CVE-2024-12976](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12976-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Dell - CVE-2024-47978](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47978-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Palo Alto - CVE-2024-3393](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3393-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|27/12/2024|
+ |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|27/12/2024|
+ |[Codezips Hospital Management System - CVE-2024-12947](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12947-2024-12-26)|Visit link for details.|26/12/2024|
+ |[Dell - CVE-2024-51540](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51540-2024-12-26)|Visit link for details.|26/12/2024|
+ |[D-Link - CVE-2024-36832](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-36832-2024-12-26)|Visit link for details.|26/12/2024|
+ |[Trend Micro - CVE-2024-52050](https://www.cyberveille-sante.gouv.fr/alertes/trend-micro-cve-2024-52050-2024-12-24)|Visit link for details.|24/12/2024|
+ |[Golang / NetApp - CVE-2023-45287](https://www.cyberveille-sante.gouv.fr/alertes/golang-netapp-cve-2023-45287-2024-12-24)|Visit link for details.|24/12/2024|
+ |[Sophos - CVE-2024-12729](https://www.cyberveille-sante.gouv.fr/alertes/sophos-cve-2024-12729-2024-12-23)|Visit link for details.|23/12/2024|
  
 
 # US-CERT
