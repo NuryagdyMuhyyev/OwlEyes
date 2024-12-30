@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/12/2024 00:15:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/12/2024 01:21:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,6 +46,31 @@
  |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sensitive Information in Driver’s Log File (CVE-2024-12569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -59,31 +84,6 @@
  |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241220)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 20 Dec 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241220)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 20 Dec 2024 |
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20241219)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition and data manipulation on the targeted system.|Release Date: 19 Dec 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sensitive Information in Driver’s Log File (CVE-2024-12569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -117,21 +117,21 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux - CVE-2024-56695](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-56695-2024-12-30)|Visit link for details.|30/12/2024|
- |[Google Chrome - CVE-2024-12694](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12694-2024-12-30)|Visit link for details.|30/12/2024|
- |[D-Link - CVE-2024-13030](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-13030-2024-12-30)|Visit link for details.|30/12/2024|
- |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|30/12/2024|
- |[CodeZips Hospital Management System - CVE-2024-12976](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12976-2024-12-27)|Visit link for details.|27/12/2024|
- |[Dell - CVE-2024-47978](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47978-2024-12-27)|Visit link for details.|27/12/2024|
- |[Palo Alto - CVE-2024-3393](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3393-2024-12-27)|Visit link for details.|27/12/2024|
- |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|27/12/2024|
- |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|27/12/2024|
- |[Codezips Hospital Management System - CVE-2024-12947](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12947-2024-12-26)|Visit link for details.|26/12/2024|
- |[Dell - CVE-2024-51540](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51540-2024-12-26)|Visit link for details.|26/12/2024|
+ |[IBM security advisory (AV24-732)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-732)|Visit link for details|2024-12-30|
+ |[Apache security advisory (AV24-731)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731)|Visit link for details|2024-12-27|
+ |[Palo Alto Networks security advisory (AV24-730)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-730)|Visit link for details|2024-12-27|
+ |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
+ |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
+ |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
+ |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
+ |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
+ |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
+ |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
+ |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
  
 
 # MA-CERT
@@ -150,21 +150,21 @@
  |[ 51581912/24 - Vulnérabilité critique dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate)| Fortigate a corrigée une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille permet à un attaquant distant non authentifié d'exécuter du code arbitraire à…| 19 décembre 2024|
  
 
-# CA-CCS
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM security advisory (AV24-732)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-732)|Visit link for details|2024-12-30|
- |[Apache security advisory (AV24-731)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731)|Visit link for details|2024-12-27|
- |[Palo Alto Networks security advisory (AV24-730)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-730)|Visit link for details|2024-12-27|
- |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
- |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
- |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
- |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
- |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
- |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
- |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
- |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
+ |[Linux - CVE-2024-56695](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-56695-2024-12-30)|Visit link for details.|30/12/2024|
+ |[Google Chrome - CVE-2024-12694](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12694-2024-12-30)|Visit link for details.|30/12/2024|
+ |[D-Link - CVE-2024-13030](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-13030-2024-12-30)|Visit link for details.|30/12/2024|
+ |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|30/12/2024|
+ |[CodeZips Hospital Management System - CVE-2024-12976](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12976-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Dell - CVE-2024-47978](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47978-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Palo Alto - CVE-2024-3393](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3393-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|27/12/2024|
+ |[Apache - CVE-2024-50379](https://www.cyberveille-sante.gouv.fr/alertes/apache-cve-2024-50379-2024-12-18)|Visit link for details.|27/12/2024|
+ |[Codezips Hospital Management System - CVE-2024-12947](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12947-2024-12-26)|Visit link for details.|26/12/2024|
+ |[Dell - CVE-2024-51540](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-51540-2024-12-26)|Visit link for details.|26/12/2024|
  
 
 # US-CERT
