@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 31/12/2024 07:50:03 UTC+5 (Asia/Ashgabat)
+ > Last Updated 31/12/2024 08:24:28 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -100,23 +100,6 @@
  |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM security advisory (AV24-732)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-732)|Visit link for details|2024-12-30|
- |[Apache security advisory (AV24-731)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731)|Visit link for details|2024-12-27|
- |[Palo Alto Networks security advisory (AV24-730)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-730)|Visit link for details|2024-12-27|
- |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
- |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
- |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
- |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
- |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
- |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
- |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
- |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -165,6 +148,23 @@
  |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
  |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
  |[ 51581912/24 - Vulnérabilité critique dans les produits Fortigate ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-fortigate)| Fortigate a corrigée une vulnérabilité critique affectant les produits susmentionnés. L’exploitation de cette faille permet à un attaquant distant non authentifié d'exécuter du code arbitraire à…| 19 décembre 2024|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM security advisory (AV24-732)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-732)|Visit link for details|2024-12-30|
+ |[Apache security advisory (AV24-731)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731)|Visit link for details|2024-12-27|
+ |[Palo Alto Networks security advisory (AV24-730)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-730)|Visit link for details|2024-12-27|
+ |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
+ |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
+ |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
+ |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
+ |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
+ |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
+ |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
+ |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
  
 
 # US-CERT
