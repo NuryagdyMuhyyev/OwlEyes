@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/01/2025 06:47:51 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/01/2025 07:58:02 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,23 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# LINUX-SEC
-
- |Title|Description|Date|
- |---|---|---|
- |[DSA-5838-1 gst-plugins-good1.0 - security update](https://www.linux.org/threads/dsa-5838-1-gst-plugins-good1-0-security-update.54660/)|Visit link for details.|Dec 29, 2024|
- |[DSA-5837-1 fastnetmon - security update](https://www.linux.org/threads/dsa-5837-1-fastnetmon-security-update.54600/)|Visit link for details.|Dec 26, 2024|
- |[DSA-5836-1 xen - security update](https://www.linux.org/threads/dsa-5836-1-xen-security-update.54599/)|Visit link for details.|Dec 26, 2024|
- |[DSA-5835-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5835-1-webkit2gtk-security-update.54588/)|Visit link for details.|Dec 26, 2024|
- |[USN-7179-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7179-1-linux-kernel-vulnerabilities.54488/)|Visit link for details.|Dec 20, 2024|
- |[USN-7173-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7173-2-linux-kernel-vulnerabilities.54487/)|Visit link for details.|Dec 20, 2024|
- |[USN-7166-3: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-7166-3-linux-kernel-hwe-vulnerabilities.54484/)|Visit link for details.|Dec 20, 2024|
- |[USN-7159-4: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-7159-4-linux-kernel-iot-vulnerabilities.54483/)|Visit link for details.|Dec 20, 2024|
- |[DSA-5834-1 chromium - security update](https://www.linux.org/threads/dsa-5834-1-chromium-security-update.54482/)|Visit link for details.|Dec 20, 2024|
- |[USN-7178-1: DPDK vulnerability](https://www.linux.org/threads/usn-7178-1-dpdk-vulnerability.54472/)|Visit link for details.|Dec 19, 2024|
- |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -67,6 +50,23 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241220)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 20 Dec 2024 |
  
 
+# LINUX-SEC
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[DSA-5838-1 gst-plugins-good1.0 - security update](https://www.linux.org/threads/dsa-5838-1-gst-plugins-good1-0-security-update.54660/)|Visit link for details.|Dec 29, 2024|
+ |[DSA-5837-1 fastnetmon - security update](https://www.linux.org/threads/dsa-5837-1-fastnetmon-security-update.54600/)|Visit link for details.|Dec 26, 2024|
+ |[DSA-5836-1 xen - security update](https://www.linux.org/threads/dsa-5836-1-xen-security-update.54599/)|Visit link for details.|Dec 26, 2024|
+ |[DSA-5835-1 webkit2gtk - security update](https://www.linux.org/threads/dsa-5835-1-webkit2gtk-security-update.54588/)|Visit link for details.|Dec 26, 2024|
+ |[USN-7179-1: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7179-1-linux-kernel-vulnerabilities.54488/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7173-2: Linux kernel vulnerabilities](https://www.linux.org/threads/usn-7173-2-linux-kernel-vulnerabilities.54487/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7166-3: Linux kernel (HWE) vulnerabilities](https://www.linux.org/threads/usn-7166-3-linux-kernel-hwe-vulnerabilities.54484/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7159-4: Linux kernel (IoT) vulnerabilities](https://www.linux.org/threads/usn-7159-4-linux-kernel-iot-vulnerabilities.54483/)|Visit link for details.|Dec 20, 2024|
+ |[DSA-5834-1 chromium - security update](https://www.linux.org/threads/dsa-5834-1-chromium-security-update.54482/)|Visit link for details.|Dec 20, 2024|
+ |[USN-7178-1: DPDK vulnerability](https://www.linux.org/threads/usn-7178-1-dpdk-vulnerability.54472/)|Visit link for details.|Dec 19, 2024|
+ |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -75,7 +75,7 @@
  |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -136,20 +136,6 @@
  |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[WSO2 API Manager SynapseArtifactUploaderAdmin Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1741/)|Visit link for details|2024-12-30|
- |[WSO2 API Manager Exposed Dangerous Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1740/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1739/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader AcroForm Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1738/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1737/)|Visit link for details|2024-12-30|
- |[(0Day) Paessler PRTG Network Monitor SNMP Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1736/)|Visit link for details|2024-12-30|
- |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1735/)|Visit link for details|2024-12-30|
- |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -165,6 +151,20 @@
  |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
  |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
  |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WSO2 API Manager SynapseArtifactUploaderAdmin Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1741/)|Visit link for details|2024-12-30|
+ |[WSO2 API Manager Exposed Dangerous Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1740/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1739/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader AcroForm Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1738/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1737/)|Visit link for details|2024-12-30|
+ |[(0Day) Paessler PRTG Network Monitor SNMP Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1736/)|Visit link for details|2024-12-30|
+ |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1735/)|Visit link for details|2024-12-30|
+ |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
  
 
 # US-CERT
