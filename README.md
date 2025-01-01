@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/01/2025 12:20:02 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/01/2025 13:26:36 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,13 +46,13 @@
  |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
  
 
-# CERT-FR
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
@@ -81,7 +81,7 @@
  |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
@@ -134,6 +134,22 @@
  |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51693112/24 - Vulnérabilité affectant TrueNAS CORE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-truenas-core)| Une vulnérabilité critique affectant TrueNAS CORE  a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant non authentifié d’exécuter du code…| 31 décembre 2024|
+ |[ 51682712/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os-0)| Palo Alto Networks a corrigée une faille de sécurité critique dans PAN-OS qui affecte la fonction « DNS Security ». L’exploitation de cette faille peut permettre à un attaquant non…| 27 décembre 2024|
+ |[ 51672612/24 - Vulnérabilité critique dans Apache Traffic Control ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-traffic-control)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour corriger une vulnérabilité critique ( 9.9 CVSS) au niveau d'Apache Traffic Control. L’exploitation de cette faille…| 26 décembre 2024|
+ |[ 51662612/24 - Vulnérabilité critique dans le package « npm systeminformation » ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-package-npm-systeminformation)| Une vulnérabilité critique d'injection de commande a été corrigée dans le populaire package « npm systeminformation ». L’exploitation de cette faille pourrait permettre à un attaquant…| 26 décembre 2024|
+ |[ 51652512/24 - Vulnérabilité critique affectant l’outil d’administration Webmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-dadministration-webmin)| Une vulnérabilité critique affectant l’outil d’administration Webmin a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code…| 25 décembre 2024|
+ |[ 51632412/24 - Vulnérabilité critique dans Adobe ColdFusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-adobe-coldfusion)| Adobe annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées d’adobe ColdFusion. L’exploitation de cette faille peut permettre à un attaquant de lire des fichiers…| 24 décembre 2024|
+ |[ 51642412/24 - Vulnérabilité critique dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-tomcat)| Apache Software Foundation a récemment publié une mise à jour de sécurité corrigeant une vulnérabilité critique pour le serveur Tomcat. L’exploitation de cette faille pourrait permettre à un attaquant…| 24 décembre 2024|
+ |[ 51612312/24 - Vulnérabilités dans Sophos Firewall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sophos-firewall)| Plusieurs vulnérabilités ont été corrigées dans Sophos Firewall. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et d’exécuter du code arbitraire à…| 23 décembre 2024|
+ |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
+ |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
+ 
+
 # CERT-SANTE
 
  |Title|Description|Date|
@@ -149,22 +165,6 @@
  |[Dell - CVE-2024-47978](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47978-2024-12-27)|Visit link for details.|27/12/2024|
  |[Palo Alto - CVE-2024-3393](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3393-2024-12-27)|Visit link for details.|27/12/2024|
  |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|27/12/2024|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51693112/24 - Vulnérabilité affectant TrueNAS CORE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-truenas-core)| Une vulnérabilité critique affectant TrueNAS CORE  a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant non authentifié d’exécuter du code…| 31 décembre 2024|
- |[ 51682712/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os-0)| Palo Alto Networks a corrigée une faille de sécurité critique dans PAN-OS qui affecte la fonction « DNS Security ». L’exploitation de cette faille peut permettre à un attaquant non…| 27 décembre 2024|
- |[ 51672612/24 - Vulnérabilité critique dans Apache Traffic Control ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-traffic-control)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour corriger une vulnérabilité critique ( 9.9 CVSS) au niveau d'Apache Traffic Control. L’exploitation de cette faille…| 26 décembre 2024|
- |[ 51662612/24 - Vulnérabilité critique dans le package « npm systeminformation » ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-package-npm-systeminformation)| Une vulnérabilité critique d'injection de commande a été corrigée dans le populaire package « npm systeminformation ». L’exploitation de cette faille pourrait permettre à un attaquant…| 26 décembre 2024|
- |[ 51652512/24 - Vulnérabilité critique affectant l’outil d’administration Webmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-dadministration-webmin)| Une vulnérabilité critique affectant l’outil d’administration Webmin a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code…| 25 décembre 2024|
- |[ 51632412/24 - Vulnérabilité critique dans Adobe ColdFusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-adobe-coldfusion)| Adobe annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées d’adobe ColdFusion. L’exploitation de cette faille peut permettre à un attaquant de lire des fichiers…| 24 décembre 2024|
- |[ 51642412/24 - Vulnérabilité critique dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-tomcat)| Apache Software Foundation a récemment publié une mise à jour de sécurité corrigeant une vulnérabilité critique pour le serveur Tomcat. L’exploitation de cette faille pourrait permettre à un attaquant…| 24 décembre 2024|
- |[ 51612312/24 - Vulnérabilités dans Sophos Firewall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sophos-firewall)| Plusieurs vulnérabilités ont été corrigées dans Sophos Firewall. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et d’exécuter du code arbitraire à…| 23 décembre 2024|
- |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
- |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
  
 
 # US-CERT
