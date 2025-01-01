@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 01/01/2025 14:21:22 UTC+5 (Asia/Ashgabat)
+ > Last Updated 01/01/2025 15:21:13 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,6 +52,12 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -67,12 +73,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241220)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 20 Dec 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -84,20 +84,6 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[WSO2 API Manager SynapseArtifactUploaderAdmin Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1741/)|Visit link for details|2024-12-30|
- |[WSO2 API Manager Exposed Dangerous Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1740/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1739/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader AcroForm Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1738/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1737/)|Visit link for details|2024-12-30|
- |[(0Day) Paessler PRTG Network Monitor SNMP Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1736/)|Visit link for details|2024-12-30|
- |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1735/)|Visit link for details|2024-12-30|
- |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
  
 
 # EU-CERT
@@ -134,21 +120,18 @@
  |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
  
 
-# CERT-SANTE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Panda Security - CVE-2024-13043](https://www.cyberveille-sante.gouv.fr/alertes/panda-security-cve-2024-13043-2024-12-31)|Visit link for details.|31/12/2024|
- |[Paessler PRTG - CVE-2024-12833](https://www.cyberveille-sante.gouv.fr/alertes/paessler-prtg-cve-2024-12833-2024-12-31)|Visit link for details.|31/12/2024|
- |[Foxit - CVE-2024-12752](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-12752-2024-12-31)|Visit link for details.|31/12/2024|
- |[Linux - CVE-2024-56695](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-56695-2024-12-30)|Visit link for details.|30/12/2024|
- |[Google Chrome - CVE-2024-12694](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12694-2024-12-30)|Visit link for details.|30/12/2024|
- |[D-Link - CVE-2024-13030](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-13030-2024-12-30)|Visit link for details.|30/12/2024|
- |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|30/12/2024|
- |[CodeZips Hospital Management System - CVE-2024-12976](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12976-2024-12-27)|Visit link for details.|27/12/2024|
- |[Dell - CVE-2024-47978](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47978-2024-12-27)|Visit link for details.|27/12/2024|
- |[Palo Alto - CVE-2024-3393](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3393-2024-12-27)|Visit link for details.|27/12/2024|
- |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|27/12/2024|
+ |[WSO2 API Manager SynapseArtifactUploaderAdmin Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1741/)|Visit link for details|2024-12-30|
+ |[WSO2 API Manager Exposed Dangerous Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1740/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1739/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader AcroForm Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1738/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1737/)|Visit link for details|2024-12-30|
+ |[(0Day) Paessler PRTG Network Monitor SNMP Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1736/)|Visit link for details|2024-12-30|
+ |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1735/)|Visit link for details|2024-12-30|
+ |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
  
 
 # MA-CERT
@@ -165,6 +148,23 @@
  |[ 51612312/24 - Vulnérabilités dans Sophos Firewall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sophos-firewall)| Plusieurs vulnérabilités ont été corrigées dans Sophos Firewall. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et d’exécuter du code arbitraire à…| 23 décembre 2024|
  |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
  |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Panda Security - CVE-2024-13043](https://www.cyberveille-sante.gouv.fr/alertes/panda-security-cve-2024-13043-2024-12-31)|Visit link for details.|31/12/2024|
+ |[Paessler PRTG - CVE-2024-12833](https://www.cyberveille-sante.gouv.fr/alertes/paessler-prtg-cve-2024-12833-2024-12-31)|Visit link for details.|31/12/2024|
+ |[Foxit - CVE-2024-12752](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-12752-2024-12-31)|Visit link for details.|31/12/2024|
+ |[Linux - CVE-2024-56695](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-56695-2024-12-30)|Visit link for details.|30/12/2024|
+ |[Google Chrome - CVE-2024-12694](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12694-2024-12-30)|Visit link for details.|30/12/2024|
+ |[D-Link - CVE-2024-13030](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-13030-2024-12-30)|Visit link for details.|30/12/2024|
+ |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|30/12/2024|
+ |[CodeZips Hospital Management System - CVE-2024-12976](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12976-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Dell - CVE-2024-47978](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47978-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Palo Alto - CVE-2024-3393](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3393-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|27/12/2024|
  
 
 # US-CERT
