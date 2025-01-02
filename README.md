@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/01/2025 18:24:43 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/01/2025 19:18:43 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -86,6 +86,20 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WSO2 API Manager SynapseArtifactUploaderAdmin Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1741/)|Visit link for details|2024-12-30|
+ |[WSO2 API Manager Exposed Dangerous Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1740/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1739/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader AcroForm Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1738/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1737/)|Visit link for details|2024-12-30|
+ |[(0Day) Paessler PRTG Network Monitor SNMP Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1736/)|Visit link for details|2024-12-30|
+ |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1735/)|Visit link for details|2024-12-30|
+ |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -103,35 +117,21 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-SANTE
 
  |Title|Description|Date|
  |---|---|---|
- |[WSO2 API Manager SynapseArtifactUploaderAdmin Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1741/)|Visit link for details|2024-12-30|
- |[WSO2 API Manager Exposed Dangerous Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1740/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1739/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader AcroForm Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1738/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1737/)|Visit link for details|2024-12-30|
- |[(0Day) Paessler PRTG Network Monitor SNMP Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1736/)|Visit link for details|2024-12-30|
- |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1735/)|Visit link for details|2024-12-30|
- |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM security advisory (AV24-732)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-732)|Visit link for details|2024-12-30|
- |[Apache security advisory (AV24-731)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731)|Visit link for details|2024-12-27|
- |[Palo Alto Networks security advisory (AV24-730)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-730)|Visit link for details|2024-12-27|
- |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
- |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
- |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
- |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
- |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
- |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
- |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
- |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
+ |[Panda Security - CVE-2024-13043](https://www.cyberveille-sante.gouv.fr/alertes/panda-security-cve-2024-13043-2024-12-31)|Visit link for details.|31/12/2024|
+ |[Paessler PRTG - CVE-2024-12833](https://www.cyberveille-sante.gouv.fr/alertes/paessler-prtg-cve-2024-12833-2024-12-31)|Visit link for details.|31/12/2024|
+ |[Foxit - CVE-2024-12752](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-12752-2024-12-31)|Visit link for details.|31/12/2024|
+ |[Linux - CVE-2024-56695](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-56695-2024-12-30)|Visit link for details.|30/12/2024|
+ |[Google Chrome - CVE-2024-12694](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12694-2024-12-30)|Visit link for details.|30/12/2024|
+ |[D-Link - CVE-2024-13030](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-13030-2024-12-30)|Visit link for details.|30/12/2024|
+ |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|30/12/2024|
+ |[CodeZips Hospital Management System - CVE-2024-12976](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12976-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Dell - CVE-2024-47978](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47978-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Palo Alto - CVE-2024-3393](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3393-2024-12-27)|Visit link for details.|27/12/2024|
+ |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|27/12/2024|
  
 
 # MA-CERT
@@ -150,21 +150,21 @@
  |[ 51591912/24 - Vulnérabilités dans Google Chrome ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-google-chrome-17)| Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Google chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du…| 19 décembre 2024|
  
 
-# CERT-SANTE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[Panda Security - CVE-2024-13043](https://www.cyberveille-sante.gouv.fr/alertes/panda-security-cve-2024-13043-2024-12-31)|Visit link for details.|31/12/2024|
- |[Paessler PRTG - CVE-2024-12833](https://www.cyberveille-sante.gouv.fr/alertes/paessler-prtg-cve-2024-12833-2024-12-31)|Visit link for details.|31/12/2024|
- |[Foxit - CVE-2024-12752](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-12752-2024-12-31)|Visit link for details.|31/12/2024|
- |[Linux - CVE-2024-56695](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-56695-2024-12-30)|Visit link for details.|30/12/2024|
- |[Google Chrome - CVE-2024-12694](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12694-2024-12-30)|Visit link for details.|30/12/2024|
- |[D-Link - CVE-2024-13030](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-13030-2024-12-30)|Visit link for details.|30/12/2024|
- |[Google Chrome - CVE-2024-0517](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-0517-2024-01-17)|Visit link for details.|30/12/2024|
- |[CodeZips Hospital Management System - CVE-2024-12976](https://www.cyberveille-sante.gouv.fr/alertes/codezips-hospital-management-system-cve-2024-12976-2024-12-27)|Visit link for details.|27/12/2024|
- |[Dell - CVE-2024-47978](https://www.cyberveille-sante.gouv.fr/alertes/dell-cve-2024-47978-2024-12-27)|Visit link for details.|27/12/2024|
- |[Palo Alto - CVE-2024-3393](https://www.cyberveille-sante.gouv.fr/alertes/palo-alto-cve-2024-3393-2024-12-27)|Visit link for details.|27/12/2024|
- |[Apache Tomcat- CVE-2024-56337](https://www.cyberveille-sante.gouv.fr/alertes/apache-tomcat-cve-2024-56337-2024-12-24)|Visit link for details.|27/12/2024|
+ |[IBM security advisory (AV24-732)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-732)|Visit link for details|2024-12-30|
+ |[Apache security advisory (AV24-731)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731)|Visit link for details|2024-12-27|
+ |[Palo Alto Networks security advisory (AV24-730)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-730)|Visit link for details|2024-12-27|
+ |[Adobe security advisory (AV24–729)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-729)|Visit link for details|2024-12-24|
+ |[Apache security advisory (AV24-722) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-722)|Visit link for details|2024-12-23|
+ |[[Control systems] CISA ICS security advisories (AV24–728)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-728)|Visit link for details|2024-12-23|
+ |[IBM security advisory (AV24-727)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-727)|Visit link for details|2024-12-23|
+ |[Ubuntu security advisory (AV24-726)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-726)|Visit link for details|2024-12-23|
+ |[Sophos security advisory (AV24-725)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av24-725)|Visit link for details|2024-12-20|
+ |[BeyondTrust security advisory (AV24-724)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av24-724)|Visit link for details|2024-12-19|
+ |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
  
 
 # US-CERT
