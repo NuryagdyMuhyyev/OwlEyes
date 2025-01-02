@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/01/2025 01:21:54 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/01/2025 02:18:47 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,23 +46,16 @@
  |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
  
 
-# OBS-Vigilance
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Sensitive Information in Driver’s Log File (CVE-2024-12569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # HK-CERT
@@ -80,6 +73,19 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241220)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 20 Dec 2024 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sensitive Information in Driver’s Log File (CVE-2024-12569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -92,12 +98,6 @@
  |[(0Day) Paessler PRTG Network Monitor SNMP Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1736/)|Visit link for details|2024-12-30|
  |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1735/)|Visit link for details|2024-12-30|
  |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
