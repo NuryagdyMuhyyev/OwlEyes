@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 02/01/2025 06:39:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 02/01/2025 07:50:14 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,6 +52,19 @@
  |---|---|---|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sensitive Information in Driver’s Log File (CVE-2024-12569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -71,19 +84,6 @@
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241223)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 23 Dec 2024 |
  |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241220)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 20 Dec 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241220)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 20 Dec 2024 |
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sensitive Information in Driver’s Log File (CVE-2024-12569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # ZERODAYINITIATIVE
