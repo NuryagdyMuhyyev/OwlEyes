@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 03/01/2025 20:21:30 UTC+5 (Asia/Ashgabat)
+ > Last Updated 03/01/2025 21:25:45 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,6 @@
  |[LINUX-SEC](#linux-sec-arrow_heading_up)|Linux.org Linux Security Announcements (Automated).|
  |[CERT-SANTE](#cert-sante-arrow_heading_up)|CERT Santé supports all health and social care establishments in responding to incidents.CERT Santé conducts audits of the exposure of IT systems to internet threats in order to assist healthcare establishments in reducing the risk of cyberattacks.CERT Santé also carries out preventive actions targeting specific threats and offers services designed to improve Information System security (of messaging services in particular).|
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # LINUX-SEC
 
  |Title|Description|Date|
@@ -52,19 +46,10 @@
  |[LSN-0108-1: Kernel Live Patch Security Notice](https://www.linux.org/threads/lsn-0108-1-kernel-live-patch-security-notice.54471/)|Visit link for details.|Dec 19, 2024|
  
 
-# HK-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241205)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-12-12]...| Release Date: 5 Dec 2024 |
- |[Palo Alto PAN-OS Denial Of Service Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-denial-of-service-vulnerability_20241230)|A vulnerability was identified in Palo Alto PAN-OS. A remote attacker can exploit this vulnerability to trigger denial of service condition on the targeted system. Note:The firewall configuration must have either a DNS Security License or an Advanced DNS Security License, AND...|Release Date: 30 Dec 2024 |
- |[Adobe ColdFusion Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/adobe-coldfusion-information-disclosure-vulnerability_20241224)|A vulnerability was identified in Adobe ColdFusion. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure and data manipulation on the targeted system. Note:Proof Of Concept Exploit Code Is Publicly Available for CVE-2024-53961.|Release Date: 24 Dec 2024 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-12...| Release Date: 3 Dec 2024 |
- |[Sophos Firewall Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sophos-firewall-multiple-vulnerabilities_20241223)|Multiple vulnerabilities were identified in Sophos Firewall. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 23 Dec 2024 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241216)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-12-18]Updated System / Technologies...| Release Date: 16 Dec 2024 |
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241223)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 23 Dec 2024 |
- |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241220)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 20 Dec 2024 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241220)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 20 Dec 2024 |
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -84,6 +69,21 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20241205)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, denial of service condition and elevation of privilege on the targeted system. [Updated on 2024-12-12]...| Release Date: 5 Dec 2024 |
+ |[Palo Alto PAN-OS Denial Of Service Vulnerability](https://www.hkcert.org/security-bulletin/palo-alto-pan-os-denial-of-service-vulnerability_20241230)|A vulnerability was identified in Palo Alto PAN-OS. A remote attacker can exploit this vulnerability to trigger denial of service condition on the targeted system. Note:The firewall configuration must have either a DNS Security License or an Advanced DNS Security License, AND...|Release Date: 30 Dec 2024 |
+ |[Adobe ColdFusion Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/adobe-coldfusion-information-disclosure-vulnerability_20241224)|A vulnerability was identified in Adobe ColdFusion. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure and data manipulation on the targeted system. Note:Proof Of Concept Exploit Code Is Publicly Available for CVE-2024-53961.|Release Date: 24 Dec 2024 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20241203)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2024-12...| Release Date: 3 Dec 2024 |
+ |[Sophos Firewall Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/sophos-firewall-multiple-vulnerabilities_20241223)|Multiple vulnerabilities were identified in Sophos Firewall. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and security restriction bypass on the targeted system.|Release Date: 23 Dec 2024 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20241216)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. An attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition and remote code execution on the targeted system. [Updated on 2024-12-18]Updated System / Technologies...| Release Date: 16 Dec 2024 |
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241223)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 23 Dec 2024 |
+ |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241220)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 20 Dec 2024 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241220)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 20 Dec 2024 |
  
 
 # ZERODAYINITIATIVE
