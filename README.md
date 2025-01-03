@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/01/2025 01:21:52 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/01/2025 02:18:35 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,25 +52,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sensitive Information in Driver’s Log File (CVE-2024-12569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,6 +65,39 @@
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20241223)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 23 Dec 2024 |
  |[Fortinet FortiManager Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/fortinet-fortimanager-remote-code-execution-vulnerability_20241220)|A vulnerability was identified in Fortinet FortiManager. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. |Release Date: 20 Dec 2024 |
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241220)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 20 Dec 2024 |
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sensitive Information in Driver’s Log File (CVE-2024-12569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[WSO2 API Manager SynapseArtifactUploaderAdmin Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1741/)|Visit link for details|2024-12-30|
+ |[WSO2 API Manager Exposed Dangerous Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1740/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1739/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader AcroForm Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1738/)|Visit link for details|2024-12-30|
+ |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1737/)|Visit link for details|2024-12-30|
+ |[(0Day) Paessler PRTG Network Monitor SNMP Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1736/)|Visit link for details|2024-12-30|
+ |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1735/)|Visit link for details|2024-12-30|
+ |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
  
 
 # EU-CERT
@@ -103,23 +117,6 @@
  |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
  
 
-# CERT-SANTE
-
- |Title|Description|Date|
- |---|---|---|
- |[GNU Grub/Grub2 - CVE-2024-56737](https://www.cyberveille-sante.gouv.fr/alertes/gnu-grubgrub2-cve-2024-56737-2025-01-03)|Visit link for details.|03/01/2025|
- |[D-Link - CVE-2024-13105](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-13105-2025-01-03)|Visit link for details.|03/01/2025|
- |[Acronis - CVE-2024-55543](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-55543-2025-01-03)|Visit link for details.|03/01/2025|
- |[Progress WhatsUp Gold - CVE-2024-12108](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-12108-2025-01-02)|Visit link for details.|02/01/2025|
- |[Progress WhatsUp Gold - CVE-2024-12106](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-12106-2025-01-02)|Visit link for details.|02/01/2025|
- |[Netgear - CVE-2024-12988](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-12988-2025-01-02)|Visit link for details.|02/01/2025|
- |[Panda Security - CVE-2024-13043](https://www.cyberveille-sante.gouv.fr/alertes/panda-security-cve-2024-13043-2024-12-31)|Visit link for details.|31/12/2024|
- |[Paessler PRTG - CVE-2024-12833](https://www.cyberveille-sante.gouv.fr/alertes/paessler-prtg-cve-2024-12833-2024-12-31)|Visit link for details.|31/12/2024|
- |[Foxit - CVE-2024-12752](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-12752-2024-12-31)|Visit link for details.|31/12/2024|
- |[Linux - CVE-2024-56695](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-56695-2024-12-30)|Visit link for details.|30/12/2024|
- |[Google Chrome - CVE-2024-12694](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12694-2024-12-30)|Visit link for details.|30/12/2024|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -137,20 +134,6 @@
  |[Google Chrome security advisory (AV24-723)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-723)|Visit link for details|2024-12-19|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[WSO2 API Manager SynapseArtifactUploaderAdmin Unrestricted File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1741/)|Visit link for details|2024-12-30|
- |[WSO2 API Manager Exposed Dangerous Function Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1740/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1739/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader AcroForm Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1738/)|Visit link for details|2024-12-30|
- |[Foxit PDF Reader AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1737/)|Visit link for details|2024-12-30|
- |[(0Day) Paessler PRTG Network Monitor SNMP Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1736/)|Visit link for details|2024-12-30|
- |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1735/)|Visit link for details|2024-12-30|
- |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -165,6 +148,23 @@
  |[ 51642412/24 - Vulnérabilité critique dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-tomcat)| Apache Software Foundation a récemment publié une mise à jour de sécurité corrigeant une vulnérabilité critique pour le serveur Tomcat. L’exploitation de cette faille pourrait permettre à un attaquant…| 24 décembre 2024|
  |[ 51612312/24 - Vulnérabilités dans Sophos Firewall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sophos-firewall)| Plusieurs vulnérabilités ont été corrigées dans Sophos Firewall. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et d’exécuter du code arbitraire à…| 23 décembre 2024|
  |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
+ 
+
+# CERT-SANTE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GNU Grub/Grub2 - CVE-2024-56737](https://www.cyberveille-sante.gouv.fr/alertes/gnu-grubgrub2-cve-2024-56737-2025-01-03)|Visit link for details.|03/01/2025|
+ |[D-Link - CVE-2024-13105](https://www.cyberveille-sante.gouv.fr/alertes/d-link-cve-2024-13105-2025-01-03)|Visit link for details.|03/01/2025|
+ |[Acronis - CVE-2024-55543](https://www.cyberveille-sante.gouv.fr/alertes/acronis-cve-2024-55543-2025-01-03)|Visit link for details.|03/01/2025|
+ |[Progress WhatsUp Gold - CVE-2024-12108](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-12108-2025-01-02)|Visit link for details.|02/01/2025|
+ |[Progress WhatsUp Gold - CVE-2024-12106](https://www.cyberveille-sante.gouv.fr/alertes/progress-whatsup-gold-cve-2024-12106-2025-01-02)|Visit link for details.|02/01/2025|
+ |[Netgear - CVE-2024-12988](https://www.cyberveille-sante.gouv.fr/alertes/netgear-cve-2024-12988-2025-01-02)|Visit link for details.|02/01/2025|
+ |[Panda Security - CVE-2024-13043](https://www.cyberveille-sante.gouv.fr/alertes/panda-security-cve-2024-13043-2024-12-31)|Visit link for details.|31/12/2024|
+ |[Paessler PRTG - CVE-2024-12833](https://www.cyberveille-sante.gouv.fr/alertes/paessler-prtg-cve-2024-12833-2024-12-31)|Visit link for details.|31/12/2024|
+ |[Foxit - CVE-2024-12752](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-12752-2024-12-31)|Visit link for details.|31/12/2024|
+ |[Linux - CVE-2024-56695](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-56695-2024-12-30)|Visit link for details.|30/12/2024|
+ |[Google Chrome - CVE-2024-12694](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12694-2024-12-30)|Visit link for details.|30/12/2024|
  
 
 # US-CERT
