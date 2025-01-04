@@ -3,7 +3,7 @@
 
 # OwlEyes
 
- > Last Updated 04/01/2025 14:19:44 UTC+5 (Asia/Ashgabat)
+ > Last Updated 04/01/2025 15:20:27 UTC+5 (Asia/Ashgabat)
  
  An hourly updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -67,12 +67,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20241220)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition and remote code execution on the targeted system.|Release Date: 20 Dec 2024 |
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -81,9 +75,15 @@
  |[CVE-2021-26093 (CVE-2021-26093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[CVE-2020-12819 (CVE-2020-12819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[Button Block – Get fully customizable & multi-functional buttons <= 1.1.5 - Authenticated (Contributor+) Post Disclosure via Post Duplication (CVE-2024-12560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
- |[SUNNET Corporate Training Management System - Unrestricted Upload of File with Dangerous Type (CVE-2024-11984)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Dec 19, 2024|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # ZERODAYINITIATIVE
@@ -98,6 +98,39 @@
  |[(0Day) Paessler PRTG Network Monitor SNMP Cross-Site Scripting Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1736/)|Visit link for details|2024-12-30|
  |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1735/)|Visit link for details|2024-12-30|
  |[(0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-24-1734/)|Visit link for details|2024-12-30|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2024-120: Critical Vulnerabilities in Sophos Firewall](https://cert.europa.eu/publications/security-advisories/2024-120/)|On December 19, 2024, Sophos has released critical security updates addressing multiple vulnerabilities in its firewall products. These flaws could allow attackers to escalate privileges or execute arbitrary code.|Friday, December 20, 2024 03:46:23 PM CET|
+ |[2024-119: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-119/)|On December 10, 2024, Ivanti has released critical security updates addressing multiple vulnerabilities in its Cloud Services Appliance (CSA) and Connect Secure products. These flaws could allow attackers to escalate privileges or execute arbitrary code.|Wednesday, December 11, 2024 04:31:06 PM CET|
+ |[2024-118: Critical Vulnerability in 7-Zip](https://cert.europa.eu/publications/security-advisories/2024-118/)|A severe security vulnerability has been discovered in 7-Zip, the popular file compression utility, allowing remote attackers to execute malicious code through specially crafted archives. The vulnerability tracked as CVE-2024-11477 has received a high CVSS score of 7.8.|Monday, November 25, 2024 09:34:13 AM CET|
+ |[2024-117: Zero-Day Vulnerabilities in Palo Alto Networks PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-117/)|Palo Alto Networks released security updates for two actively exploited zero-day vulnerabilities in Palo Alto Networks PAN-OS. If exploited, these vulnerabilities could allow a remote unauthenticated attacker to gain administrator privileges, or a PAN-OS administrator to perform actions on the firewall with root privileges.|Tuesday, November 19, 2024 10:55:57 AM CET|
+ |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
+ |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
+ |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
+ |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
+ |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
+ |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
+ |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ 51700301/25 - Vulnérabilités critiques dans les routeurs ASUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-asus-0)| ASUS a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-12912, CVE-2024-13062) dans leurs routeurs. Les vulnérabilités sont les suivantes :CVE-2024-12912: Une…| 03 janvier 2025|
+ |[ 51693112/24 - Vulnérabilité affectant TrueNAS CORE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-truenas-core)| Une vulnérabilité critique affectant TrueNAS CORE  a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant non authentifié d’exécuter du code…| 31 décembre 2024|
+ |[ 51682712/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os-0)| Palo Alto Networks a corrigée une faille de sécurité critique dans PAN-OS qui affecte la fonction « DNS Security ». L’exploitation de cette faille peut permettre à un attaquant non…| 27 décembre 2024|
+ |[ 51672612/24 - Vulnérabilité critique dans Apache Traffic Control ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-traffic-control)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour corriger une vulnérabilité critique ( 9.9 CVSS) au niveau d'Apache Traffic Control. L’exploitation de cette faille…| 26 décembre 2024|
+ |[ 51662612/24 - Vulnérabilité critique dans le package « npm systeminformation » ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-package-npm-systeminformation)| Une vulnérabilité critique d'injection de commande a été corrigée dans le populaire package « npm systeminformation ». L’exploitation de cette faille pourrait permettre à un attaquant…| 26 décembre 2024|
+ |[ 51652512/24 - Vulnérabilité critique affectant l’outil d’administration Webmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-dadministration-webmin)| Une vulnérabilité critique affectant l’outil d’administration Webmin a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code…| 25 décembre 2024|
+ |[ 51632412/24 - Vulnérabilité critique dans Adobe ColdFusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-adobe-coldfusion)| Adobe annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées d’adobe ColdFusion. L’exploitation de cette faille peut permettre à un attaquant de lire des fichiers…| 24 décembre 2024|
+ |[ 51642412/24 - Vulnérabilité critique dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-tomcat)| Apache Software Foundation a récemment publié une mise à jour de sécurité corrigeant une vulnérabilité critique pour le serveur Tomcat. L’exploitation de cette faille pourrait permettre à un attaquant…| 24 décembre 2024|
+ |[ 51612312/24 - Vulnérabilités dans Sophos Firewall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sophos-firewall)| Plusieurs vulnérabilités ont été corrigées dans Sophos Firewall. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et d’exécuter du code arbitraire à…| 23 décembre 2024|
+ |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
  
 
 # CA-CCS
@@ -132,39 +165,6 @@
  |[Foxit - CVE-2024-12752](https://www.cyberveille-sante.gouv.fr/alertes/foxit-cve-2024-12752-2024-12-31)|Visit link for details.|31/12/2024|
  |[Linux - CVE-2024-56695](https://www.cyberveille-sante.gouv.fr/alertes/linux-cve-2024-56695-2024-12-30)|Visit link for details.|30/12/2024|
  |[Google Chrome - CVE-2024-12694](https://www.cyberveille-sante.gouv.fr/alertes/google-chrome-cve-2024-12694-2024-12-30)|Visit link for details.|30/12/2024|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2024-120: Critical Vulnerabilities in Sophos Firewall](https://cert.europa.eu/publications/security-advisories/2024-120/)|On December 19, 2024, Sophos has released critical security updates addressing multiple vulnerabilities in its firewall products. These flaws could allow attackers to escalate privileges or execute arbitrary code.|Friday, December 20, 2024 03:46:23 PM CET|
- |[2024-119: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-119/)|On December 10, 2024, Ivanti has released critical security updates addressing multiple vulnerabilities in its Cloud Services Appliance (CSA) and Connect Secure products. These flaws could allow attackers to escalate privileges or execute arbitrary code.|Wednesday, December 11, 2024 04:31:06 PM CET|
- |[2024-118: Critical Vulnerability in 7-Zip](https://cert.europa.eu/publications/security-advisories/2024-118/)|A severe security vulnerability has been discovered in 7-Zip, the popular file compression utility, allowing remote attackers to execute malicious code through specially crafted archives. The vulnerability tracked as CVE-2024-11477 has received a high CVSS score of 7.8.|Monday, November 25, 2024 09:34:13 AM CET|
- |[2024-117: Zero-Day Vulnerabilities in Palo Alto Networks PAN-OS](https://cert.europa.eu/publications/security-advisories/2024-117/)|Palo Alto Networks released security updates for two actively exploited zero-day vulnerabilities in Palo Alto Networks PAN-OS. If exploited, these vulnerabilities could allow a remote unauthenticated attacker to gain administrator privileges, or a PAN-OS administrator to perform actions on the firewall with root privileges.|Tuesday, November 19, 2024 10:55:57 AM CET|
- |[2024-116: Microsoft November 2024 Patch Tuesday](https://cert.europa.eu/publications/security-advisories/2024-116/)|Microsoft's November 2024 Patch Tuesday addresses 91 vulnerabilities, including four zero-day vulnerabilities. Two of these zero-days, CVE-2024-43451 (NTLM Hash Disclosure Spoofing) and CVE-2024-49039 (Windows Task Scheduler Elevation of Privilege), have been actively exploited. These vulnerabilities allow attackers to potentially gain unauthorised access or escalate privileges through minimal user interaction or crafted applications.|Wednesday, November 13, 2024 05:43:08 PM CET|
- |[2024-115: QNAP NAS Zero-Day Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-115/)|On October 29 and 30, 2024, QNAP released patches for two critical zero-day vulnerabilities, CVE-2024-50387 and CVE-2024-50388, affecting NAS devices. These vulnerabilities allow remote attackers to gain root access and execute arbitrary commands on compromised devices.|Thursday, October 31, 2024 01:18:46 PM CET|
- |[2024-114: Multiple Critical CISCO Vulnerabilities](https://cert.europa.eu/publications/security-advisories/2024-114/)|A set of critical vulnerabilities affecting Cisco Adaptive Security Appliance (ASA) Software, Cisco Firepower Threat Defense (FTD) Software, Cisco Secure Firewall Management Center (FMC) Software, and Cisco Nexus Dashboard Fabric Controller (NDFC) have been identified. These vulnerabilities can potentially allow attackers to conduct various types of attacks, including command injection, remote command execution, arbitrary command execution, and unauthorised access through static credentials due to improper input validation or insecure handling of web services components. Successful exploitation could allow attackers to execute arbitrary commands, gain root-level access through SSH, or gain unauthorised access via static credentials. They obtained CVSS score of 9 out of 10 or more. |Friday, October 25, 2024 12:11:37 PM CEST|
- |[2024-113: Critical 0-day Vulnerability in Fortinet FortiManager](https://cert.europa.eu/publications/security-advisories/2024-113/)|On October 23, 2024, Fortinet released a security advisory addressing a critical 0-day vulnerability in its FortiManager product. If exploited, a remote unauthenticated attacker could execute arbitrary code or commands on the affected device.|Thursday, October 24, 2024 10:56:10 AM CEST|
- |[2024-112: Critical Vulnerability in Kubernetes](https://cert.europa.eu/publications/security-advisories/2024-112/)|On October 14, 2024, Kubernetes released a security advisory addressing a critical vulnerability affecting the Kubernetes Image Builder project. |Thursday, October 17, 2024 04:37:11 PM CEST|
- |[2024-111: Multiple Vulnerabilities in Splunk Enterprise and Splunk Cloud](https://cert.europa.eu/publications/security-advisories/2024-111/)|On October 14, 2024, Splunk released several advisories addressing multiple high and medium severity vulnerabilities affecting Splunk Enterprise and Splunk Cloud. These vulnerabilities could lead to arbitrary file write to Windows system root directory, access to potentially restricted data and remote code execution.|Wednesday, October 16, 2024 09:37:06 AM CEST|
- |[2024-110: Critical Vulnerability in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2024-110/)|On October 8, 2024, Ivanti addressed a critical vulnerability in Ivanti Connect Secure and Ivanti Policy Secure.|Wednesday, October 16, 2024 09:36:33 AM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 51700301/25 - Vulnérabilités critiques dans les routeurs ASUS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-routeurs-asus-0)| ASUS a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2024-12912, CVE-2024-13062) dans leurs routeurs. Les vulnérabilités sont les suivantes :CVE-2024-12912: Une…| 03 janvier 2025|
- |[ 51693112/24 - Vulnérabilité affectant TrueNAS CORE ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-truenas-core)| Une vulnérabilité critique affectant TrueNAS CORE  a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant non authentifié d’exécuter du code…| 31 décembre 2024|
- |[ 51682712/24 - Vulnérabilité critique dans Palo Alto PAN-OS ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-palo-alto-pan-os-0)| Palo Alto Networks a corrigée une faille de sécurité critique dans PAN-OS qui affecte la fonction « DNS Security ». L’exploitation de cette faille peut permettre à un attaquant non…| 27 décembre 2024|
- |[ 51672612/24 - Vulnérabilité critique dans Apache Traffic Control ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-traffic-control)| Apache Software Foundation a récemment publié une mise à jour de sécurité pour corriger une vulnérabilité critique ( 9.9 CVSS) au niveau d'Apache Traffic Control. L’exploitation de cette faille…| 26 décembre 2024|
- |[ 51662612/24 - Vulnérabilité critique dans le package « npm systeminformation » ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-le-package-npm-systeminformation)| Une vulnérabilité critique d'injection de commande a été corrigée dans le populaire package « npm systeminformation ». L’exploitation de cette faille pourrait permettre à un attaquant…| 26 décembre 2024|
- |[ 51652512/24 - Vulnérabilité critique affectant l’outil d’administration Webmin ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-loutil-dadministration-webmin)| Une vulnérabilité critique affectant l’outil d’administration Webmin a été corrigée. L’exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code…| 25 décembre 2024|
- |[ 51632412/24 - Vulnérabilité critique dans Adobe ColdFusion ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-adobe-coldfusion)| Adobe annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées d’adobe ColdFusion. L’exploitation de cette faille peut permettre à un attaquant de lire des fichiers…| 24 décembre 2024|
- |[ 51642412/24 - Vulnérabilité critique dans Apache Tomcat ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-tomcat)| Apache Software Foundation a récemment publié une mise à jour de sécurité corrigeant une vulnérabilité critique pour le serveur Tomcat. L’exploitation de cette faille pourrait permettre à un attaquant…| 24 décembre 2024|
- |[ 51612312/24 - Vulnérabilités dans Sophos Firewall ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-sophos-firewall)| Plusieurs vulnérabilités ont été corrigées dans Sophos Firewall. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et d’exécuter du code arbitraire à…| 23 décembre 2024|
- |[ 51602012/24 - Vulnérabilité critique dans les produits BeyondTrust ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-beyondtrust)| Une vulnérabilité critique a été corrigée dans les produits BeyondTrust Privileged Remote Access (PRA) et Remote Support (RS). L’exploitation de cette faille permet à un attaquant non authentifié…| 20 décembre 2024|
  
 
 # US-CERT
